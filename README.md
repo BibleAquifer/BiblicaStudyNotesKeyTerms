@@ -1,4 +1,4 @@
-# _Key Terms (Biblica)_ Aquifer Resource
+# _Biblica Key Terms_ Aquifer Resource
 
 This repository (`BiblicaStudyNotesKeyTerms`) contains Aquifer resource data with resource-level metadata, article-level metadata, and content files in JSON and Markdown formats.
 
