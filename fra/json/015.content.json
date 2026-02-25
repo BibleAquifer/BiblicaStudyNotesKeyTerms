@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133740,
+    "content_id": "133740",
     "reference_id": 108488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Naaman",
     "media_type": "Text",
     "index_reference": "naaman",
@@ -11,13 +11,71 @@
     "content": "<p>Un important commandant de l&apos;armée syrienne. Une jeune israélite était servante dans sa maison. Il a suivi le conseil de cette jeune fille et a demandé à Elisée de le guérir de sa maladie de peau. Au début, Naaman a refusé de suivre les instructions d&apos;Elisée. Mais lorsqu&apos;il s&apos;est fait humble et qu&apos;il a obéi, il a été guéri. Ensuite, il a cru en Dieu. De retour en Syrie, il n&apos;a adoré que Dieu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naaman",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.2",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.3",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.4",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naamah",
+          "type": "person",
+          "preferred_label": "Naama",
+          "confidence": 0.8856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naamah.2",
+          "type": "person",
+          "preferred_label": "Naama",
+          "confidence": 0.8856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Naamah",
+          "type": "place",
+          "preferred_label": "Naama",
+          "confidence": 0.8856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Naamah.2",
+          "type": "place",
+          "preferred_label": "Naamah",
+          "confidence": 0.8795,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133753,
+    "content_id": "133753",
     "reference_id": 108501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nabucodonosor",
     "media_type": "Text",
     "index_reference": "nabucodonosor",
@@ -26,13 +84,14 @@
     "content": "<p>Un roi de Babylone appartenant au peuple chaldéen. Dieu s&apos;est servi de lui pour exercer son jugement sur le royaume du Sud d&apos;Israël. En 586 av. J.-C., ses armées ont détruit Jérusalem et le temple. Le prophète Daniel a expliqué certains des rêves de Nabucodonosor. Ce roi adorait de faux dieux mais reconnaissait que le Dieu des juifs avait une autorité supérieure.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133608,
+    "content_id": "133608",
     "reference_id": 108356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nadab et Abihou",
     "media_type": "Text",
     "index_reference": "nadab et abihou",
@@ -41,13 +100,14 @@
     "content": "<p>Les fils aînés d&apos;Aaron et <span>Élichéba</span> de la tribu de Levi. Leurs frères étaient <span>Élazar et Itamar.</span> Ils étaient sur le mont Sinaï avec Moïse et Aaron lorsque Dieu a établi l&apos;alliance. Ils ont été consacrés comme prêtres. Ils ont désobéi à Dieu dans leur façon de conduire le peuple lors des célébrations cultuelles. Ils sont morts à cause de cela.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133341,
+    "content_id": "133341",
     "reference_id": 108089,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Naître de nouveau",
     "media_type": "Text",
     "index_reference": "naître de nouveau",
@@ -56,13 +116,14 @@
     "content": "<p>Une façon de décrire ce qui se passe lorsque les gens croient en Jésus en tant que Roi et Sauveur. Ils cessent de vivre comme des esclaves du péché. Être esclave du péché, cela équivaut à être mort spirituellement, même si le corps est vivant. Lorsque les gens font confiance à Jésus, il insuffle une nouvelle vie à leur esprit. Cette nouvelle naissance est une naissance spirituelle. Elle diffère de la naissance du corps d&apos;une personne. La nouvelle vie pour leur corps viendra plus tard, lorsque Dieu ressuscitera les gens d&apos;entre les morts.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133722,
+    "content_id": "133722",
     "reference_id": 108470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nathan",
     "media_type": "Text",
     "index_reference": "nathan",
@@ -71,13 +132,57 @@
     "content": "<p>Nathan était un prophète actif pendant le règne de David. Il était un conseiller proche de David et lui a transmis le message à propos des promesses de Dieu pour sa lignée de descendants. Il a confronté David à son péché lorsque celui-ci a commis des actes répréhensibles. Nathan a soutenu Salomon comme roi après David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nathan",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.2",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.3",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.4",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.5",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.6",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133323,
+    "content_id": "133323",
     "reference_id": 108071,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nazareth",
     "media_type": "Text",
     "index_reference": "nazareth",
@@ -86,13 +191,22 @@
     "content": "<p>La petite ville où Jésus a grandi dans la partie sud de la Galilée. Nazareth se trouve entre la mer de Galilée et la mer Méditerranée.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Nazareth",
+          "type": "place",
+          "preferred_label": "Nazareth",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133636,
+    "content_id": "133636",
     "reference_id": 108384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Naziréens",
     "media_type": "Text",
     "index_reference": "naziréens",
@@ -101,13 +215,22 @@
     "content": "<p>Les naziréens étaient des hommes et femmes qui voulaient se consacrer au service de Dieu. En hébreu, le mot <em>nazir </em>signifie &quot;être séparé&quot; ou &quot;mis à part&quot;. Dieu a ordonné à certains Israélites de se mettre à part pour le servir. D&apos;autres ont choisi de le faire et ont été appelés naziréens. Ils promettaient de servir Dieu pendant un certain temps. Ils devaient éviter l&apos;alcool et laisser pousser leurs cheveux. Ils devaient se tenir à l&apos;écart de tout ce qui était mort et de toute personne décédée. Ces signes montraient aux autres Israélites que les naziréens étaient entièrement dévoués à Dieu. À la fin de leur période de mise à part, ils faisaient la fête. Ils le faisaient en se rasant la tête et en offrant des sacrifices.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Nazirite",
+          "type": "group",
+          "preferred_label": "Nazirites",
+          "confidence": 0.8539,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133767,
+    "content_id": "133767",
     "reference_id": 108515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Néhémie",
     "media_type": "Text",
     "index_reference": "néhémie",
@@ -116,13 +239,36 @@
     "content": "<p>Néhémie était un juif qui est retourné à Jérusalem depuis Suse. Il était le fils de Hakalia et frère de Hanani. Il était un notable de confiance dans le gouvernement perse. Il était le goûteur de vin d&apos;Artaxerxès. Cela signifie qu&apos;il s&apos;assurait que la nourriture et le vin du roi n&apos;étaient pas empoisonnés. Il a servi deux fois en tant que gouverneur de Jérusalem, et a conduit les juifs à reconstruire le mur de Jérusalem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "Néhémie",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "Néhémie",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "Néhémie",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133340,
+    "content_id": "133340",
     "reference_id": 108088,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nicodème",
     "media_type": "Text",
     "index_reference": "nicodème",
@@ -131,13 +277,29 @@
     "content": "<p>Un dirigeant juif et un pharisien qui croyait en Jésus et le suivait en secret. Un soir, il a eu un entretien important avec lui. Lorsque Jésus est mort, Nicodème a aidé à préparer son corps pour la mise au tombeau.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nicodemus",
+          "type": "person",
+          "preferred_label": "Nicodème",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nicomedia",
+          "type": "place",
+          "preferred_label": "Nicomedia",
+          "confidence": 0.835,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133826,
+    "content_id": "133826",
     "reference_id": 108574,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ninive",
     "media_type": "Text",
     "index_reference": "ninive",
@@ -146,13 +308,29 @@
     "content": "<p>La capitale du gouvernement assyrien. Elle se trouvait sur le fleuve Tigre, dans le pays qui s&apos;appelle aujourd&apos;hui l&apos;Irak. Les habitants de cette ville étaient connus pour leur violence et leur cruauté. Le gouvernement babylonien a pris le contrôle de Ninive et du gouvernement assyrien en 612 av. J.-C.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Nineveh",
+          "type": "group",
+          "preferred_label": "Ninive",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "Ninive",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133482,
+    "content_id": "133482",
     "reference_id": 108230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Noé",
     "media_type": "Text",
     "index_reference": "noé",
@@ -161,13 +339,29 @@
     "content": "<p>Noé était le fils de Lémek dans la lignée de Seth. Il était le père de Sem, Cham et Japhet, et il était fidèle à Dieu. Il a été sauvé avec sa famille par Dieu lorsque la terre a été détruite pendant le déluge. Dieu a établi une alliance avec Noé.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Noah",
+          "confidence": 0.8653,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Noah.2",
+          "type": "person",
+          "preferred_label": "Noa",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133477,
+    "content_id": "133477",
     "reference_id": 108225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nom",
     "media_type": "Text",
     "index_reference": "nom",
@@ -176,13 +370,50 @@
     "content": "<p>À l&apos;époque de la Bible, les noms étaient très importants. Ils étaient bien plus qu&apos;un moyen de faire référence à une personne. Ils montraient qui elle était et évoquaient quelque chose de sa personnalité. Il en était de même avec le nom de Dieu. Ce que l&apos;on disait du nom de Dieu équivalait à une affirmation concernant Dieu lui-même. Faire confiance au nom de Dieu revenait à faire confiance à Dieu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naam",
+          "type": "person",
+          "preferred_label": "Naam",
+          "confidence": 0.9719,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Name",
+          "type": "keyterm",
+          "preferred_label": "nom",
+          "confidence": 0.9239,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nepheg",
+          "type": "person",
+          "preferred_label": "Népheg",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nepheg.2",
+          "type": "person",
+          "preferred_label": "Népheg",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elnaam",
+          "type": "person",
+          "preferred_label": "Elnaam",
+          "confidence": 0.8068,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133435,
+    "content_id": "133435",
     "reference_id": 108183,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nombres",
     "media_type": "Text",
     "index_reference": "nombres",
@@ -191,13 +422,22 @@
     "content": "<p>Dans le livre de l&apos;Apocalypse, les nombres ont une signification particulière. Ils ne signifient pas toujours le nombre exact qui est mentionné. Ils sont le symbole d&apos;une réalité spirituelle.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naam",
+          "type": "person",
+          "preferred_label": "Naam",
+          "confidence": 0.8235,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133780,
+    "content_id": "133780",
     "reference_id": 108528,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nouveau Testament",
     "media_type": "Text",
     "index_reference": "nouveau testament",
@@ -206,13 +446,14 @@
     "content": "<p>Les 27 derniers livres de la Bible. Le Nouveau Testament comprend les évangiles et un livre sur le début de l&apos;<span>É</span>glise. Il inclut également de nombreuses lettres et un livre d&apos;écriture apocalyptique.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133805,
+    "content_id": "133805",
     "reference_id": 108553,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nouvelle alliance",
     "media_type": "Text",
     "index_reference": "nouvelle alliance",
@@ -221,13 +462,14 @@
     "content": "<p>L&apos;ensemble des promesses que Dieu a faites aux membres de son peuple pour après leur retour de l&apos;exil. Cette alliance était promise pour une durée éternelle. Dieu a promis de les rendre capables de le suivre fidèlement. Pour ce faire, il pardonnerait leurs péchés et leur mauvaise conduite. Dieu a d&apos;abord annoncé la nouvelle alliance par l&apos;intermédiaire des prophètes Jérémie et Ezéchiel. Bien des années plus tard, c&apos;est Jésus qui l&apos;a proclamée. Jésus a donné sa vie en sacrifice pour sauver les gens du péché et de la mort. Il a ensuite été ressuscité des morts. C&apos;est ainsi que la nouvelle alliance est entrée en vigueur. Dans la nouvelle alliance, tous ceux qui font confiance à Jésus pour les sauver appartiennent au peuple de Dieu. Ils sont en règle avec lui. Le Saint-Esprit les rend capables de suivre Jésus et d&apos;obéir fidèlement à Dieu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133795,
+    "content_id": "133795",
     "reference_id": 108543,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nouvelle création",
     "media_type": "Text",
     "index_reference": "nouvelle création",
@@ -236,13 +478,14 @@
     "content": "<p>La nouvelle création fait référence au monde où Dieu aura restauré toutes choses. On l&apos;appelle aussi le nouveau ciel et la nouvelle terre, ainsi que &quot;le monde à venir&quot;. Il inclut tout ce que Dieu a créé. La nouvelle création adviendra quand Dieu aura pleinement remporté la bataille contre le mal. Jésus régnera complètement en tant que roi. Il ressuscitera ses fidèles d&apos;entre les morts et leur donnera de nouveaux corps. Ils jouiront de la vie éternelle avec Dieu pour toujours. Le corps de Jésus après sa résurrection a été le premier signe de la nouvelle création.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133801,
+    "content_id": "133801",
     "reference_id": 108549,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nouvelle Jérusalem",
     "media_type": "Text",
     "index_reference": "nouvelle jérusalem",
@@ -251,13 +494,22 @@
     "content": "<p>La nouvelle Jérusalem est la ville que Jean a vue dans les visions sur l&apos;avenir que Dieu lui a montrées. Ces visions ont été consignées dans le livre biblique de l&apos;Apocalypse. À Jérusalem en Israël, Dieu se manifestait dans le temple. Dans la nouvelle Jérusalem du futur, Dieu sera pleinement présent partout. Il vivra avec les êtres humains pour toujours. Il n&apos;y aura ni souffrance, ni mort, ni péché. La vie sera telle que Dieu l&apos;a toujours voulue pour sa création. La nouvelle Jérusalem est appelée l&apos;épouse de l&apos;Agneau, parce que tous les enfants de Dieu y vivront. Elle est également appelée la cité de Dieu et la Jérusalem céleste. Dans la nouvelle Jérusalem, Dieu régnera en tant que roi. Il partagera son autorité avec ses fidèles disciples.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jérusalem",
+          "confidence": 0.8263,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133573,
+    "content_id": "133573",
     "reference_id": 108321,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nuage",
     "media_type": "Text",
     "index_reference": "nuage",
@@ -266,13 +518,14 @@
     "content": "<p>Dieu a souvent fait connaître sa présence aux hommes par le biais d&apos;un nuage. C&apos;est ainsi qu&apos;il leur montre sa gloire. Dans l&apos;Ancien Testament, cela s&apos;est produit dans la colonne de nuée après la sortie d&apos;Égypte des Israélites. Cela s&apos;est produit sur le mont Sinaï, au-dessus de la tente de la rencontre et de l&apos;arche de l&apos;alliance. Cela s&apos;est produit dans le lieu saint du Temple et dans la vision d&apos;Ézéchiel du Temple. Dans le Nouveau Testament, cela s&apos;est produit avec Jésus, Pierre, Jacques et Jean sur la montagne, mais aussi lorsque Jésus est retourné auprès de son Père, et dans la vision du Fils de l&apos;homme de Jean. Cela se reproduira lorsque Jésus reviendra sur terre.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133418,
+    "content_id": "133418",
     "reference_id": 108166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nuée de témoins",
     "media_type": "Text",
     "index_reference": "nuée de témoins",
@@ -281,7 +534,8 @@
     "content": "<p>Désigne les personnes qui croient en Dieu et le servent avant de mourir. Ils sont les témoins de l&apos;existence de Dieu pendant leur vie sur Terre. Le terme &quot;nuée&quot; est une façon de les décrire en tant que groupe. Ces personnes sont mortes. Leurs exemples de foi en Dieu encouragent les croyants qui sont en vie. Leurs esprits attendent le moment où Dieu ressuscitera son peuple d&apos;entre les morts. Les personnes mentionnées dans le chapitre 11 de l&apos;épître aux Hébreux font partie de ces témoins.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

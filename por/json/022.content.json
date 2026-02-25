@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 145974,
+    "content_id": "145974",
     "reference_id": 108465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vergonha e honra",
     "media_type": "Text",
     "index_reference": "vergonha e honra",
@@ -11,13 +11,14 @@
     "content": "<p>Nos tempos e lugares da Bíblia, vergonha e honra eram muito importantes. As pessoas queriam evitar trazer vergonha para sua família, sua comunidade e seu grupo de pessoas. Todos em uma comunidade entendiam quais maneiras de falar e agir eram consideradas adequadas. Ir contra essas maneiras era como dizer não ao seu relacionamento com a comunidade. Isso trazia vergonha. Então essa pessoa não era respeitada. Eles frequentemente fugiam ou se escondiam. Alguém com mais autoridade poderia trazer essa pessoa de volta à comunidade. Era assim que a vergonha era removida. Em vez disso, as pessoas queriam trazer honra para sua família, comunidade e grupo de pessoas. A honra vinha ao fazer coisas que eram consideradas adequadas e dignas de respeito. Quanto mais honra alguém tinha, mais autoridade tinha na comunidade.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145858,
+    "content_id": "145858",
     "reference_id": 108349,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vestes sacerdotais",
     "media_type": "Text",
     "index_reference": "vestes sacerdotais",
@@ -26,13 +27,14 @@
     "content": "<p>Vestes especiais que os sacerdotes usavam quando trabalhavam na tenda sagrada ou no templo. As vestes incluíam mantos externos, mantos internos, roupas íntimas e um cinto. Incluíam um turbante com uma placa de ouro. As roupas do sumo sacerdote incluíam um avental de linho e um peitoral. O peitoral continha o Urim e Tumim. Estas eram pedras especiais que ajudavam o sacerdote a saber o que Deus queria que fosse feito. As roupas dos sacerdotes ajudavam a separar os sacerdotes para seu trabalho para Deus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145688,
+    "content_id": "145688",
     "reference_id": 108179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vestidos de branco",
     "media_type": "Text",
     "index_reference": "vestidos de branco",
@@ -41,13 +43,14 @@
     "content": "<p>Uma maneira de descrever quando as pessoas estão obedecendo a Deus. Na Bíblia, a cor branca é um sinal de coisas que são consideradas puras. As pessoas são puras quando fazem o que Deus quer que seja feito. Roupas brancas são um sinal disso. Em Apocalipse, as roupas das pessoas se tornam brancas ao serem lavadas no sangue do Cordeiro. Isso significa que as pessoas confiam em Jesus para salvá-las do poder do pecado.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 146078,
+    "content_id": "146078",
     "reference_id": 108569,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vida eterna",
     "media_type": "Text",
     "index_reference": "vida eterna",
@@ -56,13 +59,14 @@
     "content": "<p>Vida que não pode ser destruída pelo pecado ou pela morte. Esta vida durará para sempre. Jesus foi o primeiro ser humano a ter vida eterna. Esta é a vida que ele passou a ter quando Deus o ressuscitou dos mortos. Jesus dá esta vida a todos que creem nele e o seguem. Eles terão vida eterna na nova criação. É uma vida de paz e amizade com Deus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145553,
+    "content_id": "145553",
     "reference_id": 108044,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vida santa",
     "media_type": "Text",
     "index_reference": "vida santa",
@@ -71,13 +75,14 @@
     "content": "<p>Seguindo o exemplo de Jesus sobre como pensar, falar e agir. É assim que os crentes podem ser santos como Deus é santo. Existem muitas razões pelas quais Deus quer que seu povo viva vidas santas. Uma razão é que o Espírito Santo vive entre eles e neles. Outra razão é que viver de forma santa ajuda os membros da família de Deus a se tratarem bem. Isso os ajuda a sempre mostrar cuidado e amor uns pelos outros. Viver de forma santa mostra que os crentes foram libertados do poder do pecado e da morte. Isso os ajuda a espalhar a mensagem sobre Jesus entre os descrentes. O Espírito Santo torna possível que os crentes vivam de maneiras santas. Viver de forma santa também é chamado de vida piedosa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145805,
+    "content_id": "145805",
     "reference_id": 108296,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Visão",
     "media_type": "Text",
     "index_reference": "visão",
@@ -93,6 +98,15 @@
           "resource_code": "BiblicaStudyNotesKeyTerms",
           "label": "Mundo celestial",
           "language": "por"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Vision",
+          "type": "keyterm",
+          "preferred_label": "vision",
+          "confidence": 0.8847,
+          "match_method": "embedding"
         }
       ]
     }

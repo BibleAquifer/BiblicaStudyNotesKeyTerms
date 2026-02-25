@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232828,
+    "content_id": "232828",
     "reference_id": 108227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "禱告",
     "media_type": "Text",
     "index_reference": "禱告",
@@ -11,7 +11,16 @@
     "content": "<p>與神交談和聆聽神的行為。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Pray",
+          "type": "keyterm",
+          "preferred_label": "Pray",
+          "confidence": 0.8682,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

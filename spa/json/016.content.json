@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232071,
+    "content_id": "232071",
     "reference_id": 108102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pablo",
     "media_type": "Text",
     "index_reference": "pablo",
@@ -11,13 +11,22 @@
     "content": "<p>Un creyente judío de la tribu de Benjamín que era de la ciudad de Tarso. En idioma hebreo se llamaba Saulo. En idioma griego se llamaba Pablo. Era ciudadano romano. Para ganar dinero, hacía tiendas. Durante muchos años fue un fariseo comprometido. Intentó detener el crecimiento de la iglesia. Después de que Jesús se le apareció, comenzó a difundir las buenas nuevas sobre Jesús. Pablo fue un apóstol. El Nuevo Testamento incluye muchas cartas que él escribió.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Pablo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232206,
+    "content_id": "232206",
     "reference_id": 108237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pacto",
     "media_type": "Text",
     "index_reference": "pacto",
@@ -26,13 +35,22 @@
     "content": "<p>Un acuerdo o conjunto de promesas como un tratado. Dos personas o grupos hacían un acuerdo en que uno tenía más poder que el otro. El que tenía menos poder recibiría una recompensa por obedecer el tratado o pacto. La recompensa eran las bendiciones del pacto. Si no obedecían el tratado o pacto, ocurrirían las maldiciones del pacto. Las personas o grupos que hacían un pacto compartirían una comida o harían un sacrificio. Escribirían su acuerdo ante testigos y cada uno conservaría una copia. Así es como se ponían en efecto los pactos. En la Biblia, los pactos eran generalmente entre Dios y su pueblo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "pacto",
+          "confidence": 0.8321,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232222,
+    "content_id": "232222",
     "reference_id": 108253,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pacto con Abraham",
     "media_type": "Text",
     "index_reference": "pacto con abraham",
@@ -41,13 +59,14 @@
     "content": "<p>Dios eligió trabajar a través de Abraham y su familia en su plan para salvar al mundo, y lo mostró haciendo un pacto con Abraham. Abraham era responsable por hacer ciertas cosas en el pacto. Él debía dejar la tierra y el pueblo de su padre e ir a la tierra de Canaán. Debía ser fiel a Dios y todo varón entre su familia debía ser circuncidado. La circuncisión era la señal del pacto. Como parte del pacto, Dios prometió hacer ciertas cosas también. Dios le daría a Abraham y a su esposa Sara un hijo. Por medio de ese hijo, Dios haría de la familia de Abraham que vino después de él una gran nación y les daría la tierra de Canaán para vivir. Dios bendeciría a Abraham y a su familia de muchas maneras. A través de ellos, Dios bendeciría a todas las naciones y grupos de personas en la tierra. Dios prometió ser fiel a su pacto con la familia de Abraham para siempre. Jesús era de la línea familiar de Abraham y todas las personas y naciones en la tierra fueron bendecidas a través de Jesús. Así es como la promesa de Dios a Abraham se cumplió por completo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232435,
+    "content_id": "232435",
     "reference_id": 108466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pacto con David",
     "media_type": "Text",
     "index_reference": "pacto con david",
@@ -64,13 +83,14 @@
           "label": "David",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232207,
+    "content_id": "232207",
     "reference_id": 108238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pacto con Noé",
     "media_type": "Text",
     "index_reference": "pacto con noé",
@@ -79,13 +99,14 @@
     "content": "<p>Dios eligió trabajar a través de Noé y su familia en su plan para salvar el mundo, y lo mostró haciendo un pacto con ellos y todos los niños nacidos después de ellos. El pacto también fue con todas las criaturas que estaban en el arca, con toda la vida en la tierra. Los seres humanos y los animales debían llenar la tierra y ningún ser humano debía ser asesinado. Dios prometió no maldecir nunca más la tierra y prometió no destruir nunca más toda la vida en la tierra con un diluvio. El arcoiris fue la señal del pacto.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232297,
+    "content_id": "232297",
     "reference_id": 108328,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pacto del Monte Sinaí",
     "media_type": "Text",
     "index_reference": "pacto del monte sinaí",
@@ -94,13 +115,14 @@
     "content": "<p>Dios eligió utilizar al pueblo de Israel en su plan para salvar al mundo. Dios demostró esto haciendo un pacto con la línea familiar de Jacob. El pacto fue con aquellos a quienes Dios había salvado de ser esclavos en Egipto. También fue con todos los israelitas que nacerían después de ellos. El pueblo debía obedecer los Diez Mandamientos y las otras leyes que Dios le dio a Moisés. Dios les daría salud, seguridad, paz y muchos hijos mientras vivieran en Canaán. Les daría suficiente para comer y beber. Los haría un reino de sacerdotes y una nación santa. La circuncisión y el día del Señor eran las señales del pacto. Dios hizo este pacto con su pueblo en el Monte Sinaí. Moisés fue el intermediario del pacto.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232281,
+    "content_id": "232281",
     "reference_id": 108312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Padre",
     "media_type": "Text",
     "index_reference": "padre",
@@ -109,13 +131,22 @@
     "content": "<p>Un nombre para Dios. El Padre es Dios al igual que Jesús es Dios y el Espíritu Santo es Dios. Son las tres personas del único Dios. Dios se mostró como el Padre de Israel durante el éxodo y llamó a Israel su hijo. Más tarde, Dios se mostró como el Padre de Jesús. Jesús muestra que Dios es el Padre de todos los que forman parte de la familia de Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:GenericFather",
+          "type": "person",
+          "preferred_label": "A Father",
+          "confidence": 0.8154,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232025,
+    "content_id": "232025",
     "reference_id": 108056,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Parábolas",
     "media_type": "Text",
     "index_reference": "parábolas",
@@ -124,13 +155,14 @@
     "content": "<p>Historias que Jesús contó para ayudar a las personas a entender los caminos y el reino de Dios. Las historias usaban eventos, lugares y acciones de la vida real de las personas. Generalmente tenían un punto principal.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232247,
+    "content_id": "232247",
     "reference_id": 108278,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pastor",
     "media_type": "Text",
     "index_reference": "pastor",
@@ -139,13 +171,22 @@
     "content": "<p>Alguien que cuida ovejas u otro ganado. En el Antiguo Testamento, Abraham y muchos en su línea familiar eran pastores. Viajaban de un lugar a otro para encontrar pasto para sus rebaños. Es también una manera de hablar sobre líderes que cuidan de otras personas. Los líderes de Israel a menudo eran descritos como malos pastores. Dios era el buen pastor para su pueblo. En el Nuevo Testamento, los líderes de la iglesia deben ser pastores de los seguidores de Jesús. Jesús mismo es el buen pastor del pueblo de Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:GenericPriest",
+          "type": "person",
+          "preferred_label": "A Priest",
+          "confidence": 0.8267,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232140,
+    "content_id": "232140",
     "reference_id": 108171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Patmos",
     "media_type": "Text",
     "index_reference": "patmos",
@@ -154,13 +195,22 @@
     "content": "<p>Una pequeña isla griega donde pocas personas vivían. Está en el Mar Egeo cerca del Mar Mediterráneo. El gobierno romano controlaba la isla y enviaba prisioneros allí.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Patmos",
+          "type": "place",
+          "preferred_label": "Patmos",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232256,
+    "content_id": "232256",
     "reference_id": 108287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Patriarca",
     "media_type": "Text",
     "index_reference": "patriarca",
@@ -169,13 +219,14 @@
     "content": "<p>El líder masculino con mayor autoridad en un grupo. Este solía ser el varón mayor de una familia. Entre el pueblo de Israel, los líderes importantes y los reyes eran llamados patriarcas. Eran considerados los fundadores de la nación de Israel. Esto incluía a Abraham, Isaac, Jacob y sus hijos, Moisés y el Rey David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232180,
+    "content_id": "232180",
     "reference_id": 108211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paz",
     "media_type": "Text",
     "index_reference": "paz",
@@ -184,13 +235,22 @@
     "content": "<p>La palabra para paz en el idioma hebreo es shalom. Significa más que un tiempo sin peleas o guerras. Significa que hay seguridad, salud y justicia. Significa que todos tienen lo suficiente de lo que necesitan. Significa que las relaciones son completas y saludables. Son como Dios quiere que sean. Esto incluye que cada persona está en paz con Dios. También incluye las relaciones entre las personas y todo lo demás que Dios creó.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:IntactState",
+          "type": "keyterm",
+          "preferred_label": "paz",
+          "confidence": 0.8639,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232164,
+    "content_id": "232164",
     "reference_id": 108195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pecado",
     "media_type": "Text",
     "index_reference": "pecado",
@@ -199,13 +259,14 @@
     "content": "<p>Pensamientos, palabras, acciones o deseos que van en contra de lo que Dios quiere. Estos hacen daño a la persona, a otros y al resto de la creación. El pecado entró en el mundo cuando Adán y Eva desobedecieron a Dios. El pecado destruyó la paz entre Dios y los seres humanos. Destruyó la paz entre los seres humanos y la paz entre todo lo que Dios creo. El pecado trae muerte. Mantiene a los seres humanos separados de Dios. La Biblia describe el pecado como un amo y a los seres humanos como sus esclavos. El pecado es malvado. Jesús es el único suficientemente poderoso para destruir el poder del pecado. Solo Jesús puede liberar a los humanos del pecado.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232541,
+    "content_id": "232541",
     "reference_id": 108572,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pedro",
     "media_type": "Text",
     "index_reference": "pedro",
@@ -214,13 +275,22 @@
     "content": "<p>Un pescador de Betsaida que vivía en Cafarnaúm. Andrés era su hermano. Pedro se convirtió en uno de los 12 discípulos de Jesús y fue uno de los tres seguidores más cercanos de Jesús. También fue llamado Simón, Simón Pedro y Cefas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "Pedro",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232344,
+    "content_id": "232344",
     "reference_id": 108375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pentecostés",
     "media_type": "Text",
     "index_reference": "pentecostés",
@@ -229,13 +299,14 @@
     "content": "<p>La fiesta judía 50 días después de la fiesta de las primicias (primera parte de la cosecha). Se llamaba la Fiesta de las Semanas o Pentecostés. La gente ofrecía sacrificios a Dios y le agradecía por la cosecha. Los varones israelitas debían viajar al tabernáculo o templo sagrado para esta fiesta. También es la fiesta cuando el Espíritu Santo vino a los seguidores de Jesús por primera vez. Esto ocurrió 50 días después de la resurrección de Jesús.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232250,
+    "content_id": "232250",
     "reference_id": 108281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Perdonar",
     "media_type": "Text",
     "index_reference": "perdonar",
@@ -244,13 +315,14 @@
     "content": "<p>Varias palabras de los idiomas hebreo y griego se usan en la Biblia para la palabra perdón. Estas palabras describen de muchas maneras lo que significa perdonar y ser perdonado. Una deuda de dinero puede ser perdonada, lo que significa que la persona que debe dinero ya no tiene que devolverlo. El pecado puede ser perdonado y Dios es quien perdona el pecado. Esto significa que Dios reconoce qué pecado se ha cometido y qué persona o grupo de personas es culpable de ese pecado. La culpa es como un gran peso que Dios retira de alguien cuando perdona. Dios elimina la culpa de la persona o grupo, como si tomara el pecado y lo soltara en algún lugar lejano. Dios elige no traer juicio contra la persona o grupo debido a su pecado y siempre está listo para perdonarle a las personas los pecados. Esto es porque él está lleno de misericordia y amor y quiere que todas las personas y pueblos se aparten del pecado, quiere que le pidan que los perdone. Dios también quiere que todas las personas y todos los grupos de personas sigan su ejemplo, que se perdonen unos a otros por sus pecados.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232134,
+    "content_id": "232134",
     "reference_id": 108165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Perfecto",
     "media_type": "Text",
     "index_reference": "perfecto",
@@ -259,13 +331,14 @@
     "content": "<p>La palabra para perfecto en el idioma griego significa completo o terminado. Significa que no falta nada y que algo ha alcanzado su pleno crecimiento.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232145,
+    "content_id": "232145",
     "reference_id": 108176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pérgamo",
     "media_type": "Text",
     "index_reference": "pérgamo",
@@ -274,13 +347,22 @@
     "content": "<p>Una ciudad importante en el territorio romano de Asia cerca del mar Egeo. Era un centro de adoración al gobernante romano César y a los falsos dioses romanos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Pergamum",
+          "type": "place",
+          "preferred_label": "Pérgamo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232478,
+    "content_id": "232478",
     "reference_id": 108509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Persia",
     "media_type": "Text",
     "index_reference": "persia",
@@ -289,13 +371,22 @@
     "content": "<p>Un reino en la región ahora conocida como Irán. Se convirtió en un gobierno poderoso que dominó sobre muchas otras naciones y grupos de personas. Muchos persas eran del grupo de personas llamado Medos. Susa era una de las ciudades capitales. Ciro, Darío, Jerjes y Artajerjes fueron reyes de Persia. El gobierno griego tomó el control del gobierno persa en 333 a.C.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Persia",
+          "type": "group",
+          "preferred_label": "persa",
+          "confidence": 0.8357,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232494,
+    "content_id": "232494",
     "reference_id": 108525,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Personas impías",
     "media_type": "Text",
     "index_reference": "personas impías",
@@ -304,13 +395,14 @@
     "content": "<p>Personas que no viven de la manera en que Dios quiere que los seres humanos vivan. No aman, adoran ni obedecen a Dios. Adoran a falsos dioses. Intentan obtener lo mejor para sí mismos y no sirven a otros. También intentan hacer que otros dejen de ser fieles a Dios y a sus caminos. Dios quiere que las personas impías se aparten del pecado y se reconcilien con él. Dios resucitará a las personas impías. Él los juzgará.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232387,
+    "content_id": "232387",
     "reference_id": 108418,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Personas necesitadas",
     "media_type": "Text",
     "index_reference": "personas necesitadas",
@@ -319,13 +411,14 @@
     "content": "<p>En el Antiguo Testamento, las personas necesitadas eran aquellas que no tenían tierra para cultivar. Sin tierra, no podían cultivar alimentos ni tener ganado. Los forasteros y las viudas eran personas necesitadas. También lo eran los niños cuyos padres habían muerto. Las personas también eran necesitadas si tenían tierra pero no tenían éxito en la agricultura. En el Nuevo Testamento, cualquiera que fuera pobre o necesitara ayuda se consideraba necesitado.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232060,
+    "content_id": "232060",
     "reference_id": 108091,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Piscina de Betesda",
     "media_type": "Text",
     "index_reference": "piscina de betesda",
@@ -334,13 +427,14 @@
     "content": "<p>Una piscina de agua en Jerusalén. En el idioma arameo, Bethesda significa casa de misericordia. El agua de la piscina se usaba en el templo. Muchas personas creían que el agua de la piscina curaría sus enfermedades.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232173,
+    "content_id": "232173",
     "reference_id": 108204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Poema",
     "media_type": "Text",
     "index_reference": "poema",
@@ -349,13 +443,14 @@
     "content": "<p>Una forma de hablar o escribir que puede ser como cantar. A menudo, los poemas no describen las cosas de manera directa. Crean imágenes y simbolos con palabras. Estos ayudan a las personas a entender lo que el locutor o escritor está diciendo. Los poemas describen una cosa explicando cómo esta es similar a otra cosa. La Biblia incluye muchos poemas escritos en hebreo. Muchos de estos se hablaban y escribían de a dos líneas a la vez. La primera línea compartía una idea. Luego, la segunda línea completaba esa idea. Lo hacía compartiendo nuevamente la misma idea de una manera original o diferente. Esto ayudaba a las personas a entender y recordar lo que el locutor o escritor quería decir.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232502,
+    "content_id": "232502",
     "reference_id": 108533,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Poema Alfabético",
     "media_type": "Text",
     "index_reference": "poema alfabético",
@@ -372,13 +467,14 @@
           "label": "Poema",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232343,
+    "content_id": "232343",
     "reference_id": 108374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Primera parte de las cosechas",
     "media_type": "Text",
     "index_reference": "primera parte de las cosechas",
@@ -387,13 +483,14 @@
     "content": "<p>Los israelitas debían hacer una ofrenda de la primera parte de sus cosechas (primicias). Hacían esto al comienzo de la cosecha durante la fiesta de los panes sin levadura. Esto les recordaba que la tierra y lo que producía pertenecían a Dios, que él les proporcionaba todo lo que necesitaban.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232368,
+    "content_id": "232368",
     "reference_id": 108399,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Profecía",
     "media_type": "Text",
     "index_reference": "profecía",
@@ -402,13 +499,14 @@
     "content": "<p>Un anuncio sobre lo que Dios quiere que se haga o sobre lo que va a suceder. Estos mensajes vienen de Dios o de la palabra de Dios. Son expresados por profetas y esto se llama profetizar. Antes del tiempo de Jesús fueron escritas las profecías de muchos profetas. Fueron incluidas en el Antiguo Testamento. En conjunto se les llama los Profetas. El Espíritu Santo hace que algunas personas puedan profetizar. Los mensajes deben compartirse de manera ordenada para que la gente pueda entender. Se comparten para ayudar a las personas que no conocen a Dios a convertirse a Dios. Se comparten para animar a las personas que ya siguen a Dios. Se comparten para ayudar a las personas a entender cómo obedecer fielmente a Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232369,
+    "content_id": "232369",
     "reference_id": 108400,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Profecías sobre Jesús",
     "media_type": "Text",
     "index_reference": "profecías sobre jesús",
@@ -425,13 +523,14 @@
           "label": "Salvador",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232385,
+    "content_id": "232385",
     "reference_id": 108416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Profeta",
     "media_type": "Text",
     "index_reference": "profeta",
@@ -448,13 +547,14 @@
           "label": "Falso profeta",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232339,
+    "content_id": "232339",
     "reference_id": 108370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prójimo",
     "media_type": "Text",
     "index_reference": "prójimo",
@@ -471,13 +571,14 @@
           "label": "Extranjero ",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232504,
+    "content_id": "232504",
     "reference_id": 108535,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prostituta",
     "media_type": "Text",
     "index_reference": "prostituta",
@@ -486,13 +587,29 @@
     "content": "<p>Una persona que tiene relaciones sexuales con otros a cambio de algún tipo de pago. Algunas personas son prostitutas porque no tienen otra opción. Esto sucede con esclavos o personas que viven bajo el control de alguien. Algunas personas eligen ser prostitutas. Es su forma de ganar dinero. Los escritores en la Biblia hablan de personas que eligen ser prostitutas. Son un símbolo para personas o grupos que intentan hacer que otros pequen. También son un símbolo de no ser fieles al adorar solo a Dios. El matrimonio es la forma en que la Biblia describe la relación de Dios con su pueblo. Cuando su pueblo sirve a otros dioses, es como ser infieles en el matrimonio. Es como ser una prostituta con falsos dioses. Dios no quiere que ningún ser humano sea una prostituta con su cuerpo. Tampoco quiere que adoren a nada ni a nadie más que a él.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:FirstProstitute",
+          "type": "person",
+          "preferred_label": "Prostitute",
+          "confidence": 0.9796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:SecondProstitute",
+          "type": "person",
+          "preferred_label": "Prostitute",
+          "confidence": 0.9796,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232417,
+    "content_id": "232417",
     "reference_id": 108448,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Protector de la familia",
     "media_type": "Text",
     "index_reference": "protector de la familia",
@@ -501,13 +618,14 @@
     "content": "<p>Un pariente varón cercano que era responsable de ayudar a los miembros necesitados de la familia. Otro nombre para esto es redentor. El protector de la familia podía pagar las deudas de los miembros pobres de la familia y podía recomprar la propiedad que habían vendido. Podía pagar para liberarlos a ellos o a sus hijos de trabajar como sirvientes y podía cumplir con el deber del cuñado por la viuda de su hermano. El protector de la familia era una imagen de cómo Dios cuidaba de Israel. Dios era como el protector de la familia que rescataba a los israelitas cuando estaban en necesidad. El protector de la familia también es una imagen de lo que hace Jesús, que es como el protector de la familia que rescata a los pecadores que están en necesidad, redime a todos los que confían en él y los rescata del poder del pecado, la muerte y el mal.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232500,
+    "content_id": "232500",
     "reference_id": 108531,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Proverbio",
     "media_type": "Text",
     "index_reference": "proverbio",
@@ -516,13 +634,14 @@
     "content": "<p>Un dicho corto y sabio. Los proverbios existen cuando una persona o una comunidad estudia la vida en el mundo. Mientras estudian, aprenden lecciones y notan patrones. Estos patrones son sobre cómo funciona la vida en el mundo. La persona o comunidad ponen estas lecciones y patrones en palabras como un poema corto. Los proverbios se transmiten dentro de familias y comunidades durante cientos de años. Un proverbio no es una promesa de que la vida siempre funciona según el patrón que se describe.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232232,
+    "content_id": "232232",
     "reference_id": 108263,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prueba",
     "media_type": "Text",
     "index_reference": "prueba",
@@ -531,13 +650,22 @@
     "content": "<p>Momentos en los que las personas deben tomar una decisión difícil. Deben elegir entre obedecer a Dios o hacer lo que quieren hacer. La elección que hacen muestra si confían en que Dios les proporcionará lo que necesitan. El propósito detrás de la prueba no es hacer que las personas cometan errores o sufran. El propósito es que reciban más gracia de Dios. Dios prueba a las personas para ayudar a que su fe en él se fortalezca.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Proof",
+          "type": "keyterm",
+          "preferred_label": "prueba",
+          "confidence": 0.8807,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232332,
+    "content_id": "232332",
     "reference_id": 108363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Puro o impuro",
     "media_type": "Text",
     "index_reference": "puro o impuro",
@@ -554,13 +682,14 @@
           "label": "Puro o impuro",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232333,
+    "content_id": "232333",
     "reference_id": 108364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Puro o impuro",
     "media_type": "Text",
     "index_reference": "puro o impuro",
@@ -577,7 +706,8 @@
           "label": "Puro o impuro",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 193356,
+    "content_id": "193356",
     "reference_id": 108274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Лаван",
     "media_type": "Text",
     "index_reference": "лаван",
@@ -11,13 +11,36 @@
     "content": "<p>Сын Вафуила и брат Ревекки из Месопотамии. Лаван был отцом Рахили и Лии. В течение долгого времени он обманывал Иакова и использовал его в своих корыстных целях.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Laban",
+          "type": "person",
+          "preferred_label": "Лаван",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Laban",
+          "type": "place",
+          "preferred_label": "Лаван",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Lebanon",
+          "type": "place",
+          "preferred_label": "Ливан",
+          "confidence": 0.8243,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193244,
+    "content_id": "193244",
     "reference_id": 108162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Лаодикия",
     "media_type": "Text",
     "index_reference": "лаодикия",
@@ -26,13 +49,22 @@
     "content": "<p><span>Город в одной из римских провинций, расположенной в Малой Асии, которая сегодня называется Турцией. Лаодикия находилась недалеко от города Колоссы. Здесь проповедовал об Иисусе </span>Епафрас<span>, чем помог основать церковь. Одно из посланий Павла было адресовано Лаодикийской церкви, но оно не сохранилось. Церковь в Лаодикии была одной из семи церквей, о которых говорится в Книге Откровение.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Laodicea",
+          "type": "place",
+          "preferred_label": "Лаодикия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193465,
+    "content_id": "193465",
     "reference_id": 108383,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Левий",
     "media_type": "Text",
     "index_reference": "левий",
@@ -41,13 +73,43 @@
     "content": "<p>Левий был сыном Иакова и Лии. Имя <span>Левий в переводе с древнееврейского языка означает «прилепится». </span>Род Левия стал одним из колен Израиля. Все священники в Израиле происходили из колена Левия.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Levi",
+          "type": "group",
+          "preferred_label": "Левий",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi",
+          "type": "person",
+          "preferred_label": "Левий",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.2",
+          "type": "person",
+          "preferred_label": "Левий",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.3",
+          "type": "person",
+          "preferred_label": "Левий",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193425,
+    "content_id": "193425",
     "reference_id": 108343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Левиты",
     "media_type": "Text",
     "index_reference": "левиты",
@@ -64,13 +126,14 @@
           "label": "Священник",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193632,
+    "content_id": "193632",
     "reference_id": 108550,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Лжепророк",
     "media_type": "Text",
     "index_reference": "лжепророк",
@@ -87,13 +150,14 @@
           "label": "Пророк",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193141,
+    "content_id": "193141",
     "reference_id": 108059,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Лидер, который служит",
     "media_type": "Text",
     "index_reference": "лидер, который служит",
@@ -102,13 +166,14 @@
     "content": "<p><span>Иисус является примером того, как каждый человек должен относиться к другим людям. </span>Это касается и людей, наделённых властью, силой и почётом<span>. Речь идёт о любом виде лидерства. </span></p><p><span>Иисус — Царь всего, что создал Бог. Он пришёл на землю, чтобы послужить людям и показать им Божью любовь. Иисус не использовал Свою силу и власть для того, чтобы заставить людей делать то, что Он хотел. И Он не требовал, чтобы люди относились к Нему как к кому-то более важному из всех. Напротив, Иисус был смирённым и проявлял заботу о каждом человеке. Иисус отдал Свою жизнь, чтобы показать людям, как сильно Бог любит их. </span></p><p><span>Все верующие должны подражать Иисусу в Его любви к ближним и служении им. Святой Дух наделяет верующих различными дарами, которые они могут использовать для служения другим людям. Когда верующие служат людям, они таким образом служат Самому Иисусу.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193198,
+    "content_id": "193198",
     "reference_id": 108116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Листра",
     "media_type": "Text",
     "index_reference": "листра",
@@ -117,13 +182,22 @@
     "content": "<p>Город, который находился в Галатии (<span>одной из римских провинций, расположенной в</span> Малой Асии). Павел посещал Листру каждый раз, когда совершал свои миссионерские путешествия. Здесь он проповедовал об Иисусе. Сотрудник Павла Тимофей был родом из Листры. Считается, что <span>Послание к Галатам, написанное апостолом Павлом, было прочитано</span> верующим города Листры.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Lystra",
+          "type": "place",
+          "preferred_label": "Листра",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193357,
+    "content_id": "193357",
     "reference_id": 108275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Лия",
     "media_type": "Text",
     "index_reference": "лия",
@@ -132,13 +206,36 @@
     "content": "<p>Лия была старшей дочерью Лавана и первой женой Иакова. Её сестрой была Рахиль, а Зелфа <span>— служанкой. Лия стала матерью </span>Рувима, Симеона, Левия, Иуды, Иссахара, Завулона и Дины.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "Лия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Lydia",
+          "type": "person",
+          "preferred_label": "Лидия",
+          "confidence": 0.8555,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Lysias",
+          "type": "person",
+          "preferred_label": "Лисий",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193330,
+    "content_id": "193330",
     "reference_id": 108248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Лот",
     "media_type": "Text",
     "index_reference": "лот",
@@ -147,13 +244,36 @@
     "content": "<p>Лот был внуком Фарры и племянником Авраама. Он пошёл вместе с Авраамом и Саррой в землю Ханаан. Впоследствии Лот захотел поселиться в долине реки Иордан, где находился город Содом. Жена Лота погибла во время уничтожения Содома и Гоморры. Моавитяне и аммонитяне произошли от Лота.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "Лота",
+          "confidence": 0.8909,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Lotan",
+          "type": "person",
+          "preferred_label": "Лотан",
+          "confidence": 0.8517,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Lod",
+          "type": "place",
+          "preferred_label": "Лод",
+          "confidence": 0.8278,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193160,
+    "content_id": "193160",
     "reference_id": 108078,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Лука",
     "media_type": "Text",
     "index_reference": "лука",
@@ -162,13 +282,22 @@
     "content": "<p>Автор Евангелия от Луки<span> </span>и Книги Деяния. Лука был врачом, который путешествовал с Павлом и трудился вместе с ним.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Luke",
+          "type": "person",
+          "preferred_label": "Лука",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193437,
+    "content_id": "193437",
     "reference_id": 108355,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Любовь к Богу",
     "media_type": "Text",
     "index_reference": "любовь к богу",
@@ -177,13 +306,22 @@
     "content": "<p><span>Бог создал людей, чтобы они получали Его любовь и отвечали Ему тем же. Божья любовь меняет людей и делает их способными любить. Любовь к Богу — это не только чувство, но также выбор, на основании которого люди совершают определённые поступки и принимают конкретные решения. Самым главным таким решением становится послушание Богу. Любовь к Богу заключается в соблюдении Его заповедей. Этому учит как ветхозаветный Закон Моисея, так и новозаветные заповеди Иисуса.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:LovingGod",
+          "type": "keyterm",
+          "preferred_label": "Loving God",
+          "confidence": 0.8918,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193284,
+    "content_id": "193284",
     "reference_id": 108202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Люди",
     "media_type": "Text",
     "index_reference": "люди",
@@ -192,7 +330,8 @@
     "content": "<p>Бог создал всех людей по Своему образу и подобию. Он хотел, чтобы люди жили вечно в полном единстве с Ним. Он также желал, чтобы люди жили в мире друг с другом и со всем остальным Его творением. Но Адам и Ева совершили грех. С тех пор зло и смерть получили власть над людьми. Все люди совершают грех, и все они умирают.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232867,
+    "content_id": "232867",
     "reference_id": 108266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "利百加",
     "media_type": "Text",
     "index_reference": "利百加",
@@ -11,13 +11,14 @@
     "content": "<p>她是美索不達米亞的彼土利的女兒，拉班的妹妹。她嫁給以撒，成為雅各和以掃的母親。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232984,
+    "content_id": "232984",
     "reference_id": 108383,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "利未",
     "media_type": "Text",
     "index_reference": "利未",
@@ -26,13 +27,14 @@
     "content": "<p>雅各和利亞的兒子。在希伯來文中，利未的意思是聯合（attached）。他的家族成為以色列的一個支派。以色列所有的祭司都來自利未的家族。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232963,
+    "content_id": "232963",
     "reference_id": 108362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "利未記的律法",
     "media_type": "Text",
     "index_reference": "利未記的律法",
@@ -41,13 +43,14 @@
     "content": "<p>神賜給摩西和亞倫有關以色列人如何共同生活的律法。許多是關於當時可能發生的事情的一般規則。這些律法是為了幫助人們了解神的本性。這些律法幫助他們在日常事務中做出明智的決定。神的子民應該根據神的本性來做所有的決定。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232944,
+    "content_id": "232944",
     "reference_id": 108343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "利未人",
     "media_type": "Text",
     "index_reference": "利未人",
@@ -64,13 +67,14 @@
           "label": "祭司",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232876,
+    "content_id": "232876",
     "reference_id": 108275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "利亞",
     "media_type": "Text",
     "index_reference": "利亞",
@@ -79,7 +83,16 @@
     "content": "<p>拉班的長女和雅各的第一任妻子。拉結是她的妹妹，悉帕是她的僕人。她是流便、西緬、利未、猶大、以薩迦、西布倫和底拿的母親。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "Leah",
+          "confidence": 0.8333,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

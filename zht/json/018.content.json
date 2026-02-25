@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 233047,
+    "content_id": "233047",
     "reference_id": 108446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大袞",
     "media_type": "Text",
     "index_reference": "大袞",
@@ -11,13 +11,14 @@
     "content": "<p>迦南及其周邊地區的族群所敬拜的假神。在希伯來文中，<span>大袞</span>這個詞的意思是穀物。<span>大袞</span>被認為是巴力的父親。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232969,
+    "content_id": "232969",
     "reference_id": 108368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大祭司",
     "media_type": "Text",
     "index_reference": "大祭司",
@@ -26,13 +27,14 @@
     "content": "<p>以色列擁有最高權柄的宗教領袖。大祭司必須是來自利未支派的男性。他必須是亞倫的後裔。大祭司要像摩西一樣教導百姓。他在神的會幕和後來的聖殿中有特別的職責。只有大祭司被允許進入至聖所。他告訴百姓神要他們做什麼。他也為以色列的罪獻祭以求得赦免。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233046,
+    "content_id": "233046",
     "reference_id": 108445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大利拉",
     "media_type": "Text",
     "index_reference": "大利拉",
@@ -41,13 +43,14 @@
     "content": "<p>參孫愛上的一個非利士女人。非利士領袖利用她來得知參孫驚人力量的秘密。參孫對她撒謊了三次。但大利拉不斷哀求，直到參孫最終告訴她真相。她將參孫交給領袖，因而獲得金錢。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233113,
+    "content_id": "233113",
     "reference_id": 108512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大流士",
     "media_type": "Text",
     "index_reference": "大流士",
@@ -56,13 +59,14 @@
     "content": "<p>波斯的一位國王，也被稱為大流士大帝或大流士一世。神使用他為器皿。大流士允許猶太人重建聖殿。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233141,
+    "content_id": "233141",
     "reference_id": 108540,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大馬士革",
     "media_type": "Text",
     "index_reference": "大馬士革",
@@ -71,13 +75,14 @@
     "content": "<p>北國以色列的首都。它位於現在的敘利亞。過去有許多年間它是亞蘭人的城市，在耶路撒冷以北約300公里。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233050,
+    "content_id": "233050",
     "reference_id": 108449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大衛",
     "media_type": "Text",
     "index_reference": "大衛",
@@ -94,13 +99,22 @@
           "label": "大衛之約",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "David",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232653,
+    "content_id": "232653",
     "reference_id": 108052,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大衛的子孫",
     "media_type": "Text",
     "index_reference": "大衛的子孫",
@@ -117,13 +131,14 @@
           "label": "大衛",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 233067,
+    "content_id": "233067",
     "reference_id": 108466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大衛之約",
     "media_type": "Text",
     "index_reference": "大衛之約",
@@ -140,13 +155,14 @@
           "label": "大衛",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 233159,
+    "content_id": "233159",
     "reference_id": 108558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大希律",
     "media_type": "Text",
     "index_reference": "大希律",
@@ -155,13 +171,14 @@
     "content": "<p>馬太福音2章和路加福音1章中的希律王。他是由羅馬人任命的猶太王。他從大約公元前36年到公元前4年統治為王。他統治猶太和以色列的所有土地。他來自以掃的家族，但被認為是猶太人。他下令進行許多建築工程，包括凱撒利亞城和耶路撒冷的聖殿。他下令將聖殿擴建得比以往任何時候都更大更宏偉。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233165,
+    "content_id": "233165",
     "reference_id": 108564,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "大罪人（the man of sin）",
     "media_type": "Text",
     "index_reference": "大罪人（the man of sin）",
@@ -170,7 +187,8 @@
     "content": "<p>一個將會完全反對神的人。在帖撒羅尼迦後書二章1至12節中，保羅描述他為一個做邪惡之事的人。但耶穌將阻止這罪人。保羅可能是在談論某個具體的人。或者他可能是在描述罪和邪惡的力量。保羅描述罪人的方式類似於但以理描述某些君王的方式。但以理關於這些君王的異象記錄在但以理書七章和十一章中。這些君王反對神，誹謗神，並且對神的子民施以惡行。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

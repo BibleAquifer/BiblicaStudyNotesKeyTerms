@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 193388,
+    "content_id": "193388",
     "reference_id": 108306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Аарон",
     "media_type": "Text",
     "index_reference": "аарон",
@@ -26,13 +26,85 @@
           "label": "Левиты",
           "language": "rus"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Aaron",
+          "type": "person",
+          "preferred_label": "Аарона",
+          "confidence": 0.9321,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ardon",
+          "type": "person",
+          "preferred_label": "Ардон",
+          "confidence": 0.8595,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Arnon",
+          "type": "place",
+          "preferred_label": "Арнон",
+          "confidence": 0.8532,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hauran",
+          "type": "place",
+          "preferred_label": "Авран",
+          "confidence": 0.8416,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aran",
+          "type": "person",
+          "preferred_label": "Аран",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eran",
+          "type": "person",
+          "preferred_label": "Аран",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haran",
+          "type": "person",
+          "preferred_label": "Аран",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haran.2",
+          "type": "person",
+          "preferred_label": "Аран",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haran.3",
+          "type": "person",
+          "preferred_label": "Аран",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Haran",
+          "type": "place",
+          "preferred_label": "Аран",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 193223,
+    "content_id": "193223",
     "reference_id": 108141,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Авва",
     "media_type": "Text",
     "index_reference": "авва",
@@ -41,13 +113,50 @@
     "content": "<p>Слово на арамейском языке, означающее «отец». Иисус называл Бога Авва. Последователи Иисуса являются частью Божьей семьи, поэтому они могут называть Бога своим Отцом или Авва, как это делал Иисус. Это обращение показывает, насколько Бог близок к тем, кто Ему доверяет.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Ivvah",
+          "type": "place",
+          "preferred_label": "Ивва",
+          "confidence": 0.8743,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Alvah",
+          "type": "person",
+          "preferred_label": "Алва",
+          "confidence": 0.8329,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Avvim",
+          "type": "group",
+          "preferred_label": "Аввим",
+          "confidence": 0.8075,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Avvim",
+          "type": "place",
+          "preferred_label": "Аввим",
+          "confidence": 0.8075,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abi",
+          "type": "person",
+          "preferred_label": "Ави",
+          "confidence": 0.8021,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193303,
+    "content_id": "193303",
     "reference_id": 108221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Авель",
     "media_type": "Text",
     "index_reference": "авель",
@@ -56,13 +165,29 @@
     "content": "<p>Второй сын Адама и Евы. Авель был пастухом. Он принёс жертву, угодную Богу. Его брат Каин убил его, хотя он не сделал ничего плохого. В Библии написано, что кровь Авеля взывала к Богу от земли, что значит, что Бог должен был восстановить справедливость, потому что Авель был убит.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abel",
+          "type": "person",
+          "preferred_label": "Авель",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Abel",
+          "type": "place",
+          "preferred_label": "Авель",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193554,
+    "content_id": "193554",
     "reference_id": 108472,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Авессалом",
     "media_type": "Text",
     "index_reference": "авессалом",
@@ -71,13 +196,22 @@
     "content": "<p>Сын Давида и Маахи. Фамарь была его сестрой. Также у него была дочь по имени Фамарь. Авессалом убил своего сводного брата Амнона за то, что тот изнасиловал его сестру Фамарь. Авессалом провозгласил себя царём ещё при жизни Давида. Его войско сражалось против войска Давида. Иоав убил Авессалома, хотя Давид просил, чтобы Авессалому не причиняли вред.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Absalom",
+          "type": "person",
+          "preferred_label": "Авессалом",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193541,
+    "content_id": "193541",
     "reference_id": 108459,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Авиафар",
     "media_type": "Text",
     "index_reference": "авиафар",
@@ -86,13 +220,36 @@
     "content": "<p>Авиафар был сыном Ахимелеха, который служил первосвященником во времена царя Давида. Авиафар был из рода священника Илия. Он был верен Давиду, но не поддержал Соломона как следующего царя после Давида. Из-за этого ему больше не разрешалось быть первосвященником, и таким образом исполнилось пророчество о потомках Илии.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abiathar",
+          "type": "person",
+          "preferred_label": "Авиафар",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Avith",
+          "type": "place",
+          "preferred_label": "Авиф",
+          "confidence": 0.8592,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abishur",
+          "type": "person",
+          "preferred_label": "Авишур",
+          "confidence": 0.8395,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193542,
+    "content_id": "193542",
     "reference_id": 108460,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Авигея",
     "media_type": "Text",
     "index_reference": "авигея",
@@ -101,13 +258,78 @@
     "content": "<p>Мудрая жена неразумного человека по имени Навал. Она убедила Давида в том, что ему необходимо было довериться Богу и не убивать людей в порыве гнева. После смерти Навала Авигея стала одной из жён Давида и родила ему одного сына.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abigail",
+          "type": "person",
+          "preferred_label": "Авигея",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abigail.2",
+          "type": "person",
+          "preferred_label": "Авигея",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abiah",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.2",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.3",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.4",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.5",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.6",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.7",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193522,
+    "content_id": "193522",
     "reference_id": 108440,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Авимелех",
     "media_type": "Text",
     "index_reference": "авимелех",
@@ -116,13 +338,29 @@
     "content": "<p>Сын судьи Гедеона от его наложницы из Сихема. Авимелех убил почти всех сыновей Гедеона. Он стал царём Сихема и ближайших окрестностей. Он был жестоким человеком и убил много людей.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abimelech",
+          "type": "person",
+          "preferred_label": "Авимелех",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abimelech.2",
+          "type": "person",
+          "preferred_label": "Авимелех",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193563,
+    "content_id": "193563",
     "reference_id": 108481,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Авия",
     "media_type": "Text",
     "index_reference": "авия",
@@ -131,13 +369,106 @@
     "content": "<p>Сын Ровоама и Маахи. Авия был отцом Асы и происходил из колена Иуды. Он был вторым царём Иудеи (Южного Царства). Он творил зло и поклонялся идолам.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abiah",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.2",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.3",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.4",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.5",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.6",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.7",
+          "type": "person",
+          "preferred_label": "Авия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abigail",
+          "type": "person",
+          "preferred_label": "Авигея",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abigail.2",
+          "type": "person",
+          "preferred_label": "Авигея",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abiel.2",
+          "type": "person",
+          "preferred_label": "Авиила",
+          "confidence": 0.8472,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aiah",
+          "type": "person",
+          "preferred_label": "Айя",
+          "confidence": 0.8205,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aiah.2",
+          "type": "person",
+          "preferred_label": "Айя",
+          "confidence": 0.8205,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abi",
+          "type": "person",
+          "preferred_label": "Ави",
+          "confidence": 0.8105,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193325,
+    "content_id": "193325",
     "reference_id": 108243,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Авраам",
     "media_type": "Text",
     "index_reference": "авраам",
@@ -154,13 +485,29 @@
           "label": "Завет с Авраамом",
           "language": "rus"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Авраам",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hauran",
+          "type": "place",
+          "preferred_label": "Авран",
+          "confidence": 0.8033,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 193341,
+    "content_id": "193341",
     "reference_id": 108259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Агарь",
     "media_type": "Text",
     "index_reference": "агарь",
@@ -169,13 +516,22 @@
     "content": "<p>Рабыня из Египта, которая была служанкой Сарры. Сарра долгое время оставалась бесплодной, поэтому она отдала свою служанку Агарь в наложницы Аврааму. После этого Агарь родила Аврааму сына Измаила. Сарра плохо относилась к Агари. Её и Измаила позднее изгнали, но Бог позаботился о них в пустыне.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "Агарь",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193592,
+    "content_id": "193592",
     "reference_id": 108510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Аггей",
     "media_type": "Text",
     "index_reference": "аггей",
@@ -184,13 +540,57 @@
     "content": "<p><span>Аггей был пророком в Иудее, когда она находилась под властью Персидской империи. Аггей вдохновлял Иисуса и Зоровавеля восстановить Храм. Его пророчества записаны в Книге пророка Аггея.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haggai",
+          "type": "person",
+          "preferred_label": "Аггей",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Agag",
+          "type": "person",
+          "preferred_label": "Агаг",
+          "confidence": 0.8889,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Agag.2",
+          "type": "person",
+          "preferred_label": "Агаг",
+          "confidence": 0.8889,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Agee",
+          "type": "person",
+          "preferred_label": "Аге",
+          "confidence": 0.8716,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggith",
+          "type": "person",
+          "preferred_label": "Аггиф",
+          "confidence": 0.8239,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hegai",
+          "type": "person",
+          "preferred_label": "Гегай",
+          "confidence": 0.818,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193168,
+    "content_id": "193168",
     "reference_id": 108086,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Агнец Божий",
     "media_type": "Text",
     "index_reference": "агнец божий",
@@ -199,13 +599,14 @@
     "content": "<p><span>Одно из имён Иисуса Христа, которое описывает, как Иисус принёс Себя в жертву. Когда произошла первая Пасха в Египте, израильтяне приносили в жертву ягнят (агнцев), кровь которых спасла народ от гибели. Позднее ягнят стали использовать в религиозной практике, например, когда приносили жертву за грех. Иисус принёс Себя в жертву, когда отдал Свою жизнь и был распят на кресте. Его жертва спасает людей от гибели, которую приносят в этот мир зло и грех. Иисус подобен ягнёнку, принесённому когда-то в жертву каждым израильтянином. В Книге Откровение</span> Иисус предстал перед пророком Иоанном как Агнец, Которого только что закололи для жертвы, но при этом Он оставался жив. Это объясняется тем, что <span>Иисус воскрес </span>из мёртвых после того, как умер на кресте.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193156,
+    "content_id": "193156",
     "reference_id": 108074,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ад",
     "media_type": "Text",
     "index_reference": "ад",
@@ -214,13 +615,29 @@
     "content": "<p>Место погибели для тех, кто отверг Бога и отказался войти в Его Царство. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Adah",
+          "type": "person",
+          "preferred_label": "Ада",
+          "confidence": 0.8837,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adah.2",
+          "type": "person",
+          "preferred_label": "Ада",
+          "confidence": 0.8837,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193285,
+    "content_id": "193285",
     "reference_id": 108203,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Адам",
     "media_type": "Text",
     "index_reference": "адам",
@@ -229,13 +646,43 @@
     "content": "<p>Первый человек, которого создал Бог. Ева была его женой. В переводе с древнееврейского имя Адам означает <span>«</span>человек<span>»</span>. Его имя на древнееврейском созвучно со словом <span>«</span>земля<span>»</span>. Бог создал Адама из праха и вдохнул в него жизнь. Адам находился в мире с Богом, живя в Едемском саду. Вместе с Евой они возделывали землю и заботились о саде. Адам дал имена всем созданным Богом существам. Он был отцом Каина, Авеля и Сифа. Когда Адам и Ева ослушались Бога, им пришлось покинуть Едемский сад.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Adam",
+          "type": "person",
+          "preferred_label": "Адам",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Adam",
+          "type": "place",
+          "preferred_label": "Адам",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:GenericMale",
+          "type": "person",
+          "preferred_label": "A Man",
+          "confidence": 0.8442,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Adamah",
+          "type": "place",
+          "preferred_label": "Адама",
+          "confidence": 0.828,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193556,
+    "content_id": "193556",
     "reference_id": 108474,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Адония",
     "media_type": "Text",
     "index_reference": "адония",
@@ -244,13 +691,43 @@
     "content": "<p>Сын Давида и Аггифы. Он провозгласил себя царём до того, как Давид помазал Соломона на царство. Став царём, Соломон пощадил Адонию, но тот повёл себя неразумно и обратился к Соломону с глупой просьбой. Он пытался получить больше власти, чем у Соломона, и стать царём. За это Соломон приказал его казнить. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Adonijah",
+          "type": "person",
+          "preferred_label": "Адония",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adonijah.2",
+          "type": "person",
+          "preferred_label": "Адония",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adonijah.3",
+          "type": "person",
+          "preferred_label": "Адония",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adina",
+          "type": "person",
+          "preferred_label": "Адина",
+          "confidence": 0.8479,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193216,
+    "content_id": "193216",
     "reference_id": 108134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Акила и Прискилла",
     "media_type": "Text",
     "index_reference": "акила и прискилла",
@@ -259,13 +736,14 @@
     "content": "<p>Муж и жена, занимавшиеся изготовлением и продажей палаток. Они были евреями, жившими в Риме. Павел подружился с ними в Коринфе. Они вместе трудились, распространяя Благую Весть об Иисусе. Павел упомянул их в трёх своих посланиях. Акила и Прискилла помогли Аполлосу лучше понять истину об Иисусе.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193615,
+    "content_id": "193615",
     "reference_id": 108533,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Акростих",
     "media_type": "Text",
     "index_reference": "акростих",
@@ -282,13 +760,14 @@
           "label": "Поэзия",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193252,
+    "content_id": "193252",
     "reference_id": 108170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Альфа и Омега",
     "media_type": "Text",
     "index_reference": "альфа и омега",
@@ -297,13 +776,14 @@
     "content": "<p>В греческом алфавите альфа является первой буквой алфавита, тогда как омега — это последняя буква. Иисус называл себя Альфой и Омегой, тем самым, Он говорил о Себе как о первом и последнем. Иисус был в начале, когда Бог создал всё существующее, и Он будет в конце мира, также как Он существует в настоящее время. Данная фраза означает, что Иисус всегда существовал и будет существовать. Это выражение также означает, что Иисус — это Бог. Бог-Отец назвал Себя Альфой и Омегой в книге Откровение 21:6.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193406,
+    "content_id": "193406",
     "reference_id": 108324,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Амаликитяне",
     "media_type": "Text",
     "index_reference": "амаликитяне",
@@ -312,13 +792,14 @@
     "content": "<p>Народ, живший к югу от Ханаана. Считается, что амаликитяне произошли от Амалика, внука Исава. Они враждовали с израильским народом и на протяжении сотен лет нападали на израильтян.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193603,
+    "content_id": "193603",
     "reference_id": 108521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Аман",
     "media_type": "Text",
     "index_reference": "аман",
@@ -327,13 +808,22 @@
     "content": "<p><span>Царедворец (придворный) персидского царя Артаксеркса. Аман происходил из рода Агага, царя </span>амаликитян<span>, таким образом Аман принадлежал к враждебному израильтянам народу. Аман хотел истребить всех евреев в Персидской империи. Царь Артаксеркс приказал его казнить.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haman",
+          "type": "person",
+          "preferred_label": "Аман",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193273,
+    "content_id": "193273",
     "reference_id": 108191,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Аминь",
     "media_type": "Text",
     "index_reference": "аминь",
@@ -342,13 +832,43 @@
     "content": "<p>В переводе с древнееврейского языка это слово означает <span>«</span>истинно<span>»</span> или <span>«</span>да будет так<span>»</span>. Слово указывает на то, что люди согласны с тем, что было сказано, и хотят, чтобы сказанное сбылось. В Библии слово <span>«</span>аминь<span>»</span> часто употребляется, когда люди восхваляют Бога, молятся или благословляют других людей.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ami",
+          "type": "person",
+          "preferred_label": "Амий",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haman",
+          "type": "person",
+          "preferred_label": "Аман",
+          "confidence": 0.8019,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amnon",
+          "type": "person",
+          "preferred_label": "Амнон",
+          "confidence": 0.8016,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amnon.2",
+          "type": "person",
+          "preferred_label": "Амнон",
+          "confidence": 0.8016,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193494,
+    "content_id": "193494",
     "reference_id": 108412,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Аммонитяне",
     "media_type": "Text",
     "index_reference": "аммонитяне",
@@ -357,13 +877,22 @@
     "content": "<p>Народ, живший к востоку от реки Иордан. Аммонитяне были потомками Лота и проживали на территории, которая называлась Аммон. Они поклонялись ложному божеству, которого называли Молох.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Ammon",
+          "type": "group",
+          "preferred_label": "Ammonites",
+          "confidence": 0.8363,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193495,
+    "content_id": "193495",
     "reference_id": 108413,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Аморреи",
     "media_type": "Text",
     "index_reference": "аморреи",
@@ -372,13 +901,43 @@
     "content": "<p>Народ, живший в Ханаане и к востоку от реки Иордан. Они были потомками Ханаана, сына Хама. Они враждовали с потомками Авраама на протяжении сотен лет. Бог изгнал аморреев из Ханаана и отдал их землю израильтянам.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Omri",
+          "type": "person",
+          "preferred_label": "Амрий",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Omri.2",
+          "type": "person",
+          "preferred_label": "Амрий",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Omri.3",
+          "type": "person",
+          "preferred_label": "Амрий",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Omri.4",
+          "type": "person",
+          "preferred_label": "Амрий",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193644,
+    "content_id": "193644",
     "reference_id": 108562,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Амос",
     "media_type": "Text",
     "index_reference": "амос",
@@ -387,13 +946,36 @@
     "content": "<p>Пророк из Южного Царства (Иудеи) во времена царя Озии. Он был пастухом. Амос пророчествовал против Северного Царства (Израиля) во время царствования Иеровоама II. Его пророчества записаны в Книге пророка Амоса.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Amos.2",
+          "type": "person",
+          "preferred_label": "Амос",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amos.3",
+          "type": "person",
+          "preferred_label": "Амос",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amoz",
+          "type": "person",
+          "preferred_label": "Амос",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193395,
+    "content_id": "193395",
     "reference_id": 108313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ангел",
     "media_type": "Text",
     "index_reference": "ангел",
@@ -410,13 +992,29 @@
           "label": "Духи",
           "language": "rus"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Angel",
+          "type": "deity",
+          "preferred_label": "An Angel",
+          "confidence": 0.9057,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Angels",
+          "type": "group",
+          "preferred_label": "Angels",
+          "confidence": 0.8639,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 193510,
+    "content_id": "193510",
     "reference_id": 108428,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ангел Господень",
     "media_type": "Text",
     "index_reference": "ангел господень",
@@ -425,13 +1023,14 @@
     "content": "<p>Особый Ангел, который в Ветхом Завете всегда употребляется с именем Господь. Иногда он приносил людям послание от Бога, в других случаях это было явление Самого Бога. Ангел Господень был одним из способов, которым Бог открылся людям до рождения Иисуса.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193396,
+    "content_id": "193396",
     "reference_id": 108314,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ангел-истребитель",
     "media_type": "Text",
     "index_reference": "ангел-истребитель",
@@ -440,13 +1039,14 @@
     "content": "<p>Ангел, который выполняет повеление Бога уничтожить что-либо. Это уничтожение является проявлением Божьего суда над злом.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193123,
+    "content_id": "193123",
     "reference_id": 108041,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Андрей",
     "media_type": "Text",
     "index_reference": "андрей",
@@ -455,13 +1055,22 @@
     "content": "<p>Рыбак, родом из Вифсаиды, который проживал в Капернауме. Он был учеником Иоанна Крестителя. Он стал одним из 12 учеников Иисуса. Пётр был его братом.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Andrew",
+          "type": "person",
+          "preferred_label": "Андрей",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193532,
+    "content_id": "193532",
     "reference_id": 108450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Анна",
     "media_type": "Text",
     "index_reference": "анна",
@@ -470,13 +1079,64 @@
     "content": "<p>Анна была матерью пророка Самуила, а Елкана был её мужем. Долгое время Анна не могла иметь детей, но потом Бог позволил ей забеременеть. Исполненная благодарности,<span> Анна произнесла удивительную молитву о том, как Бог заботится о Своём народе.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Anna",
+          "type": "person",
+          "preferred_label": "Анна",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Annas",
+          "type": "person",
+          "preferred_label": "Анна",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hannah",
+          "type": "person",
+          "preferred_label": "Анна",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Anah",
+          "type": "person",
+          "preferred_label": "Ана",
+          "confidence": 0.871,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Anah.2",
+          "type": "person",
+          "preferred_label": "Ана",
+          "confidence": 0.871,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Anah.3",
+          "type": "person",
+          "preferred_label": "Ана",
+          "confidence": 0.871,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hena",
+          "type": "place",
+          "preferred_label": "Ена",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193196,
+    "content_id": "193196",
     "reference_id": 108114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Антиохия Писидийская",
     "media_type": "Text",
     "index_reference": "антиохия писидийская",
@@ -485,13 +1145,14 @@
     "content": "<p>Город в римской провинции Писидия в Малой Асии. Павел посещал его во время трёх своих путешествий, во время которых делился Благой Вестью об Иисусе. Считается, что послание Павла к Галатам было прочитано в местной церкви. Не стоит путать с Антиохией, одноимённым городом, находившимся в провинции Сирия.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193191,
+    "content_id": "193191",
     "reference_id": 108109,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Антиохия Сирийская",
     "media_type": "Text",
     "index_reference": "антиохия сирийская",
@@ -500,13 +1161,14 @@
     "content": "<p>Важный греческий город в римской провинции Сирия. Путешественники со всего мира проходили через Антиохию. Он находился на территории современной Турции и граничил с современной Сирией. Тамошняя церковь поддерживала Павла в его путешествиях, во время которых он делился Благой Вестью об Иисусе.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193514,
+    "content_id": "193514",
     "reference_id": 108432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Аод",
     "media_type": "Text",
     "index_reference": "аод",
@@ -515,13 +1177,22 @@
     "content": "<p>Один из 12 судей Израиля. Он принадлежал к колену Вениаминову и был левшой. Он использовал эту особенность как часть своего плана, чтобы убить моавитского царя.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eker",
+          "type": "person",
+          "preferred_label": "Аод",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193623,
+    "content_id": "193623",
     "reference_id": 108541,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Апокалиптическая литература",
     "media_type": "Text",
     "index_reference": "апокалиптическая литература",
@@ -530,13 +1201,14 @@
     "content": "<p>В переводе с древнегреческого языка слово <span>«</span>апокалипсис<span>» </span>означает <span>«открывать». Апокалиптические тексты были распространены среди </span>иудейских и христианских пророков. <span>Пророки </span>использовали в них символы и образы, чтобы рассказать о событиях, которые произойдут на земле. Символы и образы раскрывали духовные истины об этих событиях. Они помогали людям понять точку зрения Бога и показывали, как Бог спасёт Свой народ и будет судить его врагов. Символы и образы, используемые в апокалиптической литературе, часто пугают. Так сделано для того, чтобы привлечь внимание людей.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193218,
+    "content_id": "193218",
     "reference_id": 108136,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Аполлос",
     "media_type": "Text",
     "index_reference": "аполлос",
@@ -545,13 +1217,22 @@
     "content": "<p>Еврей из Александрии в Египте, который хорошо знал иудейские Писания. В Ефесе он подружился с Акилой и Прискиллой, которые помогли ему больше узнать об Иисусе. Аполлос учил в церквях, где ранее трудился Павел.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Apollos",
+          "type": "person",
+          "preferred_label": "Аполлос",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193135,
+    "content_id": "193135",
     "reference_id": 108053,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Апостолы",
     "media_type": "Text",
     "index_reference": "апостолы",
@@ -560,13 +1241,14 @@
     "content": "<p>Двенадцать учеников Иисуса и другие близкие последователи, которые позднее стали руководителями первых церквей. Апостолы учили людей об Иисусе и распространяли Благую Весть о Нём. Апостол в переводе с древнегреческого языка означает <span>«</span>посланный<span>»</span>.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193516,
+    "content_id": "193516",
     "reference_id": 108434,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Арамеи",
     "media_type": "Text",
     "index_reference": "арамеи",
@@ -575,13 +1257,36 @@
     "content": "<p><span>Народ, проживавший в Месопотамии и Сирии. В Библии их также называют арамеяне (Втор.26:5; Иез.26:17) или арамляне (Ам.9:7). Арамеи </span>поклонялись идолам. Они были потомками Сима. Земля, где они проживали, называлась Арамом (или Сирией). Родственники Авраама жили в Араме. Одним из самых важных арамейских городов был Дамаск. Арамеи говорили на арамейском языке. Позднее многие ассирийцы, вавилоняне и иудеи стали говорить на арамейском языке. Некоторые части Библии написаны на арамейском языке.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Amzi",
+          "type": "person",
+          "preferred_label": "Амций",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amzi.2",
+          "type": "person",
+          "preferred_label": "Амций",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aramitess",
+          "type": "person",
+          "preferred_label": "Арамеянин",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193598,
+    "content_id": "193598",
     "reference_id": 108516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Артаксеркс",
     "media_type": "Text",
     "index_reference": "артаксеркс",
@@ -590,13 +1295,36 @@
     "content": "<p>Царь Персидской империи, правивший с 465 по 425 год до н.э. Он был известен как Артаксеркс I. <span>Бог использовал его, чтобы помочь иудеям</span> восстановить стену Иерусалима.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahasuerus",
+          "type": "person",
+          "preferred_label": "Артаксеркс",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Artaxerxes",
+          "type": "person",
+          "preferred_label": "Артаксеркс",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Artaxerxes.2",
+          "type": "person",
+          "preferred_label": "Артаксеркс",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193219,
+    "content_id": "193219",
     "reference_id": 108137,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Артемида",
     "media_type": "Text",
     "index_reference": "артемида",
@@ -605,13 +1333,22 @@
     "content": "<p>Ложная богиня, которой поклонялись, чтобы иметь успех на охоте и в рождении детей. Во времена Нового Завета в разных местах её называли разными именами. Греки называли её Артемидой. Они построили город Ефес, в котором находился знаменитый огромный храм в её честь. Ефес был центром поклонения Артемиде.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Artemis",
+          "type": "deity",
+          "preferred_label": "Артемида",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193564,
+    "content_id": "193564",
     "reference_id": 108482,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Аса",
     "media_type": "Text",
     "index_reference": "аса",
@@ -620,13 +1357,57 @@
     "content": "<p>Сын Авии и отец Иосафата. Он был из колена Иуды. Он был третьим царём Южного Царства (Иудеи). Многие годы он верно следовал за Богом. Он хотел, чтобы народ поклонялся только Богу. Позднее он перестал доверять Богу и начал плохо обращаться с Божьим народом.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asa",
+          "type": "person",
+          "preferred_label": "Аса",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asa.2",
+          "type": "person",
+          "preferred_label": "Аса",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Assos",
+          "type": "place",
+          "preferred_label": "Асс",
+          "confidence": 0.8638,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asnah",
+          "type": "person",
+          "preferred_label": "Асна",
+          "confidence": 0.856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amasa",
+          "type": "person",
+          "preferred_label": "Амаса",
+          "confidence": 0.8266,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amasa.2",
+          "type": "person",
+          "preferred_label": "Амаса",
+          "confidence": 0.8266,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193588,
+    "content_id": "193588",
     "reference_id": 108506,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Асаф",
     "media_type": "Text",
     "index_reference": "асаф",
@@ -635,13 +1416,57 @@
     "content": "<p>Левит, потомок Гирсона. Царь Давид назначил Асафа, его помощников и сыновей из рода Асафа ответственными за прославление Бога. Они вели израильский народ в песнях хвалы и благодарности Богу. Они пророчествовали, играли на музыкальных инструментах и писали песни. Некоторые из этих песен записаны в книге Псалтирь.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asaph",
+          "type": "person",
+          "preferred_label": "Асаф",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaph.2",
+          "type": "person",
+          "preferred_label": "Асаф",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaph.3",
+          "type": "person",
+          "preferred_label": "Асаф",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaph.4",
+          "type": "person",
+          "preferred_label": "Асаф",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aspatha",
+          "type": "person",
+          "preferred_label": "Асфафа",
+          "confidence": 0.8594,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashvath",
+          "type": "person",
+          "preferred_label": "Ашваф",
+          "confidence": 0.8534,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193575,
+    "content_id": "193575",
     "reference_id": 108493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ассирия",
     "media_type": "Text",
     "index_reference": "ассирия",
@@ -650,13 +1475,64 @@
     "content": "<p>Царство в Месопотамии, просуществовавшее тысячи лет. Это была могущественная империя, которая правила многими другими народами. Столицей Ассирии был город Ниневия. В 722 году до н.э. Ассирия захватила Северное Царство (Израиль). Ассирийцы заставили израильтян покинуть свою землю и увели их в плен. Среди ассирийский царей в Библии известны <span>Тиглатпаласар, </span>Салманассар, Саргон и Сеннахирим. В 612 году до н.э. вавилоняне выиграли важное сражение с ассирийцами, после чего Ассирия перестала быть могущественной державой.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Assyria",
+          "type": "place",
+          "preferred_label": "Assyria",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah",
+          "type": "person",
+          "preferred_label": "Асаия",
+          "confidence": 0.8248,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.2",
+          "type": "person",
+          "preferred_label": "Асаия",
+          "confidence": 0.8248,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.3",
+          "type": "person",
+          "preferred_label": "Асаия",
+          "confidence": 0.8248,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.4",
+          "type": "person",
+          "preferred_label": "Асаия",
+          "confidence": 0.8248,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.5",
+          "type": "person",
+          "preferred_label": "Асаия",
+          "confidence": 0.8248,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Assyria",
+          "type": "group",
+          "preferred_label": "Assyrians",
+          "confidence": 0.8069,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193511,
+    "content_id": "193511",
     "reference_id": 108429,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Астарта",
     "media_type": "Text",
     "index_reference": "астарта",
@@ -665,13 +1541,22 @@
     "content": "<p>Богиня, которой поклонялись многие народы в Ханаане и его окрестностях. Её также называли Ашера, Ашторет и Иштар. Ей поклонялись как матери других божеств.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Ashtoreth",
+          "type": "deity",
+          "preferred_label": "Астарта",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193212,
+    "content_id": "193212",
     "reference_id": 108130,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Афины",
     "media_type": "Text",
     "index_reference": "афины",
@@ -680,13 +1565,22 @@
     "content": "<p>Важный греческий город в римской провинции Ахаия. Павел посетил его во время своего второго путешествия, когда делился Благой Вестью об Иисусе с философами и начальниками в ареопаге. Ареопаг находился на холме за пределами Афин. В нём собирались старейшины города для обсуждения важных вопросов.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Athens",
+          "type": "place",
+          "preferred_label": "Афины",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193566,
+    "content_id": "193566",
     "reference_id": 108484,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ахав",
     "media_type": "Text",
     "index_reference": "ахав",
@@ -695,13 +1589,85 @@
     "content": "<p>Сын Амврия, ставший седьмым царём Северного Царства (Израиль). Он был отцом Охозии, его женой была Иезавель. Он совершил больше зла, чем любой царь Израиля до него. Он поклонялся идолам. Он сделал Самарию центром поклонения идолу Ваалу. Он относился к пророку Илии как к врагу.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahab",
+          "type": "person",
+          "preferred_label": "Ахав",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahab.2",
+          "type": "person",
+          "preferred_label": "Ахав",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Agabus",
+          "type": "person",
+          "preferred_label": "Агав",
+          "confidence": 0.8464,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahoah",
+          "type": "person",
+          "preferred_label": "Ахоах",
+          "confidence": 0.8346,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath",
+          "type": "person",
+          "preferred_label": "Иахав",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.2",
+          "type": "person",
+          "preferred_label": "Иахав",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.3",
+          "type": "person",
+          "preferred_label": "Иахав",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.4",
+          "type": "person",
+          "preferred_label": "Иахав",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ahlab",
+          "type": "place",
+          "preferred_label": "Ахлав",
+          "confidence": 0.8137,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashvath",
+          "type": "person",
+          "preferred_label": "Ашваф",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193233,
+    "content_id": "193233",
     "reference_id": 108151,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ахаия",
     "media_type": "Text",
     "index_reference": "ахаия",
@@ -710,13 +1676,190 @@
     "content": "<p>Римская провинция, расположенная на территории современной южной Греции. Её столицей был<span> </span>город Коринф. Апостол Павел путешествовал по Ахаии во время своего второго и третьего путешествий.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Achaia",
+          "type": "place",
+          "preferred_label": "Ахаия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahiah",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 0.9486,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 0.9486,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.2",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 0.9486,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.3",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 0.9486,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.4",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 0.9486,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.5",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 0.9486,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.6",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 0.9486,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.7",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 0.9486,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8498,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.2",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8498,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.3",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8498,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.4",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8498,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.5",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8498,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.6",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8498,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.7",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8498,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah",
+          "type": "person",
+          "preferred_label": "Асаия",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.2",
+          "type": "person",
+          "preferred_label": "Асаия",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.3",
+          "type": "person",
+          "preferred_label": "Асаия",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.4",
+          "type": "person",
+          "preferred_label": "Асаия",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.5",
+          "type": "person",
+          "preferred_label": "Асаия",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahian",
+          "type": "person",
+          "preferred_label": "Ахиан",
+          "confidence": 0.8137,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio",
+          "type": "person",
+          "preferred_label": "Ахио",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio.2",
+          "type": "person",
+          "preferred_label": "Ахио",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio.3",
+          "type": "person",
+          "preferred_label": "Ахио",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193508,
+    "content_id": "193508",
     "reference_id": 108426,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ахан",
     "media_type": "Text",
     "index_reference": "ахан",
@@ -725,13 +1868,50 @@
     "content": "<p>Израильтянин из колена Иудина. Он взял часть добычи, которая должна была быть уничтожена. Его действия имели негативные последствия для его семьи и всего израильского общества. Ахан и вся его семья были преданы смерти в долине Ахор. В переводе с древнееврейского языка Ахор означает <span>«</span>беда<span>»</span>.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Achan",
+          "type": "person",
+          "preferred_label": "Ахан",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahian",
+          "type": "person",
+          "preferred_label": "Ахиан",
+          "confidence": 0.8864,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Akan",
+          "type": "person",
+          "preferred_label": "Акан",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahban",
+          "type": "person",
+          "preferred_label": "Ахбан",
+          "confidence": 0.8413,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ashan",
+          "type": "place",
+          "preferred_label": "Ашан",
+          "confidence": 0.827,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193540,
+    "content_id": "193540",
     "reference_id": 108458,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ахимелех",
     "media_type": "Text",
     "index_reference": "ахимелех",
@@ -740,13 +1920,64 @@
     "content": "<p>Правнук Илия, служивший первосвященником, когда скиния была в Номве. Когда Давид бежал от царя Саула, Ахимелех дал Давиду хлеб из скинии и меч Голиафа. Идумей по имени Доик убил его за помощь Давиду.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahimelech",
+          "type": "person",
+          "preferred_label": "Ахимелех",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahimelech.2",
+          "type": "person",
+          "preferred_label": "Ахимелех",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahimelech.3",
+          "type": "person",
+          "preferred_label": "Ахимелех",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elimelech",
+          "type": "person",
+          "preferred_label": "Елимелех",
+          "confidence": 0.8496,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jamlech",
+          "type": "person",
+          "preferred_label": "Иамлех",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Anammelech",
+          "type": "person",
+          "preferred_label": "Анамелех",
+          "confidence": 0.8131,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Allammelech",
+          "type": "place",
+          "preferred_label": "Аламелех",
+          "confidence": 0.8035,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193559,
+    "content_id": "193559",
     "reference_id": 108477,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ахия",
     "media_type": "Text",
     "index_reference": "ахия",
@@ -755,7 +1986,177 @@
     "content": "<p>Пророк из Силома. Его слова и действия бросали вызов власти царей, которые не подчинялись Богу. Бог использовал Ахию, чтобы показать, что Соломон не был верен завету Бога с Давидом. Позже Бог использовал Ахию, чтобы показать, что Иеровоам также не был верен Богу.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahiah",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.2",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.3",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.4",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.5",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.6",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.7",
+          "type": "person",
+          "preferred_label": "Ахия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Achaia",
+          "type": "place",
+          "preferred_label": "Ахаия",
+          "confidence": 0.9486,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio",
+          "type": "person",
+          "preferred_label": "Ахио",
+          "confidence": 0.847,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio.2",
+          "type": "person",
+          "preferred_label": "Ахио",
+          "confidence": 0.847,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio.3",
+          "type": "person",
+          "preferred_label": "Ахио",
+          "confidence": 0.847,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahian",
+          "type": "person",
+          "preferred_label": "Ахиан",
+          "confidence": 0.8189,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahi",
+          "type": "person",
+          "preferred_label": "Ахи",
+          "confidence": 0.8183,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahi.2",
+          "type": "person",
+          "preferred_label": "Ахи",
+          "confidence": 0.8183,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.2",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.3",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.4",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.5",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.6",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.7",
+          "type": "person",
+          "preferred_label": "Адаия",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aiah",
+          "type": "person",
+          "preferred_label": "Айя",
+          "confidence": 0.8145,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aiah.2",
+          "type": "person",
+          "preferred_label": "Айя",
+          "confidence": 0.8145,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

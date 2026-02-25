@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232919,
+    "content_id": "232919",
     "reference_id": 108318,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "教導他們的孩子",
     "media_type": "Text",
     "index_reference": "教導他們的孩子",
@@ -11,13 +11,14 @@
     "content": "<p>以色列的孩子們被鼓勵詢問關於神和敬拜禮儀的問題。父母應向孩子們解釋為什麼他們以這些方式敬拜神，這樣孩子們就會了解神是誰。他們會了解神在世界上所做的偉大事工。這很重要，因為神曾應許永遠做他們的神。神希望雅各家的每個人都認識祂。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232697,
+    "content_id": "232697",
     "reference_id": 108096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "教會",
     "media_type": "Text",
     "index_reference": "教會",
@@ -26,13 +27,29 @@
     "content": "<p>跟從耶穌之人的群體。教會始於耶路撒冷的門徒，他們是亞伯拉罕的後裔。教會已經擴展到包括來自任何家族、地方和國家的人。他們因著信耶穌並相信祂是彌賽亞而成為一體。當教會忠實地跟隨耶穌時，神的國度在地上就得以擴展。教會也被稱為基督的身體。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "Church",
+          "confidence": 0.9446,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:GenericChurch",
+          "type": "group",
+          "preferred_label": "The Church",
+          "confidence": 0.8968,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232719,
+    "content_id": "232719",
     "reference_id": 108118,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "教會長老",
     "media_type": "Text",
     "index_reference": "教會長老",
@@ -41,7 +58,8 @@
     "content": "<p>擔任教會領袖的跟從耶穌的人。他們忠實地教導有關耶穌的信息，並確保其他人也如此。他們為人們禱告，並幫助教會做出重要決定。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203409,
+    "content_id": "203409",
     "reference_id": 108274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Laban",
     "media_type": "Text",
     "index_reference": "laban",
@@ -11,13 +11,29 @@
     "content": "<p>Anak dari Betuel dan saudara laki-laki Ribka dari Mesopotamia. Dia adalah ayah dari Rahel dan Lea. Dia menipu Yakub dan mengambil keuntungan darinya selama bertahun-tahun.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Laban",
+          "type": "person",
+          "preferred_label": "Laban",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Laban",
+          "type": "place",
+          "preferred_label": "Laban",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 650779,
+    "content_id": "650779",
     "reference_id": 209393,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lagu Baru",
     "media_type": "Text",
     "index_reference": "lagu baru",
@@ -39,13 +55,14 @@
           "end_ref_usfm": "PSA 150:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203297,
+    "content_id": "203297",
     "reference_id": 108162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Laodikia",
     "media_type": "Text",
     "index_reference": "laodikia",
@@ -54,13 +71,22 @@
     "content": "<p>Sebuah kota di wilayah kekaisaran Romawi di Asia Kecil di tempat yang sekarang disebut Turki. Letaknya dekat dengan Kolose. Epafras membagikan pesan tentang Yesus di sana dan membantu mendirikan sebuah jemaat. Paulus menulis surat kepada jemaat di Laodikia. Jemaat di Laodikia adalah salah satu dari tujuh jemaat yang disebutkan dalam kitab Wahyu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Laodicea",
+          "type": "place",
+          "preferred_label": "Laodikia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203207,
+    "content_id": "203207",
     "reference_id": 108072,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Laut",
     "media_type": "Text",
     "index_reference": "laut",
@@ -69,13 +95,14 @@
     "content": "<p>Banyak kisah dalam Alkitab yang menggambarkan laut sebagai sesuatu yang harus ditakuti. Itu adalah sesuatu yang membuat orang membutuhkan Allah untuk menyelamatkan mereka. Ini termasuk bangsa Israel yang menyeberangi Laut Merah. Termasuk juga Yunus ketika ia dilemparkan ke dalam laut. Termasuk juga Yesus ketika Dia menenangkan badai di laut. Termasuk penglihatan Yohanes dalam kitab Wahyu tentang binatang buas yang keluar dari laut.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203710,
+    "content_id": "203710",
     "reference_id": 108575,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Laut Mediterania",
     "media_type": "Text",
     "index_reference": "laut mediterania",
@@ -84,13 +111,14 @@
     "content": "<p>Sebuah perairan besar yang menghubungkan Afrika, Asia dan Eropa. Itu adalah perbatasan bagian barat dari negeri yang dijanjikan Tuhan untuk diberikan kepada bangsa Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203455,
+    "content_id": "203455",
     "reference_id": 108320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Laut Merah",
     "media_type": "Text",
     "index_reference": "laut merah",
@@ -99,13 +127,14 @@
     "content": "<p>Sebuah perairan besar di perbatasan Mesir pada masa pembebasan. Tidak diketahui secara pasti di mana letaknya saat ini. Allah membelah air tersebut sehingga orang Israel dapat berjalan di atas tanah yang kering. Setelah orang Israel sampai di seberang, orang Mesir tenggelam di dalam air.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203410,
+    "content_id": "203410",
     "reference_id": 108275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lea",
     "media_type": "Text",
     "index_reference": "lea",
@@ -114,13 +143,22 @@
     "content": "<p>Putri sulung Laban dan istri pertama Yakub. Rahel adalah saudara perempuannya dan Zilpa adalah budaknya. Ia menjadi ibu dari Ruben, Simeon, Lewi, Yehuda, Isakhar, Zebulon dan Dina.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "Lea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203518,
+    "content_id": "203518",
     "reference_id": 108383,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lewi",
     "media_type": "Text",
     "index_reference": "lewi",
@@ -129,13 +167,43 @@
     "content": "<p>Seorang putra dari Yakub dan Lea. Dalam bahasa Ibrani, Lewi berarti melekat. Garis keluarganya menjadi suku Israel. Semua imam di Israel berasal dari garis keturunan Lewi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Levi",
+          "type": "group",
+          "preferred_label": "Lewi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi",
+          "type": "person",
+          "preferred_label": "Lewi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.2",
+          "type": "person",
+          "preferred_label": "Lewi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.3",
+          "type": "person",
+          "preferred_label": "Lewi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203251,
+    "content_id": "203251",
     "reference_id": 108116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Listra",
     "media_type": "Text",
     "index_reference": "listra",
@@ -144,13 +212,29 @@
     "content": "<p>Sebuah kota di wilayah Romawi di Galatia di Asia Kecil. Paulus mengunjunginya dalam tiga kali perjalanannya untuk membagikan kabar baik tentang Yesus. Teman Paulus, Timotius, yang bekerja bersamanya, berasal dari Listra. Diperkirakan surat Paulus kepada jemaat di Galatia dibacakan di sana.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Lystra",
+          "type": "place",
+          "preferred_label": "Listra",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mispar",
+          "type": "person",
+          "preferred_label": "daftar",
+          "confidence": 0.8133,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203474,
+    "content_id": "203474",
     "reference_id": 108339,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Loh batu",
     "media_type": "Text",
     "index_reference": "loh batu",
@@ -159,13 +243,14 @@
     "content": "<p>Potongan-potongan batu yang diukir oleh Musa dari batu. Allah menuliskan pada loh-loh tersebut kata-kata dari Sepuluh Perintah Allah dan hukum perjanjian. Itu adalah salinan tertulis dari perjanjian perjanjian antara Allah dan bangsa Israel. Musa memecahkan loh batu yang pertama. Dia memecahkannya ketika orang Israel menyembah patung anak sapi dari logam. Kemudian Allah menuliskan kesepakatan perjanjian pada dua loh yang baru. Kedua loh ini disimpan di dalam tabut perjanjian.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203383,
+    "content_id": "203383",
     "reference_id": 108248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lot",
     "media_type": "Text",
     "index_reference": "lot",
@@ -174,13 +259,29 @@
     "content": "<p>Cucu dari Terah dan keponakan Abraham. Dia pergi bersama Abraham dan Sarah ketika mereka pergi ke Kanaan untuk tinggal. Dia memilih untuk tinggal di lembah Sungai Yordan dekat Sodom. Istrinya meninggal saat Allah menghancurkan Sodom dan Gomora. Suku Moab dan Amon berasal dari garis keturunan Lot.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "Lot",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Lot",
+          "type": "realia",
+          "preferred_label": "Lot",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203213,
+    "content_id": "203213",
     "reference_id": 108078,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lukas",
     "media_type": "Text",
     "index_reference": "lukas",
@@ -189,7 +290,16 @@
     "content": "<p>Penulis Injil Lukas dan kitab Kisah Para Rasul. Dia adalah seorang dokter yang bepergian bersama Paulus dan bekerja bersamanya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Luke",
+          "type": "person",
+          "preferred_label": "Lukas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

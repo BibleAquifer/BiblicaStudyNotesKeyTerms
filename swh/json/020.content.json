@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 367852,
+    "content_id": "367852",
     "reference_id": 108361,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Takatifu",
     "media_type": "Text",
     "index_reference": "takatifu",
@@ -11,13 +11,22 @@
     "content": "<p>Kutengwa. Mungu ni mtakatifu. Hii inamaanisha kwamba yeye ni tofauti na kila kitu kingine kilichopo. Katika Biblia sehemu fulani zilikuwa takatifu. Hii ilikuwa kwa sababu watu walitambua uwepo wa Mungu hapo. Vitu fulani vilikuwa vitakatifu. Hii ilimaanisha kwamba vilitumika kwa njia maalum kumwabudu Mungu. Kinyume cha utakatifu ni unajisi au uovu. Vitu ambavyo ni najisi haviwezi kuwa mbele za Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "Holy",
+          "confidence": 0.9364,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368005,
+    "content_id": "368005",
     "reference_id": 108514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Talaka",
     "media_type": "Text",
     "index_reference": "talaka",
@@ -34,13 +43,14 @@
           "label": "Ndoa",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367783,
+    "content_id": "367783",
     "reference_id": 108292,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamari",
     "media_type": "Text",
     "index_reference": "tamari",
@@ -49,13 +59,43 @@
     "content": "<p>Mkwe wa Yuda. Wanaume wake wawili wa kwanza walikuwa wana wa Yuda lakini wote walikufa. Baada ya hapo, Yuda alilala na Tamari bila kujua alikuwa nani. Alipata mimba na kupata mapacha wa kiume. Yesu anatoka katika ukoo wa mwana wa Tamari, Peresi. Huyu ni Tamari tofauti na binti wa Mfalme Daudi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Tamar",
+          "type": "person",
+          "preferred_label": "Tamari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tamar.2",
+          "type": "person",
+          "preferred_label": "Tamari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tamar.3",
+          "type": "person",
+          "preferred_label": "Tamari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tamar.2",
+          "type": "place",
+          "preferred_label": "Tamari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367962,
+    "content_id": "367962",
     "reference_id": 108471,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamari - Daudi",
     "media_type": "Text",
     "index_reference": "tamari - daudi",
@@ -64,13 +104,14 @@
     "content": "<p>Binti wa Daudi na Maaka. Yeye na Absalomu walikuwa na wazazi sawa. Yeye na Amnoni walikuwa na baba sawa. Amnoni alimnajisi Tamari alipokuwa bikira. Kisha akamtupa nje ya nyumba yake. Katika siku hizo, hii ilikuwa sawa na kumtaliki. Kubakwa na kisha kutooa kulileta aibu kwa Tamari katika jamii yao. Ilimaanisha kwamba labda hangeolewa au kuwa na familia yake mwenyewe. Aliishi na Absalomu baada ya hilo kutokea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367877,
+    "content_id": "367877",
     "reference_id": 108386,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tarumbeta",
     "media_type": "Text",
     "index_reference": "tarumbeta",
@@ -79,13 +120,14 @@
     "content": "<p>Kwenye Biblia, tarumbeta zilitumika kwa madhumuni mengi. Zilitumika katika ibada na sikukuu na katika vita. Tarumbeta zilitumika kutoa matangazo muhimu na kutoa tahadhari. Kabla ya Waisraeli kufika Kanaani, mlio wa tarumbeta uliwajulisha makabila 12 wakati wa kuanza kuandamana. Katika Agano Jipya, Yesu na Paulo walizungumza kuhusu kupulizwa kwa tarumbeta. Tarumbeta zingetangaza wakati Mungu anawakusanya watu wake na kuwafufua kutoka kwa wafu. Katika Ufunuo, malaika walipiga tarumbeta kutangaza sehemu za hukumu ya Mungu dhidi ya uovu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367570,
+    "content_id": "367570",
     "reference_id": 108079,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Theofilo",
     "media_type": "Text",
     "index_reference": "theofilo",
@@ -94,13 +136,22 @@
     "content": "<p>Theofilo ni mtu ambaye Luka alimuandikia  injili yake na kitabu cha Matendo . Jina Theofilo linamaanisha mpenzi wa Mungu. Kile ambacho Luka aliandika kinaweza kumsaidia yeyote anayempenda Mungu. Luka huenda alitumia jina Theofilo kumzungumzia Mkristo yeyote. Huenda alifanya hivi ili kuweka jina la mtu huyo kuwa siri ili kumlinda. Luka alimwita Theofilo bora zaidi. Hii inaweza kumaanisha kwamba Theofilo alikuwa afisa wa serikali ya Kirumi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Theophilus",
+          "type": "person",
+          "preferred_label": "Theofilo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367619,
+    "content_id": "367619",
     "reference_id": 108128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thesalonike",
     "media_type": "Text",
     "index_reference": "thesalonike",
@@ -109,13 +160,29 @@
     "content": "<p>Thesalonike ni mji wa Kigiriki katika eneo la Kirumi la Makedonia. Ilikuwa katika eneo ambalo sasa ni kaskazini mwa Ugiriki. Paulo alisafiri huko katika safari yake ya pili. Barua zake kwa Wathesalonike ziliandikwa kwa kanisa lililokuwa huko.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Thessalonica",
+          "type": "place",
+          "preferred_label": "Thesalonike",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Thessalonica",
+          "type": "group",
+          "preferred_label": "Thessalonians",
+          "confidence": 0.8873,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367668,
+    "content_id": "367668",
     "reference_id": 108177,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thiatira",
     "media_type": "Text",
     "index_reference": "thiatira",
@@ -124,13 +191,22 @@
     "content": "<p>Thiatira mji muhimu katika eneo la Kirumi la Asia. Ni sehemu ya mji wa Akhisar katika nchi inayojulikana sasa kama Uturuki. Lidia alitoka Thiatira.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Thyatira",
+          "type": "place",
+          "preferred_label": "Thiatira",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367615,
+    "content_id": "367615",
     "reference_id": 108124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timotheo",
     "media_type": "Text",
     "index_reference": "timotheo",
@@ -139,13 +215,22 @@
     "content": "<p>Timotheo ni kijana kutoka Listra ambaye alifanya kazi na Paulo. Baba yake alikuwa Myunani. Kwa sababu mama yake alikuwa Myahudi, Timotheo alichukuliwa kuwa Myahudi. Bibi yake Loisi na mama yake Eunike walikuwa waumini. Paulo alimwamini Timotheo na kumpenda kama mwana. Timotheo alihudumu katika makanisa mengi ambayo Paulo alisaidia kuanzisha. Alikuwa na Paulo wakati mtume aliandika barua nyingi. Agano Jipya linajumuisha barua mbili ambazo Paulo alimwandikia Timotheo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timotheo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367966,
+    "content_id": "367966",
     "reference_id": 108475,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tiro na Sidoni",
     "media_type": "Text",
     "index_reference": "tiro na sidoni",
@@ -154,13 +239,14 @@
     "content": "<p>Tiro na Sidoni ni miji kwenye pwani ya Mediterania katika nchi inayoitwa sasa Lebanon. Watu wa Foinike waliishi hapo kwanza. Miji hiyo ilidhibitiwa baadaye na serikali nyingi tofauti. Waisraeli hawakuwahi kuchukua udhibiti wa miji hii walipohamia Kanaani. Tiro pia ilikuwa ngome yenye nguvu. Kulikuwa na amani kati ya Tiro na Israeli wakati wa utawala wa baadhi ya wafalme wa Israeli. Watu wa Tiro na Sidoni waliabudu miungu ya uongo na walijulikana kwa kufanya mambo maovu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367643,
+    "content_id": "367643",
     "reference_id": 108152,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tito",
     "media_type": "Text",
     "index_reference": "tito",
@@ -169,13 +255,22 @@
     "content": "<p>Tito ni mwanaume aliyefanya kazi na kusafiri na Paulo. Alikuwa Muumini Myunani  wa taifa la Kigiriki ambaye hakutahiriwa. Alihudumu katika makanisa mengi ambayo Paulo alisaidia kuanzisha. Alikuwa kiongozi muhimu katika kanisa kwenye kisiwa cha Krete. Pia alisaidia kuchukua sadaka iliyotolewa na waumini wa Korintho kwenda Yerusalemu. Kitabu cha Agano Jipya kinachoitwa Tito, ni barua ambayo Paulo alimwandikia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "Tito",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367748,
+    "content_id": "367748",
     "reference_id": 108257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tohara",
     "media_type": "Text",
     "index_reference": "tohara",
@@ -184,13 +279,14 @@
     "content": "<p>Ni desturi miongoni mwa baadhi ya makundi ya watu katika nyakati na maeneo yaliyorekodiwa katika Biblia. Ngozi ya mbele ya kiungo cha kiume hukatwa. Kwa Waisraeli, tohara ilikuwa ishara. Ilionyesha kuwa walikuwa sehemu ya watu ambao Mungu alifanya agano nao. Waisraeli walifanya tohara kwa wanaume tu ambao walikuwa na umri wa zaidi ya siku nane.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367586,
+    "content_id": "367586",
     "reference_id": 108095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tomaso",
     "media_type": "Text",
     "index_reference": "tomaso",
@@ -199,13 +295,22 @@
     "content": "<p>Tomaso ni mmoja wa wanafunzi 12 wa Yesu. Pia aliitwa Didimo ambayo inamaanisha pacha.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Tomaso",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367645,
+    "content_id": "367645",
     "reference_id": 108154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tunda la Roho Mtakatifu",
     "media_type": "Text",
     "index_reference": "tunda la roho mtakatifu",
@@ -214,7 +319,8 @@
     "content": "<p>Hizi ni njia za Mungu ambazo zinaonyesha jinsi watu hufikiria, huzungumza, na hutenda kama Yesu alivyofanya. Roho Mtakatifu huwafanya watu waweze kufanya hivi. Hakuna idadi kamili ya matunda ya Roho Mtakatifu. Paulo na Petro waliorodhesha mifano ya matunda ya Roho Mtakatifu katika maisha ya waumini. Hii ni pamoja na upendo, furaha, amani, uvumilivu, wema, uaminifu, upole na kuwa na udhibiti wa nafsi. Hii ni pamoja na maarifa na utauwa. Pia inajumuisha chochote kinachoonyesha kwamba muumini hivyo anafuata mfano wa Yesu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

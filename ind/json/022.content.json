@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203398,
+    "content_id": "203398",
     "reference_id": 108263,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ujian",
     "media_type": "Text",
     "index_reference": "ujian",
@@ -11,13 +11,14 @@
     "content": "<p>Saat-saat ketika orang harus membuat pilihan yang sulit. Mereka harus memilih antara menaati Allah atau melakukan apa yang ingin mereka lakukan. Pilihan yang mereka ambil menunjukkan apakah mereka mempercayai Allah untuk menyediakan apa yang mereka butuhkan. Tujuan di balik ujian bukanlah untuk membuat orang melakukan kesalahan atau membuat mereka menderita. Tujuannya adalah agar mereka menerima lebih banyak kasih karunia Allah. Allah menguji manusia untuk membantu iman mereka kepada-Nya bertumbuh lebih kuat.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203506,
+    "content_id": "203506",
     "reference_id": 108371,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ukupan",
     "media_type": "Text",
     "index_reference": "ukupan",
@@ -26,13 +27,14 @@
     "content": "<p>Sesuatu yang dibakar untuk menghasilkan asap yang berbau harum. Banyak kelompok orang di sepanjang sejarah telah menggunakan ukupan/dupa dalam praktik ibadah mereka. Allah memberikan petunjuk kepada para imam di Israel mengenai cara membakarnya. Mereka menggunakan cawan yang dangkal untuk membakarnya di atas mezbah. Itu adalah sebuah persembahan untuk menghormati Allah. Ukupan tersebut berbau harum dan ini mengingatkan umat Allah bahwa Allah memberikan mereka hal-hal yang baik. Asap dari ukupan juga merupakan tanda dari doa yang dipanjatkan kepada Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203437,
+    "content_id": "203437",
     "reference_id": 108302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Umat Allah",
     "media_type": "Text",
     "index_reference": "umat allah",
@@ -49,13 +51,14 @@
           "label": "Israel",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203604,
+    "content_id": "203604",
     "reference_id": 108469,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uria",
     "media_type": "Text",
     "index_reference": "uria",
@@ -64,7 +67,65 @@
     "content": "<p>Suami dari Batsyeba dan salah satu dari 30 prajurit utama Daud. Dia adalah seorang Het. Dia adalah orang luar yang dianggap sebagai bagian dari Israel. Daud membunuhnya dalam pertempuran melawan bangsa Amon di Raba.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Uriah",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.2",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.3",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.4",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.5",
+          "type": "person",
+          "preferred_label": "Uria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uri",
+          "type": "person",
+          "preferred_label": "Uri",
+          "confidence": 0.8226,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uri.2",
+          "type": "person",
+          "preferred_label": "Uri",
+          "confidence": 0.8226,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uri.3",
+          "type": "person",
+          "preferred_label": "Uri",
+          "confidence": 0.8226,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

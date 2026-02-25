@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203356,
+    "content_id": "203356",
     "reference_id": 108221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Habel",
     "media_type": "Text",
     "index_reference": "habel",
@@ -11,13 +11,29 @@
     "content": "<p>Anak kedua dari Adam dan Hawa. Ia adalah seorang gembala. Ia mempersembahkan korban persembahan yang menyenangkan bagi Allah. Saudaranya Kain membunuhnya meskipun ia tidak berbuat sesuatu yang salah. Alkitab berbicara tentang darah Habel yang berteriak kepada Allah dari tanah. Ini berarti bahwa Allah perlu membawa keadilan atas pembunuhan Habel. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abel",
+          "type": "person",
+          "preferred_label": "Habel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Abel",
+          "type": "place",
+          "preferred_label": "Habel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203645,
+    "content_id": "203645",
     "reference_id": 108510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hagai",
     "media_type": "Text",
     "index_reference": "hagai",
@@ -26,13 +42,36 @@
     "content": "<p>Seorang nabi di Yehuda ketika pemerintahan Persia berkuasa. Ia mendorong Yosua dan Zerubabel untuk membangun kembali bait suci. Nubuat-nubuatnya dicatat dalam kitab Hagai.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haggai",
+          "type": "person",
+          "preferred_label": "Hagai",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hegai",
+          "type": "person",
+          "preferred_label": "Hegai",
+          "confidence": 0.8386,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggi",
+          "type": "person",
+          "preferred_label": "Hagi",
+          "confidence": 0.8303,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203394,
+    "content_id": "203394",
     "reference_id": 108259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hagar",
     "media_type": "Text",
     "index_reference": "hagar",
@@ -41,13 +80,29 @@
     "content": "<p>Seorang budak dari Mesir yang melayani Sara. Ketika Sara tidak bisa memiliki anak, ia menyuruh Hagar tidur dengan Abraham. Setelah itu, Hagar melahirkan anak Abraham yaitu Ismael. Hagar diperlakukan buruk oleh Sara. Ia dan Ismael diusir. Tetapi Allah memelihara mereka di padang gurun.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "Hagar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gahar",
+          "type": "person",
+          "preferred_label": "Gahar",
+          "confidence": 0.8773,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203222,
+    "content_id": "203222",
     "reference_id": 108087,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hai perempuan",
     "media_type": "Text",
     "index_reference": "hai perempuan",
@@ -56,13 +111,14 @@
     "content": "<p>Cara Yesus berbicara dengan penuh hormat kepada perempuan. Ia memanggil beberapa wanita yang disembuhkan-Nya dengan sebutan hai perempuan. Di waktu yang lain Ia memanggil ibu-Nya Maria dengan sebutan wanita terhormat. Itu menunjukkan kebaikan dan kepedulian.</p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203405,
+    "content_id": "203405",
     "reference_id": 108270,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hak anak sulung",
     "media_type": "Text",
     "index_reference": "hak anak sulung",
@@ -71,13 +127,14 @@
     "content": "<p>Kekuasaan dan pembagian dari harta benda keluarga diberikan kepada anak sulung. Ini terjadi ketika sang ayah dalam suatu keluarga meninggal. Anak sulung menerima harta dua kali lebih banyak daripada anak-anak lainnya. Ia memiliki kekuasaan atas anggota keluarga lainnya seperti yang dimiliki ayahnya. Ia bertanggung jawab untuk menjadi pemimpin dalam keluarga.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203555,
+    "content_id": "203555",
     "reference_id": 108420,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hakim",
     "media_type": "Text",
     "index_reference": "hakim",
@@ -86,13 +143,22 @@
     "content": "<p>Seorang pemimpin yang membuat keputusan terkait hukum. Setiap kelompok di Israel memiliki hakim setempat. Ada juga hakim-hakim di kemah suci dan di bait suci. Mereka membuat keputusan terkait kasus yang terlalu sulit bagi hakim setempat. Orang Lewi membantu para hakim membuat keputusan mereka. Raja-raja di Israel juga melayani sebagai hakim dengan membuat keputusan terkait dengan kasus-kasus. Para hakim selalu melakukan apa yang benar dan adil. Orang-orang harus menghormati mereka dan mematuhi keputusan mereka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Judge",
+          "type": "keyterm",
+          "preferred_label": "hakim",
+          "confidence": 0.8729,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203377,
+    "content_id": "203377",
     "reference_id": 108242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ham",
     "media_type": "Text",
     "index_reference": "ham",
@@ -101,13 +167,29 @@
     "content": "<p>Anak bungsu Nuh. Ia dan istrinya diselamatkan dari air bah karena mereka berada di dalam bahtera. Ia tidak memperlakukan ayahnya dengan hormat ketika Nuh mabuk setelah peristiwa air bah. Karena hal ini, Nuh mengucapkan kutuk daripada berkat atas sebagian keluarga Ham.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ham",
+          "type": "person",
+          "preferred_label": "Ham",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ham.2",
+          "type": "place",
+          "preferred_label": "Ham",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203656,
+    "content_id": "203656",
     "reference_id": 108521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haman",
     "media_type": "Text",
     "index_reference": "haman",
@@ -116,13 +198,78 @@
     "content": "<p>Seorang pemimpin dalam pemerintahan Persia pada zaman Ahasyweros. Ia berasal dari garis keturunan Agag orang Amalek. Ini berarti bahwa Haman berasal dari kelompok orang yang memperlakukan orang Israel dengan buruk. Haman membuat rencana untuk menghancurkan semua orang Yahudi di kerajaan Persia. Ahasyweros memerintahkan agar dia dihukum mati.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haman",
+          "type": "person",
+          "preferred_label": "Haman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman",
+          "type": "person",
+          "preferred_label": "Heman",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman.2",
+          "type": "person",
+          "preferred_label": "Heman",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman.3",
+          "type": "person",
+          "preferred_label": "Heman",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hammath",
+          "type": "person",
+          "preferred_label": "Hamat",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Calneh",
+          "type": "place",
+          "preferred_label": "Hamat",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hamath",
+          "type": "place",
+          "preferred_label": "Hamat",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hammath",
+          "type": "place",
+          "preferred_label": "Hamat",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hammon.2",
+          "type": "place",
+          "preferred_label": "Hammon",
+          "confidence": 0.8011,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203679,
+    "content_id": "203679",
     "reference_id": 108544,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hamba Allah",
     "media_type": "Text",
     "index_reference": "hamba allah",
@@ -131,13 +278,14 @@
     "content": "<p>Seorang hamba yang dijanjikan Allah untuk diutus dalam membantu umat-Nya. Kitab Yesaya mencakup beberapa nubuatan tentang hamba ini. Allah memilih hamba ini untuk menyampaikan pengajaran Allah kepada umat-Nya. Allah menetapkan hamba ini secara terpisah untuk memimpin umat-Nya dengan keadilan. Ia akan menderita pada saat ia melayani. Hamba ini terkadang digambarkan sebagai orang Israel. Ia terkadang digambarkan sebagai seorang nabi atau seseorang yang membantu umat Allah. Di waktu yang lain hamba ini digambarkan sebagai seorang penyelamat yang akan datang di masa depan. Dalam Kisah Para Rasul pasal 3, Petrus menunjukkan bagaimana hamba yang digambarkan dalam kitab Yesaya juga adalah Mesias orang Yahudi. Petrus kemudian menunjukkan bagaimana Yesus merupakan Hamba dan Mesias yang dimaksud.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203585,
+    "content_id": "203585",
     "reference_id": 108450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hana",
     "media_type": "Text",
     "index_reference": "hana",
@@ -146,13 +294,246 @@
     "content": "<p>Ibu dari nabi Samuel. Elkana adalah suaminya. Untuk waktu yang lama ia tidak dapat memiliki anak. Kemudian Allah mengizinkannya untuk mengandung. Dengan penuh rasa syukur, ia berdoa dengan doa yang indah mengenai pemeliharaan Allah atas umat-Nya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Anna",
+          "type": "person",
+          "preferred_label": "Hana",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hannah",
+          "type": "person",
+          "preferred_label": "Hana",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.2",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.3",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.4",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.5",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.6",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.7",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.8",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.9",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Annas",
+          "type": "person",
+          "preferred_label": "Hanas",
+          "confidence": 0.8562,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.10",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.11",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.12",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.13",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.14",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.15",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.2",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.3",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.4",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.5",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.6",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.7",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.8",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.9",
+          "type": "person",
+          "preferred_label": "Hananya",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hena",
+          "type": "place",
+          "preferred_label": "Hena",
+          "confidence": 0.8227,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanani",
+          "type": "person",
+          "preferred_label": "Hanani",
+          "confidence": 0.8161,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanani.2",
+          "type": "person",
+          "preferred_label": "Hanani",
+          "confidence": 0.8161,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanani.3",
+          "type": "person",
+          "preferred_label": "Hanani",
+          "confidence": 0.8161,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanani.4",
+          "type": "person",
+          "preferred_label": "Hanani",
+          "confidence": 0.8161,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanani.5",
+          "type": "person",
+          "preferred_label": "Hanani",
+          "confidence": 0.8161,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203501,
+    "content_id": "203501",
     "reference_id": 108366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hari Pendamaian",
     "media_type": "Text",
     "index_reference": "hari pendamaian",
@@ -169,13 +550,14 @@
           "label": "Menebus",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203190,
+    "content_id": "203190",
     "reference_id": 108055,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hari Penghakiman",
     "media_type": "Text",
     "index_reference": "hari penghakiman",
@@ -192,13 +574,14 @@
           "label": "Hari Tuhan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203512,
+    "content_id": "203512",
     "reference_id": 108377,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hari Raya Pondok Daun",
     "media_type": "Text",
     "index_reference": "hari raya pondok daun",
@@ -207,13 +590,14 @@
     "content": "<p>Perayaan Yahudi yang dimulai lima hari setelah hari di mana dosa-dosa ditebus. Orang-orang merayakan panen dan bagaimana Allah memenuhi kebutuhan mereka. Kaum pria dari bangsa Israel diwajibkan untuk melakukan perjalanan ke kemah suci atau bait suci untuk perayaan ini. Selama tujuh hari perayaan, mereka tidur di pondok-pondok. Ini untuk mengenang bagaimana mereka pernah tinggal dalam pondok atau kemah selama di padang gurun. Setiap tujuh tahun hukum perjanjian akan dibacakan dengan keras selama perayaan ini.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203658,
+    "content_id": "203658",
     "reference_id": 108523,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hari Raya Purim",
     "media_type": "Text",
     "index_reference": "hari raya purim",
@@ -222,13 +606,14 @@
     "content": "<p>Perayaan Yahudi untuk merayakan penyelamatan dari rencana Haman untuk menghancurkan semua orang Yahudi. Hari raya ini bukan salah satu perayaan yang disebutkan dalam Hukum Musa. Orang Yahudi mulai merayakannya ketika pemerintahan Persia berkuasa. Mereka merayakannya pada hari ke-14 dan ke-15 dalam bulan ke-12. Hari raya ini dinamakan Purim karena Haman membuang undi untuk menentukan kapan akan menghancurkan orang Yahudi. Dalam bahasa Ibrani kata Pur berarti undian. Perintah dari Ester dan Mordekhai telah menyelamatkan orang Yahudi dari rencana Haman. Perayaan ini seharusnya menjadi saat yang penuh sukacita untuk menikmati makanan yang enak dan memberikan hadiah bagi orang miskin. Membaca kitab Ester dengan suara keras menjadi praktik yang umum selama Hari Raya Purim.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203508,
+    "content_id": "203508",
     "reference_id": 108373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hari Raya Roti Tidak Beragi",
     "media_type": "Text",
     "index_reference": "hari raya roti tidak beragi",
@@ -237,13 +622,14 @@
     "content": "<p>Perayaan Yahudi yang berlangsung selama tujuh hari setelah Paskah. Selama perayaan ini roti yang dimakan oleh bangsa Israel tidak mengandung ragi. Ini untuk mengingatkan mereka tentang peristiwa keluaran. Ketika Allah membebaskan mereka dari perbudakan, mereka dengan segera meninggalkan Mesir. Mereka tidak punya waktu untuk menggunakan ragi di dalam roti mereka. Kaum pria dari bangsa Israel diharuskan untuk melakukan perjalanan ke kemah suci atau bait suci untuk perayaan ini.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203511,
+    "content_id": "203511",
     "reference_id": 108376,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hari Raya Sangkakala",
     "media_type": "Text",
     "index_reference": "hari raya sangkakala",
@@ -252,13 +638,14 @@
     "content": "<p>Hari pertama di bulan ketujuh. Tanduk domba ditiup seperti terompet. Hari raya ini jatuh pada sembilan hari sebelum hari penebusan dosa. Bangsa Israel menggunakan hari itu untuk beristirahat dan merenungkan serta mengakui dosa-dosa mereka. Mereka menggunakannya untuk bersiap menghadapi Hari Pendamaian. Perayaan ini sekarang disebut dengan Rosh Hashanah. Hari itu sekarang dianggap sebagai hari pertama dari tahun yang baru bagi orang Yahudi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203348,
+    "content_id": "203348",
     "reference_id": 108213,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hari Sabat",
     "media_type": "Text",
     "index_reference": "hari sabat",
@@ -267,13 +654,14 @@
     "content": "<p>Hari ketujuh dalam seminggu bagi orang Israel dan Yahudi. Hari itu adalah hari yang kudus ketika mereka beristirahat dan tidak bekerja. Ini termasuk ternak mereka, para pelayan dan orang luar yang tinggal bersama mereka. Itu adalah hari untuk menghormati bagaimana Allah beristirahat setelah menciptakan dunia. Hari Sabat juga merupakan hari peristirahatan yang dijanjikan Allah kepada bangsa Israel setelah membebaskan mereka dari perbudakan di Mesir. Hari Sabat adalah tanda perjanjian Tuhan dengan bangsa Israel di Gunung Sinai. Hari tersebut merupakan pengingat bahwa Allah itu baik dan menyediakan apa yang dibutuhkan umat-Nya. Belakangan, para pemimpin agama Yahudi membuat banyak aturan tentang apa yang boleh dilakukan pada hari Sabat. Aturan-aturan ini tidak selalu membantu orang untuk menghormati Allah. Yesus mengajarkan kepada orang-orang bagaimana cara menghormati Allah pada hari Sabat. Meskipun para pemimpin menentang-Nya, Dia melakukan mukjizat pada hari Sabat.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203307,
+    "content_id": "203307",
     "reference_id": 108172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hari Tuhan",
     "media_type": "Text",
     "index_reference": "hari tuhan",
@@ -282,13 +670,14 @@
     "content": "<p>Yohanes penulis kitab Wahyu menyebut hari Minggu atau hari setelah hari Sabat. Ini adalah hari dalam satu minggu ketika Yesus dibangkitkan dari kematian. Karena itu, gereja-gereja mulai berkumpul untuk menyembah Allah pada hari Minggu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203706,
+    "content_id": "203706",
     "reference_id": 108571,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hari Tuhan",
     "media_type": "Text",
     "index_reference": "hari tuhan",
@@ -312,13 +701,14 @@
           "label": "Kedatangan Yesus kembali",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203671,
+    "content_id": "203671",
     "reference_id": 108536,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hari-hari terakhir",
     "media_type": "Text",
     "index_reference": "hari-hari terakhir",
@@ -327,13 +717,14 @@
     "content": "<p>Suatu cara untuk berbicara tentang suatu masa di masa depan. Beberapa nabi dalam Alkitab menggambarkannya sebagai waktu ketika Allah akan bertindak. Dia akan mengambil tindakan untuk memastikan bahwa semua orang menghormati-Nya. Penulis-penulis lain di dalam Alkitab menggambarkannya sebagai masa penderitaan. Itu akan menjadi waktu sebelum Allah menghakimi dunia. Orang-orang akan melakukan banyak hal jahat pada masa itu. Beberapa penulis Perjanjian Baru menggambarkan masa setelah kebangkitan Yesus sebagai hari-hari terakhir. Masa itu dianggap sebagai masa di mana gereja tetap ada sampai Yesus datang kembali ke bumi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203441,
+    "content_id": "203441",
     "reference_id": 108306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Harun",
     "media_type": "Text",
     "index_reference": "harun",
@@ -357,13 +748,22 @@
           "label": "Orang Lewi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Aaron",
+          "type": "person",
+          "preferred_label": "Harun",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203509,
+    "content_id": "203509",
     "reference_id": 108374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hasil panen pertama",
     "media_type": "Text",
     "index_reference": "hasil panen pertama ",
@@ -372,13 +772,14 @@
     "content": "<p>Bangsa Israel harus membawa persembahan dari hasil panen pertama mereka. Mereka melakukan hal ini pada awal panen pada saat Hari Raya Roti Tidak Beragi. Ini mengingatkan mereka bahwa tanah dan apa yang dihasilkan adalah milik Allah. Hal ini mengingatkan mereka bahwa Allah menyediakan segala sesuatu yang mereka butuhkan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203554,
+    "content_id": "203554",
     "reference_id": 108419,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hati",
     "media_type": "Text",
     "index_reference": "hati",
@@ -387,13 +788,22 @@
     "content": "<p>Di seluruh bagian Alkitab ada dua arti untuk kata hati. Arti yang pertama adalah bagian tubuh yang berdetak di dalam dada. Arti yang kedua adalah bagian spiritual dari orang-orang di mana mereka dapat merasakan perasaan mereka. Di situlah mereka membuat keputusan tentang apa yang harus dilakukan dan siapa yang harus disembah. Allah mengetahui hati setiap orang. Ia tahu apa yang mereka pikirkan dan rasakan serta alasan mengapa mereka mengambil keputusan itu. Umat Allah harus melayani Allah dengan sepenuh hati. Ini berarti mereka harus sepenuhnya berkomitmen untuk hidup sesuai dengan cara-cara Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Heart",
+          "type": "keyterm",
+          "preferred_label": "hati",
+          "confidence": 0.8737,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203340,
+    "content_id": "203340",
     "reference_id": 108205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hawa",
     "media_type": "Text",
     "index_reference": "hawa",
@@ -402,13 +812,22 @@
     "content": "<p>Manusia kedua yang diciptakan Allah dan juga adalah perempuan pertama. Adam adalah suaminya. Dalam bahasa Ibrani nama Hawa berarti pemberi kehidupan. Allah membuat Hawa dari salah satu tulang rusuk Adam. Ia memiliki hubungan yang erat dan damai dengan Allah saat ia tinggal di Taman Eden. Ia bekerja bersama dengan Adam untuk merawat taman itu. Ia merupakan ibu dari Kain, Habel, dan Set. Ketika Adam dan Hawa tidak lagi menaati Allah, mereka harus meninggalkan Taman Eden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eve",
+          "type": "person",
+          "preferred_label": "Hawa",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203363,
+    "content_id": "203363",
     "reference_id": 108228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Henokh",
     "media_type": "Text",
     "index_reference": "henokh",
@@ -417,13 +836,43 @@
     "content": "<p>Anak dari Yared dalam garis keturunan Set dan ayah dari Metusalah. Ia setia kepada Allah. Ia tidak mati dan tidak dikuburkan seperti orang lain. Allah mengambilnya dari bumi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Enoch",
+          "type": "person",
+          "preferred_label": "Henokh",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Enoch.2",
+          "type": "person",
+          "preferred_label": "Henokh",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanoch",
+          "type": "person",
+          "preferred_label": "Henokh",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanoch.2",
+          "type": "person",
+          "preferred_label": "Henokh",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203245,
+    "content_id": "203245",
     "reference_id": 108110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Agripa I",
     "media_type": "Text",
     "index_reference": "herodes agripa i",
@@ -432,13 +881,14 @@
     "content": "<p>Raja Herodes dalam Kisah Para Rasul pasal 12. Ia adalah cucu dari Herodes Agung. Ia juga keponakan dari Herodes Antipas. Ia adalah ayah dari Herodes Agripa II. Kedua putrinya yaitu Bernike dan Drusila.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203274,
+    "content_id": "203274",
     "reference_id": 108139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Agripa II",
     "media_type": "Text",
     "index_reference": "herodes agripa ii",
@@ -447,13 +897,14 @@
     "content": "<p>Raja Agripa dalam Kisah Para Rasul pasal 25 dan 26. Ia adalah anak dari Herodes Agripa I. Diperkirakan bahwa saudara perempuannya Bernike tinggal bersamanya sebagai istrinya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203693,
+    "content_id": "203693",
     "reference_id": 108558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Agung",
     "media_type": "Text",
     "index_reference": "herodes agung",
@@ -462,13 +913,36 @@
     "content": "<p>Raja Herodes dalam Matius 2 dan Lukas 1. Ia adalah penguasa yang ditunjuk oleh orang Romawi dengan gelar Raja Orang Yahudi. Ia memerintah sebagai raja sekitar tahun 36 SM hingga 4 SM. Ia memerintah atas Yudea dan semua tanah Israel. Ia berasal dari garis keturunan Esau tetapi dianggap sebagai orang Yahudi. Ia memerintahkan banyak pekerjaan pembangunan yang harus dilakukan. Ini termasuk kota Kaisarea dan bait suci di Yerusalem. Ia memerintahkan bait suci untuk dibuat lebih besar dan lebih megah daripada yang sebelumnya. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.8607,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.8607,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.8607,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203192,
+    "content_id": "203192",
     "reference_id": 108057,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Antipas",
     "media_type": "Text",
     "index_reference": "herodes antipas",
@@ -477,13 +951,14 @@
     "content": "<p>Herodes dalam Matius pasal 14, Markus pasal 6, dan Lukas pasal 3, 9, dan 23. Ia adalah anak dari Herodes Agung. Ia memerintah di Galilea dan Perea pada zaman Yesus. Perea terletak di sebelah timur Sungai Yordan. Ia menikahi istri dari saudaranya Filipus. Namanya adalah Herodias. Herodes Antipas memerintahkan Yohanes Pembaptis untuk dihukum mati.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203197,
+    "content_id": "203197",
     "reference_id": 108062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodian",
     "media_type": "Text",
     "index_reference": "herodian",
@@ -492,13 +967,36 @@
     "content": "<p>Para pendukung penguasa dari garis keturunan Herodes Agung</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Herodian",
+          "type": "group",
+          "preferred_label": "Herodians",
+          "confidence": 0.9196,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herodion",
+          "type": "person",
+          "preferred_label": "Herodion",
+          "confidence": 0.9091,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "Herodias",
+          "confidence": 0.8661,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203179,
+    "content_id": "203179",
     "reference_id": 108044,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hidup kudus",
     "media_type": "Text",
     "index_reference": "hidup kudus",
@@ -507,13 +1005,14 @@
     "content": "<p>Mengikuti teladan Yesus dari cara berpikir, berbicara, dan bertindak. Inilah cara orang percaya dapat menjadi kudus seperti Allah itu kudus. Ada banyak alasan mengapa Allah ingin umat-Nya menjalani hidup yang kudus. Salah satu alasannya yaitu karena Roh Kudus tinggal di antara mereka dan di dalam mereka. Alasan lainnya yaitu karena hidup kudus dapat membantu anggota keluarga Allah untuk memperlakukan orang lain dengan baik. Ini membantu mereka untuk selalu menunjukkan kepedulian dan kasih terhadap satu sama lain. Hidup kudus menunjukkan bahwa orang-orang percaya telah dibebaskan dari kuasa dosa dan kematian. Ini membantu mereka menyebarkan pesan mengenai Yesus di antara orang-orang yang tidak percaya. Roh Kudus memungkinkan orang percaya untuk hidup dengan cara yang kudus. Hidup kudus juga disebut kehidupan yang saleh.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203704,
+    "content_id": "203704",
     "reference_id": 108569,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hidup yang kekal",
     "media_type": "Text",
     "index_reference": "hidup yang kekal",
@@ -522,13 +1021,14 @@
     "content": "<p>Hidup yang tidak bisa dihancurkan oleh dosa atau kematian. Itu akan tetap selamanya. Yesus adalah manusia pertama yang memiliki hidup yang kekal. Itu adalah hidup yang Ia miliki ketika Allah membangkitkan-Nya dari kematian. Yesus memberikan hal itu kepada semua yang percaya kepada-Nya dan mengikuti-Nya. Mereka akan memiliki hidup yang kekal dalam ciptaan yang baru. Sebuah kehidupan dalam damai sejahtera dan hubungan yang erat dengan Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203460,
+    "content_id": "203460",
     "reference_id": 108325,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hikmat",
     "media_type": "Text",
     "index_reference": "hikmat",
@@ -537,13 +1037,22 @@
     "content": "<p>Keterampilan, kemampuan, pengetahuan dan pemahaman tentang sesuatu. Hikmat dari Allah mencakup akal sehat dan kemampuan untuk membedakan yang benar dari yang salah. Hal ini termasuk mengetahui apa yang benar dan adil dan melakukannya. Ini termasuk mengambil tindakan yang diperlukan ketika dibutuhkan. Hal ini didasarkan pada rasa hormat kepada Allah. Hikmat adalah lawan dari kebodohan. Hikmat dari Allah adalah berkat rohani yang Allah berikan kepada umat-Nya. Kitab Amsal menggambarkan bagaimana hikmat adalah bagian dari Allah yang menciptakan dunia. 1 Korintus 1:30 menggambarkan Yesus sebagai hikmat Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:SoundWisdom",
+          "type": "keyterm",
+          "preferred_label": "hikmat",
+          "confidence": 0.8419,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203631,
+    "content_id": "203631",
     "reference_id": 108496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hizkia",
     "media_type": "Text",
     "index_reference": "hizkia",
@@ -552,13 +1061,57 @@
     "content": "<p>Anak dari Ahas dan Abia. Ia adalah ayah Manasye dan berasal dari suku Yehuda. Ia merupakan raja kedua belas dari kerajaan Yehuda bagian selatan. Saat ia menjadi raja, Allah melakukan mukjizat untuk menyelamatkan Yerusalem dari Asyur. Hizkia mengikuti Allah dengan setia dan memimpin umat untuk menyembah hanya kepada Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Hizkia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.2",
+          "type": "person",
+          "preferred_label": "Hizkia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.3",
+          "type": "person",
+          "preferred_label": "Hizkia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.4",
+          "type": "person",
+          "preferred_label": "Hizkia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hizkiah",
+          "type": "person",
+          "preferred_label": "Hizkia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hizki",
+          "type": "person",
+          "preferred_label": "Hizki",
+          "confidence": 0.8397,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203522,
+    "content_id": "203522",
     "reference_id": 108387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hobab",
     "media_type": "Text",
     "index_reference": "hobab",
@@ -567,13 +1120,29 @@
     "content": "<p>Saudara ipar Musa. Ia adalah anak dari Rehuel yang juga disebut Yitro. Hobab adalah saudara dari istri Musa yaitu Zipora. Ia adalah bagian dari kelompok orang Keni. Ia tinggal bersama bangsa Israel pada saat mereka melakukan perjalanan dari Gunung Sinai ke Kanaan. Ia memandu mereka di padang gurun.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hobab",
+          "type": "person",
+          "preferred_label": "Hobab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hobah",
+          "type": "place",
+          "preferred_label": "Hoba",
+          "confidence": 0.8758,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203705,
+    "content_id": "203705",
     "reference_id": 108570,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hosea",
     "media_type": "Text",
     "index_reference": "hosea",
@@ -582,13 +1151,43 @@
     "content": "<p>Seorang nabi di kerajaan Israel bagian utara. Ia bernubuat selama zaman Raja Yerobeam yang kedua sampai pada zaman kerajaan utara dihancurkan oleh Asyur. Nubuatan-nubuatannya dicatat dalam kitab Hosea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hosea",
+          "type": "person",
+          "preferred_label": "Hosea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshea",
+          "type": "person",
+          "preferred_label": "Hosea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshea.2",
+          "type": "person",
+          "preferred_label": "Hosea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshea.3",
+          "type": "person",
+          "preferred_label": "Hosea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203282,
+    "content_id": "203282",
     "reference_id": 108147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hukum Kristus",
     "media_type": "Text",
     "index_reference": "hukum kristus",
@@ -597,13 +1196,14 @@
     "content": "<p>Sebuah cara untuk berbicara tentang mengikuti teladan Yesus mengenai cara hidup. Yesus memerintahkan murid-murid-Nya untuk mengasihi Allah dengan segenap hati, jiwa, kekuatan, dan akal budi mereka. Ia memerintahkan mereka untuk mengasihi sesama seperti diri mereka sendiri (Lukas 10:27). Saat Ia berada di bumi, Yesus menunjukkan kepada mereka bagaimana melakukan hal ini. Yesus mengasihi dan menaati Bapa-Nya. Ia mengorbankan diri-Nya demi kebaikan orang lain. Ia melepaskan hak-Nya untuk menyelamatkan dunia. Ia melayani orang lain untuk menunjukkan kepada mereka betapa besar kasih Allah bagi mereka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203470,
+    "content_id": "203470",
     "reference_id": 108335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hukum Musa",
     "media_type": "Text",
     "index_reference": "hukum musa",
@@ -627,13 +1227,14 @@
           "label": "Sepuluh Perintah Allah",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203205,
+    "content_id": "203205",
     "reference_id": 108070,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hukum Yahudi",
     "media_type": "Text",
     "index_reference": "hukum yahudi",
@@ -657,13 +1258,14 @@
           "label": "Hukum Musa",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203497,
+    "content_id": "203497",
     "reference_id": 108362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hukum-hukum dalam Imamat",
     "media_type": "Text",
     "index_reference": "hukum-hukum dalam imamat",
@@ -672,7 +1274,8 @@
     "content": "<p>Allah memberikan hukum kepada Musa dan Harun tentang bagaimana orang Israel harus hidup bersama. Banyak di antaranya merupakan aturan umum tentang hal-hal yang mungkin terjadi pada masa itu. Hukum-hukum tersebut membantu umat belajar tentang siapa Allah. Hukum-hukum tersebut membantu mereka untuk membuat keputusan yang bijaksana tentang hal-hal sehari-hari. Umat Allah harus membuat semua keputusan mereka berdasarkan siapa Allah itu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

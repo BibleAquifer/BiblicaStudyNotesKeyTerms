@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133874,
+    "content_id": "133874",
     "reference_id": 108072,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "البحر",
     "media_type": "Text",
     "index_reference": "البحر",
@@ -11,13 +11,14 @@
     "content": "<p>تصف العديد من القصص في الكتاب المقدس البحر بأنه شيء يجب الخوف منه. كان شيئًا يحتاج الناس أن ينقذهم الله منه. شمل ذلك عبور بني إسرائيل البحر الأحمر. وشمل ذلك يونان عندما أُلقي في البحر. وشمل ذلك يسوع عندما هدأ العاصفة في البحر. وشمل رؤية يوحنا في سفر الرؤيا للوحش الذي جاء من البحر.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134377,
+    "content_id": "134377",
     "reference_id": 108575,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "البحر الأبيض المتوسط",
     "media_type": "Text",
     "index_reference": "البحر الأبيض المتوسط",
@@ -26,13 +27,14 @@
     "content": "<p>مسطح مائي ضخم يربط بين أفريقيا وآسيا وأوروبا. كانت الحدود الغربية للأرض التي وعد الله بني إسرائيل بإعطائها لهم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134122,
+    "content_id": "134122",
     "reference_id": 108320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "البحر الأحمر",
     "media_type": "Text",
     "index_reference": "البحر الأحمر",
@@ -41,13 +43,14 @@
     "content": "<p>مسطح مائي كبير على حدود مصر في زمن الخروج. من غير المعروف على وجه اليقين أي مسطح مائي هو هذا المسطح المائي اليوم. شَق الله البحر حتى يتمكن شعب إسرائيل من العبور على أرض جافة. بعد أن وصل بنو إسرائيل إلى الجانب الآخر، غرق المصريون في البحر.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133957,
+    "content_id": "133957",
     "reference_id": 108155,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "البَرَكات الروحِيَّة",
     "media_type": "Text",
     "index_reference": "البَرَكات الروحِيَّة",
@@ -56,13 +59,14 @@
     "content": "<p>الطرق التي يبارك الله بها شعبه روحيًا. هذه البركات ليست شيئًا ماديًا يمكن أن يحمله الناس في أيديهم. إنها كنوز في السماء التي تحدث عنها يسوع (متى 6: 19–21). هناك أنواع كثيرة من البركات الروحية. الحكمة، والفهم، والنعمة، والرجاء، والمحبة هي بركات روحية. غفران الخطايا والحصول على الحياة الأبدية هي أيضًا بركات روحية. الناس لا يكتسبون البركات الروحية، إنما يمنحها الله مجانًا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134041,
+    "content_id": "134041",
     "reference_id": 108239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بابل",
     "media_type": "Text",
     "index_reference": "بابل",
@@ -71,13 +75,22 @@
     "content": "<p>المدينة التي عمل الناس معًا في بنائها قبل أن يتكلموا لغات مختلفة. بدأوا في بناء برج عالٍ في مدينة بابل. أرادوا البقاء هناك بدلاً من الانتشار على الأرض. كان هذا ضد ما أراده الله للناس. أوقفهم الله بتغيير اللغة التي كانوا يتكلمون بها. هذا الأمر أربكهم لأنهم لم يعودوا قادرين على فهم بعضهم البعض. في اللغة العبرية، تبدو كلمة بابل في اللغة العبرية مثل كلمة تشويش. كانت بابل علامة على عمل الناس معًا ضد مشيئة الله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Babylon.2",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.8761,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134300,
+    "content_id": "134300",
     "reference_id": 108498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بابل",
     "media_type": "Text",
     "index_reference": "بابل",
@@ -86,13 +99,22 @@
     "content": "<p>كانت مدينة بابل عاصمة المملكة البابلية. وقد كانت مملكة بابل موجودة في بلاد ما بين النهرين وقد استمرت لآلاف السنين. أصبحت مملكة قوية وسادت علي العديد من الأمم والشعوب الأخرى. كان العديد من البابليين من المجموعة العرقية التي تُدعى الكلدانيين. وقد سيطرت بابل على يهوذا أي المملكة الجنوبية. وفي عام 586 قبل الميلاد، دمرت جيوش بابل مدينة أورشليم، كما دمرت الهيكل الذي بناه سليمان الملك. ولقد أجبروا العديد من سكان يهوذا على ترك أرضهم. وقد كان عليهم العيش في أرض سبيهم في بابل. كان مردوخ-بلادان، ونبوخذ نصر، وأميل مردوخ وبيلشاصر من ملوك الكلدانيين الذين ملكوا في بابل. وقد انتصرت المملكة الفارسية على مملكة بابل في عام 539 قبل الميلاد. تستخدم بعض أسفار الكتاب المقدس اسم بابل للتعبير عن الممالك القوية. فإن الاسم &quot;بابل&quot; يُستخدم لوصف الممالك الغنية والمتكبرة التي لم تُكرم الله. لقد حاولوا أن يكونوا أقوى من أي مملكة أو شعب آخر. فلقد تسلّطوا علي الأمم الأخرى بدون رحمة وعاملوا الناس بشكل شديد القسوة. وفي سفر الرؤيا، استخدم يوحنا اسم بابل كرمز يعكس سلطان الإمبراطورية الرومانية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Babylon.2",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.8761,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134097,
+    "content_id": "134097",
     "reference_id": 108295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بِئْرُ سَبْع",
     "media_type": "Text",
     "index_reference": "بِئْرُ سَبْع",
@@ -101,13 +123,14 @@
     "content": "<p>مدينة في جنوب كنعان. أصبحت المدينة الأكثر جنوبًا في أرض إسرائيل. حفر إبراهيم بئرًا هناك. كلم الله هاجر وإسحق ويعقوب وإيليا في بئر سبع أو في الصحراء القريبة منها.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134056,
+    "content_id": "134056",
     "reference_id": 108254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بار مع الله",
     "media_type": "Text",
     "index_reference": "بار مع الله",
@@ -116,13 +139,14 @@
     "content": "<p>أن تكون قادرًا على العيش في سلام وفرح مع الله. هذا يسمى أيضًا أن يُصبح الإنسان بارًا أو مُبررًا. هذا يعني أنه يمكن للناس أن يتمتعوا ببركات عهد الله، وأن يمكن أن يتحرروا من قوة الخطية والموت والشر، حيث يحررهم الله من خلال موت يسوع وقيامته. الناس الذين يثقون بالله ويؤمنون به يصبحون أبرار معه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133878,
+    "content_id": "133878",
     "reference_id": 108076,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "باراباس",
     "media_type": "Text",
     "index_reference": "باراباس",
@@ -131,13 +155,22 @@
     "content": "<p>يهودي كان مذنبًا بجريمة قتل ومحاربة الحكومة الرومانية. وضعه الرومان في السجن. أطلق بيلاطس سراحه بدلاً من إطلاق سراح يسوع في عيد الفصح.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barabbas",
+          "type": "person",
+          "preferred_label": "بَارَابَاسَ",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134237,
+    "content_id": "134237",
     "reference_id": 108435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَارَاق",
     "media_type": "Text",
     "index_reference": "بَارَاق",
@@ -146,13 +179,29 @@
     "content": "<p>إسرائيلي من سبط نفتالي. أطاع أوامر الله بمهاجمة جيش سيسرا. لكنه لم يكن على استعداد لطاعة الله إلا إذا ذهبت معه دبّورة النبية. وقد أنشد مع دبّورة نشيدًا مهمًا عن انتصارهم في الإصحاح 5 من سفر القضاة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barak",
+          "type": "person",
+          "preferred_label": "بَارَاق",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "بَالَاق",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134176,
+    "content_id": "134176",
     "reference_id": 108374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "باكورة",
     "media_type": "Text",
     "index_reference": "باكورة",
@@ -161,13 +210,14 @@
     "content": "<p>كان على بني إسرائيل أن يقدموا باكورة محاصيلهم. كانوا يفعلون ذلك في بداية الحصاد خلال عيد الفطير. كان هذا يذكرهم بأن الأرض وما تنتجه مِلكٌ لله. وذكّرهم ذلك بأن الله كان يوفر لهم كل ما يحتاجون إليه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134198,
+    "content_id": "134198",
     "reference_id": 108396,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بالاق",
     "media_type": "Text",
     "index_reference": "بالاق",
@@ -176,13 +226,14 @@
     "content": "<p>ملك موآب في الوقت الذي كان فيه  بنو إسرائيل مسافرين إلى كنعان. استأجر النبي بلعام ليلعن بني إسرائيل. ظن أن هذا سيساعده على طرد بني إسرائيل من أرضه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134270,
+    "content_id": "134270",
     "reference_id": 108468,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَثْشَبَع",
     "media_type": "Text",
     "index_reference": "بَثْشَبَع",
@@ -191,13 +242,400 @@
     "content": "<p>زوجة أوريا الحثي. زنى بها داود، وقتل زوجها ثم اتخذها زوجة له. مات طفلها الأول من داود نتيجة خطايا داود. وكان ابنها الثاني من داود هو سُليمان. جاء يسوع من نسل بثشبع.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ethbaal",
+          "type": "person",
+          "preferred_label": "أَثْبَعَلَ",
+          "confidence": 0.8733,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishbah",
+          "type": "person",
+          "preferred_label": "يِشْبَحَ",
+          "confidence": 0.861,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishbak",
+          "type": "person",
+          "preferred_label": "يِشْبَاقَ",
+          "confidence": 0.8585,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hizki",
+          "type": "person",
+          "preferred_label": "حَزْقِي",
+          "confidence": 0.8572,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tahpanhes",
+          "type": "place",
+          "preferred_label": "تَحْفَنْحِيسَ",
+          "confidence": 0.8521,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Achzib",
+          "type": "place",
+          "preferred_label": "أَكْزِيبَ",
+          "confidence": 0.8445,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Achzib.2",
+          "type": "place",
+          "preferred_label": "أَكْزِيبَ",
+          "confidence": 0.8445,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ibhar",
+          "type": "person",
+          "preferred_label": "يِبْحَار",
+          "confidence": 0.844,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tiphsah",
+          "type": "place",
+          "preferred_label": "تَفْصَحَ",
+          "confidence": 0.8427,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tiphsah.2",
+          "type": "place",
+          "preferred_label": "تَفْصَحَ",
+          "confidence": 0.8427,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Patmos",
+          "type": "place",
+          "preferred_label": "بَطْمسَ",
+          "confidence": 0.841,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishpah",
+          "type": "person",
+          "preferred_label": "يِشْفَة",
+          "confidence": 0.8369,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Joktheel",
+          "type": "place",
+          "preferred_label": "يَقْتِئِيل",
+          "confidence": 0.8355,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jazer",
+          "type": "place",
+          "preferred_label": "يَعْزِيرَ",
+          "confidence": 0.8353,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:JazerSea",
+          "type": "place",
+          "preferred_label": "يَعْزِيرَ",
+          "confidence": 0.8353,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshbekashah",
+          "type": "person",
+          "preferred_label": "يشْبَقَاشَة",
+          "confidence": 0.8347,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jezer",
+          "type": "person",
+          "preferred_label": "يِصْر",
+          "confidence": 0.8346,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tappuah",
+          "type": "person",
+          "preferred_label": "تَفّوحَ",
+          "confidence": 0.8333,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tappuah",
+          "type": "place",
+          "preferred_label": "تَفّوحَ",
+          "confidence": 0.8333,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tappuah.2",
+          "type": "place",
+          "preferred_label": "تَفّوحَ",
+          "confidence": 0.8333,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jabez",
+          "type": "person",
+          "preferred_label": "يَعْبِيص",
+          "confidence": 0.8325,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabez",
+          "type": "place",
+          "preferred_label": "يَعْبِيص",
+          "confidence": 0.8325,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggi",
+          "type": "person",
+          "preferred_label": "حَجِّي",
+          "confidence": 0.8317,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Stachys",
+          "type": "person",
+          "preferred_label": "إِسْتَاخِيسَ",
+          "confidence": 0.8259,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tahpenes",
+          "type": "person",
+          "preferred_label": "تَحْفَنِيسَ",
+          "confidence": 0.8251,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bakbuk",
+          "type": "person",
+          "preferred_label": "بَقْبوقَ",
+          "confidence": 0.8236,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nephtoah",
+          "type": "place",
+          "preferred_label": "نَفْتوحَ",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bakbakkar",
+          "type": "person",
+          "preferred_label": "بَقْبَقَّر",
+          "confidence": 0.8173,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tarshish",
+          "type": "person",
+          "preferred_label": "تَرْشِيشَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tarshish.2",
+          "type": "person",
+          "preferred_label": "تَرْشِيشَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tarshish",
+          "type": "place",
+          "preferred_label": "تَرْشِيشَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jotbah",
+          "type": "place",
+          "preferred_label": "يَطْبَةَ",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zebah",
+          "type": "person",
+          "preferred_label": "زَبَح",
+          "confidence": 0.8155,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nezib",
+          "type": "place",
+          "preferred_label": "نَصِيب",
+          "confidence": 0.8121,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Tammuz",
+          "type": "deity",
+          "preferred_label": "تَمّوزَ",
+          "confidence": 0.811,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.3",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.4",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tahash",
+          "type": "person",
+          "preferred_label": "تَاحَشَ",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ikkesh",
+          "type": "person",
+          "preferred_label": "عِقِّيشَ",
+          "confidence": 0.8075,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shishak",
+          "type": "person",
+          "preferred_label": "شِيشَقَ",
+          "confidence": 0.8051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Atharim",
+          "type": "place",
+          "preferred_label": "أَتَارِيمَ",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaashgaz",
+          "type": "person",
+          "preferred_label": "شَعَشْغَازَ",
+          "confidence": 0.8036,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashhur",
+          "type": "person",
+          "preferred_label": "أَشْحورَ",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabbok",
+          "type": "place",
+          "preferred_label": "يَبّوقَ",
+          "confidence": 0.8023,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jarha",
+          "type": "person",
+          "preferred_label": "يَرْحَع",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baasha",
+          "type": "person",
+          "preferred_label": "بَعْشَا",
+          "confidence": 0.8007,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "بطْرس",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134173,
+    "content_id": "134173",
     "reference_id": 108371,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَخور",
     "media_type": "Text",
     "index_reference": "بَخور",
@@ -206,13 +644,14 @@
     "content": "<p>شيء يُشعَل ويُخرج دخان ذو رائحة طيبة. استخدمت العديد من الجماعات البشرية عبر التاريخ البخور في ممارسات عبادتهم. أعطى الله تعليمات للكهنة في إسرائيل حول كيفية حرقه. كانوا يستخدمون آنية ضحلة لحرقه على المذبح. وقد كانت تقدمة لتكريم الله. كانت رائحة البخور طيبة، وكان هذا يذكّر شعب الله بأن الله أعطاهم الخيرات. كان الدخان المتصاعد من البخور أيضًا علامةً على الصلوات التي كانت تُصلّى لله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133978,
+    "content_id": "133978",
     "reference_id": 108176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَرْغَامُس",
     "media_type": "Text",
     "index_reference": "بَرْغَامُس",
@@ -221,13 +660,22 @@
     "content": "<p>مدينة مهمة في الأراضي الرومانية في آسيا بالقرب من بحر إيجه. كانت مركزاً لعبادة الحاكم الروماني قيصر والآلهة الرومانية الباطلة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Pergamum",
+          "type": "place",
+          "preferred_label": "بَرْغَامسَ",
+          "confidence": 0.8357,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134073,
+    "content_id": "134073",
     "reference_id": 108271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَرَكاتُ الأب",
     "media_type": "Text",
     "index_reference": "بَرَكاتُ الأب",
@@ -236,13 +684,14 @@
     "content": "<p>الكلمات الأخيرة التي كان يقولها الأب بصوت عالٍ لأبنائه قبل وفاته. كان الأب يقول ما كان يعتقد أو يأمل أن يحدث لاحقًا في حياة أولاده. وعادة ما كان هذا يتضمن وعودًا بالنجاح والثروة والسلطة. كان الإبن البِكر عادة ما يحصل على أكبر بركة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134181,
+    "content_id": "134181",
     "reference_id": 108379,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بركات العهد",
     "media_type": "Text",
     "index_reference": "بركات العهد",
@@ -251,13 +700,14 @@
     "content": "<p>الأشياء الجيدة التي حدثت عندما كان الناس أمناء للعهد. في العهود مع الله، كان الوفاء بالعهد يعني العيش بحسب طرق الله. وقد أدى ذلك إلى بركاتٍ منحها الله. كانت هذه عادةً ما تتعلق بالأرض والأطفال وحضور الله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133893,
+    "content_id": "133893",
     "reference_id": 108091,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بِركة بيت حِسْدَا",
     "media_type": "Text",
     "index_reference": "بِركة بيت حِسْدَا",
@@ -266,13 +716,14 @@
     "content": "<p>بِركة ماء في أورشليم. في اللغة الآرامية، بيت حِسْدَا تعني بيت الرحمة. كانت مياه البركة تُستخدم في الهيكل. كان كثير من الناس يعتقدون أن مياه البِركة تشفي أمراضهم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134047,
+    "content_id": "134047",
     "reference_id": 108245,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بركة لجميع الأمم",
     "media_type": "Text",
     "index_reference": "بركة لجميع الأمم",
@@ -281,13 +732,14 @@
     "content": "<p>لقد وعد الله بأنه سيُبارك جميع الأمم على الأرض من خلال إبراهيم ومن خلال نسله. وقد أعاد الله هذا الوعد لإسحاق ويعقوب. كما تم تكراره في مزمور 72 وفي سفر زكريا الإصحاح 8. ولقد تم تحقيق هذا الوعد من خلال عدّة طرق. إحدى هذه الطرق كانت من خلال وصايا عهد الله مع شعب إسرائيل. كان على شعب إسرائيل أن يعبدوا الله وحده وأن يطيعوا عهد جبل سيناء. وكان ذلك سيُظهر للأمم الأخرى مدى الحكمة والفهم الذي لشعب الله. كما كان ذلك سيبين للأمم الأخرى أن الله كان قريبًا من شعبه ويحبهم. وهذا سيجعل الأمم الأخرى ترغب في عبادة وطاعة الإله الحقيقي. طريقة أخرى كانت من خلال يسوع. فقد كان يسوع من نسل إبراهيم. فيمكن لجميع الناس على الأرض أن يتصالحوا مع الله من خلال الإيمان بيسوع. وهكذا يتم تحقيق وعد الله ببركة جميع الأمم بشكل كامل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133909,
+    "content_id": "133909",
     "reference_id": 108107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَرْنَابَا",
     "media_type": "Text",
     "index_reference": "بَرْنَابَا",
@@ -296,13 +748,106 @@
     "content": "<p>مؤمن يهودي من سبط لاوي الذي كان من جزيرة قبرص. يبدو اسمه مثل الكلمات العبرية التي تعني ابن الوعظ. كان برنابا يُدعى أيضًا يوسف. أعطى ما يملكه مجانًا لمساعدة الآخرين. كما ساعد في جلب السلام بين الناس. كان برنابا رسولاً. ساعد شاول بعد أن أصبح مؤمناً. سافر هو وشاول إلى العديد من الأماكن لمشاركة الأخبار السارة عن يسوع. كان  يوحنا الملقب بمرقس ابن عم برنابا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "بَرْنَابَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.10",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.11",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.12",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.2",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.3",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.4",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.5",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.6",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.7",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.8",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benaiah.9",
+          "type": "person",
+          "preferred_label": "بَنَايَا",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134374,
+    "content_id": "134374",
     "reference_id": 108572,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بُطْرُس",
     "media_type": "Text",
     "index_reference": "بُطْرُس",
@@ -311,13 +856,120 @@
     "content": "<p>صياد سمك من بيت صيدا كان يسكن في كفرناحوم. كان أندراوس أخاه. أصبح بطرس واحدًا من تلاميذ يسوع الاثني عشر وكان واحدًا من أقرب ثلاثة من تلاميذ يسوع. كان يُدعى أيضًا سمعان وسمعان بطرس وصفا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "بطْرس",
+          "confidence": 0.8981,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Patmos",
+          "type": "place",
+          "preferred_label": "بَطْمسَ",
+          "confidence": 0.8863,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bakbakkar",
+          "type": "person",
+          "preferred_label": "بَقْبَقَّر",
+          "confidence": 0.832,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:TowerOfHananel",
+          "type": "place",
+          "preferred_label": "برْجِ",
+          "confidence": 0.8312,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:TowerOfTheHundred",
+          "type": "place",
+          "preferred_label": "برْجِ",
+          "confidence": 0.8312,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bela",
+          "type": "person",
+          "preferred_label": "بَالَع",
+          "confidence": 0.8251,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bela.2",
+          "type": "person",
+          "preferred_label": "بَالَع",
+          "confidence": 0.8251,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bela.3",
+          "type": "person",
+          "preferred_label": "بَالَع",
+          "confidence": 0.8251,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bezer",
+          "type": "person",
+          "preferred_label": "بَاصِر",
+          "confidence": 0.8098,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bezer",
+          "type": "place",
+          "preferred_label": "بَاصِر",
+          "confidence": 0.8098,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Blastus",
+          "type": "person",
+          "preferred_label": "بَلَاسْتسَ",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Belshazzar",
+          "type": "person",
+          "preferred_label": "بَيْلْشَاصَّر",
+          "confidence": 0.8043,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Erastus",
+          "type": "person",
+          "preferred_label": "أَرَسْطوسَ",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Patrobas",
+          "type": "person",
+          "preferred_label": "بَتْروبَاسَ",
+          "confidence": 0.8023,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "بَالَاق",
+          "confidence": 0.801,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134089,
+    "content_id": "134089",
     "reference_id": 108287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بطريرك",
     "media_type": "Text",
     "index_reference": "بطريرك",
@@ -326,13 +978,14 @@
     "content": "<p>القائد الذكر الذي يتمتع بأكبر قدر من السلطة في مجموعة. كان هذا عادةً أكبر ذكر في العائلة. بين شعب إسرائيل، كان القادة المهمون والملوك يُطلق عليهم البطاركة. كانوا يعتبرون مؤسسي أمة إسرائيل. شمل ذلك إبراهيم، إسحاق، يعقوب وأبنائه، موسى والملك داود.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133973,
+    "content_id": "133973",
     "reference_id": 108171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَطمْس",
     "media_type": "Text",
     "index_reference": "بَطمْس",
@@ -341,13 +994,50 @@
     "content": "<p>جزيرة يونانية صغيرة لا يعيش فيها سوى عدد قليل من الناس. تقع في بحر إيجه  بالقرب من البحر الأبيض المتوسط. كانت الحكومة الرومانية تسيطر على الجزيرة وترسل إليها السجناء.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "بطْرس",
+          "confidence": 0.8888,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Patmos",
+          "type": "place",
+          "preferred_label": "بَطْمسَ",
+          "confidence": 0.8237,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:TowerOfTheOvens",
+          "type": "place",
+          "preferred_label": "برْجَ",
+          "confidence": 0.8151,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:TowerOfHananel",
+          "type": "place",
+          "preferred_label": "برْجِ",
+          "confidence": 0.8077,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:TowerOfTheHundred",
+          "type": "place",
+          "preferred_label": "برْجِ",
+          "confidence": 0.8077,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133866,
+    "content_id": "133866",
     "reference_id": 108064,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بعد الميلاد",
     "media_type": "Text",
     "index_reference": "بعد الميلاد",
@@ -356,13 +1046,14 @@
     "content": "<p>طريقة لوصف جميع السنوات التي تلت ميلاد يسوع. في اللغة اللاتينية، وميلاديًا تعني في سنة ميلاد الرب يسوع.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134203,
+    "content_id": "134203",
     "reference_id": 108401,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بعل",
     "media_type": "Text",
     "index_reference": "بعل",
@@ -371,13 +1062,14 @@
     "content": "<p>إله زائف تعبده جماعات من الناس في كنعان وما حولها. تعني كلمة بعل في اللغة العبرية الرب أو الحاكم. كان البعل يُعبد كإله الشمس والعواصف. كان الناس يعتقدون أنه يمنحهم الأطفال والمحاصيل الصحيحة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134204,
+    "content_id": "134204",
     "reference_id": 108402,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَعْل فغور",
     "media_type": "Text",
     "index_reference": "بَعْل فغور",
@@ -386,13 +1078,14 @@
     "content": "<p>كان فغور مكانًا في أرض موآب. نقض بنو إسرائيل عهدهم مع الله هناك عندما بدأوا يعبدون البعل. وكانت النتيجة وباءً قتل الآلاف من بني إسرائيل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134200,
+    "content_id": "134200",
     "reference_id": 108398,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَلْعَام",
     "media_type": "Text",
     "index_reference": "بَلْعَام",
@@ -401,13 +1094,22 @@
     "content": "<p>نبي من بلاد ما بين النهرين لم يكن من نسل يعقوب. استخدم السحر لمعرفة ما سيحدث في المستقبل. استأجره بالاق ليلعن شعب إسرائيل. تكلم حمار بلعام معه في محاولة لإيقافه. جعل الله بلعام يبارك شعبه بدلاً من أن يلعنهم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "بَلْعَامَ",
+          "confidence": 0.9439,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134091,
+    "content_id": "134091",
     "reference_id": 108289,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بِلْهة",
     "media_type": "Text",
     "index_reference": "بِلْهة",
@@ -424,13 +1126,36 @@
           "label": "سَراري",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Balah",
+          "type": "place",
+          "preferred_label": "بَالَة",
+          "confidence": 0.8413,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashvath",
+          "type": "person",
+          "preferred_label": "عَشْة",
+          "confidence": 0.8077,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:SinaiWilderness",
+          "type": "place",
+          "preferred_label": "بَرِّيَّةِ",
+          "confidence": 0.8043,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 134207,
+    "content_id": "134207",
     "reference_id": 108405,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَنَاتُ صَلُفْحَادَ",
     "media_type": "Text",
     "index_reference": "بَنَاتُ صَلُفْحَادَ",
@@ -439,13 +1164,14 @@
     "content": "<p>مَحْلَة، نُوحَة، حُجْلَة، مِلْكَة وتِرْصَة كانوا من سبط منسّى. مات والدهم صَلُفْحَاد في الصحراء بعد أن رفض الإسرائيليون دخول كنعان. حصلت بناته على أرض لعائلة صَلُفْحَاد لأنه لم يكن لديه أبناء. وتزوجن من أبناء العمومة من عائلتهم. وبهذه الطريقة كانت أرضهن تنتمي دائمًا إلى سبط منسّى.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134096,
+    "content_id": "134096",
     "reference_id": 108294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بَنْيَامِين",
     "media_type": "Text",
     "index_reference": "بَنْيَامِين",
@@ -454,13 +1180,85 @@
     "content": "<p>الابن الأصغر ليعقوب وراحيل. سمّته راحيل أولاً بن أوني. في اللغة العبرية بن أوني يعني ابن حُزني. غير يعقوب اسمه إلى بنيامين. بنيامين يعني ابن يميني. ماتت راحيل وهي تلد بنيامين. وأصبح نسله من عشيرة بني إسرائيل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Benjamin",
+          "type": "group",
+          "preferred_label": "بَنْيَامِينَ",
+          "confidence": 0.9101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin",
+          "type": "person",
+          "preferred_label": "بَنْيَامِينَ",
+          "confidence": 0.9101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.2",
+          "type": "person",
+          "preferred_label": "بَنْيَامِينَ",
+          "confidence": 0.9101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.3",
+          "type": "person",
+          "preferred_label": "بَنْيَامِينَ",
+          "confidence": 0.9101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.4",
+          "type": "person",
+          "preferred_label": "بَنْيَامِينَ",
+          "confidence": 0.9101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.5",
+          "type": "person",
+          "preferred_label": "بَنْيَامِينَ",
+          "confidence": 0.9101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:BenjaminGate",
+          "type": "place",
+          "preferred_label": "بِنْيَامِينَ",
+          "confidence": 0.8799,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Parmenas",
+          "type": "person",
+          "preferred_label": "بَرْمِينَاسَ",
+          "confidence": 0.8235,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Miniamin.2",
+          "type": "person",
+          "preferred_label": "مَنْيَامِين",
+          "confidence": 0.8092,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Miniamin.3",
+          "type": "person",
+          "preferred_label": "مَنْيَامِين",
+          "confidence": 0.8092,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133904,
+    "content_id": "133904",
     "reference_id": 108102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بولس",
     "media_type": "Text",
     "index_reference": "بولس",
@@ -469,13 +1267,22 @@
     "content": "<p>مؤمن يهودي من سبط بنيامين كان من مدينة طرسوس. في اللغة العبرية كان يُدعى شاول. وفي اللغة اليونانية كان يُدعى بولس. كان مواطناً رومانياً. لكسب المال، كان يصنع الخيام. لسنوات عديدة كان فريسيًا ملتزمًا. حاول منع الكنيسة من النمو. بعد أن ظهر له يسوع، بدأ ينشر الأخبار السارة عن يسوع. كان بولس رسولاً. يتضمن العهد الجديد العديد من الرسائل التي كتبها.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "بولسَ",
+          "confidence": 0.9159,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134074,
+    "content_id": "134074",
     "reference_id": 108272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بيت إيل",
     "media_type": "Text",
     "index_reference": "بيت إيل",
@@ -484,13 +1291,14 @@
     "content": "<p>المكان الذي ظهر فيه الله ليعقوب عندما هرب من عيسو. وكان يسمى أيضاً لوز. في اللغة العبرية بيت إيل تعني بيت الله. بنى إبراهيم ويعقوب مذابح لعبادة الله هناك. أصبحت مدينة مهمة في إسرائيل. كانت شمال أورشليم على الحدود بين المملكتين الجنوبية والشمالية. بنى يربعام معبداً لعبادة الآلهة الكاذبة هناك.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133877,
+    "content_id": "133877",
     "reference_id": 108075,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بيت عنيا",
     "media_type": "Text",
     "index_reference": "بيت عنيا",
@@ -499,13 +1307,14 @@
     "content": "<p>البلدة التي عاشت فيها مريم ومرثا ولعازر. كانت تبعد مسافة قصيرة شرق أورشليم وقرب جبل الزيتون.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134244,
+    "content_id": "134244",
     "reference_id": 108442,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بيت لحم",
     "media_type": "Text",
     "index_reference": "بيت لحم",
@@ -514,13 +1323,14 @@
     "content": "<p>البلدة التي كان داود منها والتي ولد فيها يسوع. وهي تبعد مسافة قصيرة جنوب أورشليم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133931,
+    "content_id": "133931",
     "reference_id": 108129,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "بِيريّة",
     "media_type": "Text",
     "index_reference": "بِيريّة",
@@ -529,7 +1339,16 @@
     "content": "<p>مدينة يونانية في إقليم مكدونيا الروماني. كانت في المنطقة التي تعرف الآن بشمال اليونان. سافر بولس إليها في رحلته الثانية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Beerah",
+          "type": "person",
+          "preferred_label": "بَئِيرَة",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

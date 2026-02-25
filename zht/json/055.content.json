@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 233149,
+    "content_id": "233149",
     "reference_id": 108548,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "劍",
     "media_type": "Text",
     "index_reference": "劍",
@@ -11,7 +11,16 @@
     "content": "<p>一種用於戰鬥的鋒利武器。聖經中的作者說人們說的話就像劍一樣，表示人們可以用言語造成傷害。聖經中的作者還說神的話語就像劍一樣，表示神的話語揭示了人們內心的真相，也表示神的話語在信徒與邪惡鬥爭時加強和保護他們。以一種特別的方式，耶穌口中的話語被形容為劍，描述一幅耶穌是神的話語的圖像。耶穌所說的一切都是關於神的真理，講述關於神的真理是耶穌摧毀魔鬼對神的謊言的方式。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Sword",
+          "type": "realia",
+          "preferred_label": "Sword",
+          "confidence": 0.8401,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

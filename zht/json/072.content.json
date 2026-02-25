@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 233079,
+    "content_id": "233079",
     "reference_id": 108478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅波安",
     "media_type": "Text",
     "index_reference": "羅波安",
@@ -11,13 +11,14 @@
     "content": "<p>所羅門和一位名叫拿瑪的亞捫女子的兒子。羅波安為王時，以色列國分裂為兩個王國。羅波安統治南方的猶大王國。他是一個愚蠢的領袖，做了邪惡的事，崇拜假神。他沒有所羅門那樣的財富或權力。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232849,
+    "content_id": "232849",
     "reference_id": 108248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅得",
     "media_type": "Text",
     "index_reference": "羅得",
@@ -26,13 +27,14 @@
     "content": "<p>他拉的孫子，亞伯拉罕的侄子。他與亞伯拉罕和撒拉一起前往迦南居住。他選擇住在約旦河谷靠近所多瑪的地方。在神毀滅所多瑪和蛾摩拉的時候，他的妻子去世了。摩押人和亞捫人是來自羅得的家族。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232648,
+    "content_id": "232648",
     "reference_id": 108047,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅馬",
     "media_type": "Text",
     "index_reference": "羅馬",
@@ -41,13 +43,22 @@
     "content": "<p>一個位於地中海周圍地區的王國，持續了數百年。首都也叫羅馬。它是一個強大的政權，統治了許多其他國家和民族。在新約時期統治著以色列。多年來由強大的皇帝領導。羅馬政府很差地對待耶穌的跟隨者。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Rome",
+          "confidence": 0.9145,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232728,
+    "content_id": "232728",
     "reference_id": 108127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "羅馬公民",
     "media_type": "Text",
     "index_reference": "羅馬公民",
@@ -56,7 +67,8 @@
     "content": "<p>羅馬公民被賦予某些權利，保護他們不會受到某些方式的不良對待。羅馬統治者必須遵守關於公民的羅馬法律。在羅馬政府統治的領土上，大多數人並不是羅馬公民。成為羅馬公民是一種特權。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

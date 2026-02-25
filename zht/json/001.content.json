@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232742,
+    "content_id": "232742",
     "reference_id": 108141,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "阿爸",
     "media_type": "Text",
     "index_reference": "阿爸",
@@ -11,13 +11,14 @@
     "content": "<p>在亞蘭文中，這個詞的意思是父親。耶穌稱神為阿爸。那些跟隨耶穌的人是神家庭的成員。所以他們可以像耶穌一樣稱神為父或阿爸。這個名字顯示了神與所有信靠祂之人間的親密關係。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232771,
+    "content_id": "232771",
     "reference_id": 108170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "阿拉法和俄梅戛",
     "media_type": "Text",
     "index_reference": "阿拉法和俄梅戛",
@@ -26,13 +27,14 @@
     "content": "<p>在希臘字母中，阿拉法是第一個字母，俄梅戛是最後一個字母。耶穌稱自己為阿拉法和俄梅戛。這是說祂是首先的和末後的。祂在神創造萬物之初就已經存在。祂將在現今世界的末了出現。這就是說耶穌一直存在並將永遠存在。這種方式也是在說，耶穌是神。父神在啟示錄二十一章6節中稱自己為阿拉法和俄梅戛。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232792,
+    "content_id": "232792",
     "reference_id": 108191,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "阿們",
     "media_type": "Text",
     "index_reference": "阿們",
@@ -41,13 +43,14 @@
     "content": "<p>在希伯來文中，該詞表示「真實」或「但願如此」。它表示人們同意所說過的話。也表示他們希望所說的話成真。在聖經中，人們經常在讚美神、禱告或祝福他人時說「阿們」。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233163,
+    "content_id": "233163",
     "reference_id": 108562,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "阿摩司",
     "media_type": "Text",
     "index_reference": "阿摩司",
@@ -56,13 +59,36 @@
     "content": "<p>在烏西雅王時期，來自猶大南國的一位先知。他是牧人。他的信息是關於耶羅波安二世統治時期的北國。他的預言記錄在阿摩司書中。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Amoz",
+          "type": "person",
+          "preferred_label": "Amoz",
+          "confidence": 0.8428,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amos.2",
+          "type": "person",
+          "preferred_label": "Amos",
+          "confidence": 0.8123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amos.3",
+          "type": "person",
+          "preferred_label": "Amos",
+          "confidence": 0.8123,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232762,
+    "content_id": "232762",
     "reference_id": 108161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "阿尼西謀",
     "media_type": "Text",
     "index_reference": "阿尼西謀",
@@ -71,7 +97,8 @@
     "content": "<p>在歌羅西的奴隸，逃離了他的主人腓利門。在希臘文中，<span>阿尼西謀</span>的意思是「有用的」。他遇見了保羅並開始跟隨耶穌，成為保羅的親密友人並與他一起工作。保羅派他回去與腓利門同住。<span>阿尼西謀</span>協助傳送保羅寫給歌羅西人和腓利門的信。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

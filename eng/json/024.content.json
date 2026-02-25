@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132465,
+    "content_id": "132465",
     "reference_id": 108519,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Xerxes",
     "media_type": "Text",
     "index_reference": "xerxes",
@@ -11,7 +11,16 @@
     "content": "<p>The ruler of the Persian kingdom from 486 to 465 BC. In the Hebrew language he was known as Ahasuerus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahasuerus",
+          "type": "person",
+          "preferred_label": "Ahasuerus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   }
 ]

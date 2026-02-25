@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232015,
+    "content_id": "232015",
     "reference_id": 108046,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rabino",
     "media_type": "Text",
     "index_reference": "rabino",
@@ -11,13 +11,14 @@
     "content": "<p>Un maestro judío. Los rabinos generalmente estudiaban el Antiguo Testamento y otros escritos judíos en la escuela. Generalmente eran entrenados por otros rabinos. Las personas que querían aprender de ellos y ser como ellos se convertían en sus discípulos. Generalmente solo los niños y hombres eran discípulos o estudiantes. Jesús era un rabino aunque no fue entrenado como otros rabinos de su tiempo. Él daba la bienvenida tanto a mujeres como a hombres como sus estudiantes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232390,
+    "content_id": "232390",
     "reference_id": 108421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahab",
     "media_type": "Text",
     "index_reference": "rahab",
@@ -26,13 +27,36 @@
     "content": "<p>Una mujer de la ciudad de Jericó en Canaán. Trabajaba como prostituta. Escondió a los espías enviados por Josué y los mantuvo a salvo. Cuando los israelitas destruyeron Jericó, salvaron a Rahab y a su familia. Se convirtió en parte del pueblo de Dios. David y Jesús eran de su linaje familiar.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "Rahab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rabbah.2",
+          "type": "place",
+          "preferred_label": "Rabbah",
+          "confidence": 0.8205,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raham",
+          "type": "person",
+          "preferred_label": "Raham",
+          "confidence": 0.8185,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232245,
+    "content_id": "232245",
     "reference_id": 108276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raquel",
     "media_type": "Text",
     "index_reference": "raquel",
@@ -41,13 +65,14 @@
     "content": "<p>La segunda hija de Labán y segunda esposa de Jacob. Lea era su hermana y Bilha era su sirvienta. Ella era pastora. Jacob la amaba más que a Lea. Ella se convirtió en la madre de José y Benjamín.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232235,
+    "content_id": "232235",
     "reference_id": 108266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebeca",
     "media_type": "Text",
     "index_reference": "rebeca",
@@ -56,13 +81,22 @@
     "content": "<p>La hija de Betuel y hermana de Labán de Mesopotamia. Se casó con Isaac y se convirtió en la madre de Jacob y Esaú.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Rebeca",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232018,
+    "content_id": "232018",
     "reference_id": 108049,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Recaudador de impuestos",
     "media_type": "Text",
     "index_reference": "recaudador de impuestos",
@@ -79,13 +113,29 @@
           "label": "Extranjero ",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:TaxCollector",
+          "type": "keyterm",
+          "preferred_label": "recaudador de impuestos",
+          "confidence": 0.9218,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:TaxCollectors",
+          "type": "group",
+          "preferred_label": "Tax Collectors",
+          "confidence": 0.8157,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232178,
+    "content_id": "232178",
     "reference_id": 108209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reglas",
     "media_type": "Text",
     "index_reference": "reglas",
@@ -94,13 +144,14 @@
     "content": "<p>Dios quería que todo lo que creó viviera y trabajara junto en paz y alegría. Los seres humanos deben asegurarse de que esto suceda. Dios es el soberano de toda la creación. Él separó a los seres humanos como gobernantes sobre las plantas, los animales, la tierra y los mares. Esta es una manera en que Dios creó a los seres humanos para ser como él. Como gobernantes, los humanos deben llenar la tierra y someterla. Esto no significa que los humanos puedan usar la tierra de Dios como quieran. Significa que deben cuidar todo en la tierra. Deben ayudar a que todo sea como Dios quiere que sea. Los humanos hacen esto siguiendo el ejemplo de Dios al gobernar. Dios se mostró a sí mismo como un soberano que bendice, honra y protege lo que ha hecho. Jesús mostró que Dios es un soberano que da todo para servir y bendecir a los demás. Cuando los seres humanos no siguen el ejemplo de Dios al gobernar, la tierra sufre.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232530,
+    "content_id": "232530",
     "reference_id": 108561,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reino de Dios",
     "media_type": "Text",
     "index_reference": "reino de dios",
@@ -117,13 +168,14 @@
           "label": "Cielo",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232306,
+    "content_id": "232306",
     "reference_id": 108337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reino de sacerdotes",
     "media_type": "Text",
     "index_reference": "reino de sacerdotes",
@@ -132,13 +184,14 @@
     "content": "<p>Dios quería que los israelitas fueran un reino de sacerdotes y una nación santa. Se convertirían en estas cosas si eran fieles al pacto del Monte Sinaí. Al igual que otros grupos de personas, se convertirían en un reino y una nación. Pero Dios no quería que vivieran como otros grupos de personas. Quería que fueran un tipo diferente de reino y nación. Cada israelita conocería a Dios de cerca y le serviría. De esta manera serían como sacerdotes. Todos juntos obedecerían a Dios y tratarían a los demás de la manera en que Dios les enseñó. Esto mostraría cuán diferentes eran de otras naciones. De esta manera serían apartados o santos como Dios era santo. Así es como los israelitas serían una nación santa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232448,
+    "content_id": "232448",
     "reference_id": 108479,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reino del Norte",
     "media_type": "Text",
     "index_reference": "reino del norte",
@@ -147,13 +200,14 @@
     "content": "<p>La tierra y las tribus de Israel gobernadas por reyes que no eran de la línea familiar de David. También se llamaba Israel o Efraín. Ciudades importantes en el reino del norte eran Dan, Betel y Samaria. Samaria se convirtió en la ciudad capital. El reino del norte comenzó cuando Jeroboam persuadió a muchos israelitas a negarse a seguir a Roboam. Terminó en 722 a.C. cuando Asiria tomó el control de Samaria. La gente del reino del norte nunca regresó del exilio. Los profetas del reino del norte incluían a Ahías, Jehú, Micaías, Elías, Eliseo, Amós, Jonás, Oseas y Miqueas. Los reyes fueron Jeroboam, Nadab, Baasa, Ela, Zimri, Omri, Acab, Ocozías, Joram, Jehú, Joacaz, Joás, Jeroboam el segundo, Zacarías, Salum, Menahem, Pecajías, Pecaj y Oseas. Ninguno de esos reyes fue fiel al pacto del Monte Sinaí.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232449,
+    "content_id": "232449",
     "reference_id": 108480,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reino del sur",
     "media_type": "Text",
     "index_reference": "reino del sur",
@@ -162,13 +216,14 @@
     "content": "<p>La tierra y las tribus de Israel gobernadas por reyes de la línea familiar de David. También se le llamaba Judá. Incluía las tribus de Judá y Benjamín y algunos israelitas de otras tribus. Ciudades importantes en el reino del sur eran Hebrón, Laquis y Jerusalén. Jerusalén era la ciudad capital. El reino del sur comenzó cuando Roboam perdió autoridad sobre diez de las tribus. Terminó en 586 a.C., cuando Babilonia tomó el control de Jerusalén. Algunas personas del reino del sur regresaron después del exilio en Babilonia. Los profetas del reino del sur incluían a Joel, Isaías, Miqueas, Sofonías, Jeremías, Habacuc y Ezequiel. Los reyes fueron Roboam, Abías, Asa, Josafat, Joram, Ocozías, Atalía (reina), Joás, Amasías, Uzías, Jotam, Acaz, Ezequías, Manasés, Amón, Josías, Joacaz, Joacim, Joaquín y Sedequías. Solo unos pocos de estos reyes fueron fieles al pacto del Monte Sinaí. Esto incluía a Asa, Josafat, Joás, Amasías, Uzías, Jotam, Ezequías y Josías.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232350,
+    "content_id": "232350",
     "reference_id": 108381,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rescatar",
     "media_type": "Text",
     "index_reference": "rescatar",
@@ -177,13 +232,14 @@
     "content": "<p>Recuperar algo o alguien que ha sido dado o vendido. Esto se hace pagando el precio por la cosa o la persona. Otra palabra para esto es redimir. El que compra de nuevo la cosa o persona se llama el redentor. Dios compró de nuevo a los israelitas cuando eran esclavos en Egipto. Esto mostró que él era su redentor. Cuando Jesús murió en la cruz, pagó el precio para rescatar a todos los pecadores. Él redime a todos los que confían en él. Los redime del poder del pecado, la muerte y el mal.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232537,
+    "content_id": "232537",
     "reference_id": 108568,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Resurrección",
     "media_type": "Text",
     "index_reference": "resurrección",
@@ -192,13 +248,14 @@
     "content": "<p>Resucitar de entre los muertos para vivir de nuevo. Los judíos no estaban de acuerdo sobre si habría o no una resurrección después de la muerte. Jesús devolvió la vida a algunas personas después de que murieron. Sin embargo, esas personas no vivieron para siempre. Murieron de nuevo más tarde. Eso no fue lo que le pasó a Jesús. En la resurrección de Jesús, Dios lo levantó de entre los muertos para vivir para siempre. Nunca murió de nuevo. Dios un día traerá de vuelta a la vida a todas las personas que han muerto.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232299,
+    "content_id": "232299",
     "reference_id": 108330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rey",
     "media_type": "Text",
     "index_reference": "rey",
@@ -207,13 +264,22 @@
     "content": "<p>El gobernante con la mayor autoridad entre ciertos grupos de personas. Dios debía ser el Rey de los israelitas. Los reyes humanos en Israel debían guiar al pueblo de la manera en que Dios los guiaba. Esto era muy diferente de cómo los reyes de otros grupos de personas lideraban. Los reyes israelitas debían estudiar las leyes de Dios y obedecerlas. Debían ayudar al pueblo a mantenerse fiel al pacto de Dios. Los reyes israelitas debían proteger a las personas débiles y necesitadas. No debían tener muchas esposas ni volverse muy ricos. Debían ser humildes. No debían tratar a su pueblo como esclavos. No debían confiar en armas y caballos para ganar batallas. Los reyes israelitas debían confiar en Dios y servirle solo a él.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hammelech",
+          "type": "person",
+          "preferred_label": "rey",
+          "confidence": 0.8725,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232523,
+    "content_id": "232523",
     "reference_id": 108554,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Río Éufrates",
     "media_type": "Text",
     "index_reference": "río éufrates",
@@ -222,13 +288,22 @@
     "content": "<p>Un río que fluye a través de los países ahora llamados Turquía, Siria e Irak. Fue un río importante en los reinos de Babilonia y Persia. En la época de Jesús, el Éufrates era una de las fronteras de las tierras del gobierno romano.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Euphrates",
+          "type": "place",
+          "preferred_label": "Eufrates",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232375,
+    "content_id": "232375",
     "reference_id": 108406,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Río Jordán",
     "media_type": "Text",
     "index_reference": "río jordán",
@@ -237,13 +312,22 @@
     "content": "<p>El río más grande en las tierras de Israel. Fluye de norte a sur desde el Mar de Galilea hasta el Mar Muerto.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jordan",
+          "type": "place",
+          "preferred_label": "Jordán",
+          "confidence": 0.8895,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232270,
+    "content_id": "232270",
     "reference_id": 108301,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Río Nilo",
     "media_type": "Text",
     "index_reference": "río nilo",
@@ -252,13 +336,14 @@
     "content": "<p>El río más largo de África. Fluye a través de la parte noreste de África hasta el mar Mediterráneo. El suelo alrededor del Nilo es muy rico y bueno para la agricultura.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232447,
+    "content_id": "232447",
     "reference_id": 108478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roboam",
     "media_type": "Text",
     "index_reference": "roboam",
@@ -267,13 +352,22 @@
     "content": "<p>El hijo de Salomón y una mujer amonita llamada Naamá. Mientras Roboam era rey, la nación de Israel se dividió en dos reinos. Roboam gobernó sobre el reino del sur de Judá. Fue un líder insensato que hizo cosas malas y adoró a falsos dioses. No tenía ni la riqueza ni el poder que tenía Salomón.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Roboam",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232016,
+    "content_id": "232016",
     "reference_id": 108047,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roma",
     "media_type": "Text",
     "index_reference": "roma",
@@ -282,13 +376,22 @@
     "content": "<p>Un reino en la zona alrededor del mar Mediterráneo que duró cientos de años. La ciudad capital también se llamaba Roma. Se convirtió en un gobierno poderoso que dominó sobre muchas otras naciones y grupos de personas. Gobernó sobre Israel durante los tiempos del Nuevo Testamento. Durante muchos años fue dirigido por emperadores poderosos. El gobierno romano trató mal a muchos de los seguidores de Jesús.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Roma",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232376,
+    "content_id": "232376",
     "reference_id": 108407,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rubén",
     "media_type": "Text",
     "index_reference": "rubén",
@@ -297,13 +400,29 @@
     "content": "<p>El hijo mayor de Jacob y Lea. En el idioma hebreo, el nombre Rubén significa mirar a un hijo. Suena como la palabra para él ha visto mi sufrimiento. Rubén tuvo relaciones sexuales con la concubina de su padre, Bilha. Por eso, no se le permitió tener los derechos de ser el hijo mayor de Jacob. Su línea familiar se convirtió en una tribu de Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Reuben",
+          "type": "group",
+          "preferred_label": "Rubén",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Reuben",
+          "type": "person",
+          "preferred_label": "Rubén",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232416,
+    "content_id": "232416",
     "reference_id": 108447,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rut",
     "media_type": "Text",
     "index_reference": "rut",
@@ -312,7 +431,16 @@
     "content": "<p>Una mujer de las tierras de Moab y nuera de Noemí. Cuando su esposo murió, dejó Moab y fue a Israel con Noemí. Se casó con un israelita llamado Booz y se convirtió en la bisabuela de David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Ruth",
+          "confidence": 0.8929,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

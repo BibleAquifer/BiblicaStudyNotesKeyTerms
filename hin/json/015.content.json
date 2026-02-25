@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 183457,
+    "content_id": "183457",
     "reference_id": 108563,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गब्रिएल",
     "media_type": "Text",
     "index_reference": "गब्रिएल",
@@ -11,13 +11,22 @@
     "content": "<p>एक स्वर्गदूत जिसने नए नियम में जकर्याह, मरियम और युसूफ को महत्वपूर्ण संदेश दिए। उसने पुराने नियम में दानिय्येल को महत्वपूर्ण संदेश दिए।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Gabriel",
+          "type": "deity",
+          "preferred_label": "गब्रिएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 182993,
+    "content_id": "182993",
     "reference_id": 108099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गमलीएल",
     "media_type": "Text",
     "index_reference": "गमलीएल",
@@ -26,13 +35,36 @@
     "content": "<p>एक फरीसी और रब्बी जो महासभा के एक बुद्धिमान और सम्मानित सदस्य थे। प्रेरित पौलुस ने यीशु का अनुसरण करने से पहले गमलीएल के साथ व्यवस्था का अध्ययन किया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gamaliel",
+          "type": "person",
+          "preferred_label": "गमलीएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gamaliel.2",
+          "type": "person",
+          "preferred_label": "गमलीएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilalai",
+          "type": "person",
+          "preferred_label": "गिललै",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183016,
+    "content_id": "183016",
     "reference_id": 108122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गलातिया",
     "media_type": "Text",
     "index_reference": "गलातिया",
@@ -41,13 +73,22 @@
     "content": "<p><span>आसिया</span> के रोमी क्षेत्र में एक प्रदेश। यह देश अब तुर्की के नाम से जाना जाता है। पौलुस ने गलातिया के कई शहरों का दौरा किया और वहां कई कलीसियाओं कि  स्थापना करने में मदद की। उनकी पत्री जिसे गलातियों कहा जाता है, उन कलीसियाओं के लिए थी।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galatia",
+          "type": "place",
+          "preferred_label": "गलातिया",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 182930,
+    "content_id": "182930",
     "reference_id": 108036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गलील",
     "media_type": "Text",
     "index_reference": "गलील",
@@ -56,13 +97,57 @@
     "content": "<p>उत्तरी क्षेत्र कि वह भूमि थी जिसे परमेश्वर ने अब्राहम और उसके वंशजों को देने का वादा किया था। इसमें उत्तरी इस्राएल के राज्य का हिस्सा शामिल था। यीशु के समय में इसे हेरोदेस अन्तिपास द्वारा शासित किया गया था। यीशु गलील में बड़े हुए। गलील सागर उस क्षेत्र में एक बड़ी झील थी। यरदन नदी इससे दक्षिण की ओर बहती है। यीशु के जीवन की कई कहानियाँ गलील और गलील सागर के आसपास हुईं।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "गलील",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Galilee",
+          "type": "group",
+          "preferred_label": "गलीली",
+          "confidence": 0.9319,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilalai",
+          "type": "person",
+          "preferred_label": "गिललै",
+          "confidence": 0.8886,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Galal",
+          "type": "person",
+          "preferred_label": "गालाल",
+          "confidence": 0.8387,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Galal.2",
+          "type": "person",
+          "preferred_label": "गालाल",
+          "confidence": 0.8387,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Geuel",
+          "type": "person",
+          "preferred_label": "गूएल",
+          "confidence": 0.8073,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183060,
+    "content_id": "183060",
     "reference_id": 108166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गवाहों का बादल",
     "media_type": "Text",
     "index_reference": "गवाहों का बादल",
@@ -71,13 +156,14 @@
     "content": "<p>उन लोगों का वर्णन करने का एक तरीका जो परमेश्वर में विश्वास करते हैं और मरने से पहले उसकी सेवा करते हैं। वे पृथ्वी पर जीवित रहते हुए परमेश्वर कौन हैं इसके गवाह होते हैं। एक समूह के रूप में उन्हें एक साथ वर्णित करने का एक तरीका बादल है। ये लोग मर चुके हैं। परमेश्वर में उनके विश्वास के उदाहरण जीवित विश्वासियों को प्रोत्साहित करते हैं। उनकी आत्माएँ इंतज़ार करती हैं कि कब परमेश्वर अपने लोगों को मृतकों में से जीवित करेगा।। इब्रानियों अध्याय 11 में उल्लेखित लोग इन गवाहों में से हैं।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183302,
+    "content_id": "183302",
     "reference_id": 108408,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गाद",
     "media_type": "Text",
     "index_reference": "गाद",
@@ -86,13 +172,43 @@
     "content": "<p>याकूब और जिल्पा का सबसे बड़ा बेटा। इब्रानी भाषा में गाद का अर्थ है अच्छा भाग्य या सैनिकों का समूह। उसका परिवार एक इस्राएली गोत्र बन गया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "गाद",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gad.2",
+          "type": "person",
+          "preferred_label": "गाद",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gatam",
+          "type": "person",
+          "preferred_label": "गाताम",
+          "confidence": 0.8215,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gaza",
+          "type": "place",
+          "preferred_label": "गाज़ा",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183331,
+    "content_id": "183331",
     "reference_id": 108437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिदोन",
     "media_type": "Text",
     "index_reference": "गिदोन",
@@ -101,13 +217,43 @@
     "content": "<p>इस्राएल के 12 न्यायियों में से एक। वह मनश्शे के गोत्र से था और उसका पिता योआश था। गिदोन की कई पत्नियाँ और पुत्र थे। परमेश्वर ने गिदोन का उपयोग इस्राएल को मिद्यानियों के हाथ से छुड़ाने के लिए किया। उसे यरूब्बाल भी कहा जाता था। इब्रानी भाषा में इस नाम का अर्थ है बाल को लड़ने दो।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "गिदोन",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gideoni",
+          "type": "person",
+          "preferred_label": "गिदोनी",
+          "confidence": 0.8983,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gihon",
+          "type": "place",
+          "preferred_label": "गीहोन",
+          "confidence": 0.8335,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gibeon",
+          "type": "place",
+          "preferred_label": "गिबोन",
+          "confidence": 0.8162,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 182976,
+    "content_id": "182976",
     "reference_id": 108082,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिरासेन",
     "media_type": "Text",
     "index_reference": "गिरासेन",
@@ -116,13 +262,14 @@
     "content": "<p>गलील सागर के पूर्वी किनारे पर रहने वाला एक समुदाय। वे नहीं चाहते थे कि यीशु उनके शहर में चमत्कार करें। मरकुस और लूका ने इस समुदाय को गेरासेन कहा। मत्ती ने उन्हें <span>गदरेनियों</span> कहा।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183316,
+    "content_id": "183316",
     "reference_id": 108422,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिलगाल",
     "media_type": "Text",
     "index_reference": "गिलगाल",
@@ -131,13 +278,64 @@
     "content": "<p>यरीहो के पास यरदन नदी के पश्चिम में एक कनानी शहर। यह इस्राएली अगुवों, राजाओं और नबियों के लिए एक महत्वपूर्ण स्थान बन गया। यरदन नदी से एकत्रित पत्थरों को वहाँ स्थापित किया गया था। इससे इस्राएलियों को याद दिलाया गया कि कैसे परमेश्वर ने उन्हें कनान में प्रवेश कराया था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "गलील",
+          "confidence": 0.8585,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilalai",
+          "type": "person",
+          "preferred_label": "गिललै",
+          "confidence": 0.8533,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilgal.2",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.8119,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilgal.3",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.8119,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilgal.4",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.8119,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Galal",
+          "type": "person",
+          "preferred_label": "गालाल",
+          "confidence": 0.801,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Galal.2",
+          "type": "person",
+          "preferred_label": "गालाल",
+          "confidence": 0.801,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183335,
+    "content_id": "183335",
     "reference_id": 108441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गिलाद",
     "media_type": "Text",
     "index_reference": "गिलाद",
@@ -146,13 +344,57 @@
     "content": "<p>यरदन नदी के पूर्व में एक पहाड़ी देश। इसका एक हिस्सा सिहोन के राज्य का था। दूसरा हिस्सा ओग के राज्य का था। यह उस समय की बात है जब इस्राएलियों ने सीहोन और ओग पर युद्ध जीता था। इसका नाम गिलाद के नाम पर रखा गया था जो मनश्शे के गोत्र से था। इसमें उपजाऊ मिट्टी थी और यह पशुपालन के लिए अच्छा था। यह उस भूमि का हिस्सा नहीं था जिसे परमेश्वर ने अब्राहम के वंश को देने का वादा किया था। लेकिन परमेश्वर ने कुछ गोत्रों को वहाँ रहने की अनुमति दी। ये गोत्र थे रूबेन और गाद और मनश्शे के आधे गोत्र।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gilead",
+          "type": "person",
+          "preferred_label": "गिलाद",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilead.2",
+          "type": "person",
+          "preferred_label": "गिलाद",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilead.3",
+          "type": "person",
+          "preferred_label": "गिलाद",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilead",
+          "type": "place",
+          "preferred_label": "गिलाद",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Giddel",
+          "type": "person",
+          "preferred_label": "गिद्देल",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Giddel.2",
+          "type": "person",
+          "preferred_label": "गिद्देल",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183152,
+    "content_id": "183152",
     "reference_id": 108258,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गुलाम",
     "media_type": "Text",
     "index_reference": "गुलाम",
@@ -161,13 +403,14 @@
     "content": "<p>बाइबल में दर्ज समय और स्थानों में कई लोग गुलाम के रूप में काम करते थे। कई लोगों के समूहों का जीवन गुलामों द्वारा किए गए काम पर निर्भर था। गुलाम घर के लगभग हर काम को कर सकते थे। बाइबल के लेखकों ने लोगों को गुलाम रखने की शिक्षा नहीं दी। पुराने नियम के लेखकों ने सिखाया कि गुलामों और मालिकों को एक-दूसरे के साथ कैसे व्यवहार करना चाहिए। यह मूसा की व्यवस्था पर आधारित था। इस्राएल के लोगों में सभी गुलामों को सब्त के दिन विश्राम करने की अनुमति थी। उन्हें स्वतंत्र लोगों के साथ परमेश्‍वर की उपासना करने की अनुमति थी। उन्हें मरने तक गुलाम बने रहने की आवश्यकता नहीं थी। परमेश्‍वर के लोगों को गुलाम के रूप में बेचा नहीं जाना चाहिए था। नए नियम के लेखकों ने सिखाया कि गुलाम और मालिक परमेश्‍वर के परिवार के समान सदस्य हैं। उन्हें यीशु की सेवा करनी चाहिए और एक-दूसरे की सेवा करनी चाहिए। बाइबिल में गुलामी का एक आध्यात्मिक अर्थ भी है। बाइबिल के लेखकों ने मानव को पाप के गुलाम के रूप में वर्णित किया। इसका मतलब है कि पाप सभी मानव पर शासन करता है और उन्हें नियंत्रित करता है। यीशु लोगों को पाप के गुलामी से मुक्त करते है।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183034,
+    "content_id": "183034",
     "reference_id": 108140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गोद लिया",
     "media_type": "Text",
     "index_reference": "गोद लिया",
@@ -176,13 +419,14 @@
     "content": "<p>जब किसी को उस परिवार का हिस्सा बनाया जाता है जिसमें वे पैदा नहीं हुए थे। यही होता है जब लोग यीशु पर भरोसा करते हैं। परमेश्वर ने मनुष्य को शांति और प्रेम में उसके साथ रहने के लिए बनाया। वे उनके परिवार में बच्चे होने के लिए बने थे। मनुष्यों ने परमेश्वर  के प्रेम को स्वीकार नहीं किया पर अपने तरीके से चलने का चुनाव किया। इसका मतलब था कि वे किसी भी परिवार से संबंधित नहीं थे। जो लोग मानते हैं कि यीशु ही मसीह हैं, वे परमेश्वर  के प्रेम को स्वीकार करते हैं। वे फिर से परमेश्वर  के परिवार का हिस्सा बन जाते हैं। पौलुस ने इसे परमेश्वर के बच्चों के रूप में गोद लिए जाने जैसा बताया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183191,
+    "content_id": "183191",
     "reference_id": 108297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "गोशेन",
     "media_type": "Text",
     "index_reference": "गोशेन",
@@ -191,7 +435,37 @@
     "content": "<p>मिस्र का वह क्षेत्र जहाँ याकूब का परिवार रहता था और चरवाहों के रूप में काम करता था। यह मिस्र के उत्तर-पूर्व में कनान और नील नदी के पास माना जाता है।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Goshen",
+          "type": "place",
+          "preferred_label": "गोशेन",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Goshen.2",
+          "type": "place",
+          "preferred_label": "गोशेन",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Geshan",
+          "type": "person",
+          "preferred_label": "गेशान",
+          "confidence": 0.8354,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gozan",
+          "type": "place",
+          "preferred_label": "गोजान",
+          "confidence": 0.8145,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

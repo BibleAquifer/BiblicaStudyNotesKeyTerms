@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133366,
+    "content_id": "133366",
     "reference_id": 108114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Antioche en Pisidie",
     "media_type": "Text",
     "index_reference": "  antioche en pisidie",
@@ -11,13 +11,14 @@
     "content": "<p>Ville du territoire romain de Pisidie, en Asie Mineure. Paul s&apos;y est rendu lors de trois de ses voyages pour annoncer la bonne nouvelle de Jésus. On pense que la lettre de Paul aux Galates y a été lue à l&apos;église. Il convient de distinguer cette ville de celle d&apos;Antioche en Syrie.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133333,
+    "content_id": "133333",
     "reference_id": 108081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Élisabeth",
     "media_type": "Text",
     "index_reference": "  élisabeth",
@@ -26,13 +27,22 @@
     "content": "<p>Mère de Jean le Baptiste. Elle était de la tribu de Lévi et de la lignée d&apos;Aaron. Zacharie était son mari, et Marie de Nazareth était sa parente. Alors qu&apos;elle était très âgée, Dieu lui a permis d&apos;avoir un fils. Élisabeth a reconnu que Marie était enceinte du Messie.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elizabeth",
+          "type": "person",
+          "preferred_label": "Élisabeth",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133446,
+    "content_id": "133446",
     "reference_id": 108194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Grèce",
     "media_type": "Text",
     "index_reference": "  grèce",
@@ -41,13 +51,14 @@
     "content": "<p>Royaume très puissant dans les années qui séparent l&apos;Ancien et le Nouveau Testament. Les Grecs ont contrôlé Israël et Jérusalem pendant un certain temps. Puis les armées romaines ont pris le contrôle des terres gouvernées par les Grecs. Mais les modes de pensée et d&apos;action des Grecs ont perduré même sous la domination romaine. La langue grecque était parlée dans les régions situées tout autour de la mer Méditerranée. Le Nouveau Testament a été écrit en grec.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133820,
+    "content_id": "133820",
     "reference_id": 108568,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Résurrection",
     "media_type": "Text",
     "index_reference": "  résurrection",
@@ -56,13 +67,22 @@
     "content": "<p>Se relever d&apos;entre les morts pour revivre. Les juifs étaient divisés sur cette question de savoir s&apos;il y aurait une résurrection après la mort. Jésus a ramené certaines personnes à la vie après leur mort. Pourtant, ces personnes ne vivaient pas éternellement. Elles sont mortes à nouveau plus tard. Ce n&apos;est pas ce qui est arrivé à Jésus. Dans la résurrection de Jésus, Dieu l&apos;a ressuscité des morts pour vivre éternellement. Il n&apos;est plus jamais mort. Un jour Dieu ramènera à la vie toutes les personnes décédées.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "résurrection",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133431,
+    "content_id": "133431",
     "reference_id": 108179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vêtus de blanc",
     "media_type": "Text",
     "index_reference": "  vêtus de blanc",
@@ -71,7 +91,8 @@
     "content": "<p>Se vêtir de blanc constitue une façon de décrire l&apos;obéissance à Dieu. Dans la Bible, la couleur blanche représente les choses considérées comme pures. Les gens sont purs lorsqu&apos;ils font ce que Dieu veut qu&apos;ils fassent. Les vêtements blancs sont un signe de cette pureté. Dans l&apos;Apocalypse, les vêtements des gens deviennent blancs lorsqu&apos;ils sont lavés dans le sang de l&apos;Agneau. Cela signifie que les gens se fient à Jésus pour les sauver de la puissance du péché.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

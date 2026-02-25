@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 233008,
+    "content_id": "233008",
     "reference_id": 108407,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "呂便",
     "media_type": "Text",
     "index_reference": "呂便",
@@ -11,13 +11,14 @@
     "content": "<p>雅各和利亞的長子。在希伯來語中，名字呂便的意思是「看哪，有兒子」。聽起來像「祂看見了我的苦難」這個詞。呂便與他父親的妾辟拉發生了性關係。因此，他失去了作為雅各長子的權利。他的家族成為以色列的一個支派。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232649,
+    "content_id": "232649",
     "reference_id": 108048,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "律法師",
     "media_type": "Text",
     "index_reference": "律法師",
@@ -26,7 +27,16 @@
     "content": "<p>研究過舊約和其他猶太著作的猶太人，他們將所學教導給人們。人們通常對這些教師評價很高，並以尊敬的態度對待他們。大多數律法師反對耶穌及其事工。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Lawgiver",
+          "type": "keyterm",
+          "preferred_label": "Lawgiver",
+          "confidence": 0.8748,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

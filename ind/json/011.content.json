@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203351,
+    "content_id": "203351",
     "reference_id": 108216,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Iblis",
     "media_type": "Text",
     "index_reference": "iblis",
@@ -19,13 +19,22 @@
           "label": " Roh-roh jahat",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "Iblis",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203667,
+    "content_id": "203667",
     "reference_id": 108532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ibrani",
     "media_type": "Text",
     "index_reference": "ibrani",
@@ -49,13 +58,22 @@
           "label": "Yahudi",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Hebrews",
+          "type": "group",
+          "preferred_label": "Hebrews",
+          "confidence": 0.8622,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203250,
+    "content_id": "203250",
     "reference_id": 108115,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ikonium",
     "media_type": "Text",
     "index_reference": "ikonium",
@@ -64,13 +82,22 @@
     "content": "<p>Sebuah kota di wilayah Romawi Galatia di Asia Kecil. Paulus mengunjungi tempat itu dalam tiga perjalanannya untuk memberitakan kabar baik mengenai Yesus. Diperkirakan bahwa surat Paulus kepada jemaat di Galatia telah dibacakan di gereja di sana.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Iconium",
+          "type": "place",
+          "preferred_label": "Ikonium",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203468,
+    "content_id": "203468",
     "reference_id": 108333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Imam",
     "media_type": "Text",
     "index_reference": "imam",
@@ -94,13 +121,14 @@
           "label": "Orang Lewi",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203503,
+    "content_id": "203503",
     "reference_id": 108368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Imam besar",
     "media_type": "Text",
     "index_reference": "imam besar",
@@ -109,13 +137,14 @@
     "content": "<p>Pemimpin agama dengan kekuasaan tertinggi di Israel. Imam besar haruslah seorang laki-laki dari suku Lewi. Ia harus berasal dari garis keturunan Harun. Imam besar harus mengajarkan orang-orang seperti yang Musa lakukan. Ia memiliki tugas yang istimewa di kemah suci Allah dan kemudian di bait suci. Hanya imam besar yang diizinkan untuk masuk ke dalam Ruang Mahakudus. Ia memberitahukan kepada orang-orang mengenai apa yang Allah ingin mereka lakukan. Ia juga melakukan pengorbanan agar dosa Israel diampuni.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203367,
+    "content_id": "203367",
     "reference_id": 108232,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Iman",
     "media_type": "Text",
     "index_reference": "iman",
@@ -124,13 +153,14 @@
     "content": "<p>Ada beberapa arti dari kata iman dalam Alkitab. Arti yang pertama adalah hal-hal yang dipercayai orang mengenai Allah. Allah ingin semua orang percaya pada apa yang benar tentang-Nya. Ini adalah hal-hal yang telah Allah tunjukkan mengenai diri-Nya dan cara Ia bertindak. Dalam Perjanjian Baru, hal-hal ini termasuk pesan dari kabar baik mengenai Yesus. Arti yang kedua dari iman adalah kepercayaan itu sendiri. Ini adalah kepercayaan yang dimiliki orang-orang terhadap Allah. Kepercayaan ini didasarkan pada harapan mereka mengenai cara Allah menepati janji-Nya. Seberapa kuat iman seseorang menunjukkan seberapa besar kepercayaan mereka terhadap Allah. Iman mereka bertumbuh seiring dengan bertambahnya pengenalan mereka akan Allah. Arti yang ketiga dari iman adalah bagaimana orang hidup berdasarkan apa yang mereka percayai. Umat Allah harus mengikuti cara-cara Allah bagi kehidupan. Yesus menunjukkan kepada orang-orang bagaimana melakukan hal ini. Iman kepada Yesus termasuk mengikuti teladan hidup-Nya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203673,
+    "content_id": "203673",
     "reference_id": 108538,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Imanuel",
     "media_type": "Text",
     "index_reference": "imanuel",
@@ -139,13 +169,14 @@
     "content": "<p>Sebuah nama dalam bahasa Ibrani yang berarti Allah beserta kita. Pada zaman Raja Ahas, Yesaya bernubuat tentang seorang anak laki-laki bernama Imanuel. Ia akan menjadi tanda bahwa Allah bersama kerajaan bagian selatan. Anak ini merupakan tanda bahwa kerajaan bagian selatan akan diselamatkan. Mereka akan diselamatkan dari tentara musuh yang menyerang mereka. Nubuatan Yesaya juga memiliki arti untuk masa depan. Matius menulis tentang hal ini dalam Injilnya. Melalui Yesus, Allah ada bersama umat-Nya dalam tubuh manusia. Yesus adalah Imanuel yang menyelamatkan umat Allah dari musuh yang adalah dosa dan kematian.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203166,
+    "content_id": "203166",
     "reference_id": 108031,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Injil",
     "media_type": "Text",
     "index_reference": "injil",
@@ -162,13 +193,14 @@
           "label": "Kabar baik",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203714,
+    "content_id": "203714",
     "reference_id": 108579,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Injil kemakmuran",
     "media_type": "Text",
     "index_reference": "injil kemakmuran",
@@ -177,13 +209,14 @@
     "content": "<p>Sebuah ajaran yang bertentangan dengan kabar baik tentang Yesus. Ajaran ini mengajarkan bahwa Allah menyelamatkan manusia dari semua masalah dan penderitaan di bumi. Ajaran ini mengajarkan bahwa Allah memberikan kekayaan kepada semua orang yang percaya kepada Yesus dan beriman kepada-Nya. Ajaran ini mengajarkan bahwa mereka akan selalu memiliki lebih dari yang mereka butuhkan. Ajaran ini Ini juga mengajarkan bahwa mereka akan selalu memiliki tubuh yang sehat. Ajaran ini mengajarkan bahwa mereka akan memiliki semua hal ini selama mereka hidup di dunia. Kabar baik tentang Yesus yang benar tidak mengajarkan hal-hal ini. Yang benar adalah bahwa Yesus menyelamatkan manusia dari kuasa dosa, maut dan kejahatan. Keselamatan ini dimulai ketika manusia masih hidup di bumi. Keselamatan ini akan menjadi sempurna ketika Yesus datang kembali dan memerintah sebagai Raja di dalam ciptaan yang baru. Yesus adalah teladan bagi para pengikut-Nya tentang bagaimana cara hidup. Teladan-Nya mengajarkan orang-orang percaya bagaimana melayani orang lain dan bagaimana menghadapi penderitaan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203396,
+    "content_id": "203396",
     "reference_id": 108261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ishak",
     "media_type": "Text",
     "index_reference": "ishak",
@@ -192,13 +225,22 @@
     "content": "<p>Anak yang dijanjikan Allah kepada Abraham bahwa dia akan memiliki anak dengan istrinya Sarai. Ishak menikahi Ribka dan menjadi ayah dari Yakub dan Esau. Dalam bahasa Ibrani, Ishak berarti dia tertawa. Allah melanjutkan perjanjian-Nya dengan Abraham melalui Ishak.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Ishak",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203397,
+    "content_id": "203397",
     "reference_id": 108262,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ismael",
     "media_type": "Text",
     "index_reference": "ismael",
@@ -207,13 +249,57 @@
     "content": "<p>Anak yang dimiliki Abraham bersama budak Sarai yaitu Hagar. Ismael bukanlah anak yang dijanjikan Allah untuk diberikan kepada Abraham. Tetapi Allah memelihara Ismael dan dia juga menjadi ayah dari 12 suku.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.2",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.3",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.4",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.5",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.6",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203415,
+    "content_id": "203415",
     "reference_id": 108280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Israel",
     "media_type": "Text",
     "index_reference": "israel",
@@ -230,13 +316,43 @@
           "label": "Perjanjian Gunung Sinai",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:BrookOfTheArabah",
+          "type": "place",
+          "preferred_label": "Israel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Israel",
+          "type": "place",
+          "preferred_label": "Israel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Israel",
+          "type": "group",
+          "preferred_label": "Israelites",
+          "confidence": 0.8467,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203347,
+    "content_id": "203347",
     "reference_id": 108212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Istirahat",
     "media_type": "Text",
     "index_reference": "istirahat",
@@ -245,13 +361,14 @@
     "content": "<p>Di dalam Alkitab ada banyak arti untuk kata istirahat. Makna pertama dibicarakan dalam Kitab Kejadian pasal 2. Setelah Allah menyelesaikan pekerjaan-Nya menciptakan dunia, Dia beristirahat. Ada kedamaian antara Allah dan apa yang Dia ciptakan. Segala sesuatu yang ada memiliki apa yang dibutuhkan untuk hidup seperti yang Allah inginkan. Makna lain dibicarakan dalam Sepuluh Perintah Allah. Itu adalah peristirahatan hari Sabat. Pada hari ketujuh dalam seminggu, orang Israel harus beristirahat dan bukannya bekerja. Makna lainnya dibicarakan dalam Mazmur 95. Ini adalah peristirahatan yang dimiliki orang Israel setelah mereka dibebaskan dari perbudakan. Allah membawa mereka ke tanah yang dijanjikan-Nya untuk diberikan kepada mereka. Makna lengkapnya dibicarakan dalam Ibrani pasal 3 dan 4. Yesus membawa kelegaan sejati bagi mereka yang percaya kepada-Nya. Mereka mulai menikmati kelegaan Yesus ketika mereka mulai mengikuti-Nya. Mereka akan menikmatinya sepenuhnya ketika Dia memerintah sepenuhnya sebagai Raja.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203412,
+    "content_id": "203412",
     "reference_id": 108277,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Istri-istri",
     "media_type": "Text",
     "index_reference": "istri-istri",
@@ -268,13 +385,22 @@
           "label": "Pernikahan",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bithiah",
+          "type": "person",
+          "preferred_label": "Isteri",
+          "confidence": 0.8871,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203620,
+    "content_id": "203620",
     "reference_id": 108485,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Izebel",
     "media_type": "Text",
     "index_reference": "izebel",
@@ -283,7 +409,16 @@
     "content": "<p>Anak perempuan dari raja Sidon. Ia menikahi Ahab dan memerintah sebagai ratu kerajaan utara Israel. Ia bukan orang Israel. Ia melakukan banyak hal yang jahat. Ia membunuh banyak nabi Allah tetapi mendukung banyak nabi Baal (1 Raja-raja <span>16:29–21:29</span>). Izebel juga merupakan nama yang diberikan kepada nabi palsu di gereja di Tiatira (Wahyu 2:20). Orang ini memimpin banyak orang percaya untuk berbuat dosa. Mereka mengakui memiliki pengetahuan yang istimewa mengenai iblis. Mungkin ada seorang perempuan yang bernama Izebel yang melakukan hal-hal ini. Atau Yesus mungkin menggunakan nama itu untuk menunjukkan bagaimana orang ini sama seperti dengan Ratu Izebel. Nabi palsu ini memimpin orang-orang untuk menyembah berhala-berhala.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jezebel",
+          "type": "person",
+          "preferred_label": "Izebel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 775318,
+    "content_id": "775318",
     "reference_id": 108259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hagar",
     "media_type": "Text",
     "index_reference": "hagar",
@@ -11,13 +11,29 @@
     "content": "<p>Hagar was een slavin uit Egypte die Sara diende. Toen Sara geen kinderen kon krijgen, liet ze Hagar bij Abraham slapen. Vervolgens baarde Hagar Abrahams zoon Ismaël. Sara behandelde Hagar slecht. Uiteindelijk werden zij en Ismaël weggestuurd, maar God zorgde voor hen in de woestijn.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "Hagar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gahar",
+          "type": "person",
+          "preferred_label": "Gahar",
+          "confidence": 0.8773,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775571,
+    "content_id": "775571",
     "reference_id": 108510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haggaï",
     "media_type": "Text",
     "index_reference": "haggaï",
@@ -26,13 +42,43 @@
     "content": "<p>Een profeet in Juda tijdens de Perzische overheersing. Hij spoorde Jozua en Zerubbabel aan om de tempel te herbouwen. Zijn profetieën zijn vastgelegd in het boek Haggaï.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haggai",
+          "type": "person",
+          "preferred_label": "Haggai",
+          "confidence": 0.9581,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggiah",
+          "type": "person",
+          "preferred_label": "Haggiah",
+          "confidence": 0.9257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggi",
+          "type": "person",
+          "preferred_label": "Haggi",
+          "confidence": 0.8959,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggith",
+          "type": "person",
+          "preferred_label": "Haggith",
+          "confidence": 0.8137,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775573,
+    "content_id": "775573",
     "reference_id": 108521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haman",
     "media_type": "Text",
     "index_reference": "haman",
@@ -41,13 +87,50 @@
     "content": "<p>Haman was een leider in de Perzische regering ten tijde van Xerxes. Hij stamde af van Agag, de Amalekiet. Dit hield in dat Haman behoorde tot een bevolkingsgroep die de Israëlieten slecht had behandeld. Haman smeedde plannen om alle Joden in het Perzische koninkrijk uit te roeien. Xerxes liet hem ter dood brengen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haman",
+          "type": "person",
+          "preferred_label": "Haman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman",
+          "type": "person",
+          "preferred_label": "Heman",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman.2",
+          "type": "person",
+          "preferred_label": "Heman",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman.3",
+          "type": "person",
+          "preferred_label": "Heman",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hammon.2",
+          "type": "place",
+          "preferred_label": "Hammon",
+          "confidence": 0.8011,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775574,
+    "content_id": "775574",
     "reference_id": 108450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hanna",
     "media_type": "Text",
     "index_reference": "hanna",
@@ -56,13 +139,29 @@
     "content": "<p>De moeder van de profeet Samuel was Hanna, en Elkanah was haar man. Lange tijd kon ze geen kinderen krijgen, maar uiteindelijk stond God haar toe zwanger te worden. Uit dankbaarheid sprak ze een prachtig gebed uit over hoe God voor zijn volk zorgt.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hannah",
+          "type": "person",
+          "preferred_label": "Hannah",
+          "confidence": 0.9533,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hena",
+          "type": "place",
+          "preferred_label": "Hena",
+          "confidence": 0.8228,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775575,
+    "content_id": "775575",
     "reference_id": 108419,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hart",
     "media_type": "Text",
     "index_reference": "hart",
@@ -71,13 +170,14 @@
     "content": "<p>In de Bijbel heeft het woord &apos;hart&apos; twee betekenissen. De eerste betekenis verwijst naar het deel van het lichaam dat in de borst klopt. De tweede betekenis betreft een geestelijk aspect van mensen, waar ze hun gevoelens ervaren. Het is de plek waar ze beslissingen nemen over hun acties en wie ze aanbidden. God kent het hart van elke persoon. Hij weet wat ze denken en voelen, evenals de redenen achter hun beslissingen. Gods volk moet Hem met heel hun hart dienen. Dit betekent dat ze volledig toegewijd moeten zijn aan het leven volgens Gods wegen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778514,
+    "content_id": "778514",
     "reference_id": 108532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hebreeërs",
     "media_type": "Text",
     "index_reference": "hebreeërs",
@@ -101,13 +201,29 @@
           "label": "Jood",
           "language": "nld"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Hebrews",
+          "type": "group",
+          "preferred_label": "Hebrews",
+          "confidence": 0.9369,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Heber",
+          "type": "group",
+          "preferred_label": "Heberites",
+          "confidence": 0.8422,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 778827,
+    "content_id": "778827",
     "reference_id": 108226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "HEER",
     "media_type": "Text",
     "index_reference": "heer",
@@ -116,13 +232,14 @@
     "content": "<p>De Naam die de Israëlieten gebruikten om over God te spreken, bestaat in het Hebreeuws uit de letters YHWH. Niemand weet precies wat deze naam betekent. Deze letters klinken als de Hebreeuwse woorden voor &quot;Ik ben wie ik ben.&quot;</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778828,
+    "content_id": "778828",
     "reference_id": 108329,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heer - Heerser",
     "media_type": "Text",
     "index_reference": "heer - heerser",
@@ -131,13 +248,14 @@
     "content": "<p>Een titel voor een heerser, leider of meester. Het wordt gebruikt als een titel voor God in de Bijbel en betekent dat God gezag heeft over alles en iedereen. In de tijd van het Nieuwe Testament werd &apos;heer&apos; gebruikt als een titel voor de Romeinse keizer, wat betekende dat Caesar overal gezag had waar de Romeinse regering de controle had. De volgelingen van Jezus noemden Jezus &apos;Heer&apos;, waarmee ze erkenden dat Jezus God is en volledige autoriteit heeft over alles en iedereen. Door Jezus &apos;Heer&apos; te noemen, daagden de volgelingen van Jezus het gezag van Caesar uit.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778829,
+    "content_id": "778829",
     "reference_id": 108146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heer Jezus Christus",
     "media_type": "Text",
     "index_reference": "heer jezus christus",
@@ -146,13 +264,14 @@
     "content": "<p>Een titel voor Jezus die Hem op vele manieren beschrijft. Als Heer heeft Hij autoriteit over alle andere heersers op aarde. Als Jezus was Hij een Jood die in Israël leefde tijdens de Romeinse overheersing. Jezus is ook Gods Zoon. Als Christus is Hij de Joodse Messias en Koning. De titel Heer Jezus Christus betekent dat Jezus de Koning van alles is. Het betekent dat Hij de Redder is die Gods volk en de natuurlijke wereld verlost. Hij verlost hen van zonde, dood en kwaad. Het betekent dat Hij waardig is om aanbeden te worden omdat Hij God is.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778526,
+    "content_id": "778526",
     "reference_id": 108361,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heilig",
     "media_type": "Text",
     "index_reference": "heilig",
@@ -161,13 +280,22 @@
     "content": "<p>Afgezonderd zijn. God is heilig. Dit betekent dat Hij anders is dan alles wat verder bestaat. In de Bijbel waren bepaalde plaatsen heilig omdat mensen zich ervan bewust waren dat God daar aanwezig was. Bepaalde dingen waren heilig omdat ze op speciale manieren werden gebruikt om God te aanbidden. Het tegenovergestelde van heilig is onheilig of kwaad. Dingen die onheilig zijn, kunnen niet in Gods aanwezigheid zijn.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "Holy",
+          "confidence": 0.8308,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778527,
+    "content_id": "778527",
     "reference_id": 108044,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heilig leven",
     "media_type": "Text",
     "index_reference": "heilig leven",
@@ -176,13 +304,14 @@
     "content": "<p>Het volgen van Jezus&apos; voorbeeld in denken, spreken en handelen is hoe gelovigen heilig kunnen zijn zoals God heilig is. Er zijn veel redenen waarom God wil dat zijn volk een heilig leven leidt. Een reden is dat de Heilige Geest onder hen en in hen woont. Een andere reden is dat een heilig leven de leden van Gods familie helpt elkaar goed te behandelen. Het helpt hen altijd zorg en liefde voor elkaar te tonen. Een heilig leven toont aan dat gelovigen zijn bevrijd van de macht van zonde en dood. Dit helpt hen de boodschap over Jezus onder ongelovigen te verspreiden. De Heilige Geest maakt het mogelijk voor gelovigen om op heilige manieren te leven. Een heilig leven wordt ook wel een godvruchtig leven genoemd.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778528,
+    "content_id": "778528",
     "reference_id": 108388,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heilige Geest",
     "media_type": "Text",
     "index_reference": "heilige geest",
@@ -191,13 +320,22 @@
     "content": "<p>God openbaart zichzelf als de Geest bij de schepping van de wereld. De Heilige Geest is God, net zoals de Vader God is en Jezus God is. Zij vormen de drie personen van de ene ware God. De Heilige Geest werkte door de mensen die de boeken van de Bijbel schreven. In het Oude Testament stelde de Heilige Geest mensen in staat om te profeteren. De Geest maakte het ook mogelijk voor mensen om bekwaam werk en machtige daden te verrichten. In het Nieuwe Testament maakte de Heilige Geest het mogelijk voor Maria om de moeder van Jezus te worden. Jezus zond de Heilige Geest naar zijn volgelingen op het Feest van Pinksteren. Door de Heilige Geest worden gelovigen met Jezus verbonden. De Heilige Geest is een Vriend die Jezus&apos; volgelingen in staat stelt zijn werk voort te zetten.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.952,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778529,
+    "content_id": "778529",
     "reference_id": 108334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heilige tent",
     "media_type": "Text",
     "index_reference": "heilige tent",
@@ -206,13 +344,14 @@
     "content": "<p>De tent waar God onder de Israëlieten verbleef nadat ze Egypte hadden verlaten, was de plek waar Hij met Mozes en het volk van Israël sprak. God gaf Mozes duidelijke instructies over hoe deze tent gemaakt moest worden. De heilige tent bevatte de ark van het verbond en een wierookaltaar. Er waren ook lampenstandaards en een tafel voor het heilige brood. Daarnaast omvatte het een offeraltaar en een binnenplaats, evenals een grote kom water voor de priesters om hun handen en voeten te wassen. Bekwame arbeiders maakten de tent volgens het patroon dat God aan Mozes op de berg Sinaï had getoond. De Israëlieten namen de heilige tent overal mee naartoe tijdens hun reizen. Het was ook een voorbode van hoe God vele jaren later door Jezus zou werken.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778515,
+    "content_id": "778515",
     "reference_id": 108074,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hel",
     "media_type": "Text",
     "index_reference": "hel",
@@ -221,13 +360,14 @@
     "content": "<p>Een plek van totale ondergang voor degenen die weigeren deel uit te maken van Gods koninkrijk.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775576,
+    "content_id": "775576",
     "reference_id": 108201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hemel",
     "media_type": "Text",
     "index_reference": "hemel",
@@ -244,13 +384,14 @@
           "label": "Koninkrijk van God",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 769673,
+    "content_id": "769673",
     "reference_id": 108156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hemelburgers",
     "media_type": "Text",
     "index_reference": "hemelburgers",
@@ -267,13 +408,14 @@
           "label": "Koninkrijk van God",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 778513,
+    "content_id": "778513",
     "reference_id": 108529,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hemelse gewesten",
     "media_type": "Text",
     "index_reference": "hemelse gewesten",
@@ -290,13 +432,14 @@
           "label": "Kwaadaardige geestelijke wezens",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 772772,
+    "content_id": "772772",
     "reference_id": 108228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Henoch",
     "media_type": "Text",
     "index_reference": "henoch",
@@ -305,13 +448,29 @@
     "content": "<p>De zoon van Jared in de familielijn van Set en de vader van Methusalem. Hij was trouw aan God. In tegenstelling tot anderen stierf hij niet en werd hij niet begraven. God nam hem van de aarde weg.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hanoch",
+          "type": "person",
+          "preferred_label": "Hanoch",
+          "confidence": 0.8524,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanoch.2",
+          "type": "person",
+          "preferred_label": "Hanoch",
+          "confidence": 0.8524,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778516,
+    "content_id": "778516",
     "reference_id": 108110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Agrippa I",
     "media_type": "Text",
     "index_reference": "herodes agrippa i",
@@ -320,13 +479,14 @@
     "content": "<p>Koning Herodes uit Handelingen hoofdstuk 12 was een kleinzoon van Herodes de Grote en een neef van Herodes Antipas. Hij was de vader van Herodes Agrippa II. Twee van zijn dochters waren Bernice en Drusilla.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778517,
+    "content_id": "778517",
     "reference_id": 108139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Agrippa II",
     "media_type": "Text",
     "index_reference": "herodes agrippa ii",
@@ -335,13 +495,14 @@
     "content": "<p>Koning Agrippa, uit Handelingen hoofdstukken 25 en 26, was de zoon van Herodes Agrippa I. Er wordt gedacht dat zijn zus Bernice bij hem woonde als zijn vrouw.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778518,
+    "content_id": "778518",
     "reference_id": 108057,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Antipas",
     "media_type": "Text",
     "index_reference": "herodes antipas",
@@ -350,13 +511,22 @@
     "content": "<p>Herodes, zoals beschreven in Matteüs hoofdstuk 14, Marcus hoofdstuk 6, en Lucas hoofdstukken 3, 9 en 23, was een zoon van Herodes de Grote. Hij regeerde over Galilea en Perea tijdens de tijd van Jezus. Perea bevond zich ten oosten van de rivier de Jordaan. Herodes trouwde met Herodias, de vrouw van zijn broer Filippus. Herodes Antipas liet Johannes de Doper executeren.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herod Antipas",
+          "confidence": 0.9319,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778519,
+    "content_id": "778519",
     "reference_id": 108558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes de Grote",
     "media_type": "Text",
     "index_reference": "herodes de grote",
@@ -365,13 +535,14 @@
     "content": "<p>Koning Herodes, bekend uit Matteüs 2 en Lucas 1, was een heerser die door de Romeinen was aangesteld met de titel Koning der Joden. Hij regeerde als koning van ongeveer 36 v.Chr. tot 4 v.Chr. over Judea en het hele land van Israël. Hoewel hij uit het nageslacht van Ezau kwam, werd hij als een Jood beschouwd. Herodes gaf opdracht tot veel bouwprojecten, waaronder de stad Caesarea en de tempel in Jeruzalem. Hij liet de tempel groter en indrukwekkender maken dan ooit tevoren.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778520,
+    "content_id": "778520",
     "reference_id": 108062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodianen",
     "media_type": "Text",
     "index_reference": "herodianen",
@@ -380,13 +551,36 @@
     "content": "<p>Volgelingen van de heersers uit de familie van Herodes de Grote.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Herodian",
+          "type": "group",
+          "preferred_label": "Herodians",
+          "confidence": 0.9415,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herodion",
+          "type": "person",
+          "preferred_label": "Herodion",
+          "confidence": 0.8904,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "Herodias",
+          "confidence": 0.8473,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778524,
+    "content_id": "778524",
     "reference_id": 108427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hevieten",
     "media_type": "Text",
     "index_reference": "hevieten",
@@ -395,13 +589,22 @@
     "content": "<p>Een bevolkingsgroep die in Kanaän leefde, afkomstig uit het nageslacht van Kanaän, de zoon van Cham. God droeg de Israëlieten op om hen uit Kanaän te verdrijven als onderdeel van Zijn oordeel over hen. Jozua werd echter misleid om een vredesverbond te sluiten met de Hevieten die in Gibeon woonden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:GenericFemales",
+          "type": "group",
+          "preferred_label": "Women",
+          "confidence": 0.843,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778521,
+    "content_id": "778521",
     "reference_id": 108496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hizkia",
     "media_type": "Text",
     "index_reference": "hizkia",
@@ -410,13 +613,22 @@
     "content": "<p>De zoon van Achaz en Abia. Hizkia was de vader van Manasse en behoorde tot de stam van Juda. Hij was de twaalfde koning van het zuidelijke koninkrijk Juda. Tijdens zijn koningschap verrichtte God een wonder om Jeruzalem te redden van de Assyriërs. Hizkia volgde God trouw en leidde het volk om uitsluitend God te aanbidden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hizki",
+          "type": "person",
+          "preferred_label": "Hizki",
+          "confidence": 0.8397,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778525,
+    "content_id": "778525",
     "reference_id": 108387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hobab",
     "media_type": "Text",
     "index_reference": "hobab",
@@ -425,13 +637,64 @@
     "content": "<p>Hobab was de zwager van Mozes en de zoon van Reüel, die ook Jethro werd genoemd. Hij was de broer van Mozes&apos; vrouw Zippora en behoorde tot de Kenitische bevolkingsgroep. Hobab reisde met de Israëlieten mee van de berg Sinaï naar Kanaän en diende als hun gids in de woestijn.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hobab",
+          "type": "person",
+          "preferred_label": "Hobab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hobah",
+          "type": "place",
+          "preferred_label": "Hobah",
+          "confidence": 0.8914,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.2",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.3",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.4",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.5",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778523,
+    "content_id": "778523",
     "reference_id": 108368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hogepriester",
     "media_type": "Text",
     "index_reference": "hogepriester",
@@ -440,13 +703,14 @@
     "content": "<p>De religieuze leider met de meeste autoriteit in Israël was de hogepriester. Hij moest een man zijn uit de stam van Levi en afkomstig uit de familie van Aäron. De hogepriester had de taak het volk te onderwijzen, net zoals Mozes dat had gedaan. Hij had speciale verantwoordelijkheden in Gods heilige tent en later in de tempel. Alleen de hogepriester mocht het Heilige der Heilige betreden. Hij informeerde het volk over Gods wensen en bracht de offers om de zonden van Israël te vergeven.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778522,
+    "content_id": "778522",
     "reference_id": 108499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hoogten",
     "media_type": "Text",
     "index_reference": "hoogten",
@@ -455,13 +719,14 @@
     "content": "<p>Een plaats van aanbidding op een heuvel, berg of hooggelegen plek, waar mensen wierook verbrandden en offers brachten. Sommige van deze hoogten werden gebruikt voor de aanbidding van de ware God, vaak voordat de tempel was gebouwd. Andere hoogten dienden voor de aanbidding van afgoden, waarbij mensen zelfs kinderen offerden om deze afgoden te eren. Toen de Israëlieten voor het eerst Kanaän binnenkwamen, waren er veel van deze hoogten. De Israëlieten moesten alle hoogten vernietigen die werden gebruikt voor de aanbidding van afgoden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778530,
+    "content_id": "778530",
     "reference_id": 108570,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hosea",
     "media_type": "Text",
     "index_reference": "hosea",
@@ -470,7 +735,16 @@
     "content": "<p>Hosea was een profeet in het noordelijke koninkrijk Israël. Hij profeteerde tijdens de regeerperiode van koning Jerobeam II en bleef profeteren tot het noordelijke koninkrijk werd verwoest door de Assyriërs. Zijn profetieën zijn opgetekend in het boek Hosea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hosea",
+          "type": "person",
+          "preferred_label": "Hosea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

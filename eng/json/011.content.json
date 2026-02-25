@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132214,
+    "content_id": "132214",
     "reference_id": 108268,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jacob",
     "media_type": "Text",
     "index_reference": "jacob",
@@ -19,13 +19,29 @@
           "label": "12 tribes",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "Jacob",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132225,
+    "content_id": "132225",
     "reference_id": 108279,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jacob wrestled",
     "media_type": "Text",
     "index_reference": "jacob wrestled",
@@ -34,13 +50,14 @@
     "content": "<p>Jacob wrestled with the man who blessed him on his way to Canaan. This was right before Jacob met Esau. A prophecy in Hosea 12:4 explained that the man was understood to be an angel. He gave Jacob the name Israel. Jacob understood that he had wrestled with God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132382,
+    "content_id": "132382",
     "reference_id": 108436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jael",
     "media_type": "Text",
     "index_reference": "jael",
@@ -49,13 +66,22 @@
     "content": "<p>A woman from the Kenite people group who lived among the Israelites. Heber was her husband. She was from the family line of Moses’ brother-in-law Hobab. She killed a Canaanite military leader named Sisera. Jael was an important part of the song Deborah sang about the Israelites’ victory in Judges chapter 5.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jael",
+          "type": "person",
+          "preferred_label": "Jael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132065,
+    "content_id": "132065",
     "reference_id": 108119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "James",
     "media_type": "Text",
     "index_reference": "james",
@@ -64,13 +90,50 @@
     "content": "<p>One of Jesus’ brothers. At first he didn’t believe that Jesus was the Messiah. After Jesus was raised from the dead, he appeared to James. James trusted Jesus and became a leader in the church in Jerusalem. The New Testament includes one letter that he wrote. This is a different James to James the apostle.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "James",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "James",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "James",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "James",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 131988,
+    "content_id": "131988",
     "reference_id": 108042,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "James the apostle",
     "media_type": "Text",
     "index_reference": "james the apostle",
@@ -79,13 +142,22 @@
     "content": "<p>One of Jesus’ 12 disciples and one of his three closest followers. His brother was John and their father was Zebedee. Jesus called James and John sons of thunder. James was the first apostle to be put to death for being faithful to Jesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "James",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132186,
+    "content_id": "132186",
     "reference_id": 108240,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Japheth",
     "media_type": "Text",
     "index_reference": "japheth",
@@ -94,13 +166,22 @@
     "content": "<p>The eldest son of Noah. He and his wife were saved from the flood because they were in the ark. He treated his father with respect when Noah got drunk after the flood. Noah spoke a blessing over Japheth’s family.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Japheth",
+          "type": "person",
+          "preferred_label": "Japheth",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132291,
+    "content_id": "132291",
     "reference_id": 108345,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jealous",
     "media_type": "Text",
     "index_reference": "jealous",
@@ -109,13 +190,22 @@
     "content": "<p>One way that God describes himself. He isn’t jealous in the sinful way that human beings can be jealous. Human beings can be jealous of others who have something they themselves need or want. God is jealous when human beings worship false gods. This is because he is the only true God. He is the only one worthy of being worshipped.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132450,
+    "content_id": "132450",
     "reference_id": 108504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jebusites",
     "media_type": "Text",
     "index_reference": "jebusites",
@@ -124,13 +214,22 @@
     "content": "<p>A people group that lived in Canaan. They were from the family line of Ham’s son Canaan. God told the Israelites to drive them out of the land as his judgement against them. They lived in the city of Jerusalem before David took control of it.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Jebusites",
+          "type": "group",
+          "preferred_label": "Jebusites",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132438,
+    "content_id": "132438",
     "reference_id": 108492,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jehoiada",
     "media_type": "Text",
     "index_reference": "jehoiada",
@@ -139,13 +238,43 @@
     "content": "<p>An important priest when Athaliah was queen and later when Joash was king. His wife was Jehosheba. Jehoiada was the father of Zechariah and was Joash’s uncle. He taught Joash to be faithful to the Mount Sinai covenant. Jehoiada led the people of Jerusalem to stop following Athaliah and to have her killed. Then he led them to make Joash king and to follow God’s covenant. When Jehoiada died the people honoured him by burying him with the kings of Judah. Later Joash put Jehoiada’s son Zechariah to death.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jehoiada.2",
+          "type": "person",
+          "preferred_label": "Jehoiada",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jehoiada.3",
+          "type": "person",
+          "preferred_label": "Jehoiada",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jehoiada.4",
+          "type": "person",
+          "preferred_label": "Jehoiada",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jehoiada",
+          "type": "person",
+          "preferred_label": "Jehoiada",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132429,
+    "content_id": "132429",
     "reference_id": 108483,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jehoshaphat",
     "media_type": "Text",
     "index_reference": "jehoshaphat",
@@ -154,13 +283,43 @@
     "content": "<p>The son of Asa and Azubah. He was the father of Jehoram and was from the tribe of Judah. He was the fourth king of the southern kingdom of Judah. He followed God faithfully and led the people to worship only God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jehoshaphat.2",
+          "type": "person",
+          "preferred_label": "Jehoshaphat",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "Jehoshaphat",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jehoshaphat.4",
+          "type": "person",
+          "preferred_label": "Jehoshaphat",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jehoshaphat",
+          "type": "person",
+          "preferred_label": "Jehoshaphat",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132384,
+    "content_id": "132384",
     "reference_id": 108438,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jephthah",
     "media_type": "Text",
     "index_reference": "jephthah",
@@ -169,13 +328,22 @@
     "content": "<p>One of the 12 judges of Israel in Gilead. It’s thought that he was from the tribe of Manasseh. He was the son of a man named Gilead and a prostitute. After he won an important victory, he sacrificed his daughter.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jephthah",
+          "type": "person",
+          "preferred_label": "Jephthah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132453,
+    "content_id": "132453",
     "reference_id": 108507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jeremiah",
     "media_type": "Text",
     "index_reference": "jeremiah",
@@ -184,13 +352,71 @@
     "content": "<p>A prophet in the southern kingdom of Judah. He was the son of Hilkiah. He was a priest in the town of Anathoth. He prophesied from the time of Josiah until after the Babylonian armies destroyed Jerusalem. His prophecies are recorded in the book of Jeremiah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeremiah.2",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jeremiah.3",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jeremiah.4",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jeremiah.5",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jeremiah.6",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jeremiah.7",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jeremiah.8",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jeremiah",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132370,
+    "content_id": "132370",
     "reference_id": 108424,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jericho",
     "media_type": "Text",
     "index_reference": "jericho",
@@ -199,13 +425,29 @@
     "content": "<p>A city west of the River Jordan and east of Jerusalem. It was also called the City of Palm Trees. It had rich soil and plenty of water. God destroyed the city when the Israelites marched around it. Many years later it became an important city in Israel. Zacchaeus was from Jericho.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jericho.2",
+          "type": "place",
+          "preferred_label": "Jericho",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Jericho",
+          "type": "place",
+          "preferred_label": "Jericho",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132422,
+    "content_id": "132422",
     "reference_id": 108476,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jeroboam",
     "media_type": "Text",
     "index_reference": "jeroboam",
@@ -214,13 +456,29 @@
     "content": "<p>The son of Nebat and Zeruah who was an official in Solomon’s government. He was from the tribe of Ephraim. He became the first king of the northern kingdom of Israel. God promised to make his rule secure if Jeroboam served him faithfully. But Jeroboam stopped the Israelites from worshipping God the way God had told them to. Jeroboam appointed people who weren’t Levites to be priests. He led the people to worship golden statues of calves. These actions were called the sins of Jeroboam. Because of these sins Jeroboam’s family line was destroyed.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "Jeroboam",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "Jeroboam",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132410,
+    "content_id": "132410",
     "reference_id": 108464,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jerusalem",
     "media_type": "Text",
     "index_reference": "jerusalem",
@@ -229,13 +487,22 @@
     "content": "<p>The capital city of the Israelites when David and Solomon were kings. Later it was the capital city of the land of Judah and Judea. It had been a Jebusite city in the territory of the tribe of Benjamin. David captured it and made it the centre of Israel’s government and worship practices. The temple was built on a hilltop in Jerusalem called Mount Moriah or Mount Zion. Zion became a way to talk about all of Jerusalem. Jerusalem was also called the City of David. The Babylonians destroyed Jerusalem in the year 586 BC. Jews later rebuilt it and Jerusalem remained the centre for Jewish government and for worshipping God. It’s the capital city of the nation of Israel today. Jerusalem is in between the Mediterranean Sea and the River Jordan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132165,
+    "content_id": "132165",
     "reference_id": 108219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jesus",
     "media_type": "Text",
     "index_reference": "jesus",
@@ -244,13 +511,36 @@
     "content": "<p>The Son of God who became a human being. He is the Saviour of the world. Jesus is God just like the Father is God and the Holy Spirit is God. They are the three persons of the one and only God. In the Hebrew language, Jesus means the Lord saves. Jesus lived on earth from around the year 4 BC to around AD 30. He lived in the land of Israel while the Roman government was in control. When he lived on earth, Jesus’s mother was Mary. She became pregnant with Jesus even though she hadn’t had sex with anyone. The Holy Spirit made this possible. Joseph was the human father who raised Jesus when he was young. Jesus came from the family lines of Abraham, Judah and David. Jesus grew up in Nazareth with brothers and sisters. He was put to death on a cross. Then God raised him from the dead. He won the victory over sin, death and all evil spiritual beings. He is the Messiah and King that God had promised to send. Now Jesus rules as King in heaven. He will return to earth to rule as King over everything that God created.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Justus.3",
+          "type": "person",
+          "preferred_label": "Justus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Barabbas",
+          "type": "person",
+          "preferred_label": "Barabbas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132011,
+    "content_id": "132011",
     "reference_id": 108065,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jesus’ return",
     "media_type": "Text",
     "index_reference": "jesus’ return",
@@ -259,13 +549,14 @@
     "content": "<p>When Jesus returns to earth to rule completely as King. After he was raised from the dead, he went to rule with the Father in heaven. When he returns, all people will recognise that he is Lord and King. Jesus will stop all evil on earth. He will bring heaven and earth together as one in God’s kingdom.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132272,
+    "content_id": "132272",
     "reference_id": 108326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jethro",
     "media_type": "Text",
     "index_reference": "jethro",
@@ -274,13 +565,22 @@
     "content": "<p>Moses’ father-in-law and a priest in Midian. He was also called Reuel. He was part of the Kenite people group. He welcomed Moses when Moses ran away from Egypt. His daughter Zipporah became Moses’ wife. He stayed with the Israelites as they travelled from Mount Sinai to Canaan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jethro",
+          "type": "person",
+          "preferred_label": "Jethro",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132449,
+    "content_id": "132449",
     "reference_id": 108503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jew",
     "media_type": "Text",
     "index_reference": "jew",
@@ -304,13 +604,22 @@
           "label": "Hebrew",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132016,
+    "content_id": "132016",
     "reference_id": 108070,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jewish laws",
     "media_type": "Text",
     "index_reference": "jewish laws",
@@ -334,13 +643,14 @@
           "label": "Law of Moses",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132431,
+    "content_id": "132431",
     "reference_id": 108485,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jezebel",
     "media_type": "Text",
     "index_reference": "jezebel",
@@ -349,13 +659,22 @@
     "content": "<p>The daughter of the king of Sidon. She married Ahab and ruled as queen of the northern kingdom of Israel. She wasn’t an Israelite. She did many evil things. She killed many prophets of God but supported many prophets of Baal (<span>1 Kings 16:29–21:29</span>). Jezebel was also the name given to a false prophet in the church in Thyatira (Revelation 2:20). This person led many believers to sin. They claimed to have special knowledge about the devil. There may have been a woman named Jezebel doing these things. Or Jesus may have used the name to show how this person was like Queen Jezebel. This false prophet was leading people to worship false gods.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jezebel",
+          "type": "person",
+          "preferred_label": "Jezebel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132409,
+    "content_id": "132409",
     "reference_id": 108463,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joab",
     "media_type": "Text",
     "index_reference": "joab",
@@ -364,13 +683,43 @@
     "content": "<p>A nephew of David who was a mighty fighter. He became the commander of Israel’s armies under David. He was faithful to David for many years. But he went against David by murdering Abner and Amasa. He also went against David by killing Absalom. He didn’t support Solomon as the king after David. Because of these things, David ordered Solomon to have Joab killed.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joab.2",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joab.3",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joab.4",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joab",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132437,
+    "content_id": "132437",
     "reference_id": 108491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joash",
     "media_type": "Text",
     "index_reference": "joash",
@@ -379,13 +728,71 @@
     "content": "<p>The son of Ahaziah and Zibia. He was the father of Amaziah and was from the tribe of Judah. He was the seventh king of the southern kingdom. His grandmother Athaliah tried to murder him but his aunt Jehosheba saved him. Joash grew up in the temple with Jehoiada. He became king when he was seven years old. He made sure that the temple was repaired. He followed God faithfully and led the people to worship only God. He did this for as long as Jehoiada was alive. After Jehoiada died, Joash did evil things and worshipped false gods.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joash.2",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joash.3",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joash.4",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joash.5",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joash.6",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joash.7",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joash.8",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joash",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132470,
+    "content_id": "132470",
     "reference_id": 108524,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Job",
     "media_type": "Text",
     "index_reference": "job",
@@ -394,13 +801,22 @@
     "content": "<p>The main person in the story told in the book of Job. He was from Uz. It’s thought that Uz was in Edom. It’s thought that Job wasn’t from Jacob’s family line. He worshipped the one true God faithfully. God tested Job by allowing him to suffer. Job asked God many questions and spoke honestly about his feelings. Throughout the test, he remained faithful to God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Job",
+          "type": "person",
+          "preferred_label": "Job",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132488,
+    "content_id": "132488",
     "reference_id": 108542,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "John",
     "media_type": "Text",
     "index_reference": "john",
@@ -409,13 +825,50 @@
     "content": "<p>The writer of the Gospel of John. He also wrote books 1, 2 and 3 John. It’s thought that he also wrote the book of Revelation. John was one of Jesus’ 12 disciples and one of his three closest followers. In the Gospel of John he is called the disciple whom Jesus loved. His brother was James and their father was Zebedee. Jesus called James and John the sons of thunder.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:John.3",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "Mark",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132526,
+    "content_id": "132526",
     "reference_id": 108580,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "John the Baptist",
     "media_type": "Text",
     "index_reference": "john the baptist",
@@ -432,13 +885,22 @@
           "label": "Elijah",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132519,
+    "content_id": "132519",
     "reference_id": 108573,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jonah",
     "media_type": "Text",
     "index_reference": "jonah",
@@ -447,13 +909,29 @@
     "content": "<p>A prophet from the northern kingdom of Israel. He was the son of Amittai. He prophesied about the northern kingdom’s borders. This prophecy was fulfilled when King Jeroboam the second ruled. A story about Jonah is recorded in the book of Jonah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jonah.2",
+          "type": "person",
+          "preferred_label": "Jonah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132403,
+    "content_id": "132403",
     "reference_id": 108457,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jonathan",
     "media_type": "Text",
     "index_reference": "jonathan",
@@ -462,13 +940,106 @@
     "content": "<p>A son of Saul and Ahinoam. He was from the tribe of Benjamin. Jonathan supported God’s plan to make David king instead of himself. He made a covenant of friendship with David. Because of their friendship, David treated Jonathan’s son Mephibosheth well.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jonathan.10",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.11",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.12",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.13",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.2",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.3",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.4",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.5",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.6",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.7",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.8",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonathan.9",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jonadab.2",
+          "type": "person",
+          "preferred_label": "Jonadab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132234,
+    "content_id": "132234",
     "reference_id": 108288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joseph",
     "media_type": "Text",
     "index_reference": "joseph",
@@ -477,13 +1048,113 @@
     "content": "<p>The eldest son of Jacob and Rachel. He was Jacob’s favourite son. In the Hebrew language Joseph means may he add. Rachel gave him this name because she wanted more children. Some of his brothers sold him as a slave to Egypt. He later became a ruler of Egypt and saved many people from dying of hunger. His wife was Asenath. The family lines of his sons Manasseh and Ephraim became tribes of Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joseph.10",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.11",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.12",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.13",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.14",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Josech",
+          "type": "person",
+          "preferred_label": "Josech",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.3",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.4",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.5",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.6",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.7",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.8",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joseph.9",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "Barnabas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 131978,
+    "content_id": "131978",
     "reference_id": 108032,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joseph of Nazareth",
     "media_type": "Text",
     "index_reference": "joseph of nazareth",
@@ -492,13 +1163,22 @@
     "content": "<p>The husband of Mary of Nazareth. He was from the family line of David and served God faithfully. He was a carpenter skilled at working with wood, bricks and metal. He wasn’t the father of Jesus but adopted Jesus as his son. He took care of Jesus and protected him while he was young.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joseph.4",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132335,
+    "content_id": "132335",
     "reference_id": 108389,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joshua",
     "media_type": "Text",
     "index_reference": "joshua",
@@ -507,13 +1187,50 @@
     "content": "<p>A man born a Hebrew slave in Egypt. He helped Moses lead God’s people during the exodus. He was the son of Nun and was from the tribe of Ephraim. Moses changed his name from Hoshea to Joshua. He was one of the spies who explored the land of Canaan. He brought back a good report. He became the leader of the Israelites after Moses died. Joshua led the Israelites into the land that God had promised to give Abraham.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joshua.3",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joshua.4",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joshua",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132454,
+    "content_id": "132454",
     "reference_id": 108508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joshua and Zerubbabel",
     "media_type": "Text",
     "index_reference": "joshua and zerubbabel",
@@ -522,13 +1239,64 @@
     "content": "<p>Jewish leaders who returned to Judah from being exiled in Babylon. They led God’s people to rebuild the temple in Jerusalem. Joshua was the son of Jozadak and served as high priest in the second temple. This is a different Joshua to the one who led the Israelites after Moses. Zerubbabel served as the governor of Judah while the Persian government was in control. He was the son of Shealtiel and was from David’s family line. Jesus is from Zerubbabel’s family line.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joshua.3",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joshua.4",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Joshua",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Zerubbabel.2",
+          "type": "person",
+          "preferred_label": "Zerubbabel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Zerubbabel",
+          "type": "person",
+          "preferred_label": "Zerubbabel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132237,
+    "content_id": "132237",
     "reference_id": 108291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judah",
     "media_type": "Text",
     "index_reference": "judah",
@@ -537,13 +1305,78 @@
     "content": "<p>A son of Jacob and Leah. In the Hebrew language his name means praise or giving thanks. Judah slept with his daughter-in-law Tamar. That is how he became the father of Perez and Zerah. Jacob’s blessing over him included a prophecy that kings would come from his family line. Both King David and Jesus the Messiah came from Judah’s family line. Judah’s family line became an important tribe in Israel. The tribe of Judah became the main tribe of the southern kingdom. The southern kingdom of the nation of Israel became known as Judah. This continued when the Babylonian government took control of the southern kingdom. That land was also known as Judah when the Persian government was in control.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hodiah.2",
+          "type": "person",
+          "preferred_label": "Hodiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Hodaviah.4",
+          "type": "person",
+          "preferred_label": "Hodaviah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Judea.2",
+          "type": "place",
+          "preferred_label": "Judah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132040,
+    "content_id": "132040",
     "reference_id": 108094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judas",
     "media_type": "Text",
     "index_reference": "judas",
@@ -552,13 +1385,57 @@
     "content": "<p><span>One of Jesusʼ 12 disciples. His father was James. Matthew and Mark called this disciple Thaddeus. </span>Luke and John called him Judas. He wasn’t the Judas who handed Jesus over to be killed.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "Jude",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132012,
+    "content_id": "132012",
     "reference_id": 108066,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judas Iscariot",
     "media_type": "Text",
     "index_reference": "judas iscariot",
@@ -567,13 +1444,22 @@
     "content": "<p>One of Jesus’ 12 disciples. He was in charge of the disciples’ money but stole from it. He handed Jesus over to the Jewish leaders who wanted to kill him. Later he killed himself.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132114,
+    "content_id": "132114",
     "reference_id": 108168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jude",
     "media_type": "Text",
     "index_reference": "jude",
@@ -582,13 +1468,22 @@
     "content": "<p>One of Jesus’ brothers. At first he didn’t believe that Jesus was the Messiah. Later he trusted Jesus and became a leader among the churches. The New Testament includes one letter that he wrote.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "Jude",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 131981,
+    "content_id": "131981",
     "reference_id": 108035,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judea",
     "media_type": "Text",
     "index_reference": "judea",
@@ -597,13 +1492,22 @@
     "content": "<p>The southern area of the land God had promised to give Abraham’s family line. It included land that had been called the southern kingdom of Judah. It was called Judea after some of God’s people returned from exile in Babylon. The tribe of Judah lived in Judea. Jerusalem was the most important city in Judea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judea",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132366,
+    "content_id": "132366",
     "reference_id": 108420,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judge",
     "media_type": "Text",
     "index_reference": "judge",
@@ -612,13 +1516,29 @@
     "content": "<p>A leader who made decisions about laws. Each community in Israel had local judges. There were also judges at the holy tent and the temple. They made decisions about cases that were too hard for local judges. Levites helped judges make their decisions. Kings in Israel also served as judges by making decisions about cases. Judges were always to do what was right and fair. The people were to respect them and obey their decisions.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Judge",
+          "type": "keyterm",
+          "preferred_label": "Judge",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Judgment",
+          "type": "keyterm",
+          "preferred_label": "Judgment",
+          "confidence": 0.8497,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132179,
+    "content_id": "132179",
     "reference_id": 108233,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judgement",
     "media_type": "Text",
     "index_reference": "judgement",
@@ -627,13 +1547,43 @@
     "content": "<p>Suffering and punishment for doing what goes against what God wants. God brings judgement against people, people groups and evil spiritual beings. He brings judgement to stop sinful things and evil deeds. Judgement against evil is how God brings justice back to his world. Judgement from God can feel painful and can lead to people dying. It can also lead people to repent and to turn away from sin and evil. It can teach people to do what God wants done. This allows people to live in peace with God and with one another.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Judgment",
+          "type": "keyterm",
+          "preferred_label": "Judgment",
+          "confidence": 0.9746,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Verdict",
+          "type": "keyterm",
+          "preferred_label": "Verdict",
+          "confidence": 0.8687,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Judge",
+          "type": "keyterm",
+          "preferred_label": "Judge",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Decision",
+          "type": "keyterm",
+          "preferred_label": "Decision",
+          "confidence": 0.81,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132001,
+    "content_id": "132001",
     "reference_id": 108055,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judgement day",
     "media_type": "Text",
     "index_reference": "judgement day",
@@ -650,7 +1600,8 @@
           "label": "Day of the Lord",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

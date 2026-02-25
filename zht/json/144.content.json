@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232790,
+    "content_id": "232790",
     "reference_id": 108189,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "一千年",
     "media_type": "Text",
     "index_reference": "一千年",
@@ -11,13 +11,14 @@
     "content": "<p>約翰在異象中看見魔鬼被鎖在無底坑裡一千年。約翰還看見基督統治了一千年，一些殉道的基督跟隨者與祂一同統治。有些人相信這些事情會如約翰在異象中所見的那樣精確地發生。另一些人則認為這些事是徵兆。它們是神將如何審判邪惡並將祂的國帶到地上的徵兆。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232733,
+    "content_id": "232733",
     "reference_id": 108132,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "伊比鳩魯派",
     "media_type": "Text",
     "index_reference": "伊比鳩魯派",
@@ -26,13 +27,14 @@
     "content": "<p>一群思想家，他們追隨希臘思想家伊比鳩魯的教導。他們相信人生的目標是獲得完全的平靜。當他們擁有真正需要的一切時，他們就能獲得完全的平靜。這樣他們就不會擔心任何事情。他們不相信死後還有生命。保羅在雅典與伊比鳩魯派分享了關於耶穌的好消息。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232808,
+    "content_id": "232808",
     "reference_id": 108207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "伊甸園",
     "media_type": "Text",
     "index_reference": "伊甸園",
@@ -41,13 +43,14 @@
     "content": "<p>神在創造世界時所造的園子。最早的人在那裡生活和作工。伊甸園中的生活是神希望祂的世界成為的樣子。神與人生活在平安之中。園子很美，有許多種植物和動物。植物健康可食，且有充足的水源。人在園子裡不需要保護自己免受任何東西的侵害。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232682,
+    "content_id": "232682",
     "reference_id": 108081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "伊利莎白",
     "media_type": "Text",
     "index_reference": "伊利莎白",
@@ -56,13 +59,22 @@
     "content": "<p>施洗約翰的母親。她是利未支派並且是亞倫的後裔。她的丈夫是撒迦利亞，拿撒勒的馬利亞是她的親戚。伊利莎白年紀很大時，神使她生了一個兒子。伊利莎白認出馬利亞懷了彌賽亞。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elizabeth",
+          "type": "person",
+          "preferred_label": "Elizabeth",
+          "confidence": 0.8447,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232705,
+    "content_id": "232705",
     "reference_id": 108104,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "衣索匹亞太監",
     "media_type": "Text",
     "index_reference": "衣索匹亞太監",
@@ -71,13 +83,14 @@
     "content": "<p>在非洲衣索匹亞地區的一位重要的政府官員。他管理女王的財務。不知道他是否為猶太人。他敬拜以色列的神，並成為跟從耶穌的人。據說他是第一個在非洲分享耶穌福音的信徒。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232760,
+    "content_id": "232760",
     "reference_id": 108159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以巴弗",
     "media_type": "Text",
     "index_reference": "以巴弗",
@@ -86,13 +99,14 @@
     "content": "<p>一位來自歌羅西的希臘信徒，與保羅一起同工。他在歌羅西、老底嘉和希拉波立分享了關於耶穌的信息。他在這些城市協助大家建立了教會。他曾與保羅一起坐牢。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232759,
+    "content_id": "232759",
     "reference_id": 108158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以巴弗提",
     "media_type": "Text",
     "index_reference": "以巴弗提",
@@ -101,13 +115,14 @@
     "content": "<p>一位來自腓立比的希臘信徒，與保羅一起同工。當保羅在監獄裡時，以巴弗提帶來了腓立比信徒的禮物和錢。他回到腓立比時，帶著保羅寫給腓立比人的信。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233012,
+    "content_id": "233012",
     "reference_id": 108411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以東",
     "media_type": "Text",
     "index_reference": "以東",
@@ -116,13 +131,22 @@
     "content": "<p>猶大南部和東部的土地，是以掃的後裔居住的地方。以掃也被稱為以東。他的子孫成為一個強大的國家，稱為以東。以東人和以色列人之間並不和睦。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:East",
+          "type": "place",
+          "preferred_label": "East",
+          "confidence": 0.9147,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232899,
+    "content_id": "232899",
     "reference_id": 108298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以法蓮",
     "media_type": "Text",
     "index_reference": "以法蓮",
@@ -131,13 +155,14 @@
     "content": "<p>約瑟和亞西納的次子。在希伯來文中，以法蓮的意思是雙倍的果實。雅各收養了他為自己的兒子。儘管他不是長子，雅各將父親的祝福給了他。以法蓮的家族是以色列的一個支派。他們是北國以色列的一個重要支派。北國的首都在以法蓮的土地上。北國在聖經中有時被稱為以法蓮。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232736,
+    "content_id": "232736",
     "reference_id": 108135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以弗所",
     "media_type": "Text",
     "index_reference": "以弗所",
@@ -146,13 +171,14 @@
     "content": "<p>羅馬領土亞細亞的首都。對女神亞底米的崇拜是以弗所的主要宗教。保羅在他的第二次和第三次旅行中造訪了這座城市。他在那裡幫助教會兩年。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232716,
+    "content_id": "232716",
     "reference_id": 108115,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以哥念",
     "media_type": "Text",
     "index_reference": "以哥念",
@@ -161,13 +187,14 @@
     "content": "<p>位於小亞細亞的羅馬領土加拉太的一個城市。保羅在他的三次旅行中造訪問這個城市，分享關於耶穌的好消息。據說保羅寫給加拉太人的信是向那裡的教會宣讀的。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233033,
+    "content_id": "233033",
     "reference_id": 108432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以笏",
     "media_type": "Text",
     "index_reference": "以笏",
@@ -176,13 +203,14 @@
     "content": "<p>以色列的十二士師之一。他是便雅憫支派的人，左撇子。這一點成為他用來殺死摩押王的計謀的一部分。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233052,
+    "content_id": "233052",
     "reference_id": 108451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以利",
     "media_type": "Text",
     "index_reference": "以利",
@@ -191,13 +219,14 @@
     "content": "<p>十二士師時期的一位祭司，那時撒母耳還年幼。他在示羅的會幕服事。以利是何弗尼和非尼哈的父親。他沒有阻止他的兒子們做惡事。因此，以利的後裔沒有繼續擔任大祭司。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233088,
+    "content_id": "233088",
     "reference_id": 108487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以利沙",
     "media_type": "Text",
     "index_reference": "以利沙",
@@ -206,13 +235,29 @@
     "content": "<p>北國以色列的一位先知，從亞哈統治時期到約阿施統治時期。他是以利亞的僕人。他的言行挑戰了在以色列敬拜假神統治者的權柄。他教導許多其他的先知。神藉著以利沙行了許多神蹟。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Elisha",
+          "confidence": 0.8281,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishah",
+          "type": "person",
+          "preferred_label": "Elishah",
+          "confidence": 0.8045,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 233087,
+    "content_id": "233087",
     "reference_id": 108486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以利亞",
     "media_type": "Text",
     "index_reference": "以利亞",
@@ -221,13 +266,14 @@
     "content": "<p>是一位先知，在亞哈和亞哈謝統治北國以色列的時候。他來自基列地。他以穿毛衣和束皮帶著稱。他的言行挑戰了在以色列敬拜假神的統治者的權柄。他教導許多其他先知。他將他的權柄交給以利沙，使其成為他的繼任先知。以利亞在許多方面都像摩西。神藉著他行奇蹟，並在何烈山向他顯現。以利亞沒有死，而是被強風帶到天上。沒有人找到他的遺體。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232958,
+    "content_id": "232958",
     "reference_id": 108357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以利亞撒",
     "media_type": "Text",
     "index_reference": "以利亞撒",
@@ -236,13 +282,14 @@
     "content": "<p>亞倫和以利沙巴的兒子，來自利未支派。他的兄弟是拿答、亞比戶和以他瑪。他是非尼哈的父親，並成為利未人的首領。亞倫死後，他成為大祭司。他幫助摩西在曠野中帶領以色列人。在迦南地他協助約書亞帶領以色列人。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233139,
+    "content_id": "233139",
     "reference_id": 108538,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以馬內利",
     "media_type": "Text",
     "index_reference": "以馬內利",
@@ -251,13 +298,14 @@
     "content": "<p>在希伯來文中，這個名字的意思是神與我們同在。在亞哈斯王的時代，以賽亞預言了一個名叫以馬內利的男孩。他將成為神與南國同在的標誌。這個孩子是南國將被拯救的標誌。他們將從攻擊他們的敵軍中得救。以賽亞的預言也對未來有意義。馬太在他的福音書中寫到了這一點。藉著耶穌，神以人的身體與祂的百姓同在。耶穌是那位以馬內利，祂拯救神的百姓脫離罪和死亡敵人。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232829,
+    "content_id": "232829",
     "reference_id": 108228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以諾",
     "media_type": "Text",
     "index_reference": "以諾",
@@ -266,13 +314,14 @@
     "content": "<p>他是賽特後裔中雅列的兒子，是瑪土撒拉的父親。他對神忠心。他沒有像其他人一樣死去被埋葬。神把他從地上接走了。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232770,
+    "content_id": "232770",
     "reference_id": 108169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以諾書",
     "media_type": "Text",
     "index_reference": "以諾書",
@@ -281,13 +330,14 @@
     "content": "<p>已知是耶穌時代前後的一部猶太著作。它不是由創世記中提到的以諾所寫的。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232862,
+    "content_id": "232862",
     "reference_id": 108261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以撒",
     "media_type": "Text",
     "index_reference": "以撒",
@@ -296,13 +346,14 @@
     "content": "<p>神應許給亞伯拉罕與他的妻子撒拉的兒子。以撒娶了利百加，又是雅各和以掃的父親。在希伯來文中，以撒的意思是他笑了。神藉著以撒繼續祂與亞伯拉罕所立的約。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233098,
+    "content_id": "233098",
     "reference_id": 108497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以賽亞",
     "media_type": "Text",
     "index_reference": "以賽亞",
@@ -311,13 +362,29 @@
     "content": "<p>猶大南國的一位先知，在希西家和其他君王時期。在希伯來文中，他的名字意為主將拯救或主是拯救。有關他的故事記載在列王紀下和歷代志下。他的預言記錄在以賽亞書中。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Izziah",
+          "type": "person",
+          "preferred_label": "Izziah",
+          "confidence": 0.8165,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaiah",
+          "confidence": 0.8121,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232870,
+    "content_id": "232870",
     "reference_id": 108269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以掃",
     "media_type": "Text",
     "index_reference": "以掃",
@@ -326,13 +393,14 @@
     "content": "<p>以撒和利百加的長子，亞伯拉罕的孫子。他是雅各的雙胞胎兄弟，也被稱為以東。以東人是以掃的後裔。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232881,
+    "content_id": "232881",
     "reference_id": 108280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以色列",
     "media_type": "Text",
     "index_reference": "以色列",
@@ -349,13 +417,29 @@
           "label": "西奈山之約",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 0.8944,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Israel",
+          "type": "place",
+          "preferred_label": "Israel",
+          "confidence": 0.8944,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232863,
+    "content_id": "232863",
     "reference_id": 108262,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以實瑪利",
     "media_type": "Text",
     "index_reference": "以實瑪利",
@@ -364,13 +448,14 @@
     "content": "<p>亞伯拉罕與撒拉的奴隸夏甲所生的兒子。以實瑪利不是神應許給亞伯拉罕的兒子。但是神看顧以實瑪利，他也成為了十二族的族長。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233114,
+    "content_id": "233114",
     "reference_id": 108513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以斯拉",
     "media_type": "Text",
     "index_reference": "以斯拉",
@@ -379,13 +464,14 @@
     "content": "<p>一位帶領一群猶太人從巴比倫返回耶路撒冷的祭司。他也是律法教師。他是西萊雅的兒子。他來自亞倫家族的利未支派。以斯拉在耶路撒冷教導猶太人摩西的律法。這是發生在他們於巴比倫生活多年之後。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233119,
+    "content_id": "233119",
     "reference_id": 108518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以斯帖",
     "media_type": "Text",
     "index_reference": "以斯帖",
@@ -394,13 +480,14 @@
     "content": "<p>一位猶太人，生活在亞哈隨魯時期的波斯王國。哈大沙是她的猶太名字，以斯帖是她的波斯名字。她是亞比亥的女兒，來自便雅憫支派。她的堂兄末底改在她父母去世後收養了她。亞哈隨魯選她為王后，因為她美麗並讓他喜悅。以斯帖制定了一個勇敢而聰明的計劃來幫助拯救猶太人免於毀滅。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233156,
+    "content_id": "233156",
     "reference_id": 108555,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以西結",
     "media_type": "Text",
     "index_reference": "以西結",
@@ -409,13 +496,14 @@
     "content": "<p>一位成為先知的祭司，在巴比倫控制南國時。他是布西的兒子，來自利未支派。他是被擄到巴比倫的猶太人之一。他的異象和預言記錄在以西結書。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232897,
+    "content_id": "232897",
     "reference_id": 108296,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "異象",
     "media_type": "Text",
     "index_reference": "異象",
@@ -432,7 +520,8 @@
           "label": "天界",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

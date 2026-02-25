@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 367537,
+    "content_id": "367537",
     "reference_id": 108046,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rabi",
     "media_type": "Text",
     "index_reference": "rabi",
@@ -11,13 +11,14 @@
     "content": "<p>Ni mwalimu wa Kiyahudi wa kiume. Marabi kwa kawaida walijifunza Agano la Kale na maandiko mengine ya Kiyahudi katika shule. Walifundishwa na marabi wengine. Watu waliotaka kujifunza kutoka kwao na kuwa kama wao wangekuwa wanafunzi wao. Kwa kawaida ni wavulana na wanaume tu ndio walikuwa wanafunzi. Yesu alikuwa rabi ingawa hakufundishwa kama marabi wa wakati wake. Aliwakaribisha wanawake na wanaume wote kama wanafunzi wake.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367912,
+    "content_id": "367912",
     "reference_id": 108421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahabu",
     "media_type": "Text",
     "index_reference": "rahabu",
@@ -26,13 +27,22 @@
     "content": "<p>Ni mwanamke kutoka mji wa Yeriko katika Kanaani. Alifanya kazi kama kahaba. Aliwaficha wapelelezi waliotumwa na Yoshua na kuwahifadhi salama. Waisraeli walipoharibu Yeriko, walimwokoa Rahabu na familia yake. Alikuwa sehemu ya watu wa Mungu. Daudi na Yesu walitoka kwenye ukoo wake.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "Rahabu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367767,
+    "content_id": "367767",
     "reference_id": 108276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raheli",
     "media_type": "Text",
     "index_reference": "raheli",
@@ -41,13 +51,22 @@
     "content": "<p>Ni binti wa pili wa Labani na mke wa pili wa Yakobo. Lea alikuwa dada yake na Bilha alikuwa mjakazi wake. Alikuwa mchungaji wa wanyawa wa ufugo. Yakobo alimpenda zaidi kuliko alivyompenda Lea. Alikuwa mama wa Yosefu na Benyamini.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Raheli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367618,
+    "content_id": "367618",
     "reference_id": 108127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raia wa Kirumi",
     "media_type": "Text",
     "index_reference": "raia wa kirumi",
@@ -56,13 +75,14 @@
     "content": "<p>Kuwa raia wa Roma inliletea watu haki fulani. Iliwalinda wasitendewe vibaya kwa njia fulani. Watawala wa Kirumi walilazimika kufuata sheria za Kirumi kuhusu raia. Watu wengi katika ardhi zilizodhibitiwa na serikali ya Kirumi hawakuwa raia wa Kirumi. Kuwa raia wa Kirumi ilikuwa maalumu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367647,
+    "content_id": "367647",
     "reference_id": 108156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raia wa mbinguni",
     "media_type": "Text",
     "index_reference": "raia wa mbinguni",
@@ -79,13 +99,14 @@
           "label": "Ufalme wa Mungu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367757,
+    "content_id": "367757",
     "reference_id": 108266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebeka",
     "media_type": "Text",
     "index_reference": "rebeka",
@@ -94,13 +115,22 @@
     "content": "<p>Ni binti wa Bethueli na dada wa Labani kutoka Mesopotamia. Aliolewa na Isaka na kuwa mama wa Yakobo na Esau.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Rebeka",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367833,
+    "content_id": "367833",
     "reference_id": 108342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rehema",
     "media_type": "Text",
     "index_reference": "rehema",
@@ -109,13 +139,14 @@
     "content": "<p>Upendo wa huruma au wema kwa mtu anayepitia shida kwa namna fulani. Mungu amejaa rehema kwa watu na anaonyesha wema wake kwa njia nyingi. Mojawapo ya mifano mikubwa ya rehema yake ni jinsi anavyowasamehe watu dhambi zao.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367969,
+    "content_id": "367969",
     "reference_id": 108478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rehoboamu",
     "media_type": "Text",
     "index_reference": "rehoboamu",
@@ -124,13 +155,50 @@
     "content": "<p>Ni mwana wa Sulemani kwenye mwanamke Mwamoni aitwaye Naama. Wakati Rehoboamu alipokuwa mfalme, taifa la Israeli liligawanyika kuwa falme mbili. Rehoboamu alitawala ufalme wa kusini wa Yuda. Alikuwa kiongozi mpumbavu ambaye alifanya mambo maovu na kuabudu miungu ya uongo. Hakuwa na utajiri au nguvu kama Sulemani alivyokuwa navyo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Rehoboamu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehob",
+          "type": "person",
+          "preferred_label": "Rehobu",
+          "confidence": 0.8381,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehob.2",
+          "type": "person",
+          "preferred_label": "Rehobu",
+          "confidence": 0.8381,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rehob.2",
+          "type": "place",
+          "preferred_label": "Rehobu",
+          "confidence": 0.8381,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rehob.3",
+          "type": "place",
+          "preferred_label": "Rehobu",
+          "confidence": 0.8381,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367898,
+    "content_id": "367898",
     "reference_id": 108407,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reubeni",
     "media_type": "Text",
     "index_reference": "reubeni",
@@ -139,13 +207,29 @@
     "content": "<p>Ni mwana wa kwanza wa Yakobo na Lea. Kwa lugha ya Kiebrania jina Reubeni linamaanisha tazama mwana. Inasikika kama neno kwa maana  ameona mateso yangu. Reubeni alifanya ngono na suria wa baba yake Bilha. Kwa sababu hiyo, hakuruhusiwa kuwa na haki za kuwa mwana wa kwanza wa Yakobo. Ukoo wake ukawa kabila la Israeli.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Reuben",
+          "type": "group",
+          "preferred_label": "Reubeni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Reuben",
+          "type": "person",
+          "preferred_label": "Reubeni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367879,
+    "content_id": "367879",
     "reference_id": 108388,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roho Mtakatifu",
     "media_type": "Text",
     "index_reference": "roho mtakatifu",
@@ -154,13 +238,14 @@
     "content": "<p>Mungu hujionyesha kuwa Roho wakati wa uumbaji wa dunia. Roho Mtakatifu ni Mungu kama ambavyo Baba ni Mungu na Yesu ni Mungu. Wao ni nafsi tatu za Mungu mmoja pekee. Roho Mtakatifu alifanya kazi kupitia watu waliorekodi vitabu vya Biblia. Katika Agano la Kale, Roho Mtakatifu aliwawezesha watu kutabiri. Roho pia aliwezesha watu kufanya kazi za ustadi na matendo makuu. Katika Agano Jipya, Roho Mtakatifu alimwezesha Maria kuwa mama wa Yesu. Yesu alimtuma Roho Mtakatifu kwa wafuasi wake katika Sikukuu ya Pentekoste. Kupitia Roho Mtakatifu, waumini wanaunganishwa na Yesu. Roho Mtakatifu ni Rafiki ambaye huwafanya wafuasi wa Yesu waweze kuendelea kufanya kazi yake.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367538,
+    "content_id": "367538",
     "reference_id": 108047,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rumi",
     "media_type": "Text",
     "index_reference": "rumi",
@@ -169,13 +254,14 @@
     "content": "<p>Ni ufalme katika eneo karibu na Bahari ya Mediterania ambao ulidumu kwa mamia ya miaka. Mji mkuu pia uliitwa Rumi. Ukawa serikali yenye nguvu iliyotawala mataifa na makundi mengi ya watu. Ulitawala Israeli wakati wa Agano Jipya. Kwa miaka mingi uliongozwa na wafalme wenye nguvu. Serikali ya Kirumi iliwatendea wafuasi wengi wa Yesu vibaya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367938,
+    "content_id": "367938",
     "reference_id": 108447,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruthu",
     "media_type": "Text",
     "index_reference": "ruthu",
@@ -184,7 +270,16 @@
     "content": "<p>Ni mwanamke kutoka  Moabu na mkwe wa Naomi. Mume wake alipokufa, aliondoka Moabu na kwenda Israeli pamoja na Naomi. Aliolewa na Mwisraeli aitwaye Boazi na akawa bibi mkubwa wa Daudi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Ruthu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

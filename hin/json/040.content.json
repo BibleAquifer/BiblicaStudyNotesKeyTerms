@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 183346,
+    "content_id": "183346",
     "reference_id": 108452,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शमूएल",
     "media_type": "Text",
     "index_reference": "शमूएल",
@@ -11,13 +11,85 @@
     "content": "<p>एक इस्राएली जिसने परमेश्वर के लोगों की सेवा एक भविष्यवक्ता, एक याजक और एक न्यायाधीश के रूप में की। इब्रानी भाषा में शमूएल नाम का अर्थ है परमेश्वर द्वारा सुना जाना। इस नाम का अर्थ परमेश्वर से उधार लिया गया भी हो सकता है। शमूएल अपने पूरे जीवन में परमेश्वर के प्रति वफादार था। वह एलकाना और हन्ना का पुत्र था। वह कोरह के वंश से लेवी के गोत्र से था। उसके पुत्र योएल और अबिय्याह थे। शमूएल को शीलो में पवित्र तंबू में नाज़ीर के रूप में पाला गया था। उन्होंने कम उम्र में ही इस्राएलियों की सेवा एक भविष्यवक्ता के रूप में शुरू कर दी थी। उन्होंने एली की मृत्यु के बाद एक याजक के रूप में सेवा की। जब उन्होंने न्यायाधीश के रूप में सेवा की तो परमेश्वर ने इस्राएलियों को पलिश्तियों से मुक्त किया। शमूएल ने पहले शाऊल और फिर दाऊद का अभिषेक किया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "शमूएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemuel",
+          "type": "person",
+          "preferred_label": "शमूएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemuel.2",
+          "type": "person",
+          "preferred_label": "शमूएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shelumiel",
+          "type": "person",
+          "preferred_label": "शलूमीएल",
+          "confidence": 0.8871,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hammuel",
+          "type": "person",
+          "preferred_label": "हम्मूएल",
+          "confidence": 0.8533,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shebuel",
+          "type": "person",
+          "preferred_label": "शबूएल",
+          "confidence": 0.8195,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shebuel.2",
+          "type": "person",
+          "preferred_label": "शबूएल",
+          "confidence": 0.8195,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shual",
+          "type": "person",
+          "preferred_label": "शूआल",
+          "confidence": 0.813,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shual",
+          "type": "place",
+          "preferred_label": "शूआल",
+          "confidence": 0.813,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jemuel",
+          "type": "person",
+          "preferred_label": "यमूएल",
+          "confidence": 0.8097,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183359,
+    "content_id": "183359",
     "reference_id": 108465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शर्म और सम्मान",
     "media_type": "Text",
     "index_reference": "शर्म और सम्मान",
@@ -26,13 +98,14 @@
     "content": "<p>बाइबिल<span>&nbsp;</span>के समय और स्थानों में, शर्म और सम्मान बहुत महत्वपूर्ण थे। लोग अपने परिवार, अपने समुदाय और अपने लोगों के समूह को शर्मिंदा करने से बचना चाहते थे। समुदाय में हर कोई समझता था कि बोलने और कार्य करने के कौन से तरीके उचित माने जाते हैं। उन तरीकों के खिलाफ जाना उनके समुदाय के साथ अपने संबंध को नकारने जैसा था। इससे शर्मिंदगी उठानी पड़ति थी। फिर उस व्यक्ति का सम्मान नहीं किया जाता था। वे अक्सर भाग जाते थे या छिप जाते थे। कोई अधिक अधिकार वाला व्यक्ति उस व्यक्ति को समुदाय में वापस ला सकता था। इस तरह से शर्म को दूर किया जाता था। इसके बजाय, लोग अपने परिवार, समुदाय और लोगों के समूह को सम्मान दिलाना चाहते थे।सम्मान उन कार्यों को करने से मिलता है जो उचित और सम्मान के योग्य माने जाते हैं। किसी व्यक्ति का जितना अधिक सम्मान होता था, समुदाय में उसका अधिकार उतना ही अधिक होता था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183105,
+    "content_id": "183105",
     "reference_id": 108211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शांति",
     "media_type": "Text",
     "index_reference": "शांति",
@@ -41,13 +114,22 @@
     "content": "<p>इब्रानी भाषा में शांति के लिए शब्द शालोम है।इसका मतलब उस समय से भी अधिक है जब कोई लड़ाई या युद्ध नहीं होता है। इसका मतलब है कि सुरक्षा, स्वास्थ्य और न्याय है। इसका मतलब है कि हर किसी के पास उनकी जरूरत की चीजें पर्याप्त मात्रा में हैं। इसका मतलब है कि रिश्ते संपूर्ण और स्वस्थ हैं। वे वैसे हैं जैसे परमेश्‍वर चाहते हैं। इसमें प्रत्येक व्यक्ति का परमेश्‍वर के साथ शांति में होना शामिल है। इसमें लोगों और परमेश्‍वर द्वारा बनाई गई हर चीज के बीच के रिश्ते भी शामिल हैं।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:IntactState",
+          "type": "keyterm",
+          "preferred_label": "Peace",
+          "confidence": 0.8585,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183349,
+    "content_id": "183349",
     "reference_id": 108455,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शाऊल",
     "media_type": "Text",
     "index_reference": "शाऊल",
@@ -56,13 +138,71 @@
     "content": "<p>इस्राएल का पहला राजा। वह कीश का पुत्र था और बिन्यामीन के गोत्र से था। वह बहुत ऊंचा क़द का और सुंदर था। राजा के रूप में, उसने परमेश्वर पर भरोसा करना और उसकी आज्ञा मानना ​​बंद कर दिया। इस वजह से, उसका वंश इस्राएल में शासन करना जारी नहीं रख सका। शाऊल डर और ईर्ष्या से नियंत्रित था। उसने दाऊद को मारने की बहुत कोशिश की। वह पलिश्तियों के खिलाफ़ लड़ाई में मारा गया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "शाऊल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaul",
+          "type": "person",
+          "preferred_label": "शाऊल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaul.2",
+          "type": "person",
+          "preferred_label": "शाऊल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaul.3",
+          "type": "person",
+          "preferred_label": "शाऊल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shual",
+          "type": "person",
+          "preferred_label": "शूआल",
+          "confidence": 0.9065,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shual",
+          "type": "place",
+          "preferred_label": "शूआल",
+          "confidence": 0.9065,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shebuel",
+          "type": "person",
+          "preferred_label": "शबूएल",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shebuel.2",
+          "type": "person",
+          "preferred_label": "शबूएल",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183103,
+    "content_id": "183103",
     "reference_id": 108209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शासक",
     "media_type": "Text",
     "index_reference": "शासक",
@@ -71,13 +211,14 @@
     "content": "<p>परमेश्‍वर चाहते थे कि उनकी बनाई हर चीज़ शांति और आनंद के साथ रहे और एक साथ काम करे। मनुष्य को यह सुनिश्चित करना है कि ऐसा हो। परमेश्वर समस्त सृष्टि पर शासक है। उसने मनुष्यों को पौधों, जानवरों, भूमि और समुद्रों पर शासकों के रूप में अलग किया। यह एक तरीका है जिससे परमेश्‍वर ने इंसानों को अपने जैसा बनाया है। शासकों के रूप में, मनुष्यों को पृथ्वी को भरना है और इसे नियंत्रण में लाना है। इसका मतलब यह नहीं है कि मनुष्य परमेश्‍वर की धरती का जैसा चाहें उपयोग कर सकते हैं। इसका मतलब है कि उन्हें पृथ्वी पर हर चीज़ की देखभाल करनी है। उन्हें हर चीज़ को वैसा होने में मदद करनी है जैसा परमेश्‍वर चाहते है। मनुष्य परमेश्वर के शासन के उदाहरण का अनुसरण करके ऐसा करते हैं। परमेश्‍वर ने स्वयं को एक ऐसे शासक के रूप में दिखाया कि वह जो कुछ उसने बनाया है उसे आशीर्वाद देते है, सम्मान देते है और उसकी रक्षा करते है। यीशु ने दिखाया कि परमेश्वर एक शासक है जो दूसरों की सेवा करने और उन्हें आशीर्वाद देने के लिए अपना सब कुछ दे देता है। जब मनुष्य परमेश्वर के शासन के उदाहरण का अनुसरण नहीं करते, तो पृथ्वी को कष्ट होता है।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183333,
+    "content_id": "183333",
     "reference_id": 108439,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शिमशोन",
     "media_type": "Text",
     "index_reference": "शिमशोन",
@@ -86,13 +227,92 @@
     "content": "<p>इस्राएल के 12 न्यायियों में से एक। वह दान के गोत्र से था और उसके पिता मानोह थे। प्रभु का दूत उसके जन्म की घोषणा करने के लिए उसकी माँ के पास आया।  उसे अपना पूरा जीवन नाज़ीर के रूप में जीना था।  परमेश्वर ने शिमशोन का उपयोग इस्राएलियों को पलिश्तियों द्वारा किए जा रहे बुरे व्यवहार से मुक्त करने के लिए किया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "शिमशोन",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Simeon",
+          "type": "group",
+          "preferred_label": "शिमोन",
+          "confidence": 0.914,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimeon",
+          "type": "person",
+          "preferred_label": "शिमोन",
+          "confidence": 0.914,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimon",
+          "type": "person",
+          "preferred_label": "शिमोन",
+          "confidence": 0.914,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simeon.2",
+          "type": "person",
+          "preferred_label": "शिमोन",
+          "confidence": 0.914,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simeon.3",
+          "type": "person",
+          "preferred_label": "शिमोन",
+          "confidence": 0.914,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simeon.4",
+          "type": "person",
+          "preferred_label": "शिमोन",
+          "confidence": 0.914,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simeon.5",
+          "type": "person",
+          "preferred_label": "शिमोन",
+          "confidence": 0.914,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimron",
+          "type": "person",
+          "preferred_label": "शिम्रोन",
+          "confidence": 0.858,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shimron",
+          "type": "place",
+          "preferred_label": "शिम्रोन",
+          "confidence": 0.858,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Heshmon",
+          "type": "place",
+          "preferred_label": "हेशमोन",
+          "confidence": 0.8002,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183347,
+    "content_id": "183347",
     "reference_id": 108453,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शीलो",
     "media_type": "Text",
     "index_reference": "शीलो",
@@ -101,13 +321,36 @@
     "content": "<p>एप्रैम के पहाड़ी देश में एक महत्वपूर्ण इस्राएली शहर। यह यरूशलेम के उत्तर में था। जब इस्राएली कनान में प्रवेश किए, तो यहोशू ने वहां पवित्र तंबू स्थापित किया था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shiloh",
+          "type": "person",
+          "preferred_label": "शीलो",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shiloh",
+          "type": "place",
+          "preferred_label": "शीलो",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Shiloh",
+          "type": "group",
+          "preferred_label": "शीलोवासी",
+          "confidence": 0.8096,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 182978,
+    "content_id": "182978",
     "reference_id": 108084,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शीलोह",
     "media_type": "Text",
     "index_reference": "शीलोह",
@@ -116,13 +359,36 @@
     "content": "<p>यरूशलेम की दीवारों के अंदर एक जगह जहाँ ताजे पानी का एक तालाब था। शीलोह का मतलब भेजा गया है। वहाँ पहला तालाब राजा हिजकिय्याह द्वारा बनाया गया था।  बेबीलोन के निवासियों ने इसे नष्ट कर दिया लेकिन यह नहेम्याह के समय में फिर से बनाया गया। आश्रय के पर्व के दौरान तालाब का पानी वेदी पर डाला जाता था। तालाब का पानी गीहोन झरने से आता था। वहाँ एक मीनार भी थी जो यीशु के समय में गिरी और 18 लोगों की मौत हो गई।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shiloh",
+          "type": "person",
+          "preferred_label": "शीलो",
+          "confidence": 0.9099,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shiloh",
+          "type": "place",
+          "preferred_label": "शीलो",
+          "confidence": 0.9099,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Shiloh",
+          "type": "group",
+          "preferred_label": "शीलोवासी",
+          "confidence": 0.8239,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183257,
+    "content_id": "183257",
     "reference_id": 108363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शुद्ध या अशुद्ध",
     "media_type": "Text",
     "index_reference": "शुद्ध या अशुद्ध",
@@ -139,13 +405,14 @@
           "label": "शुद्ध या अशुद्ध",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 183258,
+    "content_id": "183258",
     "reference_id": 108364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शुद्ध या अशुद्ध",
     "media_type": "Text",
     "index_reference": "शुद्ध या अशुद्ध",
@@ -162,13 +429,14 @@
           "label": "शुद्ध या अशुद्ध",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 183411,
+    "content_id": "183411",
     "reference_id": 108517,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शूशन",
     "media_type": "Text",
     "index_reference": "शूशन",
@@ -177,13 +445,22 @@
     "content": "<p>फारसी सरकार की राजधानी के शहरों में से एक। यह अब ईरान कहलाने वाले देश के हिद्देकेल नदी के पूर्व में स्थित था।</p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Susa",
+          "type": "place",
+          "preferred_label": "शूशन",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183176,
+    "content_id": "183176",
     "reference_id": 108282,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शेकेम",
     "media_type": "Text",
     "index_reference": "शेकेम",
@@ -192,13 +469,57 @@
     "content": "<p>कनान में एक शहर जो इस्राएल में एक महत्वपूर्ण शहर बन गया। अब्राहम और याकूब ने वहां परमेश्वर के लिए वेदियाँ बनाईं। शेकेम उस व्यक्ति का भी नाम था जिसने दीना से अनाचार किया। दीना के भाइयों ने शेकेम और शहर के पुरुषों को मार डाला क्योंकि शेकेम ने ऐसा किया था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "शेकेम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem.2",
+          "type": "person",
+          "preferred_label": "शेकेम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem.3",
+          "type": "person",
+          "preferred_label": "शेकेम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "शेकेम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "शेम",
+          "confidence": 0.8643,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Shechem",
+          "type": "group",
+          "preferred_label": "शेकेमियों",
+          "confidence": 0.8134,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183118,
+    "content_id": "183118",
     "reference_id": 108224,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शेत",
     "media_type": "Text",
     "index_reference": "शेत",
@@ -207,13 +528,29 @@
     "content": "<p>आदम और हव्वा का बेटा। वह उन तरीकों से आदम जैसा था जिनमें कैन नहीं था। उसने परमेशर का अनुसरण किया। परमेशर ने दुनिया को बचाने की अपनी योजना में शेत के परिवार के वंशावली को चुना। यीशु शेत के परिवार की वंशावली से थे।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Seth",
+          "type": "person",
+          "preferred_label": "शेत",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shethar",
+          "type": "person",
+          "preferred_label": "शेतार",
+          "confidence": 0.8013,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183135,
+    "content_id": "183135",
     "reference_id": 108241,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शेम",
     "media_type": "Text",
     "index_reference": "शेम",
@@ -222,13 +559,211 @@
     "content": "<p>नूह का दूसरा बेटा। वह और उसकी पत्नी बाढ़ से बच गए क्योंकि वे जहाज में थे। उसने अपने पिता के साथ सम्मानपूर्वक व्यवहार किया जब बाढ़ के बाद नूह नशे में हो गए। शेम ने परमेश्‍वर का अनुसरण किया। नूह ने शेम को उसके भाइयों में अगुवे के रूप में पहचाना। उसने शेम के परिवार पर आशीर्वाद दिया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "शेम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema",
+          "type": "person",
+          "preferred_label": "शेमा",
+          "confidence": 0.8772,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.2",
+          "type": "person",
+          "preferred_label": "शेमा",
+          "confidence": 0.8772,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.3",
+          "type": "person",
+          "preferred_label": "शेमा",
+          "confidence": 0.8772,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.4",
+          "type": "person",
+          "preferred_label": "शेमा",
+          "confidence": 0.8772,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shema",
+          "type": "place",
+          "preferred_label": "शेमा",
+          "confidence": 0.8772,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemer",
+          "type": "person",
+          "preferred_label": "शेमेर",
+          "confidence": 0.8727,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemer.2",
+          "type": "person",
+          "preferred_label": "शेमेर",
+          "confidence": 0.8727,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "शेकेम",
+          "confidence": 0.8643,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem.2",
+          "type": "person",
+          "preferred_label": "शेकेम",
+          "confidence": 0.8643,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem.3",
+          "type": "person",
+          "preferred_label": "शेकेम",
+          "confidence": 0.8643,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "शेकेम",
+          "confidence": 0.8643,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammua",
+          "type": "person",
+          "preferred_label": "शम्मू",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammua.2",
+          "type": "person",
+          "preferred_label": "शम्मू",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammua.3",
+          "type": "person",
+          "preferred_label": "शम्मू",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimeah",
+          "type": "person",
+          "preferred_label": "शिमआह",
+          "confidence": 0.8171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimeah.2",
+          "type": "person",
+          "preferred_label": "शिमआह",
+          "confidence": 0.8171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shunem",
+          "type": "place",
+          "preferred_label": "शूनेम",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammai",
+          "type": "person",
+          "preferred_label": "शम्मै",
+          "confidence": 0.8089,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammai.2",
+          "type": "person",
+          "preferred_label": "शम्मै",
+          "confidence": 0.8089,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammai.3",
+          "type": "person",
+          "preferred_label": "शम्मै",
+          "confidence": 0.8089,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ezem",
+          "type": "place",
+          "preferred_label": "एसेम",
+          "confidence": 0.8069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shamma",
+          "type": "person",
+          "preferred_label": "शम्मा",
+          "confidence": 0.8052,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammah",
+          "type": "person",
+          "preferred_label": "शम्मा",
+          "confidence": 0.8052,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammah.2",
+          "type": "person",
+          "preferred_label": "शम्मा",
+          "confidence": 0.8052,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammah.3",
+          "type": "person",
+          "preferred_label": "शम्मा",
+          "confidence": 0.8052,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammah.4",
+          "type": "person",
+          "preferred_label": "शम्मा",
+          "confidence": 0.8052,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shoham",
+          "type": "person",
+          "preferred_label": "शोहम",
+          "confidence": 0.8025,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183308,
+    "content_id": "183308",
     "reference_id": 108414,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शेमा",
     "media_type": "Text",
     "index_reference": "शेमा",
@@ -237,13 +772,351 @@
     "content": "<p>एक यहूदी प्रार्थना जिसमें व्यवस्थाविवरण 6:4 शामिल है। इब्रानी भाषा में, व्यवस्थाविवरण 6:4 का पहला शब्द शमा है। इसका अर्थ है सुनना और सुनी गई बात के आधार पर कार्य करना। इब्रानी भाषा में, सुनना और करना एक ही बात मानी जाती है। शेमा यह समझाता है कि इस्राएलियों के साथ परमेश्वर की वाचा क्या थी। परमेश्वर एकमात्र सच्चा परमेश्वर है। इस्राएलियों को केवल परमेश्वर की आज्ञा माननी थी। यह प्रत्येक व्यक्ति के लिए सत्य था। यह उनके समुदाय के लिए भी सत्य था। उन्हें दस आज्ञाओं और परमेश्वर के सभी नियमों का पालन करना था। कई चीजें उन्हें याद दिलाने में मदद करेंगी कि परमेश्वर कौन है और उसने क्या आदेश दिया। उन्हें हर समय, हर जगह और सभी के साथ उसकी आज्ञाओं के बारे में बात करनी थी। उनको उन्हें लिखना था। उन्हें अपने कपड़ों, अपने शरीर, अपने घरों और अपने द्वारों पर यादगार रखना था। उन्हें परमेश्वर के बारे में स्वतंत्र रूप से प्रश्न पूछने और अपने बच्चों के साथ उसके बारे में बात करने की अनुमति थी। यीशु ने मरकुस 12:29 में शेमा के शब्दों का उपयोग किया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shema",
+          "type": "person",
+          "preferred_label": "शेमा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.2",
+          "type": "person",
+          "preferred_label": "शेमा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.3",
+          "type": "person",
+          "preferred_label": "शेमा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.4",
+          "type": "person",
+          "preferred_label": "शेमा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shema",
+          "type": "place",
+          "preferred_label": "शेमा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaah",
+          "type": "person",
+          "preferred_label": "शमाआ",
+          "confidence": 0.918,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "शेम",
+          "confidence": 0.8772,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shamma",
+          "type": "person",
+          "preferred_label": "शम्मा",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammah",
+          "type": "person",
+          "preferred_label": "शम्मा",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammah.2",
+          "type": "person",
+          "preferred_label": "शम्मा",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammah.3",
+          "type": "person",
+          "preferred_label": "शम्मा",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammah.4",
+          "type": "person",
+          "preferred_label": "शम्मा",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shama",
+          "type": "person",
+          "preferred_label": "शामा",
+          "confidence": 0.8477,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.10",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.11",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.12",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.13",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.14",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.15",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.16",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.17",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.18",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.19",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.2",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.20",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.21",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.22",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.23",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.24",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.25",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.26",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.3",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.4",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.5",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.6",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.7",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.8",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.9",
+          "type": "person",
+          "preferred_label": "शमायाह",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemer",
+          "type": "person",
+          "preferred_label": "शेमेर",
+          "confidence": 0.8259,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemer.2",
+          "type": "person",
+          "preferred_label": "शेमेर",
+          "confidence": 0.8259,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammai",
+          "type": "person",
+          "preferred_label": "शम्मै",
+          "confidence": 0.8228,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammai.2",
+          "type": "person",
+          "preferred_label": "शम्मै",
+          "confidence": 0.8228,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shammai.3",
+          "type": "person",
+          "preferred_label": "शम्मै",
+          "confidence": 0.8228,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimea.2",
+          "type": "person",
+          "preferred_label": "शिमा",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimea.3",
+          "type": "person",
+          "preferred_label": "शिमा",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimeah",
+          "type": "person",
+          "preferred_label": "शिमआह",
+          "confidence": 0.8165,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shimeah.2",
+          "type": "person",
+          "preferred_label": "शिमआह",
+          "confidence": 0.8165,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183110,
+    "content_id": "183110",
     "reference_id": 108216,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "शैतान",
     "media_type": "Text",
     "index_reference": "शैतान",
@@ -259,6 +1132,15 @@
           "resource_code": "BiblicaStudyNotesKeyTerms",
           "label": "दुष्टात्माएं",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "deity:Satan",
+          "type": "deity",
+          "preferred_label": "शैतान",
+          "confidence": 1.0,
+          "match_method": "embedding"
         }
       ]
     }

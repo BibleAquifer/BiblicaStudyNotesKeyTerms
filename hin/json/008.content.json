@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 183407,
+    "content_id": "183407",
     "reference_id": 108513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एज्रा",
     "media_type": "Text",
     "index_reference": "एज्रा",
@@ -11,13 +11,43 @@
     "content": "<p>एक याजक जिसने यहूदियों के एक समूह का नेतृत्व किया ताकि वे बाबेल से यरूशलेम लौट सकें। वह व्यवस्था का शिक्षक भी था। वह सरायाह का पुत्र था। वह लेवी के गोत्र में हारून के परिवार से था। एज्रा ने यरूशलेम में यहूदियों को मूसा कि व्यवस्था सिखायी। यह तब हुआ जब वे कई वर्षों तक बाबेल  में रह चुके थे।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezra",
+          "type": "person",
+          "preferred_label": "एज्रा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ezra.2",
+          "type": "person",
+          "preferred_label": "एज्रा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ezrah",
+          "type": "person",
+          "preferred_label": "एज्रा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ezri",
+          "type": "person",
+          "preferred_label": "एज्री",
+          "confidence": 0.8443,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183024,
+    "content_id": "183024",
     "reference_id": 108130,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एथेंस",
     "media_type": "Text",
     "index_reference": "एथेंस",
@@ -26,13 +56,43 @@
     "content": "<p>अखाया के रोमी क्षेत्र में एक बहुत ही महत्वपूर्ण यूनानी शहर। पौलुस ने अपनी दूसरी यात्रा पर इसे देखा। उन्होंने अरियुपगुस में विचारकों और अगुवो के साथ यीशु का संदेश साझा किया। अरियुपगुस एथेंस के बाहर एक पहाड़ी थी। वहाँ एथेनि के अगुओं की एक सभा मिलती थी और महत्वपूर्ण मामलों पर चर्चा करती थी।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Athens",
+          "type": "place",
+          "preferred_label": "एथेंस",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Athens",
+          "type": "group",
+          "preferred_label": "एथेंस वासी",
+          "confidence": 0.8392,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ethan",
+          "type": "person",
+          "preferred_label": "एतान",
+          "confidence": 0.8051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ethan.2",
+          "type": "person",
+          "preferred_label": "एतान",
+          "confidence": 0.8051,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183305,
+    "content_id": "183305",
     "reference_id": 108411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एदोम",
     "media_type": "Text",
     "index_reference": "एदोम",
@@ -41,13 +101,43 @@
     "content": "<p>यहूदा के दक्षिण और पूर्व की भूमि जहाँ एसाव का परिवार रहता था। एसाव को एदोम भी कहा जाता था। उसके बच्चे एक मजबूत राष्ट्र बने जिसे एदोम कहा गया। एदोमियों और इस्राएलियों के बीच शांति नहीं थी।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "एदोम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Edom",
+          "type": "group",
+          "preferred_label": "एदोमी",
+          "confidence": 0.9048,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Adoraim",
+          "type": "place",
+          "preferred_label": "अदोरैम",
+          "confidence": 0.8563,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Amad",
+          "type": "place",
+          "preferred_label": "अमाद",
+          "confidence": 0.8138,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183053,
+    "content_id": "183053",
     "reference_id": 108159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एपफ्रास",
     "media_type": "Text",
     "index_reference": "एपफ्रास",
@@ -56,13 +146,22 @@
     "content": "<p>कुलुस्से का एक यूनानी विश्वासी जो पौलुस के साथ काम करता था। उसने कुलुस्से, लौदीकिया और हियरापोलिस में यीशु के बारे में संदेश साझा किया। उसने उन शहरों में कलीसियाओं की स्थापना में मदद की। वह कुछ समय के लिए पौलुस के साथ जेल में था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphras",
+          "type": "person",
+          "preferred_label": "इपफ्रास",
+          "confidence": 0.8901,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183052,
+    "content_id": "183052",
     "reference_id": 108158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एपाफ्रोदितुस",
     "media_type": "Text",
     "index_reference": "एपाफ्रोदितुस",
@@ -71,13 +170,22 @@
     "content": "<p>फिलिप्पी का एक यूनानी विश्वासी जो पौलुस के साथ काम करता था। जब पौलुस जेल में था, एपाफ्रोदितुस ने फिलिप्पी के विश्वासियों से उसके लिए उपहार और पैसे लाए। जब वह फिलिप्पी लौटा, तो उसने पौलुस का पत्र फिलिप्पियों को पहुंचाया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphroditus",
+          "type": "person",
+          "preferred_label": "इपफ्रुदीतुस",
+          "confidence": 0.8446,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183192,
+    "content_id": "183192",
     "reference_id": 108298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एप्रैम",
     "media_type": "Text",
     "index_reference": "एप्रैम",
@@ -86,13 +194,36 @@
     "content": "<p>यूसुफ और आसनत का दूसरा पुत्र। इब्रानी भाषा में, एप्रैम का अर्थ है दोहरा फल। याकूब ने उसे अपने पुत्रों में से एक के रूप में अपनाया। याकूब ने उसे पिता का आशीर्वाद दिया, भले ही वह सबसे बड़ा पुत्र नहीं था। एप्रैम का परिवार इस्राएल का एक गोत्र बन गया। वे उत्तरी राज्य के एक महत्वपूर्ण गोत्र थे। उत्तरी राज्य की राजधानी एप्रैम की भूमि में थी। बाइबिल में उत्तरी राज्य को कभी-कभी एप्रैम कहा जाता है।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Ephraim",
+          "type": "group",
+          "preferred_label": "एप्रैम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephraim",
+          "type": "person",
+          "preferred_label": "एप्रैम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim",
+          "type": "place",
+          "preferred_label": "एप्रैम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183353,
+    "content_id": "183353",
     "reference_id": 108459,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एब्यातार",
     "media_type": "Text",
     "index_reference": "एब्यातार",
@@ -101,13 +232,29 @@
     "content": "<p>अहीमेलेक का पुत्र जिसने दाऊद के राजा होने पर महायाजक के रूप में सेवा की। वह एली के परिवार से था। वह दाऊद के प्रति वफादार था लेकिन दाऊद के बाद सुलैमान का  राजा के रूप में समर्थन नहीं किया। इस कारण से उसे महायाजक बने रहने की अनुमति नहीं थी। इससे एली के परिवार के खिलाफ कि गई भविष्यवाणी पूरी हुई।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abiathar",
+          "type": "person",
+          "preferred_label": "एब्यातार",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ebenezer",
+          "type": "place",
+          "preferred_label": "एबेनेजेर",
+          "confidence": 0.8023,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183307,
+    "content_id": "183307",
     "reference_id": 108413,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एमोरी",
     "media_type": "Text",
     "index_reference": "एमोरी",
@@ -116,13 +263,57 @@
     "content": "<p>कनान और यरदन नदी के पूर्व में रहने वाला एक जनसमूह। वे हाम के पुत्र कनान की वंशावली से थे। वे सैकड़ों वर्षों तक अब्राहम के परिवार के शत्रु थे। परमेश्वर ने उन्हें कनान से बाहर निकाल दिया और उनकी भूमि इस्राएलियों को दे दी।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Omri",
+          "type": "person",
+          "preferred_label": "ओम्री",
+          "confidence": 0.8438,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Omri.2",
+          "type": "person",
+          "preferred_label": "ओम्री",
+          "confidence": 0.8438,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Omri.3",
+          "type": "person",
+          "preferred_label": "ओम्री",
+          "confidence": 0.8438,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Omri.4",
+          "type": "person",
+          "preferred_label": "ओम्री",
+          "confidence": 0.8438,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Imri",
+          "type": "person",
+          "preferred_label": "इम्री",
+          "confidence": 0.8291,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Imri.2",
+          "type": "person",
+          "preferred_label": "इम्री",
+          "confidence": 0.8291,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183200,
+    "content_id": "183200",
     "reference_id": 108306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एरन",
     "media_type": "Text",
     "index_reference": "एरन",
@@ -146,13 +337,50 @@
           "label": "लेवियों",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Eran",
+          "type": "person",
+          "preferred_label": "एरान",
+          "confidence": 0.9145,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aran",
+          "type": "person",
+          "preferred_label": "अरान",
+          "confidence": 0.8938,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Arnan",
+          "type": "person",
+          "preferred_label": "अर्नान",
+          "confidence": 0.8673,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Arnon",
+          "type": "place",
+          "preferred_label": "अर्नोन",
+          "confidence": 0.8408,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Eran",
+          "type": "group",
+          "preferred_label": "एरानी",
+          "confidence": 0.8349,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 183380,
+    "content_id": "183380",
     "reference_id": 108486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एलिय्याह",
     "media_type": "Text",
     "index_reference": "एलिय्याह",
@@ -161,13 +389,57 @@
     "content": "<p>जब अहाब और अहज्याह ने शासन किया, तब वह उत्तरी राज्य इस्राएल में एक नबी था। वह गिलाद देश से था। वह बालों से बने कपड़े और चमड़े की पेटी पहनने के लिए जाना जाता था। उसके शब्द और कार्य इस्राएल के उन शासकों की सत्ता को चुनौती देते थे जो झूठे देवताओं की उपासना करते थे। उसने कई अन्य नबियों को सिखाया। उसने अपने बाद नबी बनने के लिए एलीशा को अपनी सत्ता दी। एलिय्याह कई मायनों में मूसा के समान था। परमेश्वर ने उसके माध्यम से चमत्कार किए और होरेब पर्वत पर उसे प्रकट हुए। एलिय्याह की मृत्यु नहीं हुई बल्कि वह एक तेज हवा में स्वर्ग में उठा लिया गया। उसका शरीर कभी नहीं मिला।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "एलिय्याह",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.2",
+          "type": "person",
+          "preferred_label": "एलिय्याह",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.3",
+          "type": "person",
+          "preferred_label": "एलिय्याह",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.4",
+          "type": "person",
+          "preferred_label": "एलिय्याह",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliathah",
+          "type": "person",
+          "preferred_label": "एलियातह",
+          "confidence": 0.8736,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliahba",
+          "type": "person",
+          "preferred_label": "एल्यहबा",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183381,
+    "content_id": "183381",
     "reference_id": 108487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एलिशा",
     "media_type": "Text",
     "index_reference": "एलिशा",
@@ -176,13 +448,141 @@
     "content": "<p>इस्राएल के उत्तरी राज्य में अहाब के शासन से लेकर योआश के शासन तक एक नबी। वह एलियाह का सेवक था। उसके शब्दों और कार्यों ने इस्राएल के उन शासकों की सत्ता को चुनौती दी जो झूठे देवताओं की उपासना करते थे। उसने कई अन्य नबियों को सिखाया। परमेश्वर ने एलीशा के माध्यम से कई चमत्कार किए।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "एलीशा",
+          "confidence": 0.9617,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elizabeth",
+          "type": "person",
+          "preferred_label": "एलीशिबा",
+          "confidence": 0.8744,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8699,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.2",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8699,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.3",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8699,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.4",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8699,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.5",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8699,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.6",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8699,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elasah",
+          "type": "person",
+          "preferred_label": "एलासा",
+          "confidence": 0.8445,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elasah.2",
+          "type": "person",
+          "preferred_label": "एलासा",
+          "confidence": 0.8445,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleasah",
+          "type": "person",
+          "preferred_label": "एलासा",
+          "confidence": 0.8445,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleasah.2",
+          "type": "person",
+          "preferred_label": "एलासा",
+          "confidence": 0.8445,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elisheba",
+          "type": "person",
+          "preferred_label": "एलीशेबा",
+          "confidence": 0.8425,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "एलिय्याह",
+          "confidence": 0.8032,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.2",
+          "type": "person",
+          "preferred_label": "एलिय्याह",
+          "confidence": 0.8032,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.3",
+          "type": "person",
+          "preferred_label": "एलिय्याह",
+          "confidence": 0.8032,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.4",
+          "type": "person",
+          "preferred_label": "एलिय्याह",
+          "confidence": 0.8032,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishah",
+          "type": "person",
+          "preferred_label": "Elishah",
+          "confidence": 0.8019,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183345,
+    "content_id": "183345",
     "reference_id": 108451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एली",
     "media_type": "Text",
     "index_reference": "एली",
@@ -191,13 +591,71 @@
     "content": "<p>12 न्यायाधीशों के समय जब शमूएल छोटा था तब के महायाजक। उन्होंने शीलो में पवित्र तंबू के दौरान सेवा की। एली होफनी और फिनहास के पिता थे। उन्होंने अपने बेटों को बुरे काम करने से नहीं रोका। इस कारण, एली के परिवार की पंक्ति महायाजक के रूप में सेवा जारी नहीं रख सकी।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eli",
+          "type": "person",
+          "preferred_label": "एली",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ela",
+          "type": "person",
+          "preferred_label": "एला",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elah",
+          "type": "person",
+          "preferred_label": "एला",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elah.2",
+          "type": "person",
+          "preferred_label": "एला",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elah.3",
+          "type": "person",
+          "preferred_label": "एला",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elah.4",
+          "type": "person",
+          "preferred_label": "एला",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elah.5",
+          "type": "person",
+          "preferred_label": "एला",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elienai",
+          "type": "person",
+          "preferred_label": "एलीएनै",
+          "confidence": 0.811,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183251,
+    "content_id": "183251",
     "reference_id": 108357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एलीआजर",
     "media_type": "Text",
     "index_reference": "एलीआजर",
@@ -206,13 +664,155 @@
     "content": "<p>हारून और एलीशेबा का पुत्र, जो लेवी की वंश से था। उसके भाई नादाब, अबीहू और इतामार थे। वह फिनहास का पिता था और लेवियों का मुख्य अगुवा बना। हारून की मृत्यु के बाद वह महायाजक बना। उसने मूसा को रेगिस्तान में इस्राएलियों का नेतृत्व करने में मदद की। उसने यहोशू को कनान में इस्राएलियों का नेतृत्व करने में मदद की।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eleazar",
+          "type": "person",
+          "preferred_label": "एलीआजर",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.2",
+          "type": "person",
+          "preferred_label": "एलीआजर",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.3",
+          "type": "person",
+          "preferred_label": "एलीआजर",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.4",
+          "type": "person",
+          "preferred_label": "एलीआजर",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.5",
+          "type": "person",
+          "preferred_label": "एलीआजर",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.6",
+          "type": "person",
+          "preferred_label": "एलीआजर",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.7",
+          "type": "person",
+          "preferred_label": "एलीआजर",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.8",
+          "type": "person",
+          "preferred_label": "एलीआजर",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.10",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.11",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.2",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.3",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.4",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.5",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.6",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.7",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.8",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.9",
+          "type": "person",
+          "preferred_label": "एलीएजेर",
+          "confidence": 0.9069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elizur",
+          "type": "person",
+          "preferred_label": "एलीसूर",
+          "confidence": 0.8294,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 182975,
+    "content_id": "182975",
     "reference_id": 108081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एलीशिबा",
     "media_type": "Text",
     "index_reference": "एलीशिबा",
@@ -221,13 +821,148 @@
     "content": "<p>यूहन्ना बपतिस्मा देने वाले की माँ। वह लेवी के गोत्र और हारून के परिवार से थी। जकर्याह उनके पति थे और नासरत की मरियम उनकी रिश्तेदार थीं। जब एलीशिबा बहुत बूढ़ी हो गयी, तो परमेश्वर ने उसके लिए एक पुत्र उत्पन्न करना संभव बनाया। एलीशिबा ये पहचान लिया की मरियम मसीहा से गर्भवती थीं।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elizabeth",
+          "type": "person",
+          "preferred_label": "एलीशिबा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elisheba",
+          "type": "person",
+          "preferred_label": "एलीशेबा",
+          "confidence": 0.9512,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "एलीशा",
+          "confidence": 0.8783,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliashib",
+          "type": "person",
+          "preferred_label": "एल्याशीब",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliashib.2",
+          "type": "person",
+          "preferred_label": "एल्याशीब",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliashib.3",
+          "type": "person",
+          "preferred_label": "एल्याशीब",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliashib.4",
+          "type": "person",
+          "preferred_label": "एल्याशीब",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliashib.5",
+          "type": "person",
+          "preferred_label": "एल्याशीब",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliashib.6",
+          "type": "person",
+          "preferred_label": "एल्याशीब",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliashib.7",
+          "type": "person",
+          "preferred_label": "एल्याशीब",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliashib.8",
+          "type": "person",
+          "preferred_label": "एल्याशीब",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliashib.9",
+          "type": "person",
+          "preferred_label": "एल्याशीब",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliahba",
+          "type": "person",
+          "preferred_label": "एल्यहबा",
+          "confidence": 0.8492,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8218,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.2",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8218,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.3",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8218,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.4",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8218,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.5",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8218,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.6",
+          "type": "person",
+          "preferred_label": "एलीशामा",
+          "confidence": 0.8218,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183163,
+    "content_id": "183163",
     "reference_id": 108269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एसाव",
     "media_type": "Text",
     "index_reference": "एसाव",
@@ -236,13 +971,22 @@
     "content": "<p>इसहाक और रिबका का सबसे बड़ा बेटा और अब्राहम का पोता। वह याकूब का जुड़वां भाई था और उसे एदोम भी कहा जाता था। एदोमियों के परिवार का वंश एसाव से था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "एसाव",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183412,
+    "content_id": "183412",
     "reference_id": 108518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एस्तेर",
     "media_type": "Text",
     "index_reference": "एस्तेर",
@@ -251,13 +995,29 @@
     "content": "<p>एक यहूदी जो <span>क्षयर्ष</span> के समय में फारसी साम्राज्य में रहती थी। हदस्सा उसका यहूदी नाम था और एस्तेर उसका फारसी नाम था। वह अबीहैल की बेटी थी और बिन्यामीन के गोत्र से थी। उसके माता-पिता की मृत्यु के बाद उसके चचेरे भाई मोर्दकै ने उसे गोद लिया। <span>क्षयर्ष</span> ने उसे रानी चुना क्योंकि वह सुंदर थी और उसे पसंद आई। एस्तेर ने यहूदियों को विनाश से बचाने के लिए एक साहसी और बुद्धिमान योजना बनाई।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esther",
+          "type": "person",
+          "preferred_label": "एस्तेर",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ether",
+          "type": "place",
+          "preferred_label": "एतेर",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183326,
+    "content_id": "183326",
     "reference_id": 108432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "एहुद",
     "media_type": "Text",
     "index_reference": "एहुद",
@@ -266,7 +1026,58 @@
     "content": "<p>इस्राएल के 12 न्यायाधीशों में से एक। वह बिन्यामीन गोत्र से था और बाएं हाथ का था। उसने इस तथ्य का उपयोग मोआब के राजा को मारने की अपनी योजना के हिस्से के रूप में किया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ehud",
+          "type": "person",
+          "preferred_label": "एहूद",
+          "confidence": 0.9216,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ehud.2",
+          "type": "person",
+          "preferred_label": "एहूद",
+          "confidence": 0.9216,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio",
+          "type": "person",
+          "preferred_label": "अह्यो",
+          "confidence": 0.8359,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio.2",
+          "type": "person",
+          "preferred_label": "अह्यो",
+          "confidence": 0.8359,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio.3",
+          "type": "person",
+          "preferred_label": "अह्यो",
+          "confidence": 0.8359,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ohad",
+          "type": "person",
+          "preferred_label": "ओहद",
+          "confidence": 0.828,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahoah",
+          "type": "person",
+          "preferred_label": "अहोह",
+          "confidence": 0.8098,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

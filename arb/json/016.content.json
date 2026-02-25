@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 134020,
+    "content_id": "134020",
     "reference_id": 108218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الكائنات الروحية الشريرة",
     "media_type": "Text",
     "index_reference": "الكائنات الروحية الشريرة",
@@ -19,13 +19,14 @@
           "label": "إبليس",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134225,
+    "content_id": "134225",
     "reference_id": 108423,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كائنات روحية",
     "media_type": "Text",
     "index_reference": "كائنات روحية",
@@ -42,13 +43,14 @@
           "label": "ملاك",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134192,
+    "content_id": "134192",
     "reference_id": 108390,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كالب",
     "media_type": "Text",
     "index_reference": "كالب",
@@ -57,13 +59,14 @@
     "content": "<p>رجل وُلد عبدًا في مصر ودخل كنعان مع بني إسرائيل. لم يكن من نسل يعقوب. كان الجاسوس من سبط يهوذا الذي استكشف أرض كنعان. عاد بتقرير جيد. أطاع كالب الله طاعة كاملة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133967,
+    "content_id": "133967",
     "reference_id": 108165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كامل",
     "media_type": "Text",
     "index_reference": "كامل",
@@ -72,13 +75,22 @@
     "content": "<p>تعني الكلمة اليونانية لكلمة &quot;كامل&quot; مثالي أو مكتمل. إنها تعني أنه لا ينقصه شيء وأن شيئًا ما قد وصل إلى النمو الكامل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Complete",
+          "type": "keyterm",
+          "preferred_label": "Complete",
+          "confidence": 0.843,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134135,
+    "content_id": "134135",
     "reference_id": 108333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كاهن",
     "media_type": "Text",
     "index_reference": "كاهن",
@@ -102,13 +114,14 @@
           "label": "لاَوِيُّين ",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134146,
+    "content_id": "134146",
     "reference_id": 108344,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كتاب الحياة",
     "media_type": "Text",
     "index_reference": "كتاب الحياة",
@@ -117,13 +130,14 @@
     "content": "<p>في الكتاب المقدس هناك معنيان لكتاب الحياة. يُطلق عليه أيضًا كتاب الله. في العهد القديم، كان وسيلة للحديث عن الأشخاص الأحياء. وقد وُصفت بأنها قائمة أسماء جُمعت في كتاب يكتبه الله. في العهد الجديد، كانت طريقة للحديث عن الأشخاص الذين يتبعون يسوع. وُصِفَ بأنه ينتمي إلى حمل الله. كتاب الحياة ليس كتابًا حقيقيًا مكتوبًا فيه أسماء. إنها طريقة للحديث عن من هو حي أو من يؤمن بيسوع.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133995,
+    "content_id": "133995",
     "reference_id": 108193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كتاب مقدس",
     "media_type": "Text",
     "index_reference": "كتاب مقدس",
@@ -140,13 +154,14 @@
           "label": "كلمة الله ",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133910,
+    "content_id": "133910",
     "reference_id": 108108,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كرنيليوس",
     "media_type": "Text",
     "index_reference": "كرنيليوس",
@@ -155,13 +170,22 @@
     "content": "<p>قائد الجيش الروماني الذي عاش في قيصرية. لم يكن يهوديًا لكنه كان يعبد إله إسرائيل. كان هو وعائلته من أوائل الأمم الذين تبعوا يسوع المسيح.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cornelius",
+          "type": "person",
+          "preferred_label": "كَرْنِيلِيوس",
+          "confidence": 0.9268,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133965,
+    "content_id": "133965",
     "reference_id": 108163,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كريت",
     "media_type": "Text",
     "index_reference": "كريت",
@@ -170,13 +194,22 @@
     "content": "<p>جزيرة كبيرة في البحر الأبيض المتوسط بالقرب من اليونان. سافر بولس إلى كريت خلال إحدى رحلاته. وساعد في تأسيس عدة كنائس هناك. وبقي تيطس لقيادة الكنائس. كان بعض المؤمنين في كريت من اليهود ولكن معظمهم كانوا من الأمم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Crete",
+          "type": "place",
+          "preferred_label": "كِرِيتَ",
+          "confidence": 0.9158,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134169,
+    "content_id": "134169",
     "reference_id": 108367,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كفارة- تكفير",
     "media_type": "Text",
     "index_reference": "كفارة- تكفير",
@@ -193,13 +226,14 @@
           "label": "يوم الكفارة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133894,
+    "content_id": "133894",
     "reference_id": 108092,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كفرناحوم",
     "media_type": "Text",
     "index_reference": "كفرناحوم",
@@ -208,13 +242,14 @@
     "content": "<p>مدينة تقع على الشاطئ الشمالي الغربي لبحر الجليل. عاش يسوع في كفرناحوم لبعض الوقت وصنع فيها العديد من المعجزات. في كفرناحوم دعا يسوع بطرس وأندراوس ويعقوب ويوحنا ومتى ليكونوا تلاميذه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134002,
+    "content_id": "134002",
     "reference_id": 108200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كلمة الله",
     "media_type": "Text",
     "index_reference": "كلمة الله",
@@ -231,13 +266,22 @@
           "label": "كتاب مقدس",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "Word of the Lord",
+          "confidence": 0.8192,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 134048,
+    "content_id": "134048",
     "reference_id": 108246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كنعان",
     "media_type": "Text",
     "index_reference": "كنعان",
@@ -246,13 +290,43 @@
     "content": "<p>هي منطقة من الأرض بين البحر الأبيض المتوسط ونهر الأردن. وقد امتدّت جنوبًا حتي وصلت قُرب صحراء سيناء. كما وصلت إلى نهر الفرات شمالًا. كانت الشعوب التي تسكن هناك قبل شعب إسرائيل تُعرف بالكنعانيين. إن العديد من هذه الشعوب كانت تنتمي لنسل كنعان ابن حام. وقد شمل ذلك الحثيين، واليبوسيين، والحويين والأموريين. بعض الكنعانيين اعترفوا بأن الله هو الإله الحقيقي. كما ساعد بعضهم شعب الله وأصبحوا جزءًا منه. بينما رفض آخرون عبادة الله وحده. بل كانوا أعداء لشعب إسرائيل لذلك جلب الله عليهم القضاء. كانت أرض كنعان القديمة تشمل الأماكن التي تضُم حاليًا إسرائيل، وفلسطين، ولبنان وأجزاء من سوريا. ولقد وعد الله بإعطاء هذه الأرض لنسل إبراهيم. وعاشت أسباط إسرائيل هناك بعد أن تحررت من العبودية في أرض مصر.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Canaan",
+          "type": "person",
+          "preferred_label": "كَنْعَان",
+          "confidence": 0.8768,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "كَنْعَان",
+          "confidence": 0.8768,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Cainan",
+          "type": "person",
+          "preferred_label": "قِينَانَ",
+          "confidence": 0.8193,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kenan",
+          "type": "person",
+          "preferred_label": "قِينَانَ",
+          "confidence": 0.8193,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133898,
+    "content_id": "133898",
     "reference_id": 108096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كنيسة",
     "media_type": "Text",
     "index_reference": "كنيسة",
@@ -261,13 +335,29 @@
     "content": "<p>جماعة الناس الذين يتبعون يسوع. بدأت الكنيسة بتلاميذ في أورشليم من نسل إبراهيم. نمت الكنيسة لتشمل أشخاصًا من أي عائلة ومكان وأمة. لقد أصبحوا واحدًا من خلال الإيمان بيسوع والإيمان بأنه المسيح. ينتشر ملكوت الله على الأرض عندما تتبع الكنيسة يسوع بأمانة. تُدعى الكنيسة أيضًا جسد المسيح.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "Church",
+          "confidence": 0.9354,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:GenericChurch",
+          "type": "group",
+          "preferred_label": "The Church",
+          "confidence": 0.8776,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133884,
+    "content_id": "133884",
     "reference_id": 108082,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كورة الجدريين",
     "media_type": "Text",
     "index_reference": "كورة الجدريين",
@@ -276,13 +366,14 @@
     "content": "<p>جماعة كانت تعيش على طول الشاطئ الشرقي لبحر الجليل. لم يريدوا أن يصنع يسوع معجزات في مدينتهم. أطلق مرقس ولوقا على هذه الجماعة اسم الجرجسيين. ودعاهم متى الجدريين.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134304,
+    "content_id": "134304",
     "reference_id": 108502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كُورَش",
     "media_type": "Text",
     "index_reference": "كُورَش",
@@ -291,13 +382,29 @@
     "content": "<p>ملك فارس الذي كان يُدعى أيضًا كورش الكبير أو كورش الثاني. استخدمه الله كأداة لجلب الدينونة ضد بابل. سيطر كورش على بابل عام 539 قبل الميلاد. أجبر العديد من اليهود على العيش في بابل. شجعهم كورش على العودة إلى يهوذا. ودعمهم في إعادة بناء أورشليم والهيكل. استخدم الله كورش كأداة لتحقيق هذه الأشياء لليهود.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cyrus",
+          "type": "person",
+          "preferred_label": "كورَشَ",
+          "confidence": 0.8638,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Carkas",
+          "type": "person",
+          "preferred_label": "كَرْكَسَ",
+          "confidence": 0.8169,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133935,
+    "content_id": "133935",
     "reference_id": 108133,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كُورِنْثُوس",
     "media_type": "Text",
     "index_reference": "كُورِنْثُوس",
@@ -306,13 +413,22 @@
     "content": "<p>هي عاصمة مقاطعة أخائية. تقع في المنطقة التي تعرف الآن بجنوب اليونان.  زارها بولس في رحلتيه الثانية والثالثة. وقضى فيها أكثر من عام في مشاركة رسالة يسوع ومساعدة الكنيسة. توجد رسالتان من رسائله إلى الكنيسة في كورنثوس في العهد.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Corinth",
+          "type": "place",
+          "preferred_label": "كورِنْثوسَ",
+          "confidence": 0.9311,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133962,
+    "content_id": "133962",
     "reference_id": 108160,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "كولوسي",
     "media_type": "Text",
     "index_reference": "كولوسي",
@@ -321,7 +437,16 @@
     "content": "<p>مدينة في الأراضي الرومانية في آسيا الصغرى في ما يسمى الآن تركيا. شارك أَبَفْرَاس الرسالة عن يسوع هناك وساعد في تأسيس كنيسة. كتب بولس رسالة إلى الكنيسة هناك.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Colossae",
+          "type": "place",
+          "preferred_label": "كولوسِّي",
+          "confidence": 0.9396,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

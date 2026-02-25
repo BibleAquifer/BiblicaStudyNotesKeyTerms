@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 131980,
+    "content_id": "131980",
     "reference_id": 108034,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Caesar",
     "media_type": "Text",
     "index_reference": "caesar",
@@ -11,13 +11,43 @@
     "content": "<p>The title for the ruler with most authority in lands controlled by the Roman government. Julius Caesar was the first to use this name. The rulers who came after him also used it. The Caesars after Julius were emperors of Rome. Almost all Caesars treated the people they ruled over very badly. Caesar Augustus was the emperor when Jesus was born. The Romans worshipped the emperor as lord and as the son of the gods. Those who refused to worship the emperor were treated badly. They weren’t allowed to buy and sell in the marketplace. The announcement that Jesus is Lord and God’s Son challenged the authority of Rome’s ruler.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Claudius",
+          "type": "person",
+          "preferred_label": "Claudius",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nero",
+          "type": "person",
+          "preferred_label": "Nero",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Tiberius",
+          "type": "person",
+          "preferred_label": "Tiberius",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Augustus",
+          "type": "person",
+          "preferred_label": "Augustus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132084,
+    "content_id": "132084",
     "reference_id": 108138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Caesarea",
     "media_type": "Text",
     "index_reference": "caesarea",
@@ -26,13 +56,29 @@
     "content": "<p>The capital city of the Roman territory of Judea in Israel. It was on the coast of the Mediterranean Sea. Herod the Great had the city built.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Caesarea.2",
+          "type": "place",
+          "preferred_label": "Caesarea",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Caesarea",
+          "type": "place",
+          "preferred_label": "Caesarea",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132168,
+    "content_id": "132168",
     "reference_id": 108222,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cain",
     "media_type": "Text",
     "index_reference": "cain",
@@ -41,13 +87,22 @@
     "content": "<p>The eldest son of Adam and Eve. He was a farmer. He made an offering that didn’t please God. He killed his brother Abel. The ground where he murdered Abel was a witness against him. God brought justice by punishing Cain. He could no longer live in only one place or be a farmer. God protected Cain from being killed by other people.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cain",
+          "type": "person",
+          "preferred_label": "Cain",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132336,
+    "content_id": "132336",
     "reference_id": 108390,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Caleb",
     "media_type": "Text",
     "index_reference": "caleb",
@@ -56,13 +111,29 @@
     "content": "<p>A man born a slave in Egypt who entered Canaan with the Israelites. He wasn’t from Jacob’s family line. He was the spy from Judah’s tribe who explored the land of Canaan. He brought back a good report. Caleb obeyed God completely.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Caleb.2",
+          "type": "person",
+          "preferred_label": "Caleb",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Caleb",
+          "type": "person",
+          "preferred_label": "Caleb",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132036,
+    "content_id": "132036",
     "reference_id": 108090,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cana",
     "media_type": "Text",
     "index_reference": "cana",
@@ -71,13 +142,22 @@
     "content": "<p>A town in Galilee. Two of the seven signs in John’s gospel took place there. The disciple Nathanael was from Cana.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Cana",
+          "type": "place",
+          "preferred_label": "Cana",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132192,
+    "content_id": "132192",
     "reference_id": 108246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Canaan",
     "media_type": "Text",
     "index_reference": "canaan",
@@ -86,13 +166,29 @@
     "content": "<p>An area of land between the Mediterranean Sea and the River Jordan. In the south it reached almost to the Desert of Sinai. In the north it reached to River Euphrates. The people groups living there before the Israelites were called Canaanites. Many of these groups were from the family line of Ham’s son Canaan. This included the Hittites, Jebusites, Hivites and Amorites. Some Canaanites recognised that God is the true God. Some of them were helpful to God’s people and became part of them. Others refused to worship only God. They were enemies of the people of Israel and God brought judgement against them. Canaan was where the areas now called Israel, Palestine, Lebanon and parts of Syria are. God promised this area to Abraham’s family line. The tribes of Israel lived there after being freed from slavery in Egypt.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Canaan",
+          "type": "person",
+          "preferred_label": "Canaan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Canaan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132038,
+    "content_id": "132038",
     "reference_id": 108092,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Capernaum",
     "media_type": "Text",
     "index_reference": "capernaum",
@@ -101,13 +197,22 @@
     "content": "<p>A city on the northwest shore of the Sea of Galilee. Jesus lived in Capernaum for some time and did many miracles there. In Capernaum Jesus invited Peter, Andrew, James, John and Matthew to be his disciples.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Capernaum",
+          "type": "place",
+          "preferred_label": "Capernaum",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132350,
+    "content_id": "132350",
     "reference_id": 108404,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cast lots",
     "media_type": "Text",
     "index_reference": "cast lots",
@@ -116,13 +221,14 @@
     "content": "<p>A process to help people decide about something. It was very common among the people groups who lived around the Israelites. God allowed his people to use this practice. It isn’t known exactly what people did when they cast lots. The Israelites trusted that God guided them to make wise choices through casting lots.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132044,
+    "content_id": "132044",
     "reference_id": 108098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Christ",
     "media_type": "Text",
     "index_reference": "christ",
@@ -146,13 +252,22 @@
           "label": "Messiah",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132093,
+    "content_id": "132093",
     "reference_id": 108147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Christ’s law",
     "media_type": "Text",
     "index_reference": "christ’s law",
@@ -161,13 +276,14 @@
     "content": "<p>A way of talking about following Jesus’ example for how to live. Jesus commanded his disciples to love God with all their heart, soul, strength and mind. He commanded them to love their neighbour as themselves (Luke 10:27). While he lived on earth, Jesus showed them how to do this. Jesus loved and obeyed his Father. He sacrificed himself for the good of others. He gave up his rights to save the world. He served others to show them how much God loves them.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132042,
+    "content_id": "132042",
     "reference_id": 108096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Church",
     "media_type": "Text",
     "index_reference": "church",
@@ -176,13 +292,29 @@
     "content": "<p>The community of people who follow Jesus. The church started with disciples in Jerusalem who were from Abraham’s family line. The church has grown to include people from any family, place and nation. They are made one through believing in Jesus and believing that he is the Messiah. God’s kingdom spreads on earth when the church follows Jesus faithfully. The church is also called the body of Christ.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "Church",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:GenericChurch",
+          "type": "group",
+          "preferred_label": "The Church",
+          "confidence": 0.9547,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132064,
+    "content_id": "132064",
     "reference_id": 108118,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Church elders",
     "media_type": "Text",
     "index_reference": "church elders",
@@ -191,13 +323,14 @@
     "content": "<p>Followers of Jesus who served as church leaders. They taught the message about Jesus faithfully and made sure others did too. They prayed for people and helped make important decisions for the churches.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132203,
+    "content_id": "132203",
     "reference_id": 108257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Circumcision",
     "media_type": "Text",
     "index_reference": "circumcision",
@@ -206,13 +339,22 @@
     "content": "<p>A practice among some people groups in the times and places recorded in the Bible. The foreskin from the male sex organ is cut off. For Israelites, circumcision was a sign. It showed that they were part of the people God made a covenant with. Israelites practiced circumcision only on males who were over eight days old.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Circumcision",
+          "type": "keyterm",
+          "preferred_label": "Circumcision",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132102,
+    "content_id": "132102",
     "reference_id": 108156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Citizens of heaven",
     "media_type": "Text",
     "index_reference": "citizens of heaven",
@@ -229,13 +371,14 @@
           "label": "Kingdom of God",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132309,
+    "content_id": "132309",
     "reference_id": 108363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Clean or unclean",
     "media_type": "Text",
     "index_reference": "clean or unclean",
@@ -252,13 +395,14 @@
           "label": "Pure or impure",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132267,
+    "content_id": "132267",
     "reference_id": 108321,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cloud",
     "media_type": "Text",
     "index_reference": "cloud",
@@ -267,13 +411,14 @@
     "content": "<p>God often made his presence known to people through a cloud. That is how he showed his glory to them. In the Old Testament this happened in the pillar of cloud after the Israelites left Egypt. It happened on Mount Sinai, over the holy tent and over the ark of the covenant. It happened in the Holy Room of the temple and in Ezekiel’s vision of the temple. In the New Testament it happened with Jesus, Peter, James and John on the mountain. It happened when Jesus returned to his Father and in John’s vision of the Son of Man. It will happen again when Jesus returns to earth.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132112,
+    "content_id": "132112",
     "reference_id": 108166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cloud of witnesses",
     "media_type": "Text",
     "index_reference": "cloud of witnesses",
@@ -282,13 +427,14 @@
     "content": "<p>A way of describing people who believe in God and serve him before they die. They are witnesses to who God is while they are alive on earth. A cloud is a way to describe them together as a group. These people have died. Their examples of faith in God encourage believers who are alive. Their spirits wait for when God will raise his people from the dead. The people mentioned in Hebrews chapter 11 are among these witnesses.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132106,
+    "content_id": "132106",
     "reference_id": 108160,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Colossae",
     "media_type": "Text",
     "index_reference": "colossae",
@@ -297,13 +443,22 @@
     "content": "<p>A city in the Roman territory of Asia Minor in what is now called Turkey. Epaphras shared the message about Jesus there and helped start a church. Paul wrote a letter to the church there.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Colossae",
+          "type": "place",
+          "preferred_label": "Colossae",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132211,
+    "content_id": "132211",
     "reference_id": 108265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Concubines",
     "media_type": "Text",
     "index_reference": "concubines",
@@ -312,13 +467,14 @@
     "content": "<p>In Old Testament times and places many men had more than one wife. The man’s main wife had the most authority among the women in the household. The wives called concubines had fewer rights. Often female slaves or servants were forced to be concubines.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132079,
+    "content_id": "132079",
     "reference_id": 108133,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Corinth",
     "media_type": "Text",
     "index_reference": "corinth",
@@ -327,13 +483,22 @@
     "content": "<p>The capital city of the Roman territory of Achaia. It’s in the area that is now southern Greece. Paul visited it on his second and third journeys. He spent over a year there sharing the message of Jesus and helping the church. Two of his letters to the church in Corinth are in the New Testament.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Corinth",
+          "type": "place",
+          "preferred_label": "Corinth",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132054,
+    "content_id": "132054",
     "reference_id": 108108,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cornelius",
     "media_type": "Text",
     "index_reference": "cornelius",
@@ -342,13 +507,22 @@
     "content": "<p>A Roman army commander who lived in Caesarea. He wasn’t a Jew but he worshipped the God of Israel. He and his family were among the first Gentiles to follow the Jewish Messiah Jesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cornelius",
+          "type": "person",
+          "preferred_label": "Cornelius",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132183,
+    "content_id": "132183",
     "reference_id": 108237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Covenant",
     "media_type": "Text",
     "index_reference": "covenant",
@@ -357,13 +531,22 @@
     "content": "<p>An agreement or set of promises like a treaty. Two people or groups made an agreement. One had more power than the other. The one with less power would receive a reward for obeying the treaty or covenant. The reward was the covenant blessings. If they didn’t obey the treaty or covenant, the covenant curses would happen. The people or groups making a covenant would share a meal or make a sacrifice. They would write down their agreement before witnesses. They would each keep a copy. That was how covenants were put into effect. In the Bible, covenants were usually between God and his people.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Covenant",
+          "type": "keyterm",
+          "preferred_label": "Covenant",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132325,
+    "content_id": "132325",
     "reference_id": 108379,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Covenant blessings",
     "media_type": "Text",
     "index_reference": "covenant blessings",
@@ -372,13 +555,14 @@
     "content": "<p>Good things that happened when people were faithful to a covenant. In covenants with God, being faithful meant living according to God’s ways. This led to blessings that God provided. These usually had to do with land, children and God’s presence.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132326,
+    "content_id": "132326",
     "reference_id": 108380,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Covenant curses",
     "media_type": "Text",
     "index_reference": "covenant curses",
@@ -387,13 +571,14 @@
     "content": "<p>Terrible things that happened when people weren’t faithful to a covenant. In covenants with God, not being faithful meant not living according to God’s ways. This stopped the covenant blessings and led to people suffering in many ways. The suffering usually had to do with losing the land God had given them. It had to do with their children dying. And it had to do with God’s presence leaving them.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132199,
+    "content_id": "132199",
     "reference_id": 108253,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Covenant with Abraham",
     "media_type": "Text",
     "index_reference": "covenant with abraham",
@@ -402,13 +587,14 @@
     "content": "<p>God chose to work through Abraham and his family in his plan for saving the world. God showed this by making a covenant with Abraham. Abraham was responsible for doing certain things in the covenant. He was to leave his father’s land and people. He was to go to the land of Canaan. He was to be faithful to God. Every male among his family was to be circumcised. Circumcision was the sign of the covenant. As part of the covenant, God promised to do certain things as well. God would give Abraham and his wife Sarah a son. Through that son, God would make Abraham’s family who came after him into a great nation. God would give them the land of Canaan to live in. God would bless Abraham and his family in many ways. Through them God would bless all nations and people groups on earth. God promised to be faithful to his covenant with Abraham’s family for ever. Jesus was from Abraham’s family line. All people and nations on earth were blessed through Jesus. That is how God’s promise to Abraham was completely fulfilled.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132412,
+    "content_id": "132412",
     "reference_id": 108466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Covenant with David",
     "media_type": "Text",
     "index_reference": "covenant with david",
@@ -425,13 +611,14 @@
           "label": "David",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132184,
+    "content_id": "132184",
     "reference_id": 108238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Covenant with Noah",
     "media_type": "Text",
     "index_reference": "covenant with noah",
@@ -440,13 +627,14 @@
     "content": "<p>God chose to work through Noah and his family in his plan for saving the world. God showed this by making a covenant with them and all children born after them. The covenant was also with all the creatures that were in the ark. It was with all life on earth. Human beings and animals were to fill the earth. No human beings were to be killed. God promised to never again curse the ground. He promised to never again destroy all life on earth by a flood. The rainbow was the sign of the covenant.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132143,
+    "content_id": "132143",
     "reference_id": 108197,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Creation",
     "media_type": "Text",
     "index_reference": "creation",
@@ -463,13 +651,14 @@
           "label": "New creation",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132109,
+    "content_id": "132109",
     "reference_id": 108163,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Crete",
     "media_type": "Text",
     "index_reference": "crete",
@@ -478,13 +667,22 @@
     "content": "<p>A large island in the Mediterranean Sea near Greece. Paul travelled to Crete during one of his journeys. He helped start several churches there. Titus stayed on to lead the churches. Some believers in Crete were Jews but most were Gentiles.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Crete",
+          "type": "place",
+          "preferred_label": "Crete",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132476,
+    "content_id": "132476",
     "reference_id": 108530,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cross",
     "media_type": "Text",
     "index_reference": "cross",
@@ -493,13 +691,22 @@
     "content": "<p>Two pieces of wood that were put together so that a person could be nailed onto them. The Romans killed criminals, rebels and slaves this way. This process is called crucifixion. It was done in public to bring shame to the prisoners. It was also done to make people afraid to disobey Roman laws. Dying on a cross was very painful and usually slow. Roman soldiers could make death come quicker by breaking the legs of the criminals. The cross was a sign of terror and death. Jesus talked about the cross to show how his followers must be willing to suffer.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Cross",
+          "type": "realia",
+          "preferred_label": "Cross",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132058,
+    "content_id": "132058",
     "reference_id": 108112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cyprus",
     "media_type": "Text",
     "index_reference": "cyprus",
@@ -508,13 +715,22 @@
     "content": "<p>A large island in the Mediterranean Sea west of Syria and south of Turkey. Prophets in the Old Testament mentioned Cyprus. The island was important in Paul’s first journey to share the good news. The believers Barnabas and Mnason were from Cyprus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Cyprus",
+          "type": "place",
+          "preferred_label": "Cyprus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132448,
+    "content_id": "132448",
     "reference_id": 108502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cyrus",
     "media_type": "Text",
     "index_reference": "cyrus",
@@ -523,7 +739,16 @@
     "content": "<p>A king of Persia who was also called Cyrus the Great or Cyrus II. God used him as a tool to bring judgement against Babylon. Cyrus took control of Babylonia in 539 BC. Many Jews had been forced to live in Babylon. Cyrus encouraged them to return to Judah. He supported them in rebuilding Jerusalem and the temple. God used Cyrus as a tool to accomplish these things for the Jews.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cyrus",
+          "type": "person",
+          "preferred_label": "Cyrus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   }
 ]

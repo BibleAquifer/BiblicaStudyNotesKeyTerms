@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 183068,
+    "content_id": "183068",
     "reference_id": 108174,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्मुरना",
     "media_type": "Text",
     "index_reference": "स्मुरना",
@@ -11,7 +11,16 @@
     "content": "<p>आसिया के रोमी क्षेत्र का एक महत्वपूर्ण शहर। यह एजियन सागर के तट पर था। यह अब तुर्की के नाम से जाने जाने वाले देश के शहर इज़मिर का हिस्सा है।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Smyrna",
+          "type": "place",
+          "preferred_label": "स्मुरना",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

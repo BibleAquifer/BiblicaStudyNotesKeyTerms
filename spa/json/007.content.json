@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232519,
+    "content_id": "232519",
     "reference_id": 108550,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Falso profeta",
     "media_type": "Text",
     "index_reference": "falso profeta",
@@ -19,13 +19,14 @@
           "label": "Profeta",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232253,
+    "content_id": "232253",
     "reference_id": 108284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Falsos dioses",
     "media_type": "Text",
     "index_reference": "falsos dioses",
@@ -34,13 +35,14 @@
     "content": "<p>Cualquier cosa que la gente adore que sea más importante para ellos que el Dios verdadero. La gente adora cosas porque cree que tienen poder y el diablo usa la adoración a estas cosas para atrapar a las personas y controlarlas. Los pueblos en la Biblia hacían imágenes o estatuas de algunas de estas cosas. Las imágenes o estatuas de falsos dioses son objetos que no tienen poder.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232219,
+    "content_id": "232219",
     "reference_id": 108250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faraón",
     "media_type": "Text",
     "index_reference": "faraón",
@@ -49,13 +51,71 @@
     "content": "<p>El título para el gobernante con más autoridad en Egipto. En la Biblia son mencionados muchos faraones diferentes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.10",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.7",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.8",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.9",
+          "type": "person",
+          "preferred_label": "Faraón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232019,
+    "content_id": "232019",
     "reference_id": 108050,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fariseos",
     "media_type": "Text",
     "index_reference": "fariseos",
@@ -64,13 +124,22 @@
     "content": "<p>Un grupo de líderes religiosos judíos en los tiempos del Nuevo Testamento. Instaron a los judíos a trabajar muy duro para obedecer todas las leyes del Antiguo Testamento. No creían que Jesús fuera el Mesías que Dios había prometido enviar. La mayoría de los fariseos se opusieron a Jesús y sus enseñanzas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "fariseo",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232201,
+    "content_id": "232201",
     "reference_id": 108232,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fe",
     "media_type": "Text",
     "index_reference": "fe",
@@ -79,13 +148,14 @@
     "content": "<p>Hay varios significados para fe en la Biblia. El primero está relacionado a las cosas que la gente cree sobre Dios. Dios quiere que todas las personas crean lo que es verdad sobre él. Estas son cosas que Dios ha mostrado sobre sí mismo y maneras en que ha actuado. En el nuevo testamento, estas cosas incluyen el mensaje de la buena nueva sobre Jesús. El segundo significado de la fe es la creencia en sí misma. Esta es la confianza que la gente tiene en Dios, que se basa en la esperanza de cómo Dios cumplirá sus promesas. Qué tan fuerte es la fe de las personas muestra cuánto confían en Dios y esta crece a medida que conocen más y más a Dios. El tercer significado de la fe es cómo las personas viven basándose en lo que creen. El pueblo de Dios debe seguir los caminos de Dios para vivir. Jesús mostró a la gente cómo hacer esto y la fe en Jesús incluye seguir su ejemplo para vivir.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232072,
+    "content_id": "232072",
     "reference_id": 108103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Felipe",
     "media_type": "Text",
     "index_reference": "felipe",
@@ -94,13 +164,57 @@
     "content": "<p>Uno de los siete líderes elegidos por los creyentes en Jerusalén para ser diácono. Se aseguró de que todos los creyentes tuvieran suficiente comida. Era una persona diferente al Felipe que fue uno de los 12 discípulos de Jesús. Difundió el mensaje sobre Jesús a muchas personas y lugares. Sus cuatro hijas eran profetas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Felipe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Felipe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Felipe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Felipe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:CaesareaPhilippi",
+          "type": "place",
+          "preferred_label": "Filipo",
+          "confidence": 0.8647,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipos",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232286,
+    "content_id": "232286",
     "reference_id": 108317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fiesta de la Pascua",
     "media_type": "Text",
     "index_reference": "fiesta de la pascua",
@@ -109,13 +223,14 @@
     "content": "<p>El momento en que los judíos celebran cómo Dios los salvó de ser esclavos en Egipto. Es el comienzo de la Fiesta de los Panes sin Levadura. El nombre Pascua proviene de algo que sucedió justo antes del éxodo. Dios pasó por alto las casas de los israelitas durante la décima plaga. Por eso sus hijos primogénitos no fueron asesinados durante esa plaga. Después de esa plaga, el faraón permitió que los israelitas salieran de Egipto. Dios dio a los israelitas instrucciones sobre cómo celebrar la Pascua cada año. Incluía una comida especial con ciertos alimentos. Muchos años después, Jesús fue asesinado en el tiempo de la Pascua.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232345,
+    "content_id": "232345",
     "reference_id": 108376,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fiesta de las trompetas",
     "media_type": "Text",
     "index_reference": "fiesta de las trompetas",
@@ -124,13 +239,14 @@
     "content": "<p>El primer día del séptimo mes. Se tocaban los cuernos de carnero como trompetas. Era nueve días antes del día en que se pagaban los pecados y los israelitas usaban esos días para descansar, pensar en sus pecados y admitirlos. Los usaban para prepararse para el Día de la Expiación. Esta fiesta ahora se llama Rosh Hashaná y se considera el primer día del año nuevo para los judíos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232342,
+    "content_id": "232342",
     "reference_id": 108373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fiesta de los panes sin levadura",
     "media_type": "Text",
     "index_reference": "fiesta de los panes sin levadura",
@@ -139,13 +255,14 @@
     "content": "<p>La fiesta judía que duraba siete días después de la pascua. Durante este tiempo, el pan que los israelitas comían no tenía levadura. Esto era para recordarles el éxodo. Cuando Dios los liberó de la esclavitud, salieron de Egipto rápidamente y no tuvieron tiempo de usar levadura en su pan. Los varones israelitas debían viajar al tabernáculo o templo para esta fiesta.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232346,
+    "content_id": "232346",
     "reference_id": 108377,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fiesta de los tabernáculos",
     "media_type": "Text",
     "index_reference": "fiesta de los tabernáculos",
@@ -154,13 +271,22 @@
     "content": "<p>La fiesta judía que comenzaba cinco días después del día en que se pagaba por los pecados. La gente celebraba la cosecha y cómo Dios proveía para ellos. Los varones israelitas debían viajar al tabernáculo o templo para esta fiesta. Durante los siete días de la celebración dormían en cabañas para recordar cómo habían vivido en cabañas o tiendas en el desierto. Cada siete años se debía leer en voz alta la ley del pacto durante esta fiesta.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:FestivalOfTheTabernacles",
+          "type": "realia",
+          "preferred_label": "Festival of the Tabernacles",
+          "confidence": 0.819,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232492,
+    "content_id": "232492",
     "reference_id": 108523,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fiesta de Purim",
     "media_type": "Text",
     "index_reference": "fiesta de purim",
@@ -169,13 +295,14 @@
     "content": "<p>La fiesta judía para celebrar haber sido rescatados del plan de Amán para destruir a todos los judíos. No es una de las fiestas descritas en la Ley de Moisés, los judíos comenzaron a celebrarla durante el control del gobierno persa. La celebraban en los días 14 y 15 del duodécimo mes y se llamó Purim porque Amán echó suertes para decidir cuándo destruir a los judíos. En el idioma hebreo, la palabra Pur significa suertes. La orden de Ester y Mardoqueo rescató a los judíos de los planes de Amán. La fiesta debía ser un tiempo alegre con buena comida y regalos para los pobres. Leer el libro de Ester en voz alta se convirtió en una práctica común durante la Fiesta de Purim.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232341,
+    "content_id": "232341",
     "reference_id": 108372,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fiestas",
     "media_type": "Text",
     "index_reference": "fiestas",
@@ -184,13 +311,22 @@
     "content": "<p>Actividades que ayudaban a los israelitas a recordar quién es Dios. Las fiestas les ayudaba a recordar que Dios continuaría protegiéndolos y proveyendo para ellos. Las fiestas implicaban descansar en lugar de hacer su trabajo habitual, comer juntos, hacer sacrificios y adorar a Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Festus",
+          "type": "person",
+          "preferred_label": "Festo",
+          "confidence": 0.8438,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232149,
+    "content_id": "232149",
     "reference_id": 108180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filadelfia",
     "media_type": "Text",
     "index_reference": "filadelfia",
@@ -199,13 +335,22 @@
     "content": "<p>Una ciudad importante en el territorio romano de Asia. Es la ciudad de Alaşehir en el país ahora conocido como Turquía.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philadelphia",
+          "type": "place",
+          "preferred_label": "Filadelfia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232133,
+    "content_id": "232133",
     "reference_id": 108164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filemón",
     "media_type": "Text",
     "index_reference": "filemón",
@@ -214,13 +359,22 @@
     "content": "<p>Un cristiano adinerado en Colosas que era amigo de Pablo y trabajó junto a él. Se cree que Apia era la esposa de Filemón y Arquipo era su hijo. Una iglesia se reunía en su casa. Tenía un esclavo llamado Onésimo. La carta que Pablo le escribió sobre Onésimo se llama Filemón.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philemon",
+          "type": "person",
+          "preferred_label": "Filemón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232095,
+    "content_id": "232095",
     "reference_id": 108126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipos",
     "media_type": "Text",
     "index_reference": "filipos",
@@ -229,13 +383,57 @@
     "content": "<p>Una ciudad griega en el territorio romano de Macedonia. Estaba en la región que ahora es el norte de Grecia. Pablo viajó allí en su segundo viaje. Fue la primera ciudad en Europa donde se compartió las buenas nuevas sobre Jesús. La carta de Pablo a los Filipenses fue para la iglesia estaba allí.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipos",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:CaesareaPhilippi",
+          "type": "place",
+          "preferred_label": "Filipo",
+          "confidence": 0.9413,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Felipe",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Felipe",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Felipe",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Felipe",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232236,
+    "content_id": "232236",
     "reference_id": 108267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filisteos",
     "media_type": "Text",
     "index_reference": "filisteos",
@@ -244,13 +442,22 @@
     "content": "<p>Un grupo de personas de la línea familiar de Cam. Vivían en el sur de Canaán a lo largo de la costa del mar Mediterráneo. Algunas veces trabajaron junto con la línea familiar de Abraham. La mayoría de las veces estuvieron en guerra con la nación de Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Filisteos",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232372,
+    "content_id": "232372",
     "reference_id": 108403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fineas",
     "media_type": "Text",
     "index_reference": "fineas",
@@ -259,13 +466,14 @@
     "content": "<p>Un hijo de Eleazar y un nieto de Aarón. Mató a un israelita que estaba siendo infiel a Dios. Cuando hizo eso, Dios detuvo la plaga en Baal-peor. Dios hizo un pacto de paz con Fineas y los hijos nacidos después de él.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232092,
+    "content_id": "232092",
     "reference_id": 108123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Frigia",
     "media_type": "Text",
     "index_reference": "frigia",
@@ -274,13 +482,22 @@
     "content": "<p>Una región en el territorio romano de Asia Menor cerca de Galacia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Phrygia",
+          "type": "place",
+          "preferred_label": "Phrygia",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232123,
+    "content_id": "232123",
     "reference_id": 108154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fruto del Espíritu Santo",
     "media_type": "Text",
     "index_reference": "fruto del espíritu santo",
@@ -289,7 +506,8 @@
     "content": "<p>Maneras piadosas en que las personas piensan, hablan y actúan, que muestran que las personas están pensando, hablando y actuando como lo hizo Jesús. El Espíritu Santo hace que las personas sean capaces de hacer esto. No hay un número exacto de frutos del Espíritu Santo. Pablo y Pedro enumeraron ejemplos de los frutos del Espíritu Santo en la vida de los creyentes, que incluyen amor, alegría, paz, paciencia, bondad, fidelidad, gentileza, tener control de uno mismo, conocimiento, piedad y cualquier cosa que muestre que un creyente está siguiendo el ejemplo de Jesús.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232294,
+    "content_id": "232294",
     "reference_id": 108325,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sabiduría",
     "media_type": "Text",
     "index_reference": "sabiduría",
@@ -11,13 +11,14 @@
     "content": "<p>Habilidad, capacidad, conocimiento y comprensión sobre algo. La sabiduría de Dios incluye buen sentido y ser capaz de distinguir entre el bien y el mal. Incluye saber y hacer lo que es correcto y justo. Incluye tomar la acción necesaria cuando se necesita. Se basa en respetar a Dios. La sabiduría es lo opuesto a la insensatez. La sabiduría de Dios es una bendición espiritual que Dios da a su pueblo. El libro de Proverbios describe cómo la sabiduría fue parte de la creación del mundo por Dios. Primera de Corintios 1:30 describe a Jesús como la sabiduría de Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232302,
+    "content_id": "232302",
     "reference_id": 108333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sacerdote",
     "media_type": "Text",
     "index_reference": "sacerdote",
@@ -41,13 +42,22 @@
           "label": "Levitas",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Priesthood",
+          "type": "keyterm",
+          "preferred_label": "sacerdocio",
+          "confidence": 0.8013,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232307,
+    "content_id": "232307",
     "reference_id": 108338,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sacrificar animales",
     "media_type": "Text",
     "index_reference": "sacrificar animales",
@@ -56,13 +66,14 @@
     "content": "<p>Una cierta manera de matar animales. Esto se hacía para adorar y honrar a alguien o a un dios. Esta era una práctica común en los tiempos y lugares registrados en la Biblia. Los seguidores del verdadero Dios sacrificaban animales para mostrar que se estaban alejando del pecado. La muerte del animal era un símbolo de la muerte y el daño que el pecado trae. También era un símbolo del castigo por los pecados que cometen los seres humanos. Los animales eran muertos en lugar de los seres humanos. De esta manera, los animales eran sacrificados para pagar por los pecados de las personas. Las personas que adoraban a falsos dioses sacrificaban animales por diferentes razones. Lo hacían para demostrar cuán comprometidos estaban con sus falsos dioses. Lo hacían para obtener una bendición. Lo hacían porque pensaban que los falsos dioses tenían hambre o estaban enojados.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232233,
+    "content_id": "232233",
     "reference_id": 108264,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sacrificar niños",
     "media_type": "Text",
     "index_reference": "sacrificar niños",
@@ -71,13 +82,14 @@
     "content": "<p>Matar niños como una forma de adorar y honrar a  falsos dioses. La gente sacrificaba niños para mostrar cuán comprometidos estaban con los falsos dioses. También lo hacían para obtener una bendición de los falsos dioses. Esta práctica era común en los tiempos y lugares registrados en el Antiguo Testamento. El verdadero Dios mostró que no debía ser adorado de esa manera. Las leyes de Dios dejan muy claro que los seres humanos no deben ser sacrificados. Esto incluye niños. Los capítulos 18 y 20 de Levítico hablan sobre esto.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232225,
+    "content_id": "232225",
     "reference_id": 108256,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sacrificio",
     "media_type": "Text",
     "index_reference": "sacrificio",
@@ -86,13 +98,22 @@
     "content": "<p>Algo dado a Dios como una ofrenda. Es una forma de adorar a Dios. Las instrucciones de Dios en la Ley de Moisés, enseñaron a su pueblo a hacer sacrificios a él. Ofrecían a Dios sus animales, cultivos y otras cosas que poseían. Los llevaban al tabernáculo o al templo. Algunos sacrificios eran ofrendas por el pecado, para pagar por los pecados de las personas. Así es como serían perdonados y reconciliados los pecados con Dios. Otros sacrificios eran para agradecer a Dios por sus bendiciones. En el Nuevo Testamento, Jesús se ofreció a sí mismo como sacrificio. Entregó su vida como ofrenda por el pecado para pagar por los pecados de las personas. Su sacrificio hace que las personas que creen en él estén reconciliadas con Dios. Los seguidores de Jesús demuestran que están agradecidos por su sacrificio renunciando a muchas cosas. Mientras continúan la obra de Jesús en la tierra, renuncian al dinero y a las cosas que poseen. Renuncian a cosas que esperan hacer o tener. Incluso pueden renunciar a sus vidas. Ofrecen todo lo que tienen a Dios porque confían en él y lo aman. Hacen sacrificios para hacer lo que es bueno para los demás.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Slaughtering",
+          "type": "keyterm",
+          "preferred_label": "sacrificio",
+          "confidence": 0.8607,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232027,
+    "content_id": "232027",
     "reference_id": 108058,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saduceos",
     "media_type": "Text",
     "index_reference": "saduceos",
@@ -101,13 +122,22 @@
     "content": "<p>El grupo de líderes religiosos judíos con mayor autoridad en Jerusalén. Esto fue durante los tiempos del Nuevo Testamento. Estaban a cargo del templo y trabajaban estrechamente con los gobernantes romanos. No creían en los ángeles, ni que Dios resucitaría a las personas. No creían que Jesús fuera el Mesías que Dios había prometido enviar. La mayoría de los saduceos se oponían a Jesús y a sus enseñanzas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Sadducee",
+          "type": "group",
+          "preferred_label": "saduceo",
+          "confidence": 0.8083,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232442,
+    "content_id": "232442",
     "reference_id": 108473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salomón",
     "media_type": "Text",
     "index_reference": "salomón",
@@ -116,13 +146,29 @@
     "content": "<p>El hijo de David y Betsabé que se convirtió en rey de Israel. Dios le dio el nombre de Jedidiah. En idioma hebreo Jedidiah significa amado por el Señor. Este nombre mostró que Dios había elegido a Salomón para ser rey después de David. Salomón fue el rey cuando se construyó el templo en Jerusalén. Era muy sabio y muy rico. Escribió muchos proverbios y canciones. Más tarde en su reinado, Salomón dejó de ser fiel a Dios. Esto llevó a la nación de Israel a separarse en dos reinos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Salomón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Salmon",
+          "type": "person",
+          "preferred_label": "Salmón",
+          "confidence": 0.8331,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232165,
+    "content_id": "232165",
     "reference_id": 108196,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salvación",
     "media_type": "Text",
     "index_reference": "salvación",
@@ -139,13 +185,22 @@
           "label": "Creer en",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Salvation",
+          "type": "keyterm",
+          "preferred_label": "salvación",
+          "confidence": 0.8685,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232288,
+    "content_id": "232288",
     "reference_id": 108319,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salvador",
     "media_type": "Text",
     "index_reference": "salvador",
@@ -154,13 +209,22 @@
     "content": "<p>Dios salvó a los israelitas de la esclavitud en Egipto. Los salvó de sus enemigos muchas veces a lo largo del Antiguo Testamento. Él era el único lo suficientemente poderoso para salvarlos. De esta manera, se mostró a sí mismo como el único Salvador. También prometió enviar un Salvador que viviría entre ellos. Este fue Jesús el Mesías. Jesús salva a aquellos que en él creen y lo siguen. Los salva del poder del pecado, la muerte y del mal.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Savior",
+          "type": "keyterm",
+          "preferred_label": "salvador",
+          "confidence": 0.8817,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232458,
+    "content_id": "232458",
     "reference_id": 108489,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samaria",
     "media_type": "Text",
     "index_reference": "samaria",
@@ -169,13 +233,57 @@
     "content": "<p>La ciudad capital del reino del norte de Israel. Omri hizo de Samaria el centro de gobierno del reino del norte. Acab la convirtió en el centro de prácticas de adoración del reino del norte. Los asirios tomaron control de la ciudad y del área alrededor en 722 a.C., trajeron otros grupos de personas para vivir allí. Estos grupos de personas se mezclaron con los israelitas que quedaron en Samaria. Sus hijos llegaron a ser conocidos como samaritanos. En la época de los romanos, Samaria era una región de Israel. Estaba entre Galilea en el norte y Judea en el sur. En la época de Jesús, los samaritanos afirmaban ser de la línea familiar de Abraham. Los judíos y los samaritanos usualmente se trataban como enemigos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shemariah",
+          "type": "person",
+          "preferred_label": "Samaria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemariah.2",
+          "type": "person",
+          "preferred_label": "Samaria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemariah.3",
+          "type": "person",
+          "preferred_label": "Samaria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemariah.4",
+          "type": "person",
+          "preferred_label": "Samaria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Samaria",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Samaria.2",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232421,
+    "content_id": "232421",
     "reference_id": 108452,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samuel",
     "media_type": "Text",
     "index_reference": "samuel",
@@ -184,13 +292,36 @@
     "content": "<p>Un israelita que sirvió al pueblo de Dios como profeta, sacerdote y juez. En idioma hebreo, el nombre Samuel significa ser escuchado por Dios. El nombre también puede significar prestado por Dios. Samuel fue fiel a Dios toda su vida. Era hijo de Elcaná y Ana. Era de la tribu de Leví, a través de la línea familiar de Coré. Sus hijos eran Joel y Abías. Samuel fue criado como nazareo en la tienda sagrada en Silo. Comenzó a servir a los israelitas como profeta cuando era joven. Sirvió como sacerdote después de la muerte de Elí. Cuando sirvió como juez, Dios liberó a los israelitas de los filisteos. Samuel ungió primero a Saúl y luego a David como rey.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "Samuel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemuel",
+          "type": "person",
+          "preferred_label": "Samuel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemuel.2",
+          "type": "person",
+          "preferred_label": "Samuel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232036,
+    "content_id": "232036",
     "reference_id": 108067,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sanedrín",
     "media_type": "Text",
     "index_reference": "sanedrín",
@@ -199,13 +330,22 @@
     "content": "<p>Un grupo de 70 líderes religiosos. En el tiempo de Jesús tenían la mayor autoridad en los tribunales judíos. El Sanedrín también se llamaba Consejo Judío. Cuidaban del templo en Jerusalén y tomaban decisiones importantes para el pueblo judío. Tanto fariseos como saduceos servían en el Sanedrín. El Sanedrín se opuso a Jesús. También se opusieron a los apóstoles que difundieron la noticia de que Jesús había resucitado.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Sanhedrin",
+          "type": "group",
+          "preferred_label": "Sanhedrin",
+          "confidence": 0.8458,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232284,
+    "content_id": "232284",
     "reference_id": 108315,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sangre",
     "media_type": "Text",
     "index_reference": "sangre",
@@ -214,13 +354,14 @@
     "content": "<p>En la Biblia, la palabra sangre tiene dos significados. El primer significado es el líquido rojo dentro de los cuerpos de humanos y animales. El segundo significado es un símbolo de vida. La vida es un don de Dios. La sangre era considerada importante porque mostraba que un animal o una persona estaba viva. Se entendía que perder sangre conducía a la muerte. Así que cualquier cosa que tuviera que ver con una pérdida de sangre se consideraba impura. Debido a que la sangre era importante, se usaba para hacer las cosas santas y limpias. Rociar sangre de sacrificios sobre alguien o algo era un símbolo que mostraba que la persona u objeto había sido limpiado de la muerte y el pecado.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232408,
+    "content_id": "232408",
     "reference_id": 108439,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sansón",
     "media_type": "Text",
     "index_reference": "sansón",
@@ -229,13 +370,14 @@
     "content": "<p>Uno de los 12 jueces de Israel. Era de la tribu de Dan y su padre era Manoa. El ángel del Señor se le apareció a su madre para anunciar su nacimiento. Debía vivir como nazareo toda su vida. Dios usó a Sansón para liberar a los israelitas de ser maltratados por los filisteos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232303,
+    "content_id": "232303",
     "reference_id": 108334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santa tienda",
     "media_type": "Text",
     "index_reference": "santa tienda",
@@ -244,13 +386,14 @@
     "content": "<p>La tienda donde Dios vivió entre los israelitas después de que salieron de Egipto. Es donde habló con Moisés y con el pueblo de Israel. Dios le dio a Moisés instrucciones claras sobre cómo hacerla. La tienda sagrada incluía el arca de la alianza y un altar para el incienso, candelabros y una mesa para el pan sagrado; un altar para sacrificios y un patio. Incluía también un gran cuenco de agua para que los sacerdotes se lavaran las manos y los pies. Trabajadores hábiles hicieron la tienda según el modelo que Dios mostró a Moisés en el Monte Sinaí. Los israelitas llevaban la tienda sagrada con ellos a dondequiera que viajaban. También era una señal de cómo Dios obraría a través de Jesús muchos años después.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232088,
+    "content_id": "232088",
     "reference_id": 108119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santiago",
     "media_type": "Text",
     "index_reference": "santiago",
@@ -259,13 +402,14 @@
     "content": "<p>Uno de los hermanos de Jesús. Al principio no creía que Jesús era el Mesías. Después de que Jesús resucitó, se le apareció a Santiago. Santiago confió en Jesús y se convirtió en un líder en la iglesia en Jerusalén. El Nuevo Testamento incluye una carta que él escribió. Este es un Santiago diferente al apóstol Santiago.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232011,
+    "content_id": "232011",
     "reference_id": 108042,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santiago el apóstol",
     "media_type": "Text",
     "index_reference": "santiago el apóstol",
@@ -274,13 +418,14 @@
     "content": "<p>Uno de los 12 discípulos de Jesús y uno de sus tres seguidores más cercanos. Su hermano era Juan y su padre era Zebedeo. Jesús llamó a Santiago y Juan hijos del trueno. Santiago fue el primer apóstol en ser ejecutado por ser fiel a Jesús.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232330,
+    "content_id": "232330",
     "reference_id": 108361,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Santo",
     "media_type": "Text",
     "index_reference": "santo",
@@ -289,13 +434,22 @@
     "content": "<p>Ser separado. Dios es santo. Esto significa que es diferente de todo lo demás que existe. En la Biblia ciertos lugares eran santos. Esto se debía a que la gente era consciente de que Dios estaba presente allí. Ciertas cosas eran santas. Esto significaba que se usaban de maneras especiales para adorar a Dios. Lo opuesto a santo es profano o malígno. Las cosas que son profanas no pueden estar en la presencia de Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "santo",
+          "confidence": 0.9534,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232216,
+    "content_id": "232216",
     "reference_id": 108247,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sara",
     "media_type": "Text",
     "index_reference": "sara",
@@ -304,13 +458,29 @@
     "content": "<p>Mujer de la Mesopotamia que era esposa de Abraham. Ella era la hija de Taré pero de una madre diferente a la de Abraham. Dios cambió el nombre de Sarai para Sara en el capítulo 17 de Génesis. En el idioma hebreo, Sarai y Sara significan princesa o mujer noble. Durante muchos años no pudo tener hijos. Dios prometió que tendría un hijo. Cuando era muy anciana, dio a luz a Isaac.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sharar",
+          "type": "person",
+          "preferred_label": "Sarar",
+          "confidence": 0.8435,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232147,
+    "content_id": "232147",
     "reference_id": 108178,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sardis",
     "media_type": "Text",
     "index_reference": "sardis",
@@ -319,13 +489,29 @@
     "content": "<p>Una ciudad importante en el territorio romano de Asia. Allí había un templo a la diosa Artemisa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Sardis",
+          "type": "place",
+          "preferred_label": "Sardis",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Sarid",
+          "type": "place",
+          "preferred_label": "Sarid",
+          "confidence": 0.8176,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232424,
+    "content_id": "232424",
     "reference_id": 108455,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saúl",
     "media_type": "Text",
     "index_reference": "saúl",
@@ -334,13 +520,71 @@
     "content": "<p>El primer rey de Israel. Era hijo de Cis y de la tribu de Benjamín. Era bien alto y guapo. Como rey, dejó de confiar y obedecer a Dios. Por esto, su línea familiar no continuó gobernando en Israel. Saúl fue controlado por el miedo y los celos. Intentó con mucho esfuerzo matar a David. Murió en una batalla contra los Filisteos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Saúl",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaul",
+          "type": "person",
+          "preferred_label": "Saúl",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaul.2",
+          "type": "person",
+          "preferred_label": "Saúl",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaul.3",
+          "type": "person",
+          "preferred_label": "Saúl",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sallu",
+          "type": "person",
+          "preferred_label": "Salú",
+          "confidence": 0.8492,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sallu.2",
+          "type": "person",
+          "preferred_label": "Salú",
+          "confidence": 0.8492,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sallu.3",
+          "type": "person",
+          "preferred_label": "Salú",
+          "confidence": 0.8492,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Salu",
+          "type": "person",
+          "preferred_label": "Salu",
+          "confidence": 0.8226,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232144,
+    "content_id": "232144",
     "reference_id": 108175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Segunda muerte",
     "media_type": "Text",
     "index_reference": "segunda muerte",
@@ -349,13 +593,14 @@
     "content": "<p>Una forma de describir el juicio final de Dios contra aquellos que se niegan a seguirlo. Son destruidos y separados de Dios para siempre. Juan describió el lugar donde tendrá lugar la segunda muerte como un lago de fuego. También se llamaba un lago de azufre ardiente. Aquellos que fueron arrojados allí no harán aparte en el reino de Dios en la tierra.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232364,
+    "content_id": "232364",
     "reference_id": 108395,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sehón y Og",
     "media_type": "Text",
     "index_reference": "sehón y og",
@@ -364,13 +609,14 @@
     "content": "<p>Dos reyes amorreos que vivían al este del río Jordán. Sehón era el rey de Hesbón y Og era el rey de Basán. Los israelitas pidieron permiso para viajar por sus tierras en paz. Sehón y Og los atacaron, pero los israelitas ganaron las batallas. Algunas de las tribus israelitas elaigieron quedarse y vivir en esas tierras.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232491,
+    "content_id": "232491",
     "reference_id": 108522,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sello",
     "media_type": "Text",
     "index_reference": "sello",
@@ -379,13 +625,22 @@
     "content": "<p>Hay varios significados para la palabra sello en la Biblia. El primer significado es cerrar algo. El segundo es poner en efecto un acuerdo o pacto. El tercer significado es un pedazo de cera pegajosa. La gente ponía la cera en pergaminos o papeles importantes para cerrarlos. Solo las personas que tenian permiso debían romper el sello y abrir los papeles. El último significado es una marca oficial o real que muestra quién es alguien. Un sello que se presionaba en papeles u otras cosas dejaba su marca en ellos. Esto mostraba que la persona estaba de acuerdo con algo o que algo le pertenecía.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Salu",
+          "type": "person",
+          "preferred_label": "Salu",
+          "confidence": 0.8091,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232210,
+    "content_id": "232210",
     "reference_id": 108241,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sem",
     "media_type": "Text",
     "index_reference": "sem",
@@ -394,13 +649,22 @@
     "content": "<p>El segundo hijo de Noé. Él y su esposa se salvaron del diluvio porque estaban en el arca. Trató a su padre con respeto cuando Noé se emborrachó después del diluvio. Sem siguió a Dios. Noé reconoció a Sem como el líder entre sus hermanos. Noé p<span>ronunció una bendición sobre la familia de Sem.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Sem",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232195,
+    "content_id": "232195",
     "reference_id": 108226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "SEÑOR",
     "media_type": "Text",
     "index_reference": "señor",
@@ -409,13 +673,14 @@
     "content": "<p>El nombre que los israelitas usaban para hablar de Dios. En el idioma hebreo, el nombre está compuesto por las letras YHWH. Nadie sabe exactamente qué significa este nombre. Estas letras suenan como las palabras hebreas para Yo soy quien soy.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232298,
+    "content_id": "232298",
     "reference_id": 108329,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Señor - Gobernante",
     "media_type": "Text",
     "index_reference": "señor - gobernante",
@@ -424,13 +689,14 @@
     "content": "<p>Un título para un gobernante, líder o maestro. Se usa como un título para Dios en la Biblia. Significa que Dios tiene autoridad sobre todo y todos. En tiempos del Nuevo Testamento, señor se usaba como un título para el emperador romano. Significaba que César tenía autoridad en todas partes donde el gobierno romano tenía control. Los seguidores de Jesús lo llamaban Señor. Esto significaba que reconocían que Jesús es Dios. Reconocían que Jesús tiene autoridad completa sobre todo y todos. Los seguidores de Jesús desafiaban la autoridad de César cuando llamaban a Jesús Señor.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232115,
+    "content_id": "232115",
     "reference_id": 108146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Señor Jesucristo",
     "media_type": "Text",
     "index_reference": "señor jesucristo",
@@ -439,13 +705,14 @@
     "content": "<p>Un título para Jesús que lo describe de muchas maneras. Como Señor, tiene autoridad sobre todos los demás gobernantes en la tierra. Como Jesús, es un judío que vivió en Israel cuando el gobierno romano estaba en control. Jesús también es el Hijo de Dios. Como Cristo, es el Mesías y Rey judío. El título Señor Jesucristo significa que Jesús es el Rey de todo. Significa que es el Salvador que rescata al pueblo de Dios y al mundo natural. Los rescata del pecado, la muerte y el mal. Significa que es digno de adoración porque es Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232327,
+    "content_id": "232327",
     "reference_id": 108358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Separados",
     "media_type": "Text",
     "index_reference": "separados",
@@ -454,13 +721,14 @@
     "content": "<p>En el Antiguo Testamento había dos significados para ser separado. El primer significado era para personas, sacerdotes, profetas y cosas que eran separados. Personas, sacerdotes y profetas podían ser separados para servir a Dios de maneras especiales. Cosas como animales, tierras y objetos también podían ser separados para el Señor. Esto significaba que no se usaban de la manera normal. Debían ser usados solo de maneras especiales para servir a Dios. El segundo significado era cuando personas o cosas eran separadas para ser destruidas. Esta era una manera en que Dios ejercía juicio contra las malas acciones de las personas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232392,
+    "content_id": "232392",
     "reference_id": 108423,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Seres espirituales",
     "media_type": "Text",
     "index_reference": "seres espirituales",
@@ -477,13 +745,14 @@
           "label": "Ángel",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232187,
+    "content_id": "232187",
     "reference_id": 108218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Seres espirituales malignos",
     "media_type": "Text",
     "index_reference": "seres espirituales malignos",
@@ -500,13 +769,14 @@
           "label": "Diablo",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232171,
+    "content_id": "232171",
     "reference_id": 108202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Seres humanos",
     "media_type": "Text",
     "index_reference": "seres humanos",
@@ -515,13 +785,14 @@
     "content": "<p>Dios creó a los seres humanos a su semejanza. Quería que vivieran para siempre en completa paz con él. Debían vivir en paz unos con otros y con el resto de la creación. Pero Adán y Eva pecaron. Desde entonces, el pecado y la muerte han tenido control sobre los seres humanos, los cuales pecan y también mueren.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232193,
+    "content_id": "232193",
     "reference_id": 108224,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Set",
     "media_type": "Text",
     "index_reference": "set",
@@ -530,13 +801,14 @@
     "content": "<p>Un hijo de Adán y Eva. Era como Adán en formas que Caín no lo era. Siguió a Dios. Dios eligió trabajar a través de la línea familiar de Set en su plan para salvar al mundo. Jesús era de la línea familiar de Set.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232383,
+    "content_id": "232383",
     "reference_id": 108414,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shema",
     "media_type": "Text",
     "index_reference": "shema",
@@ -545,13 +817,14 @@
     "content": "<p>Una oración judía que incluye Deuteronomio 6:4. En idioma hebreo, la primera palabra de Deuteronomio 6:4 es shemá. Significa escuchar y actuar en base a lo que se escuchó. En el idioma hebreo, escuchar y hacer, se entienden como la misma cosa. El Shemá explica de qué se trataba el pacto de Dios con los israelitas. Dios es el único y verdadero Dios. Los israelitas debían obedecer solo a Dios. Esto era la verdad para cada persona. También era la verdad para todos como comunidad. Debían obedecer los Diez Mandamientos y todas las leyes de Dios. Muchas cosas les ayudarían a recordar quién era Dios y lo que él mandó. Debían hablar de sus mandamientos todo el tiempo, en todas partes y con todos. Debían escribirlos. Debían colocar recordatorios en sus ropas, sus cuerpos, sus casas y sus puertas. Debían hacer preguntas <span>sobre Dios libremente y hablar de él con sus hijos. Jesús usó la palabra del Shemá en Marcos 12:29.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232513,
+    "content_id": "232513",
     "reference_id": 108544,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siervo de Dios",
     "media_type": "Text",
     "index_reference": "siervo de dios",
@@ -560,13 +833,14 @@
     "content": "<p>Un siervo que Dios prometió enviar para ayudar a su pueblo. El libro de Isaías incluye varias profecías sobre este siervo. Dios eligió a este siervo para compartir su enseñanza con su pueblo. Dios apartó a este siervo para guiar a su pueblo con justicia. Sufriría mientras sirviese. A veces se describe al siervo como el pueblo de Israel. A veces se describe como un profeta o alguien más que ayudaba al pueblo de Dios. Otras veces se describe al siervo como un salvador que vendría en el futuro. En Hechos capítulo 3, Pedro mostró cómo el siervo descrito en Isaías también era el Mesías judío. Luego, Pedro mostró cómo Jesús es este siervo y Mesías.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232183,
+    "content_id": "232183",
     "reference_id": 108214,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siete",
     "media_type": "Text",
     "index_reference": "siete",
@@ -575,13 +849,22 @@
     "content": "<p>El número usado en la Biblia para hablar de cosas que están completas. Muestra que las cosas están terminadas y perfectas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Sieve",
+          "type": "realia",
+          "preferred_label": "Sieve",
+          "confidence": 0.823,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232090,
+    "content_id": "232090",
     "reference_id": 108121,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Silas",
     "media_type": "Text",
     "index_reference": "silas",
@@ -590,13 +873,22 @@
     "content": "<p>Un líder entre los creyentes en Jerusalén. Trabajó con Pablo, Bernabé y Pedro. Era un profeta y ciudadano romano. Ayudó a llevar una carta importante de la iglesia de Jerusalén a las iglesias de los gentiles. También ayudó a Pablo y Pedro a escribir cartas a las iglesias.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Silas",
+          "type": "person",
+          "preferred_label": "Silas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232422,
+    "content_id": "232422",
     "reference_id": 108453,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Silo",
     "media_type": "Text",
     "index_reference": "silo",
@@ -605,13 +897,29 @@
     "content": "<p>Una importante ciudad israelita en la región montañosa en el territorio de Efraín. Estaba al norte de Jerusalén. Josué instaló el tabernáculo allí cuando los israelitas entraron en Canaán.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shiloh",
+          "type": "person",
+          "preferred_label": "Silo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shiloh",
+          "type": "place",
+          "preferred_label": "Silo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232053,
+    "content_id": "232053",
     "reference_id": 108084,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siloé",
     "media_type": "Text",
     "index_reference": "siloé",
@@ -620,13 +928,29 @@
     "content": "<p>Un lugar dentro de los muros de Jerusalén donde había una piscina de agua fresca. Siloé significa enviado. La primera piscina allí fue construida por el rey Ezequías. Los babilonios la destruyeron, pero fue reconstruida en el tiempo de Nehemías. El agua de la piscina se vertía sobre el altar durante la Fiesta de los Tabernáculos. El agua de la piscina provenía del manantial de Gihón. También había una torre allí que se cayó durante la época de Jesús y mató a 18 personas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shiloh",
+          "type": "person",
+          "preferred_label": "Silo",
+          "confidence": 0.8676,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shiloh",
+          "type": "place",
+          "preferred_label": "Silo",
+          "confidence": 0.8676,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232054,
+    "content_id": "232054",
     "reference_id": 108085,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simón de Cirene",
     "media_type": "Text",
     "index_reference": "simón de cirene",
@@ -635,13 +959,14 @@
     "content": "<p>Un hombre de Cirene que llevó parte de la cruz de Jesús. Los soldados romanos lo obligaron a hacerlo. Cirene estaba en el país que ahora se llama Libia en África. Muchos judíos que hablaban griego vivían allí. Viajaban a Jerusalén para las fiestas judías. Los hijos de Simón se llamaban Alejandro y Rufo. Este Rufo podría ser el mismo Rufo del que Pablo habló en Romanos 16:13.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232020,
+    "content_id": "232020",
     "reference_id": 108051,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinagoga",
     "media_type": "Text",
     "index_reference": "sinagoga",
@@ -650,13 +975,22 @@
     "content": "<p>Lugares donde los judíos en tiempos del Nuevo Testamento se reunían para adorar a Dios. Leían en voz alta de la Ley de Moisés y los Profetas. Después, maestros judíos llamados rabinos enseñaban al pueblo. Esto ocurría en el día sábado. Había sinagogas en todas las tierras controladas por el gobierno romano.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Synagogue",
+          "type": "realia",
+          "preferred_label": "Synagogue",
+          "confidence": 0.8477,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232251,
+    "content_id": "232251",
     "reference_id": 108282,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siquem",
     "media_type": "Text",
     "index_reference": "siquem",
@@ -665,13 +999,14 @@
     "content": "<p>Una ciudad en Canaán que se convirtió en una ciudad importante en Israel. Abraham y Jacob construyeron altares a Dios allí. Siquem también era el nombre del hombre que violó a Dina. Los hermanos de Dina mataron a Siquem y a los hombres de la ciudad por lo que hizo Siquem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232347,
+    "content_id": "232347",
     "reference_id": 108378,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sirvientes",
     "media_type": "Text",
     "index_reference": "sirvientes",
@@ -680,13 +1015,22 @@
     "content": "<p>A los israelitas se les permitía trabajar como sirvientes para otros israelitas. Esto era para ayudar a pagar las deudas que debían. Después de seis años de trabajo, se les daba la opción de ser liberados. Si elegían ser liberados, se les daba comida y ganado. El sirviente también podía elegir seguir trabajando para la misma familia toda su vida. Los sirvientes no debían ser maltratados ni ser considerados esclavos. Esto era porque Dios los había liberado de la esclavitud en Egipto. Nunca debían ser esclavos de nuevo. Ser esclavos de nuevo era una de las maldiciones de la alianza.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:GenericServants",
+          "type": "group",
+          "preferred_label": "Servants",
+          "confidence": 0.9115,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232218,
+    "content_id": "232218",
     "reference_id": 108249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sodoma y Gomorra",
     "media_type": "Text",
     "index_reference": "sodoma y gomorra",
@@ -695,13 +1039,22 @@
     "content": "<p>Dos ciudades en Canaán. Las personas que vivían allí eran conocidas por hacer cosas malas. Lot, el sobrino de Abraham, vivía en Sodoma. Dios destruyó Sodoma y Gomorra pero salvó a Lot. Dios destruyó estas ciudades por sus costumbres malvadas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "Sodoma",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232242,
+    "content_id": "232242",
     "reference_id": 108273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sueños",
     "media_type": "Text",
     "index_reference": "sueños",
@@ -710,13 +1063,14 @@
     "content": "<p>Una de las maneras en que Dios se da a conocer y revela sus planes. A veces, el mensaje de Dios a través de un sueño es muy claro para las personas. Otras veces puede no ser claro para ellas. Dios da a algunos la capacidad de entender los sueños de otras personas. Ellos ayudan a otros a entender el mensaje de Dios. No todos los sueños son mensajes de Dios. Las personas no hacen que los sueños de Dios sucedan. Estos son un don de Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232337,
+    "content_id": "232337",
     "reference_id": 108368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sumo sacerdote",
     "media_type": "Text",
     "index_reference": "sumo sacerdote",
@@ -725,13 +1079,14 @@
     "content": "<p>El líder religioso con más autoridad en Israel. El sumo sacerdote debía ser un hombre de la tribu de Leví. Debía ser de la línea familiar de Aarón. El sumo sacerdote debía enseñar al pueblo como lo había hecho Moisés. Tenía deberes especiales en la tienda sagrada de Dios y más tarde en el templo. Solo al sumo sacerdote se le permitía entrar en el Lugar Santísimo. Él decía al pueblo lo que Dios quería que hicieran. También hacía los sacrificios para que los pecados de Israel fueran perdonados.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232122,
+    "content_id": "232122",
     "reference_id": 108153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Super-apóstol",
     "media_type": "Text",
     "index_reference": "super-apóstol",
@@ -740,13 +1095,14 @@
     "content": "<p>Pablo llamó así a ciertos líderes judíos. Estos líderes se opusieron a su trabajo en las iglesias que él ayudó a iniciar. En comparación con Pablo, estos parecían fuertes, exitosos, saludables y ricos. Dijeron mentiras sobre Pablo y afirmaron que él siempre estaba causando problemas. Se aprovecharon de los nuevos creyentes y no sirvieron a las personas con amor. Pretendían servir a Dios, pero realmente servían a Satanás haciendo mal.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232486,
+    "content_id": "232486",
     "reference_id": 108517,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Susa",
     "media_type": "Text",
     "index_reference": "susa",
@@ -755,7 +1111,8 @@
     "content": "<p>Era una de las capitales del gobierno persa. Estaba ubicada al este del río Tigris en el país actualmente llamado de Irán.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

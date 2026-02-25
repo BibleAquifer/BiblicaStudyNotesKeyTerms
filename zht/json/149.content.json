@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232838,
+    "content_id": "232838",
     "reference_id": 108237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約",
     "media_type": "Text",
     "index_reference": "約",
@@ -11,13 +11,14 @@
     "content": "<p>像條約一樣的協議或承諾。兩人或團體達成了一個協議。其中一方比另一方更有權力。權力較小的一方會因遵守條約或約而獲得獎賞。這個獎賞就是約的祝福。如果他們不遵守條約或約，約的咒詛就會發生。締約的雙方會一同吃一頓飯或獻一次祭。他們會在見證人面前寫下他們的協議。每人都會保留一份副本。這就是約如何生效的方式。在聖經中，神通常與祂的子民立約。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233092,
+    "content_id": "233092",
     "reference_id": 108491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約阿施",
     "media_type": "Text",
     "index_reference": "約阿施",
@@ -26,13 +27,14 @@
     "content": "<p>亞哈謝和洗比亞的兒子。他是亞瑪謝的父親，來自猶大支派。他是南國的第七位君王。他的祖母亞她利雅試圖殺害他，但他的姑姑約示巴救了他。約阿施在耶何耶大的庇護下在聖殿中長大。他七歲時成為君王。他確保聖殿得到修繕。他忠實地跟隨神，並帶領百姓單單敬拜上帝。他在耶何耶大在世時一直這樣做。耶何耶大死後，約阿施做了邪惡的事，去拜假神。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233125,
+    "content_id": "233125",
     "reference_id": 108524,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約伯",
     "media_type": "Text",
     "index_reference": "約伯",
@@ -41,13 +43,14 @@
     "content": "<p>約伯記的主要人物。他來自烏斯。據說烏斯在以東境內。人們認為約伯不是雅各的後裔。他忠誠地敬拜獨一真神。神讓約伯受苦，以此來考驗他。約伯向神提出了許多問題，並坦誠地表達了他的感受。在整個考驗過程中，他始終對神保持忠誠。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233007,
+    "content_id": "233007",
     "reference_id": 108406,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約旦河",
     "media_type": "Text",
     "index_reference": "約旦河",
@@ -56,13 +59,22 @@
     "content": "<p>以色列地區最大的河流，從加利利海向南流向死海。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jordan",
+          "type": "place",
+          "preferred_label": "Jordan River",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232981,
+    "content_id": "232981",
     "reference_id": 108380,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約的咒詛",
     "media_type": "Text",
     "index_reference": "約的咒詛",
@@ -71,13 +83,14 @@
     "content": "<p>當人們對約不忠誠時所發生的可怕的事。在與神的約中，不忠誠意味著不按照神的方式生活。這停止了約的祝福，導致人們以遭受到各樣的苦難。這些苦難通常關乎失去神賜予他們的土地，他們的孩子死亡，以及神不再與他們同在。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232980,
+    "content_id": "232980",
     "reference_id": 108379,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約的祝福",
     "media_type": "Text",
     "index_reference": "約的祝福",
@@ -86,13 +99,14 @@
     "content": "<p>當人們對約忠誠時所發生的好事。在與神的約中，忠誠（faithful，或譯「信實」）意味著按照神的方式生活。其結果就是神所賜的福。這些通常與土地、子女和神同在有關。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232986,
+    "content_id": "232986",
     "reference_id": 108385,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約櫃",
     "media_type": "Text",
     "index_reference": "約櫃",
@@ -109,13 +123,14 @@
           "label": "至聖所",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 233143,
+    "content_id": "233143",
     "reference_id": 108542,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約翰",
     "media_type": "Text",
     "index_reference": "約翰",
@@ -124,13 +139,43 @@
     "content": "<p>約翰福音的作者。他還寫了約翰一、二、三書。人們認為他也寫了啟示錄。約翰是耶穌的十二門徒之一，也是他最親近的三個跟隨者之一。在約翰福音中，他被稱為是耶穌所愛的那個門徒。他的兄弟是雅各，他們的父親是西庇太。耶穌稱雅各和約翰為雷子。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.9201,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.9201,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.3",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.9201,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.9201,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 233174,
+    "content_id": "233174",
     "reference_id": 108573,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約拿",
     "media_type": "Text",
     "index_reference": "約拿",
@@ -139,13 +184,14 @@
     "content": "<p>北國以色列的一位先知。他是亞米太的兒子。他預言了關於北國邊界的事。這個預言在耶羅波安二世統治時實現了。有關約拿的故事記錄在約拿書中。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233058,
+    "content_id": "233058",
     "reference_id": 108457,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約拿單",
     "media_type": "Text",
     "index_reference": "約拿單",
@@ -154,13 +200,14 @@
     "content": "<p>掃羅和亞希暖的兒子。他是便雅憫支派的人。約拿單支持神讓大衛成為王而不是他自己。他與大衛立了友誼的約。因為他們的友誼，大衛善待約拿單的兒子米非波設。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232889,
+    "content_id": "232889",
     "reference_id": 108288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約瑟",
     "media_type": "Text",
     "index_reference": "約瑟",
@@ -169,13 +216,14 @@
     "content": "<p>雅各和拉結的第一個兒子。他是雅各最喜愛的兒子。在希伯來文中，約瑟的意思是願他增加。拉結給他取這個名字是因為她想要更多的孩子。他的一些兄弟把他賣到埃及為奴隸。他後來成為埃及的治理者，拯救了許多人免於因飢餓而死。他的妻子是亞西納。他的兒子瑪拿西和以法蓮的後裔成為以色列的支派。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233084,
+    "content_id": "233084",
     "reference_id": 108483,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約沙法",
     "media_type": "Text",
     "index_reference": "約沙法",
@@ -184,13 +232,14 @@
     "content": "<p>亞撒和阿蘇巴的兒子。他是約蘭的父親，來自猶大支派。他是南國猶大的第四任君王。他忠誠地跟隨神，並帶領百姓單單敬拜神。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232990,
+    "content_id": "232990",
     "reference_id": 108389,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約書亞",
     "media_type": "Text",
     "index_reference": "約書亞",
@@ -199,13 +248,14 @@
     "content": "<p>生來就是在埃及的希伯來奴隸。在出埃及期間，他幫助摩西帶領神的百姓。他是嫩的兒子，來自以法蓮支派。摩西將他的名字從何希阿改為約書亞。他是窺探迦南地的探子之一。他帶回的是好消息。在摩西去世後，他成為以色列人的領袖。約書亞帶領以色列人進入神應許給亞伯拉罕的土地。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233109,
+    "content_id": "233109",
     "reference_id": 108508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約書亞和所羅巴伯",
     "media_type": "Text",
     "index_reference": "約書亞和所羅巴伯",
@@ -214,13 +264,14 @@
     "content": "<p>從巴比倫被擄歸回到猶大的猶太領袖。他們帶領神的子民重建耶路撒冷的聖殿。約書亞是約薩答的兒子，並在第二聖殿擔任大祭司。這個約書亞與摩西之後帶領以色列人的那個約書亞不是同一個人。所羅巴伯在波斯政府控制期間擔任猶大的省長。他是撒拉鐵的兒子，是大衛的後裔。耶穌是所羅巴伯的後裔。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233064,
+    "content_id": "233064",
     "reference_id": 108463,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "約押",
     "media_type": "Text",
     "index_reference": "約押",
@@ -229,7 +280,8 @@
     "content": "<p>大衛的侄子，是一位勇猛的戰士。他在大衛手下成為以色列軍隊的指揮官。他多年來對大衛忠誠。但是他謀殺押尼珥和亞瑪撒，這是在反對大衛。他還殺死押沙龍，這也是在反對大衛。他沒有支持所羅門接任大衛為王。因為這些事情，大衛吩咐所羅門要把約押處死。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

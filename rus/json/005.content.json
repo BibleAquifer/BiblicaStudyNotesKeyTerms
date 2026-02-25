@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 193645,
+    "content_id": "193645",
     "reference_id": 108563,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гавриил",
     "media_type": "Text",
     "index_reference": "гавриил",
@@ -11,13 +11,22 @@
     "content": "<p>Ангел, который в Новом Завете сообщал важные послания от Бога Захарии, Марии и Иосифу. В Ветхом Завете Гавриил передавал Божьи послания пророку Даниилу.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Gabriel",
+          "type": "deity",
+          "preferred_label": "Гавриил",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193490,
+    "content_id": "193490",
     "reference_id": 108408,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гад",
     "media_type": "Text",
     "index_reference": "гад",
@@ -26,13 +35,29 @@
     "content": "<p>Старший сын Иакова и Зелфы. С еврейского языка это имя переводится как <span>«счастье» или «отряд солдат»</span>. В народе Израиля род Гада составил одно целое колено. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "Гад",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gad.2",
+          "type": "person",
+          "preferred_label": "Гад",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193164,
+    "content_id": "193164",
     "reference_id": 108082,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гадаринцы",
     "media_type": "Text",
     "index_reference": "гадаринцы",
@@ -41,13 +66,14 @@
     "content": "<p>Народ, живший на восточном берегу Галилейского моря. Гадаринцы не хотели, чтобы Иисус творил чудеса в их городе. У Марка и Луки эта область носит название <span>«страна Гадаринская», тогда как у Матфея она названа «страна Гергесинская»</span>.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193507,
+    "content_id": "193507",
     "reference_id": 108425,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гай",
     "media_type": "Text",
     "index_reference": "гай",
@@ -56,13 +82,57 @@
     "content": "<p>Город в Ханаане, где Авраам построил жертвенник. Израильтяне проиграли свою первую битву с жителями Гая. Они выиграли второе сражение и разрушили город. В переводе с древнееврейского языка Гай означает <span>«</span>груда развалин, руины<span>»</span>.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gaius",
+          "type": "person",
+          "preferred_label": "Гай",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gaius.2",
+          "type": "person",
+          "preferred_label": "Гай",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gaius.3",
+          "type": "person",
+          "preferred_label": "Гай",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gaius.4",
+          "type": "person",
+          "preferred_label": "Гай",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ai",
+          "type": "place",
+          "preferred_label": "Гай",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ai.2",
+          "type": "place",
+          "preferred_label": "Гай",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193523,
+    "content_id": "193523",
     "reference_id": 108441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Галаад",
     "media_type": "Text",
     "index_reference": "галаад",
@@ -71,13 +141,78 @@
     "content": "<p>Холмистая местность, располагавшаяся к востоку от реки Иордан. Одна её часть принадлежала царству царя Сигона, другая входила в царство царя Ога. Так было до тех пор, пока израильтяне не одержали победу над Сигоном и Огом. После чего данная местность получила название <span>«Галаад»</span> в честь человека по имени Галаад, который происходил из колена Манассии. В Галааде была плодородная почва, и эта местность была также пригодна для разведения скота. Галаад не входил в состав той территории, которую Бог обещал дать Аврааму и его потомкам. И всё же Бог позволил некоторым коленам заселить её. Речь идёт о коленах Рувима, Гада и половине колена Манассии.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gilead",
+          "type": "person",
+          "preferred_label": "Галаад",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilead.2",
+          "type": "person",
+          "preferred_label": "Галаад",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilead.3",
+          "type": "person",
+          "preferred_label": "Галаад",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilead",
+          "type": "place",
+          "preferred_label": "Галаад",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad",
+          "type": "person",
+          "preferred_label": "Гадад",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad.2",
+          "type": "person",
+          "preferred_label": "Гадад",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad.3",
+          "type": "person",
+          "preferred_label": "Гадад",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad.4",
+          "type": "person",
+          "preferred_label": "Гадад",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Lahad",
+          "type": "person",
+          "preferred_label": "Лагад",
+          "confidence": 0.8034,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193204,
+    "content_id": "193204",
     "reference_id": 108122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Галатия",
     "media_type": "Text",
     "index_reference": "галатия",
@@ -86,13 +221,22 @@
     "content": "<p><span>Провинция в Римской империи, находившаяся на территории Малой Азии. В настоящее время эта территория называется Турцией. Павел посетил несколько городов в Галатии и основал там несколько церквей. Его «Послание к Галатам» было адресовано всем церквям в той провинции.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galatia",
+          "type": "place",
+          "preferred_label": "Галатийский",
+          "confidence": 0.8572,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193504,
+    "content_id": "193504",
     "reference_id": 108422,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Галгал",
     "media_type": "Text",
     "index_reference": "галгал",
@@ -101,13 +245,57 @@
     "content": "<p>Ханаанский город, располагавшийся к западу от реки Иордан. Галгал находился недалеко от города Иерихона. Он играл большую духовную роль в жизни судей Израиля, его царей и пророков. Камни, вынутые израильтянами из реки Иордан, были установлены в Галгале как памятник. Этот памятник должен был напоминать всем израильтянам о том, как Бог привёл Свой народ в Ханаан.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Galal",
+          "type": "person",
+          "preferred_label": "Галал",
+          "confidence": 0.8474,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Galal.2",
+          "type": "person",
+          "preferred_label": "Галал",
+          "confidence": 0.8474,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gaal",
+          "type": "person",
+          "preferred_label": "Гаал",
+          "confidence": 0.828,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilgal.2",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.8247,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilgal.3",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.8247,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilgal.4",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.8247,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193118,
+    "content_id": "193118",
     "reference_id": 108036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Галилея",
     "media_type": "Text",
     "index_reference": "галилея",
@@ -116,13 +304,22 @@
     "content": "<p>Северная часть земли, которую Бог обещал дать Аврааму и его потомкам. В Галилею входили территории, которые являлись частью Северного Царства Израиль. Во времена Иисуса Галилеей правил царь Ирод Антипа. Здесь прошло детство Иисуса. Галилейское море или Галилейское озеро <span>— </span>это крупный водоём, находящийся в этой местности. Река Иордан протекает на юге от него. Многие события из жизни Иисуса произошли в Галилее у Галилейского моря.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Галилея",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193181,
+    "content_id": "193181",
     "reference_id": 108099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гамалиил",
     "media_type": "Text",
     "index_reference": "гамалиил",
@@ -131,13 +328,50 @@
     "content": "<p>Фарисей и учитель закона, который был мудрым и уважаемым членом верховного совета иудеев, также называемый синедрион. До того, как апостол Павел принял Иисуса, он изучал еврейский закон у Гамалиила.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gamaliel",
+          "type": "person",
+          "preferred_label": "Гамалиил",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gamaliel.2",
+          "type": "person",
+          "preferred_label": "Гамалиил",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gemalli",
+          "type": "person",
+          "preferred_label": "Гемаллий",
+          "confidence": 0.8447,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gamul",
+          "type": "person",
+          "preferred_label": "Гамул",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hammuel",
+          "type": "person",
+          "preferred_label": "Хаммуил",
+          "confidence": 0.8009,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193519,
+    "content_id": "193519",
     "reference_id": 108437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гедеон",
     "media_type": "Text",
     "index_reference": "гедеон",
@@ -146,13 +380,22 @@
     "content": "<p>Гедеон был одним из 12 судей Израиля. Он происходил из колена Манассии, и его отцом был Иоас. У Гедеона было много жён и сыновей. Бог призвал Гедеона, чтобы он освободил народ Израиль от жестокого угнетения мадианитян. Люди дали Гедеону другое имя. Они называли его Иероваалом, что в переводе с еврейского языка означало <span>«пусть Ваал сам себя защитит»</span>.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "Гедеон",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193379,
+    "content_id": "193379",
     "reference_id": 108297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гесем (Гошен)",
     "media_type": "Text",
     "index_reference": "гесем (гошен)",
@@ -161,13 +404,36 @@
     "content": "<p>Местность в Древнем Египте, где поселилась и разводила скот семья Иакова. Считается, что земля Гесем (Гошен) была расположена на северо-востоке Египта, недалеко от Ханаана в дельте реки Нил.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Goshen",
+          "type": "place",
+          "preferred_label": "Гесем",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Goshen.2",
+          "type": "place",
+          "preferred_label": "Гесем",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Geshem",
+          "type": "person",
+          "preferred_label": "Гешем",
+          "confidence": 0.9403,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193179,
+    "content_id": "193179",
     "reference_id": 108097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Говорить на иных языках",
     "media_type": "Text",
     "index_reference": "говорить на иных языках",
@@ -184,13 +450,14 @@
           "label": "Истолкование иных языков",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193136,
+    "content_id": "193136",
     "reference_id": 108054,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гонения",
     "media_type": "Text",
     "index_reference": "гонения",
@@ -207,13 +474,14 @@
           "label": "Рим",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193587,
+    "content_id": "193587",
     "reference_id": 108505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гора Мориа",
     "media_type": "Text",
     "index_reference": "гора мориа",
@@ -222,13 +490,22 @@
     "content": "<p><span>Высокий скалистый холм в Иерусалиме, также называемый горой Сион. Он находился на севере от города Давида. В переводе с древнееврейского языка название Мориа означает «Господь усматривает». Именно здесь Бог испытал Авраама, попросив его принести в жертву Исаака. Когда Авраам был готов это сделать, Бог послал барана, которого нужно было принести в жертву вместо Исаака. Много лет спустя Ангел Господень явился на горе Мориа и принёс бедствие, чтобы разрушить Иерусалим. Давид построил жертвенник </span>на гумне иевусея на горе Мориа и заколол на нём жертву, <span>чтобы остановить это бедствие</span>. <span>Бог принял его жертву и остановил бедствие. По этой причине царь Соломон построил первый Храм на горе Мориа. Здесь же был построен и второй Храм.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:MoriahMount",
+          "type": "place",
+          "preferred_label": "Mount Moriah",
+          "confidence": 0.8987,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193409,
+    "content_id": "193409",
     "reference_id": 108327,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гора Синай",
     "media_type": "Text",
     "index_reference": "гора синай",
@@ -237,13 +514,29 @@
     "content": "<p>Гора, находящаяся за пределами Египта. Её также называли горой Хорив. Здесь Бог явился Моисею как несгорающий куст. После выхода евреев из Египта, Бог снова встретился с Моисеем на горе Синай. Именно там Бог заключил Свой завет с народом Израиля.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:SinaiMount",
+          "type": "place",
+          "preferred_label": "Mount Sinai",
+          "confidence": 0.92,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:SinaiWilderness",
+          "type": "place",
+          "preferred_label": "Синайская пустыня",
+          "confidence": 0.8604,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193492,
+    "content_id": "193492",
     "reference_id": 108410,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Города-убежища",
     "media_type": "Text",
     "index_reference": "города-убежища",
@@ -252,13 +545,14 @@
     "content": "<p>Это шесть городов, в которых жили левиты. Три города были расположены на восточной стороне реки Иордан, и три <span>—</span> на западной. Если человек по ошибке убивал кого-то, то он мог скрыться в одном из городов-убежищ. Там человек, совершивший убийство, оставался в безопасности, поскольку родственники убитого не могли ему отомстить. Убийца мог оставаться в городе-убежище до смерти первосвященника, после чего мог вернуться в свой родной город. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193308,
+    "content_id": "193308",
     "reference_id": 108226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Господь",
     "media_type": "Text",
     "index_reference": "господь",
@@ -267,13 +561,22 @@
     "content": "<p>Израильтяне называли так Бога всякий раз, когда говорили о Нём. На древнееврейском языке имя состоит из четырёх букв YHWH. Никто не может точно сказать, что значит это имя. Эти буквы звучат как слова «Я есть Тот, Кто Я есть».</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.8643,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193411,
+    "content_id": "193411",
     "reference_id": 108329,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Господь Владыка",
     "media_type": "Text",
     "index_reference": "господь владыка",
@@ -282,13 +585,14 @@
     "content": "<p><span>Обычно люди называли владыкой (господином) своего правителя, начальника или хозяина. </span>В новозаветные времена <span>господином также называли римского императора. </span>Это означало, что его власть распространялась на все территории, которые находились под контролем Римской империи. </p><p>Применительно к Богу на русском языке всегда используется слово Господь или Владыка, вместо господин. Господь (Владыка) —<span> это одно из имён Бога в Библии. </span>Это имя указывает на то, что Бог имеет полную власть над всем Своим творением. Ученики Иисуса называли Христа Господом, потому что они сознавали, что Он поистине был Богом. Ученики Иисуса видели, что Он имел полную власть над всем Божьи творением. Называя Иисуса своим Господом, Его ученики бросали вызов самому римскому императору.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193228,
+    "content_id": "193228",
     "reference_id": 108146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Господь Иисус Христос",
     "media_type": "Text",
     "index_reference": "господь иисус христос",
@@ -297,13 +601,14 @@
     "content": "<p>Господь Иисус Христос <span>— это титул Иисуса, который раскрывает Его сущность во многих значениях. </span>Как Господь<span>, Он имеет власть над всеми земными правителями. </span>Как Иисус<span>, Он жил как человек среди евреев в Израиле и Сам был евреем. Это происходило, когда Израиль находился под властью Рима. </span>Иисус также является Сыном Божьим. Как Христос, Он — еврейский Мессия и Царь. Титул «Господь Иисус Христос» означает, что Иисус является Царём всего существующего. Он также является Спасителем, Который принёс избавление как Божьему народу, так и всему земному творению. Божий Сын предлагает спасение от зла, греха и смерти людям всего мира. Именно поэтому Он достоин всякого поклонения как единственный истинный Бог.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193572,
+    "content_id": "193572",
     "reference_id": 108490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гофолия",
     "media_type": "Text",
     "index_reference": "гофолия",
@@ -312,13 +617,22 @@
     "content": "<p>Внучка Амврия и мать Охозии. В некоторых переводах называется Аталией. Считается, что она была дочерью Ахава и Иезавели, вышедшей замуж за царя Иорама. После того как <span>Ииуй</span> убил её сына Охозию, Гофолия убила всех потомков Давида, которые могли стать царями. Спасся из рода Давида только Иоас. Гофолия правила Южным Царством (Иудеей) в течение шести лет. Она заставила народ поклоняться Ваалу и совершила много злодеяний. Гофолия была убита дворцовыми стражниками.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Othniel",
+          "type": "person",
+          "preferred_label": "Гофониил",
+          "confidence": 0.8116,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193513,
+    "content_id": "193513",
     "reference_id": 108431,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Гофониил",
     "media_type": "Text",
     "index_reference": "гофониил",
@@ -327,13 +641,22 @@
     "content": "<p><span>Родственник Халева и один из 12 судей Израиля. Его женой была Ахса, дочь Халева. Гофониил одержал победу над месопотамским царём.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Othniel",
+          "type": "person",
+          "preferred_label": "Гофониил",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193238,
+    "content_id": "193238",
     "reference_id": 108156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Граждане неба",
     "media_type": "Text",
     "index_reference": "граждане неба",
@@ -350,13 +673,14 @@
           "label": "Царство Божье",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193277,
+    "content_id": "193277",
     "reference_id": 108195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Грех",
     "media_type": "Text",
     "index_reference": "грех",
@@ -365,13 +689,14 @@
     "content": "<p>Мысли, слова, желания и поступки, противоречащие Божьей воле. Грех наносит огромный вред как людям, так и всему остальному Божьему творению. Грех вошёл в мир, когда Адам и Ева ослушались Бога. Грех разрушил мир между Богом и людьми, а также между человечеством и всем Божьим творением. Грех приносит смерть. Он разделяет людей с Богом. В Библии сказано, что грех <span>— это господин, а люди — его рабы. Всякий грех является злом. Только Иисус имеет достаточно власти и силы, чтобы полностью уничтожить весь грех. </span>И только Он способен освободить всех людей от власти греха. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193276,
+    "content_id": "193276",
     "reference_id": 108194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Греция",
     "media_type": "Text",
     "index_reference": "греция",
@@ -380,7 +705,16 @@
     "content": "<p>Греческое царство обладало огромным могуществом в период между Ветхим и Новым Заветами. В течение некоторого времени правители Греции контролировали весь Израиль и его столицу Иерусалим. Позже римская армия получила контроль над территориями, находившимися под властью греков. Но греческая культура и обычаи продолжали сохраняться даже в период римского правления. Греческий язык был распространён среди населения, живущего в областях вокруг Средиземного моря. На греческом языке был написан весь Новый Завет. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Greece",
+          "type": "place",
+          "preferred_label": "Greece",
+          "confidence": 0.944,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

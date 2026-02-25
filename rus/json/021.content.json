@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 193374,
+    "content_id": "193374",
     "reference_id": 108292,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Фамарь",
     "media_type": "Text",
     "index_reference": "фамарь",
@@ -11,13 +11,43 @@
     "content": "<p>Фамарь была невесткой Иуды. Два её первых мужа были сыновьями Иуды, и они оба умерли. Иуда переспал с Фамарью, не зная, кто она. Фамарь забеременела и родила близнецов. Иисус происходил от одного из сыновей Фамари — Фареса. Эту женщину не следует путать с Фамарью, дочерью царя Давида. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Tamar",
+          "type": "person",
+          "preferred_label": "Фамарь",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tamar.2",
+          "type": "person",
+          "preferred_label": "Фамарь",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tamar.3",
+          "type": "person",
+          "preferred_label": "Фамарь",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tamar.2",
+          "type": "place",
+          "preferred_label": "Фамарь",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193553,
+    "content_id": "193553",
     "reference_id": 108471,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Фамарь, дочь Давида",
     "media_type": "Text",
     "index_reference": "фамарь, дочь давида",
@@ -26,13 +56,14 @@
     "content": "<p>Дочь Давида и Маахи. Её родным братом был Авессалом, а сводным <span>— Амнон</span>. Амнон изнасиловал Фамарь, когда она была молоденькой девушкой. После чего он выгнал её из своего дома. В те дни это было таким же позором, как и развод. <span>Изнасилование, а затем отказ от брака опозорили </span>Фамарь перед всем народом Израиля. Это означало, она навсегда лишилась возможности выйти замуж и создать свою собственную семью. После этого несчастного случая Фамарь осталась жить в доме своего брата Авессалома. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193332,
+    "content_id": "193332",
     "reference_id": 108250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Фараон",
     "media_type": "Text",
     "index_reference": "фараон",
@@ -41,13 +72,14 @@
     "content": "<p>Правитель Древнего Египта. В Библии упоминается много фараонов.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193132,
+    "content_id": "193132",
     "reference_id": 108050,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Фарисеи",
     "media_type": "Text",
     "index_reference": "фарисеи",
@@ -56,13 +88,43 @@
     "content": "<p><span>Группа иудейских религиозных лидеров во времена Нового Завета.</span> Фарисеи призывали евреев тщательно соблюдать многочисленные ветхозаветные постановления. Фарисеи не верили, что Иисус был Христом, Которого Бог обещал послать Своему народу. Большинство фарисеев выступало против Иисуса и Его учения.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Tarshish",
+          "type": "person",
+          "preferred_label": "Фарсис",
+          "confidence": 0.8856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tarshish.2",
+          "type": "person",
+          "preferred_label": "Фарсис",
+          "confidence": 0.8856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tarshish",
+          "type": "place",
+          "preferred_label": "Фарсис",
+          "confidence": 0.8856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Perez",
+          "type": "person",
+          "preferred_label": "Фарес",
+          "confidence": 0.8417,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193161,
+    "content_id": "193161",
     "reference_id": 108079,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Феофил",
     "media_type": "Text",
     "index_reference": "феофил",
@@ -71,13 +133,29 @@
     "content": "<p><span>Тот, кому адресовано Евангелие от Луки и Книга Деяния. Есть несколько версий, кем мог быть этот адресат. Имя Феофил переводится как «любящий Бога». Таким образом, адресатом Луки мог быть любой человек, который любит Бога. Возможно, что имя Феофил является псевдоним, и тогда Лука пытался сохранить имя адресата в тайне, чтобы защитить его. Лука называет Феофила достопочтенным. Возможно, это указывает на то, что Лука действительно написал некому человеку по имени Феофил, который был должностным лицом, служившим в римском правительстве.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Theophilus",
+          "type": "person",
+          "preferred_label": "Феофил",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Phicol",
+          "type": "person",
+          "preferred_label": "Фихол",
+          "confidence": 0.8429,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193210,
+    "content_id": "193210",
     "reference_id": 108128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Фессалоники",
     "media_type": "Text",
     "index_reference": "фессалоники",
@@ -86,13 +164,22 @@
     "content": "<p><span>Греческий город, расположенный в римской провинции Македония. Город был расположен на территории современной Северной Греции. Павел посетил этот город во время своего второго путешествия. Павел написал два послания к церкви в этом городе. </span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Thessalonica",
+          "type": "place",
+          "preferred_label": "Фессалоника",
+          "confidence": 0.9022,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193259,
+    "content_id": "193259",
     "reference_id": 108177,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Фиатира",
     "media_type": "Text",
     "index_reference": "фиатира",
@@ -101,13 +188,22 @@
     "content": "<p>Древний город, расположенный в римской провинции Асия. В настоящее время <span>его руины расположены на территории турецкого города Акхисар</span>. В Фиатире жила женщина по имени Лидия.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Thyatira",
+          "type": "place",
+          "preferred_label": "Фиатира",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193262,
+    "content_id": "193262",
     "reference_id": 108180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Филадельфия",
     "media_type": "Text",
     "index_reference": "филадельфия",
@@ -116,13 +212,22 @@
     "content": "<p>Важный город в римской провинции Асия. В настоящее время этот город находится на территории Турции и называется Алашехир.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philadelphia",
+          "type": "place",
+          "preferred_label": "Филадельфия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193246,
+    "content_id": "193246",
     "reference_id": 108164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Филимон",
     "media_type": "Text",
     "index_reference": "филимон",
@@ -131,13 +236,22 @@
     "content": "<p>Филимон был богатым христианином из города Колоссы. Он был другом апостола Павла и трудился вместе с ним. Его женой была Апфия, а его сыном был Архипп. В доме Филимона собиралась домашняя церковь. У Филимона был раб по имени Онисим. Письмо, которое Павел написал Филимону об Онисиме, носит название <span>Послание к Филимону.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philemon",
+          "type": "person",
+          "preferred_label": "Филимон",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193185,
+    "content_id": "193185",
     "reference_id": 108103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Филипп",
     "media_type": "Text",
     "index_reference": "филипп",
@@ -146,13 +260,50 @@
     "content": "<p>Один из семи лидеров церкви, избранных верующими в Иерусалиме на служение дьякона. Филипп <span>следил за тем, чтобы у всех верующих было достаточно еды.</span> Он проповедовал Евангелие многим людям в самых разных местах. Четыре дочери Филиппа имели пророческий дар. Его не следует путать с одним из Двенадцати учеников Иисуса, которого тоже звали Филиппом. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Филипп",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Филипп",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Филипп",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Филипп",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Филиппы",
+          "confidence": 0.9503,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193208,
+    "content_id": "193208",
     "reference_id": 108126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Филиппы",
     "media_type": "Text",
     "index_reference": "филиппы",
@@ -161,13 +312,57 @@
     "content": "<p>Греческий город, находившийся в римской провинции Македония, сегодня известной как Греция. Апостол Павел посетил Филиппы во время своего второго путешествия. Это был первый город в Европе, где Павел проповедовал Евангелие. Павел написал Послание к Филиппийцам и адресовал его верующим в этом городе. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Филиппы",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Филипп",
+          "confidence": 0.9503,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Филипп",
+          "confidence": 0.9503,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Филипп",
+          "confidence": 0.9503,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Филипп",
+          "confidence": 0.9503,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Philippi",
+          "type": "group",
+          "preferred_label": "Philippians",
+          "confidence": 0.8397,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193349,
+    "content_id": "193349",
     "reference_id": 108267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Филистимляне",
     "media_type": "Text",
     "index_reference": "филистимляне",
@@ -176,13 +371,36 @@
     "content": "<p>Народ, произошедший от Хама. Филистимляне жили на юге Ханаана вдоль побережья Средиземного моря. Хотя они сотрудничали с Авраамом, большую часть истории филистимляне были врагами Израиля и вели с ним постоянные войны.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Филистимлянин",
+          "confidence": 0.9417,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philistine",
+          "type": "person",
+          "preferred_label": "Филистимлянин",
+          "confidence": 0.9417,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Филистимской",
+          "confidence": 0.9177,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193485,
+    "content_id": "193485",
     "reference_id": 108403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Финеес",
     "media_type": "Text",
     "index_reference": "финеес",
@@ -191,13 +409,36 @@
     "content": "<p>Сын Елеазара и внук Аарона. Он убил израильтянина, который нарушил верность Богу, после чего Бог остановил поражение народа в Ваал-Фегоре. Бог заключил завет мира с Финеесом и его потомками.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Phinehas",
+          "type": "person",
+          "preferred_label": "Финеес",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Phinehas.2",
+          "type": "person",
+          "preferred_label": "Финеес",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Phinehas.3",
+          "type": "person",
+          "preferred_label": "Финеес",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193177,
+    "content_id": "193177",
     "reference_id": 108095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Фома",
     "media_type": "Text",
     "index_reference": "фома",
@@ -206,13 +447,64 @@
     "content": "<p>Фома был одним из Двенадцати учеников Иисуса Христа. Его вторым именем было <span>Дидим</span>, что в переводе означает <span>«близнец».</span> </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Фома",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tema",
+          "type": "person",
+          "preferred_label": "Фема",
+          "confidence": 0.9025,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tema",
+          "type": "place",
+          "preferred_label": "Фема",
+          "confidence": 0.9025,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Timna",
+          "type": "person",
+          "preferred_label": "Фамна",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Timna.2",
+          "type": "person",
+          "preferred_label": "Фамна",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Timna.3",
+          "type": "person",
+          "preferred_label": "Фамна",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Togarmah",
+          "type": "person",
+          "preferred_label": "Фогарма",
+          "confidence": 0.8198,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193205,
+    "content_id": "193205",
     "reference_id": 108123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Фригия",
     "media_type": "Text",
     "index_reference": "фригия",
@@ -221,7 +513,23 @@
     "content": "<p>Провинция Римской империи. Фригия находилась в Малой Асии рядом с провинцией Галатия.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Phrygia",
+          "type": "place",
+          "preferred_label": "Фригия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tiria",
+          "type": "person",
+          "preferred_label": "Фирия",
+          "confidence": 0.8718,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

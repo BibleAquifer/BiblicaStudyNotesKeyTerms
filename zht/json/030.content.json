@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232781,
+    "content_id": "232781",
     "reference_id": 108180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "非拉鐵非",
     "media_type": "Text",
     "index_reference": "非拉鐵非",
@@ -11,13 +11,14 @@
     "content": "<p>羅馬亞細亞領土中的一個重要城鎮。它是現今土耳其境內的<span>阿拉謝希爾（</span>Alaşehir<span>）</span>市。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232868,
+    "content_id": "232868",
     "reference_id": 108267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "非利士人",
     "media_type": "Text",
     "index_reference": "非利士人",
@@ -26,13 +27,14 @@
     "content": "<p>一個來自含家族的民族。他們住在迦南南部地中海沿岸。有時他們與亞伯拉罕的家族合作。大多數時候他們與以色列交戰。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233004,
+    "content_id": "233004",
     "reference_id": 108403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "非尼哈",
     "media_type": "Text",
     "index_reference": "非尼哈",
@@ -41,13 +43,14 @@
     "content": "<p>他是以利亞撒的兒子、亞倫的孫子。他殺了一個對神不忠的以色列人，當他這樣做時，神在巴力毗珥停止了瘟疫。神與非尼哈和他後代的兒子立了平安的約。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232727,
+    "content_id": "232727",
     "reference_id": 108126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "腓立比",
     "media_type": "Text",
     "index_reference": "腓立比",
@@ -56,13 +59,22 @@
     "content": "<p>羅馬馬其頓領土中的一個希臘城市，位於現在的希臘北部地區。保羅在他的第二次旅程中前往那裡。這是歐洲第一個分享耶穌福音的城市。保羅寫給腓立比人的信就是給那裡的教會。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Philippi",
+          "confidence": 0.8318,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232704,
+    "content_id": "232704",
     "reference_id": 108103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "腓利",
     "media_type": "Text",
     "index_reference": "腓利",
@@ -71,13 +83,14 @@
     "content": "<p>耶路撒冷的信徒選出成為執事的七位領袖之一。他確保所有信徒都有足夠的食物。他與耶穌的十二門徒之一的腓利是不同的人。他向許多人和地方傳播了關於耶穌的信息。他的四個女兒都是先知。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232765,
+    "content_id": "232765",
     "reference_id": 108164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "腓利門",
     "media_type": "Text",
     "index_reference": "腓利門",
@@ -86,7 +99,16 @@
     "content": "<p>在歌羅西一位富有的基督徒，他是保羅的朋友並與他一起工作。有人認為亞腓亞是腓利門的妻子，亞基布是他們的兒子。教會在他家中聚會。他擁有一個名叫<span>阿尼西謀</span>的奴隸。保羅寫給他關於<span>阿尼西謀</span>的信被稱為腓利門書。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philemon",
+          "type": "person",
+          "preferred_label": "Philemon",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

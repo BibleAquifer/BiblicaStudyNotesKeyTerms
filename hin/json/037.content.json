@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 183209,
+    "content_id": "183209",
     "reference_id": 108315,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लहू",
     "media_type": "Text",
     "index_reference": "लहू",
@@ -11,13 +11,14 @@
     "content": "<p>बाइबल में लहू शब्द के दो अर्थ हैं। पहला अर्थ है मनुष्यों और जानवरों के शरीर के अंदर लाल तरल पदार्थ। दूसरा अर्थ जीवन का प्रतीक है। जीवन परमेश्वर का उपहार है। लहू को महत्वपूर्ण माना जाता था क्योंकि यह दिखाता था कि एक जानवर या व्यक्ति जीवित था। लहू खोना मृत्यु की ओर ले जाने के रूप में समझा जाता था। इसलिए लहू के नुकसान से संबंधित किसी भी चीज़ को अशुद्ध माना जाता था। क्योंकि लहू महत्वपूर्ण था, इसे चीजों को पवित्र और शुद्ध बनाने के लिए उपयोग किया जाता था। किसी पर या किसी चीज़ पर बलिदानों के लहू का छिड़कना एक संकेत था। यह दिखाता था कि व्यक्ति या वस्तु को मृत्यु और पाप से शुद्ध किया गया था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183168,
+    "content_id": "183168",
     "reference_id": 108274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लाबान",
     "media_type": "Text",
     "index_reference": "लाबान",
@@ -26,13 +27,43 @@
     "content": "<p>मेसोपोटामिया से बतूएल का पुत्र और रिबका की भाई। वह राहेल और लिआ का पिता था। उसने याकूब को धोखा दिया और कई वर्षों तक उसका फायदा उठाया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Laban",
+          "type": "person",
+          "preferred_label": "लाबान",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Laban",
+          "type": "place",
+          "preferred_label": "लाबान",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Lebanon",
+          "type": "place",
+          "preferred_label": "लबानोन",
+          "confidence": 0.8791,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Lebonah",
+          "type": "place",
+          "preferred_label": "लबोना",
+          "confidence": 0.8107,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183214,
+    "content_id": "183214",
     "reference_id": 108320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लाल समुद्र",
     "media_type": "Text",
     "index_reference": "लाल समुद्र",
@@ -41,13 +72,22 @@
     "content": "<p>मिस्र की सीमा पर निर्गमन के समय एक बड़ा जलाशय।आज यह निश्चित रूप से ज्ञात नहीं है कि यह कौन सा जलाशय है। परमेश्वर ने जल को विभाजित कर दिया ताकि इस्राएल के लोग सूखी भूमि पर चल सकें। इस्राएलियों के दूसरी ओर पहुँचने के बाद, मिस्री पानी में डूब गए।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:RedSea",
+          "type": "place",
+          "preferred_label": "लाल समुद्र",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183169,
+    "content_id": "183169",
     "reference_id": 108275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लिआ",
     "media_type": "Text",
     "index_reference": "लिआ",
@@ -56,13 +96,22 @@
     "content": "<p>लाबान की सबसे बड़ी बेटी और याकूब की पहली पत्नी। राहेल उसकी बहन थी और जिल्पा उसकी दासी थी। वह रूबेन, शिमोन, लेवी, यहूदा, इस्साकार, जबूलून और दीना की माँ बनी।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "लिआ",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183010,
+    "content_id": "183010",
     "reference_id": 108116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लुस्त्रा",
     "media_type": "Text",
     "index_reference": "लुस्त्रा",
@@ -71,13 +120,22 @@
     "content": "<p>आसिया माइनर में गलातिया के रोमी क्षेत्र में एक शहर। पौलुस ने यीशु के बारे में सुसमाचार साझा करने के लिए अपनी तीन यात्राओं में इसका दौरा किया। पौलुस का मित्र तीमुथियुस जो उसके साथ काम करता था, लुस्त्रा से था। ऐसा माना जाता है कि गलातियों को लिखा पौलुस का पत्र वहां कलीसिया में पढ़ा गया था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Lystra",
+          "type": "place",
+          "preferred_label": "लुस्त्रा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 182972,
+    "content_id": "182972",
     "reference_id": 108078,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लूका",
     "media_type": "Text",
     "index_reference": "लूका",
@@ -86,13 +144,22 @@
     "content": "<p>लूका के सुसमाचार और प्रेरितों के काम की पुस्तक के लेखक। वह एक चिकित्सक था जो पौलुस के साथ यात्रा करता था और उसके साथ काम करता था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Luke",
+          "type": "person",
+          "preferred_label": "लूका",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183142,
+    "content_id": "183142",
     "reference_id": 108248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लूत",
     "media_type": "Text",
     "index_reference": "लूत",
@@ -101,13 +168,29 @@
     "content": "<p>तेरह का पोता और अब्राहम का भतीजा। वह अब्राहम और सारा के साथ कनान में रहने के लिए गया। उसने सदोम के पास यरदन नदी की घाटी में रहने का चयन किया। जब परमेश्वर ने सदोम और गमोरा<span>&nbsp;</span>को नष्ट किया, तब उसकी पत्नी की मृत्यु हो गई। मोआब और अम्मोनी<span>&nbsp;</span>लोग लूत के परिवार से थे।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "लूत",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Cuthah",
+          "type": "place",
+          "preferred_label": "कूत",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183237,
+    "content_id": "183237",
     "reference_id": 108343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लेवियों",
     "media_type": "Text",
     "index_reference": "लेवियों",
@@ -124,13 +207,43 @@
           "label": "याजक",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Levi",
+          "type": "group",
+          "preferred_label": "लेवी",
+          "confidence": 0.8638,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi",
+          "type": "person",
+          "preferred_label": "लेवी",
+          "confidence": 0.8638,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.2",
+          "type": "person",
+          "preferred_label": "लेवी",
+          "confidence": 0.8638,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.3",
+          "type": "person",
+          "preferred_label": "लेवी",
+          "confidence": 0.8638,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 183277,
+    "content_id": "183277",
     "reference_id": 108383,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लेवी",
     "media_type": "Text",
     "index_reference": "लेवी",
@@ -139,13 +252,43 @@
     "content": "<p>याकूब और लिया का पुत्र। इब्रानी भाषा में लेवी का अर्थ है जुड़ा हुआ। उसका परिवार एक इस्राएल का गोत्र बन गया। इस्राएल के सभी याजक लेवी के परिवार से आए।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Levi",
+          "type": "group",
+          "preferred_label": "लेवी",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi",
+          "type": "person",
+          "preferred_label": "लेवी",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.2",
+          "type": "person",
+          "preferred_label": "लेवी",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.3",
+          "type": "person",
+          "preferred_label": "लेवी",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183256,
+    "content_id": "183256",
     "reference_id": 108362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लैव्यव्यवस्था में कानून",
     "media_type": "Text",
     "index_reference": "लैव्यव्यवस्था में कानून",
@@ -154,13 +297,14 @@
     "content": "<p>इस्राएलियों को एक साथ कैसे रहना है, इसके लिए परमेश्वर ने मूसा और हारून को व्यवस्था दिए। उनमें से कई उन चीज़ों के बारे में सामान्य नियम थे जो उन दिनों में घटित हुई होंगी। उन्हें लोगों को यह जानने में मदद करनी थी कि परमेश्वर कौन है। व्यवस्था ने उन्हें रोजमर्रा के मामलों में बुद्धिमानी से निर्णय लेने में मदद की। परमेश्वर के लोगों को अपने सभी निर्णय इस आधार पर लेने थे कि परमेश्वर कौन है।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183056,
+    "content_id": "183056",
     "reference_id": 108162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "लौदीकिया",
     "media_type": "Text",
     "index_reference": "लौदीकिया",
@@ -169,7 +313,23 @@
     "content": "<p>आसिया माइनर के रोमी क्षेत्र में एक शहर जो अब तुर्की कहलाता है। यह कुलुस्से के पास था। इपफ्रास ने वहाँ यीशु के बारे में संदेश साझा किया और एक कलीसिया शुरू करने में मदद की। पौलुस ने लौदीकिया के कलीसिया को एक पत्र लिखा। लौदीकिया का कलीसिया प्रकाशितवाक्य में उल्लिखित सात कलीसिया में से एक है।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Laodicea",
+          "type": "place",
+          "preferred_label": "लौदीकिया",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Lydia",
+          "type": "person",
+          "preferred_label": "लुदिया",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203571,
+    "content_id": "203571",
     "reference_id": 108436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yael",
     "media_type": "Text",
     "index_reference": "yael",
@@ -11,13 +11,295 @@
     "content": "<p>Seorang perempuan dari kelompok orang Keni yang tinggal di antara bangsa Israel. Heber adalah suaminya. Ia berasal dari garis keturunan saudara ipar Musa yaitu Hobab. Ia membunuh seorang pemimpin tentara Kanaan yang bernama Sisera. Yael merupakan bagian penting dari lagu yang dinyanyikan Debora tentang kemenangan bangsa Israel dalam Hakim-hakim pasal 5.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jael",
+          "type": "person",
+          "preferred_label": "Yael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahleel",
+          "type": "person",
+          "preferred_label": "Yahleel",
+          "confidence": 0.8572,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.2",
+          "type": "person",
+          "preferred_label": "Yeiel",
+          "confidence": 0.854,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.3",
+          "type": "person",
+          "preferred_label": "Yeiel",
+          "confidence": 0.854,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.4",
+          "type": "person",
+          "preferred_label": "Yeiel",
+          "confidence": 0.854,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.5",
+          "type": "person",
+          "preferred_label": "Yeiel",
+          "confidence": 0.854,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.6",
+          "type": "person",
+          "preferred_label": "Yeiel",
+          "confidence": 0.854,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.7",
+          "type": "person",
+          "preferred_label": "Yeiel",
+          "confidence": 0.854,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.8",
+          "type": "person",
+          "preferred_label": "Yeiel",
+          "confidence": 0.854,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeuel",
+          "type": "person",
+          "preferred_label": "Yeiel",
+          "confidence": 0.854,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeuel.2",
+          "type": "person",
+          "preferred_label": "Yeiel",
+          "confidence": 0.854,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeuel.3",
+          "type": "person",
+          "preferred_label": "Yeiel",
+          "confidence": 0.854,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jalam",
+          "type": "person",
+          "preferred_label": "Yaelam",
+          "confidence": 0.8516,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehiel",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehiel.10",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehiel.2",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehiel.3",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehiel.4",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehiel.5",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehiel.6",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehiel.7",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehiel.8",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehiel.9",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehuel",
+          "type": "person",
+          "preferred_label": "Yehiel",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.10",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.11",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.12",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.13",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.14",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.2",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.3",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.4",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.5",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.6",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.7",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.8",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joel.9",
+          "type": "person",
+          "preferred_label": "Yoël",
+          "confidence": 0.8222,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaaziel",
+          "type": "person",
+          "preferred_label": "Yaaziel",
+          "confidence": 0.8216,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaalah",
+          "type": "person",
+          "preferred_label": "Yaala",
+          "confidence": 0.8185,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203375,
+    "content_id": "203375",
     "reference_id": 108240,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yafet",
     "media_type": "Text",
     "index_reference": "yafet",
@@ -26,13 +308,64 @@
     "content": "<p>Anak sulung Nuh. Ia dan istrinya diselamatkan dari air bah karena mereka berada di dalam bahtera. Ia memperlakukan ayahnya dengan hormat ketika Nuh mabuk setelah air bah. Nuh mengucapkan berkat atas keluarga Yafet.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Japheth",
+          "type": "person",
+          "preferred_label": "Yafet",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Japhlet",
+          "type": "person",
+          "preferred_label": "Yaflet",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Iphtah",
+          "type": "place",
+          "preferred_label": "Yiftah",
+          "confidence": 0.8398,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath",
+          "type": "person",
+          "preferred_label": "Yahat",
+          "confidence": 0.8005,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.2",
+          "type": "person",
+          "preferred_label": "Yahat",
+          "confidence": 0.8005,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.3",
+          "type": "person",
+          "preferred_label": "Yahat",
+          "confidence": 0.8005,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.4",
+          "type": "person",
+          "preferred_label": "Yahat",
+          "confidence": 0.8005,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203638,
+    "content_id": "203638",
     "reference_id": 108503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yahudi",
     "media_type": "Text",
     "index_reference": "yahudi",
@@ -56,13 +389,36 @@
           "label": "Ibrani",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 0.9272,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Judea",
+          "type": "group",
+          "preferred_label": "Judeans",
+          "confidence": 0.8423,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehudi",
+          "type": "person",
+          "preferred_label": "Yehudi",
+          "confidence": 0.8009,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203254,
+    "content_id": "203254",
     "reference_id": 108119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yakobus",
     "media_type": "Text",
     "index_reference": "yakobus",
@@ -71,13 +427,50 @@
     "content": "<p>Salah satu saudara Yesus. Pada awalnya ia tidak percaya bahwa Yesus adalah Mesias. Setelah Yesus dibangkitkan dari kematian, Ia menampakkan diri kepada Yakobus. Yakobus mempercayai Yesus dan menjadi pemimpin gereja di Yerusalem. Perjanjian Baru mencakup satu surat yang ditulisnya. Yakobus ini berbeda dengan Yakobus sang rasul.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "Yakub",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203403,
+    "content_id": "203403",
     "reference_id": 108268,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yakub",
     "media_type": "Text",
     "index_reference": "yakub",
@@ -94,13 +487,57 @@
           "label": "12 suku",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "Yakub",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaakobah",
+          "type": "person",
+          "preferred_label": "Yaakoba",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203414,
+    "content_id": "203414",
     "reference_id": 108279,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yakub bergumul",
     "media_type": "Text",
     "index_reference": "yakub bergumul",
@@ -109,13 +546,22 @@
     "content": "<p>Yakub bergumul dengan seorang pria yang memberkatinya dalam perjalanannya ke Kanaan. Ini terjadi tepat sebelum Yakub bertemu dengan Esau. Sebuah nubuatan dalam Hosea 12:4 menjelaskan bahwa pria itu dipahami sebagai seorang malaikat. Ia memberi nama Israel kepada Yakub. Yakub memahami bahwa ia sedang bergumul dengan Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "Yakub",
+          "confidence": 0.81,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203573,
+    "content_id": "203573",
     "reference_id": 108438,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yefta",
     "media_type": "Text",
     "index_reference": "yefta",
@@ -124,13 +570,29 @@
     "content": "<p>Salah satu dari 12 hakim Israel di Gilead. Diperkirakan bahwa ia berasal dari suku Manasye. Ia adalah anak dari seorang laki-laki bernama Gilead dan seorang pelacur. Setelah ia memperoleh kemenangan yang penting, ia mengorbankan anak perempuannya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jephthah",
+          "type": "person",
+          "preferred_label": "Yefta",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Iphtah",
+          "type": "place",
+          "preferred_label": "Yiftah",
+          "confidence": 0.8454,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203690,
+    "content_id": "203690",
     "reference_id": 108555,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehezkiel",
     "media_type": "Text",
     "index_reference": "yehezkiel",
@@ -139,13 +601,43 @@
     "content": "<p>Seorang imam yang menjadi nabi ketika Babel mengambil alih kerajaan bagian Selatan. Ia adalah anak dari Busi dan berasal dari suku Lewi. Ia berada dalam kelompok orang Yahudi yang dipaksa untuk hidup dalam pembuangan di Babel. Penglihatan dan nubuatannya dicatat dalam kitab Yehezkiel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezekiel",
+          "type": "person",
+          "preferred_label": "Yehezkiel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehezkel",
+          "type": "person",
+          "preferred_label": "Yehezkel",
+          "confidence": 0.9156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahzeel",
+          "type": "person",
+          "preferred_label": "Yahzeel",
+          "confidence": 0.8177,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehizkiah",
+          "type": "person",
+          "preferred_label": "Yehizkia",
+          "confidence": 0.8006,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203426,
+    "content_id": "203426",
     "reference_id": 108291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yehuda",
     "media_type": "Text",
     "index_reference": "yehuda",
@@ -154,13 +646,155 @@
     "content": "<p>Anak dari Yakub dan Lea. Dalam bahasa Ibrani namanya berarti pujian atau mengucap syukur. Yehuda tidur dengan menantunya Tamar. Itulah caranya menjadi ayah dari Peres dan Zerah. Berkat Yakub atasnya termasuk nubuatan bahwa raja-raja akan datang dari garis keturunannya. Baik Raja Daud dan Yesus Sang Mesias berasal dari garis keturunan Yehuda. Garis keturunan Yehuda menjadi suku yang terutama di Israel. Suku Yehuda menjadi suku yang terutama di kerajaan selatan. Kerajaan selatan dari bangsa Israel dikenal sebagai Yehuda. Ini berlanjut ketika pemerintah Babilonia mengambil ahli kerajaan selatan. Tanah itu juga dikenal sebagai Yehuda ketika pemerintahan Persia berkuasa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Yehuda",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehudijah",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Yehuda",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea.2",
+          "type": "place",
+          "preferred_label": "Judah",
+          "confidence": 0.9319,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jehud",
+          "type": "place",
+          "preferred_label": "Yehud",
+          "confidence": 0.8904,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehudi",
+          "type": "person",
+          "preferred_label": "Yehudi",
+          "confidence": 0.8652,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehdeiah",
+          "type": "person",
+          "preferred_label": "Yehdeya",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehdeiah.2",
+          "type": "person",
+          "preferred_label": "Yehdeya",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203642,
+    "content_id": "203642",
     "reference_id": 108507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yeremia",
     "media_type": "Text",
     "index_reference": "yeremia",
@@ -169,13 +803,71 @@
     "content": "<p>Seorang nabi di kerajaan selatan Yehuda. Ia adalah anak dari Hilkia. Ia adalah seorang imam di kota Anatot. Ia bernubuat dari zaman Yosia hingga setelah tentara Babilonia menghancurkan Yerusalem. Nubuat-nubuatannya dicatat dalam kitab Yeremia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeremiah",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.2",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.3",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.4",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.5",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.6",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.7",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.8",
+          "type": "person",
+          "preferred_label": "Yeremia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203559,
+    "content_id": "203559",
     "reference_id": 108424,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yerikho",
     "media_type": "Text",
     "index_reference": "yerikho",
@@ -184,13 +876,29 @@
     "content": "<p>Sebuah kota di sebelah barat Sungai Yordan dan sebelah timur Yerusalem. Kota ini juga disebut Kota Pohon Korma. Kota ini memiliki tanah yang subur dan air yang banyak. Allah menghancurkan kota ini ketika bangsa Israel berjalan mengelilinginya. Beberapa tahun kemudian, kota ini menjadi kota yang penting di Israel. Zakheus berasal dari Yerikho.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jericho",
+          "type": "place",
+          "preferred_label": "Yerikho",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:JerichoValley",
+          "type": "place",
+          "preferred_label": "Yerikho",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203611,
+    "content_id": "203611",
     "reference_id": 108476,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yeroboam",
     "media_type": "Text",
     "index_reference": "yeroboam",
@@ -199,13 +907,78 @@
     "content": "<p>Anak dari Nebat dan Zerua yang merupakan pejabat pada pemerintahan Salomo. Ia berasal dari suku Efraim. Ia menjadi raja pertama dari kerajaan Israel bagian utara. Allah berjanji untuk membuat pemerintahannya tetap aman jika Yerobeam melayani-Nya dengan setia. Tetapi Yerobeam melarang bangsa Israel untuk menyembah Allah dengan cara yang telah ditunjukkan oleh Allah. Yerobeam mengangkat orang-orang yang bukan dari suku Lewi untuk menjadi imam. Ia memimpin orang-orang untuk menyembah patung anak lembu emas. Tindakan-tindakan ini disebut dosa-dosa Yerobeam. Karena dosa-dosa ini garis keturunan Yerobeam dihancurkan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "Yerobeam",
+          "confidence": 0.9587,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "Yerobeam",
+          "confidence": 0.9587,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham",
+          "type": "person",
+          "preferred_label": "Yeroham",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.2",
+          "type": "person",
+          "preferred_label": "Yeroham",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.3",
+          "type": "person",
+          "preferred_label": "Yeroham",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.4",
+          "type": "person",
+          "preferred_label": "Yeroham",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.5",
+          "type": "person",
+          "preferred_label": "Yeroham",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.6",
+          "type": "person",
+          "preferred_label": "Yeroham",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.7",
+          "type": "person",
+          "preferred_label": "Yeroham",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203599,
+    "content_id": "203599",
     "reference_id": 108464,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yerusalem",
     "media_type": "Text",
     "index_reference": "yerusalem",
@@ -214,13 +987,22 @@
     "content": "<p>Ibu kota dari bangsa Israel ketika Daud dan Salomo menjadi raja. Kemudian itu menjadi ibu kota dari tanah Yehuda dan Yudea. Kota itu adalah kota Yebus di wilayah suku Benyamin. Daud menaklukkannya dan menjadikannya pusat pemerintahan dan praktik penyembahan dari Israel. Bait suci dibangun di puncak bukit di Yerusalem yang disebut Gunung Moria atau Gunung Sion. Sion menjadi sebuah cara untuk berbicara mengenai seluruh Yerusalem. Yerusalem juga disebut Kota Daud. Bangsa Babilonia menghancurkan Yerusalem pada tahun 586 SM. Orang Yahudi kemudian membangunnya kembali dan Yerusalem tetap menjadi pusat pemerintahan Yahudi dan untuk menyembah Allah. Itu adalah ibu kota dari bangsa Israel saat ini. Yerusalem berada di antara Laut Mediterania dan Sungai Yordan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalem",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203684,
+    "content_id": "203684",
     "reference_id": 108549,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yerusalem Baru",
     "media_type": "Text",
     "index_reference": "yerusalem baru",
@@ -229,13 +1011,22 @@
     "content": "<p>Kota yang dilihat Yohanes dalam penglihatan yang Allah tunjukkan kepadanya tentang masa depan. Penglihatan-penglihatan ini dicatat dalam kitab Wahyu. Di Yerusalem di Israel, Allah menyatakan kehadiran-Nya di Bait Allah. Di Yerusalem baru di masa depan, Allah akan sepenuhnya hadir di mana-mana. Dia akan tinggal bersama manusia untuk selama-lamanya. Tidak akan ada penderitaan, kematian, atau dosa di sana. Kehidupan akan menjadi seperti yang selalu Allah inginkan bagi ciptaan-Nya. Yerusalem yang baru disebut pengantin perempuan Anak Domba. Ini karena semua umat Allah tinggal di sana. Kota ini juga disebut kota Allah dan Yerusalem surgawi. Di Yerusalem yang baru, Allah akan memerintah sebagai Raja. Dia akan membagikan otoritas-Nya kepada para pengikut-Nya yang setia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Yerusalem",
+          "confidence": 0.8259,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203632,
+    "content_id": "203632",
     "reference_id": 108497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yesaya",
     "media_type": "Text",
     "index_reference": "yesaya",
@@ -244,13 +1035,64 @@
     "content": "<p>Seorang nabi di kerajaan Yehuda bagian selatan pada zaman Hizkia dan raja-raja lainnya. Dalam bahasa Ibrani namanya berarti Tuhan akan menyelamatkan atau Tuhan adalah keselamatan. Kisah-kisah mengenai dia ada dalam kitab 2 Raja-raja dan 2 Tawarikh. Nubuat-nubuatnya dicatat dalam kitab Yesaya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Yesaya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.2",
+          "type": "person",
+          "preferred_label": "Yesaya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.3",
+          "type": "person",
+          "preferred_label": "Yesaya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.4",
+          "type": "person",
+          "preferred_label": "Yesaya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.5",
+          "type": "person",
+          "preferred_label": "Yesaya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.6",
+          "type": "person",
+          "preferred_label": "Yesaya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaaziah",
+          "type": "person",
+          "preferred_label": "Yaazia",
+          "confidence": 0.8007,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203354,
+    "content_id": "203354",
     "reference_id": 108219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yesus",
     "media_type": "Text",
     "index_reference": "yesus",
@@ -259,13 +1101,78 @@
     "content": "<p>Anak Allah yang menjadi manusia. Ia adalah Juruselamat dunia. Yesus adalah Allah sama seperti Bapa adalah Allah dan Roh Kudus adalah Allah. Mereka adalah tiga pribadi dari satu-satunya Allah. Dalam bahasa Ibrani, Yesus berarti Tuhan yang menyelamatkan. Yesus hidup di bumi sekitar tahun 4 SM hingga sekitar tahun 30 M. Ia tinggal di tanah Israel pada saat pemerintahan Romawi berkuasa. Ketika Ia hidup di bumi, ibu Yesus adalah Maria. Ia mengandung Yesus meskipun ia belum berhubungan badan dengan siapapun. Roh Kudus membuat hal ini menjadi mungkin. Yusuf adalah ayah manusia yang membesarkan Yesus ketika Ia masih muda. Yesus berasal dari garis keturunan Abraham, Yehuda, dan Daud. Yesus tumbuh besar di Nazaret bersama saudara laki-laki dan perempuan-Nya. Ia dihukum mati di kayu salib. Kemudian Allah membangkitkan-Nya dari kematian. Ia meraih kemenangan atas dosa, kematian, dan semua roh-roh jahat. Ia adalah Mesias dan Raja yang dijanjikan Allah untuk diutus. Sekarang Yesus memerintah sebagai Raja di surga. Ia akan kembali ke bumi untuk memerintah sebagai Raja atas segala sesuatu yang diciptakan Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Yesus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.2",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.3",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.4",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.5",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.6",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.7",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jeshua",
+          "type": "place",
+          "preferred_label": "Yesua",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203461,
+    "content_id": "203461",
     "reference_id": 108326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yitro",
     "media_type": "Text",
     "index_reference": "yitro",
@@ -274,13 +1181,22 @@
     "content": "<p>Ayah mertua Musa dan seorang imam di Midian. Ia juga disebut Rehuel. Ia adalah bagian dari kelompok orang Kenit. Ia menyambut Musa ketika Musa melarikan diri dari Mesir. Putrinya Zipora menjadi istri Musa. Ia tinggal bersama bangsa Israel saat mereka melakukan perjalanan dari Gunung Sinai ke Kanaan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jethro",
+          "type": "person",
+          "preferred_label": "Yitro",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203598,
+    "content_id": "203598",
     "reference_id": 108463,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoab",
     "media_type": "Text",
     "index_reference": "yoab",
@@ -289,13 +1205,106 @@
     "content": "<p>Keponakan Daud yang merupakan pejuang perkasa. Ia menjadi komandan pasukan Israel di bawah pimpinan Daud. Ia setia kepada Daud selama bertahun-tahun. Namun ia melawan Daud dengan membunuh Abner dan Amasa. Ia juga melawan Daud dengan membunuh Absalom. Ia tidak mendukung Salomo sebagai raja setelah Daud. Karena hal-hal ini, Daud memerintahkan Salomo untuk membunuh Yoab.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joab",
+          "type": "person",
+          "preferred_label": "Yoab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joab.2",
+          "type": "person",
+          "preferred_label": "Yoab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joab.3",
+          "type": "person",
+          "preferred_label": "Yoab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joab.4",
+          "type": "person",
+          "preferred_label": "Yoab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab",
+          "type": "person",
+          "preferred_label": "Yobab",
+          "confidence": 0.9244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.2",
+          "type": "person",
+          "preferred_label": "Yobab",
+          "confidence": 0.9244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.3",
+          "type": "person",
+          "preferred_label": "Yobab",
+          "confidence": 0.9244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.4",
+          "type": "person",
+          "preferred_label": "Yobab",
+          "confidence": 0.9244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.5",
+          "type": "person",
+          "preferred_label": "Yobab",
+          "confidence": 0.9244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoiarib",
+          "type": "person",
+          "preferred_label": "Yoyarib",
+          "confidence": 0.8121,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiarib",
+          "type": "person",
+          "preferred_label": "Yoyarib",
+          "confidence": 0.8121,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiarib.2",
+          "type": "person",
+          "preferred_label": "Yoyarib",
+          "confidence": 0.8121,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiarib.3",
+          "type": "person",
+          "preferred_label": "Yoyarib",
+          "confidence": 0.8121,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203626,
+    "content_id": "203626",
     "reference_id": 108491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoas",
     "media_type": "Text",
     "index_reference": "yoas",
@@ -304,13 +1313,99 @@
     "content": "<p>Anak dari Ahazia dan Zibya. Ia adalah ayah dari Amazia dan berasal dari suku Yehuda. Ia adalah raja ketujuh dari kerajaan selatan. Neneknya, Atalya, mencoba untuk membunuhnya tetapi bibinya, Yoseba, menyelamatkannya. Yoas tumbuh di bait suci bersama dengan Yoyada. Ia menjadi raja ketika ia berusia tujuh tahun. Ia memastikan bahwa bait suci telah diperbaiki. Ia mengikuti Allah dengan setia dan memimpin orang-orang untuk menyembah hanya kepada Allah saja. Ia melakukan ini selama Yoyada masih hidup. Setelah Yoyada meninggal, Yoas melakukan hal-hal yang jahat dan menyembah berhala-berhala.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joash",
+          "type": "person",
+          "preferred_label": "Yoas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.2",
+          "type": "person",
+          "preferred_label": "Yoas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.3",
+          "type": "person",
+          "preferred_label": "Yoas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.4",
+          "type": "person",
+          "preferred_label": "Yoas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.5",
+          "type": "person",
+          "preferred_label": "Yoas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.6",
+          "type": "person",
+          "preferred_label": "Yoas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.7",
+          "type": "person",
+          "preferred_label": "Yoas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.8",
+          "type": "person",
+          "preferred_label": "Yoas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Heres",
+          "type": "place",
+          "preferred_label": "Yoas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Josiah",
+          "type": "person",
+          "preferred_label": "Yosia",
+          "confidence": 0.8444,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Josiah.2",
+          "type": "person",
+          "preferred_label": "Yosia",
+          "confidence": 0.8444,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshah",
+          "type": "person",
+          "preferred_label": "Yosa",
+          "confidence": 0.8318,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203677,
+    "content_id": "203677",
     "reference_id": 108542,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yohanes",
     "media_type": "Text",
     "index_reference": "yohanes",
@@ -319,13 +1414,169 @@
     "content": "<p>Penulis Injil Yohanes. Ia juga menulis kitab 1, 2, dan 3 Yohanes. Diperkirakan bahwa ia juga menulis kitab Wahyu. Yohanes adalah salah satu dari ke-12 murid Yesus dan salah satu dari tiga pengikut terdekat-Nya. Dalam Injil Yohanes ia disebut murid yang dikasihi Yesus. Saudaranya adalah Yakobus dan ayah mereka adalah Zebedeus. Yesus menyebut Yakobus dan Yohanes sebagai anak-anak guruh.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "Yohanes",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "Yohanes",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.3",
+          "type": "person",
+          "preferred_label": "Yohanes",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "Yohanes",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehohanan",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehohanan.2",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehohanan.3",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehohanan.4",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehohanan.5",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehohanan.6",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehohanan.7",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehohanan.8",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joanan",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Johanan.2",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Johanan.3",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Johanan.4",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Johanan.5",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Johanan.6",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Johanan.7",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Johanan.8",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Johanan.9",
+          "type": "person",
+          "preferred_label": "Yohanan",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joanna",
+          "type": "person",
+          "preferred_label": "Yohana",
+          "confidence": 0.8294,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203715,
+    "content_id": "203715",
     "reference_id": 108580,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yohanes Pembaptis",
     "media_type": "Text",
     "index_reference": "yohanes pembaptis",
@@ -342,13 +1593,14 @@
           "label": "Elia",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203592,
+    "content_id": "203592",
     "reference_id": 108457,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yonatan",
     "media_type": "Text",
     "index_reference": "yonatan",
@@ -357,13 +1609,113 @@
     "content": "<p>Anak dari Saul dan Ahinoam. Ia berasal dari suku Benyamin. Yonatan mendukung rencana Allah untuk menjadikan Daud raja ketimbang dirinya sendiri. Ia membuat perjanjian persahabatan dengan Daud. Karena persahabatan mereka, Daud memperlakukan anak Yonatan yaitu Mefiboset dengan baik.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jehonathan",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehonathan.2",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.10",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.11",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.12",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.13",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.2",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.3",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.4",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.5",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.6",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.7",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.8",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.9",
+          "type": "person",
+          "preferred_label": "Yonatan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203618,
+    "content_id": "203618",
     "reference_id": 108483,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yosafat",
     "media_type": "Text",
     "index_reference": "yosafat",
@@ -372,13 +1724,57 @@
     "content": "<p>Anak dari Asa dan Azuba. Ia adalah ayah dari Yoram dan berasal dari suku Yehuda. Ia adalah raja keempat dari kerajaan selatan Yehuda. Ia mengikuti Allah dengan setia dan memimpin orang-orang untuk menyembah hanya kepada Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jehoshaphat",
+          "type": "person",
+          "preferred_label": "Yosafat",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.2",
+          "type": "person",
+          "preferred_label": "Yosafat",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "Yosafat",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.4",
+          "type": "person",
+          "preferred_label": "Yosafat",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshaphat",
+          "type": "person",
+          "preferred_label": "Yosafat",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshaphat.2",
+          "type": "person",
+          "preferred_label": "Yosafat",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203524,
+    "content_id": "203524",
     "reference_id": 108389,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yosua",
     "media_type": "Text",
     "index_reference": "yosua",
@@ -387,13 +1783,134 @@
     "content": "<p>Seorang laki-laki yang terlahir sebagai budak Ibrani di Mesir. Ia membantu Musa memimpin umat Allah selama peristiwa keluaran. Ia adalah anak dari Nun dan berasal dari suku Efraim. Musa mengubah namanya dari Hosea menjadi Yosua. Ia adalah salah satu pengintai yang menjelajahi tanah Kanaan. Ia membawa pulang berita yang baik. Ia menjadi pemimpin bangsa Israel setelah Musa meninggal. Yosua memimpin bangsa Israel ke tanah yang telah dijanjikan Allah untuk diberikan kepada Abraham.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joshua",
+          "type": "person",
+          "preferred_label": "Yosua",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "Yosua",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.3",
+          "type": "person",
+          "preferred_label": "Yosua",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.4",
+          "type": "person",
+          "preferred_label": "Yosua",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "Yosua",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshah",
+          "type": "person",
+          "preferred_label": "Yosa",
+          "confidence": 0.8963,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshaviah",
+          "type": "person",
+          "preferred_label": "Yosawya",
+          "confidence": 0.8715,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Josiah",
+          "type": "person",
+          "preferred_label": "Yosia",
+          "confidence": 0.8585,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Josiah.2",
+          "type": "person",
+          "preferred_label": "Yosia",
+          "confidence": 0.8585,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.2",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.3",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.4",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.5",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.6",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.7",
+          "type": "person",
+          "preferred_label": "Yesua",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jeshua",
+          "type": "place",
+          "preferred_label": "Yesua",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203643,
+    "content_id": "203643",
     "reference_id": 108508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yosua dan Zerubabel",
     "media_type": "Text",
     "index_reference": "yosua dan zerubabel",
@@ -402,13 +1919,14 @@
     "content": "<p>Pemimpin Yahudi yang kembali ke Yehuda setelah pembuangan di Babel. Mereka memimpin umat Allah untuk membangun kembali bait suci di Yerusalem. Yosua merupakan anak dari Yozadak dan melayani sebagai imam besar di bait suci yang kedua. Ini adalah Yosua yang berbeda dengan Yosua yang memimpin bangsa Israel setelah Musa. Zerubabel melayani sebagai gubernur Yehuda sementara pemerintahan Persia berkuasa. Ia adalah anak Sealtiel dan berasal dari garis keturunan Daud. Yesus berasal dari garis keturunan Zerubabel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203627,
+    "content_id": "203627",
     "reference_id": 108492,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoyada",
     "media_type": "Text",
     "index_reference": "yoyada",
@@ -417,13 +1935,155 @@
     "content": "<p>Seorang imam yang penting ketika Atalya menjadi ratu dan kemudian ketika Yoas menjadi raja. Istrinya adalah Yoseba. Yoyada adalah ayah dari Zakharia dan paman dari Yoas. Ia mengajarkan Yoas untuk setia pada perjanjian di Gunung Sinai. Yoyada memimpin orang-orang Yerusalem untuk berhenti mengikuti Atalya dan membunuhnya. Kemudian ia memimpin mereka untuk mengangkat Yoas menjadi seorang raja dan untuk mengikuti perjanjian Allah. Ketika Yoyada meninggal, orang-orang menghormatinya dengan cara menguburkannya bersama raja-raja Yehuda. Kemudian Yoas membunuh anak Yoyada yaitu Zakharia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jehoiada",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoiada.2",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoiada.3",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoiada.4",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiada",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiada.2",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoaddah",
+          "type": "person",
+          "preferred_label": "Yoada",
+          "confidence": 0.9295,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah.2",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah.3",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah.4",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah.5",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah.6",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jada",
+          "type": "person",
+          "preferred_label": "Yada",
+          "confidence": 0.8123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joelah",
+          "type": "person",
+          "preferred_label": "Yoëla",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaddua",
+          "type": "person",
+          "preferred_label": "Yadua",
+          "confidence": 0.8029,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaddua.2",
+          "type": "person",
+          "preferred_label": "Yadua",
+          "confidence": 0.8029,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoaddan",
+          "type": "person",
+          "preferred_label": "Yoadan",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Josiah",
+          "type": "person",
+          "preferred_label": "Yosia",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Josiah.2",
+          "type": "person",
+          "preferred_label": "Yosia",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203229,
+    "content_id": "203229",
     "reference_id": 108094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yudas",
     "media_type": "Text",
     "index_reference": "yudas",
@@ -432,13 +2092,141 @@
     "content": "<p>Salah satu dari 12 murid Yesus. Ayahnya adalah Yakobus. Matius dan Markus memanggil murid ini Tadeus. Lukas dan Yohanes memanggilnya Yudas. Ia bukan Yudas yang menyerahkan Yesus untuk dibunuh.</p><p></p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea.2",
+          "type": "place",
+          "preferred_label": "Judah",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehudijah",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Judea",
+          "type": "group",
+          "preferred_label": "Judeans",
+          "confidence": 0.8122,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jehud",
+          "type": "place",
+          "preferred_label": "Yehud",
+          "confidence": 0.8067,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203303,
+    "content_id": "203303",
     "reference_id": 108168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yudas",
     "media_type": "Text",
     "index_reference": "yudas",
@@ -447,13 +2235,141 @@
     "content": "<p>Salah satu saudara Yesus. Pada mulanya ia tidak percaya bahwa Yesus adalah Mesias. Kemudian ia mempercayai Yesus dan menjadi pemimpin di antara gereja-gereja. Perjanjian Baru termasuk salah satu surat yang ia tulis.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "Yudas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea.2",
+          "type": "place",
+          "preferred_label": "Judah",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehudijah",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Yehuda",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Judea",
+          "type": "group",
+          "preferred_label": "Judeans",
+          "confidence": 0.8122,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jehud",
+          "type": "place",
+          "preferred_label": "Yehud",
+          "confidence": 0.8067,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203201,
+    "content_id": "203201",
     "reference_id": 108066,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yudas Iskariot",
     "media_type": "Text",
     "index_reference": "yudas iskariot",
@@ -462,13 +2378,14 @@
     "content": "<p>Salah satu dari ke-12 murid Yesus. Ia bertanggung jawab atas uang para murid tetapi ia mencurinya. Ia menyerahkan Yesus kepada para pemimpin Yahudi yang ingin membunuhnya. Kemudian ia membunuh dirinya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203170,
+    "content_id": "203170",
     "reference_id": 108035,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yudea",
     "media_type": "Text",
     "index_reference": "yudea",
@@ -477,13 +2394,127 @@
     "content": "<p>Daerah bagian selatan dari tanah yang dijanjikan Allah untuk diberikan kepada garis keturunan Abraham. Ini termasuk tanah yang disebut kerajaan Yehuda bagian selatan. Daerah itu disebut Yudea setelah beberapa dari umat Allah kembali dari pembuangan di Babilonia. Suku Yehuda tinggal di Yudea. Yerusalem menjadi kota yang paling penting di Yudea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jehoiada",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoiada.2",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoiada.3",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoiada.4",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiada",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiada.2",
+          "type": "person",
+          "preferred_label": "Yoyada",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea.2",
+          "type": "place",
+          "preferred_label": "Judah",
+          "confidence": 0.8463,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8188,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah.2",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8188,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah.3",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8188,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah.4",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8188,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah.5",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8188,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedaiah.6",
+          "type": "person",
+          "preferred_label": "Yedaya",
+          "confidence": 0.8188,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jedidah",
+          "type": "person",
+          "preferred_label": "Yedida",
+          "confidence": 0.8171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoaddah",
+          "type": "person",
+          "preferred_label": "Yoada",
+          "confidence": 0.8155,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Euodia",
+          "type": "person",
+          "preferred_label": "Euodia",
+          "confidence": 0.8093,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203329,
+    "content_id": "203329",
     "reference_id": 108194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yunani",
     "media_type": "Text",
     "index_reference": "yunani",
@@ -492,13 +2523,36 @@
     "content": "<p>Sebuah kerajaan yang sangat berkuasa pada tahun-tahun diantara Perjanjian Lama dan Perjanjian Baru. Para penguasa Yunani menguasai Israel dan Yerusalem selama beberapa waktu. Kemudian tentara Romawi mengambil alih tanah yang dikuasai oleh bangsa Yunani. Tetapi cara berpikir dan bertindak dari orang Yunani tetap bertahan bahkan selama pemerintahan Romawi. Bahasa Yunani digunakan oleh orang-orang di seluruh daerah Laut Mediterania / Laut Tengah. Perjanjian Baru ditulis dalam bahasa Yunani.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Javan",
+          "type": "person",
+          "preferred_label": "Yunani",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Greece",
+          "type": "place",
+          "preferred_label": "Yunani",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Greek",
+          "type": "group",
+          "preferred_label": "Greeks",
+          "confidence": 0.8511,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203708,
+    "content_id": "203708",
     "reference_id": 108573,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yunus",
     "media_type": "Text",
     "index_reference": "yunus",
@@ -507,13 +2561,22 @@
     "content": "<p>Seorang nabi dari kerajaan Israel bagian utara. Ia adalah anak Amitai. Ia bernubuat tentang perbatasan kerajaan utara. Nubuatan ini digenapi ketika Raja Yerobeam yang kedua memerintah. Kisah tentang Yunus dicatat dalam kitab Yunus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jonah.2",
+          "type": "person",
+          "preferred_label": "Yunus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203423,
+    "content_id": "203423",
     "reference_id": 108288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yusuf",
     "media_type": "Text",
     "index_reference": "yusuf",
@@ -522,13 +2585,99 @@
     "content": "<p>Anak sulung Yakub dan Rahel. Ia adalah anak kesayangan Yakub. Dalam bahasa Ibrani Yusuf berarti semoga ia ditambahkan. Rahel memberinya nama ini karena ia ingin memilik lebih banyak anak. Beberapa dari saudara laki-lakinya menjualnya ke Mesir sebagai budak. Ia kemudian menjadi penguasa di Mesir dan menyelamatkan banyak orang dari kelaparan. Istrinya adalah Asnat. Garis keturunan anak-anaknya, Manasye dan Efraim, menjadi suku-suku Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joseph.10",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.11",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.12",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.13",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.14",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.3",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.4",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.5",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.6",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.7",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.8",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.9",
+          "type": "person",
+          "preferred_label": "Yusuf",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203167,
+    "content_id": "203167",
     "reference_id": 108032,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yusuf dari Nazaret",
     "media_type": "Text",
     "index_reference": "yusuf dari nazaret",
@@ -537,7 +2686,8 @@
     "content": "<p>Suami Maria dari Nazaret. Ia berasal dari garis keturunan Daud dan melayani Allah dengan setia. Ia adalah seorang tukang kayu yang ahli bekerja dengan kayu, batu bata, dan besi. Ia bukan ayah Yesus tetapi mengangkat Yesus sebagai anaknya. Ia merawat Yesus dan melindungi-Nya saat Ia masih muda.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

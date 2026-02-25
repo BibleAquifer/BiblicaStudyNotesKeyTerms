@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132509,
+    "content_id": "132509",
     "reference_id": 108563,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gabriel",
     "media_type": "Text",
     "index_reference": "gabriel",
@@ -11,13 +11,22 @@
     "content": "<p>An angel who brought important messages to Zechariah, Mary and Joseph in the New Testament. He brought important messages to Daniel in the Old Testament.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Gabriel",
+          "type": "deity",
+          "preferred_label": "Gabriel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132354,
+    "content_id": "132354",
     "reference_id": 108408,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gad",
     "media_type": "Text",
     "index_reference": "gad",
@@ -26,13 +35,29 @@
     "content": "<p>The eldest son of Jacob and Zilpah. In the Hebrew language Gad means good fortune or group of soldiers. His family line became a tribe of Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gad.2",
+          "type": "person",
+          "preferred_label": "Gad",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "Gad",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132068,
+    "content_id": "132068",
     "reference_id": 108122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Galatia",
     "media_type": "Text",
     "index_reference": "galatia",
@@ -41,13 +66,22 @@
     "content": "<p>An area in the Roman territory of Asia Minor. It’s in the country now called Turkey. Paul visited several cities in Galatia and helped to start several churches there. His letter called Galatians was for those churches.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galatia",
+          "type": "place",
+          "preferred_label": "Galatia",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 131982,
+    "content_id": "131982",
     "reference_id": 108036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Galilee",
     "media_type": "Text",
     "index_reference": "galilee",
@@ -56,13 +90,22 @@
     "content": "<p>The northern area of the land God had promised to give Abraham’s family line. It included land that had been part of the northern kingdom of Israel. It was ruled by Herod Antipas in Jesus’ time. Jesus grew up in Galilee. The Sea of Galilee was a large lake in that area. The River Jordan flows south from it. Many stories from Jesus’ life happened in Galilee and around the Sea of Galilee.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Galilee",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132045,
+    "content_id": "132045",
     "reference_id": 108099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gamaliel",
     "media_type": "Text",
     "index_reference": "gamaliel",
@@ -71,13 +114,29 @@
     "content": "<p>A Pharisee and rabbi who was a wise and respected member of the Sanhedrin. The apostle Paul studied Jewish law with Gamaliel before following Jesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gamaliel.2",
+          "type": "person",
+          "preferred_label": "Gamaliel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Gamaliel",
+          "type": "person",
+          "preferred_label": "Gamaliel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132153,
+    "content_id": "132153",
     "reference_id": 108207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Garden of Eden",
     "media_type": "Text",
     "index_reference": "garden of eden",
@@ -86,13 +145,22 @@
     "content": "<p>The garden that God made when he created the world. The first human beings lived and worked there. Life in the Garden of Eden was how God wanted his world to be. God and humans lived together in peace. The garden was beautiful and had many kinds of plants and animals. The plants were healthy to eat and there was plenty of water. Humans didn’t need to protect themselves from anything in the garden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Eden.2",
+          "type": "place",
+          "preferred_label": "Garden of Eden",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132493,
+    "content_id": "132493",
     "reference_id": 108547,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gentile",
     "media_type": "Text",
     "index_reference": "gentile",
@@ -109,13 +177,22 @@
           "label": "Law of Moses",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "Gentiles",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132028,
+    "content_id": "132028",
     "reference_id": 108082,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gerasenes",
     "media_type": "Text",
     "index_reference": "gerasenes",
@@ -124,13 +201,22 @@
     "content": "<p>A community that lived along the eastern shore of the Sea of Galilee. They didn’t want Jesus to do miracles in their town. Mark and Luke called this community the Gerasenes. Matthew called them Gadarenes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Gerasa",
+          "type": "place",
+          "preferred_label": "Gerasa",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132383,
+    "content_id": "132383",
     "reference_id": 108437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gideon",
     "media_type": "Text",
     "index_reference": "gideon",
@@ -139,13 +225,22 @@
     "content": "<p>One of the 12 judges of Israel. He was from the tribe of Manasseh and his father was Joash. Gideon had many wives and sons. God used Gideon to free Israel from being treated badly by the Midianites. He was also called Jerub-Baal. In the Hebrew language this name means let Baal fight.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "Gideon",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132095,
+    "content_id": "132095",
     "reference_id": 108149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gifts of the Spirit",
     "media_type": "Text",
     "index_reference": "gifts of the spirit",
@@ -154,13 +249,14 @@
     "content": "<p>The Holy Spirit gives people the ability to do certain things well. These gifts aren’t something that people can hold in their hands. They are spiritual gifts. Some gifts are teaching, taking care of others and healing those who are ill. Followers of Jesus use their gifts to encourage and strengthen the church.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132387,
+    "content_id": "132387",
     "reference_id": 108441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gilead",
     "media_type": "Text",
     "index_reference": "gilead",
@@ -169,13 +265,43 @@
     "content": "<p>The hill country east of the River Jordan. Part of it belonged to the kingdom of Sihon. Another part belonged to the kingdom of Og. That was before the Israelites won the battles over Sihon and Og. It was named after Gilead who was from the family line of Manasseh. It had rich soil and was good for raising livestock. It wasn’t part of the land God had promised to give Abraham’s family line. But God allowed some tribes to lived there. These were the tribes of Reuben and Gad and half of the tribe of Manasseh.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gilead.2",
+          "type": "person",
+          "preferred_label": "Gilead",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Gilead.3",
+          "type": "person",
+          "preferred_label": "Gilead",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Gilead",
+          "type": "person",
+          "preferred_label": "Gilead",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Gilead",
+          "type": "place",
+          "preferred_label": "Gilead",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132368,
+    "content_id": "132368",
     "reference_id": 108422,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gilgal",
     "media_type": "Text",
     "index_reference": "gilgal",
@@ -184,13 +310,29 @@
     "content": "<p>A Canaanite city west of the River Jordan near Jericho. It became an important place for Israelite leaders, kings and prophets. The stones collected from the River Jordan were set up there. This reminded the Israelites how God had led them into Canaan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Gilgal.4",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Galilee",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132294,
+    "content_id": "132294",
     "reference_id": 108348,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Glory",
     "media_type": "Text",
     "index_reference": "glory",
@@ -199,13 +341,29 @@
     "content": "<p>The wonderful beauty, majesty, goodness and presence of God. It’s a way of talking about who God is and how pure and holy he is. Only the Creator has this glory. He chooses to share it with those he has created. Created beings show God’s glory when they carry out his plans for his creation.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Glory",
+          "type": "keyterm",
+          "preferred_label": "Glory",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Glorious",
+          "type": "keyterm",
+          "preferred_label": "Glorious",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132282,
+    "content_id": "132282",
     "reference_id": 108336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Go-between",
     "media_type": "Text",
     "index_reference": "go-between",
@@ -214,13 +372,14 @@
     "content": "<p>Someone who helps people or groups talk with one another and come to an agreement. This is also called a mediator. Moses did this between the people of Israel and God at Mount Sinai. The people couldn’t come close to God. They were afraid of him. Being close to God’s holiness would have harmed them. So Moses told the people what God wanted to say to them. Then he told God what the people wanted to say to God. In this way he helped them establish the Mount Sinai covenant. Later, Jesus became the mediator between God and all human beings. Because human beings commit sin, they are unable to live in peace with God. Jesus is fully a human being and fully God. Jesus dealt with the problem of sin when he died on the cross. So humans can now be forgiven for sin and live in peace with God. In this way Jesus is the go-between of the new covenant.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132145,
+    "content_id": "132145",
     "reference_id": 108199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God",
     "media_type": "Text",
     "index_reference": "god",
@@ -244,13 +403,22 @@
           "label": "Lord - Ruler",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132175,
+    "content_id": "132175",
     "reference_id": 108229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God chooses",
     "media_type": "Text",
     "index_reference": "god chooses",
@@ -259,13 +427,14 @@
     "content": "<p>God is free to do anything he wants to do. The stories in the Bible describe some choices that God made. Choosing to make a covenant with Abraham and his family line is one example. The stories don’t fully explain why God made those choices. They do make it clear that God is good and can be trusted. He makes choices based on his knowledge and his love. Human beings don’t understand all of God’s choices. But they can trust that God is loving, wise and good.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132446,
+    "content_id": "132446",
     "reference_id": 108500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s anger",
     "media_type": "Text",
     "index_reference": "god’s anger",
@@ -274,13 +443,14 @@
     "content": "<p>The Bible describes God as angry at sin and evil. He shows his anger by bringing judgement against those who refuse to stop doing evil. He brings judgement against those who refuse to repent and turn away from sin. Writers in the Bible described God’s anger like a winepress. In a winepress, grapes are crushed to make wine. Writers in the Bible also described God’s anger like a cup of wine. Those who refused to stop sinning and doing evil deeds had to drink it. These were pictures of God’s judgement. They were pictures of how God stops those who do evil and punishes them. People who believe in Jesus are set free from the power of sin and evil. Because of this, they are saved from God’s anger against sin and evil. In Revelation, God’s anger and the Lamb’s anger are the same thing.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 131991,
+    "content_id": "131991",
     "reference_id": 108045,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s family",
     "media_type": "Text",
     "index_reference": "god’s family",
@@ -289,13 +459,14 @@
     "content": "<p>The relationship that God wants with all human beings. God’s family is different from human families. In the times and places of the Bible, families were usually led by older men. Families included older women, younger men and women and children. Slaves were also part of the household. The men had authority over women and children. Slave owners had authority over slaves. This system is what the nations and people groups of that time were based on. The gospels, Paul’s letters and Peter’s letters explained what God’s family is like. People who follow Jesus all belong to the family of God. God adopts them as his children. Each family member is loved and accepted by God. So they must treat one another with respect and love. <span>Some believers have authority over others. They must use it to bless and serve others. Some believers do not have authority over others. They should do everything they do as if they are serving Jesus.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132248,
+    "content_id": "132248",
     "reference_id": 108302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s people",
     "media_type": "Text",
     "index_reference": "god’s people",
@@ -312,13 +483,22 @@
           "label": "Israel",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Israel",
+          "type": "group",
+          "preferred_label": "Israelites",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132490,
+    "content_id": "132490",
     "reference_id": 108544,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s servant",
     "media_type": "Text",
     "index_reference": "god’s servant",
@@ -327,13 +507,14 @@
     "content": "<p>A servant that God promised to send to help God’s people. The book of Isaiah includes several prophecies about this servant. God chose this servant to share God’s teaching with his people. God set this servant apart to lead his people with justice. He would suffer as he served. The servant is sometimes described as the people of Israel. He is sometimes described as a prophet or someone else who helped God’s people. Other times the servant is described as a saviour who would come in the future. In Acts chapter 3, Peter showed how the servant described in Isaiah was also the Jewish Messiah. Peter then showed how Jesus is this Servant and Messiah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132361,
+    "content_id": "132361",
     "reference_id": 108415,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s tool",
     "media_type": "Text",
     "index_reference": "god’s tool",
@@ -342,13 +523,14 @@
     "content": "<p>Throughout the Bible God uses people, groups and nations as his tool to bring judgement. Through them he brings judgement against people, groups or nations that do evil things. This is part of how he stops evil and brings back peace. God decides when to bring judgement and how to do it. Those that God uses as a tool aren’t better than those being judged. Every person, group and nation is responsible for serving and obeying God. They will all be judged for the evil things they do.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132146,
+    "content_id": "132146",
     "reference_id": 108200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God’s word",
     "media_type": "Text",
     "index_reference": "god’s word",
@@ -365,13 +547,22 @@
           "label": "Bible",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "Word of the Lord",
+          "confidence": 0.8513,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132128,
+    "content_id": "132128",
     "reference_id": 108182,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Golden altar",
     "media_type": "Text",
     "index_reference": "golden altar",
@@ -388,13 +579,14 @@
           "label": "Altar",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 131989,
+    "content_id": "131989",
     "reference_id": 108043,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Good news",
     "media_type": "Text",
     "index_reference": "good news",
@@ -411,13 +603,22 @@
           "label": "Gospel",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GoodNews",
+          "type": "keyterm",
+          "preferred_label": "Good News",
+          "confidence": 0.9692,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132006,
+    "content_id": "132006",
     "reference_id": 108060,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Good works",
     "media_type": "Text",
     "index_reference": "good works",
@@ -426,13 +627,14 @@
     "content": "<p>Things that people do that please God. Believers don’t do good works in order to earn God’s love and grace. They do them because of God’s love and grace in their lives. The Holy Spirit gives believers the strength to do good works. When people follow Jesus’ example of thinking, speaking and acting, they are doing good works. Good works include taking care of God’s creation and serving others. Good works bring blessing to others and praise to God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132243,
+    "content_id": "132243",
     "reference_id": 108297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Goshen",
     "media_type": "Text",
     "index_reference": "goshen",
@@ -441,13 +643,29 @@
     "content": "<p>The area of Egypt where Jacob’s family lived and worked as shepherds. It’s thought to be in the northeast of Egypt near Canaan and the River Nile.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Goshen.2",
+          "type": "place",
+          "preferred_label": "Goshen",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Goshen",
+          "type": "place",
+          "preferred_label": "Goshen",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 131977,
+    "content_id": "131977",
     "reference_id": 108031,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gospel",
     "media_type": "Text",
     "index_reference": "gospel",
@@ -464,13 +682,14 @@
           "label": "Good news",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132181,
+    "content_id": "132181",
     "reference_id": 108235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Grace",
     "media_type": "Text",
     "index_reference": "grace",
@@ -479,13 +698,14 @@
     "content": "<p>God’s deep love for his creatures and his desire to do good to them. He offers his love because he wants good things for everything he created. God’s love and grace aren’t earned. God gives them freely.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132297,
+    "content_id": "132297",
     "reference_id": 108351,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Grain offerings",
     "media_type": "Text",
     "index_reference": "grain offerings",
@@ -494,13 +714,14 @@
     "content": "<p>Sacrifices or offerings of breads and flour that people chose to make. They were offered together with oil, incense, salt and sometimes wine. The priests ate part of the grain offerings. The rest was burnt.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132140,
+    "content_id": "132140",
     "reference_id": 108194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Greece",
     "media_type": "Text",
     "index_reference": "greece",
@@ -509,13 +730,22 @@
     "content": "<p>A kingdom that was very powerful in the years between the Old and New Testaments. Greek rulers controlled Israel and Jerusalem for a time. Then Roman armies took control of the lands ruled by the Greeks. But Greek ways of thinking and acting lasted even during Roman rule. The Greek language was spoken by people in areas all around the Mediterranean Sea. The New Testament was written in Greek.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Greece",
+          "type": "place",
+          "preferred_label": "Greece",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132131,
+    "content_id": "132131",
     "reference_id": 108185,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Groups of sevens",
     "media_type": "Text",
     "index_reference": "groups of sevens",
@@ -524,13 +754,14 @@
     "content": "<p>In John’s visions, he saw God’s judgement happen in groups of seven things. There were seven seals, seven trumpets and seven bowls. At the end of each group there was lightning, thunder and an earthquake. In the Bible, seven is the number for things being complete.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132300,
+    "content_id": "132300",
     "reference_id": 108354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Guilt offerings",
     "media_type": "Text",
     "index_reference": "guilt offerings",
@@ -539,7 +770,8 @@
     "content": "<p>Sacrifices or offerings for when people were unfaithful to God and sinned without meaning to. They were also for when people sinned against others. God required people to make these sacrifices. When people realised what they had done wrong, they had to stop. They had to turn back to God and trust him to forgive them. They would show this by making a guilt offering. Sacrificing a ram was a way to pay for the sin the person had done. Then the guilty person had to return what they had taken. They also had to pay back extra to the person they had harmed. The priests burnt part of the guilt offering. Other parts they ate inside the courtyard of the holy tent or temple.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

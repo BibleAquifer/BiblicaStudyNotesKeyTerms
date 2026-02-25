@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 134001,
+    "content_id": "134001",
     "reference_id": 108199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الله",
     "media_type": "Text",
     "index_reference": "الله",
@@ -26,13 +26,22 @@
           "label": "الرب - الملك",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gibeath-elohim",
+          "type": "place",
+          "preferred_label": "ٱللهِ",
+          "confidence": 0.922,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 134076,
+    "content_id": "134076",
     "reference_id": 108274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لابان",
     "media_type": "Text",
     "index_reference": "لابان",
@@ -41,13 +50,43 @@
     "content": "<p>ابن بتوئيل وأخو رفقة من بلاد ما بين النهرين. كان والد راحيل وليئة. خدع يعقوب واستغله لسنوات عديدة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Laban",
+          "type": "person",
+          "preferred_label": "لَابَان",
+          "confidence": 0.8461,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Laban",
+          "type": "place",
+          "preferred_label": "لَابَان",
+          "confidence": 0.8461,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Lebanon",
+          "type": "place",
+          "preferred_label": "لبْنَانَ",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:LebanonMount",
+          "type": "place",
+          "preferred_label": "لبْنَانَ",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133964,
+    "content_id": "133964",
     "reference_id": 108162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لاودِكِيَّة",
     "media_type": "Text",
     "index_reference": "لاودِكِيَّة",
@@ -56,13 +95,29 @@
     "content": "<p>مدينة في الأراضي الرومانية في آسيا الصغرى في ما يسمى الآن تركيا. كانت قريبة من كولوسي. شارك أبفراس الرسالة عن يسوع هناك وساعد في تأسيس كنيسة. كتب بولس رسالة إلى كنيسة لاودكية. الكنيسة في لاودكية هي إحدى الكنائس السبع المذكورة في سفر الرؤيا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Laodicea",
+          "type": "place",
+          "preferred_label": "لَاودِكِيَّةَ",
+          "confidence": 0.8692,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Lydia",
+          "type": "person",
+          "preferred_label": "لِيدِيَّة",
+          "confidence": 0.8439,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134185,
+    "content_id": "134185",
     "reference_id": 108383,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لاَوِي",
     "media_type": "Text",
     "index_reference": "لاَوِي",
@@ -71,13 +126,14 @@
     "content": "<p>ابن يعقوب وليئة. في اللغة العبرية لاوي تعني مقترن. أصبح نسله سبط من أسباط بني إسرائيل. جميع الكهنة في إسرائيل جاءوا من نسل لآوي.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134145,
+    "content_id": "134145",
     "reference_id": 108343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لاَوِيُّين",
     "media_type": "Text",
     "index_reference": "لاَوِيُّين",
@@ -94,13 +150,14 @@
           "label": "كاهن",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133918,
+    "content_id": "133918",
     "reference_id": 108116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لِسْتَرَة",
     "media_type": "Text",
     "index_reference": "لِسْتَرَة",
@@ -109,13 +166,64 @@
     "content": "<p>مدينة في إقليم غلاطية الروماني في آسيا الصغرى. زارها بولس في ثلاث من رحلاته لمشاركة الأخبار السارة عن يسوع. كان صديق بولس تيموثاوس الذي عمل معه من ليسترا. يُعتقد أن رسالة بولس إلى أهل غلاطية كانت تُقرأ في هذه الكنيسة أيضًا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lydia",
+          "type": "person",
+          "preferred_label": "لِيدِيَّة",
+          "confidence": 0.8286,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Happizzez",
+          "type": "person",
+          "preferred_label": "لِحِيزِيرَ",
+          "confidence": 0.8209,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Lazarus",
+          "type": "person",
+          "preferred_label": "لِعَازَر",
+          "confidence": 0.8143,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Lazarus.2",
+          "type": "person",
+          "preferred_label": "لِعَازَر",
+          "confidence": 0.8143,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Helek",
+          "type": "person",
+          "preferred_label": "لِحَالَقَ",
+          "confidence": 0.8136,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Lystra",
+          "type": "place",
+          "preferred_label": "لِسْتِرَةَ",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bidkar",
+          "type": "person",
+          "preferred_label": "لِبِدْقَرَ",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134182,
+    "content_id": "134182",
     "reference_id": 108380,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لعنات العهد",
     "media_type": "Text",
     "index_reference": "لعنات العهد",
@@ -124,13 +232,14 @@
     "content": "<p>أشياء رهيبة تقع عندما لا يكون الناس أمناء للعهد. في العهود مع الله، كان عدم الأمانة يعني عدم العيش بحسب طرق الله. هذا أوقف بركات العهد وأدى إلى معاناة الناس بطرق عديدة. عادة ما كانت المعاناة تتعلق بفقدان الأرض التي أعطاهم الله إياها. كان لها علاقة بموت  أولادهم. وكان له علاقة بمُفارقة حضور الله لهم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134141,
+    "content_id": "134141",
     "reference_id": 108339,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لوحيّ الشريعة",
     "media_type": "Text",
     "index_reference": "لوحيّ الشريعة",
@@ -139,13 +248,14 @@
     "content": "<p>قطع من الحجر نحتها موسى من الصخر. كتب الله عليها كلمات الوصايا العشر وشريعة العهد. كانت هذه الألواح هي النسخة المكتوبة لاتفاقية العهد بين الله وبني إسرائيل. كسر موسى المجموعة الأولى من الألواح. كسرها عندما عبد بنو إسرائيل تمثال العجل الذهبي. فيما بعد كتب الله بنود العهد على لوحين جديدين. وقد حُفظ هذان اللوحان داخل تابوت العهد.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134050,
+    "content_id": "134050",
     "reference_id": 108248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لوط",
     "media_type": "Text",
     "index_reference": "لوط",
@@ -154,13 +264,29 @@
     "content": "<p>حفيد تارح وابن أخي إبراهيم. ذهب مع إبراهيم وسارة عندما سافرا للعيش في كنعان. اختار العيش في وادي نهر الأردن بالقرب من سدوم. ماتت زوجته في الوقت الذي دمر الله فيه سدوم وعمورة. كان الموآبيون والعمونيون من نسل لوط.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "لوطًا",
+          "confidence": 0.8169,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Lotan",
+          "type": "person",
+          "preferred_label": "لوطَان",
+          "confidence": 0.8048,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133880,
+    "content_id": "133880",
     "reference_id": 108078,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "لوقا",
     "media_type": "Text",
     "index_reference": "لوقا",
@@ -169,13 +295,22 @@
     "content": "<p>كاتب إنجيل لوقا وسفر أعمال الرسل. كان طبيباً سافر مع بولس وعمل معه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Luke",
+          "type": "person",
+          "preferred_label": "لوقَا",
+          "confidence": 0.9191,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134077,
+    "content_id": "134077",
     "reference_id": 108275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ليئة",
     "media_type": "Text",
     "index_reference": "ليئة",
@@ -184,7 +319,8 @@
     "content": "<p>الابنة الكبرى للابان وأول زوجة ليعقوب. كانت راحيل أختها وزلفة خادمتها. أصبحت أُمًا لرأوبين وشمعون ولاوي ويهوذا ويساكر وزبولون ودينة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

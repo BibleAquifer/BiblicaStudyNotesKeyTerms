@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 193287,
+    "content_id": "193287",
     "reference_id": 108205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ева",
     "media_type": "Text",
     "index_reference": "ева",
@@ -11,13 +11,22 @@
     "content": "<p>Второй сотворённый Богом человек и первая женщина. Бог создал Еву из ребра Адама, и Адам стал её мужем. В переводе с древнееврейского языка имя Ева означает «дающая жизни». Пока она жила в Едемском саду, Ева пребывала в мире и общении с Богом. Она помогала Адаму в заботе о саде. Ева была матерью Каина, Авеля и Сифа. После грехопадения Адам и Ева были изгнаны из Едемского сада. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eve",
+          "type": "person",
+          "preferred_label": "Ева",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193113,
+    "content_id": "193113",
     "reference_id": 108031,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Евангелие",
     "media_type": "Text",
     "index_reference": "евангелие",
@@ -34,13 +43,14 @@
           "label": "Благая Весть",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193661,
+    "content_id": "193661",
     "reference_id": 108579,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Евангелие процветания",
     "media_type": "Text",
     "index_reference": "евангелие процветания",
@@ -49,13 +59,14 @@
     "content": "<p>Учение, противоречащее Благой Вести об Иисусе. В его основе лежит мысль о том, что Бог спасает людей от всех проблем и страданий, существующих на земле. <span>Оно учит, что Бог дарует богатство всем, кто верит в Иисуса.</span> У таких людей всегда будет избыток всего, что им нужно. Евангелие процветания также учит, что верующие никогда не столкнутся с болезнью. Бог пошлёт им все блага ещё при их жизни на земле. Однако Благая Весть об Иисусе не учит этому. Иисус спасает людей от власти греха и смерти. Спасение начинается ещё при жизни человека на земле. И оно завершится, когда Иисус вернётся на землю и будет править над Своим новым творением как Царь. Жизнь Иисуса является примером для всех Его учеников. Иисус учит нас, как служить другим людям и как переносить страдания.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193509,
+    "content_id": "193509",
     "reference_id": 108427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Евеи",
     "media_type": "Text",
     "index_reference": "евеи",
@@ -64,13 +75,14 @@
     "content": "<p>Один из народов Ханаана. Евеи были потомками Ханаана, сына Хама. <span>Бог повелел израильтянам изгнать евеев из Ханаана в качестве Божьего суда над ними. Евеи, жившие в Гаваоне, обманным путём заставили Иисуса Навина заключить с ними мирный договор. </span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193614,
+    "content_id": "193614",
     "reference_id": 108532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Еврей",
     "media_type": "Text",
     "index_reference": "еврей",
@@ -94,13 +106,14 @@
           "label": "Иудей",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193333,
+    "content_id": "193333",
     "reference_id": 108251,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Египет",
     "media_type": "Text",
     "index_reference": "египет",
@@ -109,13 +122,29 @@
     "content": "<p>Могущественное государство в Северной Африке. На протяжении многих лет израильтяне были рабами в Египте, но были освобождены от рабства вовремя Исхода. Египетских царей называли фараонами. Иногда в Библии говорится, что египтяне причиняли вред Божьему народу, но иногда и помогали ему.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Egypt",
+          "type": "person",
+          "preferred_label": "Египет",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Египет",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193289,
+    "content_id": "193289",
     "reference_id": 108207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Едемский сад",
     "media_type": "Text",
     "index_reference": "едемский сад",
@@ -124,13 +153,14 @@
     "content": "<p><span>Сад, который создал Бог после того, как сотворил землю. Первые люди, Адам и Ева, жили в Едеме и возделывали его. Жизнь в Едемском саду была прекрасной, именно такой, какой Бог её задумал для всей земли. Творец и созданные Им люди жили в единстве и мире. Едемский сад был великолепным, в нём было множество растений и животных. Все плоды можно было есть, и в саду было много воды. Люди жили в Едеме в абсолютной безопасности.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193493,
+    "content_id": "193493",
     "reference_id": 108411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Едом",
     "media_type": "Text",
     "index_reference": "едом",
@@ -139,13 +169,22 @@
     "content": "<p>Земля на юге-востоке от Иудеи, где жил Исав и его потомки. Самого Исава так же называли Едом. Его потомки стали сильным народом, называемым едомляне. Израильтяне и едомляне враждовали на протяжении всей своей истории.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Едом",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193595,
+    "content_id": "193595",
     "reference_id": 108513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ездра",
     "media_type": "Text",
     "index_reference": "ездра",
@@ -154,13 +193,36 @@
     "content": "<p>Священник, который вернулся с группой израильтян в Иерусалим из Вавилонского плена. Ездра был сыном Сераии из рода Аарона из колена Левия. Он был учителем закона и учил евреев в Иерусалиме Закону Моисея после многолетнего плена в Вавилоне. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezra",
+          "type": "person",
+          "preferred_label": "Ездра",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ezra.2",
+          "type": "person",
+          "preferred_label": "Ездра",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ezrah",
+          "type": "person",
+          "preferred_label": "Езра",
+          "confidence": 0.8037,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193578,
+    "content_id": "193578",
     "reference_id": 108496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Езекия",
     "media_type": "Text",
     "index_reference": "езекия",
@@ -169,13 +231,71 @@
     "content": "<p>Сын Ахаза и Авии. Он был отцом Манассии и происходил из колена Иуды. Езекия был двенадцатым царём Южного Царства (Иудеи). Во время его правления Бог чудесным образом спас Иерусалим от армии ассирийцев. Езекия был верен Богу во всём и направлял народ к поклонению только Богу.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Езекия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.2",
+          "type": "person",
+          "preferred_label": "Езекия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.3",
+          "type": "person",
+          "preferred_label": "Езекия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.4",
+          "type": "person",
+          "preferred_label": "Езекия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hizkiah",
+          "type": "person",
+          "preferred_label": "Езекия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehizkiah",
+          "type": "person",
+          "preferred_label": "Езекия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jekamiah",
+          "type": "person",
+          "preferred_label": "Иезекия",
+          "confidence": 0.9399,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jekamiah.2",
+          "type": "person",
+          "preferred_label": "Иезекия",
+          "confidence": 0.9399,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193439,
+    "content_id": "193439",
     "reference_id": 108357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Елеазар",
     "media_type": "Text",
     "index_reference": "елеазар",
@@ -184,13 +304,148 @@
     "content": "<p>Сын Аарона и Елисаветы из колена Левия. Его братьями были Надав, Авиуд и Ифамар. Он был отцом Финееса и стал главным служителем среди левитов. Он помогал Моисею вести израильский народ по пустыне. Впоследствии он помогал Иисусу Навину ввести израильский народ в Ханаан. После смерти Аарона Елеазар стал первосвященником.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eleazar",
+          "type": "person",
+          "preferred_label": "Елеазар",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.2",
+          "type": "person",
+          "preferred_label": "Елеазар",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.3",
+          "type": "person",
+          "preferred_label": "Елеазар",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.4",
+          "type": "person",
+          "preferred_label": "Елеазар",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.5",
+          "type": "person",
+          "preferred_label": "Елеазар",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.6",
+          "type": "person",
+          "preferred_label": "Елеазар",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.7",
+          "type": "person",
+          "preferred_label": "Елеазар",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.8",
+          "type": "person",
+          "preferred_label": "Елеазар",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.10",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.11",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.2",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.3",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.4",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.5",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.6",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.7",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.8",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.9",
+          "type": "person",
+          "preferred_label": "Елиезер",
+          "confidence": 0.8782,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193145,
+    "content_id": "193145",
     "reference_id": 108063,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Елеонская гора",
     "media_type": "Text",
     "index_reference": "елеонская гора",
@@ -199,13 +454,14 @@
     "content": "<p>Возвышенность, имеющая три вершины. Елеонская гора находится напротив восточной стены Иерусалима. Между ней и Иерусалимом пролегает долина Кедрон. На Елеонской горе рос оливковый сад, куда часто ходил молиться Иисус. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193163,
+    "content_id": "193163",
     "reference_id": 108081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Елисавета",
     "media_type": "Text",
     "index_reference": "елисавета",
@@ -214,13 +470,29 @@
     "content": "<p>Мать Иоанна Крестителя. Елисавета принадлежала колену Левия из рода Аарона. Захария был её мужем, а Мария из Назарета была её родственницей. Когда Елисавета была уже очень стара, Бог дал ей возможность родить сына. Елисавета при встрече с Марией поняла, что Мария родит Мессию.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisheba",
+          "type": "person",
+          "preferred_label": "Елисавета",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elizabeth",
+          "type": "person",
+          "preferred_label": "Елисавета",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193569,
+    "content_id": "193569",
     "reference_id": 108487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Елисей",
     "media_type": "Text",
     "index_reference": "елисей",
@@ -229,13 +501,141 @@
     "content": "<p>Пророк Северного Царства (Израиль) во время правления царей от Ахава до Иоаса. Он был слугой пророка Илии. Он обличал идолопоклонство израильских царей. Елисей наставлял многих других пророков. Через него Бог совершил много чудес.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Елисей",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishah",
+          "type": "person",
+          "preferred_label": "Елиса",
+          "confidence": 0.9316,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishua",
+          "type": "person",
+          "preferred_label": "Елисуа",
+          "confidence": 0.8797,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "Елия",
+          "confidence": 0.8563,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.2",
+          "type": "person",
+          "preferred_label": "Елия",
+          "confidence": 0.8563,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.3",
+          "type": "person",
+          "preferred_label": "Елия",
+          "confidence": 0.8563,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.4",
+          "type": "person",
+          "preferred_label": "Елия",
+          "confidence": 0.8563,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elasah",
+          "type": "person",
+          "preferred_label": "Елеаса",
+          "confidence": 0.8424,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elasah.2",
+          "type": "person",
+          "preferred_label": "Елеаса",
+          "confidence": 0.8424,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleasah",
+          "type": "person",
+          "preferred_label": "Елеаса",
+          "confidence": 0.8424,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleasah.2",
+          "type": "person",
+          "preferred_label": "Елеаса",
+          "confidence": 0.8424,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Izliah",
+          "type": "person",
+          "preferred_label": "Излия",
+          "confidence": 0.8413,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama",
+          "type": "person",
+          "preferred_label": "Елисама",
+          "confidence": 0.806,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.2",
+          "type": "person",
+          "preferred_label": "Елисама",
+          "confidence": 0.806,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.3",
+          "type": "person",
+          "preferred_label": "Елисама",
+          "confidence": 0.806,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.4",
+          "type": "person",
+          "preferred_label": "Елисама",
+          "confidence": 0.806,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.5",
+          "type": "person",
+          "preferred_label": "Елисама",
+          "confidence": 0.806,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishama.6",
+          "type": "person",
+          "preferred_label": "Елисама",
+          "confidence": 0.806,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193620,
+    "content_id": "193620",
     "reference_id": 108538,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Еммануил",
     "media_type": "Text",
     "index_reference": "еммануил",
@@ -244,13 +644,22 @@
     "content": "<p>В переводе с древнееврейского языка имя Еммануил <span>означает</span> <span>«с нами Бог»</span>. В период правления царя Ахаза пророк Исаия говорил о Младенце, которому будет дано имя Еммануил. Он будет знамением того, что Бог не покинул Свой народ в Иудее и что Он пошлёт ему избавление. Бог обещал, что Южное Царство будет спасено от вражеских армий, нападавших на него. Пророчество Исаии также имело отношение к будущим временам. Об этом писал Матфей в своём Евангелии. Через Иисуса Бог явился Своему народу в человеческом теле. Иисус — это Еммануил, Который спасает Божий народ от таких врагов, как грех и смерть.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hanamel",
+          "type": "person",
+          "preferred_label": "Анамеил",
+          "confidence": 0.835,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193310,
+    "content_id": "193310",
     "reference_id": 108228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Енох",
     "media_type": "Text",
     "index_reference": "енох",
@@ -259,13 +668,43 @@
     "content": "<p>Енох был сыном Иареда из рода Сифа и отцом Мафусала. Енох был верен Богу. Он не умер и не был похоронен, как другие люди, а был взят Богом с земли.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Enoch",
+          "type": "person",
+          "preferred_label": "Енох",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Enoch.2",
+          "type": "person",
+          "preferred_label": "Енох",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Aenon",
+          "type": "place",
+          "preferred_label": "Енон",
+          "confidence": 0.8283,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Anak",
+          "type": "person",
+          "preferred_label": "Енак",
+          "confidence": 0.8142,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193241,
+    "content_id": "193241",
     "reference_id": 108159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Епафрас",
     "media_type": "Text",
     "index_reference": "епафрас",
@@ -274,13 +713,22 @@
     "content": "<p>Христианин греческого происхождения из города Колоссы, который трудился вместе с Павлом. Он рассказывал об Иисусе в Колоссах, Лаодикии и Иераполе, также помогал в основании церквей в этих городах. В течение некоторого времени он находился в тюрьме вместе с Павлом.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphras",
+          "type": "person",
+          "preferred_label": "Епафрас",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193240,
+    "content_id": "193240",
     "reference_id": 108158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Епафродит",
     "media_type": "Text",
     "index_reference": "епафродит",
@@ -289,13 +737,22 @@
     "content": "<p>Христианин греческого происхождения из города Филиппы, который трудился вместе с Павлом. Когда Павел был в тюрьме, Епафродит принёс ему дары и деньги от верующих из города Филиппы. По возвращении он доставил письмо Павла к верующим в этом городе (ныне известное как Послание к Филиппийцам).</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphroditus",
+          "type": "person",
+          "preferred_label": "Епафродит",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193600,
+    "content_id": "193600",
     "reference_id": 108518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Есфирь",
     "media_type": "Text",
     "index_reference": "есфирь",
@@ -304,13 +761,22 @@
     "content": "<p>Еврейская девушка, проживающая в Персии во время правления царя Ксеркса. Её еврейское имя — Гадасса, а персидское имя — Есфирь. Она была дочерью Аваихаила и принадлежала колену Вениаминову. Двоюродный брат Есфири Мардохей усыновил её после смерти родителей. Царь Ксеркс выбрал её царицей, потому что она была красива и понравилась ему. Есфирь задумала смелый и мудрый план, чтобы спасти евреев от уничтожения.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esther",
+          "type": "person",
+          "preferred_label": "Есфирь",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193217,
+    "content_id": "193217",
     "reference_id": 108135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ефес",
     "media_type": "Text",
     "index_reference": "ефес",
@@ -319,13 +785,85 @@
     "content": "<p>Столица римской провинции Асия. <span>Поклонение богине Артемиде было основным культом Ефеса. </span>Павел посещал этот город во время своего второго и третьего путешествий. Он жил в Ефесе на протяжении двух лет, помогая церкви.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "Ефес",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephah",
+          "type": "person",
+          "preferred_label": "Ефа",
+          "confidence": 0.8292,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephah.2",
+          "type": "person",
+          "preferred_label": "Ефа",
+          "confidence": 0.8292,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephah.3",
+          "type": "person",
+          "preferred_label": "Ефа",
+          "confidence": 0.8292,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephah",
+          "type": "place",
+          "preferred_label": "Ефа",
+          "confidence": 0.8292,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Epher",
+          "type": "person",
+          "preferred_label": "Ефер",
+          "confidence": 0.8162,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Epher.2",
+          "type": "person",
+          "preferred_label": "Ефер",
+          "confidence": 0.8162,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Epher.3",
+          "type": "person",
+          "preferred_label": "Ефер",
+          "confidence": 0.8162,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ether",
+          "type": "place",
+          "preferred_label": "Ефер",
+          "confidence": 0.8162,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Ephesus",
+          "type": "group",
+          "preferred_label": "Ephesians",
+          "confidence": 0.8025,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193186,
+    "content_id": "193186",
     "reference_id": 108104,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ефиоплянин, вельможа царицы",
     "media_type": "Text",
     "index_reference": "ефиоплянин, вельможа царицы",
@@ -334,13 +872,14 @@
     "content": "<p>Высокопоставленный правительственный чиновник в Эфиопии, государстве на территории Африки. Этот человек распоряжался деньгами царицы. Неизвестно, был ли он евреем, однако он поклонялся Богу Израиля и стал последователем Иисуса. Считается, что он был первым верующим, который начал делиться Благой Вестью об Иисусе на территории Африки.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193380,
+    "content_id": "193380",
     "reference_id": 108298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ефрем",
     "media_type": "Text",
     "index_reference": "ефрем",
@@ -349,7 +888,135 @@
     "content": "<p>Второй сын Иосифа и Асенефы. В переводе с древнееврейского языка имя Ефрем означает «двойной плод». Иаков усыновил Ефрема и дал ему своё отцовское благословение, сделав его первородным, хотя он не был старшим сыном. Род Ефрема стал коленом Израиля. Это было самое важное колено в Северном Царстве (Израиль). Столица Северного Царства находилась в наделе колена Ефрема. Иногда в Библии Северное Царство также называется Царством Ефрема.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Ephraim",
+          "type": "group",
+          "preferred_label": "Ефрем",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephraim",
+          "type": "person",
+          "preferred_label": "Ефрем",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim",
+          "type": "place",
+          "preferred_label": "Ефрем",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ithream",
+          "type": "person",
+          "preferred_label": "Ифреам",
+          "confidence": 0.8846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim.2",
+          "type": "place",
+          "preferred_label": "Ephraim",
+          "confidence": 0.8805,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Etham",
+          "type": "place",
+          "preferred_label": "Ефам",
+          "confidence": 0.8459,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephrathah",
+          "type": "person",
+          "preferred_label": "Ефрафа",
+          "confidence": 0.8286,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremoth",
+          "type": "person",
+          "preferred_label": "Иремоф",
+          "confidence": 0.8256,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremoth.2",
+          "type": "person",
+          "preferred_label": "Иремоф",
+          "confidence": 0.8256,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremoth.3",
+          "type": "person",
+          "preferred_label": "Иремоф",
+          "confidence": 0.8256,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremoth.4",
+          "type": "person",
+          "preferred_label": "Иремоф",
+          "confidence": 0.8256,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremoth.5",
+          "type": "person",
+          "preferred_label": "Иремоф",
+          "confidence": 0.8256,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hamath",
+          "type": "place",
+          "preferred_label": "Емаф",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Epher",
+          "type": "person",
+          "preferred_label": "Ефер",
+          "confidence": 0.8107,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Epher.2",
+          "type": "person",
+          "preferred_label": "Ефер",
+          "confidence": 0.8107,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Epher.3",
+          "type": "person",
+          "preferred_label": "Ефер",
+          "confidence": 0.8107,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ether",
+          "type": "place",
+          "preferred_label": "Ефер",
+          "confidence": 0.8107,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephron.2",
+          "type": "person",
+          "preferred_label": "Ефрон",
+          "confidence": 0.8102,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

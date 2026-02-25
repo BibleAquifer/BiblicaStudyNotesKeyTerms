@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132357,
+    "content_id": "132357",
     "reference_id": 108411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Edom",
     "media_type": "Text",
     "index_reference": "edom",
@@ -11,13 +11,29 @@
     "content": "<p>The land south and east of Judah where Esau’s family line lived. Esau was also called Edom. His children became a strong nation called Edom. The Edomites and the Israelites didn’t live in peace with one another.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esau",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Edom",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132197,
+    "content_id": "132197",
     "reference_id": 108251,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Egypt",
     "media_type": "Text",
     "index_reference": "egypt",
@@ -26,13 +42,29 @@
     "content": "<p>A powerful kingdom in northern Africa. The Israelites were slaves there for many years. They were freed from slavery in Egypt in the exodus. The kings of Egypt were called Pharaohs. In the Bible, Egyptians sometimes harmed God’s people and other times helped them.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Egypt",
+          "type": "person",
+          "preferred_label": "Egypt",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Egypt",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132378,
+    "content_id": "132378",
     "reference_id": 108432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ehud",
     "media_type": "Text",
     "index_reference": "ehud",
@@ -41,13 +73,29 @@
     "content": "<p>One of the 12 judges of Israel. He was from the tribe of Benjamin and was left-handed. He used this fact as part of his plan to kill the king of Moab.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ehud.2",
+          "type": "person",
+          "preferred_label": "Ehud",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ehud",
+          "type": "person",
+          "preferred_label": "Ehud",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132253,
+    "content_id": "132253",
     "reference_id": 108307,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elders",
     "media_type": "Text",
     "index_reference": "elders",
@@ -56,13 +104,22 @@
     "content": "<p>Jewish male leaders who were respected and had authority among the Israelites. They made important decisions for God’s people. They were also called the elders of the people or elders of the community. They passed down Jewish teachings, stories and laws through the years. They were to keep order and help the Israelites obey God’s laws. In the New Testament, a certain group of elders was called the Sanhedrin or Jewish Council. Most of them opposed Jesus and his teaching.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:GenericElders",
+          "type": "group",
+          "preferred_label": "Elders",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132216,
+    "content_id": "132216",
     "reference_id": 108270,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eldest son rights",
     "media_type": "Text",
     "index_reference": "eldest son rights",
@@ -71,13 +128,14 @@
     "content": "<p>The authority and share of the family’s property given to the eldest son. This happened when the father of a family died. The eldest son received two times more property than the other sons. He had authority over the rest of the family like the father had. He was responsible for being the leader of the family.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132303,
+    "content_id": "132303",
     "reference_id": 108357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eleazar",
     "media_type": "Text",
     "index_reference": "eleazar",
@@ -86,13 +144,71 @@
     "content": "<p>A son of Aaron and Elisheba from the tribe of Levi. His brothers were Nadab, Abihu and Ithamar. He was the father of Phinehas and became the chief leader of the Levites. He became the high priest after Aaron died. He helped Moses lead the people of Israel in the desert. He helped Joshua lead the people of Israel in Canaan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eleazar.2",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Eleazar.3",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Eleazar.4",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Eleazar.5",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Eleazar.6",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Eleazar.7",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Eleazar.8",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Eleazar",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132397,
+    "content_id": "132397",
     "reference_id": 108451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eli",
     "media_type": "Text",
     "index_reference": "eli",
@@ -101,13 +217,29 @@
     "content": "<p>The high priest when Samuel was young during the time of the 12 judges. He served while the holy tent was in Shiloh. Eli was the father of Hophni and Phinehas. He didn’t stop his sons from doing evil things. Because of this, Eli’s family line didn’t continue to serve as high priests.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eli",
+          "type": "person",
+          "preferred_label": "Eli",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132432,
+    "content_id": "132432",
     "reference_id": 108486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elijah",
     "media_type": "Text",
     "index_reference": "elijah",
@@ -116,13 +248,43 @@
     "content": "<p>A prophet in the northern kingdom of Israel when Ahab and Ahaziah ruled. He was from the land of Gilead. He was known to wear clothes made from hair and a leather belt. His words and actions challenged the authority of rulers in Israel who worshipped false gods. He taught many other prophets. He gave his authority to Elisha to be a prophet after him. Elijah was like Moses in many ways. God performed miracles through him and appeared to him on Mount Horeb. Elijah didn’t die but was taken up to heaven in a strong wind. No one ever found his body.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elijah.2",
+          "type": "person",
+          "preferred_label": "Elijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Elijah.3",
+          "type": "person",
+          "preferred_label": "Elijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Elijah.4",
+          "type": "person",
+          "preferred_label": "Elijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "Elijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132433,
+    "content_id": "132433",
     "reference_id": 108487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elisha",
     "media_type": "Text",
     "index_reference": "elisha",
@@ -131,13 +293,22 @@
     "content": "<p>A prophet in the northern kingdom of Israel from Ahab’s rule to Jehoash’s rule. He was Elijah’s servant. His words and actions challenged the authority of rulers in Israel who worshipped false gods. He taught many other prophets. God performed many miracles through Elisha.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Elisha",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132027,
+    "content_id": "132027",
     "reference_id": 108081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elizabeth",
     "media_type": "Text",
     "index_reference": "elizabeth",
@@ -146,13 +317,22 @@
     "content": "<p>The mother of John the Baptist. She was from the tribe of Levi and from Aaron’s family line. Zechariah was her husband and Mary of Nazareth was her relative. When Elizabeth was very old, God made it possible for her to have a son. Elizabeth recognised that Mary was pregnant with the Messiah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elizabeth",
+          "type": "person",
+          "preferred_label": "Elizabeth",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132174,
+    "content_id": "132174",
     "reference_id": 108228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Enoch",
     "media_type": "Text",
     "index_reference": "enoch",
@@ -161,13 +341,29 @@
     "content": "<p>The son of Jared in Seth’s family line and the father of Methuselah. He was faithful to God. He didn’t die and wasn’t buried like other people. God took him from the earth.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Enoch.2",
+          "type": "person",
+          "preferred_label": "Enoch",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Enoch",
+          "type": "person",
+          "preferred_label": "Enoch",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132105,
+    "content_id": "132105",
     "reference_id": 108159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Epaphras",
     "media_type": "Text",
     "index_reference": "epaphras",
@@ -176,13 +372,22 @@
     "content": "<p>A Greek believer from Colossae who worked with Paul. He shared the message about Jesus in Colossae, Laodicea and Hierapolis. He helped start churches in those cities. He was in prison with Paul for a time.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphras",
+          "type": "person",
+          "preferred_label": "Epaphras",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132104,
+    "content_id": "132104",
     "reference_id": 108158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Epaphroditus",
     "media_type": "Text",
     "index_reference": "epaphroditus",
@@ -191,13 +396,22 @@
     "content": "<p>A Greek believer from Philippi who worked with Paul. When Paul was in prison, Epaphroditus brought him gifts and money from the Philippian believers. He carried Paul’s letter to the Philippians when he returned to Philippi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphroditus",
+          "type": "person",
+          "preferred_label": "Epaphroditus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132081,
+    "content_id": "132081",
     "reference_id": 108135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ephesus",
     "media_type": "Text",
     "index_reference": "ephesus",
@@ -206,13 +420,22 @@
     "content": "<p>The capital city of the Roman territory of Asia. Worshipping the goddess Artemis was the main religion in Ephesus. Paul visited the city on his second and third journeys. He stayed there helping the church for two years.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "Ephesus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132244,
+    "content_id": "132244",
     "reference_id": 108298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ephraim",
     "media_type": "Text",
     "index_reference": "ephraim",
@@ -221,13 +444,36 @@
     "content": "<p>The second son of Joseph and Asenath. In the Hebrew language, Ephraim means double fruit. Jacob adopted him as one of his own sons. Jacob gave him the father’s blessing even though he wasn’t the eldest son. Ephraim’s family line became a tribe of Israel. They were an important tribe of the northern kingdom of Israel. The capital of the northern kingdom was in Ephraim’s land. The northern kingdom is sometimes called Ephraim in the Bible.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ephraim",
+          "type": "person",
+          "preferred_label": "Ephraim",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Ephraim.2",
+          "type": "place",
+          "preferred_label": "Ephraim",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Ephraim",
+          "type": "place",
+          "preferred_label": "Ephraim",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132078,
+    "content_id": "132078",
     "reference_id": 108132,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Epicureans",
     "media_type": "Text",
     "index_reference": "epicureans",
@@ -236,13 +482,22 @@
     "content": "<p>A group of thinkers who followed the teachings of the Greek thinker Epicurus. They believed that the goal of life was to have complete peace. They could have complete peace when they had everything they really needed. Then they wouldn’t worry about anything. They also believed that there was no life after death. Paul shared the good news about Jesus with Epicureans in Athens.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Epicurean",
+          "type": "group",
+          "preferred_label": "Epicureans",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132215,
+    "content_id": "132215",
     "reference_id": 108269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esau",
     "media_type": "Text",
     "index_reference": "esau",
@@ -251,13 +506,22 @@
     "content": "<p>The eldest son of Isaac and Rebekah and a grandson of Abraham. He was Jacob’s twin brother and was also called Edom. The Edomites were from Esau’s family line.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esau",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132464,
+    "content_id": "132464",
     "reference_id": 108518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esther",
     "media_type": "Text",
     "index_reference": "esther",
@@ -266,13 +530,22 @@
     "content": "<p>A Jew who lived in the Persian kingdom during the time of Xerxes. Hadassah was her Jewish name and Esther was her Persian name. She was the daughter of Abihail and was from the tribe of Benjamin. Her cousin Mordecai adopted her when her parents died. Xerxes chose her to be queen because she was beautiful and pleased him. Esther made a brave and wise plan to help save the Jews from being destroyed.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esther",
+          "type": "person",
+          "preferred_label": "Esther",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132513,
+    "content_id": "132513",
     "reference_id": 108567,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eternal God",
     "media_type": "Text",
     "index_reference": "eternal god",
@@ -281,13 +554,22 @@
     "content": "<p>A way to talk about God as always existing for ever. It’s the name of God used in a vision Daniel had. Many years later John had a vision about Jesus. Jesus looked to John like how the Eternal God had looked to Daniel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132515,
+    "content_id": "132515",
     "reference_id": 108569,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eternal life",
     "media_type": "Text",
     "index_reference": "eternal life",
@@ -296,13 +578,14 @@
     "content": "<p>Life that can’t be destroyed by sin or death. It will last for ever. Jesus was the first human being to have eternal life. It’s the life he had when God raised him from the dead. Jesus gives it to all who believe in him and follow him. They will have eternal life in the new creation. It’s a life of peace and friendship with God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132050,
+    "content_id": "132050",
     "reference_id": 108104,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ethiopian official",
     "media_type": "Text",
     "index_reference": "ethiopian official",
@@ -311,13 +594,14 @@
     "content": "<p>An important government official in the region of Ethiopia in Africa. He managed the queen’s money. It isn’t known if he was a Jew. He worshipped the God of Israel and became a follower of Jesus. It’s thought that he was the first believer to share the good news about Jesus in Africa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132151,
+    "content_id": "132151",
     "reference_id": 108205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eve",
     "media_type": "Text",
     "index_reference": "eve",
@@ -326,13 +610,22 @@
     "content": "<p>The second human being God created and the first female. Adam was her husband. In the Hebrew language the name Eve means life giver. God made Eve from one of Adam’s ribs. She had friendship and peace with God while she lived in the Garden of Eden. She worked together with Adam to take care of the garden. She was the mother of Cain, Abel and Seth. When Adam and Eve stopped obeying God, they had to leave the Garden of Eden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eve",
+          "type": "person",
+          "preferred_label": "Eve",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132164,
+    "content_id": "132164",
     "reference_id": 108218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Evil spiritual beings",
     "media_type": "Text",
     "index_reference": "evil spiritual beings",
@@ -349,13 +642,14 @@
           "label": "Devil",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132441,
+    "content_id": "132441",
     "reference_id": 108495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Exile",
     "media_type": "Text",
     "index_reference": "exile",
@@ -364,13 +658,14 @@
     "content": "<p>When people are forced to leave their homes and land and live somewhere else. This was a covenant curse from the Mount Sinai covenant. Many Israelites from the northern kingdom were exiled in Assyria. They never returned to the land of Israel. Many Israelites from the southern kingdom were exiled in Babylonia. Some of them returned to the land of Judah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132262,
+    "content_id": "132262",
     "reference_id": 108316,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Exodus",
     "media_type": "Text",
     "index_reference": "exodus",
@@ -379,13 +674,14 @@
     "content": "<p>When God used Moses to rescue the Israelites from slavery in Egypt. In the Greek language the word exodus means to exit or to leave. The exodus was the time when God showed himself to be the Saviour of Israel. He did mighty works and brought judgement against Pharaoh, Egypt and Egypt’s false gods. The exodus is a picture of the salvation that God offers to all human beings. The death of the lambs is a picture of Jesus’s death many years later. Jesus was sacrificed as the Lamb of God. The blood of the lambs was put on the doors to save the Israelites. This is a picture of how Jesus’ blood saves those who believe in him. The Israelites were freed from slavery. This is a picture of how God frees those who trust in him. He frees them from slavery to the power of sin, death and evil.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132096,
+    "content_id": "132096",
     "reference_id": 108150,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Explain other languages",
     "media_type": "Text",
     "index_reference": "explain other languages",
@@ -402,13 +698,14 @@
           "label": "Speak other languages",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132501,
+    "content_id": "132501",
     "reference_id": 108555,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezekiel",
     "media_type": "Text",
     "index_reference": "ezekiel",
@@ -417,13 +714,22 @@
     "content": "<p>A priest who became a prophet when Babylon took control of the southern kingdom. He was the son of Buzi and was from the tribe of Levi. He was in the group of Jews forced to live in exile in Babylon. His visions and prophecies are recorded in the book of Ezekiel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezekiel",
+          "type": "person",
+          "preferred_label": "Ezekiel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132459,
+    "content_id": "132459",
     "reference_id": 108513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezra",
     "media_type": "Text",
     "index_reference": "ezra",
@@ -432,7 +738,23 @@
     "content": "<p>A priest who led a group of Jews to return to Jerusalem from Babylon. He was also a teacher of the law. He was the son of Seraiah. He was from Aaron’s family line in the tribe of Levi. Ezra taught the Jews in Jerusalem the Law of Moses. This was after they had lived in Babylon for many years.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezra.2",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ezra",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   }
 ]

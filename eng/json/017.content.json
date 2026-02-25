@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132002,
+    "content_id": "132002",
     "reference_id": 108056,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Parables",
     "media_type": "Text",
     "index_reference": "parables",
@@ -11,13 +11,22 @@
     "content": "<p>Stories that Jesus told to help people understand God’s ways and God’s kingdom. The stories used events, places and actions from people’s real lives. They usually had one main point.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Parable",
+          "type": "keyterm",
+          "preferred_label": "Parable",
+          "confidence": 0.8512,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132263,
+    "content_id": "132263",
     "reference_id": 108317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Passover Feast",
     "media_type": "Text",
     "index_reference": "passover feast",
@@ -26,13 +35,22 @@
     "content": "<p>The time when Jews celebrate how God saved them from being slaves in Egypt. It’s the beginning of the Feast of Unleavened Bread. The name Passover comes from something that happened right before the exodus. God passed over the houses of the Israelites during the tenth plague. That is why their eldest sons weren’t killed during that plague. After that plague Pharaoh let the Israelites leave Egypt. God gave the Israelites instructions about how to celebrate Passover every year. It included a special meal with certain foods. Many years later, Jesus was killed at the time of Passover.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Passover",
+          "type": "keyterm",
+          "preferred_label": "Passover",
+          "confidence": 0.9049,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132117,
+    "content_id": "132117",
     "reference_id": 108171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Patmos",
     "media_type": "Text",
     "index_reference": "patmos",
@@ -41,13 +59,22 @@
     "content": "<p>A small Greek island where only a few people lived. It’s in the Aegean Sea near the Mediterranean Sea. The Roman government controlled the island and sent prisoners there.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Patmos",
+          "type": "place",
+          "preferred_label": "Patmos",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132233,
+    "content_id": "132233",
     "reference_id": 108287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Patriarch",
     "media_type": "Text",
     "index_reference": "patriarch",
@@ -56,13 +83,14 @@
     "content": "<p>The male leader with the most authority in a group. This was usually the eldest male in a family. Among the people of Israel, important leaders and kings were called patriarchs. They were considered the founders of the nation of Israel. This included Abraham, Isaac, Jacob and his sons, Moses and King David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132048,
+    "content_id": "132048",
     "reference_id": 108102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paul",
     "media_type": "Text",
     "index_reference": "paul",
@@ -71,13 +99,22 @@
     "content": "<p>A Jewish believer from the tribe of Benjamin who was from the city of Tarsus. In the Hebrew language he was called Saul. In the Greek language he was called Paul. He was a Roman citizen. To make money, he made tents. For many years he was a committed Pharisee. He tried to stop the church from growing. After Jesus appeared to him, he began spreading the good news about Jesus. Paul was an apostle. The New Testament includes many letters he wrote.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paul",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132057,
+    "content_id": "132057",
     "reference_id": 108111,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paul’s journeys",
     "media_type": "Text",
     "index_reference": "paul’s journeys",
@@ -86,13 +123,14 @@
     "content": "<p>Paul made several long journeys throughout lands ruled by the Roman government. Everywhere he went, he preached the good news about Jesus to Jews first. Then he preached to Gentiles. He helped start churches among those who believed in Jesus. He travelled with Barnabas on the first journey. He travelled with Silas on the second journey. He travelled with several helpers on the third journey. He travelled as a prisoner to Rome on his fourth journey. Each journey lasted more than a year.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132066,
+    "content_id": "132066",
     "reference_id": 108120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paul’s letters",
     "media_type": "Text",
     "index_reference": "paul’s letters",
@@ -101,13 +139,14 @@
     "content": "<p>Paul wrote letters to many believers and churches. Thirteen of these letters are in the New Testament. They include the books of Romans, 1 Corinthians, 2 Corinthians, Galatians, Ephesians, Philippians and Colossians. They also include the books of 1 Thessalonians, 2 Thessalonians, 1 Timothy, 2 Timothy, Titus and Philemon. It was common for Paul to speak out loud what he wanted to say in his letters. A helper wrote the words down. Then Paul added a final message in his own handwriting. This helped people be certain that the letters really were from him. Paul’s helpers carried letters from Paul to the churches or to other people. The church read them out loud and then shared them with other churches in the area. Paul wrote some of his letters while he was in prison.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132157,
+    "content_id": "132157",
     "reference_id": 108211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Peace",
     "media_type": "Text",
     "index_reference": "peace",
@@ -116,13 +155,22 @@
     "content": "<p>The word for peace in the Hebrew language is shalom. It means more than a time when there is no fighting or war. It means that there is safety, health and justice. It means that everyone has enough of what they need. It means that relationships are whole and healthy. They are the way God wants them to be. This includes each person being at peace with God. It also includes the relationships between people and everything else that God created.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132321,
+    "content_id": "132321",
     "reference_id": 108375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pentecost",
     "media_type": "Text",
     "index_reference": "pentecost",
@@ -131,13 +179,14 @@
     "content": "<p>The Jewish feast 50 days after the feast of the first share of crops. It was called the Feast of Weeks or Pentecost. People offered sacrifices to God and thanked him for the harvest. Israelite males were required to travel to the holy tent or temple for this feast. It’s also the feast when the Holy Spirit first came to Jesus’ followers. This happened 50 days after Jesus’ resurrection.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132111,
+    "content_id": "132111",
     "reference_id": 108165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Perfect",
     "media_type": "Text",
     "index_reference": "perfect",
@@ -146,13 +195,14 @@
     "content": "<p>The word for perfect in the Greek language means complete or finished. It means that nothing is missing and that something has reached full growth.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132122,
+    "content_id": "132122",
     "reference_id": 108176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pergamum",
     "media_type": "Text",
     "index_reference": "pergamum",
@@ -161,13 +211,22 @@
     "content": "<p>An important city in the Roman territory of Asia near the Aegean Sea. It was a centre for worshipping the Roman ruler Caesar and Roman false gods.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Pergamum",
+          "type": "place",
+          "preferred_label": "Pergamum",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132455,
+    "content_id": "132455",
     "reference_id": 108509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Persia",
     "media_type": "Text",
     "index_reference": "persia",
@@ -176,13 +235,22 @@
     "content": "<p>A kingdom in the area now known as Iran. It became a powerful government that ruled over many other nations and people groups. Many Persians were from the people group called the Medes. Susa was one of the capital cities. Cyrus, Darius, Xerxes and Artaxerxes were kings of Persia. The Greek government took control of the Persian government in 333 BC.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "Persia",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132518,
+    "content_id": "132518",
     "reference_id": 108572,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Peter",
     "media_type": "Text",
     "index_reference": "peter",
@@ -191,13 +259,22 @@
     "content": "<p>A fisherman from Bethsaida who lived in Capernaum. Andrew was his brother. Peter became one of Jesus’ 12 disciples and was one of Jesus’ three closest followers. He was also called Simon, Simon Peter and Cephas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "Peter",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132196,
+    "content_id": "132196",
     "reference_id": 108250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pharaoh",
     "media_type": "Text",
     "index_reference": "pharaoh",
@@ -206,13 +283,85 @@
     "content": "<p>The title for the ruler with the most authority in Egypt. Many different Pharaohs are mentioned in the Bible.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.10",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Neco",
+          "type": "person",
+          "preferred_label": "Neco",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.7",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.8",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Pharaoh.9",
+          "type": "person",
+          "preferred_label": "Pharaoh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Hophra",
+          "type": "person",
+          "preferred_label": "Hophra",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 131996,
+    "content_id": "131996",
     "reference_id": 108050,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pharisees",
     "media_type": "Text",
     "index_reference": "pharisees",
@@ -221,13 +370,22 @@
     "content": "<p>A group of Jewish religious leaders in the times of the New Testament. They urged Jews to work very hard to obey all the Old Testament laws. They didn’t believe that Jesus was the Messiah God had promised to send. Most Pharisees opposed Jesus and his teachings.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132126,
+    "content_id": "132126",
     "reference_id": 108180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philadelphia",
     "media_type": "Text",
     "index_reference": "philadelphia",
@@ -236,13 +394,22 @@
     "content": "<p>An important town in the Roman territory of Asia. It’s the city Alaşehir in the country now known as Turkey.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philadelphia",
+          "type": "place",
+          "preferred_label": "Philadelphia",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132110,
+    "content_id": "132110",
     "reference_id": 108164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philemon",
     "media_type": "Text",
     "index_reference": "philemon",
@@ -251,13 +418,22 @@
     "content": "<p>A wealthy Christian in Colossae who was friends with Paul and worked together with him. It’s thought that Apphia was Philemon’s wife and Archippus was their son. A church met in his home. He owned a slave named Onesimus. The letter Paul wrote to him about Onesimus is called Philemon.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philemon",
+          "type": "person",
+          "preferred_label": "Philemon",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132049,
+    "content_id": "132049",
     "reference_id": 108103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philip",
     "media_type": "Text",
     "index_reference": "philip",
@@ -266,13 +442,43 @@
     "content": "<p>One of the seven leaders chosen by the believers in Jerusalem to be a deacon. He made sure all the believers had enough food. He was a different person than the Philip who was one of Jesus’ 12 disciples. He spread the message about Jesus to many people and places. His four daughters were prophets.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Philip",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Philip",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Philip",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Philip",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132072,
+    "content_id": "132072",
     "reference_id": 108126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philippi",
     "media_type": "Text",
     "index_reference": "philippi",
@@ -281,13 +487,22 @@
     "content": "<p>A Greek city in the Roman territory of Macedonia. It was in the area that is now northern Greece. Paul travelled there on his second journey. It was the first city in Europe where the good news about Jesus was shared. Paul’s letter to the Philippians was to the church there.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Philippi",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132213,
+    "content_id": "132213",
     "reference_id": 108267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philistines",
     "media_type": "Text",
     "index_reference": "philistines",
@@ -296,13 +511,22 @@
     "content": "<p>A people group from the family line of Ham. They lived in southern Canaan along the coast of the Mediterranean Sea. At times they worked together with Abraham’s family line. Most of the time they were at war with the nation of Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Philistines",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132349,
+    "content_id": "132349",
     "reference_id": 108403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Phinehas",
     "media_type": "Text",
     "index_reference": "phinehas",
@@ -311,13 +535,36 @@
     "content": "<p>A son of Eleazar and a grandson of Aaron. He killed an Israelite man who was being unfaithful to God. When he did that, God stopped the plague at Baal Peor. God made a covenant of peace with Phinehas and the sons born after him.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Phinehas.2",
+          "type": "person",
+          "preferred_label": "Phinehas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Phinehas.3",
+          "type": "person",
+          "preferred_label": "Phinehas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Phinehas",
+          "type": "person",
+          "preferred_label": "Phinehas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132069,
+    "content_id": "132069",
     "reference_id": 108123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Phrygia",
     "media_type": "Text",
     "index_reference": "phrygia",
@@ -326,13 +573,22 @@
     "content": "<p>An area in the Roman territory of Asia Minor near Galatia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Phrygia",
+          "type": "place",
+          "preferred_label": "Phrygia",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132052,
+    "content_id": "132052",
     "reference_id": 108106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Place hands",
     "media_type": "Text",
     "index_reference": "place hands",
@@ -341,13 +597,14 @@
     "content": "<p>Many times Jesus healed and blessed people by placing his hands on them. Believers followed his example. Placing hands on people became a common practice for specific reasons. These included praying for new believers to receive the Holy Spirit. They included praying for believers to receive a gift of the Holy Spirit. They included healing people and setting them apart to serve as leaders. Placing hands on someone was a way to show God’s love and care for them. Nothing magic happened by placing hands on someone. The blessings that came were from the Holy Spirit working through believers.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132150,
+    "content_id": "132150",
     "reference_id": 108204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Poem",
     "media_type": "Text",
     "index_reference": "poem",
@@ -356,13 +613,14 @@
     "content": "<p>A way of speaking or writing that can be like singing. Often poems don’t describe things in a direct way. They create pictures and signs with words. These help people understand what the speaker or writer is saying. Poems describe something by explaining how it’s like something else. The Bible includes many poems written in the Hebrew language. Many of these were spoken and written two lines at a time. The first line shared an idea. Then the second line completed that idea. It did this by sharing the same idea again in a new or different way. This helped people understand and remember what the speaker or writer wanted to say.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132037,
+    "content_id": "132037",
     "reference_id": 108091,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pool of Bethesda",
     "media_type": "Text",
     "index_reference": "pool of bethesda",
@@ -371,13 +629,22 @@
     "content": "<p>A pool of water in Jerusalem. In the Aramaic language, Bethesda means house of mercy. Water from the pool was used in the temple. Many people believed that the water from the pool would heal their illnesses.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Pool",
+          "type": "realia",
+          "preferred_label": "Pool",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132173,
+    "content_id": "132173",
     "reference_id": 108227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prayer",
     "media_type": "Text",
     "index_reference": "prayer",
@@ -386,13 +653,29 @@
     "content": "<p>The practice of talking with God and listening to God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Pray",
+          "type": "keyterm",
+          "preferred_label": "Pray",
+          "confidence": 0.9172,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Worship",
+          "type": "keyterm",
+          "preferred_label": "Worship",
+          "confidence": 0.8085,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132279,
+    "content_id": "132279",
     "reference_id": 108333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Priest",
     "media_type": "Text",
     "index_reference": "priest",
@@ -416,13 +699,36 @@
           "label": "Levites",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:GenericPriest",
+          "type": "person",
+          "preferred_label": "A Priest",
+          "confidence": 0.9127,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:GenericPriests",
+          "type": "group",
+          "preferred_label": "Priests",
+          "confidence": 0.886,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Priesthood",
+          "type": "keyterm",
+          "preferred_label": "Priesthood",
+          "confidence": 0.8277,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132295,
+    "content_id": "132295",
     "reference_id": 108349,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Priests’ clothes",
     "media_type": "Text",
     "index_reference": "priests’ clothes",
@@ -431,13 +737,14 @@
     "content": "<p>Special clothes the priests wore when they worked in the holy tent or temple. The clothes included outer robes, inner robes, underwear and a belt. They included a turban with a gold plate on it. The clothes for the high priest included a linen apron and a chest cloth. The chest cloth held the Urim and Thummim. These were special stones that helped the priest know what God wanted done. The priests’ clothes helped set the priests apart for their work for God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132346,
+    "content_id": "132346",
     "reference_id": 108400,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prophecies about Jesus",
     "media_type": "Text",
     "index_reference": "prophecies about jesus",
@@ -454,13 +761,14 @@
           "label": "Saviour",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132345,
+    "content_id": "132345",
     "reference_id": 108399,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prophecy",
     "media_type": "Text",
     "index_reference": "prophecy",
@@ -469,13 +777,14 @@
     "content": "<p>An announcement about what God wants done or about what is going to happen. These messages come from God or God’s word. They are spoken by prophets and this is called prophesying. The prophecies of many prophets before the time of Jesus were written down. They were included in the Old Testament. All together they are called the Prophets. The Holy Spirit makes some people able to prophesy. The messages are to be shared in an orderly way that people can understand. They are shared to help people who don’t know God turn to God. They are shared to encourage people who already follow God. They are shared to help people understand how to obey God faithfully.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132362,
+    "content_id": "132362",
     "reference_id": 108416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prophet",
     "media_type": "Text",
     "index_reference": "prophet",
@@ -492,13 +801,29 @@
           "label": "False prophet",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:GenericProphet",
+          "type": "person",
+          "preferred_label": "A Prophet",
+          "confidence": 0.9113,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:GenericProphets",
+          "type": "group",
+          "preferred_label": "Prophets",
+          "confidence": 0.8735,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132525,
+    "content_id": "132525",
     "reference_id": 108579,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prosperity gospel",
     "media_type": "Text",
     "index_reference": "prosperity gospel",
@@ -507,13 +832,14 @@
     "content": "<p>A teaching that goes against the good news about Jesus. It teaches that God saves people from all problems and suffering on earth. It teaches that God gives riches to all who believe in Jesus and have faith in him. It teaches that they will always have more than they need. It also teaches that they will always have healthy bodies. It teaches that they will have all of these things while they are alive on earth. The good news about Jesus that is true doesn’t teach these things. What is true is that Jesus saves people from the power of sin, death and evil. This salvation begins while people are alive on earth. It will be complete when Jesus returns and rules as King in the new creation. Jesus is the example for his followers about how to live. His example teaches believers how to serve others and how to face suffering.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132481,
+    "content_id": "132481",
     "reference_id": 108535,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prostitute",
     "media_type": "Text",
     "index_reference": "prostitute",
@@ -522,13 +848,29 @@
     "content": "<p>A person who has sex with others in exchange for payment of some kind. Some people are prostitutes because they have no other choice. This happens with slaves or people who live under someone else’s control. Some people choose to be prostitutes. It’s how they make money. Writers in the Bible talk about people who choose to be prostitutes. They are a sign for people or groups who try to make other people sin. They are also a sign for not being faithful to worship only God. Marriage is one way that the Bible describes God’s relationship with his people. When his people serve other gods, it’s like not being faithful in marriage. It’s like being a prostitute with false gods. God doesn’t want any human being to be a prostitute with their body. He also doesn’t want them to worship anything or anyone but him.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:FirstProstitute",
+          "type": "person",
+          "preferred_label": "Prostitute",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:SecondProstitute",
+          "type": "person",
+          "preferred_label": "Prostitute",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132477,
+    "content_id": "132477",
     "reference_id": 108531,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Proverb",
     "media_type": "Text",
     "index_reference": "proverb",
@@ -537,13 +879,22 @@
     "content": "<p>A short and wise saying. Proverbs come to exist when a person or a community studies life in the world. As they study, they learn lessons and notice patterns. These patterns are about how life in the world works. The person or community puts these lessons and patterns into words like a short poem. Proverbs are passed down within families and communities for hundreds of years. A proverb isn’t a promise that life always works according to the pattern it describes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Saying",
+          "type": "keyterm",
+          "preferred_label": "Proverb",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132310,
+    "content_id": "132310",
     "reference_id": 108364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pure or impure",
     "media_type": "Text",
     "index_reference": "pure or impure",
@@ -560,7 +911,8 @@
           "label": "Clean or unclean",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

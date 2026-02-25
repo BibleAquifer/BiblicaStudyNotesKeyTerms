@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 145783,
+    "content_id": "145783",
     "reference_id": 108274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Labão",
     "media_type": "Text",
     "index_reference": "labão",
@@ -11,13 +11,29 @@
     "content": "<p>O filho de Betuel e irmão de Rebeca da Mesopotâmia. Ele era o pai de Raquel e Lia. Ele enganou Jacó e aproveitou-se dele por muitos anos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Laban",
+          "type": "person",
+          "preferred_label": "Labão",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Laban",
+          "type": "place",
+          "preferred_label": "Labão",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145913,
+    "content_id": "145913",
     "reference_id": 108404,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lançar sortes",
     "media_type": "Text",
     "index_reference": "lançar sortes",
@@ -26,13 +42,14 @@
     "content": "<p>Um processo para ajudar as pessoas a decidirem sobre algo. Era muito comum entre os grupos de pessoas que viviam ao redor dos israelitas. Deus permitiu que seu povo usasse essa prática. Não se sabe exatamente o que as pessoas faziam quando lançavam sortes. Os israelitas confiavam que Deus os guiava a fazer escolhas sábias através do lançamento de sortes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145671,
+    "content_id": "145671",
     "reference_id": 108162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Laodiceia",
     "media_type": "Text",
     "index_reference": "laodiceia",
@@ -41,13 +58,29 @@
     "content": "<p>Uma cidade no território romano da Ásia Menor no que agora é chamado de Turquia. Estava perto de Colossos. Epafras compartilhou a mensagem sobre Jesus lá e ajudou a iniciar uma igreja. Paulo escreveu uma carta à igreja de Laodiceia. A igreja em Laodiceia é uma das sete igrejas mencionadas em Apocalipse.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Laodicea",
+          "type": "place",
+          "preferred_label": "Laodiceia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Laodicea",
+          "type": "group",
+          "preferred_label": "Laodiceans",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145656,
+    "content_id": "145656",
     "reference_id": 108147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lei de Cristo",
     "media_type": "Text",
     "index_reference": "lei de cristo",
@@ -56,13 +89,14 @@
     "content": "<p>Uma maneira de falar sobre seguir o exemplo de Jesus sobre como viver. Jesus ordenou a seus discípulos que amassem a Deus com todo o coração, alma, força e mente. Ele ordenou que amassem o próximo como a si mesmos (Lc 10.27). Enquanto viveu na terra, Jesus mostrou-lhes como fazer isso. Jesus amou e obedeceu a seu Pai. Ele se sacrificou pelo bem dos outros. Ele abriu mão de seus direitos para salvar o mundo. Ele serviu aos outros para mostrar-lhes o quanto Deus os ama.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145844,
+    "content_id": "145844",
     "reference_id": 108335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lei de Moisés",
     "media_type": "Text",
     "index_reference": "lei de moisés",
@@ -86,13 +120,14 @@
           "label": "Dez Mandamentos",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 145871,
+    "content_id": "145871",
     "reference_id": 108362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Leis em Levítico",
     "media_type": "Text",
     "index_reference": "leis em levítico",
@@ -101,13 +136,14 @@
     "content": "<p>Deus deu a Moisés e Arão leis sobre como os israelitas deveriam viver juntos. Muitas delas eram regras gerais sobre coisas que poderiam ter acontecido naqueles dias. Elas eram para ajudar o povo a aprender sobre quem Deus é. As leis os ajudavam a tomar decisões sábias sobre questões cotidianas. O povo de Deus deveria tomar todas as suas decisões com base em quem Deus é.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145579,
+    "content_id": "145579",
     "reference_id": 108070,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Leis Judaicas",
     "media_type": "Text",
     "index_reference": "leis judaicas",
@@ -131,13 +167,14 @@
           "label": "Lei de Moisés",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 145892,
+    "content_id": "145892",
     "reference_id": 108383,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Levi",
     "media_type": "Text",
     "index_reference": "levi",
@@ -146,13 +183,43 @@
     "content": "<p>Um filho de Jacó e Lia. Na língua hebraica, Levi significa ligado. Sua linhagem familiar tornou-se uma tribo de Israel. Todos os sacerdotes em Israel vieram da linhagem familiar de Levi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Levi",
+          "type": "group",
+          "preferred_label": "Levi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi",
+          "type": "person",
+          "preferred_label": "Levi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.2",
+          "type": "person",
+          "preferred_label": "Levi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.3",
+          "type": "person",
+          "preferred_label": "Levi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145852,
+    "content_id": "145852",
     "reference_id": 108343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Levitas",
     "media_type": "Text",
     "index_reference": "levitas",
@@ -169,13 +236,14 @@
           "label": "Sacerdote",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 145784,
+    "content_id": "145784",
     "reference_id": 108275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lia",
     "media_type": "Text",
     "index_reference": "lia",
@@ -184,13 +252,22 @@
     "content": "<p>A filha mais velha de Labão e primeira esposa de Jacó. Raquel era sua irmã e Zilpa era sua serva. Ela se tornou mãe de Rúben, Simeão, Levi, Judá, Issacar, Zebulom e Diná.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "Lia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145568,
+    "content_id": "145568",
     "reference_id": 108059,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Líder que serve",
     "media_type": "Text",
     "index_reference": "líder que serve",
@@ -199,13 +276,14 @@
     "content": "<p>Jesus é o exemplo de como todos devem tratar os outros. Isso inclui pessoas com autoridade, poder e honra. Inclui líderes de qualquer grupo de seres humanos. Jesus é o Rei de tudo o que Deus criou. Ele veio à terra para servir as pessoas para que elas compreendessem o amor de Deus por elas. Ele não usou seu poder e autoridade para forçar as pessoas a fazerem o que ele queria. Ele não fez as pessoas tratá-lo como se fosse mais importante do que qualquer outra pessoa. Em vez disso, ele foi humilde. Ele mostrou profunda preocupação por todas as pessoas. Ele deu sua vida para mostrar às pessoas o amor de Deus. Todos os crentes devem seguir o exemplo de Jesus de amar e servir aos outros. O Espírito Santo dá aos seguidores de Jesus diferentes dons e habilidades para usar no serviço aos outros. Quando os crentes servem aos outros, eles também estão servindo a Jesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145872,
+    "content_id": "145872",
     "reference_id": 108363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Limpo ou sujo",
     "media_type": "Text",
     "index_reference": "limpo ou sujo",
@@ -222,13 +300,14 @@
           "label": "Puro ou impuro",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 145729,
+    "content_id": "145729",
     "reference_id": 108220,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Linhagem familiar",
     "media_type": "Text",
     "index_reference": "linhagem familiar",
@@ -237,13 +316,14 @@
     "content": "<p>Uma lista de pessoas em uma família. Essas listas eram muito importantes nos tempos e lugares da Bíblia. Elas também são chamadas de genealogias. Elas incluíam certas pessoas da família, mas não todos. Geralmente incluíam apenas homens. A palavra filho era uma maneira de falar sobre filhos, netos ou bisnetos. As listas às vezes incluíam informações ou histórias extras sobre certas pessoas. Pessoas mais velhas contavam sobre estes nomes e histórias para os mais jovens da família. Dessa forma, todos aprendiam sobre a linhagem familiar. Muitas linhagens familiares estão registradas na Bíblia. Elas mostravam de que tribo um israelita ou um judeu era. Elas mostravam se alguém poderia ser um sacerdote ou vinha de uma família real.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145625,
+    "content_id": "145625",
     "reference_id": 108116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Listra",
     "media_type": "Text",
     "index_reference": "listra",
@@ -252,13 +332,22 @@
     "content": "<p>Uma cidade no território romano da Galácia na Ásia Menor. Paulo a visitou em três de suas viagens para compartilhar as boas novas sobre Jesus. O amigo de Paulo, Timóteo, que trabalhava com ele, era de Listra. Pensa-se que a carta de Paulo aos Gálatas foi lida para a igreja lá.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Lystra",
+          "type": "place",
+          "preferred_label": "Listra",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 146050,
+    "content_id": "146050",
     "reference_id": 108541,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Literatura apocalíptica",
     "media_type": "Text",
     "index_reference": "literatura apocalíptica",
@@ -267,13 +356,14 @@
     "content": "<p>Na língua grega, a palavra apocalipse significa revelar ou descobrir algo. A literatura apocalíptica era comum entre os profetas judeus e cristãos. Na literatura apocalíptica, os profetas usavam sinais e imagens para falar sobre coisas que aconteciam na terra. Os sinais e imagens descobriam verdades espirituais sobre essas coisas. Eles ajudavam as pessoas a entender o ponto de vista de Deus. Eles mostravam como Deus salvaria seu povo e julgaria seus inimigos. Os sinais e imagens na escrita apocalíptica são frequentemente poderosos e assustadores. Isso era para chamar a atenção das pessoas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145853,
+    "content_id": "145853",
     "reference_id": 108344,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Livro da vida",
     "media_type": "Text",
     "index_reference": "livro da vida",
@@ -282,13 +372,14 @@
     "content": "<p>Ao longo da Bíblia, há dois significados para o livro da vida. Também é chamado de livro de Deus. No Antigo Testamento, era uma maneira de falar sobre pessoas que estão vivas. Foi descrito como uma lista de nomes coletados em um livro que Deus escreve. No Novo Testamento, era uma maneira de falar sobre pessoas que seguem Jesus. Foi descrito como pertencentes ao Cordeiro de Deus. O livro da vida não é um livro real com nomes escritos nele. É uma maneira de falar sobre quem está vivo ou quem acredita em Jesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145678,
+    "content_id": "145678",
     "reference_id": 108169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Livro de Enoque",
     "media_type": "Text",
     "index_reference": "livro de enoque",
@@ -297,13 +388,14 @@
     "content": "<p>Um escrito judaico conhecido antes e depois do tempo de Jesus. Não foi escrito pelo Enoque mencionado em Gênesis.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145757,
+    "content_id": "145757",
     "reference_id": 108248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ló",
     "media_type": "Text",
     "index_reference": "ló",
@@ -312,13 +404,22 @@
     "content": "<p>O neto de Tera e sobrinho de Abraão. Ele foi com Abraão e Sara quando viajaram até Canaã para viver. Ele escolheu viver no vale do Rio Jordão perto de Sodoma. Sua esposa morreu durante o tempo em que Deus destruiu Sodoma e Gomorra. Os grupos de pessoas moabitas e amonitas eram da linhagem familiar de Ló.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "Ló",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145587,
+    "content_id": "145587",
     "reference_id": 108078,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lucas",
     "media_type": "Text",
     "index_reference": "lucas",
@@ -327,13 +428,22 @@
     "content": "<p>O escritor do Evangelho de Lucas e do livro de Atos. Ele era um médico que viajou com Paulo e trabalhou com ele.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Luke",
+          "type": "person",
+          "preferred_label": "Lucas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 146008,
+    "content_id": "146008",
     "reference_id": 108499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lugares altos",
     "media_type": "Text",
     "index_reference": "lugares altos",
@@ -342,13 +452,22 @@
     "content": "<p>Um local de adoração em uma colina, montanha ou lugar elevado. As pessoas queimavam incenso e faziam sacrifícios lá. Alguns lugares altos eram usados para adorar o verdadeiro Deus. Isso acontecia frequentemente antes de o templo ser construído. Outros lugares altos eram usados para adorar falsos deuses. As pessoas até sacrificavam crianças neles para honrar falsos deuses. Havia muitos desses lugares altos quando os israelitas entraram em Canaã pela primeira vez. Os israelitas deveriam destruir todos os lugares altos usados para adorar falsos deuses.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:HighPlace",
+          "type": "realia",
+          "preferred_label": "High Place",
+          "confidence": 0.8424,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 146075,
+    "content_id": "146075",
     "reference_id": 108566,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Luta espiritual",
     "media_type": "Text",
     "index_reference": "luta espiritual",
@@ -357,13 +476,14 @@
     "content": "<p>A batalha do diabo e de todos os seres espirituais malignos contra Deus. Eles querem parar o plano de Deus para o mundo. Uma maneira de fazer isso é tentando fazer as pessoas se rebelarem contra Deus. A luta ocorre no mundo celestial. Os humanos fazem parte da luta através das escolhas que fazem. Eles fazem escolhas sobre quem adorar e como tratar os outros. Adorar a Deus e agir de acordo com seu plano é como os seres humanos lutam contra o mal.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 146055,
+    "content_id": "146055",
     "reference_id": 108546,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Luz",
     "media_type": "Text",
     "index_reference": "luz",
@@ -387,13 +507,22 @@
           "label": "Seres espirituais malignos",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Luz.2",
+          "type": "place",
+          "preferred_label": "Luz",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 146054,
+    "content_id": "146054",
     "reference_id": 108545,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Luz para os gentios",
     "media_type": "Text",
     "index_reference": "luz para os gentios",
@@ -402,7 +531,8 @@
     "content": "<p>Palavras que descreviam o trabalho do servo de Deus (Isaías 42.6 e Isaías 49.6). O servo garantiria que a aliança e a salvação de Deus alcançassem todos os grupos de pessoas. No Novo Testamento, Simeão entendeu que Jesus faria esse trabalho (Lucas 2.30–32). Paulo e Barnabé entenderam que eles também deveriam ser luz para os gentios (Atos 13.47). Eles fizeram isso compartilhando a mensagem sobre Jesus com os gentios. Em Atos 26.23, Paulo pregou sobre como Jesus trouxe a mensagem da luz de Deus. Esta é a mensagem de salvação do poder do pecado e da morte. Jesus trouxe essa luz para judeus e gentios. Os seguidores de Jesus devem compartilhar a luz e a salvação de Jesus com o mundo inteiro.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

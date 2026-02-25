@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133889,
+    "content_id": "133889",
     "reference_id": 108087,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَا ٱمْرَأَةُ",
     "media_type": "Text",
     "index_reference": "يَا ٱمْرَأَةُ",
@@ -11,13 +11,14 @@
     "content": "<p>طريقة محترمة تحدث بها يسوع إلى النساء. دعا بعض النساء اللاتي شفاهنّ بامرأة. وفي أحيان أخرى دعا أمه مريم بامرأة. لقد أظهر بذلك لطفه واهتمامه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134238,
+    "content_id": "134238",
     "reference_id": 108436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَاعِيل",
     "media_type": "Text",
     "index_reference": "يَاعِيل",
@@ -26,13 +27,36 @@
     "content": "<p>امرأة من الشعب القيني الذي عاش بين بني إسرائيل. كانت من نسل حوباب صهر موسى، وزوجة حابر. قتلت قائداً عسكرياً كنعانياً اسمه سيسرا. كانت ياعيل جزءًا مهمًا من الأغنية التي أنشدتها دبورة عن انتصار بني إسرائيل في الإصحاح 5 من سفر القضاة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jael",
+          "type": "person",
+          "preferred_label": "يَاعِيلَ",
+          "confidence": 0.9708,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahleel",
+          "type": "person",
+          "preferred_label": "يَاحَلْئِيل",
+          "confidence": 0.8887,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahzeel",
+          "type": "person",
+          "preferred_label": "يَاحَصْئِيل",
+          "confidence": 0.8407,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134042,
+    "content_id": "134042",
     "reference_id": 108240,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَافَثُ",
     "media_type": "Text",
     "index_reference": "يَافَثُ",
@@ -41,13 +65,50 @@
     "content": "<p>الابن الأكبر لنوح. هو وزوجته نجوا من الطوفان لأنهم كانوا في الفلك. عامل والده باحترام عندما سكر نوح بعد الطوفان. نطق نوح بالبركة على عائلة يافث.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Japheth",
+          "type": "person",
+          "preferred_label": "يَافَثَ",
+          "confidence": 0.9377,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Joppa",
+          "type": "place",
+          "preferred_label": "يَافَا",
+          "confidence": 0.8546,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Japhia",
+          "type": "person",
+          "preferred_label": "يَافِيع",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Japhia.2",
+          "type": "person",
+          "preferred_label": "يَافِيع",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Japhia",
+          "type": "place",
+          "preferred_label": "يَافِيع",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134306,
+    "content_id": "134306",
     "reference_id": 108504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَبُوسِيِّينَ",
     "media_type": "Text",
     "index_reference": "يَبُوسِيِّينَ",
@@ -56,13 +117,71 @@
     "content": "<p>مجموعة من الناس الذين عاشوا في كنعان. كانوا من نسل كنعان ابن حام. أمر الله بني إسرائيل بطردهم من الأرض كحكمه عليهم. كانوا يعيشون في مدينة أورشليم قبل أن يسيطر عليها داود.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeduthun",
+          "type": "person",
+          "preferred_label": "يَدوثونَ",
+          "confidence": 0.8525,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeduthun.2",
+          "type": "person",
+          "preferred_label": "يَدوثونَ",
+          "confidence": 0.8525,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gibbethon",
+          "type": "place",
+          "preferred_label": "جِبَّثونَ",
+          "confidence": 0.8456,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joktan",
+          "type": "person",
+          "preferred_label": "يَقْطَان",
+          "confidence": 0.8235,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tabrimmon",
+          "type": "person",
+          "preferred_label": "طَبْرِيمونَ",
+          "confidence": 0.8122,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hethlon",
+          "type": "place",
+          "preferred_label": "حِثْلونَ",
+          "confidence": 0.812,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eglon",
+          "type": "person",
+          "preferred_label": "عَجْلونَ",
+          "confidence": 0.8046,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Eglon",
+          "type": "place",
+          "preferred_label": "عَجْلونَ",
+          "confidence": 0.8046,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134128,
+    "content_id": "134128",
     "reference_id": 108326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يثرون",
     "media_type": "Text",
     "index_reference": "يثرون",
@@ -71,13 +190,36 @@
     "content": "<p>حمو موسى وكاهن في مديان. كان يُدعى أيضًا رعوئيل. كان جزءًا من مجموعة شعب القينيين. رحب بموسى عندما هرب موسى من مصر. أصبحت ابنته صفورة زوجة موسى. أقام مع بني إسرائيل أثناء سفرهم من جبل سيناء إلى كنعان.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Yiron",
+          "type": "place",
+          "preferred_label": "يِرْأون",
+          "confidence": 0.8235,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ithran",
+          "type": "person",
+          "preferred_label": "يِثْرَان",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ithran.2",
+          "type": "person",
+          "preferred_label": "يِثْرَان",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134278,
+    "content_id": "134278",
     "reference_id": 108476,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَرُبْعَام",
     "media_type": "Text",
     "index_reference": "يَرُبْعَام",
@@ -86,13 +228,197 @@
     "content": "<p>ابن نباط وصروعة الذي كان مسؤولاً في حكومة سليمان. كان من سبط أفرايم. أصبح أول ملك لمملكة إسرائيل الشمالية. وعد الله أن يجعل حكمه آمنًا إذا خدمه يربعام بأمانة. لكن يربعام منع بني إسرائيل من عبادة الله كما أمرهم الله. عين يربعام كهَنة مِن أَطرَاف الشّعب لَم يكونوا مِن بَنِي لاَوِي. وقاد الشعب لعبادة تمثلين من الذهب. سميت هذه الأفعال بخطية يربعام. بسبب هذه الخطايا دُمر نسل يربعام.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "يَربْعَام",
+          "confidence": 0.939,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "يَربْعَام",
+          "confidence": 0.939,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ibleam",
+          "type": "place",
+          "preferred_label": "يَبْلَعَام",
+          "confidence": 0.8911,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jashobeam",
+          "type": "person",
+          "preferred_label": "يَشبْعَام",
+          "confidence": 0.8872,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jashobeam.2",
+          "type": "person",
+          "preferred_label": "يَشبْعَام",
+          "confidence": 0.8872,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jokdeam",
+          "type": "place",
+          "preferred_label": "يَقْدَعَام",
+          "confidence": 0.8694,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoram",
+          "type": "person",
+          "preferred_label": "يَهورَام",
+          "confidence": 0.8462,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoram.2",
+          "type": "person",
+          "preferred_label": "يَهورَام",
+          "confidence": 0.8462,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehozabad.3",
+          "type": "person",
+          "preferred_label": "يَهورَام",
+          "confidence": 0.8462,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jekameam",
+          "type": "person",
+          "preferred_label": "يَقْمَعَام",
+          "confidence": 0.8388,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ibhar",
+          "type": "person",
+          "preferred_label": "يِبْحَار",
+          "confidence": 0.8383,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Imna",
+          "type": "person",
+          "preferred_label": "يَمْنَاع",
+          "confidence": 0.8335,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jorkeam",
+          "type": "person",
+          "preferred_label": "يَرقْعَامَ",
+          "confidence": 0.8245,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabbok",
+          "type": "place",
+          "preferred_label": "يَبّوقَ",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jabez",
+          "type": "person",
+          "preferred_label": "يَعْبِيص",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jarha",
+          "type": "person",
+          "preferred_label": "يَرْحَع",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabez",
+          "type": "place",
+          "preferred_label": "يَعْبِيص",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmaiah",
+          "type": "person",
+          "preferred_label": "يَشْمَعِيَا",
+          "confidence": 0.8066,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmaiah.2",
+          "type": "person",
+          "preferred_label": "يَشْمَعِيَا",
+          "confidence": 0.8066,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehizkiah",
+          "type": "person",
+          "preferred_label": "يَحَزْقِيَا",
+          "confidence": 0.8014,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeuz",
+          "type": "person",
+          "preferred_label": "يَعوصَ",
+          "confidence": 0.801,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134021,
+    "content_id": "134021",
     "reference_id": 108219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يسوع",
     "media_type": "Text",
     "index_reference": "يسوع",
@@ -101,13 +427,14 @@
     "content": "<p>هو ابن الله الذي صار إنسانًا. وهو مخلص العالم. يسوع هو الله تمامًا كما أن الآب هو الله والروح القدس هو الله. إنهم ثلاثة أقانيم للإله الواحد والوحيد. في اللغة العبرية، يعني اسم يسوع أن الرب يخلص. ولقد عاش يسوع على الأرض من حوالي سنة 4 قبل الميلاد إلى حوالي سنة 30 ميلادية. وقد عاش في أرض إسرائيل وقت حكم الإمبراطورية الرومانية. وعندما تجسد يسوع على أرضنا، كانت مريم هي أمه. وقد حملت بيسوع رغم أنها لم تكن تعرف رجلًا. فإن الروح القدس هو من جعل هذا ممكنًا. وكان يوسف هو الأب البشري الذي ربى يسوع عندما كان صغيرًا. ولقد جاء يسوع من نسل إبراهيم، ويهوذا وداود. ونشأ يسوع في مدينة الناصرة مع إخوته وأخواته. ثم مات على الصليب. وقد أقامه الله من بين الأموات. ولقد انتصر على الخطية، والموت وكل الكائنات الروحية الشريرة. إنه المسيّا والملك الذي وعد الله بإرساله. والآن، فإن يسوع يحكم كملك في السماء. وسيعود إلى الأرض ليحكم كملك على كل خليقة الله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134191,
+    "content_id": "134191",
     "reference_id": 108389,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَشُوعُ",
     "media_type": "Text",
     "index_reference": "يَشُوعُ",
@@ -116,13 +443,645 @@
     "content": "<p>رجل وُلد عبداً عبرانياً في مصر. ساعد موسى في قيادة شعب الله أثناء الخروج. كان ابن نون وكان من سبط أفرايم. غيّر موسى اسمه من هوشع إلى يشوع. وقد كان أحد الجواسيس الذين تجسسوا أرض كنعان، وعاد بتقرير جيد. أصبح قائدًا لبني إسرائيل بعد وفاة موسى. قاد يشوع بني إسرائيل إلى الأرض التي وعد الله أن يعطيها لإبراهيم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ishbah",
+          "type": "person",
+          "preferred_label": "يِشْبَحَ",
+          "confidence": 0.934,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah",
+          "type": "person",
+          "preferred_label": "يَشِّيَّا",
+          "confidence": 0.9143,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah.2",
+          "type": "person",
+          "preferred_label": "يَشِّيَّا",
+          "confidence": 0.9143,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah.3",
+          "type": "person",
+          "preferred_label": "يَشِّيَّا",
+          "confidence": 0.9143,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah.4",
+          "type": "person",
+          "preferred_label": "يَشِّيَّا",
+          "confidence": 0.9143,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishvi.2",
+          "type": "person",
+          "preferred_label": "يِشْوِي",
+          "confidence": 0.9142,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishbak",
+          "type": "person",
+          "preferred_label": "يِشْبَاقَ",
+          "confidence": 0.9126,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmaiah",
+          "type": "person",
+          "preferred_label": "يَشْمَعِيَا",
+          "confidence": 0.9007,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmaiah.2",
+          "type": "person",
+          "preferred_label": "يَشْمَعِيَا",
+          "confidence": 0.9007,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.9001,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.9001,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.3",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.9001,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.4",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.9001,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.9001,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.2",
+          "type": "person",
+          "preferred_label": "يِشْعِيَا",
+          "confidence": 0.8919,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.3",
+          "type": "person",
+          "preferred_label": "يِشْعِيَا",
+          "confidence": 0.8919,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.4",
+          "type": "person",
+          "preferred_label": "يِشْعِيَا",
+          "confidence": 0.8919,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.5",
+          "type": "person",
+          "preferred_label": "يِشْعِيَا",
+          "confidence": 0.8919,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.6",
+          "type": "person",
+          "preferred_label": "يِشْعِيَا",
+          "confidence": 0.8919,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishi",
+          "type": "person",
+          "preferred_label": "يِشْعِي",
+          "confidence": 0.8906,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishi.2",
+          "type": "person",
+          "preferred_label": "يِشْعِي",
+          "confidence": 0.8906,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishi.3",
+          "type": "person",
+          "preferred_label": "يِشْعِي",
+          "confidence": 0.8906,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishi.4",
+          "type": "person",
+          "preferred_label": "يِشْعِي",
+          "confidence": 0.8906,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehosheba",
+          "type": "person",
+          "preferred_label": "يَهوشَبَع",
+          "confidence": 0.8852,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshbekashah",
+          "type": "person",
+          "preferred_label": "يشْبَقَاشَة",
+          "confidence": 0.878,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshishai",
+          "type": "person",
+          "preferred_label": "يَشِيشَايَ",
+          "confidence": 0.8774,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Imna",
+          "type": "person",
+          "preferred_label": "يَمْنَاع",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahdo",
+          "type": "person",
+          "preferred_label": "يَحْدوَ",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.2",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.3",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.4",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.5",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.6",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.7",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jeshua",
+          "type": "place",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshijah",
+          "type": "person",
+          "preferred_label": "يِشِّيَّا",
+          "confidence": 0.8735,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehozadak",
+          "type": "person",
+          "preferred_label": "يَهوصَادِقَ",
+          "confidence": 0.8727,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath",
+          "type": "person",
+          "preferred_label": "يَحَث",
+          "confidence": 0.8725,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.2",
+          "type": "person",
+          "preferred_label": "يَحَث",
+          "confidence": 0.8725,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.3",
+          "type": "person",
+          "preferred_label": "يَحَث",
+          "confidence": 0.8725,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.4",
+          "type": "person",
+          "preferred_label": "يَحَث",
+          "confidence": 0.8725,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ismachiah",
+          "type": "person",
+          "preferred_label": "يَسْمَخْيَا",
+          "confidence": 0.8722,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaddua",
+          "type": "person",
+          "preferred_label": "يَدّوعَ",
+          "confidence": 0.8719,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaddua.2",
+          "type": "person",
+          "preferred_label": "يَدّوعَ",
+          "confidence": 0.8719,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jarha",
+          "type": "person",
+          "preferred_label": "يَرْحَع",
+          "confidence": 0.8698,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jephthah",
+          "type": "person",
+          "preferred_label": "يَفْتَاح",
+          "confidence": 0.8685,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Iphtah",
+          "type": "place",
+          "preferred_label": "يَفْتَاح",
+          "confidence": 0.8685,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jacan",
+          "type": "person",
+          "preferred_label": "يَعْكَان",
+          "confidence": 0.865,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaaziah",
+          "type": "person",
+          "preferred_label": "يَعَزْيَا",
+          "confidence": 0.8632,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Izrahiah",
+          "type": "person",
+          "preferred_label": "يَزْرَحْيَا",
+          "confidence": 0.8604,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jekamiah",
+          "type": "person",
+          "preferred_label": "يَقَمْيَا",
+          "confidence": 0.8537,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jekamiah.2",
+          "type": "person",
+          "preferred_label": "يَقَمْيَا",
+          "confidence": 0.8537,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehucal",
+          "type": "person",
+          "preferred_label": "يَهوخَلَ",
+          "confidence": 0.8515,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishpan",
+          "type": "person",
+          "preferred_label": "يِشْفَان",
+          "confidence": 0.8478,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaareshiah",
+          "type": "person",
+          "preferred_label": "يَعْرَشْيَا",
+          "confidence": 0.8452,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehizkiah",
+          "type": "person",
+          "preferred_label": "يَحَزْقِيَا",
+          "confidence": 0.8451,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jashobeam",
+          "type": "person",
+          "preferred_label": "يَشبْعَام",
+          "confidence": 0.843,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jashobeam.2",
+          "type": "person",
+          "preferred_label": "يَشبْعَام",
+          "confidence": 0.843,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabbok",
+          "type": "place",
+          "preferred_label": "يَبّوقَ",
+          "confidence": 0.8402,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jabez",
+          "type": "person",
+          "preferred_label": "يَعْبِيص",
+          "confidence": 0.8396,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabez",
+          "type": "place",
+          "preferred_label": "يَعْبِيص",
+          "confidence": 0.8396,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jezer",
+          "type": "person",
+          "preferred_label": "يِصْر",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeuz",
+          "type": "person",
+          "preferred_label": "يَعوصَ",
+          "confidence": 0.8381,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8297,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8297,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8297,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8297,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8297,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishvah",
+          "type": "person",
+          "preferred_label": "يِشْة",
+          "confidence": 0.8287,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeush",
+          "type": "person",
+          "preferred_label": "يَعِيش",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeush.2",
+          "type": "person",
+          "preferred_label": "يَعِيش",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeush.3",
+          "type": "person",
+          "preferred_label": "يَعِيش",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeush.4",
+          "type": "person",
+          "preferred_label": "يَعِيش",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeush.5",
+          "type": "person",
+          "preferred_label": "يَعِيش",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishpah",
+          "type": "person",
+          "preferred_label": "يِشْفَة",
+          "confidence": 0.825,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "يَسوع",
+          "confidence": 0.824,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joktan",
+          "type": "person",
+          "preferred_label": "يَقْطَان",
+          "confidence": 0.8223,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jattir",
+          "type": "place",
+          "preferred_label": "يَتِّير",
+          "confidence": 0.8148,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jorkeam",
+          "type": "person",
+          "preferred_label": "يَرقْعَامَ",
+          "confidence": 0.8089,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat",
+          "type": "person",
+          "preferred_label": "يَهوشَافَاط",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.2",
+          "type": "person",
+          "preferred_label": "يَهوشَافَاط",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "يَهوشَافَاط",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.4",
+          "type": "person",
+          "preferred_label": "يَهوشَافَاط",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "يَربْعَام",
+          "confidence": 0.8058,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "يَربْعَام",
+          "confidence": 0.8058,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Idbash",
+          "type": "person",
+          "preferred_label": "يَدْبَاش",
+          "confidence": 0.8053,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Igal",
+          "type": "person",
+          "preferred_label": "يَجْآل",
+          "confidence": 0.801,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Igal.2",
+          "type": "person",
+          "preferred_label": "يَجْآل",
+          "confidence": 0.801,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Igal.3",
+          "type": "person",
+          "preferred_label": "يَجْآل",
+          "confidence": 0.801,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134310,
+    "content_id": "134310",
     "reference_id": 108508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يشوع وزربابل",
     "media_type": "Text",
     "index_reference": "يشوع وزربابل",
@@ -131,13 +1090,14 @@
     "content": "<p>القادة اليهود الذين عادوا إلى أرض يهوذا من السبي في بابل. قادوا شعب الله لإعادة بناء الهيكل في أورشليم. كان يشوع بن <span>يَهُوصَادَاقَ،</span> وخدم كرئيس كهنة في الهيكل الثاني. هذا يشوع مختلف عن يشوع الذي قاد بني إسرائيل بعد موسى. خدم زربابل كحاكم ليهوذا أثناء سيطرة الإمبراطورية الفارسية. كان زربابل بن شألتيئيل من سلالة عائلة داود، وقد كان يسوع من نسل زربابل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133856,
+    "content_id": "133856",
     "reference_id": 108054,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يُعامل بقسوة",
     "media_type": "Text",
     "index_reference": "يُعامل بقسوة",
@@ -154,13 +1114,14 @@
           "label": "روما",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134070,
+    "content_id": "134070",
     "reference_id": 108268,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَعْقُوب",
     "media_type": "Text",
     "index_reference": "يَعْقُوب",
@@ -177,13 +1138,64 @@
           "label": "أسباط إسرائيل الاثنى عشر",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8557,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8557,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8557,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8557,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8557,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaakobah",
+          "type": "person",
+          "preferred_label": "يَعْقوبَا",
+          "confidence": 0.8402,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeuz",
+          "type": "person",
+          "preferred_label": "يَعوصَ",
+          "confidence": 0.8005,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 133921,
+    "content_id": "133921",
     "reference_id": 108119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَعْقُوبُ",
     "media_type": "Text",
     "index_reference": "يَعْقُوبُ",
@@ -192,13 +1204,162 @@
     "content": "<p>أحد إخوة يسوع. في البداية لم يصدق أن يسوع هو المسيح. ظهر يسوع بعد قيامته من بين الأموات ليعقوب. آمن يعقوب بيسوع وأصبح قائدًا لكنيسة أورشليم. يتضمن العهد الجديد رسالة واحدة كتبها يعقوب. ويعقوب هذا مختلف عن يعقوب الرسول.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "يَعْقوبَ",
+          "confidence": 0.8866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaakobah",
+          "type": "person",
+          "preferred_label": "يَعْقوبَا",
+          "confidence": 0.8725,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabbok",
+          "type": "place",
+          "preferred_label": "يَبّوقَ",
+          "confidence": 0.8626,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeuz",
+          "type": "person",
+          "preferred_label": "يَعوصَ",
+          "confidence": 0.84,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "يَربْعَام",
+          "confidence": 0.8232,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "يَربْعَام",
+          "confidence": 0.8232,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaddua",
+          "type": "person",
+          "preferred_label": "يَدّوعَ",
+          "confidence": 0.8227,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaddua.2",
+          "type": "person",
+          "preferred_label": "يَدّوعَ",
+          "confidence": 0.8227,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahdo",
+          "type": "person",
+          "preferred_label": "يَحْدوَ",
+          "confidence": 0.8195,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jashobeam",
+          "type": "person",
+          "preferred_label": "يَشبْعَام",
+          "confidence": 0.8141,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jashobeam.2",
+          "type": "person",
+          "preferred_label": "يَشبْعَام",
+          "confidence": 0.8141,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jogbehah",
+          "type": "place",
+          "preferred_label": "يجْبَهَةَ",
+          "confidence": 0.8139,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jokdeam",
+          "type": "place",
+          "preferred_label": "يَقْدَعَام",
+          "confidence": 0.8081,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ibleam",
+          "type": "place",
+          "preferred_label": "يَبْلَعَام",
+          "confidence": 0.8073,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jidlaph",
+          "type": "person",
+          "preferred_label": "يِدْلَافَ",
+          "confidence": 0.805,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ibhar",
+          "type": "person",
+          "preferred_label": "يِبْحَار",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishbah",
+          "type": "person",
+          "preferred_label": "يِشْبَحَ",
+          "confidence": 0.8038,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133844,
+    "content_id": "133844",
     "reference_id": 108042,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يعقوب الرسول",
     "media_type": "Text",
     "index_reference": "يعقوب الرسول",
@@ -207,13 +1368,14 @@
     "content": "<p>واحد من تلاميذ يسوع الاثني عشر وواحد من أقرب أتباعه الثلاثة. كان أخوه يوحنا ووالدهما زبدي. دعا يسوع يعقوب ويوحنا أبنيّ الرعد. كان يعقوب أول رسول يُقتل لكونه مُخلصًا ليسوع.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134083,
+    "content_id": "134083",
     "reference_id": 108281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يغفر",
     "media_type": "Text",
     "index_reference": "يغفر",
@@ -222,13 +1384,14 @@
     "content": "<p>تُوجد عدة كلمات تُستخدم لتعبر عن كلمة &quot;يغفر&quot; في اللغتين العبرية واليونانية في الكتاب المقدس. إن هذه الكلمات تصف بطرق مختلفة ما يعنيه أن تغفر وما يعنيه أن يُغفر لك. فيمكن أن يُسامح شخص بخصوص دين من المال. وهذا يعني أن الشخص المديون بالمال لم يعد مضطرًا لدفعه. كذلك يمكن أن تُغفر الخطية. إن الله هو الذي يغفر الخطية. وهذا يعني أن الله يعرف أي نوع من الخطايا قد صُنع. وأن الله يعرف الشخص أو الجماعة من الناس الذين أذنبوا بعمل بتلك الخطية. إن الذنب هو بمثابة حمل ثقيل يرفعه الله عن الشخص عندما يغفر له. فإن الله هو الذي يرفع الذنب عن الشخص أو الجماعة. فيمكن فهم ذلك باعتبار أن الله يأخذ الخطية ويُطلقها في مكان بعيد. وهنا يختار الله ألا يجلب القضاء ضد الشخص أو الجماعة بسبب خطيتهم. إن الله دائمًا مستعد لأن يغفر للناس خطاياهم. وهذا لأنه كثير الرحمة والإحسان. فإن الله يريد من كل الناس ومن جميع الشعوب أن يتركوا خطاياهم. فهو يريدهم أن يطلبوا منه أن يغفر لهم. كما أن الله يريد أيضًا من جميع الناس أن يتبعوا مثاله ويفعلوا مثله. فإنه يريدهم أن يغفروا بعضهم لبعض خطاياهم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134240,
+    "content_id": "134240",
     "reference_id": 108438,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَفْتَاحُ",
     "media_type": "Text",
     "index_reference": "يَفْتَاحُ",
@@ -237,13 +1400,645 @@
     "content": "<p>أحد قضاة إسرائيل الاثني عشر في جلعاد. يُعتقد أنه كان من سبط منسّى. كان ابن رجل اسمه جلعاد وامرأة زانية. بعد أن حقق انتصاراً مهماً، ضحى بابنته.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jephthah",
+          "type": "person",
+          "preferred_label": "يَفْتَاح",
+          "confidence": 0.981,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Iphtah",
+          "type": "place",
+          "preferred_label": "يَفْتَاح",
+          "confidence": 0.981,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishbah",
+          "type": "person",
+          "preferred_label": "يِشْبَحَ",
+          "confidence": 0.8846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehozadak",
+          "type": "person",
+          "preferred_label": "يَهوصَادِقَ",
+          "confidence": 0.8843,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehosheba",
+          "type": "person",
+          "preferred_label": "يَهوشَبَع",
+          "confidence": 0.8763,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaaziah",
+          "type": "person",
+          "preferred_label": "يَعَزْيَا",
+          "confidence": 0.8762,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath",
+          "type": "person",
+          "preferred_label": "يَحَث",
+          "confidence": 0.8757,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.2",
+          "type": "person",
+          "preferred_label": "يَحَث",
+          "confidence": 0.8757,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.3",
+          "type": "person",
+          "preferred_label": "يَحَث",
+          "confidence": 0.8757,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahath.4",
+          "type": "person",
+          "preferred_label": "يَحَث",
+          "confidence": 0.8757,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahdo",
+          "type": "person",
+          "preferred_label": "يَحْدوَ",
+          "confidence": 0.8734,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.2",
+          "type": "person",
+          "preferred_label": "يِشْعِيَا",
+          "confidence": 0.8721,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.3",
+          "type": "person",
+          "preferred_label": "يِشْعِيَا",
+          "confidence": 0.8721,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.4",
+          "type": "person",
+          "preferred_label": "يِشْعِيَا",
+          "confidence": 0.8721,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.5",
+          "type": "person",
+          "preferred_label": "يِشْعِيَا",
+          "confidence": 0.8721,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.6",
+          "type": "person",
+          "preferred_label": "يِشْعِيَا",
+          "confidence": 0.8721,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishi",
+          "type": "person",
+          "preferred_label": "يِشْعِي",
+          "confidence": 0.8713,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishi.2",
+          "type": "person",
+          "preferred_label": "يِشْعِي",
+          "confidence": 0.8713,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishi.3",
+          "type": "person",
+          "preferred_label": "يِشْعِي",
+          "confidence": 0.8713,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishi.4",
+          "type": "person",
+          "preferred_label": "يِشْعِي",
+          "confidence": 0.8713,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah",
+          "type": "person",
+          "preferred_label": "يَشِّيَّا",
+          "confidence": 0.8683,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah.2",
+          "type": "person",
+          "preferred_label": "يَشِّيَّا",
+          "confidence": 0.8683,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah.3",
+          "type": "person",
+          "preferred_label": "يَشِّيَّا",
+          "confidence": 0.8683,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah.4",
+          "type": "person",
+          "preferred_label": "يَشِّيَّا",
+          "confidence": 0.8683,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmaiah",
+          "type": "person",
+          "preferred_label": "يَشْمَعِيَا",
+          "confidence": 0.8663,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmaiah.2",
+          "type": "person",
+          "preferred_label": "يَشْمَعِيَا",
+          "confidence": 0.8663,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehizkiah",
+          "type": "person",
+          "preferred_label": "يَحَزْقِيَا",
+          "confidence": 0.865,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Imna",
+          "type": "person",
+          "preferred_label": "يَمْنَاع",
+          "confidence": 0.8635,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jabez",
+          "type": "person",
+          "preferred_label": "يَعْبِيص",
+          "confidence": 0.863,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabez",
+          "type": "place",
+          "preferred_label": "يَعْبِيص",
+          "confidence": 0.863,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jacan",
+          "type": "person",
+          "preferred_label": "يَعْكَان",
+          "confidence": 0.8623,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaddua",
+          "type": "person",
+          "preferred_label": "يَدّوعَ",
+          "confidence": 0.8609,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaddua.2",
+          "type": "person",
+          "preferred_label": "يَدّوعَ",
+          "confidence": 0.8609,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jarha",
+          "type": "person",
+          "preferred_label": "يَرْحَع",
+          "confidence": 0.8609,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishbak",
+          "type": "person",
+          "preferred_label": "يِشْبَاقَ",
+          "confidence": 0.8524,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jabbok",
+          "type": "place",
+          "preferred_label": "يَبّوقَ",
+          "confidence": 0.8518,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jashobeam",
+          "type": "person",
+          "preferred_label": "يَشبْعَام",
+          "confidence": 0.8432,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jashobeam.2",
+          "type": "person",
+          "preferred_label": "يَشبْعَام",
+          "confidence": 0.8432,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshishai",
+          "type": "person",
+          "preferred_label": "يَشِيشَايَ",
+          "confidence": 0.8426,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshbekashah",
+          "type": "person",
+          "preferred_label": "يشْبَقَاشَة",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ismachiah",
+          "type": "person",
+          "preferred_label": "يَسْمَخْيَا",
+          "confidence": 0.8365,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Iphdeiah",
+          "type": "person",
+          "preferred_label": "يَفَدْيَا",
+          "confidence": 0.836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.834,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.834,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.3",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.834,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.4",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.834,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "يَشوع",
+          "confidence": 0.834,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jekamiah",
+          "type": "person",
+          "preferred_label": "يَقَمْيَا",
+          "confidence": 0.8271,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jekamiah.2",
+          "type": "person",
+          "preferred_label": "يَقَمْيَا",
+          "confidence": 0.8271,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jazer",
+          "type": "place",
+          "preferred_label": "يَعْزِيرَ",
+          "confidence": 0.8267,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:JazerSea",
+          "type": "place",
+          "preferred_label": "يَعْزِيرَ",
+          "confidence": 0.8267,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaaziel",
+          "type": "person",
+          "preferred_label": "يَعْزِئِيلَ",
+          "confidence": 0.8251,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishpan",
+          "type": "person",
+          "preferred_label": "يِشْفَان",
+          "confidence": 0.825,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joktan",
+          "type": "person",
+          "preferred_label": "يَقْطَان",
+          "confidence": 0.8242,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshijah",
+          "type": "person",
+          "preferred_label": "يِشِّيَّا",
+          "confidence": 0.8232,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishvi.2",
+          "type": "person",
+          "preferred_label": "يِشْوِي",
+          "confidence": 0.8227,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat",
+          "type": "person",
+          "preferred_label": "يَهوشَافَاط",
+          "confidence": 0.8201,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.2",
+          "type": "person",
+          "preferred_label": "يَهوشَافَاط",
+          "confidence": 0.8201,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "يَهوشَافَاط",
+          "confidence": 0.8201,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.4",
+          "type": "person",
+          "preferred_label": "يَهوشَافَاط",
+          "confidence": 0.8201,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeush",
+          "type": "person",
+          "preferred_label": "يَعِيش",
+          "confidence": 0.8193,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeush.2",
+          "type": "person",
+          "preferred_label": "يَعِيش",
+          "confidence": 0.8193,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeush.3",
+          "type": "person",
+          "preferred_label": "يَعِيش",
+          "confidence": 0.8193,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeush.4",
+          "type": "person",
+          "preferred_label": "يَعِيش",
+          "confidence": 0.8193,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeush.5",
+          "type": "person",
+          "preferred_label": "يَعِيش",
+          "confidence": 0.8193,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Joktheel",
+          "type": "place",
+          "preferred_label": "يَقْتِئِيل",
+          "confidence": 0.8189,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeuz",
+          "type": "person",
+          "preferred_label": "يَعوصَ",
+          "confidence": 0.8167,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Igal",
+          "type": "person",
+          "preferred_label": "يَجْآل",
+          "confidence": 0.8148,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Igal.2",
+          "type": "person",
+          "preferred_label": "يَجْآل",
+          "confidence": 0.8148,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Igal.3",
+          "type": "person",
+          "preferred_label": "يَجْآل",
+          "confidence": 0.8148,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishpah",
+          "type": "person",
+          "preferred_label": "يِشْفَة",
+          "confidence": 0.8146,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jidlaph",
+          "type": "person",
+          "preferred_label": "يِدْلَافَ",
+          "confidence": 0.8141,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Izrahiah",
+          "type": "person",
+          "preferred_label": "يَزْرَحْيَا",
+          "confidence": 0.8136,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jogli",
+          "type": "person",
+          "preferred_label": "يجْلِي",
+          "confidence": 0.8135,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jerioth",
+          "type": "person",
+          "preferred_label": "يَرِيعوثَ",
+          "confidence": 0.813,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jokdeam",
+          "type": "place",
+          "preferred_label": "يَقْدَعَام",
+          "confidence": 0.8114,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jattir",
+          "type": "place",
+          "preferred_label": "يَتِّير",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "يَربْعَام",
+          "confidence": 0.8086,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "يَربْعَام",
+          "confidence": 0.8086,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Irpeel",
+          "type": "place",
+          "preferred_label": "يَرَفْئِيلَ",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaareshiah",
+          "type": "person",
+          "preferred_label": "يَعْرَشْيَا",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehucal",
+          "type": "person",
+          "preferred_label": "يَهوخَلَ",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.2",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.3",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.4",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.5",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.6",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.7",
+          "type": "person",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jeshua",
+          "type": "place",
+          "preferred_label": "يَشوعَ",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134305,
+    "content_id": "134305",
     "reference_id": 108503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يهود",
     "media_type": "Text",
     "index_reference": "يهود",
@@ -267,13 +2062,29 @@
           "label": "عَبرانيون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Jews",
+          "type": "group",
+          "preferred_label": "Jews",
+          "confidence": 0.9085,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Judea",
+          "type": "group",
+          "preferred_label": "Judeans",
+          "confidence": 0.8025,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 133837,
+    "content_id": "133837",
     "reference_id": 108035,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يهوذا",
     "media_type": "Text",
     "index_reference": "يهوذا",
@@ -282,13 +2093,113 @@
     "content": "<p>المنطقة الجنوبية من الأرض التي وعد الله أن يعطيها لنسل إبراهيم. وكانت تشمل الأرض التي كانت تسمى مملكة يهوذا الجنوبية. وسُميت يهوذا بعد عودة جزء من شعب الله من السبي في بابل. عاش سبط يهوذا في يهوذا. كانت أورشليم أهم مدينة في يهذا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133896,
+    "content_id": "133896",
     "reference_id": 108094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يهوذا",
     "media_type": "Text",
     "index_reference": "يهوذا",
@@ -297,13 +2208,113 @@
     "content": "<p>أحد تلاميذ يسوع الاثني عشر. كان اسم والده يعقوب. وأطلَق متى ومرقس على هذا التلميذ اسم تداوس.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133970,
+    "content_id": "133970",
     "reference_id": 108168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يهوذا",
     "media_type": "Text",
     "index_reference": "يهوذا",
@@ -312,13 +2323,113 @@
     "content": "<p>أحد إخوة يسوع. في البداية لم يؤمن أن يسوع هو المسيح. فيما بعد آمن بيسوع وأصبح قائدًا بين الكنائس. يتضمن العهد الجديد رسالة واحدة تحمل اسمه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134093,
+    "content_id": "134093",
     "reference_id": 108291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يهوذا",
     "media_type": "Text",
     "index_reference": "يهوذا",
@@ -327,13 +2438,113 @@
     "content": "<p>هو ابن يعقوب وليئة. وفي اللغة العبرية، يعني اسمه الحمد أو الشكر. ولقد اضطجع يهوذا مع كنته ثامار. وهكذا أنجب منها فارص وزارح. احتوت بركة يعقوب له على نبوة بأن ملوك سيأتون ويخرجون من نسله. فقد أتي كل من الملك داود ويسوع المسيح من نسل يهوذا. كما صار سبط يهوذا من الأسباط المهمة في إسرائيل. ثم أصبح هو السبط الأساسي في المملكة الجنوبية. ولذلك أصبحت المملكة الجنوبية لشعب إسرائيل معروفة باسم يهوذا. وقد استمر ذلك حتى سيطرت مملكة بابل على المملكة الجنوبية. وكانت تلك الأرض مستمرة في ان تُعرف باسم يهوذا عندما سادت مملكة فارس وحكمت هناك.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Judah",
+          "type": "group",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "يَهوذَا",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133868,
+    "content_id": "133868",
     "reference_id": 108066,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَهُوذَا الإِسْخَرْيُوطِي",
     "media_type": "Text",
     "index_reference": "يَهُوذَا الإِسْخَرْيُوطِي",
@@ -342,13 +2553,14 @@
     "content": "<p>أحد تلاميذ يسوع الاثني عشر. كان مسؤولاً عن أموال التلاميذ لكنه سرق منها. سلَّم يسوع إلى قادة اليهود الذين أرادوا قتله. وفيما بعد قتل نفسه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134285,
+    "content_id": "134285",
     "reference_id": 108483,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يهوشافاط",
     "media_type": "Text",
     "index_reference": "يهوشافاط",
@@ -357,13 +2569,14 @@
     "content": "<p>ابن آسا وعزوبة. كان والد يِهورام وكان من سبط يهوذا. كان رابع ملوك مملكة يهوذا الجنوبية. اتبع الله بأمانة وقاد الشعب إلى عبادة الله وحده.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134294,
+    "content_id": "134294",
     "reference_id": 108492,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يَهُوياداع",
     "media_type": "Text",
     "index_reference": "يَهُوياداع",
@@ -372,13 +2585,29 @@
     "content": "<p>كاهن مهم عندما كانت عثليا ملكة وبعد أن أصبح يوآش ملكًا. كانت زوجته يهوشبع. كان يَهُوياداع والد زكريا وكان عم يوآش. علَّم يوآش أن يكون أميناً لعهد جبل سيناء. قاد يَهُوياداع شعب أورشليم إلى التوقف عن اتباع عثليا وقتلها. ثم قادهم إلى تنصيب يوآش ملكاً واتباع عهد الله. وعندما مات يَهُوياداع كرّمه الشعب بدفنه مع ملوك يهوذا. وفيما بعد قتل يوآش يَهُوياداع بن زكريا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joiada",
+          "type": "person",
+          "preferred_label": "يويَادَاعَ",
+          "confidence": 0.8503,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiada.2",
+          "type": "person",
+          "preferred_label": "يويَادَاعَ",
+          "confidence": 0.8503,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134265,
+    "content_id": "134265",
     "reference_id": 108463,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يُوآب",
     "media_type": "Text",
     "index_reference": "يُوآب",
@@ -387,13 +2616,99 @@
     "content": "<p>ابن أخت داود الذي وكان مقاتلًا عظيمًا. أصبح قائد جيوش إسرائيل تحت قيادة داود. كان مخلصًا لداود لسنوات عديدة. لكنه خرج عن طاعة داود بقتله لأبنير وعماسا. كما عصى داود بقتله لأبشالوم. لم يؤيد سليمان كملك بعد داود. بسبب هذه الأمور، أمر داود سليمان بقتل يوآب.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joab",
+          "type": "person",
+          "preferred_label": "يوآب",
+          "confidence": 0.89,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joab.2",
+          "type": "person",
+          "preferred_label": "يوآب",
+          "confidence": 0.89,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joab.3",
+          "type": "person",
+          "preferred_label": "يوآب",
+          "confidence": 0.89,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joab.4",
+          "type": "person",
+          "preferred_label": "يوآب",
+          "confidence": 0.89,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab",
+          "type": "person",
+          "preferred_label": "يوبَاب",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.2",
+          "type": "person",
+          "preferred_label": "يوبَاب",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.3",
+          "type": "person",
+          "preferred_label": "يوبَاب",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.4",
+          "type": "person",
+          "preferred_label": "يوبَاب",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.5",
+          "type": "person",
+          "preferred_label": "يوبَاب",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiarib",
+          "type": "person",
+          "preferred_label": "يويَارِيبَ",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiarib.2",
+          "type": "person",
+          "preferred_label": "يويَارِيبَ",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiarib.3",
+          "type": "person",
+          "preferred_label": "يويَارِيبَ",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134293,
+    "content_id": "134293",
     "reference_id": 108491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوآش",
     "media_type": "Text",
     "index_reference": "يوآش",
@@ -402,13 +2717,127 @@
     "content": "<p>ابن  أخزيا وظَبْيَةُ. كان والد أَمَصْيَا وكان من سبط يهوذا. كان سابع ملوك المملكة الجنوبية. حاولت جدته عثليا قتله لكن عمته يَهُوشَبَعُ  أنقذته. نشأ يوآش في الهيكل مع يهوذا. أصبح ملكاً وهو في السابعة من عمره. حرص على إصلاح الهيكل. اتبع الله بأمانة وقاد الشعب إلى عبادة الله وحده. فعل ذلك طالما كان يهوياداع حيًا. بعد موت يهوياداع، فعل يوآش أشياء شريرة وعبد آلهة كاذبة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joash",
+          "type": "person",
+          "preferred_label": "يوآش",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.2",
+          "type": "person",
+          "preferred_label": "يوآش",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.3",
+          "type": "person",
+          "preferred_label": "يوآش",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.4",
+          "type": "person",
+          "preferred_label": "يوآش",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.5",
+          "type": "person",
+          "preferred_label": "يوآش",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.6",
+          "type": "person",
+          "preferred_label": "يوآش",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.7",
+          "type": "person",
+          "preferred_label": "يوآش",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.8",
+          "type": "person",
+          "preferred_label": "يوآش",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshah",
+          "type": "person",
+          "preferred_label": "يوشَا",
+          "confidence": 0.8575,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah",
+          "type": "person",
+          "preferred_label": "يوآخ",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah.2",
+          "type": "person",
+          "preferred_label": "يوآخ",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah.3",
+          "type": "person",
+          "preferred_label": "يوآخ",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah.4",
+          "type": "person",
+          "preferred_label": "يوآخ",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah.5",
+          "type": "person",
+          "preferred_label": "يوآخ",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah.6",
+          "type": "person",
+          "preferred_label": "يوآخ",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joahaz",
+          "type": "person",
+          "preferred_label": "يوآحَازَ",
+          "confidence": 0.8188,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134344,
+    "content_id": "134344",
     "reference_id": 108542,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوحنا",
     "media_type": "Text",
     "index_reference": "يوحنا",
@@ -417,13 +2846,14 @@
     "content": "<p>كاتب إنجيل يوحنا. كما كتب أيضاً رسائل يوحنا الأولى، والثانية، والثالثة. ويُعتقد أنه كتب أيضاً سفر الرؤيا. كان يوحنا أحد تلاميذ يسوع الاثني عشر وأحد أقرب ثلاثة من تلاميذه. في إنجيل يوحنا يُدعى التلميذ الذي كان يسوع يحبه. كان أخوه يعقوب ووالدهما زبدي. دعا يسوع يعقوب ويوحنا ابني الرعد.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134382,
+    "content_id": "134382",
     "reference_id": 108580,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يُوحَنَّا المعمدان",
     "media_type": "Text",
     "index_reference": "يُوحَنَّا المعمدان",
@@ -440,13 +2870,14 @@
           "label": "إِيلِيَّا",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134090,
+    "content_id": "134090",
     "reference_id": 108288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوسف",
     "media_type": "Text",
     "index_reference": "يوسف",
@@ -455,13 +2886,99 @@
     "content": "<p>الابن الأكبر ليعقوب وراحيل. كان الابن المفضل ليعقوب. في اللغة العبرية يوسف يعني يزيدني الرب. أعطته راحيل هذا الاسم لأنها أرادت المزيد من الأولاد. باعه بعض إخوته كعبد إلى مصر. أصبح فيما بعد حاكماً على مصر وأنقذ الكثير من الناس من الموت جوعاً. كانت زوجته أسنات. وأصبح نسل ابنيه منسّى وأفرايم من أسباط إسرائيل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joseph.10",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.11",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.12",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.13",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.14",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.3",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.4",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.5",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.6",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.7",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.8",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.9",
+          "type": "person",
+          "preferred_label": "يوسف",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133834,
+    "content_id": "133834",
     "reference_id": 108032,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يُوسُف النجار",
     "media_type": "Text",
     "index_reference": "يُوسُف النجار",
@@ -470,13 +2987,14 @@
     "content": "<p>زوج مريم التي من الناصرة. كان من نسل داود وخدم الله بأمانة. كان نجارًا ماهرًا في العمل بالخشب والطوب والمعادن. لم يكن والد يسوع ولكنه تبنّى يسوع كابن له. كان يعتني بيسوع ويحميه وهو صغير.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134177,
+    "content_id": "134177",
     "reference_id": 108375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوم الْخَمْسِين",
     "media_type": "Text",
     "index_reference": "يوم الْخَمْسِين",
@@ -485,13 +3003,14 @@
     "content": "<p>عيد اليهودي بعد 50 يومًا من يوم الباكورة. كان يسمى عيد الأسابيع أو عيد العنصرة. كان الناس يقدمون الذبائح لله ويشكرونه على الحصاد. كان يُطلب من الذكور الإسرائيليين السفر إلى خيمة الإجتماع أو الهيكل في هذا العيد. وهو أيضًا العيد الذي حل فيه الروح القدس لأول مرة على أتباع يسوع. حدث هذا بعد 50 يومًا من قيامة يسوع.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133857,
+    "content_id": "133857",
     "reference_id": 108055,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوم الدينونة",
     "media_type": "Text",
     "index_reference": "يوم الدينونة",
@@ -508,13 +3027,14 @@
           "label": "يوم الرب",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133974,
+    "content_id": "133974",
     "reference_id": 108172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوم الرب",
     "media_type": "Text",
     "index_reference": "يوم الرب",
@@ -523,13 +3043,14 @@
     "content": "<p>أشار إليه يوحنا كاتب سفر الرؤيا عند حديثه عن يوم الأحد أو اليوم الذي يلي يوم السبت. إنه اليوم الذي قام فيه يسوع من بين الأموات. لهذا السبب، بدأت الكنائس تجتمع لعبادة الله يوم الأحد.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134373,
+    "content_id": "134373",
     "reference_id": 108571,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوم الرب",
     "media_type": "Text",
     "index_reference": "يوم الرب",
@@ -553,13 +3074,14 @@
           "label": "عودة المسيح",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134168,
+    "content_id": "134168",
     "reference_id": 108366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوم الكفارة",
     "media_type": "Text",
     "index_reference": "يوم الكفارة",
@@ -576,13 +3098,14 @@
           "label": "كفارة- تكفير",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134259,
+    "content_id": "134259",
     "reference_id": 108457,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوناثان",
     "media_type": "Text",
     "index_reference": "يوناثان",
@@ -591,13 +3114,155 @@
     "content": "<p>ابن شاول وأخينوعم. كان من سبط بنيامين. أيد يوناثان خطة الله لجعل داود ملكاً بدلاً منه. وقطع عهد صداقة مع داود. وبسبب صداقتهما، أحسن داود لمفيبوشث بن يوناثان.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jonathan.10",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.11",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.12",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.13",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.2",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.3",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.4",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.5",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.6",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.7",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.8",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.9",
+          "type": "person",
+          "preferred_label": "يونَاثَانَ",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonah.2",
+          "type": "person",
+          "preferred_label": "يونَانَ",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonam",
+          "type": "person",
+          "preferred_label": "يونَانَ",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joanna",
+          "type": "person",
+          "preferred_label": "يوَنَّا",
+          "confidence": 0.8098,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joanan",
+          "type": "person",
+          "preferred_label": "يوحَنَّا",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "يوحَنَّا",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "يوحَنَّا",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.3",
+          "type": "person",
+          "preferred_label": "يوحَنَّا",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "يوحَنَّا",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133996,
+    "content_id": "133996",
     "reference_id": 108194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يونان",
     "media_type": "Text",
     "index_reference": "يونان",
@@ -606,13 +3271,14 @@
     "content": "<p>مملكة كانت قوية جدًا في السنوات الواقعة بين العهدين القديم والجديد. سيطر الحكام اليونانيون على إسرائيل وأورشليم لفترة من الزمن. ثم سيطرت الجيوش الرومانية على الأراضي التي حكمها اليونانيون. لكن طرق التفكير والتصرف اليونانية استمرت حتى أثناء الحكم الروماني. كان الناس يتحدثون اللغة اليونانية في المناطق المحيطة بالبحر الأبيض المتوسط. كُتب العهد الجديد باللغة اليونانية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134375,
+    "content_id": "134375",
     "reference_id": 108573,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يونان",
     "media_type": "Text",
     "index_reference": "يونان",
@@ -621,7 +3287,8 @@
     "content": "<p>نبي من مملكة إسرائيل الشمالية. كان ابن أمتاي. تنبأ عن حدود المملكة الشمالية، وتحققت هذه النبوة عندما حكم الملك يربعام الثاني. هناك قصة عن يونان مسجلة في سفر يونان.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

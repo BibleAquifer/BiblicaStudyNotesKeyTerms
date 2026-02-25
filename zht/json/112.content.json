@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232650,
+    "content_id": "232650",
     "reference_id": 108049,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "稅吏",
     "media_type": "Text",
     "index_reference": "稅吏",
@@ -19,13 +19,22 @@
           "label": "外人",
           "language": "zht"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:TaxCollector",
+          "type": "keyterm",
+          "preferred_label": "Tax Collector",
+          "confidence": 0.8302,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 233178,
+    "content_id": "233178",
     "reference_id": 108577,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "稅務",
     "media_type": "Text",
     "index_reference": "稅務",
@@ -34,7 +43,16 @@
     "content": "<p>政府要求人民支付的錢。生活在該政府權力下的人要支付這筆錢。領導者理當使用這筆錢來照顧他們的人民。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Tax",
+          "type": "keyterm",
+          "preferred_label": "Tax",
+          "confidence": 0.8843,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

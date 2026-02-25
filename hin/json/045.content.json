@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 183095,
+    "content_id": "183095",
     "reference_id": 108201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्वर्ग",
     "media_type": "Text",
     "index_reference": "स्वर्ग",
@@ -26,13 +26,22 @@
           "label": "परमेश्वर का राज्य",
           "language": "hin"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Hell",
+          "type": "place",
+          "preferred_label": "नरक",
+          "confidence": 0.8031,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 183207,
+    "content_id": "183207",
     "reference_id": 108313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्वर्गदूत",
     "media_type": "Text",
     "index_reference": "स्वर्गदूत",
@@ -49,13 +58,14 @@
           "label": "आत्मिक प्राणी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 183423,
+    "content_id": "183423",
     "reference_id": 108529,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्वर्गीय दुनिया",
     "media_type": "Text",
     "index_reference": "स्वर्गीय दुनिया",
@@ -79,13 +89,14 @@
           "label": "आत्मिक प्राणी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 183050,
+    "content_id": "183050",
     "reference_id": 108156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "स्वर्गीय नागरिक",
     "media_type": "Text",
     "index_reference": "स्वर्गीय नागरिक",
@@ -102,7 +113,8 @@
           "label": "परमेश्वर का राज्य",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

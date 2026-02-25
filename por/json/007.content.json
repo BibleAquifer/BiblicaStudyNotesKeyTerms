@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 145606,
+    "content_id": "145606",
     "reference_id": 108097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Falar outras línguas",
     "media_type": "Text",
     "index_reference": "falar outras línguas",
@@ -19,13 +19,14 @@
           "label": "Explicar outras línguas",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 146059,
+    "content_id": "146059",
     "reference_id": 108550,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Falso profeta",
     "media_type": "Text",
     "index_reference": "falso profeta",
@@ -42,13 +43,14 @@
           "label": "Profeta",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 145793,
+    "content_id": "145793",
     "reference_id": 108284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Falsos deuses",
     "media_type": "Text",
     "index_reference": "falsos deuses",
@@ -57,13 +59,14 @@
     "content": "<p>Qualquer coisa que as pessoas adoram que é mais importante para elas do que o verdadeiro Deus. As pessoas adoram coisas porque acreditam que elas têm poder. O diabo usa a adoração dessas coisas para prender as pessoas e controlá-las. Os grupos de pessoas na Bíblia faziam imagens ou estátuas de algumas dessas coisas. Imagens ou estátuas de falsos deuses são objetos que não têm poder.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145554,
+    "content_id": "145554",
     "reference_id": 108045,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Família de Deus",
     "media_type": "Text",
     "index_reference": "família de deus",
@@ -72,13 +75,14 @@
     "content": "<p>O relacionamento que Deus quer com todos os seres humanos. A família de Deus é diferente das famílias humanas. Nos tempos e lugares da Bíblia, as famílias eram geralmente lideradas por homens mais velhos. As famílias incluíam mulheres mais velhas, homens e mulheres mais jovens e crianças. Escravos também faziam parte do lar. Os homens tinham autoridade sobre mulheres e crianças. Os donos de escravos tinham autoridade sobre os escravos. Este sistema é o que as nações e grupos de pessoas daquela época eram baseados. Os evangelhos, as cartas de Paulo e as cartas de Pedro explicaram como é a família de Deus. As pessoas que seguem Jesus pertencem todas à família de Deus. Deus as adota como seus filhos. Cada membro da família é amado e aceito por Deus. Portanto, eles devem tratar uns aos outros com respeito e amor. Alguns crentes têm autoridade sobre outros. Eles devem esta autoridade para abençoar e servir aos outros. Alguns crentes não têm autoridade sobre outros. Eles deveriam fazer tudo o que fazem como se estivessem servindo a Jesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145759,
+    "content_id": "145759",
     "reference_id": 108250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Faraó",
     "media_type": "Text",
     "index_reference": "faraó",
@@ -87,13 +91,71 @@
     "content": "<p>O título para o governante com mais autoridade no Egito. Muitos diferentes Faraós são mencionados na Bíblia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.10",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.7",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.8",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.9",
+          "type": "person",
+          "preferred_label": "Faraó",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145559,
+    "content_id": "145559",
     "reference_id": 108050,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fariseus",
     "media_type": "Text",
     "index_reference": "fariseus",
@@ -102,13 +164,22 @@
     "content": "<p>Um grupo de líderes religiosos judeus nos tempos do Novo Testamento. Eles incentivavam os judeus a se esforçarem muito para obedecer a todas as leis do Antigo Testamento. Eles não acreditavam que Jesus fosse o Messias que Deus havia prometido enviar. A maioria dos fariseus se opôs a Jesus e aos seus ensinamentos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 0.8872,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145741,
+    "content_id": "145741",
     "reference_id": 108232,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fé",
     "media_type": "Text",
     "index_reference": "fé",
@@ -117,13 +188,22 @@
     "content": "<p>Há vários significados para fé na Bíblia. O primeiro significado são as coisas que as pessoas acreditam sobre Deus. Deus quer que todas as pessoas acreditem no que é verdadeiro sobre ele. Estas são coisas que Deus revelou sobre si mesmo e as maneiras como ele agiu. No Novo Testamento, essas coisas incluem a mensagem das boas novas sobre Jesus. O segundo significado de fé é a própria crença. É a confiança que as pessoas têm em Deus. Ela se baseia na esperança delas de como Deus cumprirá suas promessas. A força da fé das pessoas é demonstrada através do quanto elas confiam em Deus. A fé delas cresce à medida que conhecem mais e mais a Deus. O terceiro significado de fé é como as pessoas vivem com base no que acreditam. O povo de Deus deve seguir os caminhos de Deus para viver. Jesus mostrou às pessoas como fazer isso. Fé em Jesus inclui seguir seu exemplo de vida.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:BelieveIn",
+          "type": "keyterm",
+          "preferred_label": "Believe In",
+          "confidence": 0.8032,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145924,
+    "content_id": "145924",
     "reference_id": 108415,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ferramenta de Deus",
     "media_type": "Text",
     "index_reference": "ferramenta de deus",
@@ -132,13 +212,14 @@
     "content": "<p>Ao longo da Bíblia, Deus usa pessoas, grupos e nações como sua ferramenta para trazer julgamento. Através deles, ele traz julgamento contra pessoas, grupos ou nações que fazem coisas más. Isso é parte de como ele faz o mal parar e trazer de volta a paz. Deus decide quando trazer julgamento e como fazê-lo. Aqueles que Deus usa como ferramenta não são melhores do que aqueles que estão sendo julgados. Cada pessoa, grupo e nação é responsável por servir e obedecer a Deus. Todos serão julgados pelas coisas más que fazem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145826,
+    "content_id": "145826",
     "reference_id": 108317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festa da Páscoa",
     "media_type": "Text",
     "index_reference": "festa da páscoa",
@@ -147,13 +228,14 @@
     "content": "<p>O tempo em que os judeus celebram como Deus os salvou de serem escravos no Egito. É o início da Festa dos Pães Asmos. O nome Páscoa vem de algo que aconteceu logo antes do Êxodo. Deus passou por cima das casas dos israelitas durante a décima praga. É por isso que seus filhos mais velhos não foram mortos durante essa praga. Após essa praga, o faraó deixou os israelitas saírem do Egito. Deus deu instruções aos israelitas sobre como celebrar a Páscoa todos os anos. Incluía uma refeição especial com certos alimentos. Muitos anos depois, Jesus foi morto na época da Páscoa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145886,
+    "content_id": "145886",
     "reference_id": 108377,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festa das Barracas",
     "media_type": "Text",
     "index_reference": "festa das barracas",
@@ -162,13 +244,14 @@
     "content": "<p>A festa judaica que começava cinco dias após o dia em que os pecados eram pagos. O povo celebrava a colheita e como Deus providenciou tudo para eles. Os homens israelitas eram obrigados a viajar para a tenda sagrada ou ao templo para esta festa. Durante os sete dias da festa, eles dormiam em barracas. Isso era para lembrar como eles haviam vivido em barracas ou tendas no deserto. A cada sete anos, a lei da aliança deveria ser lida em voz alta durante esta festa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145885,
+    "content_id": "145885",
     "reference_id": 108376,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festa das Trombetas",
     "media_type": "Text",
     "index_reference": "festa das trombetas ",
@@ -177,13 +260,14 @@
     "content": "<p>O primeiro dia do sétimo mês. Chifres de carneiro eram soprados como trombetas. Acontecia nove dias antes do dia em que os pecados eram pagos. Os israelitas usavam esses dias para descansar, refletir e admitir seus pecados. Eles os usavam para se preparar para o Dia da Expiação. Esta festa é atualmente chamada de Rosh Hashaná. Agora é considerado o primeiro dia do ano novo para os judeus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 146032,
+    "content_id": "146032",
     "reference_id": 108523,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festa do Purim",
     "media_type": "Text",
     "index_reference": "festa do purim",
@@ -192,13 +276,14 @@
     "content": "<p>A festa judaica para celebrar o dia em que o povo foi resgatado do plano de Hamã de destruir todos os judeus. Não é uma das festas descritas na Lei de Moisés. Os judeus começaram a celebrá-la quando o governo persa estava no controle. Eles a celebravam nos dias 14 e 15 do 12º mês. Foi nomeada Purim porque Hamã lançou sortes para decidir quando destruir os judeus. Na língua hebraica, a palavra Pur significa sortes. A ordem de Ester e Mordecai resgatou os judeus dos planos de Hamã. A festa deveria ser um momento alegre de boa comida e oferta de presentes aos pobres. Ler o livro de Ester em voz alta tornou-se uma prática comum durante a Festa de Purim.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145882,
+    "content_id": "145882",
     "reference_id": 108373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festa dos pães sem fermento",
     "media_type": "Text",
     "index_reference": "festa dos pães sem fermento",
@@ -207,13 +292,14 @@
     "content": "<p>A festa judaica que durava sete dias após a Páscoa. Durante esse tempo, o pão que os israelitas comiam não tinha fermento. Isso era para lembrá-los do Êxodo. Quando Deus os libertou da escravidão, eles saíram do Egito rapidamente. Eles não tiveram tempo de usar fermento no pão. Os homens israelitas eram obrigados a viajar até a tenda sagrada ou templo para essa festa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145881,
+    "content_id": "145881",
     "reference_id": 108372,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Festas",
     "media_type": "Text",
     "index_reference": "festas",
@@ -222,13 +308,22 @@
     "content": "<p>Atividades que ajudavam os israelitas a se lembrarem de quem Deus é. As festas os ajudavam a se lembrarem de que Deus continuaria a protegê-los e a prover para eles. As festas envolviam descansar em vez de fazer seu trabalho habitual. Elas envolviam comer juntos. Elas também envolviam fazer sacrifícios e adorar a Deus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Festus",
+          "type": "person",
+          "preferred_label": "Festo",
+          "confidence": 0.8354,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145689,
+    "content_id": "145689",
     "reference_id": 108180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filadélfia",
     "media_type": "Text",
     "index_reference": "filadélfia",
@@ -237,13 +332,22 @@
     "content": "<p>Uma cidade importante no território romano da Ásia. É a cidade de Alaşehir no país conhecido como Turquia, nos dias atuais.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philadelphia",
+          "type": "place",
+          "preferred_label": "Filadélfia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145673,
+    "content_id": "145673",
     "reference_id": 108164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filemom",
     "media_type": "Text",
     "index_reference": "filemom",
@@ -252,13 +356,22 @@
     "content": "<p>Um cristão rico em Colossos que era amigo de Paulo e trabalhava junto com ele. Pensa-se que Áfia era a esposa de Filemom e Arquipo era seu filho. Uma igreja se reunia em sua casa. Ele possuía um escravo chamado Onésimo. A carta que Paulo escreveu para ele sobre Onésimo é chamada Filemom.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philemon",
+          "type": "person",
+          "preferred_label": "Filemom",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145561,
+    "content_id": "145561",
     "reference_id": 108052,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filho de Davi",
     "media_type": "Text",
     "index_reference": "filho de davi",
@@ -275,13 +388,14 @@
           "label": "Davi",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 146035,
+    "content_id": "146035",
     "reference_id": 108526,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filho de Deus",
     "media_type": "Text",
     "index_reference": "filho de deus",
@@ -290,13 +404,14 @@
     "content": "<p>Uma maneira que o Salmo 2 descreveu os reis de Israel. O salmo mostrou que eles foram escolhidos por Deus para governar e eram dignos de honra. Mostrava que eles deviam seguir o exemplo de Deus para governar. Nos tempos do Novo Testamento, os imperadores romanos eram chamados de filho de deus. Isso acontecia porque os romanos acreditavam que os deuses deram poder a César. Esse nome foi usado de uma maneira especial para falar sobre Jesus. Significa que o único, verdadeiro e poderoso Deus é o Pai de Jesus. Usar esse nome para Jesus deixou os judeus que não o aceitavam muito irritados. Também deixou o governo romano irritado, pois desafiava a autoridade de César.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 146066,
+    "content_id": "146066",
     "reference_id": 108557,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filho do Homem",
     "media_type": "Text",
     "index_reference": "filho do homem",
@@ -305,13 +420,14 @@
     "content": "<p>Uma maneira de falar sobre uma pessoa ou ser humano. Também é o nome de alguém em uma visão que Daniel teve (Daniel 7.13–14). Na visão, o filho do homem salvou Israel de seus inimigos. Jesus chamou a si mesmo de Filho do Homem. Esta era uma maneira de falar sobre como ele é humano e, ao mesmo tempo, tem a autoridade de Deus. Jesus explicou que, como o Filho do Homem, ele sofreria. Então ele venceria os inimigos de Deus. Esses inimigos são o pecado, a morte e o mal. Jesus faria isso por todos os seres humanos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145740,
+    "content_id": "145740",
     "reference_id": 108231,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filhos de Deus",
     "media_type": "Text",
     "index_reference": "filhos de deus",
@@ -320,13 +436,14 @@
     "content": "<p>Não se sabe ao certo quem eram os filhos de Deus. Pensa-se que eram seres espirituais que se rebelaram contra Deus. Acredita-se que vieram à terra com corpos físicos e se casaram com mulheres humanas. Isso foi contra o plano de Deus de que os seres humanos se casassem apenas com outros seres humanos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145612,
+    "content_id": "145612",
     "reference_id": 108103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipe",
     "media_type": "Text",
     "index_reference": "filipe",
@@ -335,13 +452,50 @@
     "content": "<p>Um dos sete líderes escolhidos pelos crentes em Jerusalém para ser um diácono. Ele garantiu que todos os crentes tivessem comida suficiente. Ele era uma pessoa diferente do Filipe que era um dos 12 discípulos de Jesus. Ele espalhou a mensagem sobre Jesus para muitas pessoas e lugares. Suas quatro filhas eram profetas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipos",
+          "confidence": 0.8648,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145635,
+    "content_id": "145635",
     "reference_id": 108126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipos",
     "media_type": "Text",
     "index_reference": "filipos",
@@ -350,13 +504,57 @@
     "content": "<p>Uma cidade grega no território romano da Macedônia. Estava na área que, atualmente, é o norte da Grécia. Paulo viajou para lá em sua segunda jornada. Foi a primeira cidade na Europa onde as boas novas sobre Jesus foram compartilhadas. A carta de Paulo aos Filipenses foi para a igreja que lá estava.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipos",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 0.8648,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 0.8648,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 0.8648,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Filipe",
+          "confidence": 0.8648,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Philippi",
+          "type": "group",
+          "preferred_label": "Philippians",
+          "confidence": 0.8051,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145776,
+    "content_id": "145776",
     "reference_id": 108267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filisteus",
     "media_type": "Text",
     "index_reference": "filisteus",
@@ -365,13 +563,36 @@
     "content": "<p>Um grupo de pessoas da linhagem de Cam. Eles viviam no sul de Canaã ao longo da costa do Mar Mediterrâneo. Às vezes, trabalhavam junto com a linhagem da família de Abraão. Na maioria das vezes, estavam em guerra com a nação de Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Filisteu",
+          "confidence": 0.9296,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philistine",
+          "type": "person",
+          "preferred_label": "Filisteu",
+          "confidence": 0.9296,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Filístia",
+          "confidence": 0.8992,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145912,
+    "content_id": "145912",
     "reference_id": 108403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fineias",
     "media_type": "Text",
     "index_reference": "fineias",
@@ -380,13 +601,36 @@
     "content": "<p>Um filho de Eleazar e neto de Arão. Ele matou um israelita que estava sendo infiel a Deus. Quando ele fez isso, Deus parou a praga em Baal Peor. Deus fez uma aliança de paz com Fineias e os filhos nascidos depois dele.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Phinehas",
+          "type": "person",
+          "preferred_label": "Fineias",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Phinehas.2",
+          "type": "person",
+          "preferred_label": "Fineias",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Phinehas.3",
+          "type": "person",
+          "preferred_label": "Fineias",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145878,
+    "content_id": "145878",
     "reference_id": 108369,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Forasteiro",
     "media_type": "Text",
     "index_reference": "forasteiro",
@@ -395,13 +639,14 @@
     "content": "<p>Qualquer pessoa que não pertence a um lugar ou grupo. Pessoas que viviam em um lugar diferente de onde sua família era considerada eram consideradas forasteiras (ou estrangeiras). Pessoas que se tornavam parte de um grupo que não era o grupo de sua família também eram consideradas forasteiras. Os israelitas consideravam qualquer pessoa que não fazia parte da linhagem da família de Jacó como forasteira. Forasteiros que viviam com eles tinham que obedecer a certas leis da Lei de Moisés. Israelitas que não seguiam fielmente a Lei de Moisés muitas vezes eram tratados como forasteiros. Eles também eram chamados de pecadores. Israelitas que eram considerados impuros de acordo com a Lei de Moisés eram tratados como forasteiros. A maioria dos forasteiros não podia ser totalmente parte de sua comunidade. Mas alguns, como Rute, foram totalmente aceitos como membros da comunidade israelita. Alguns forasteiros também eram conhecidos como estranhos e estrangeiros.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145632,
+    "content_id": "145632",
     "reference_id": 108123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Frígia",
     "media_type": "Text",
     "index_reference": "frígia",
@@ -410,13 +655,22 @@
     "content": "<p>Uma área no território romano da Ásia Menor perto da Galácia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Phrygia",
+          "type": "place",
+          "preferred_label": "Frígia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145663,
+    "content_id": "145663",
     "reference_id": 108154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Fruto do Espírito Santo",
     "media_type": "Text",
     "index_reference": "fruto do espírito santo",
@@ -425,7 +679,8 @@
     "content": "<p>Maneiras piedosas das pessoas pensarem, falarem e agirem. Essas maneiras mostram que as pessoas estão pensando, falando e agindo como Jesus fez. O Espírito Santo capacita as pessoas a fazer isso. Não há um número exato de frutos do Espírito Santo. Paulo e Pedro listaram exemplos dos frutos do Espírito Santo na vida dos crentes. Estes incluem amor, alegria, paz, paciência, bondade, fidelidade, mansidão e domínio próprio. Eles incluem conhecimento e piedade. Eles também incluem qualquer coisa que mostre que um crente está seguindo o exemplo de Jesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133852,
+    "content_id": "133852",
     "reference_id": 108050,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الفرّيسيون",
     "media_type": "Text",
     "index_reference": "الفرّيسيون",
@@ -11,13 +11,22 @@
     "content": "<p>مجموعة من القادة الدينيين اليهود في زمن العهد الجديد. كانوا يحثون اليهود على العمل الجاد على طاعة جميع شرائع العهد القديم. لم يؤمنوا بأن يسوع هو المسيح الذي وعد الله بإرساله. عارض معظم الفريسيين يسوع وتعاليمه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133955,
+    "content_id": "133955",
     "reference_id": 108153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فَائِقِي الرُسُلِ",
     "media_type": "Text",
     "index_reference": "فَائِقِي الرُسُلِ",
@@ -26,13 +35,14 @@
     "content": "<p>ما أطلقه بولس على بعض القادة اليهود. عارض هؤلاء القادة عمله في الكنائس التي ساعد في إنشائها. بالمقارنة مع بولس، كانوا يبدون أقوياء وناجحين وأصحاء وأغنياء. لقد قالوا أكاذيب عن بولس وادعوا أنه كان دائمًا يسبب المتاعب. لقد استغلوا المؤمنين الجدد ولم يخدموا الناس بمحبة. تظاهروا بخدمة الله لكنهم كانوا في الحقيقة يخدمون الشيطان بفعل الشر.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134311,
+    "content_id": "134311",
     "reference_id": 108509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فارس",
     "media_type": "Text",
     "index_reference": "فارس",
@@ -41,13 +51,14 @@
     "content": "<p>مملكة في المنطقة المعروفة الآن باسم إيران. أصبحت حكومة قوية حكمت العديد من الأمم والشعوب الأخرى. كان العديد من الفرس من الشعوب المسماة الماديون. كانت شوشن إحدى عواصمهم. وكان كورش، وداريوس وزوركسيز، وأرتحشستا ملوكًا لبلاد فارس. سيطرت الحكومة اليونانية على فارس في عام 333 قبل الميلاد.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134327,
+    "content_id": "134327",
     "reference_id": 108525,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فُجَّارِ",
     "media_type": "Text",
     "index_reference": "فُجَّارِ",
@@ -56,13 +67,29 @@
     "content": "<p>الناس الذين لا يعيشون بالطريقة التي يريد الله أن يعيش بها البشر. إنهم لا يحبون الله ولا يعبدونه ولا يطيعونه. إنهم يعبدون آلهة كاذبة. يحاولون الحصول على ما هو أفضل لأنفسهم ولا يخدمون الآخرين. يحاولون أيضًا أن يجعلوا الآخرين يتوقفون عن تبعية الله وطرقه. يريد الله من الأشرار أن يبتعدوا عن الخطية وأن يرجعوا إلى طرقه. سيقيم الله الأشرار من بين الأموات، وسوف يُدينهم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pekahiah",
+          "type": "person",
+          "preferred_label": "فَقَحْيَا",
+          "confidence": 0.8223,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Peleg",
+          "type": "person",
+          "preferred_label": "فَالَج",
+          "confidence": 0.8155,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134183,
+    "content_id": "134183",
     "reference_id": 108381,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فِدية",
     "media_type": "Text",
     "index_reference": "فِدية",
@@ -71,13 +98,14 @@
     "content": "<p>استرداد شيء أو شخص ما تم فقده أو بيعه. ويتم ذلك عن طريق دفع ثمن الشيء أو الشخص. كلمة أخرى لهذا الأمر هي الاسترداد. يُطلق على الشخص الذي يشتري الشيء أو الشخص الذي يشتري الشيء أو الشخص الفادي. اشترى الله بني إسرائيل عندما كانوا عبيدًا في مصر. هذا يدل على أنه كان فاديهم. عندما مات يسوع على الصليب، دفع الثمن ليشتري جميع الخطاة. إنه يفدي كل من يثق به. إنه يفديهم من قوة الخطية والموت والشر.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134160,
+    "content_id": "134160",
     "reference_id": 108358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فرز (تقديس)",
     "media_type": "Text",
     "index_reference": "فرز (تقديس)",
@@ -86,13 +114,14 @@
     "content": "<p>في العهد القديم كان هناك معنيان للتقديس. المعنى الأول كان للأشخاص والكهنة والأنبياء والأشياء التي تم فرزها. الناس والكهنة والأنبياء يمكن أن يُفرزوا لخدمة الله بطرق خاصة. أشياء مثل الحيوانات والأراضي والأشياء يمكن أيضًا أن تَتقدس للرب. هذا يعني أنها لم تكن تُستخدم بالطريقة العادية، كان يجب استخدامها فقط بطرق خاصة لخدمة الله. كان المعنى الثاني هو عندما كان الناس أو الأشياء مُفرزين للهلاك. كانت هذه الطريقة التي يُدين الله بها الناس على أعمالهم الشريرة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134052,
+    "content_id": "134052",
     "reference_id": 108250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فرعون",
     "media_type": "Text",
     "index_reference": "فرعون",
@@ -101,13 +130,71 @@
     "content": "<p>لقب الحاكم صاحب أكبر سلطة في مصر. ذُكر العديد من الفراعنة المختلفين في الكتاب المقدس.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.10",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.7",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.8",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.9",
+          "type": "person",
+          "preferred_label": "فِرْعَوْنَ",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133925,
+    "content_id": "133925",
     "reference_id": 108123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فِرِيجِيَّة",
     "media_type": "Text",
     "index_reference": "فِرِيجِيَّة",
@@ -116,13 +203,14 @@
     "content": "<p>قطاع في الأراضي الرومانية في آسيا الصغرى بالقرب من غلاطية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134069,
+    "content_id": "134069",
     "reference_id": 108267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فلسطينيون",
     "media_type": "Text",
     "index_reference": "فلسطينيون",
@@ -131,13 +219,14 @@
     "content": "<p>سكان من نسل حام. عاشوا في جنوب كنعان على طول ساحل البحر الأبيض المتوسط. عملوا في بعض الأحيان مع نسل إبراهيم. وفي معظم الأوقات كانوا في حالة حرب مع أمة إسرائيل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134038,
+    "content_id": "134038",
     "reference_id": 108236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فُلك نوح",
     "media_type": "Text",
     "index_reference": "فُلك نوح",
@@ -146,13 +235,14 @@
     "content": "<p>السفينة الكبيرة التي أعطى الله لنوح تعليمات ببنائها. أبقى الله الناس والحيوانات في السفينة بأمان أثناء الطوفان.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133966,
+    "content_id": "133966",
     "reference_id": 108164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فِلِيمون",
     "media_type": "Text",
     "index_reference": "فِلِيمون",
@@ -161,13 +251,14 @@
     "content": "<p>مسيحي ثري في كولوسي كان صديقًا لبولس وعمل معه. يُعتقد أن أبفيّة كانت زوجة فليمون وكان أرخبّس ابنهما. وكان في بيته كنيسة. كان يملك عبدًا اسمه أنسيمس. الرسالة التي كتبها بولس إليه عن أنسيمس تدعى الرسالة إلى فليمون.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133875,
+    "content_id": "133875",
     "reference_id": 108073,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "في اسم يسوع",
     "media_type": "Text",
     "index_reference": "في اسم يسوع",
@@ -176,13 +267,14 @@
     "content": "<p>يمكن للناس أن يفعلوا شيئًا باسم شخص آخر. فعندما يفعلون ذلك، فهذا يعني أنهم يفعلون ذلك بسلطان ذلك الشخص، كما لو أن ذلك الشخص الآخر هو من يقوم بذلك. صلى التلاميذ وتكلموا وتصرفوا باسم يسوع. أظهر هذا أنهم يؤمنون أن يسوع له سلطان كامل في السماء وعلى الأرض. كما أظهر أيضًا أنهم كانوا يقومون بالعمل الذي علّمهم يسوع القيام به. اعتمد الناس باسم يسوع، وهذا يعني أنهم خضعوا للمعمودية لأنهم آمنوا بيسوع. أظهرت معموديتهم أنهم كانوا ملتزمين تمامًا باتباع يسوع.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133982,
+    "content_id": "133982",
     "reference_id": 108180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فيلادلفيا",
     "media_type": "Text",
     "index_reference": "فيلادلفيا",
@@ -191,13 +283,14 @@
     "content": "<p>مدينة مهمة في الأراضي الرومانية في آسيا. هي مدينة أكشهير في تركيا اليوم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133905,
+    "content_id": "133905",
     "reference_id": 108103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فيلبُّس",
     "media_type": "Text",
     "index_reference": "فيلبُّس",
@@ -206,13 +299,14 @@
     "content": "<p>أحد القادة السبعة الذين اختارهم المؤمنون في أورشليم ليكون شماسًا. كان يتأكد من أن جميع المؤمنين لديهم ما يكفي من الطعام. يختلف فيلبس هذا عن فيلبس الذي كان أحد تلاميذ يسوع الاثني عشر. نشر الرسالة عن يسوع في العديد من الناس والأماكن. كانت بناته الأربع نبيات.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133928,
+    "content_id": "133928",
     "reference_id": 108126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فِيلِبِّي",
     "media_type": "Text",
     "index_reference": "فِيلِبِّي",
@@ -221,13 +315,29 @@
     "content": "<p>مدينة يونانية في إقليم مكدونية الروماني. كانت في المنطقة التي تعرف الآن بشمال اليونان. سافر بولس إليها في رحلته الثانية. كانت أول مدينة في أوروبا يتم فيها مشاركة الأخبار السارة عن يسوع. كانت رسالة بولس إلى أهل فيلبي موجهة إلى الكنيسة هناك.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "فِيلِبِّي",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Phoebe",
+          "type": "person",
+          "preferred_label": "فِيبِي",
+          "confidence": 0.9018,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134205,
+    "content_id": "134205",
     "reference_id": 108403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "فِينحاس",
     "media_type": "Text",
     "index_reference": "فِينحاس",
@@ -236,7 +346,51 @@
     "content": "<p>ابن ألعازار وحفيد هارون. قتل رجلاً إسرائيلياً كان غير مخلص لله. عندما فعل ذلك، أوقف الله الوباء في بَعْل فغور. عقد الله عهد سلام مع فِينحاس والأبناء الذين ولدوا بعده.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Phinehas",
+          "type": "person",
+          "preferred_label": "فِينَحَاس",
+          "confidence": 0.9015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Phinehas.2",
+          "type": "person",
+          "preferred_label": "فِينَحَاس",
+          "confidence": 0.9015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Phinehas.3",
+          "type": "person",
+          "preferred_label": "فِينَحَاس",
+          "confidence": 0.9015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Phoenix",
+          "type": "place",
+          "preferred_label": "فِينِكْسَ",
+          "confidence": 0.8596,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Phygelus",
+          "type": "person",
+          "preferred_label": "فِيجَلّس",
+          "confidence": 0.8483,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Felix",
+          "type": "person",
+          "preferred_label": "فِيلِكْسَ",
+          "confidence": 0.8117,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

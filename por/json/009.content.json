@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 146030,
+    "content_id": "146030",
     "reference_id": 108521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hamã",
     "media_type": "Text",
     "index_reference": "hamã",
@@ -11,13 +11,57 @@
     "content": "<p>Um líder no governo persa durante o tempo de Xerxes. Ele era da linhagem de Agague, o amalequita. Isso significava que Hamã era de um grupo de pessoas que havia tratado mal os israelitas. Hamã fez planos para destruir todos os judeus no reino persa. Xerxes mandou executá-lo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haman",
+          "type": "person",
+          "preferred_label": "Hamã",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hemam",
+          "type": "person",
+          "preferred_label": "Hemã",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman",
+          "type": "person",
+          "preferred_label": "Hemã",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman.2",
+          "type": "person",
+          "preferred_label": "Hemã",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman.3",
+          "type": "person",
+          "preferred_label": "Hemã",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hamonah",
+          "type": "place",
+          "preferred_label": "Hamona",
+          "confidence": 0.8029,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 146041,
+    "content_id": "146041",
     "reference_id": 108532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hebreu",
     "media_type": "Text",
     "index_reference": "hebreu",
@@ -41,13 +85,22 @@
           "label": "Judeu",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Hebrews",
+          "type": "group",
+          "preferred_label": "Hebrews",
+          "confidence": 0.87,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 145619,
+    "content_id": "145619",
     "reference_id": 108110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Agripa I",
     "media_type": "Text",
     "index_reference": "herodes agripa i",
@@ -56,13 +109,22 @@
     "content": "<p>O Rei Herodes do capítulo 12 de Atos. Ele era neto de Herodes, o Grande. Ele também era sobrinho de Herodes Antipas. Ele era o pai de Herodes Agripa II. Duas de suas filhas eram Berenice e Drusila.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herodes Antipas",
+          "confidence": 0.8068,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145648,
+    "content_id": "145648",
     "reference_id": 108139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Agripa II",
     "media_type": "Text",
     "index_reference": "herodes agripa ii",
@@ -71,13 +133,14 @@
     "content": "<p>O Rei Agripa dos capítulos 25 e 26 de Atos. Ele era filho de Herodes Agripa I. Pensa-se que sua irmã Berenice vivia com ele como esposa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145566,
+    "content_id": "145566",
     "reference_id": 108057,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Antipas",
     "media_type": "Text",
     "index_reference": "herodes antipas",
@@ -86,13 +149,22 @@
     "content": "<p>O Herodes de Mateus capítulo 14, Marcos capítulo 6 e Lucas capítulos 3, 9 e 23. Ele era filho de Herodes, o Grande. Ele governou na Galileia e na Pereia durante o tempo de Jesus. A Pereia ficava a leste do Rio Jordão. Ele se casou com a esposa de seu irmão Filipe. O nome dela era Herodias. Herodes Antipas mandou matar João Batista.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herodes Antipas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 146067,
+    "content_id": "146067",
     "reference_id": 108558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes, o Grande",
     "media_type": "Text",
     "index_reference": "herodes, o grande",
@@ -101,13 +173,29 @@
     "content": "<p>O Rei Herodes de Mateus 2 e Lucas 1. Ele foi um governante nomeado pelos romanos com o título de Rei dos Judeus. Ele governou como rei de cerca de 36 a.C. a 4 a.C. Ele governou sobre a Judeia e todas as terras de Israel. Ele era da linhagem familiar de Esaú, mas era considerado judeu. Ele ordenou que muitos projetos de construção fossem realizados. Isso incluiu a cidade de Cesareia e o templo em Jerusalém. Ele ordenou que o templo fosse ampliado e tornado maior e mais grandioso do que jamais havia sido.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.8639,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.8639,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145571,
+    "content_id": "145571",
     "reference_id": 108062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodianos",
     "media_type": "Text",
     "index_reference": "herodianos",
@@ -116,13 +204,36 @@
     "content": "<p>Apoiadores dos governantes da linha familiar de Herodes, o Grande.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Herodian",
+          "type": "group",
+          "preferred_label": "Herodians",
+          "confidence": 0.9302,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herodion",
+          "type": "person",
+          "preferred_label": "Herodião",
+          "confidence": 0.8836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "Herodias",
+          "confidence": 0.8825,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145936,
+    "content_id": "145936",
     "reference_id": 108427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heveus",
     "media_type": "Text",
     "index_reference": "heveus",
@@ -131,13 +242,14 @@
     "content": "<p>Um grupo de pessoas que vivia em Canaã. Eles eram da linhagem do filho de Cam, Canaã. Deus disse aos israelitas para expulsá-los de Canaã como julgamento de Deus contra eles. Josué foi enganado a fazer uma aliança de paz com os heveus que viviam em Gibeão.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145707,
+    "content_id": "145707",
     "reference_id": 108198,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Histórias",
     "media_type": "Text",
     "index_reference": "histórias",
@@ -146,13 +258,22 @@
     "content": "<p>Lembrar histórias e ensinamentos era muito importante para os israelitas. Eles contavam as histórias das coisas que haviam acontecido entre o seu povo há muito tempo. Eles contavam histórias sobre as poderosas obras de Deus. Eles também contavam histórias sobre as leis e ensinamentos que haviam recebido de Deus. As pessoas mais velhas contavam essas coisas para as mais jovens. Dessa forma, todos aprendiam as histórias e ensinamentos que eram importantes para a comunidade.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Hanes",
+          "type": "place",
+          "preferred_label": "Hanes",
+          "confidence": 0.87,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145896,
+    "content_id": "145896",
     "reference_id": 108387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hobabe",
     "media_type": "Text",
     "index_reference": "hobabe",
@@ -161,13 +282,57 @@
     "content": "<p>Cunhado de Moisés. Ele era filho de Reuel, que também era chamado de Jetro. Hobabe era irmão da esposa de Moisés, Zípora. Ele fazia parte do grupo de pessoas queneus. Ele ficou com os israelitas enquanto viajavam do Monte Sinai para Canaã. Ele foi um guia para eles no deserto.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hobab",
+          "type": "person",
+          "preferred_label": "Hobabe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab",
+          "type": "person",
+          "preferred_label": "Jobabe",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.2",
+          "type": "person",
+          "preferred_label": "Jobabe",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.3",
+          "type": "person",
+          "preferred_label": "Jobabe",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.4",
+          "type": "person",
+          "preferred_label": "Jobabe",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.5",
+          "type": "person",
+          "preferred_label": "Jobabe",
+          "confidence": 0.8255,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 146073,
+    "content_id": "146073",
     "reference_id": 108564,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Homem do pecado",
     "media_type": "Text",
     "index_reference": "homem do pecado",
@@ -176,13 +341,14 @@
     "content": "<p>Alguém que se oporá completamente a Deus. Em 2 Tessalonicenses 2.1–12, Paulo o descreveu como alguém que fará coisas más. Mas Jesus deterá o homem do pecado. Paulo pode ter falado sobre uma certa pessoa. Ou ele pode ter descrito os poderes do pecado e do mal. Paulo descreveu o homem do pecado de maneiras semelhantes às que Daniel descreveu certos reis. As visões de Daniel sobre esses reis foram registradas nos capítulos 7 e 11 de Daniel. Esses reis se opuseram a Deus, falaram contra ele e trataram mal o povo de Deus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145542,
+    "content_id": "145542",
     "reference_id": 108033,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Homens sábios",
     "media_type": "Text",
     "index_reference": "homens sábios",
@@ -191,7 +357,8 @@
     "content": "<p>Homens importantes de terras a leste de Jerusalém. Eles estudaram as estrelas no céu. Após o nascimento de Jesus, eles o adoraram como o Rei do mundo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

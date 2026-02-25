@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 367934,
+    "content_id": "367934",
     "reference_id": 108443,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zabuloni",
     "media_type": "Text",
     "index_reference": "zabuloni",
@@ -11,13 +11,29 @@
     "content": "<p>Zabuloni ni mwana wa sita wa Yakobo na Lea. Katika lugha ya Kiebrania jina Zabuloni labda linamaanisha heshima. Ukoo wake ukawa kabila la Israeli.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Zebulun",
+          "type": "group",
+          "preferred_label": "Zabuloni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zebulun",
+          "type": "person",
+          "preferred_label": "Zabuloni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368002,
+    "content_id": "368002",
     "reference_id": 108511,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zakaria",
     "media_type": "Text",
     "index_reference": "zakaria",
@@ -26,13 +42,14 @@
     "content": "<p>Ni kuhani na nabii katika Yuda wakati serikali ya Uajemi ilikuwa ikitawala. Alikuwa mwana wa Berekia na alikuwa kutoka kabila la Lawi. Aliwahimiza Yoshua na Zerubabeli kujenga upya hekalu. Maono na unabii wake yameandikwa katika kitabu cha Zakaria. Huyu alikuwa Zakaria tofauti na baba wa Yohana Mbatizaji.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367571,
+    "content_id": "367571",
     "reference_id": 108080,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zakaria - NT",
     "media_type": "Text",
     "index_reference": "zakaria - nt",
@@ -41,13 +58,14 @@
     "content": "<p>Ni baba wa Yohana Mbatizaji. Elizabeth alikuwa mke wake. Alikuwa kuhani kutoka kabila la Lawi na kutoka ukoo wa Aroni. Zekaria alitoa unabii mzuri wakati Yohana Mbatizaji alipozaliwa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367781,
+    "content_id": "367781",
     "reference_id": 108290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zilpa",
     "media_type": "Text",
     "index_reference": "zilpa",
@@ -63,6 +81,15 @@
           "resource_code": "BiblicaStudyNotesKeyTerms",
           "label": "Masuria",
           "language": "swh"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Zilpah",
+          "type": "person",
+          "preferred_label": "Zilpa",
+          "confidence": 1.0,
+          "match_method": "embedding"
         }
       ]
     }

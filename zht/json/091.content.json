@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232812,
+    "content_id": "232812",
     "reference_id": 108211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "平安",
     "media_type": "Text",
     "index_reference": "平安",
@@ -11,13 +11,22 @@
     "content": "<p>希伯來文中的平安一詞是shalom，其意不僅是沒有衝突或戰爭。這詞還意味著安全、健康和正義，且每個人都有足夠的所需，也意味著關係是完整和健康的。是神希望成為的樣子，包括每個人與神的和平，也包括人與神創造的其他一切事物之間的關係。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:IntactState",
+          "type": "keyterm",
+          "preferred_label": "Peace",
+          "confidence": 0.8542,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232953,
+    "content_id": "232953",
     "reference_id": 108352,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "平安祭（Friendship offerings）",
     "media_type": "Text",
     "index_reference": "平安祭（Friendship offerings）",
@@ -26,7 +35,8 @@
     "content": "<p>人們為表達他們對神的感恩而獻的祭物（sacrifices）或供物（offerings）。這些祭顯示了神與祂的子民之間的親密關係。這就是為什麼它們被稱為平安祭。它們也可以是履行某人所許承諾的一部分。這個祭可以是任何人想要獻上的東西。人們為建造會幕和聖殿所提供的材料是平安祭的一部分。動物被獻上當作平安祭的一部分。麵粉、油和酒也被獻上。祭司和獻祭的人把這些祭當中的一部分吃掉。他們在獻祭以後吃。號角在平安祭期間吹響。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

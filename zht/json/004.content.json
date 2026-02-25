@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 233099,
+    "content_id": "233099",
     "reference_id": 108498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴比倫",
     "media_type": "Text",
     "index_reference": "巴比倫",
@@ -11,13 +11,14 @@
     "content": "<p>巴比倫王國的首都。巴比倫是美索不達米亞的一個王國，持續了數千年。它成為一個強大的政權，統治許多其他的國家和民族。許多巴比倫國的人民源自稱為迦勒底的民族。巴比倫國推翻了猶大的南國。在公元前586年，巴比倫軍隊摧毀了耶路撒冷和所羅門王時期建造的聖殿。他們強迫許多猶大人離開他們的土地。因此他們不得不住在被擄之地巴比倫。米羅達·巴拉丹、尼布甲尼撒、以未·米羅達和伯沙撒是巴比倫國的迦勒底王。波斯政府在公元前539年推翻了巴比倫政權。聖經中的一些書卷使用巴比倫這個名字來代表強大的政權。巴比倫這個名字描述了富有且驕傲的王國，它們不尊崇神。它們試圖比任何其他政府或民族更強大。它們無情地統治其他國家，並且對百姓非常殘酷。在啟示錄中，約翰用巴比倫作為羅馬政府的象徵。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232840,
+    "content_id": "232840",
     "reference_id": 108239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴別",
     "media_type": "Text",
     "index_reference": "巴別",
@@ -26,13 +27,14 @@
     "content": "<p>人類在開始說不同語言之前一起建造的城市。他們開始在巴別城建造一座高塔。他們想留在那裡，而不是分散到地上各處。這違背了神對人的期望。神透過改變他們所說的語言來阻止他們。這使他們中間產生困惑，因為他們再也無法相互理解。在希伯來文中，「巴別」這個詞聽起來很像「混亂」這個詞。巴別是人們一同悖逆神意願的記號。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233036,
+    "content_id": "233036",
     "reference_id": 108435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴拉",
     "media_type": "Text",
     "index_reference": "巴拉",
@@ -41,13 +43,29 @@
     "content": "<p>他是拿弗他利支派的一個以色列人。他遵從神的指示攻擊西西拉的軍隊。但只有在底波拉與他同去的情況下他才願意遵從神。在士師記第5章中，他與底波拉一起，唱了一首關於他們得勝的重要歌曲。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Baara",
+          "type": "person",
+          "preferred_label": "Baara",
+          "confidence": 0.827,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baalah",
+          "type": "place",
+          "preferred_label": "Baalah",
+          "confidence": 0.8104,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232677,
+    "content_id": "232677",
     "reference_id": 108076,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴拉巴",
     "media_type": "Text",
     "index_reference": "巴拉巴",
@@ -56,13 +74,14 @@
     "content": "<p>一個犯有謀殺罪並反抗羅馬政府的猶太人。羅馬人把他關進了監獄。在逾越節，彼拉多釋放了他，而沒有釋放耶穌。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232999,
+    "content_id": "232999",
     "reference_id": 108398,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴蘭",
     "media_type": "Text",
     "index_reference": "巴蘭",
@@ -71,13 +90,14 @@
     "content": "<p>一位來自美索不達米亞的先知，他不是雅各的後裔。他用法術預測未來。巴勒雇用他來詛咒以色列人。巴蘭的驢子對他說話，試圖阻止他。神使巴蘭祝福祂的百姓而不是詛咒他們。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232997,
+    "content_id": "232997",
     "reference_id": 108396,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴勒",
     "media_type": "Text",
     "index_reference": "巴勒",
@@ -86,13 +106,14 @@
     "content": "<p>在以色列人前往迦南的時候，他是在位的摩押王。他雇用先知巴蘭來詛咒以色列人。他認為這樣可以幫助他把以色列人趕出他的土地。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233002,
+    "content_id": "233002",
     "reference_id": 108401,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴力",
     "media_type": "Text",
     "index_reference": "巴力",
@@ -101,13 +122,14 @@
     "content": "<p>迦南及其周圍地區的民族所敬拜的假神。在希伯來文中，巴力這個詞的意思是主或統治者。當時人們把巴力當作太陽和風暴之神來敬拜。人們認為他賜予他們子女和健康的莊稼。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233003,
+    "content_id": "233003",
     "reference_id": 108402,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴力·毗珥",
     "media_type": "Text",
     "index_reference": "巴力·毗珥",
@@ -116,13 +138,14 @@
     "content": "<p>毗珥是摩押地的一個地方。以色列人在那裡開始敬拜巴力，違背了與神的約。結果引發了一場瘟疫，成千上萬的以色列人被殺。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232708,
+    "content_id": "232708",
     "reference_id": 108107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "巴拿巴",
     "media_type": "Text",
     "index_reference": "巴拿巴",
@@ -131,13 +154,36 @@
     "content": "<p>一位利未支派的猶太信徒，來自塞浦路斯。他的名字聽起來像希伯來文中的幫助之子。巴拿巴也被稱為約瑟。他把自己擁有的東西白白地給予他人，以此來幫助他們。他也幫助人們之間建立和平。巴拿巴是一位使徒。他在掃羅成為信徒後幫助了他。他和掃羅一起到許多地方傳揚有關耶穌的好消息。約翰·馬可是巴拿巴的表弟。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Baana",
+          "type": "person",
+          "preferred_label": "Baana",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baana.2",
+          "type": "person",
+          "preferred_label": "Baana",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baana.3",
+          "type": "person",
+          "preferred_label": "Baana",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232772,
+    "content_id": "232772",
     "reference_id": 108171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拔摩島",
     "media_type": "Text",
     "index_reference": "拔摩島",
@@ -146,13 +192,14 @@
     "content": "<p>一個只有少數人居住的希臘小島嶼，位於愛琴海，靠近地中海。當時羅馬政府掌管這個島嶼，並將囚犯送到那裡。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233069,
+    "content_id": "233069",
     "reference_id": 108468,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "拔示巴",
     "media_type": "Text",
     "index_reference": "拔示巴",
@@ -161,7 +208,8 @@
     "content": "<p>赫人烏利亞的妻子。大衛與她犯了姦淫，謀殺了她的丈夫，然後娶她為妻。她與大衛的第一個孩子因大衛的罪而死。她與大衛的第二個孩子是所羅門。耶穌來自拔示巴的後裔。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

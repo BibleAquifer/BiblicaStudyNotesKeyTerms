@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 769193,
+    "content_id": "769193",
     "reference_id": 108401,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baal",
     "media_type": "Text",
     "index_reference": "baal",
@@ -11,13 +11,50 @@
     "content": "<p>Baäl was een valse god die werd aanbeden door bevolkingsgroepen in en rond Kanaän. In het Hebreeuws betekent het woord Baäl &quot;heer&quot; of &quot;heerser&quot;. Baäl werd vereerd als de god van de zon en van stormen. Men geloofde dat hij hen kinderen en gezonde gewassen schonk.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Baal",
+          "type": "deity",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baal",
+          "type": "person",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baal.2",
+          "type": "person",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baalah",
+          "type": "place",
+          "preferred_label": "Baalah",
+          "confidence": 0.8438,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baalis",
+          "type": "person",
+          "preferred_label": "Baalis",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769194,
+    "content_id": "769194",
     "reference_id": 108402,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baäl-Peor",
     "media_type": "Text",
     "index_reference": "baäl-peor",
@@ -26,13 +63,14 @@
     "content": "<p>Baäl-Peor was een locatie in het land van Moab. De Israëlieten verbraken daar hun verbond met God toen ze Baäl begonnen te aanbidden. Dit leidde tot een plaag die duizenden Israëlieten het leven kostte.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778791,
+    "content_id": "778791",
     "reference_id": 108524,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baan",
     "media_type": "Text",
     "index_reference": "baan",
@@ -41,13 +79,64 @@
     "content": "<p>De hoofdpersoon in het verhaal dat in het boek Job wordt verteld, kwam uit Uz. Men vermoedt dat Uz in Edom lag. Er wordt gedacht dat Job niet uit de familielijn van Jakob stamde. Hij vereerde trouw de ene ware God. God stelde Job op de proef door hem te laten lijden. Job stelde God veel vragen en sprak openhartig over zijn gevoelens. Tijdens de beproeving bleef hij trouw aan God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Baana",
+          "type": "person",
+          "preferred_label": "Baana",
+          "confidence": 0.849,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baana.2",
+          "type": "person",
+          "preferred_label": "Baana",
+          "confidence": 0.849,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baana.3",
+          "type": "person",
+          "preferred_label": "Baana",
+          "confidence": 0.849,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baanah",
+          "type": "person",
+          "preferred_label": "Baanah",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baanah.2",
+          "type": "person",
+          "preferred_label": "Baanah",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baanah.3",
+          "type": "person",
+          "preferred_label": "Baanah",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baanah.4",
+          "type": "person",
+          "preferred_label": "Baanah",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769195,
+    "content_id": "769195",
     "reference_id": 108239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babel",
     "media_type": "Text",
     "index_reference": "babel",
@@ -56,13 +145,29 @@
     "content": "<p>De stad Babel werd door mensen samen gebouwd voordat ze verschillende talen spraken. Ze begonnen een hoge toren te bouwen in de stad, omdat ze daar wilden blijven in plaats van zich over de aarde te verspreiden. Dit ging in tegen wat God voor de mensen wilde. God stopte hen door hun taal te veranderen, wat hen verwarde omdat ze elkaar niet meer konden begrijpen. In de Hebreeuwse taal klinkt het woord Babel als het woord voor verwarring. Babel werd een symbool voor mensen die samenwerken tegen de wil van God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.8138,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Babylon.2",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.8138,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769196,
+    "content_id": "769196",
     "reference_id": 108498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babylon",
     "media_type": "Text",
     "index_reference": "babylon",
@@ -71,13 +176,43 @@
     "content": "<p>Babylon was de hoofdstad van Babylonië, een koninkrijk in Mesopotamië dat duizenden jaren bestond. Het werd een machtige heerser over vele andere naties en bevolkingsgroepen. Veel Babyloniërs behoorden tot de bevolkingsgroep die de Chaldeeën werd genoemd. Babylonië nam de controle over het zuidelijke koninkrijk Juda. In 586 v.Chr. vernietigden Babylonische legers Jeruzalem en de tempel die was gebouwd tijdens de regering van koning Salomo. Ze dwongen veel mensen uit Juda hun land te verlaten en in ballingschap in Babylon te leven. Marduk-Baladan, Nebukadnezar, Awel-Marduk en Belsazar waren Chaldeeuwse koningen van Babylonië. In 539 v.Chr. nam de Perzische regering de controle over de Babylonische regering over. Sommige boeken van de Bijbel gebruiken de naam Babylon om te verwijzen naar machtige regeringen. De naam Babylon beschreef rijke en trotse koninkrijken die God niet eerden en probeerden machtiger te zijn dan welke andere regering of bevolkingsgroep dan ook. Ze heersten zonder genade over andere naties en behandelden mensen zeer slecht. In Openbaring gebruikte Johannes Babylon als een symbool voor de regering van Rome.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Babylon.2",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Babylonia",
+          "type": "place",
+          "preferred_label": "Babylonia",
+          "confidence": 0.9149,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Babylon",
+          "type": "group",
+          "preferred_label": "Babylonians",
+          "confidence": 0.8637,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769198,
+    "content_id": "769198",
     "reference_id": 108396,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Balak",
     "media_type": "Text",
     "index_reference": "balak",
@@ -86,13 +221,22 @@
     "content": "<p>De koning van Moab leefde in de tijd dat de Israëlieten naar Kanaän trokken. Hij huurde de profeet Bileam in om een vloek over de Israëlieten uit te spreken, in de hoop dat dit hem zou helpen de Israëlieten uit zijn land te verdrijven.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "Balak",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 772785,
+    "content_id": "772785",
     "reference_id": 108495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ballingschap",
     "media_type": "Text",
     "index_reference": "ballingschap",
@@ -101,13 +245,14 @@
     "content": "<p>Wanneer mensen gedwongen worden hun huizen en land te verlaten om ergens anders te wonen, was dit een vloek van het Sinaïverbond. Veel Israëlieten uit het noordelijke koninkrijk werden verbannen naar Assyrië en keerden nooit terug naar Israël. Veel Israëlieten uit het zuidelijke koninkrijk werden verbannen naar Babylonië, maar sommigen van hen keerden terug naar Juda.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769200,
+    "content_id": "769200",
     "reference_id": 108076,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barabbas",
     "media_type": "Text",
     "index_reference": "barabbas",
@@ -116,13 +261,22 @@
     "content": "<p>Een Jood die schuldig was aan moord en de strijd tegen de Romeinse regering, was door de Romeinen in de gevangenis gezet. Pilatus liet hem vrij in plaats van Jezus tijdens het Pascha.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barabbas",
+          "type": "person",
+          "preferred_label": "Barabbas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769201,
+    "content_id": "769201",
     "reference_id": 108435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barak",
     "media_type": "Text",
     "index_reference": "barak",
@@ -131,13 +285,22 @@
     "content": "<p>Hij was een Israëliet uit de stam van Naftali en volgde Gods instructies op om het leger van Sisera aan te vallen. Hij wilde echter alleen gehoorzamen als Deborah met hem meeging. Samen met Deborah zong hij een belangrijk lied over hun overwinning, zoals beschreven in Richteren hoofdstuk 5.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barak",
+          "type": "person",
+          "preferred_label": "Barak",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769202,
+    "content_id": "769202",
     "reference_id": 108107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barnabas",
     "media_type": "Text",
     "index_reference": "barnabas",
@@ -146,13 +309,22 @@
     "content": "<p>Een Joodse gelovige uit de stam van Levi afkomstig van het eiland Cyprus. Zijn naam lijkt op de Hebreeuwse woorden voor &apos;zoon van hulp&apos;. Barnabas, ook bekend als Jozef, gaf vrijgevig wat hij bezat om anderen te ondersteunen. Hij droeg ook bij aan het bevorderen van vrede tussen mensen. Barnabas was een apostel en hielp Saul (Paulus) nadat deze een gelovige was geworden. Samen met Paulus reisde hij naar veel plaatsen om het goede nieuws over Jezus te verspreiden. Johannes Marcus was de neef van Barnabas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "Barnabas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769203,
+    "content_id": "769203",
     "reference_id": 108468,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bathseba",
     "media_type": "Text",
     "index_reference": "bathseba",
@@ -161,13 +333,22 @@
     "content": "<p>De vrouw van Uria de Hethiet. David pleegde overspel met haar, liet haar man vermoorden en maakte haar vervolgens tot zijn vrouw. Hun eerste kind stierf als gevolg van Davids zonden. Hun tweede kind was Salomo. Jezus stamde af van Bathseba.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Bathsheba",
+          "type": "person",
+          "preferred_label": "Bathsheba",
+          "confidence": 0.9436,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769208,
+    "content_id": "769208",
     "reference_id": 108294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Benjamin",
     "media_type": "Text",
     "index_reference": "benjamin",
@@ -176,13 +357,50 @@
     "content": "<p>Benjamin was de jongste zoon van Jakob en Rachel. Aanvankelijk noemde Rachel hem Ben-Oni, wat in het Hebreeuws &quot;zoon van mijn verdriet&quot; betekent. Jakob veranderde zijn naam in Benjamin, wat &quot;zoon van mijn rechterhand&quot; betekent. Rachel overleed bij de geboorte van Benjamin. Zijn nakomelingen vormden een stam van Israël.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Benjamin",
+          "type": "person",
+          "preferred_label": "Benjamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.2",
+          "type": "person",
+          "preferred_label": "Benjamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.3",
+          "type": "person",
+          "preferred_label": "Benjamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.4",
+          "type": "person",
+          "preferred_label": "Benjamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.5",
+          "type": "person",
+          "preferred_label": "Benjamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769209,
+    "content_id": "769209",
     "reference_id": 108129,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berea",
     "media_type": "Text",
     "index_reference": "berea",
@@ -191,13 +409,71 @@
     "content": "<p>Een Griekse stad in het Romeinse gebied van Macedonië, gelegen in het gebied dat nu Noord-Griekenland is. Paulus reisde daarheen tijdens zijn tweede reis.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Berea",
+          "type": "place",
+          "preferred_label": "Berea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beera",
+          "type": "person",
+          "preferred_label": "Beera",
+          "confidence": 0.8611,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beerah",
+          "type": "person",
+          "preferred_label": "Beerah",
+          "confidence": 0.8343,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bera",
+          "type": "person",
+          "preferred_label": "Bera",
+          "confidence": 0.8145,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah",
+          "type": "person",
+          "preferred_label": "Beriah",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah.2",
+          "type": "person",
+          "preferred_label": "Beriah",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah.3",
+          "type": "person",
+          "preferred_label": "Beriah",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah.4",
+          "type": "person",
+          "preferred_label": "Beriah",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769205,
+    "content_id": "769205",
     "reference_id": 108295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berseba",
     "media_type": "Text",
     "index_reference": "berseba",
@@ -206,13 +482,22 @@
     "content": "<p>Een stad in het zuiden van Kanaän, die de meest zuidelijke stad van het land Israël werd. Abraham groef daar een put. God sprak tot Hagar, Isaak, Jakob en Elia in Berseba of in de nabijgelegen woestijn.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Beersheba.2",
+          "type": "place",
+          "preferred_label": "Bersabe",
+          "confidence": 0.8935,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769672,
+    "content_id": "769672",
     "reference_id": 108257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Besnijdenis",
     "media_type": "Text",
     "index_reference": "besnijdenis",
@@ -221,13 +506,14 @@
     "content": "<p>Het was een gebruik onder bepaalde bevolkingsgroepen in de tijden en plaatsen die in de Bijbel worden beschreven. Hierbij werd de voorhuid van het mannelijke geslachtsorgaan verwijderd. Voor Israëlieten was de besnijdenis een teken dat zij deel uitmaakten van het volk waarmee God een verbond had gesloten. Israëlieten voerden de besnijdenis alleen uit bij mannen die ouder waren dan acht dagen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769210,
+    "content_id": "769210",
     "reference_id": 108075,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bethany",
     "media_type": "Text",
     "index_reference": "bethany",
@@ -236,13 +522,29 @@
     "content": "<p>De stad waar Maria, Martha en Lazarus woonden, lag op korte afstand ten oosten van Jeruzalem, nabij de Olijfberg.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Bethany",
+          "type": "place",
+          "preferred_label": "Bethany",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethany.2",
+          "type": "place",
+          "preferred_label": "Bethany",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769211,
+    "content_id": "769211",
     "reference_id": 108272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bethel",
     "media_type": "Text",
     "index_reference": "bethel",
@@ -251,13 +553,64 @@
     "content": "<p>De plek waar God aan Jakob verscheen toen hij voor Ezau vluchtte, werd ook Luz genoemd. In het Hebreeuws betekent Bethel &apos;huis van God&apos;. Abraham en Jakob bouwden daar altaren om God te aanbidden. Het werd een belangrijke stad in Israël, gelegen ten noorden van Jeruzalem aan de grens tussen de zuidelijke en noordelijke koninkrijken. Jerobeam bouwde er een tempel om valse goden te aanbidden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Bethel",
+          "type": "place",
+          "preferred_label": "Bethel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethel.2",
+          "type": "place",
+          "preferred_label": "Bethel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethul",
+          "type": "place",
+          "preferred_label": "Bethul",
+          "confidence": 0.8541,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bethuel",
+          "type": "person",
+          "preferred_label": "Bethuel",
+          "confidence": 0.8205,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethuel",
+          "type": "place",
+          "preferred_label": "Bethuel",
+          "confidence": 0.8205,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethlehem",
+          "type": "place",
+          "preferred_label": "Bethlehem",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethlehem.2",
+          "type": "place",
+          "preferred_label": "Bethlehem",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769212,
+    "content_id": "769212",
     "reference_id": 108442,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bethlehem",
     "media_type": "Text",
     "index_reference": "bethlehem",
@@ -266,13 +619,50 @@
     "content": "<p>De stad waar David vandaan kwam en waar Jezus werd geboren, ligt op korte afstand ten zuiden van Jeruzalem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Bethlehem",
+          "type": "place",
+          "preferred_label": "Bethlehem",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethlehem.2",
+          "type": "place",
+          "preferred_label": "Bethlehem",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Bethlehem",
+          "type": "group",
+          "preferred_label": "Bethlehemites",
+          "confidence": 0.8985,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethel",
+          "type": "place",
+          "preferred_label": "Bethel",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethel.2",
+          "type": "place",
+          "preferred_label": "Bethel",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769213,
+    "content_id": "769213",
     "reference_id": 108193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bijbel",
     "media_type": "Text",
     "index_reference": "bijbel",
@@ -289,13 +679,14 @@
           "label": "Woord van God",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 769678,
+    "content_id": "769678",
     "reference_id": 108265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bijvrouwen",
     "media_type": "Text",
     "index_reference": "bijvrouwen",
@@ -304,13 +695,14 @@
     "content": "<p>In de tijd en op de plaatsen van het Oude Testament hadden veel mannen meer dan één vrouw. De belangrijkste vrouw van de man had de meeste autoriteit onder de vrouwen in het huishouden. De vrouwen die bijvrouwen werden genoemd, hadden minder rechten. Vaak werden vrouwelijke slaven of dienstmeisjes gedwongen om bijvrouwen te worden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769197,
+    "content_id": "769197",
     "reference_id": 108398,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bileam",
     "media_type": "Text",
     "index_reference": "bileam",
@@ -319,13 +711,14 @@
     "content": "<p>Een profeet uit Mesopotamië die niet tot het nageslacht van Jakob behoorde, maakte gebruik van magie om de toekomst te voorspellen. Balak huurde hem in om een vloek uit te spreken over het volk van Israël. De ezel van Bileam sprak tot hem in een poging hem tegen te houden. God zorgde ervoor dat Bileam het volk zegende in plaats van hen te vervloeken.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769214,
+    "content_id": "769214",
     "reference_id": 108289,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bilhah",
     "media_type": "Text",
     "index_reference": "bilhah",
@@ -342,13 +735,57 @@
           "label": "Bijvrouwen",
           "language": "nld"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bilhah",
+          "type": "person",
+          "preferred_label": "Bilhah",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bilhah",
+          "type": "place",
+          "preferred_label": "Bilhah",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bilgah",
+          "type": "person",
+          "preferred_label": "Bilgah",
+          "confidence": 0.8584,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bilgah.2",
+          "type": "person",
+          "preferred_label": "Bilgah",
+          "confidence": 0.8584,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bilhan",
+          "type": "person",
+          "preferred_label": "Bilhan",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bilhan.2",
+          "type": "person",
+          "preferred_label": "Bilhan",
+          "confidence": 0.8234,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 769216,
+    "content_id": "769216",
     "reference_id": 108315,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bloed",
     "media_type": "Text",
     "index_reference": "bloed",
@@ -357,13 +794,29 @@
     "content": "<p>In de Bijbel heeft het woord bloed twee betekenissen. De eerste betekenis verwijst naar de rode vloeistof in de lichamen van mensen en dieren. De tweede betekenis is een symbool van leven. Leven wordt gezien als een geschenk van God. Bloed werd als belangrijk beschouwd omdat het aantoonde dat een dier of persoon leefde. Het verlies van bloed werd begrepen als leidend tot de dood. Daarom werd alles wat met bloedverlies te maken had als onrein beschouwd. Omdat bloed belangrijk was, werd het gebruikt om dingen heilig en rein te maken. Het besprenkelen van bloed van offers op iemand of iets was een teken dat de persoon of het object gereinigd was van dood en zonde.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Blood",
+          "type": "keyterm",
+          "preferred_label": "Blood",
+          "confidence": 0.9055,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Bleed",
+          "type": "keyterm",
+          "preferred_label": "Bleed",
+          "confidence": 0.8891,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769219,
+    "content_id": "769219",
     "reference_id": 108344,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Boek des levens",
     "media_type": "Text",
     "index_reference": "boek des levens",
@@ -372,13 +825,14 @@
     "content": "<p>In de Bijbel heeft het boek des levens twee betekenissen en wordt het ook wel Gods boek genoemd. In het Oude Testament verwijst het naar een manier om te spreken over mensen die leven. Het wordt beschreven als een lijst van namen verzameld in een boek dat God schrijft. In het Nieuwe Testament verwijst het naar mensen die Jezus volgen en wordt het beschreven als behorend tot het Lam van God. Het boek des levens is geen fysiek boek met namen erin, maar een manier om te spreken over wie leeft of wie in Jezus gelooft.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769218,
+    "content_id": "769218",
     "reference_id": 108169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Boek van Henoch",
     "media_type": "Text",
     "index_reference": "boek van henoch",
@@ -387,13 +841,14 @@
     "content": "<p>Een Joodse tekst die zowel voor als na de tijd van Jezus bekend was. Het is niet geschreven door de Henoch die in Genesis wordt genoemd.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769222,
+    "content_id": "769222",
     "reference_id": 108350,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Brandoffers",
     "media_type": "Text",
     "index_reference": "brandoffers",
@@ -402,13 +857,14 @@
     "content": "<p>Offers van zuivere mannelijke dieren of vogels werden door mensen gekozen om te brengen. Het hele dier, behalve de huid, werd verbrand. Dit symboliseerde dat de persoon die het offer bracht, volledig toegewijd is aan God. Er waren specifieke momenten waarop brandoffers moesten worden gebracht. Mensen konden ook op andere momenten brandoffers brengen wanneer ze dat wilden. Tijdens brandoffers werden trompetten geblazen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778821,
+    "content_id": "778821",
     "reference_id": 108173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Brieven aan de kerken",
     "media_type": "Text",
     "index_reference": "brieven aan de kerken",
@@ -417,7 +873,8 @@
     "content": "<p>Jezus gaf Johannes de opdracht om brieven met boodschappen aan de zeven gemeenten te schrijven. Elke brief begint met een unieke beschrijving van Jezus. In de meeste brieven prijst Jezus de manieren waarop de gemeente trouw leefde. Hij wijst ook vaak op manieren waarop de gemeente niet trouw aan Hem is. Jezus moedigde de gelovigen in elke gemeente aan om naar de Heilige Geest te luisteren. Hij sloot elke brief af met een belofte voor degenen die deelden in zijn overwinning over de macht van de zonde.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

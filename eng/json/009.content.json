@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132205,
+    "content_id": "132205",
     "reference_id": 108259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hagar",
     "media_type": "Text",
     "index_reference": "hagar",
@@ -11,13 +11,22 @@
     "content": "<p>A slave from Egypt who served Sarah. When Sarah couldn’t have children, she made Hagar sleep with Abraham. After this, Hagar gave birth to Abraham’s son Ishmael. Hagar was treated badly by Sarah. She and Ishmael were sent away. But God took care of them in the desert.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hagar",
+          "type": "person",
+          "preferred_label": "Hagar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132456,
+    "content_id": "132456",
     "reference_id": 108510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haggai",
     "media_type": "Text",
     "index_reference": "haggai",
@@ -26,13 +35,22 @@
     "content": "<p>A prophet in Judah when the Persian government was in control. He encouraged Joshua and Zerubbabel to rebuild the temple. His prophecies are recorded in the book of Haggai.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haggai",
+          "type": "person",
+          "preferred_label": "Haggai",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132188,
+    "content_id": "132188",
     "reference_id": 108242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ham",
     "media_type": "Text",
     "index_reference": "ham",
@@ -41,13 +59,36 @@
     "content": "<p>The youngest son of Noah. He and his wife were saved from the flood because they were in the ark. He didn’t treat his father with respect when Noah got drunk after the flood. Because of this, Noah spoke a curse instead of a blessing over part of Ham’s family.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ham",
+          "type": "person",
+          "preferred_label": "Ham",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Ham.2",
+          "type": "place",
+          "preferred_label": "Ham",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Ammon",
+          "type": "place",
+          "preferred_label": "Ammon",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132467,
+    "content_id": "132467",
     "reference_id": 108521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haman",
     "media_type": "Text",
     "index_reference": "haman",
@@ -56,13 +97,22 @@
     "content": "<p>A leader in the Persian government during the time of Xerxes. He was from the family line of Agag the Amalekite. This meant that Haman was from a people group that had treated the Israelites badly. Haman made plans to destroy all the Jews in the Persian kingdom. Xerxes had him put to death.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haman",
+          "type": "person",
+          "preferred_label": "Haman",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132396,
+    "content_id": "132396",
     "reference_id": 108450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hannah",
     "media_type": "Text",
     "index_reference": "hannah",
@@ -71,13 +121,22 @@
     "content": "<p>The mother of the prophet Samuel. Elkanah was her husband. For a long time she hadn’t been able to have children. Then God allowed her to become pregnant. Full of thanks, she prayed a beautiful prayer about God taking care of his people.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hannah",
+          "type": "person",
+          "preferred_label": "Hannah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132365,
+    "content_id": "132365",
     "reference_id": 108419,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heart",
     "media_type": "Text",
     "index_reference": "heart",
@@ -86,13 +145,22 @@
     "content": "<p>Throughout the Bible there are two meanings for the word heart. The first meaning is the part of the body that beats inside the chest. The second meaning is a spiritual part of people where they feel their feelings. It’s where they make decisions about what to do and who to worship. God knows each person’s heart. He knows what they think and feel and the reasons why they make their decisions. God’s people are to serve God with all their heart. This means that they are to be completely committed to living according to God’s ways.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Heart",
+          "type": "keyterm",
+          "preferred_label": "Heart",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132147,
+    "content_id": "132147",
     "reference_id": 108201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heaven",
     "media_type": "Text",
     "index_reference": "heaven",
@@ -116,13 +184,29 @@
           "label": "Kingdom of God",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Heavenly",
+          "type": "keyterm",
+          "preferred_label": "Heavenly",
+          "confidence": 0.9209,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Heaven",
+          "type": "keyterm",
+          "preferred_label": "Sky",
+          "confidence": 0.857,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132475,
+    "content_id": "132475",
     "reference_id": 108529,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heavenly world",
     "media_type": "Text",
     "index_reference": "heavenly world",
@@ -146,13 +230,14 @@
           "label": "Spiritual beings",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132478,
+    "content_id": "132478",
     "reference_id": 108532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hebrew",
     "media_type": "Text",
     "index_reference": "hebrew",
@@ -176,13 +261,22 @@
           "label": "Jew",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Hebrews",
+          "type": "group",
+          "preferred_label": "Hebrews",
+          "confidence": 0.8911,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132020,
+    "content_id": "132020",
     "reference_id": 108074,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hell",
     "media_type": "Text",
     "index_reference": "hell",
@@ -191,13 +285,22 @@
     "content": "<p>A place of total ruin for those who refuse to be part of God’s kingdom.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Hell",
+          "type": "place",
+          "preferred_label": "Hell",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132056,
+    "content_id": "132056",
     "reference_id": 108110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herod Agrippa I",
     "media_type": "Text",
     "index_reference": "herod agrippa i",
@@ -206,13 +309,22 @@
     "content": "<p>The King Herod of Acts chapter 12. He was a grandson of Herod the Great. He was also a nephew of Herod Antipas. He was the father of Herod Agrippa II. Two of his daughters were Bernice and Drusilla.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Agrippa",
+          "type": "person",
+          "preferred_label": "Agrippa",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132085,
+    "content_id": "132085",
     "reference_id": 108139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herod Agrippa II",
     "media_type": "Text",
     "index_reference": "herod agrippa ii",
@@ -221,13 +333,22 @@
     "content": "<p>The King Agrippa of Acts chapters 25 and 26. He was the son of Herod Agrippa I. It’s thought that his sister Bernice lived with him as a wife.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "Herod",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132003,
+    "content_id": "132003",
     "reference_id": 108057,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herod Antipas",
     "media_type": "Text",
     "index_reference": "herod antipas",
@@ -236,13 +357,22 @@
     "content": "<p>The Herod of Matthew chapter 14, Mark chapter 6, and Luke chapters 3, 9 and 23. He was a son of Herod the Great. He ruled in Galilee and Perea during Jesus’ time. Perea was east of the River Jordan. He married the wife of his brother Philip. Her name was Herodias. Herod Antipas had John the Baptist put to death.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herod Antipas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132504,
+    "content_id": "132504",
     "reference_id": 108558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herod the Great",
     "media_type": "Text",
     "index_reference": "herod the great",
@@ -251,13 +381,22 @@
     "content": "<p>The King Herod of Matthew 2 and Luke 1. He was a ruler appointed by the Romans with the title King of the Jews. He ruled as king from around 36 BC to 4 BC. He ruled over Judea and all of Israel’s lands. He was from the family line of Esau but was considered to be a Jew. He ordered many building projects to be done. This included the city of Caesarea and the temple in Jerusalem. He ordered the temple to be made bigger and greater than it had ever been.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Herod",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132008,
+    "content_id": "132008",
     "reference_id": 108062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodians",
     "media_type": "Text",
     "index_reference": "herodians",
@@ -266,13 +405,22 @@
     "content": "<p>Supporters of the rulers from the family line of Herod the Great.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Herodian",
+          "type": "group",
+          "preferred_label": "Herodians",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132442,
+    "content_id": "132442",
     "reference_id": 108496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hezekiah",
     "media_type": "Text",
     "index_reference": "hezekiah",
@@ -281,13 +429,43 @@
     "content": "<p>The son of Ahaz and Abijah. He was the father of Manasseh and was from the tribe of Judah. He was the twelfth king of the southern kingdom of Judah. While he was king, God did a miracle to save Jerusalem from the Assyrians. Hezekiah followed God faithfully and led the people to worship only God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hezekiah.2",
+          "type": "person",
+          "preferred_label": "Hezekiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Hezekiah.3",
+          "type": "person",
+          "preferred_label": "Hezekiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Hezekiah.4",
+          "type": "person",
+          "preferred_label": "Hezekiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Hezekiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132445,
+    "content_id": "132445",
     "reference_id": 108499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "High places",
     "media_type": "Text",
     "index_reference": "high places",
@@ -296,13 +474,22 @@
     "content": "<p>A place of worship on a hill, mountain or place of high ground. People burnt incense and made sacrifices there. Some high places were used for worshipping the true God. This happened often before the temple was built. Other high places were used for worshipping false gods. People would even sacrifice children on them to honour false gods. There were many of these high places when the Israelites first entered Canaan. The Israelites were supposed to destroy all high places used to worship false gods.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:HighPlace",
+          "type": "realia",
+          "preferred_label": "High Place",
+          "confidence": 0.8707,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132314,
+    "content_id": "132314",
     "reference_id": 108368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "High priest",
     "media_type": "Text",
     "index_reference": "high priest",
@@ -311,13 +498,14 @@
     "content": "<p>The religious leader with the most authority in Israel. The high priest was to be a male from the tribe of Levi. He was to be from Aaron’s family line. The high priest was to teach the people like Moses had done. He had special duties in God’s holy tent and later in the temple. Only the high priest was allowed into the Most Holy Room. He told the people what God wanted them to do. He also made the sacrifices for Israel’s sin to be forgiven.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132373,
+    "content_id": "132373",
     "reference_id": 108427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hivites",
     "media_type": "Text",
     "index_reference": "hivites",
@@ -326,13 +514,22 @@
     "content": "<p>A people group that lived in Canaan. They were from the family line of Ham’s son Canaan. God told the Israelites to drive them out of Canaan as God’s judgement against them. Joshua was tricked into making a covenant of peace with the Hivites living in Gibeon.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Hivites",
+          "type": "group",
+          "preferred_label": "Hivites",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132333,
+    "content_id": "132333",
     "reference_id": 108387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hobab",
     "media_type": "Text",
     "index_reference": "hobab",
@@ -341,13 +538,22 @@
     "content": "<p>Moses’ brother-in-law. He was the son of Reuel who was also called Jethro. Hobab was the brother of Moses’ wife Zipporah. He was part of the Kenite people group. He stayed with the Israelites as they travelled from Mount Sinai to Canaan. He was a guide to them in the desert.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hobab",
+          "type": "person",
+          "preferred_label": "Hobab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132307,
+    "content_id": "132307",
     "reference_id": 108361,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Holy",
     "media_type": "Text",
     "index_reference": "holy",
@@ -356,13 +562,22 @@
     "content": "<p>Being set apart. God is holy. This means that he is different from everything else that exists. In the Bible certain places were holy. This was because people were aware that God was present there. Certain things were holy. This meant that they were used in special ways to worship God. The opposite of holy is unholy or evil. Things that are unholy can’t be in God’s presence.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "Holy",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 131990,
+    "content_id": "131990",
     "reference_id": 108044,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Holy living",
     "media_type": "Text",
     "index_reference": "holy living",
@@ -371,13 +586,14 @@
     "content": "<p>Following Jesus’ example for how to think, speak and act. This is how believers can be holy like God is holy. There are many reasons why God wants his people to live holy lives. One reason is that the Holy Spirit lives among them and in them. Another reason is that holy living helps the members of God’s family treat each other well. It helps them to always show care and love towards one another. Holy living shows that believers have been set free from the power of sin and death. This helps them spread the message about Jesus among unbelievers. The Holy Spirit makes it possible for believers to live in holy ways. Holy living is also called a godly life.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132334,
+    "content_id": "132334",
     "reference_id": 108388,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Holy Spirit",
     "media_type": "Text",
     "index_reference": "holy spirit",
@@ -386,13 +602,22 @@
     "content": "<p>God shows himself to be the Spirit at the creation of the world. The Holy Spirit is God just like the Father is God and Jesus is God. They are the three persons of the one and only God. The Holy Spirit worked through the people who recorded the books of the Bible. In the Old Testament, the Holy Spirit made it possible for people to prophesy. The Spirit also made it possible for people to do skilful work and mighty deeds. In the New Testament, the Holy Spirit made it possible for Mary to be Jesus’ mother. Jesus sent the Holy Spirit to his followers at the Feast of Pentecost. Through the Holy Spirit, believers are joined to Jesus. The Holy Spirit is a Friend who makes Jesus’ followers able to continue doing his work.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132280,
+    "content_id": "132280",
     "reference_id": 108334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Holy tent",
     "media_type": "Text",
     "index_reference": "holy tent",
@@ -401,13 +626,22 @@
     "content": "<p>The tent where God lived among the Israelites after they left Egypt. It’s where he talked with Moses and with the people of Israel. God gave Moses clear instructions about how to make it. The holy tent included the ark of the covenant and an altar for incense. It included lampstands and a table for holy bread. It included an altar for sacrifices and a courtyard. It included a large bowl of water for the priests to wash their hands and feet. Skilled workers made the tent according to the pattern God showed Moses on Mount Sinai. The Israelites took the holy tent with them everywhere they travelled. It was also a sign of how God would work through Jesus many years later.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Tabernacle",
+          "type": "realia",
+          "preferred_label": "Tabernacle",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132516,
+    "content_id": "132516",
     "reference_id": 108570,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hosea",
     "media_type": "Text",
     "index_reference": "hosea",
@@ -416,13 +650,22 @@
     "content": "<p>A prophet in the northern kingdom of Israel. He prophesied during the time of King Jeroboam the second. He prophesied until the time the northern kingdom was destroyed by Assyria. His prophecies are recorded in the book of Hosea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hosea",
+          "type": "person",
+          "preferred_label": "Hosea",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132148,
+    "content_id": "132148",
     "reference_id": 108202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Human beings",
     "media_type": "Text",
     "index_reference": "human beings",
@@ -431,7 +674,8 @@
     "content": "<p>God created human beings in his likeness. He meant for them to live for ever in complete peace with him. They were to live in peace with one another and with the rest of creation. But Adam and Eve sinned. Since then sin and death have had control over human beings. Human beings sin. Human beings die.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

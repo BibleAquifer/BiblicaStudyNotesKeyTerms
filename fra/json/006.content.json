@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133698,
+    "content_id": "133698",
     "reference_id": 108446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dagon",
     "media_type": "Text",
     "index_reference": "dagon",
@@ -11,13 +11,22 @@
     "content": "<p>Faux dieu adoré par des groupes de personnes dans et autour de Canaan. Dans la langue hébraïque, le mot <em>Dagon </em>signifie &quot;grain&quot;. Il était considéré comme le père de Baal.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Dagon",
+          "type": "deity",
+          "preferred_label": "Dagon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133697,
+    "content_id": "133697",
     "reference_id": 108445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dalila",
     "media_type": "Text",
     "index_reference": "dalila",
@@ -26,13 +35,14 @@
     "content": "<p>Femme philistine dont Samson était amoureux. Les chefs philistins l&apos;ont utilisée pour connaître le secret de la force étonnante de Samson. Samson lui a menti trois fois à ce sujet. Mais Dalila l&apos;a suppliée jusqu&apos;à ce qu&apos;il lui dise enfin la vérité. Elle a reçu de l&apos;argent pour avoir livré Samson aux chefs.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133792,
+    "content_id": "133792",
     "reference_id": 108540,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Damas",
     "media_type": "Text",
     "index_reference": "damas",
@@ -41,13 +51,22 @@
     "content": "<p>Capitale du royaume situé au nord de la terre d&apos;Israël. Elle figure aujourd&apos;hui dans le pays nommé Syrie. Elle fut longtemps une ville des Araméens et se trouve à environ 300 km au nord de Jérusalem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "Damas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133696,
+    "content_id": "133696",
     "reference_id": 108444,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dan",
     "media_type": "Text",
     "index_reference": "dan",
@@ -56,13 +75,36 @@
     "content": "<p>Fils aîné de Jacob et de Bilha. Dans la langue hébraïque, le nom <em>Dan</em> signifie «&nbsp;il a jugé&nbsp;». Sa lignée est devenue une tribu d&apos;Israël. Dan était également le nom de la ville principale de la tribu de Dan. Elle se trouvait près du mont Hermon. C&apos;était l&apos;une des régions les plus au nord d&apos;Israël.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Dan",
+          "type": "group",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dan",
+          "type": "place",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133812,
+    "content_id": "133812",
     "reference_id": 108560,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daniel",
     "media_type": "Text",
     "index_reference": "daniel",
@@ -71,13 +113,29 @@
     "content": "<p>Jeune homme du royaume du sud, à l&apos;époque où <span>Jojakim </span>était roi. Il a été enlevé de sa demeure en Juda pour aller vivre à Babylone. Il a servi plusieurs rois babyloniens et perses en tant que sage et chef de gouvernement. On l&apos;appelait aussi Belteshassar. Il était prophète et Dieu lui a adressé des visions et des messages. Ceux-ci sont rapportés dans le livre de Daniel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Daniel.2",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133764,
+    "content_id": "133764",
     "reference_id": 108512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Darius",
     "media_type": "Text",
     "index_reference": "darius",
@@ -86,13 +144,36 @@
     "content": "<p>Roi de Perse, également appelé Darius le Grand ou Darius Iᵉʳ. Dieu l&apos;a utilisé pour permettre aux Juifs de reconstruire le temple.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Darius",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Darius.3",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133701,
+    "content_id": "133701",
     "reference_id": 108449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "David",
     "media_type": "Text",
     "index_reference": "david",
@@ -109,13 +190,22 @@
           "label": "Alliance avec David",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "David",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 133685,
+    "content_id": "133685",
     "reference_id": 108433,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Débora",
     "media_type": "Text",
     "index_reference": "débora",
@@ -124,13 +214,29 @@
     "content": "<p>Prophète dans la région d&apos;Éphraïm, elle comptait parmi les 12 juges d&apos;Israël. Elle servait les Israélites en réglant pour eux des questions difficiles. Elle a désigné Barak comme chef de l&apos;attaque contre l&apos;armée de Sisera. Le chant composé à l&apos;occasion de leur victoire est rapporté dans le chapitre 5 des Juges.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Deborah",
+          "type": "person",
+          "preferred_label": "Débora",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Deborah.2",
+          "type": "person",
+          "preferred_label": "Débora",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133661,
+    "content_id": "133661",
     "reference_id": 108409,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Déposséder",
     "media_type": "Text",
     "index_reference": "déposséder",
@@ -139,13 +245,14 @@
     "content": "<p>Façon dont Dieu prévoyait de juger les Cananéens pour leur mauvaise conduite. Dieu avait été patient avec eux pendant des centaines d&apos;années. Puis il les a jugés pour mettre fin à leurs actions néfastes. Il a décidé de ne plus leur permettre de rester sur leur terre. Il devait se servir des Israélites pour les chasser. Mais les Israélites n&apos;ont pas complètement obéi à Dieu. Ils n&apos;ont pas expulsé tous les Cananéens. Au lieu de cela, les Israélites ont vécu avec les Cananéens et ont suivi leurs mauvaises habitudes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133369,
+    "content_id": "133369",
     "reference_id": 108117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Derbé",
     "media_type": "Text",
     "index_reference": "derbé",
@@ -154,13 +261,22 @@
     "content": "<p>Ville du territoire romain de Galatie, en Asie Mineure. Paul s&apos;y est rendu lors de trois de ses voyages pour annoncer la bonne nouvelle de Jésus. On pense que la lettre de Paul aux Galates a été lue à l&apos;église de cette ville.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Derbe",
+          "type": "place",
+          "preferred_label": "Derbe",
+          "confidence": 0.9271,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133788,
+    "content_id": "133788",
     "reference_id": 108536,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Derniers jours",
     "media_type": "Text",
     "index_reference": "derniers jours",
@@ -169,13 +285,14 @@
     "content": "<p>Un moyen d&apos;évoquer un moment dans le futur. Certains prophètes dans la Bible l&apos;ont décrit comme une période où Dieu agirait. Il prendrait des mesures pour s&apos;assurer que tous les peuples l&apos;honorent. D&apos;autres auteurs de la Bible l&apos;ont décrit comme un moment de souffrance. Cela aurait lieu juste avant que Dieu ne juge le monde. Les gens feraient beaucoup de choses mauvaises pendant cette période. Certains auteurs du Nouveau Testament ont décrit la période après la résurrection de Jésus comme les derniers jours. Ils considéraient que l&apos;Église vivait cette période jusqu&apos;au retour de Jésus sur terre.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133427,
+    "content_id": "133427",
     "reference_id": 108175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deuxième mort",
     "media_type": "Text",
     "index_reference": "deuxième mort",
@@ -184,13 +301,14 @@
     "content": "<p>Une manière de décrire le jugement final de Dieu à l&apos;encontre de ceux qui refusent de le suivre. Ils sont détruits et sont séparés de Dieu pour toujours. Jean a décrit le lieu de la seconde mort comme un étang de feu. Il était aussi appelé un étang de soufre brûlant. Ceux qui y sont jetés n&apos;ont plus rien en commun avec le royaume de Dieu sur terre.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133545,
+    "content_id": "133545",
     "reference_id": 108293,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Devoir du beau-frère",
     "media_type": "Text",
     "index_reference": "devoir du beau-frère",
@@ -199,13 +317,14 @@
     "content": "<p>Pratique courante dans de nombreuses populations depuis des centaines d&apos;années. Elle permet de prendre soin de la veuve et de la lignée familiale d&apos;un homme qui meurt. Le frère de l&apos;homme décédé épouse la veuve et conçoit un enfant avec elle. L&apos;enfant est considéré comme l&apos;enfant de l&apos;homme décédé. Cet enfant reçoit les biens et porte le nom de l&apos;homme décédé. L&apos;enfant prend également soin de la mère lorsqu&apos;elle est âgée.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133468,
+    "content_id": "133468",
     "reference_id": 108216,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diable",
     "media_type": "Text",
     "index_reference": "diable",
@@ -222,13 +341,14 @@
           "label": "Êtres spirituels maléfiques",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133352,
+    "content_id": "133352",
     "reference_id": 108100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diacres",
     "media_type": "Text",
     "index_reference": "diacres",
@@ -237,13 +357,14 @@
     "content": "<p>Disciples de Jésus qui faisaient office de dirigeants de l&apos;Église. Les diacres travaillaient dur pour pourvoir aux besoins des croyants au sein de l&apos;Église. Le travail des premiers diacres est décrit dans Actes 6.1–7.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133451,
+    "content_id": "133451",
     "reference_id": 108199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dieu",
     "media_type": "Text",
     "index_reference": "dieu",
@@ -267,13 +388,14 @@
           "label": "Seigneur - Souverain",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133481,
+    "content_id": "133481",
     "reference_id": 108229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dieu décide",
     "media_type": "Text",
     "index_reference": "dieu décide",
@@ -282,13 +404,14 @@
     "content": "<p>Dieu est libre de faire tout ce qu&apos;il veut. Les récits de la Bible décrivent certains choix que Dieu a faits. Le choix de conclure une alliance avec Abraham et sa famille en est un exemple. Les récits n&apos;expliquent pas complètement pourquoi Dieu a fait ces choix. Ils montrent clairement que Dieu est bon et qu&apos;on peut lui faire confiance. Il décide sur la base de sa connaissance et de son amour. Les êtres humains ne comprennent pas toutes les décisions de Dieu, mais ils peuvent avoir confiance en son amour, sa sagesse et sa bonté.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133535,
+    "content_id": "133535",
     "reference_id": 108283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dina",
     "media_type": "Text",
     "index_reference": "dina",
@@ -297,13 +420,22 @@
     "content": "<p>La fille de Jacob et Léa. Ses frères Lévi et Siméon ont tué Shechem après qu&apos;il l&apos;a violée.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Dinah",
+          "type": "person",
+          "preferred_label": "Dina",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133292,
+    "content_id": "133292",
     "reference_id": 108040,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Disciple",
     "media_type": "Text",
     "index_reference": "disciple",
@@ -327,13 +459,22 @@
           "label": "12 tribus",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:GenericDisciple",
+          "type": "person",
+          "preferred_label": "A Disciple",
+          "confidence": 0.8793,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 133766,
+    "content_id": "133766",
     "reference_id": 108514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Divorce",
     "media_type": "Text",
     "index_reference": "divorce",
@@ -350,13 +491,14 @@
           "label": "Mariage",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133419,
+    "content_id": "133419",
     "reference_id": 108167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Docétisme",
     "media_type": "Text",
     "index_reference": "docétisme",
@@ -365,13 +507,14 @@
     "content": "<p>Croyance selon laquelle Jésus n&apos;avait pas de corps humain et n&apos;était pas un être humain à part entière. Cette croyance était basée sur une idée grecque selon laquelle les corps sont mauvais et que seules les choses spirituelles qui durent éternellement sont bonnes. Le docétisme a été associé au mouvement plus grand qui s&apos;appelle le gnosticisme. Les gnostiques <span>croyaient que le monde physique et les corps physiques étaient mauvais et causaient le mal. Ils croyaient qu&apos;on pouvait arriver au salut en gagnant des connaissances secrètes.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133401,
+    "content_id": "133401",
     "reference_id": 108149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dons de l'Esprit",
     "media_type": "Text",
     "index_reference": "dons de l'esprit",
@@ -380,13 +523,14 @@
     "content": "<p>Le Saint-Esprit confère aux gens la capacité de bien faire certaines choses. Ces dons ne sont pas de ceux que l&apos;on peut tenir dans ses mains. Ce sont des dons spirituels. Certains dons consistent à enseigner, à prendre soin des autres et à guérir ceux qui sont malades. Les disciples de Jésus utilisent leurs dons pour encourager et renforcer l&apos;Église.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133522,
+    "content_id": "133522",
     "reference_id": 108270,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Droits du fils aîné",
     "media_type": "Text",
     "index_reference": "droits du fils aîné",
@@ -395,7 +539,8 @@
     "content": "<p>Autorité et part des biens de la famille accordés au fils aîné. Cette situation survenait lorsque le père d&apos;une famille décédait. Le fils aîné recevait deux fois plus de biens que les autres fils. Il avait autorité sur le reste de la famille, comme son père avant lui. Il assumait la responsabilité de chef de famille.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

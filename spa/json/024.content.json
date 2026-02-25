@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232412,
+    "content_id": "232412",
     "reference_id": 108443,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zabulón",
     "media_type": "Text",
     "index_reference": "zabulón",
@@ -11,13 +11,29 @@
     "content": "<p>El sexto hijo de Jacob y Lea. En el idioma hebreo, el nombre Zabulón probablemente significa honor. Su linaje se convirtió en una tribu de Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Zebulun",
+          "type": "group",
+          "preferred_label": "Zabulón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zebulun",
+          "type": "person",
+          "preferred_label": "Zabulón",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232480,
+    "content_id": "232480",
     "reference_id": 108511,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zacarías",
     "media_type": "Text",
     "index_reference": "zacarías",
@@ -26,13 +42,218 @@
     "content": "<p>Un sacerdote y profeta en Judá cuando estaba en control el gobierno persa. Era hijo de Berequías y era de la tribu de Leví. Animó a Josué y Zorobabel a reconstruir el templo. Sus visiones y profecías están registradas en el libro de Zacarías. Este era un Zacarías diferente del padre de Juan el Bautista.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Zechariah",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.10",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.11",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.12",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.13",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.14",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.15",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.16",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.17",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.18",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.19",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.2",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.20",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.21",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.22",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.23",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.24",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.25",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.26",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.27",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.28",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.29",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.3",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.4",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.5",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.6",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.7",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.8",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zechariah.9",
+          "type": "person",
+          "preferred_label": "Zachârías",
+          "confidence": 0.8501,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232049,
+    "content_id": "232049",
     "reference_id": 108080,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zacarías - NT",
     "media_type": "Text",
     "index_reference": "zacarías - nt",
@@ -41,13 +262,14 @@
     "content": "<p>El padre de Juan el Bautista. Elizabeth era su esposa. Era un sacerdote de la tribu de Leví y de la familia de Aarón. Zacarías pronunció una hermosa profecía cuando nació Juan el Bautista.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232259,
+    "content_id": "232259",
     "reference_id": 108290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zilpa",
     "media_type": "Text",
     "index_reference": "zilpa",
@@ -63,6 +285,15 @@
           "resource_code": "BiblicaStudyNotesKeyTerms",
           "label": "Concubinas",
           "language": "spa"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Zilpah",
+          "type": "person",
+          "preferred_label": "Zilpa",
+          "confidence": 1.0,
+          "match_method": "embedding"
         }
       ]
     }

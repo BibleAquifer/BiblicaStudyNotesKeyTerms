@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232835,
+    "content_id": "232835",
     "reference_id": 108234,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "洪水",
     "media_type": "Text",
     "index_reference": "洪水",
@@ -19,13 +19,14 @@
           "label": "四十天",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232921,
+    "content_id": "232921",
     "reference_id": 108320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "紅海",
     "media_type": "Text",
     "index_reference": "紅海",
@@ -34,7 +35,16 @@
     "content": "<p>在出埃及時期，位於埃及邊界的一大片水域。今天尚不確定這是哪片水域。神分開了水，使以色列人能夠在乾地上走過。以色列人到達另一邊後，埃及人淹死在水中。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:RedSea",
+          "type": "place",
+          "preferred_label": "Red Sea",
+          "confidence": 0.8604,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

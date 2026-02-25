@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132337,
+    "content_id": "132337",
     "reference_id": 108391,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kadesh Barnea",
     "media_type": "Text",
     "index_reference": "kadesh barnea",
@@ -11,13 +11,22 @@
     "content": "<p>An area southwest of the Dead Sea in the Desert of Zin. The Israelites camped there as they travelled from Egypt to Canaan. From there the Israelites refused to enter Canaan. Kadesh is where Miriam died. It is also where Moses disobeyed God by hitting a rock to get water.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Kadesh-barnea",
+          "type": "place",
+          "preferred_label": "Kadesh-barnea",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132276,
+    "content_id": "132276",
     "reference_id": 108330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "King",
     "media_type": "Text",
     "index_reference": "king",
@@ -26,13 +35,14 @@
     "content": "<p>The ruler with the highest authority among certain people groups. God was to be the King of the Israelites. Human kings in Israel were supposed to lead the people the way God led them. This was very different from how kings of other people groups led. Israelite kings were to study God’s laws and obey them. They were to help the people stay faithful to God’s covenant. Israelite kings were to protect people who were weak and needy. They shouldn’t have many wives or become very rich. They were to be humble. They shouldn’t treat their people as slaves. They shouldn’t trust in weapons and horses for winning battles. Israelite kings were to trust in God and serve him only.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132507,
+    "content_id": "132507",
     "reference_id": 108561,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kingdom of God",
     "media_type": "Text",
     "index_reference": "kingdom of god",
@@ -49,13 +59,14 @@
           "label": "Heaven",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132283,
+    "content_id": "132283",
     "reference_id": 108337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Kingdom of priests",
     "media_type": "Text",
     "index_reference": "kingdom of priests",
@@ -64,13 +75,14 @@
     "content": "<p>God wanted the Israelites to be a kingdom of priests and a holy nation. They would become these things if they were faithful to the Mount Sinai covenant. Like other people groups, they would become a kingdom and a nation. But God didn’t want them to live like other people groups. He wanted them to be a different kind of kingdom and nation. Every Israelite would know God closely and serve him. In this way they would be like priests. All together they would obey God and treat others the way God taught them to. This would show how different they were from other nations. In this way they would be set apart or holy like God was holy. That is how the Israelites would be a holy nation.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132339,
+    "content_id": "132339",
     "reference_id": 108393,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Korah",
     "media_type": "Text",
     "index_reference": "korah",
@@ -79,7 +91,37 @@
     "content": "<p>A man born a Hebrew slave in Egypt. He was from the tribe of Levi but wasn’t from Aaron’s family line. In the desert, he led many people to oppose Moses and Aaron. God destroyed him and those who followed him. Later, some of the people from his family line served God faithfully. This included the prophet Samuel and men known as the sons of Korah. They led Israel in worshipping God with psalms.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Korah.2",
+          "type": "person",
+          "preferred_label": "Korah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Korah.3",
+          "type": "person",
+          "preferred_label": "Korah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Korah.4",
+          "type": "person",
+          "preferred_label": "Korah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Korah",
+          "type": "person",
+          "preferred_label": "Korah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   }
 ]

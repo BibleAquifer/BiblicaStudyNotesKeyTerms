@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133367,
+    "content_id": "133367",
     "reference_id": 108115,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Iconium",
     "media_type": "Text",
     "index_reference": "iconium",
@@ -11,13 +11,22 @@
     "content": "<p>Une ville située sur le territoire romain de Galatie en Asie Mineure. Paul l&apos;a visitée lors de trois de ses voyages pour partager la bonne nouvelle à propos de Jésus. On pense que la lettre de Paul aux Galates y a été lue à l&apos;église.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Iconium",
+          "type": "place",
+          "preferred_label": "Icone",
+          "confidence": 0.8775,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133358,
+    "content_id": "133358",
     "reference_id": 108106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Imposition des mains",
     "media_type": "Text",
     "index_reference": "imposition des mains",
@@ -26,13 +35,14 @@
     "content": "<p>À de nombreuses reprises, Jésus a guéri et béni des gens en posant ses mains sur eux. Les croyants ont suivi son exemple. L&apos;imposition des mains est devenue une pratique courante dans des circonstances spécifiques. Il s&apos;agissait notamment de prier pour que les nouveaux chrétiens reçoivent le Saint-Esprit et de prier pour que chaque croyant reçoive un don de l&apos;Esprit. L&apos;imposition des mains était également une pratique fréquente lorsque l&apos;on sollicitait la guérison des malades ou lorsque des individus étaient mis à part pour un service de responsable. Imposer les mains à quelqu&apos;un était une manière de montrer l&apos;amour et l&apos;attention de Dieu à son égard. Il n&apos;y a rien de magique à imposer les mains sur une personne. Les bénédictions proviennent du Saint-Esprit agissant par l&apos;intermédiaire des chrétiens.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133667,
+    "content_id": "133667",
     "reference_id": 108415,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Instrument de Dieu",
     "media_type": "Text",
     "index_reference": "instrument de dieu",
@@ -41,13 +51,14 @@
     "content": "<p>Tout au long de la Bible, Dieu utilise des personnes, des groupes et des nations comme instruments pour exercer son jugement. Par leur intermédiaire, il exerce son jugement sur les personnes, les groupes ou les nations qui agissent mal. C&apos;est ainsi qu&apos;il arrête le mal et ramène la paix. C&apos;est Dieu qui décide quand et comment exercer son jugement. Ceux que Dieu utilise comme outil ne sont pas meilleurs que ceux qui sont jugés. Chaque personne, groupe et nation a la responsabilité de servir et d&apos;obéir à Dieu. Ils seront tous jugés pour leurs mauvaises actions.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133513,
+    "content_id": "133513",
     "reference_id": 108261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaac",
     "media_type": "Text",
     "index_reference": "isaac",
@@ -56,13 +67,22 @@
     "content": "<p>Le fils que Dieu a promis à Abraham qu&apos;il aurait avec sa femme Sarah. Isaac a épousé Rébecca et était le père de Jacob et d&apos;Ésaü. En hébreu, <em>Isaac </em>signifie &quot;il rit&quot;. Dieu a poursuivi son alliance avec Abraham à travers Isaac.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaac",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133514,
+    "content_id": "133514",
     "reference_id": 108262,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ismaël",
     "media_type": "Text",
     "index_reference": "ismaël",
@@ -71,13 +91,64 @@
     "content": "<p>Le fils qu&apos;Abraham a eu avec la servante de Sarah, Hagar. Ismaël n&apos;était pas le fils que Dieu avait promis de donner à Abraham. Mais Dieu a pris soin d&apos;Ismaël et il est également devenu le père des 12 tribus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "Ismaël",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.2",
+          "type": "person",
+          "preferred_label": "Ismaël",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.3",
+          "type": "person",
+          "preferred_label": "Ismaël",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.4",
+          "type": "person",
+          "preferred_label": "Ismaël",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.5",
+          "type": "person",
+          "preferred_label": "Ismaël",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.6",
+          "type": "person",
+          "preferred_label": "Ismaël",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Ishmael",
+          "type": "group",
+          "preferred_label": "Ismaélite",
+          "confidence": 0.8188,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133532,
+    "content_id": "133532",
     "reference_id": 108280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Israël",
     "media_type": "Text",
     "index_reference": "israël",
@@ -93,6 +164,29 @@
           "resource_code": "BiblicaStudyNotesKeyTerms",
           "label": "Alliance du mont Sinaï",
           "language": "fra"
+        }
+      ],
+      "acai": [
+        {
+          "id": "group:Israel",
+          "type": "group",
+          "preferred_label": "Israël",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israël",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Israel",
+          "type": "place",
+          "preferred_label": "Israel",
+          "confidence": 0.9758,
+          "match_method": "embedding"
         }
       ]
     }

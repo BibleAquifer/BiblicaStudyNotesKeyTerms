@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 769660,
+    "content_id": "769660",
     "reference_id": 108034,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Caesar",
     "media_type": "Text",
     "index_reference": "caesar",
@@ -11,13 +11,29 @@
     "content": "<p>De titel voor de heerser met de meeste autoriteit in de gebieden die door de Romeinse regering werden gecontroleerd, was &quot;Caesar.&quot; Julius Caesar was de eerste die deze titel gebruikte. De heersers die na hem kwamen, gebruikten deze titel ook. De Caesars na Julius waren keizers van Rome. Bijna alle Caesars behandelden de mensen over wie ze regeerden zeer slecht. Caesar Augustus was de keizer toen Jezus werd geboren. De Romeinen vereerden de keizer als heer en als de zoon van de goden. Degenen die weigerden de keizer te aanbidden, werden slecht behandeld. Ze mochten niet kopen en verkopen op de markt. De aankondiging dat Jezus Heer en Gods Zoon is, daagde de autoriteit van de Romeinse heerser uit.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Caesarea",
+          "type": "place",
+          "preferred_label": "Caesarea",
+          "confidence": 0.856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Caesarea.2",
+          "type": "place",
+          "preferred_label": "Caesarea",
+          "confidence": 0.856,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769661,
+    "content_id": "769661",
     "reference_id": 108138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Caesarea",
     "media_type": "Text",
     "index_reference": "caesarea",
@@ -26,13 +42,29 @@
     "content": "<p>De hoofdstad van de Romeinse provincie Judea in Israël, lag aan de kust van de Middellandse Zee. Herodes de Grote liet deze stad bouwen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Caesarea",
+          "type": "place",
+          "preferred_label": "Caesarea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Caesarea.2",
+          "type": "place",
+          "preferred_label": "Caesarea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769664,
+    "content_id": "769664",
     "reference_id": 108090,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cana",
     "media_type": "Text",
     "index_reference": "cana",
@@ -41,13 +73,22 @@
     "content": "<p>Een stad in Galilea. Twee van de zeven tekenen in het evangelie van Johannes vonden daar plaats. De discipel Nathanaël kwam uit Kana.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Cana",
+          "type": "place",
+          "preferred_label": "Cana",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775572,
+    "content_id": "775572",
     "reference_id": 108242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cham",
     "media_type": "Text",
     "index_reference": "cham",
@@ -56,13 +97,14 @@
     "content": "<p>De jongste zoon van Noach. Hij en zijn vrouw werden gered van de zondvloed omdat ze in de ark waren. Hij toonde geen respect voor zijn vader toen Noach dronken werd na de zondvloed. Hierdoor sprak Noach een vloek uit over een deel van Chams familie in plaats van een zegen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769668,
+    "content_id": "769668",
     "reference_id": 108098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Christus",
     "media_type": "Text",
     "index_reference": "christus",
@@ -79,13 +121,22 @@
           "label": "Jezus",
           "language": "nld"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:InChrist",
+          "type": "keyterm",
+          "preferred_label": "In Christ",
+          "confidence": 0.8094,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 769680,
+    "content_id": "769680",
     "reference_id": 108108,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cornelius",
     "media_type": "Text",
     "index_reference": "cornelius",
@@ -94,13 +145,22 @@
     "content": "<p>Een Romeinse legercommandant die in Caesarea woonde. Hoewel hij geen Jood was, aanbad hij de God van Israël. Hij en zijn familie waren enkele van de eerste heidenen die de Joodse Messias Jezus volgden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cornelius",
+          "type": "person",
+          "preferred_label": "Cornelius",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769690,
+    "content_id": "769690",
     "reference_id": 108112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cyprus",
     "media_type": "Text",
     "index_reference": "cyprus",
@@ -109,7 +169,23 @@
     "content": "<p>Een groot eiland in de Middellandse Zee, gelegen ten westen van Syrië en ten zuiden van Turkije. Profeten in het Oude Testament noemden Cyprus. Het eiland speelde een belangrijke rol tijdens Paulus&apos; eerste reis om het goede nieuws te verspreiden. De gelovigen Barnabas en Mnason kwamen uit Cyprus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Cyprus",
+          "type": "place",
+          "preferred_label": "Cyprus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Cyprus",
+          "type": "group",
+          "preferred_label": "Cypriots",
+          "confidence": 0.8195,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

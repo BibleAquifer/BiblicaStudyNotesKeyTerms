@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133873,
+    "content_id": "133873",
     "reference_id": 108071,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الناصرة",
     "media_type": "Text",
     "index_reference": "الناصرة",
@@ -11,13 +11,14 @@
     "content": "<p>المدينة الصغيرة التي نشأ فيها يسوع في الجزء الجنوبي من الجليل. تقع الناصرة بين بحر الجليل والبحر الأبيض المتوسط.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134272,
+    "content_id": "134272",
     "reference_id": 108470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نَاثَان",
     "media_type": "Text",
     "index_reference": "نَاثَان",
@@ -26,13 +27,99 @@
     "content": "<p>نبي خلال الفترة التي كان فيها داود ملكًا. كان مستشارًا مقربًا لداود. أعطى داود رسالة عن وعود الله لنسل داود. تحدى داود عندما فعل داود أشياء شريرة. أيد ناثان سليمان ملكًا بعد داود.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nathan",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.2",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.3",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.4",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.5",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.6",
+          "type": "person",
+          "preferred_label": "نَاثَان",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Naaran",
+          "type": "place",
+          "preferred_label": "نَعَرَان",
+          "confidence": 0.8352,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dathan",
+          "type": "person",
+          "preferred_label": "دَاثَان",
+          "confidence": 0.8243,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ethnan",
+          "type": "person",
+          "preferred_label": "أَثْنَان",
+          "confidence": 0.816,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nain",
+          "type": "place",
+          "preferred_label": "نَايِينَ",
+          "confidence": 0.8138,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ethan",
+          "type": "person",
+          "preferred_label": "أَيْثَان",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ethan.2",
+          "type": "person",
+          "preferred_label": "أَيْثَان",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134158,
+    "content_id": "134158",
     "reference_id": 108356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نَادَابُ وَأَبِيهُو",
     "media_type": "Text",
     "index_reference": "نَادَابُ وَأَبِيهُو",
@@ -41,13 +128,14 @@
     "content": "<p>ابنا هارون وأليشابع الأكبران من سبط لاوي. وكان أخوهما ألعازار وإيثامار. كانا على جبل سيناء مع موسى وهارون عندما أسس الله العهد. تم تعيينهم ككهنة. لكنهم عصوا الله في الطريقة التي قادوا بها الشعب في العبادة. وماتا بسبب ذلك.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133949,
+    "content_id": "133949",
     "reference_id": 108147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ناموس المسيح",
     "media_type": "Text",
     "index_reference": "ناموس المسيح",
@@ -56,13 +144,14 @@
     "content": "<p>طريقة للحديث عن اتباع مثال يسوع في كيفية العيش. أوصى يسوع تلاميذه أن يحبوا الله من كل قلبهم ونفسهم وقوتهم وعقلهم. وأوصاهم أن يحبوا قريبهم كنفسهم (لوقا 10: 27). بينما كان يعيش على الأرض، أظهر لهم يسوع كيف يفعلون ذلك. أحب يسوع أباه وأطاعه. ضحّى بنفسه من أجل خير الآخرين. تخلّى عن حقوقه ليخلّص العالم. خدم الآخرين ليُظهر لهم كم يحبهم الله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134202,
+    "content_id": "134202",
     "reference_id": 108400,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نبوات عن يسوع",
     "media_type": "Text",
     "index_reference": "نبوات عن يسوع",
@@ -79,13 +168,14 @@
           "label": "المُخَلِص",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134201,
+    "content_id": "134201",
     "reference_id": 108399,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نبوة",
     "media_type": "Text",
     "index_reference": "نبوة",
@@ -94,13 +184,14 @@
     "content": "<p>هي إعلان عن ما يريده الله أن يتم أو عن ما سيحدث. إن هذه الرسائل تأتي من الله أو من خلال كلمته. ثم يتم التحدث بها وإعلانها من قبل الأنبياء وهذا ما يسمى النبوة. ولقد تم تسجيل نبوات العديد من الأنبياء قبل زمن يسوع. وقد تم تضمينها في العهد القديم. وتُسمى معًا الأنبياء. إن الروح القدس هو من يعطي بعض الناس موهبة النبوة. يجب مشاركة الرسائل بطريقة منظمة يمكن للناس فهمها. وكان يتم مشاركتها لمساعدة الناس الذين لا يعرفون الله على التحول والرجوع إلى الله. كما يتم مشاركتها لتشجيع الناس الذين يتبعون الله بالفعل. وأخيرًا، يتم مشاركتها لمساعدة الناس على فهم كيفية طاعة الله بأمانة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134303,
+    "content_id": "134303",
     "reference_id": 108501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نَبُوخَذْنَصَّر",
     "media_type": "Text",
     "index_reference": "نَبُوخَذْنَصَّر",
@@ -109,13 +200,36 @@
     "content": "<p>ملك بابل من الشعب الكلداني. استخدمه الله كأداة لجلب الدينونة ضد المملكة الجنوبية. في عام 586 قبل الميلاد دمرت جيوشه أورشليم والهيكل. فسَّر له النبي دانيال بعض أحلامه. كان نَبُوخَذْنَصَّر يعبد آلهة باطلة، ولكنه أدرك أن إله اليهود له سلطان.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "نَبوخَذْنَاصَّر",
+          "confidence": 0.9638,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nebushazban",
+          "type": "person",
+          "preferred_label": "نَبوشَزْبَان",
+          "confidence": 0.8408,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shenazzar",
+          "type": "person",
+          "preferred_label": "شِنْأَصَّر",
+          "confidence": 0.8125,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134218,
+    "content_id": "134218",
     "reference_id": 108416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نبي",
     "media_type": "Text",
     "index_reference": "نبي",
@@ -132,13 +246,14 @@
           "label": "نبي كاذب",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134352,
+    "content_id": "134352",
     "reference_id": 108550,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نبي كاذب",
     "media_type": "Text",
     "index_reference": "نبي كاذب",
@@ -155,13 +270,14 @@
           "label": "نبي",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134317,
+    "content_id": "134317",
     "reference_id": 108515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نَحَمْيَا",
     "media_type": "Text",
     "index_reference": "نَحَمْيَا",
@@ -170,13 +286,141 @@
     "content": "<p>يهودي عاد إلى أورشليم من شوشن. كان ابن حكليا وحَنَانِي أخوه. كان مسؤولاً موثوقاً به في حكومة فارس. كان ساقيًا لأَرتَحششتا. وهذا يعني أنه كان يتأكد من أن طعام الملك ونبيذه لم يكن مسمومًا. خدم مرتين كحاكم لأورشليم. قاد اليهود لإعادة بناء سور أورشليم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "نَحَمْيَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "نَحَمْيَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "نَحَمْيَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naham",
+          "type": "person",
+          "preferred_label": "نَحَمَ",
+          "confidence": 0.8764,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahamani",
+          "type": "person",
+          "preferred_label": "نَحَمَانِي",
+          "confidence": 0.8567,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nimrim",
+          "type": "place",
+          "preferred_label": "نِمْرِيمَ",
+          "confidence": 0.8417,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahum",
+          "type": "person",
+          "preferred_label": "نَاحومَ",
+          "confidence": 0.8415,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahum.2",
+          "type": "person",
+          "preferred_label": "نَاحومَ",
+          "confidence": 0.8415,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nympha",
+          "type": "person",
+          "preferred_label": "نِمْفَاسَ",
+          "confidence": 0.8399,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Neariah",
+          "type": "person",
+          "preferred_label": "نَعْرِيَا",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Neariah.2",
+          "type": "person",
+          "preferred_label": "نَعْرِيَا",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahath",
+          "type": "person",
+          "preferred_label": "نَحَث",
+          "confidence": 0.8097,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahath.2",
+          "type": "person",
+          "preferred_label": "نَحَث",
+          "confidence": 0.8097,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman",
+          "type": "person",
+          "preferred_label": "نعْمَان",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.2",
+          "type": "person",
+          "preferred_label": "نعْمَان",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.3",
+          "type": "person",
+          "preferred_label": "نعْمَان",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.4",
+          "type": "person",
+          "preferred_label": "نعْمَان",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naomi",
+          "type": "person",
+          "preferred_label": "نعْمِيَ",
+          "confidence": 0.801,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134186,
+    "content_id": "134186",
     "reference_id": 108384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نذير",
     "media_type": "Text",
     "index_reference": "نذير",
@@ -185,13 +429,14 @@
     "content": "<p>هم رجال ونساء أرادوا أن يفرزوا أنفسهم لخدمة الله. في اللغة العبرية، تعني كلمة نذير أن يكون الشخص مُنفصلًا أو مُفرزًا. ولقد أمر الله بعض من شعب إسرائيل بأن يكونوا مُكرّسين لخدمته. بينما اختار آخرون القيام بذلك وأولئك هم من كانوا يُدعون بالنذيرين. فلقد تعهدوا بخدمة الله لفترة محددة من الزمن. كان عليهم عدم شرب الخمر وكذلك ترك شعورهم تنمو طويلًا ولا يقصّونها. كما كان عليهم الابتعاد عن أي شيء أو أي شخص ميت. وكانت هذه بمثابة علامات لباقي شعب إسرائيل بأن هؤلاء النذيرين كانوا مكرسين تمامًا لله. وعند نهاية فترة نذرهم، كانوا يحتفلون. وكان ذلك عن طريق حلق شعر رؤوسهم وتقديم الذبائح.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134290,
+    "content_id": "134290",
     "reference_id": 108488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نُعْمَانُ",
     "media_type": "Text",
     "index_reference": "نُعْمَانُ",
@@ -200,13 +445,78 @@
     "content": "<p>قائد مهم لجيش أَرَامَ. أخذ بنصيحة جارية إسرائيلية شابة في بيته، حيث طلب من أليشع أن يشفيه من بَرَصِه. في البداية رفض نعمان اتباع تعليمات أليشع. ولكن عندما تواضع وأطاع، شُفي. ثم آمن بالله. ولم يعبد إلا الله عندما عاد إلى أَرَامَ.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naaman",
+          "type": "person",
+          "preferred_label": "نعْمَان",
+          "confidence": 0.8799,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.2",
+          "type": "person",
+          "preferred_label": "نعْمَان",
+          "confidence": 0.8799,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.3",
+          "type": "person",
+          "preferred_label": "نعْمَان",
+          "confidence": 0.8799,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.4",
+          "type": "person",
+          "preferred_label": "نعْمَان",
+          "confidence": 0.8799,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "نَحَمْيَا",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "نَحَمْيَا",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "نَحَمْيَا",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nympha",
+          "type": "person",
+          "preferred_label": "نِمْفَاسَ",
+          "confidence": 0.8051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Nehushtan",
+          "type": "deity",
+          "preferred_label": "نَحشْتَانَ",
+          "confidence": 0.8019,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134037,
+    "content_id": "134037",
     "reference_id": 108235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نعمة",
     "media_type": "Text",
     "index_reference": "نعمة",
@@ -215,13 +525,50 @@
     "content": "<p>محبة الله العميقة لمخلوقاته ورغبته في عمل الخير لها. إنه يقدم محبته لأنه يريد الخير لكل ما خلقه. محبة الله ونعمته لا تُكتسب. الله يعطيهما مجانًا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naamah",
+          "type": "person",
+          "preferred_label": "نَعْمَة",
+          "confidence": 0.8851,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naamah.2",
+          "type": "person",
+          "preferred_label": "نَعْمَة",
+          "confidence": 0.8851,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Naamah",
+          "type": "place",
+          "preferred_label": "نَعْمَة",
+          "confidence": 0.8851,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raamah",
+          "type": "person",
+          "preferred_label": "رَعْمَة",
+          "confidence": 0.8402,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Raamah",
+          "type": "place",
+          "preferred_label": "رَعْمَة",
+          "confidence": 0.8402,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134208,
+    "content_id": "134208",
     "reference_id": 108406,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نهر أَلأُرْدُنّ",
     "media_type": "Text",
     "index_reference": "نهر أَلأُرْدُنّ",
@@ -230,13 +577,14 @@
     "content": "<p>أكبر الأنهار في أرض إسرائيل. يتدفق من الشمال إلى الجنوب من بحر الجليل إلى البحر الميت.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134356,
+    "content_id": "134356",
     "reference_id": 108554,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نهر الفرات",
     "media_type": "Text",
     "index_reference": "نهر الفرات",
@@ -245,13 +593,14 @@
     "content": "<p>نهر يجري عبر البلدان التي تسمى الآن تركيا وسوريا والعراق. كان نهراً مهماً في مملكتي بابل وفارس. في زمن المسيح، كان نهر الفرات يشكل أحد حدود أراضي الإمبراطورية الرومانية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134103,
+    "content_id": "134103",
     "reference_id": 108301,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نهر النيل",
     "media_type": "Text",
     "index_reference": "نهر النيل",
@@ -260,13 +609,14 @@
     "content": "<p>أطول نهر في أفريقيا. يتدفق عبر الجزء الشمالي الشرقي من أفريقيا إلى البحر الأبيض المتوسط. التربة حول النيل غنية جداً وخِصبة وجيدة للزراعة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134032,
+    "content_id": "134032",
     "reference_id": 108230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نُوح",
     "media_type": "Text",
     "index_reference": "نُوح",
@@ -275,13 +625,36 @@
     "content": "<p>ابن لامك من نسل شيث. كان والد سام وحام ويافث، وقد اتبع الله بأمانة. أنقذ الله نوحاً وعائلته عندما دمر الله الأرض بالطوفان. قطع الله عهداً مع نوح.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nogah",
+          "type": "person",
+          "preferred_label": "نوجَه",
+          "confidence": 0.8461,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "نوحٌ",
+          "confidence": 0.8114,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Noah.2",
+          "type": "person",
+          "preferred_label": "نوحٌ",
+          "confidence": 0.8114,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134348,
+    "content_id": "134348",
     "reference_id": 108546,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نور",
     "media_type": "Text",
     "index_reference": "نور",
@@ -305,13 +678,14 @@
           "label": "الكائنات الروحية الشريرة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134347,
+    "content_id": "134347",
     "reference_id": 108545,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نور للأمم",
     "media_type": "Text",
     "index_reference": "نور للأمم",
@@ -320,13 +694,14 @@
     "content": "<p>إن هذه الكلمات تصف العمل الذي يقوم به عبد الرب (إشعياء 6:42 وإشعياء 6:49). كان هذا العبد سيضمن أن عهد الله وخلاصه يصلان إلى جميع الشعوب. في العهد الجديد، فهم سمعان الشيخ أن يسوع هو الذي سيقوم بهذا العمل (لوقا 30:2–32). كما فهم بولس وبرنابا أنهما يجب أن يكونا نورًا للأمم أيضًا (أعمال 47:13). ولقد فعلوا ذلك بمشاركة رسالة يسوع مع الأمم. وفي أعمال 23:26 وعظ بولس عن كيف أن يسوع قد أعلن رسالة نور الله. وهي رسالة الخلاص من سلطان الخطية والموت. ولقد أعلن يسوع هذا النور لليهود والأمم. لذلك يجب على تلاميذ يسوع أن يشاركوا نور يسوع وخلاصه مع العالم كله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133890,
+    "content_id": "133890",
     "reference_id": 108088,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نِيقُودِيمُوس",
     "media_type": "Text",
     "index_reference": "نِيقُودِيمُوس",
@@ -335,13 +710,29 @@
     "content": "<p>قاضي يهودي وفريسي آمن بيسوع وتبعه في الخفاء. كان له حديث مهم مع يسوع ذات ليلة. عندما مات يسوع، ساعد نيقوديموس في إعداد جسد يسوع للدفن.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nicodemus",
+          "type": "person",
+          "preferred_label": "نِيقودِيموس",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nicolaus",
+          "type": "person",
+          "preferred_label": "نِيقولَاوسَ",
+          "confidence": 0.8069,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134376,
+    "content_id": "134376",
     "reference_id": 108574,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "نِينَوَى",
     "media_type": "Text",
     "index_reference": "نِينَوَى",
@@ -350,7 +741,23 @@
     "content": "<p>عاصمة الإمبراطورية الأشورية. كانت على نهر دجلة في البلاد التي تسمى الآن العراق. كان الناس الذين عاشوا هناك معروفين بأعمال العنف والشر. سيطرت الحكومة البابلية على نينوى والإمبراطورية الأشورية في عام 612 قبل الميلاد.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Nineveh",
+          "type": "group",
+          "preferred_label": "نِينَوَى",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "نِينَوَى",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

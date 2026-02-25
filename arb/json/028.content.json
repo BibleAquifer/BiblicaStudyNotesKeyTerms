@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 134023,
+    "content_id": "134023",
     "reference_id": 108221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هابيل",
     "media_type": "Text",
     "index_reference": "هابيل",
@@ -11,13 +11,14 @@
     "content": "<p>الابن الثاني لآدم وحواء. كان راعي غنم. قدم قرباناً أرضى الله. قتله أخوه قايين رغم أنه لم يفعل أي شيء خاطئ. يتحدث الكتاب المقدس عن أن دم هابيل كان يصرخ إلى الله من الأرض. هذا يعني أنه كان على الله أن يحقق العدالة لأن هابيل قُتل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134061,
+    "content_id": "134061",
     "reference_id": 108259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هاجر",
     "media_type": "Text",
     "index_reference": "هاجر",
@@ -26,13 +27,14 @@
     "content": "<p>جارية مصرية كانت في خدمة سارة. عندما عجزت سارة عن الإنجاب، جعلت هاجر تنام مع إبراهيم. بعد ذلك، أنجبت هاجر ابن إبراهيم إسماعيل. عاملت سارة هاجر معاملة سيئة. تم إرسالها هي وإسماعيل بعيدًا. لكن الله اعتنى بهما في الصحراء.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134108,
+    "content_id": "134108",
     "reference_id": 108306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هارون",
     "media_type": "Text",
     "index_reference": "هارون",
@@ -56,13 +58,14 @@
           "label": "لاَوِيُّين ",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134323,
+    "content_id": "134323",
     "reference_id": 108521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هامان",
     "media_type": "Text",
     "index_reference": "هامان",
@@ -71,13 +74,22 @@
     "content": "<p>قائد في الحكومة الفارسية في عهد أحشويرش. كان من نسل أجاج العماليقي. كان هذا يعني أن هامان كان من مجموعة من الناس الذين عاملوا بني إسرائيل معاملة سيئة. خطط هامان لتدمير جميع اليهود في المملكة الفارسية. فأمر أحشويرش بإعدامه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Hammon.2",
+          "type": "place",
+          "preferred_label": "Hammon",
+          "confidence": 0.8168,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133988,
+    "content_id": "133988",
     "reference_id": 108186,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هاوية",
     "media_type": "Text",
     "index_reference": "هاوية",
@@ -94,13 +106,14 @@
           "label": "الكائنات الروحية الشريرة",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134372,
+    "content_id": "134372",
     "reference_id": 108570,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هُوشَع",
     "media_type": "Text",
     "index_reference": "هُوشَع",
@@ -109,13 +122,155 @@
     "content": "<p>نبي في مملكة إسرائيل الشمالية. تنبأ في عهد الملك يربعام الثاني. تنبأ حتى وقت تدمير مملكة الشمال على يد أشور. نبوءاته مُسجلة في سفر هوشع.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hallohesh",
+          "type": "person",
+          "preferred_label": "هَلّوحِيشَ",
+          "confidence": 0.8914,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hasshub",
+          "type": "person",
+          "preferred_label": "حَشّوب",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hasshub.2",
+          "type": "person",
+          "preferred_label": "حَشّوب",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hasshub.3",
+          "type": "person",
+          "preferred_label": "حَشّوب",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hasshub.4",
+          "type": "person",
+          "preferred_label": "حَشّوب",
+          "confidence": 0.8543,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehucal",
+          "type": "person",
+          "preferred_label": "يَهوخَلَ",
+          "confidence": 0.8483,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shelesh",
+          "type": "person",
+          "preferred_label": "شَالَش",
+          "confidence": 0.8478,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hakkoz",
+          "type": "person",
+          "preferred_label": "هَقّوصَ",
+          "confidence": 0.8423,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hakkoz.2",
+          "type": "person",
+          "preferred_label": "هَقّوصَ",
+          "confidence": 0.8423,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hakkoz.3",
+          "type": "person",
+          "preferred_label": "هَقّوصَ",
+          "confidence": 0.8423,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shashak",
+          "type": "person",
+          "preferred_label": "شَاشَق",
+          "confidence": 0.8212,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishvah",
+          "type": "person",
+          "preferred_label": "يِشْة",
+          "confidence": 0.8208,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshijah",
+          "type": "person",
+          "preferred_label": "يِشِّيَّا",
+          "confidence": 0.8162,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shashai",
+          "type": "person",
+          "preferred_label": "شَاشَاي",
+          "confidence": 0.8129,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishvi.2",
+          "type": "person",
+          "preferred_label": "يِشْوِي",
+          "confidence": 0.8125,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shishak",
+          "type": "person",
+          "preferred_label": "شِيشَقَ",
+          "confidence": 0.8107,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sheshai",
+          "type": "person",
+          "preferred_label": "شِيشَاي",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haruz",
+          "type": "person",
+          "preferred_label": "حَاروصَ",
+          "confidence": 0.8035,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggai",
+          "type": "person",
+          "preferred_label": "حَجَّيِ",
+          "confidence": 0.803,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hena",
+          "type": "place",
+          "preferred_label": "هَيْنَعَ",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133912,
+    "content_id": "133912",
     "reference_id": 108110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هيرودس أغريباس الأول",
     "media_type": "Text",
     "index_reference": "هيرودس أغريباس الأول",
@@ -124,13 +279,14 @@
     "content": "<p>الملك هيرودس في سفر أعمال الرسل الإصحاح 12. كان حفيد هيرودس الكبير. وكان أيضاً ابن أخ هيرودس أنتيباس. وكان والد هيرودس أغريباس الثاني. وكانت اثنتان من بناته هما برنيس ودروسيلا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133941,
+    "content_id": "133941",
     "reference_id": 108139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هيرودس أغريباس الثاني",
     "media_type": "Text",
     "index_reference": "هيرودس أغريباس الثاني",
@@ -139,13 +295,14 @@
     "content": "<p>الملك أغريباس في الإصحاحين 25 و26 من سفر أعمال الرسل. كان ابن هيرودس أغريباس الأول، ويُعتقد أن أخته برنيكي عاشت معه كزوجة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134360,
+    "content_id": "134360",
     "reference_id": 108558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هيرودس الكبير",
     "media_type": "Text",
     "index_reference": "هيرودس الكبير",
@@ -154,13 +311,14 @@
     "content": "<p>الملك هيرودس في متى 2 ولوقا 1. كان حاكماً عينه الرومان بلقب ملك اليهود. حكم كملك من حوالي 36 قبل الميلاد إلى 4 قبل الميلاد. حكم على اليهودية وجميع أراضي إسرائيل. كان من نسل عيسو ولكنه كان يُعتبر يهودياً. أمر بتنفيذ العديد من مشاريع البناء. وشمل ذلك مدينة قيصرية والهيكل في أورشليم. أمر بتوسيع الهيكل وتعميره أكثر مما كان عليه في أي وقت مضى.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133859,
+    "content_id": "133859",
     "reference_id": 108057,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هيرودس أنتيباس",
     "media_type": "Text",
     "index_reference": "هيرودس أنتيباس",
@@ -169,13 +327,14 @@
     "content": "<p>هيرودس الوارد ذكره في إنجيل متى الإصحاح 14، ومرقس الإصحاح 6، ولوقا الإصحاحات 3 و9 و23، كان ابن هيرودس الكبير. حكم في الجليل وبيرية في زمن يسوع. كانت بيرية شرق نهر الأردن. تزوج زوجة أخيه فيلبُّس. كان اسمها هيروديا. أمر هيرودس أنتيباس بقتل يوحنا المعمدان.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133864,
+    "content_id": "133864",
     "reference_id": 108062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هيروديون",
     "media_type": "Text",
     "index_reference": "هيروديون",
@@ -184,13 +343,50 @@
     "content": "<p>أنصار الحكام من نسل هيرودس الكبير.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herodion",
+          "type": "person",
+          "preferred_label": "هِيرودِيونَ",
+          "confidence": 0.8751,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "هِيرودسَ",
+          "confidence": 0.8375,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "هِيرودس",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "هِيرودس",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "هِيرودِيَّا",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134219,
+    "content_id": "134219",
     "reference_id": 108417,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "هيكل",
     "media_type": "Text",
     "index_reference": "هيكل",
@@ -199,7 +395,8 @@
     "content": "<p>هو البناء الموجود في أورشليم حيث يمكن للناس الذهاب لعبادة الله. وكان يُطلق عليه أيضًا بيت الرب أو بيت الله. ولقد تم بناء الهيكل الأول عندما كان سليمان ملكًا. وقد كان الله حاضرًا مع شعبه هناك. ثم دمره البابليون في عام 586 قبل الميلاد. وبعد سنوات عديدة، أعاد اليهود بناء الهيكل مرة أخري. وبعد أن دمر الرومان ذلك الهيكل في عام 70 ميلادية، لم يبنِ اليهود واحدًا آخر. ولقد دعا يسوع الهيكل بيت أبيه. كما قال يسوع إن جسده هو الهيكل الجديد. وذلك لأن الله كان حاضرًا مع شعبه من خلال يسوع. كما يستمر الله حاضرًا على الأرض من خلال أولئك الذين يتبعون يسوع. إنهم ممتلئون بالروح القدس. ولأجل هذا، يُوصف المؤمنون بأنهم هيكل جديد.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 146045,
+    "content_id": "146045",
     "reference_id": 108536,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Últimos dias",
     "media_type": "Text",
     "index_reference": "últimos dias",
@@ -11,13 +11,14 @@
     "content": "<p>Uma maneira de falar sobre um tempo no futuro. Alguns profetas na Bíblia o descreveram como um tempo em que Deus agiria. Ele agiria para garantir que todas as pessoas o honrassem. Outros escritores na Bíblia o descreveram como um tempo de sofrimento. Seria um tempo antes de Deus julgar o mundo. As pessoas fariam muitas coisas más durante esse tempo. Alguns escritores do Novo Testamento descreveram o tempo após a ressurreição de Jesus como os últimos dias. Foi considerado o tempo em que a igreja vive até Jesus retornar à terra.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145869,
+    "content_id": "145869",
     "reference_id": 108360,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ungido",
     "media_type": "Text",
     "index_reference": "ungido",
@@ -34,13 +35,14 @@
           "label": "Oliveira",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 145978,
+    "content_id": "145978",
     "reference_id": 108469,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Urias",
     "media_type": "Text",
     "index_reference": "urias",
@@ -49,7 +51,44 @@
     "content": "<p>O marido de Bate-Seba e um dos 30 principais guerreiros de Davi. Ele era um hitita. Ele era um estrangeiro que era considerado parte de Israel. Davi mandou matá-lo na batalha contra os amonitas em Rabá.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Uriah",
+          "type": "person",
+          "preferred_label": "Urias",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.2",
+          "type": "person",
+          "preferred_label": "Urias",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.3",
+          "type": "person",
+          "preferred_label": "Urias",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.4",
+          "type": "person",
+          "preferred_label": "Urias",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.5",
+          "type": "person",
+          "preferred_label": "Urias",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

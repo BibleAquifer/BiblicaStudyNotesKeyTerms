@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 131992,
+    "content_id": "131992",
     "reference_id": 108046,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rabbi",
     "media_type": "Text",
     "index_reference": "rabbi",
@@ -11,13 +11,14 @@
     "content": "<p>A male Jewish teacher. Rabbis usually studied the Old Testament and other Jewish writings in schools. They were usually trained by other rabbis. People who wanted to learn from them and be like them would become their disciples. Usually only boys and men were disciples or students. Jesus was a rabbi even though he wasn’t trained like rabbis of his time. He welcomed both women and men as his students.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132222,
+    "content_id": "132222",
     "reference_id": 108276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rachel",
     "media_type": "Text",
     "index_reference": "rachel",
@@ -26,13 +27,22 @@
     "content": "<p>The second daughter of Laban and second wife of Jacob. Leah was her sister and Bilhah was her servant. She was a shepherd. Jacob loved her more than he loved Leah. She became the mother of Joseph and Benjamin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Rachel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132367,
+    "content_id": "132367",
     "reference_id": 108421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahab",
     "media_type": "Text",
     "index_reference": "rahab",
@@ -41,13 +51,29 @@
     "content": "<p>A woman from the city of Jericho in Canaan. She worked as a prostitute. She hid the spies sent by Joshua and kept them safe. When the Israelites destroyed Jericho, they saved Rahab and her family. She became part of God’s people. David and Jesus were from her family line.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "Rahab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Egypt",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132212,
+    "content_id": "132212",
     "reference_id": 108266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rebekah",
     "media_type": "Text",
     "index_reference": "rebekah",
@@ -56,13 +82,22 @@
     "content": "<p>The daughter of Bethuel and sister of Laban from Mesopotamia. She married Isaac and became the mother of Jacob and Esau.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Rebekah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132266,
+    "content_id": "132266",
     "reference_id": 108320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Red Sea",
     "media_type": "Text",
     "index_reference": "red sea",
@@ -71,13 +106,22 @@
     "content": "<p>A large body of water at the border of Egypt during the time of the exodus. It isn’t known for sure which body of water this is today. God divided the water so the people of Israel could walk through on dry ground. After the Israelites reached the other side, the Egyptians drowned in the water.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:RedSea",
+          "type": "place",
+          "preferred_label": "Red Sea",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132424,
+    "content_id": "132424",
     "reference_id": 108478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rehoboam",
     "media_type": "Text",
     "index_reference": "rehoboam",
@@ -86,13 +130,22 @@
     "content": "<p>The son of Solomon and an Ammonite woman named Naamah. While Rehoboam was king, the nation of Israel divided into two kingdoms. Rehoboam ruled over the southern kingdom of Judah. He was a foolish leader who did evil things and worshipped false gods. He didn’t have the wealth or power that Solomon had.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Rehoboam",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132292,
+    "content_id": "132292",
     "reference_id": 108346,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Repent",
     "media_type": "Text",
     "index_reference": "repent",
@@ -109,13 +162,29 @@
           "label": "Right with God",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Repent",
+          "type": "keyterm",
+          "preferred_label": "Repent",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Forgive",
+          "type": "keyterm",
+          "preferred_label": "Forgive",
+          "confidence": 0.9265,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132158,
+    "content_id": "132158",
     "reference_id": 108212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rest",
     "media_type": "Text",
     "index_reference": "rest",
@@ -124,13 +193,14 @@
     "content": "<p>In the Bible there are many meanings for the word rest. The first meaning is talked about in Genesis chapter 2. After God finished his work of creating the world, he rested. There was peace between God and what he created. Everything that existed had what it needed to live like God wanted it to. Another meaning is talked about in the Ten Commandments. It’s the Sabbath rest. On the seventh day of the week, Israelites were to rest instead of working. Another meaning is talked about in Psalm 95. It’s the rest the Israelites had after they were freed from slavery. God brought them to the land he promised to give them. The full meaning is talked about in Hebrews chapters 3 and 4. Jesus brings true rest to those who believe in him. They begin to enjoy Jesus’ rest when they start following him. They will enjoy it fully when he rules completely as King.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132514,
+    "content_id": "132514",
     "reference_id": 108568,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Resurrection",
     "media_type": "Text",
     "index_reference": "resurrection",
@@ -139,13 +209,22 @@
     "content": "<p>Rising from the dead to live again. Jews disagreed about whether or not there would be a resurrection after people died. Jesus brought some people back to life again after they had died. Yet those people didn’t live for ever. They died again later on. That isn’t what happened to Jesus. In Jesus’ resurrection, God raised him from the dead to live for ever. He never died again. God will one day bring all people who have died back to life.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "Resurrection",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132353,
+    "content_id": "132353",
     "reference_id": 108407,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Reuben",
     "media_type": "Text",
     "index_reference": "reuben",
@@ -154,13 +233,22 @@
     "content": "<p>The eldest son of Jacob and Leah. In the Hebrew language the name Reuben means look a son. It sounds like the word for he has seen my suffering. Reuben had sex with his father’s concubine Bilhah. Because of that, he wasn’t allowed to have the rights of being Jacob’s eldest son. His family line became a tribe of Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Reuben",
+          "type": "person",
+          "preferred_label": "Reuben",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132200,
+    "content_id": "132200",
     "reference_id": 108254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Right with God",
     "media_type": "Text",
     "index_reference": "right with god",
@@ -169,13 +257,14 @@
     "content": "<p>Being able to live in peace and joy with God. This is also called being made righteous or being justified. It means that people can enjoy the blessings of God’s covenant. It also means that people can be freed from the power of sin, death and evil. God frees them through Jesus’ death and resurrection. People who trust in God and have faith in him are made right with him.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132500,
+    "content_id": "132500",
     "reference_id": 108554,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "River Euphrates",
     "media_type": "Text",
     "index_reference": "river euphrates",
@@ -184,13 +273,22 @@
     "content": "<p>A river that flows through the countries now called Turkey, Syria and Iraq. It was an important river in the kingdoms of Babylonia and Persia. In Jesus’ time, the Euphrates formed one of the borders of the Roman government’s lands.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Euphrates",
+          "type": "place",
+          "preferred_label": "Euphrates River",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132352,
+    "content_id": "132352",
     "reference_id": 108406,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "River Jordan",
     "media_type": "Text",
     "index_reference": "river jordan",
@@ -199,13 +297,22 @@
     "content": "<p>The biggest river in the land of Israel. It flows north to south from the Sea of Galilee to the Dead Sea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jordan",
+          "type": "place",
+          "preferred_label": "Jordan River",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132247,
+    "content_id": "132247",
     "reference_id": 108301,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "River Nile",
     "media_type": "Text",
     "index_reference": "river nile",
@@ -214,13 +321,22 @@
     "content": "<p>The longest river in Africa. It flows through the northeastern part of Africa to the Mediterranean Sea. The soil around the Nile is very rich and good for farming.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Nile",
+          "type": "place",
+          "preferred_label": "Nile River",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132073,
+    "content_id": "132073",
     "reference_id": 108127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roman citizen",
     "media_type": "Text",
     "index_reference": "roman citizen",
@@ -229,13 +345,14 @@
     "content": "<p>Being a citizen of Rome gave people certain rights. It protected them from being treated badly in certain ways. Roman rulers had to follow Roman laws about citizens. Most of the people in lands controlled by the Roman government weren’t Roman citizens. Being a Roman citizen was special.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 131993,
+    "content_id": "131993",
     "reference_id": 108047,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rome",
     "media_type": "Text",
     "index_reference": "rome",
@@ -244,13 +361,22 @@
     "content": "<p>A kingdom in the area around the Mediterranean Sea that lasted for hundreds of years. The capital city was also called Rome. It became a powerful government that ruled over many other nations and people groups. It ruled over Israel during the times of the New Testament. For many years it was led by powerful emperors. The Roman government treated many of Jesus’ followers badly.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Rome",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132155,
+    "content_id": "132155",
     "reference_id": 108209,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rulers",
     "media_type": "Text",
     "index_reference": "rulers",
@@ -259,13 +385,22 @@
     "content": "<p>God wanted everything he created to live and to work together in peace and joy. Human beings are to make sure that this happens. God is the ruler over all creation. He set human beings apart as rulers over plants, animals, the land and the seas. This is one way that God created human beings to be like himself. As rulers, humans are to fill the earth and to bring it under control. This doesn’t mean that humans can use God’s earth however they want to. It means that they are to take care of everything on earth. They are to help everything be the way God wants it to be. Humans do this by following God’s example of ruling. God showed himself to be a ruler who blesses, honours and protects what he has made. Jesus showed that God is a ruler who gives everything to serve and to bless others. When human beings don’t follow God’s example of ruling, the earth suffers.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:GenericRulers",
+          "type": "group",
+          "preferred_label": "Rulers",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132393,
+    "content_id": "132393",
     "reference_id": 108447,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruth",
     "media_type": "Text",
     "index_reference": "ruth",
@@ -274,7 +409,16 @@
     "content": "<p>A woman from Moab and the daughter-in-law of Naomi. When her husband died, she left Moab and went to Israel with Naomi. She married an Israelite named Boaz and became the great-grandmother of David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Ruth",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   }
 ]

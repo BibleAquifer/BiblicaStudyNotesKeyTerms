@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132434,
+    "content_id": "132434",
     "reference_id": 108488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Naaman",
     "media_type": "Text",
     "index_reference": "naaman",
@@ -11,13 +11,43 @@
     "content": "<p>An important commander of Aram’s army. A young Israelite girl was a servant in his house. He followed her advice to ask Elisha to heal him of his skin disease. At first Naaman refused to follow Elisha’s instructions. But when he made himself humble and obeyed, he was healed. Then he believed in God. He worshipped only God when he returned to Aram.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naaman.2",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Naaman.3",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Naaman.4",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Naaman",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132302,
+    "content_id": "132302",
     "reference_id": 108356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nadab and Abihu",
     "media_type": "Text",
     "index_reference": "nadab and abihu",
@@ -26,13 +56,50 @@
     "content": "<p>The elder sons of Aaron and Elisheba from the tribe of Levi. Their brothers were Eleazar and Ithamar. They were on Mount Sinai with Moses and Aaron when God established the covenant. They were set apart as priests. They disobeyed God in the way they led the people in worship. They died because of this.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abihu",
+          "type": "person",
+          "preferred_label": "Abihu",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nadab.2",
+          "type": "person",
+          "preferred_label": "Nadab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nadab.3",
+          "type": "person",
+          "preferred_label": "Nadab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nadab.4",
+          "type": "person",
+          "preferred_label": "Nadab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nadab",
+          "type": "person",
+          "preferred_label": "Nadab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132171,
+    "content_id": "132171",
     "reference_id": 108225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Name",
     "media_type": "Text",
     "index_reference": "name",
@@ -41,13 +108,36 @@
     "content": "<p>In the times and places of the Bible, names were very important. They meant more than a way to talk about someone. They were a way to show who the person was and what they were like. This was understood to be true about God as well. Saying anything about God’s name was a way of saying something about God himself. Trusting in God’s name was the same as trusting in God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Name",
+          "type": "keyterm",
+          "preferred_label": "Name",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naam",
+          "type": "person",
+          "preferred_label": "Naam",
+          "confidence": 0.964,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elnaam",
+          "type": "person",
+          "preferred_label": "Elnaam",
+          "confidence": 0.8238,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132416,
+    "content_id": "132416",
     "reference_id": 108470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nathan",
     "media_type": "Text",
     "index_reference": "nathan",
@@ -56,13 +146,57 @@
     "content": "<p>A prophet during the time when David was king. He was a close adviser to David. He gave David the message about God’s promises for David’s family line. He challenged David when David did evil things. Nathan supported Solomon as the king after David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nathan.2",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nathan.3",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nathan.4",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nathan.5",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nathan.6",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nathan",
+          "type": "person",
+          "preferred_label": "Nathan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132017,
+    "content_id": "132017",
     "reference_id": 108071,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nazareth",
     "media_type": "Text",
     "index_reference": "nazareth",
@@ -71,13 +205,22 @@
     "content": "<p>The small town where Jesus grew up in the southern part of Galilee. Nazareth is between the Sea of Galilee and the Mediterranean Sea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Nazareth",
+          "type": "place",
+          "preferred_label": "Nazareth",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132330,
+    "content_id": "132330",
     "reference_id": 108384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nazirites",
     "media_type": "Text",
     "index_reference": "nazirites",
@@ -86,13 +229,22 @@
     "content": "<p>Men and women who wanted to set themselves apart to serve God. In the Hebrew language the word nazir means to be separated or set apart. God commanded some Israelites to be set apart for serving him. Others chose to do this and were called Nazirites. They promised to serve God for a certain amount of time. They were to avoid alcohol and to let their hair grow long. They were to stay away from anything or anyone that had died. These were signs to other Israelites that Nazirites were completely committed to God. At the end of their time of being set apart they celebrated. They did this by shaving their head and offering sacrifices.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Nazirite",
+          "type": "group",
+          "preferred_label": "Nazirites",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132447,
+    "content_id": "132447",
     "reference_id": 108501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nebuchadnezzar",
     "media_type": "Text",
     "index_reference": "nebuchadnezzar",
@@ -101,13 +253,22 @@
     "content": "<p>A king of Babylon from the Chaldean people group. God used him as a tool to bring judgement against the southern kingdom. In the year 586 BC his armies destroyed Jerusalem and the temple. The prophet Daniel explained some of Nebuchadnezzar’s dreams to him. Nebuchadnezzar worshipped false gods but recognised that the God of the Jews had authority.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "Nebuchadnezzar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132364,
+    "content_id": "132364",
     "reference_id": 108418,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Needy people",
     "media_type": "Text",
     "index_reference": "needy people",
@@ -116,13 +277,14 @@
     "content": "<p>In the Old Testament, people who were needy were those who didn’t have land to farm. Without land, they couldn’t grow food or have livestock. Outsiders and widows were needy people. So were children whose fathers had died. People were also needy if they had land but didn’t have success in farming. In the New Testament, anyone who was poor or needed help was considered needy.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132461,
+    "content_id": "132461",
     "reference_id": 108515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nehemiah",
     "media_type": "Text",
     "index_reference": "nehemiah",
@@ -131,13 +293,36 @@
     "content": "<p>A Jew who returned to Jerusalem from Susa. He was the son of Hakaliah and Hanani was his brother. He was a trusted official in the Persian government. He was the wine taster for Artaxerxes. This meant that he made sure that the king’s food and wine wasn’t poisoned. He served twice as the governor of Jerusalem. He led the Jews to rebuild the wall of Jerusalem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "Nehemiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "Nehemiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "Nehemiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132316,
+    "content_id": "132316",
     "reference_id": 108370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neighbour",
     "media_type": "Text",
     "index_reference": "neighbour",
@@ -154,13 +339,14 @@
           "label": "Outsider",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132499,
+    "content_id": "132499",
     "reference_id": 108553,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "New covenant",
     "media_type": "Text",
     "index_reference": "new covenant",
@@ -169,13 +355,14 @@
     "content": "<p>The set of promises God made to his people for when they returned from exile. It would last for ever. God would make his people able to follow him faithfully. He would do this by forgiving their sin and their evil ways. God first announced the new covenant through the prophets Jeremiah and Ezekiel. Many years later Jesus announced it. Jesus gave up his life as a sacrifice to save people from sin and death. Then he was raised from the dead. This put the new covenant into effect. In the new covenant, all who trust Jesus to save them are part of God’s people. They are made right with God. The Holy Spirit makes them able to follow Jesus and to obey God faithfully.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132489,
+    "content_id": "132489",
     "reference_id": 108543,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "New creation",
     "media_type": "Text",
     "index_reference": "new creation",
@@ -184,13 +371,14 @@
     "content": "<p>The world when God makes all things new. It’s called the new heaven and the new earth. It’s also called the world to come. It includes everything that God created. The new creation will come when God has fully won the battle over evil. Jesus will rule completely as King. He will raise his followers from the dead and give them new bodies. They will enjoy eternal life with God for ever. Jesus’ body after his resurrection was the first sign of the new creation.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132495,
+    "content_id": "132495",
     "reference_id": 108549,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "New Jerusalem",
     "media_type": "Text",
     "index_reference": "new jerusalem",
@@ -199,13 +387,22 @@
     "content": "<p>The city that John saw in the visions God showed him about the future. These visions were recorded in Revelation. In Jerusalem in Israel, God made his presence known in the temple. In the new Jerusalem of the future, God will be fully present everywhere. He will live with human beings for ever. There will be no suffering or death or sin there. Life will be the way God always wanted it to be for his creation. The new Jerusalem is called the bride of the Lamb. This is because all of God’s people live there. It’s also called the city of God and the heavenly Jerusalem. In the new Jerusalem God will rule as King. He will share his authority with his faithful followers.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 618264,
+    "content_id": "618264",
     "reference_id": 209393,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "New Song",
     "media_type": "Text",
     "index_reference": "new song",
@@ -227,13 +424,14 @@
           "end_ref_usfm": "PSA 150:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132474,
+    "content_id": "132474",
     "reference_id": 108528,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "New Testament",
     "media_type": "Text",
     "index_reference": "new testament",
@@ -242,13 +440,14 @@
     "content": "<p>The last 27 books of the Bible. It includes the gospels and a book about the beginning of the church. It also includes many letters and one book of apocalyptic writing.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132034,
+    "content_id": "132034",
     "reference_id": 108088,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nicodemus",
     "media_type": "Text",
     "index_reference": "nicodemus",
@@ -257,13 +456,22 @@
     "content": "<p>A Jewish ruler and a Pharisee who believed in Jesus and followed him in secret. He had an important talk with Jesus one night. When Jesus died, Nicodemus helped to prepare Jesus’ body for burial.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nicodemus",
+          "type": "person",
+          "preferred_label": "Nicodemus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132520,
+    "content_id": "132520",
     "reference_id": 108574,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nineveh",
     "media_type": "Text",
     "index_reference": "nineveh",
@@ -272,13 +480,22 @@
     "content": "<p>The capital city of the Assyrian government. It was on the Tigris River in the country now called Iraq. The people who lived there were known for doing violent and evil things. The Babylonian government took control of Nineveh and the Assyrian government in 612 BC.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "Nineveh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132176,
+    "content_id": "132176",
     "reference_id": 108230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Noah",
     "media_type": "Text",
     "index_reference": "noah",
@@ -287,13 +504,29 @@
     "content": "<p>The son of Lamech in Seth’s family line. He was the father of Shem, Ham and Japheth and he followed God faithfully. God saved Noah and his family when God destroyed the earth through the flood. God made a covenant with Noah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Noah.2",
+          "type": "person",
+          "preferred_label": "Noah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Noah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132425,
+    "content_id": "132425",
     "reference_id": 108479,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Northern kingdom",
     "media_type": "Text",
     "index_reference": "northern kingdom",
@@ -302,13 +535,14 @@
     "content": "<p>The land and tribes of Israel ruled over by kings who weren’t from David’s family line. It was also called Israel or Ephraim. Important cities in the northern kingdom were Dan, Bethel and Samaria. Samaria became the capital city. The northern kingdom began when Jeroboam led many Israelites to refuse to follow Rehoboam. It ended in 722 BC when Assyria took control of Samaria. The people of the northern kingdom never returned from being exiled. Prophets to the northern kingdom included Ahijah, Jehu, Micaiah, Elijah, Elisha, Amos, Jonah, Hosea and Micah. The kings were Jeroboam, Nabad, Baasha, Elah, Zimri, Omri, Ahab, Ahaziah, Joram, Jehu, Jehoahaz, Jehoash, Jeroboam the second, Zechariah, Shallum, Menahem, Pekahiah, Pekah and Hoshea. None of those kings was faithful to the Mount Sinai covenant.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132129,
+    "content_id": "132129",
     "reference_id": 108183,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Numbers",
     "media_type": "Text",
     "index_reference": "numbers",
@@ -317,7 +551,8 @@
     "content": "<p>In the book of Revelation, numbers have special meanings. They don’t always mean the exact number that is mentioned. They are signs of something spiritual.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

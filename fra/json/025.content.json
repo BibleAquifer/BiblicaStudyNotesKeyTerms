@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133688,
+    "content_id": "133688",
     "reference_id": 108436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yaël",
     "media_type": "Text",
     "index_reference": "yaël",
@@ -11,7 +11,16 @@
     "content": "<p>Une femme du peuple des Kénites qui vivait parmi les Israélites. Héber était son mari. Elle était de la lignée familiale du beau-frère de Moïse, Hobab. Elle a tué un chef militaire cananéen nommé Sisera. Yaël a été un personnage important de la chanson que Débora a chantée après la victoire des Israélites dans le chapitre 5 du livre des Juges.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jael",
+          "type": "person",
+          "preferred_label": "Jaël",
+          "confidence": 0.8883,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

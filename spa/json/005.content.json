@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232415,
+    "content_id": "232415",
     "reference_id": 108446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dagon",
     "media_type": "Text",
     "index_reference": "dagon",
@@ -11,13 +11,22 @@
     "content": "<p>Un dios falso adorado por grupos de personas en Canaán y sus alrededores. En el idioma hebreo, la palabra Dagon significa grano. Se entendía que Dagon era el padre de Baal.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Dagon",
+          "type": "deity",
+          "preferred_label": "Dagón",
+          "confidence": 0.9734,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232414,
+    "content_id": "232414",
     "reference_id": 108445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dalila",
     "media_type": "Text",
     "index_reference": "dalila",
@@ -26,13 +35,22 @@
     "content": "<p>Una mujer filistea de la que Sansón estaba enamorado. Los líderes filisteos la usaron para descubrir el secreto de la increíble fuerza de Sansón. Sansón le mintió tres veces al respecto. Pero Dalila suplicó hasta que Sansón finalmente le dijo la verdad. Ella recibió dinero por entregar a Sansón a los líderes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Delilah",
+          "type": "person",
+          "preferred_label": "Dalila",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232509,
+    "content_id": "232509",
     "reference_id": 108540,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Damasco",
     "media_type": "Text",
     "index_reference": "damasco",
@@ -41,13 +59,22 @@
     "content": "<p>La ciudad capital del reino al norte de la tierra de Israel. Está en el país ahora llamado Siria. Durante muchos años fue una ciudad de los arameos. Está a unos 300 km al norte de Jerusalén.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "Damasco",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232413,
+    "content_id": "232413",
     "reference_id": 108444,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dan",
     "media_type": "Text",
     "index_reference": "dan",
@@ -56,13 +83,50 @@
     "content": "<p>El hijo mayor de Jacob y Bilha. En el idioma hebreo, el nombre Dan significa él juzgó. Su linaje familiar se convirtió en una tribu de Israel. Dan también era el nombre de la ciudad principal de la tribu de Dan. Estaba cerca del Monte Hermón y era una de las partes más al norte de Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Dan",
+          "type": "group",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dan",
+          "type": "place",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mahaneh-dan",
+          "type": "place",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Vedan",
+          "type": "place",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232529,
+    "content_id": "232529",
     "reference_id": 108560,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daniel",
     "media_type": "Text",
     "index_reference": "daniel",
@@ -71,13 +135,29 @@
     "content": "<p>Un joven del reino del sur cuando Joacim era rey. Fue llevado de Judá para vivir en Babilonia. Sirvió a varios reyes babilónicos y persas como sabio y jefe de gobierno. También fue llamado Beltsasar. Fue un profeta y Dios le dio visiones y mensajes, registrados en el libro de Daniel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Daniel.2",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232481,
+    "content_id": "232481",
     "reference_id": 108512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Darius",
     "media_type": "Text",
     "index_reference": "darius",
@@ -86,13 +166,36 @@
     "content": "<p>Un rey de Persia que también fue llamado Darío el Grande o Darío I. Dios lo usó como una herramienta, él permitió a los judíos reconstruir el templo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Darius",
+          "type": "person",
+          "preferred_label": "Darío",
+          "confidence": 0.8607,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "Darío",
+          "confidence": 0.8607,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Darius.3",
+          "type": "person",
+          "preferred_label": "Darío",
+          "confidence": 0.8607,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232418,
+    "content_id": "232418",
     "reference_id": 108449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "David",
     "media_type": "Text",
     "index_reference": "david",
@@ -109,13 +212,22 @@
           "label": "Pacto con David",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "David",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232402,
+    "content_id": "232402",
     "reference_id": 108433,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Débora",
     "media_type": "Text",
     "index_reference": "débora",
@@ -124,13 +236,29 @@
     "content": "<p>Una de los 12 jueces de Israel. Era profetisa en la región montañosa de Efraín. Servía a los israelitas resolviendo asuntos difíciles para ellos. Nombró a Barac como líder del ataque contra el ejército de Sísara. Su canción sobre su victoria está registrada en el capítulo 5 de Jueces.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Deborah",
+          "type": "person",
+          "preferred_label": "Débora",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Deborah.2",
+          "type": "person",
+          "preferred_label": "Débora",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232351,
+    "content_id": "232351",
     "reference_id": 108382,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Décimo (Diezmo)",
     "media_type": "Text",
     "index_reference": "décimo (diezmo)",
@@ -139,13 +267,14 @@
     "content": "<p>Los israelitas debían ofrecer la décima parte de todo lo que tenían a Dios. Esto incluía todo lo que su ganado y tierra producía. Esto les ayudaba a recordar que todo pertenece a Dios. Les ayudaba a recordar que todo lo que tenían era un regalo de Dios. Les ayudaba a a estar llenos de alegría en la tierra que Dios les dio. Daban la décima parte de todo a Dios, compartiéndolo con los sacerdotes y levitas. También lo compartían con las personas pobres y necesitadas. La práctica de dar a Dios una décima parte de todo duró cientos de años. También se llama dar diezmo. Muchos cristianos dan diezmo a su iglesia. El diezmo puede ser de cualquier cosa que su trabajo produzca, incluyendo dinero.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232062,
+    "content_id": "232062",
     "reference_id": 108093,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Declaraciones de Yo soy",
     "media_type": "Text",
     "index_reference": "declaraciones de yo soy",
@@ -154,13 +283,14 @@
     "content": "<p>Una forma en que Jesús solía decirle a la gente quién es. En el evangelio de Juan, Jesús usó las palabras Yo soy de una manera especial siete veces. Con estas palabras se describió a sí mismo y el trabajo que estaba haciendo en la tierra. Dios usó las palabras Yo soy cuando le dijo a Moisés su nombre en Éxodo 3:14.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232086,
+    "content_id": "232086",
     "reference_id": 108117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Derbe",
     "media_type": "Text",
     "index_reference": "derbe",
@@ -169,13 +299,22 @@
     "content": "<p>Una ciudad en el territorio romano de Galacia en Asia Menor. Pablo la visitó en tres de sus viajes para compartir las buenas nuevas sobre Jesús. Se cree que la carta de Pablo a los Gálatas fue leída en la iglesia allí.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Derbe",
+          "type": "place",
+          "preferred_label": "Derbe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232239,
+    "content_id": "232239",
     "reference_id": 108270,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Derechos del hijo mayor",
     "media_type": "Text",
     "index_reference": "derechos del hijo mayor",
@@ -184,13 +323,14 @@
     "content": "<p>La autoridad y la parte de la propiedad familiar que se le daba al hijo mayor. Esto ocurría cuando el padre de una familia moría. El hijo mayor recibía dos veces más propiedad que los otros hijos. Tenía autoridad sobre el resto de la familia como la tenía el padre y era responsable de ser el líder de la familia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232181,
+    "content_id": "232181",
     "reference_id": 108212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Descanso",
     "media_type": "Text",
     "index_reference": "descanso",
@@ -199,13 +339,14 @@
     "content": "<p>En la Biblia hay muchos significados para la palabra descanso. El primer significado se menciona en el capítulo 2 de Génesis. Después de que Dios terminó su obra de crear el mundo, descansó. Había paz entre Dios y lo que había creado. Todo lo que existía tenía lo que necesitaba para vivir como Dios quería. Otro significado se menciona en los Diez Mandamientos. Es el descanso del sábado. El séptimo día de la semana, los israelitas debían descansar en lugar de trabajar. Otro significado se menciona en el Salmo 95. Es el descanso que los israelitas tuvieron después de ser liberados de la esclavitud. Dios los llevó a la tierra que había prometido darles. El significado completo se menciona en los capítulos 3 y 4 de Hebreos. Jesús trae verdadero descanso a los que creen en él. Comienzan a disfrutar del descanso de Jesús cuando empiezan a seguirlo. Lo disfrutarán plenamente cuando él gobierne completamente como Rey.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232434,
+    "content_id": "232434",
     "reference_id": 108465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Deshonra y honor",
     "media_type": "Text",
     "index_reference": "deshonra y honor",
@@ -214,13 +355,14 @@
     "content": "<p>En los tiempos y lugares de la Biblia, la deshonra y el honor eran muy importantes. La gente quería evitar deshonrar a su familia, su comunidad y su grupo de personas. Todos en una comunidad entendían que habían formas de hablar y actuar que se consideraban adecuadas. Ir en contra de esas formas era como decir no a la relación con la comunidad. Esto traía deshonra. Por lo tanto esa persona no era respetada. A menudo huían o se escondían. Alguien con más autoridad podía traer a esa persona de vuelta a la comunidad. Así era como se quitaba la deshonra. En cambio, la gente quería traer honor a su familia, comunidad y grupo de personas. El honor venía al hacer cosas que se consideraban adecuadas y dignas de respeto. Cuanto más honor alguien tenía, más autoridad tenía en la comunidad.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232335,
+    "content_id": "232335",
     "reference_id": 108366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Día de la Expiación",
     "media_type": "Text",
     "index_reference": "día de la expiación",
@@ -237,13 +379,14 @@
           "label": "Expiar",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232182,
+    "content_id": "232182",
     "reference_id": 108213,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Día de Sábado",
     "media_type": "Text",
     "index_reference": "día de sábado",
@@ -252,13 +395,22 @@
     "content": "<p>El séptimo día de la semana para israelitas y judíos. Era un día sagrado cuando descansaban y no trabajaban. Esto incluía a su ganado, sus sirvientes y a los extranjeros que vivían con ellos. Era un día para honrar cómo Dios descansó después de crear el mundo. También honraba el descanso que Dios prometió a los israelitas después de liberarlos de la esclavitud en Egipto. El día de Sábado era una señal de la alianza de Dios con los israelitas en el Monte Sinaí. Este día era un recordatorio de que Dios es bueno y provee lo que su pueblo necesita. Más tarde, los líderes religiosos judíos hicieron muchas reglas sobre lo que estaba permitido en día de Sábado. Estas reglas no siempre ayudaban a la gente a honrar a Dios. Jesús enseñó a las personas cómo honrar a Dios en día de Sábado. Aunque los líderes se oponían a él, Jesús realizó milagros en el día de Sábado.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Sabbath",
+          "type": "keyterm",
+          "preferred_label": "sábado",
+          "confidence": 0.863,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232024,
+    "content_id": "232024",
     "reference_id": 108055,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Día del juicio",
     "media_type": "Text",
     "index_reference": "día del juicio",
@@ -275,13 +427,14 @@
           "label": "Día del Señor",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232141,
+    "content_id": "232141",
     "reference_id": 108172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Día del Señor",
     "media_type": "Text",
     "index_reference": "día del señor",
@@ -290,13 +443,14 @@
     "content": "<p>Lo que Juan, el escritor de Apocalipsis, llamó domingo o el día después del día de reposo. Es el día de la semana en que Jesús resucitó de entre los muertos. Debido a esto, las iglesias comenzaron a reunirse para adorar a Dios los domingos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232540,
+    "content_id": "232540",
     "reference_id": 108571,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Día del Señor",
     "media_type": "Text",
     "index_reference": "día del señor",
@@ -320,13 +474,14 @@
           "label": "El regreso de Jesús",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232185,
+    "content_id": "232185",
     "reference_id": 108216,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diablo",
     "media_type": "Text",
     "index_reference": "diablo",
@@ -343,13 +498,14 @@
           "label": "Seres espirituales malignos",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232069,
+    "content_id": "232069",
     "reference_id": 108100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diáconos",
     "media_type": "Text",
     "index_reference": "diáconos",
@@ -358,13 +514,14 @@
     "content": "<p>Seguidores de Jesús que servían como líderes de la iglesia. Los diáconos trabajaron arduamente para ayudar a atender las necesidades de los creyentes en la iglesia. El trabajo de los primeros diáconos se describe en Hechos 6:1–7.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232300,
+    "content_id": "232300",
     "reference_id": 108331,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diez Mandamientos",
     "media_type": "Text",
     "index_reference": "diez mandamientos",
@@ -381,13 +538,14 @@
           "label": "Ley de Moisés",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232277,
+    "content_id": "232277",
     "reference_id": 108308,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diez plagas",
     "media_type": "Text",
     "index_reference": "diez plagas",
@@ -396,13 +554,14 @@
     "content": "<p>Diez maneras en que Dios ejerció juicio contra Faraón, Egipto y los falsos dioses egipcios. Fueron señales poderosas realizadas por Dios a través de Moisés y Aarón. Estas señales le mostraron al Faraón, a los israelitas y a la tierra la autoridad y el poder de Dios sobre todas las cosas. Mostraron que Dios usa su autoridad y poder para ayudar a su pueblo. Las plagas fueron parte de cómo Dios rescató a su pueblo de la esclavitud en Egipto. Dios envió una plaga cada vez que el Faraón se negó a dejar que los israelitas salieran de Egipto. Las plagas incluían agua convirtiéndose en sangre, ranas, mosquitos y moscas. Incluían la muerte del ganado y llagas en la piel de animales y personas. Incluían granizo, langostas y oscuridad. Durante la última plaga, el hijo mayor en cada familia egipcia fue asesinado. Dios salvó a los israelitas del sufrimiento que trajeron las plagas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232203,
+    "content_id": "232203",
     "reference_id": 108234,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diluvio",
     "media_type": "Text",
     "index_reference": "diluvio",
@@ -419,13 +578,14 @@
           "label": "40 días",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232252,
+    "content_id": "232252",
     "reference_id": 108283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dina",
     "media_type": "Text",
     "index_reference": "dina",
@@ -434,13 +594,22 @@
     "content": "<p>La hija de Jacob y Lea. Sus hermanos Leví y Simeón mataron a Siquem después de que él la violara.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Dinah",
+          "type": "person",
+          "preferred_label": "Dina",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232168,
+    "content_id": "232168",
     "reference_id": 108199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dios",
     "media_type": "Text",
     "index_reference": "dios",
@@ -464,13 +633,36 @@
           "label": "Señor - Gobernante",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:El-berith",
+          "type": "deity",
+          "preferred_label": "dios",
+          "confidence": 0.9406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "Jehová",
+          "confidence": 0.8254,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Divine",
+          "type": "keyterm",
+          "preferred_label": "divino",
+          "confidence": 0.8102,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232198,
+    "content_id": "232198",
     "reference_id": 108229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dios elige",
     "media_type": "Text",
     "index_reference": "dios elige",
@@ -479,13 +671,14 @@
     "content": "<p>Dios es libre de hacer cualquier cosa que quiera hacer. Las historias en la Biblia describen algunas elecciones que Dios hizo. Elegir hacer un pacto con Abraham y su línea familiar es un ejemplo. Las historias no explican completamente por qué Dios hizo esas elecciones. Sí dejan claro que Dios es bueno y digno de confianza. Él toma decisiones basadas en su conocimiento y su amor. Los seres humanos no entienden todas las decisiones de Dios. Pero pueden confiar en que Dios es amoroso, sabio y bueno.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232536,
+    "content_id": "232536",
     "reference_id": 108567,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dios Eterno",
     "media_type": "Text",
     "index_reference": "dios eterno",
@@ -494,13 +687,14 @@
     "content": "<p>Una manera de hablar acerca de Dios como alguien que siempre ha existido, que existió y existirá. Es el nombre de Dios usado en una visión que tuvo Daniel. Muchos años después, Juan tuvo una visión sobre Jesús. Jesús le pareció a Juan lo mismo que el Dios Eterno le había parecido a Daniel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232009,
+    "content_id": "232009",
     "reference_id": 108040,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Discípulo",
     "media_type": "Text",
     "index_reference": "discípulo",
@@ -524,13 +718,22 @@
           "label": "12 tribus",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:GenericDisciple",
+          "type": "person",
+          "preferred_label": "A Disciple",
+          "confidence": 0.829,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232483,
+    "content_id": "232483",
     "reference_id": 108514,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Divorcio",
     "media_type": "Text",
     "index_reference": "divorcio",
@@ -547,13 +750,14 @@
           "label": "Matrimonio",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232136,
+    "content_id": "232136",
     "reference_id": 108167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Docetismo",
     "media_type": "Text",
     "index_reference": "docetismo",
@@ -562,13 +766,14 @@
     "content": "<p>Una creencia según la cual Jesús no tenía un cuerpo humano y no era completamente un ser humano. Se basaba en una idea griega según la cual los cuerpos eran malos y que solo las cosas espirituales que duran para siempre eran buenas. El docetismo se convirtió en parte de una forma de pensar llamada Gnosticismo. El Gnosticismo explicaba que el mundo tenía problemas porque las personas tenían cuerpos. Los gnósticos creían que los seres humanos se salvaban al tener conocimiento secreto.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232118,
+    "content_id": "232118",
     "reference_id": 108149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dones del Espíritu",
     "media_type": "Text",
     "index_reference": "dones del espíritu",
@@ -577,7 +782,8 @@
     "content": "<p>El Espíritu Santo da a las personas la capacidad de hacer ciertas cosas bien. Estos dones no son algo que las personas puedan sostener en sus manos, son dones espirituales. Algunos dones son enseñar, cuidar a los demás y sanar a los enfermos. Los seguidores de Jesús usan sus dones para animar y fortalecer la iglesia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

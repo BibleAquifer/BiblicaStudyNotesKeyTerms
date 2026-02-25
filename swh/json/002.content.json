@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 367632,
+    "content_id": "367632",
     "reference_id": 108141,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abba",
     "media_type": "Text",
     "index_reference": "abba",
@@ -11,13 +11,14 @@
     "content": "<p>Ni neno katika lugha ya Kiaramu linalomaanisha baba. Yesu alimwita Mungu Abba. Wale wanaomfuata Yesu ni sehemu ya familia ya Mungu. Kwa hivyo wanaweza kumwita Mungu Baba yao au Abba kama Yesu anavyofanya. Jina hili linaonyesha jinsi Mungu alivyo karibu na wale wote wanaomwamini.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367712,
+    "content_id": "367712",
     "reference_id": 108221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abeli",
     "media_type": "Text",
     "index_reference": "abeli",
@@ -26,13 +27,22 @@
     "content": "<p> Ni mwana wa pili wa Adamu na Hawa. Alikuwa mchungaji. Alitoa sadaka iliyompendeza Mungu. Ndugu yake Kaini alimuua ingawa hakuwa amefanya kosa lolote. Biblia inazungumzia damu ya Abeli ikilia kwa Mungu kutoka ardhini. Hii ilimaanisha kwamba Mungu alitaka kuleta haki kwa sababu Abeli aliuawa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Abel-beth-maacah",
+          "type": "place",
+          "preferred_label": "Abeli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367950,
+    "content_id": "367950",
     "reference_id": 108459,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abiathari",
     "media_type": "Text",
     "index_reference": "abiathari",
@@ -41,13 +51,22 @@
     "content": "<p>Ni mwana wa Ahimeleki ambaye alihudumu kama kuhani mkuu wakati wa utawala wa Mfalme Daudi. Alitoka katika ukoo wa Eli. Alikuwa mwaminifu kwa Daudi lakini hakumunga mkono Sulemani kama mfalme baada ya Daudi. Kwa sababu hii hakuruhusiwa kuendelea kuwa kuhani mkuu. Hii ilitimiza unabii dhidi ya ukoo wa Eli.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abiathar",
+          "type": "person",
+          "preferred_label": "Abiathari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367951,
+    "content_id": "367951",
     "reference_id": 108460,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abigaili",
     "media_type": "Text",
     "index_reference": "abigaili",
@@ -56,13 +75,64 @@
     "content": "<p>Ni mwanamke mwenye hekima aliyeolewa na mwanaume mpumbavu aitwaye Nabali. Alimshawishi Daudi kumtumaini Mungu badala ya kuua watu kwa sababu alikuwa na hasira. Baada ya Nabali kufa, Abigaili akawa mmoja wa wake za Daudi. Alimzalia Daudi mwana mmoja.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abigail",
+          "type": "person",
+          "preferred_label": "Abigaili",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abigail.2",
+          "type": "person",
+          "preferred_label": "Abigaili",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abihail",
+          "type": "person",
+          "preferred_label": "Abihaili",
+          "confidence": 0.8074,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abihail.2",
+          "type": "person",
+          "preferred_label": "Abihaili",
+          "confidence": 0.8074,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abihail.3",
+          "type": "person",
+          "preferred_label": "Abihaili",
+          "confidence": 0.8074,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abihail.4",
+          "type": "person",
+          "preferred_label": "Abihaili",
+          "confidence": 0.8074,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abihail.5",
+          "type": "person",
+          "preferred_label": "Abihaili",
+          "confidence": 0.8074,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367931,
+    "content_id": "367931",
     "reference_id": 108440,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abimeleki",
     "media_type": "Text",
     "index_reference": "abimeleki",
@@ -71,13 +141,57 @@
     "content": "<p>Ni mwana wa Gideoni na suria wa Gideoni kutoka Shekemu. Abimeleki aliwaua karibu wana wengine wote wa Gideoni. Alitawala kama mfalme juu ya Shekemu na maeneo yanayoizunguka. Alikuwa mkatili na aliua watu wengi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abimelech",
+          "type": "person",
+          "preferred_label": "Abimeleki",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abimelech.2",
+          "type": "person",
+          "preferred_label": "Abimeleki",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahimelech",
+          "type": "person",
+          "preferred_label": "Ahimeleki",
+          "confidence": 0.8378,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahimelech.2",
+          "type": "person",
+          "preferred_label": "Ahimeleki",
+          "confidence": 0.8378,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahimelech.3",
+          "type": "person",
+          "preferred_label": "Ahimeleki",
+          "confidence": 0.8378,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abimael",
+          "type": "person",
+          "preferred_label": "Abimaeli",
+          "confidence": 0.8271,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367972,
+    "content_id": "367972",
     "reference_id": 108481,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abiya",
     "media_type": "Text",
     "index_reference": "abiya",
@@ -86,13 +200,64 @@
     "content": "<p>Ni mtoto wa Rehoboamu na Maaka. Alikuwa baba wa Asa na alitoka kabila la Yuda. Alikuwa mfalme wa pili wa ufalme wa kusini mwa Yuda. Alifanya maovu na kuabudu miungu ya uongo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abijah.2",
+          "type": "person",
+          "preferred_label": "Abiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.3",
+          "type": "person",
+          "preferred_label": "Abiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.4",
+          "type": "person",
+          "preferred_label": "Abiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.5",
+          "type": "person",
+          "preferred_label": "Abiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.6",
+          "type": "person",
+          "preferred_label": "Abiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abijah.7",
+          "type": "person",
+          "preferred_label": "Abiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abiah",
+          "type": "person",
+          "preferred_label": "Abia",
+          "confidence": 0.85,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367963,
+    "content_id": "367963",
     "reference_id": 108472,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Absalomu",
     "media_type": "Text",
     "index_reference": "absalomu",
@@ -101,13 +266,22 @@
     "content": "<p>Ni mwana wa Daudi na Maaka. Tamari alikuwa dada yake. Pia alikuwa na binti aitwaye Tamari. Absalomu alimuua kaka yake Amnoni kwa kuwa alimbaka dada yao Tamari. Absalomu alijitangaza kuwa mfalme wakati Mfalme Daudi bado alikuwa hai. Jeshi lake lilipigana dhidi ya jeshi la Daudi. Yoabu alimuua ingawa Daudi hakutaka Absalomu aumizwe.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Absalom",
+          "type": "person",
+          "preferred_label": "Absalomu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367694,
+    "content_id": "367694",
     "reference_id": 108203,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Adamu",
     "media_type": "Text",
     "index_reference": "adamu",
@@ -116,13 +290,43 @@
     "content": "<p>Ni Binadamu wa kwanza ambaye Mungu aliumba. Hawa alikuwa mke wake. Katika lugha ya Kiebrania jina Adamu linamaanisha binadamu. Pia ni kama neno la Kiebrania kwa ajili ya ardhi. Mungu alimuumba Adamu kutoka mavumbi na kumpulizia pumzi ya uhai. Alikuwa na urafiki na amani na Mungu alipokuwa akiishi katika Bustani ya Edeni. Alifanya kazi pamoja na Hawa kutunza bustani. Aliwapa majina viumbe wote ambao Mungu alioumba. Adamu alikuwa baba wa Kaini, Abeli na Sethi. Wakati Adamu na Hawa walipoacha kumtii Mungu, walilazimika kuondoka Bustani ya Edeni.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Adam",
+          "type": "person",
+          "preferred_label": "Adamu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Adam",
+          "type": "place",
+          "preferred_label": "Adamu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Adamah",
+          "type": "place",
+          "preferred_label": "Adama",
+          "confidence": 0.9462,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Admah",
+          "type": "place",
+          "preferred_label": "Adma",
+          "confidence": 0.8046,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367965,
+    "content_id": "367965",
     "reference_id": 108474,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Adonia",
     "media_type": "Text",
     "index_reference": "adonia",
@@ -131,13 +335,43 @@
     "content": "<p>Mwana wa Daudi na Hagithi. Alijifanya mfalme kabla Daudi kumteua Sulemani kuwa mfalme. Sulemani alipokuwa mfalme, aliokoa maisha ya Adoniya. Kisha Adoniya alitoa ombi la kijinga. Alijaribu kuwa na mamlaka zaidi kuliko Sulemani na alijaribu kuwa mfalme. Sulemani alimwua kwa hilo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Adonijah",
+          "type": "person",
+          "preferred_label": "Adonia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adonijah.2",
+          "type": "person",
+          "preferred_label": "Adonia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adonijah.3",
+          "type": "person",
+          "preferred_label": "Adonia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tobadonijah",
+          "type": "person",
+          "preferred_label": "Adonia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367595,
+    "content_id": "367595",
     "reference_id": 108104,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Afisa wa Ethiopia",
     "media_type": "Text",
     "index_reference": "afisa wa ethiopia",
@@ -146,13 +380,14 @@
     "content": "<p>Afisa muhimu wa serikali katika eneo la Ethiopia barani Afrika. Alisimamia pesa za malkia. Haijulikani kama alikuwa Myahudi. Alimwabudu Mungu wa Israeli na akawa mfuasi wa Yesu. Inadhaniwa kwamba alikuwa muumini wa kwanza kusambaza habari njema kuhusu Yesu barani Afrika.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367728,
+    "content_id": "367728",
     "reference_id": 108237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano",
     "media_type": "Text",
     "index_reference": "agano",
@@ -161,13 +396,14 @@
     "content": "<p>Ni mkataba au seti ya ahadi kama mkataba. Watu wawili au vikundi walifanya makubaliano. Mmoja alikuwa na nguvu zaidi kuliko mwingine. Yule mwenye nguvu ndogo angepata zawadi kwa kutii mkataba au agano. Zawadi ilikuwa baraka za agano. Ikiwa hawakutii mkataba au agano, laana za agano zingetokea. Watu au vikundi vinavyofanya agano wangeshiriki mlo au kutoa dhabihu. Wangeandika makubaliano yao mbele ya mashahidi. Kila mmoja angehifadhi nakala. Hivyo ndivyo maagano yalivyowekwa. Katika Biblia, maagano yalikuwa kati ya Mungu na watu wake.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 368019,
+    "content_id": "368019",
     "reference_id": 108528,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano Jipya",
     "media_type": "Text",
     "index_reference": "agano jipya",
@@ -176,13 +412,14 @@
     "content": "<p>Ni vitabu 27 vya mwisho vya Biblia. Inajumuisha injili na kitabu kuhusu mwanzo wa kanisa. Pia inajumuisha barua nyingi na kitabu kimoja cha maandiko ya unabii.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 368044,
+    "content_id": "368044",
     "reference_id": 108553,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano jipya",
     "media_type": "Text",
     "index_reference": "agano jipya",
@@ -191,13 +428,14 @@
     "content": "<p>Ni hadi ambazo Mungu alitoa kwa watu wake waliporudi kutoka uhamishoni. Ingedumu milele. Mungu angewafanya watu wake waweze kumfuata kwa uaminifu. Angeifanya hii kwa kusamehe dhambi zao na njia zao mbaya. Mungu alitangaza agano jipya kupitia manabii Yeremia na Ezekieli. Miaka mingi baadaye Yesu alilitangaza. Yesu alitoa maisha yake kama dhabihu ili kuwaokoa watu kutoka kwa dhambi na kifo. Kisha alifufuka kutoka kwa wafu. Hii iliweka agano jipya katika athari. Katika agano jipya, wote wanaomwamini Yesu kuwaokoa ni sehemu ya watu wa Mungu. Wanafanywa kuwa sawa na Mungu. Roho Mtakatifu huwafanya waweze kumfuata Yesu na kumtii Mungu kwa uaminifu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367683,
+    "content_id": "367683",
     "reference_id": 108192,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano la Kale",
     "media_type": "Text",
     "index_reference": "agano la kale",
@@ -206,13 +444,14 @@
     "content": "<p>Rekodi ya hadithi na mafundisho ambayo Waisraeli walipitisha kwa mamia ya miaka. Roho wa Mungu aliwavuvia watu walipoandika hadithi na mafundisho hayo. Rekodi hii ni vitabu 39 vya Agano la Kale. Agano la Kale linajumuisha vitabu kuhusu historia ya agano la Israeli. Linajumuisha hekima ya Israeli, mashairi na nyimbo. Pia linajumuisha vitabu vya manabii wa Israeli.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367819,
+    "content_id": "367819",
     "reference_id": 108328,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano la Mlima Sinai",
     "media_type": "Text",
     "index_reference": "agano la mlima sinai",
@@ -221,13 +460,14 @@
     "content": "<p>Mungu alichagua kufanya kazi kupitia watu wa Israeli katika mpango wake wa kuokoa ulimwengu. Mungu alionyesha hili kwa kufanya agano na ukoo wa familia ya Yakobo. Agano lilikuwa na wale ambao Mungu alikuwa amewaokoa kutoka kuwa watumwa huko Misri. Pia lilikuwa na Waisraeli wote ambao wangezaliwa baada yao. Watu walipaswa kutii Amri Kumi na sheria nyingine ambazo Mungu alimpa Musa. Mungu angewapa afya, usalama, amani na watoto wengi walipokuwa wakiishi Kanaani. Angewapa chakula na kinywaji cha kutosha. Angewafanya kuwa ufalme wa makuhani na taifa takatifu. Kutahiriwa na siku ya Sabato vilikuwa ishara za agano. Mungu alifanya agano hili na watu wake kwenye Mlima Sinai. Musa alikuwa mpatanishi wa agano hilo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367744,
+    "content_id": "367744",
     "reference_id": 108253,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano na Abrahamu",
     "media_type": "Text",
     "index_reference": "agano na abrahamu",
@@ -236,13 +476,14 @@
     "content": "<p>Mungu alichagua kufanya kazi kupitia Abrahamu na familia yake katika mpango wake wa kuokoa dunia. Mungu alionyesha hili kwa kufanya agano na Abrahamu. Abrahamu alikuwa na jukumu la kufanya mambo fulani katika agano hilo. Alipaswa kuacha nchi ya baba yake na watu wake. Alipaswa kwenda nchi ya Kanaani. Alipaswa kuwa mwaminifu kwa Mungu. Kila mwanaume katika familia yake alipaswa kutahiriwa. Kutahiriwa kulikuwa ishara ya agano. Kama sehemu ya agano, Mungu aliahidi kufanya mambo fulani pia. Mungu angempa Abrahamu na mke wake Sara mtoto wa kiume. Kupitia mwana huyo, Mungu angefanya familia ya Abrahamu iliyokuja baada yake kuwa taifa kubwa. Mungu angewapa nchi ya Kanaani kuishi. Mungu angembariki Abrahamu na familia yake kwa njia nyingi. Kupitia wao Mungu angebariki mataifa yote na makundi ya watu duniani. Mungu aliahidi kuwa mwaminifu kwa agano lake na familia ya Abrahamu milele. Yesu alitoka katika ukoo wa Abrahamu. Watu wote na mataifa duniani walibarikiwa kupitia Yesu. Hivyo ndivyo ahadi ya Mungu kwa Abrahamu ilivyotimizwa kabisa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367957,
+    "content_id": "367957",
     "reference_id": 108466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano na Daudi",
     "media_type": "Text",
     "index_reference": "agano na daudi",
@@ -259,13 +500,14 @@
           "label": "Daudi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367729,
+    "content_id": "367729",
     "reference_id": 108238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Agano na Nuhu",
     "media_type": "Text",
     "index_reference": "agano na nuhu",
@@ -274,13 +516,14 @@
     "content": "<p>Mungu alichagua kufanya kazi kupitia Nuhu na familia yake katika mpango wake wa kuokoa dunia. Mungu alionyesha hili kwa kufanya agano nao na watoto wote waliozaliwa baada yao. Agano lilikuwa na viumbe vyote vilivyokuwa ndani ya safina. Lilikuwa na uhai wote duniani. Binadamu na wanyama walipaswa kujaza dunia. Hakuna binadamu aliyepaswa kuuawa. Mungu aliahidi kutolaani ardhi tena. Alitoa ahadi ya kutoharibu tena uhai wote duniani kwa gharika. Upinde wa mvua ulikuwa ishara ya agano hilo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367975,
+    "content_id": "367975",
     "reference_id": 108484,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahabu",
     "media_type": "Text",
     "index_reference": "ahabu",
@@ -289,13 +532,43 @@
     "content": "<p>Ni mwana wa Omri ambaye alikua mfalme wa saba wa ufalme wa kaskazini. Alikuwa baba wa Ahazia na Yezebeli alikuwa mke wake. Alifanya uovu zaidi kuliko mfalme yeyote wa Israeli kabla yake. Aliabudu miungu ya uongo. Alifanya Samaria kuwa kituo cha kuabudu Baali. Alimchukua nabii Eliya kama adui.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahab",
+          "type": "person",
+          "preferred_label": "Ahabu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahab.2",
+          "type": "person",
+          "preferred_label": "Ahabu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abihu",
+          "type": "person",
+          "preferred_label": "Abihu",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ahava",
+          "type": "place",
+          "preferred_label": "Ahava",
+          "confidence": 0.8011,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368010,
+    "content_id": "368010",
     "reference_id": 108519,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahasuero",
     "media_type": "Text",
     "index_reference": "ahasuero",
@@ -304,13 +577,29 @@
     "content": "<p>Ni mfalme wa ufalme wa Uajemi kutoka  mwaka wa 486 hadi 465 KK. Katika lugha ya Kiebrania alijulikana kama Ahasuero.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahasuerus",
+          "type": "person",
+          "preferred_label": "Ahasuero",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asshur",
+          "type": "person",
+          "preferred_label": "Ashuru",
+          "confidence": 0.8472,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367949,
+    "content_id": "367949",
     "reference_id": 108458,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahimeleki",
     "media_type": "Text",
     "index_reference": "ahimeleki",
@@ -319,13 +608,50 @@
     "content": "<p>Mjukuu wa Eli ambaye alihudumu kama kuhani mkuu wakati hema takatifu lilikuwa Nobu. Alimpa Daudi mkate mtakatifu na upanga wa Goliathi wakati Daudi alipokuwa akikimbia kutoka kwa Sauli. Doegi Mwedomi alimuua kwa kumsaidia Daudi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahimelech",
+          "type": "person",
+          "preferred_label": "Ahimeleki",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahimelech.2",
+          "type": "person",
+          "preferred_label": "Ahimeleki",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahimelech.3",
+          "type": "person",
+          "preferred_label": "Ahimeleki",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abimelech",
+          "type": "person",
+          "preferred_label": "Abimeleki",
+          "confidence": 0.8378,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abimelech.2",
+          "type": "person",
+          "preferred_label": "Abimeleki",
+          "confidence": 0.8378,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367968,
+    "content_id": "367968",
     "reference_id": 108477,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahiya",
     "media_type": "Text",
     "index_reference": "ahiya",
@@ -334,13 +660,113 @@
     "content": "<p>Ni nabii kutoka Shilo. Maneno na matendo yake yalipinga mamlaka ya wafalme waliomwasi Mungu. Mungu alimtumia Ahiya kuonyesha kwamba Sulemani hakuwa mwaminifu kwa agano la Mungu Daudi. Baadaye Mungu alimtumia Ahiya kuonyesha kwamba Yeroboamu naye hakuwa mwaminifu kwa Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahijah",
+          "type": "person",
+          "preferred_label": "Ahiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.2",
+          "type": "person",
+          "preferred_label": "Ahiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.3",
+          "type": "person",
+          "preferred_label": "Ahiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.4",
+          "type": "person",
+          "preferred_label": "Ahiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.5",
+          "type": "person",
+          "preferred_label": "Ahiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.6",
+          "type": "person",
+          "preferred_label": "Ahiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahijah.7",
+          "type": "person",
+          "preferred_label": "Ahiya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahiah",
+          "type": "person",
+          "preferred_label": "Ahia",
+          "confidence": 0.9611,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Athaiah",
+          "type": "person",
+          "preferred_label": "Athaya",
+          "confidence": 0.8106,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahaziah",
+          "type": "person",
+          "preferred_label": "Ahazia",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahaziah.2",
+          "type": "person",
+          "preferred_label": "Ahazia",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio",
+          "type": "person",
+          "preferred_label": "Ahio",
+          "confidence": 0.8077,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio.2",
+          "type": "person",
+          "preferred_label": "Ahio",
+          "confidence": 0.8077,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio.3",
+          "type": "person",
+          "preferred_label": "Ahio",
+          "confidence": 0.8077,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367916,
+    "content_id": "367916",
     "reference_id": 108425,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ai",
     "media_type": "Text",
     "index_reference": "ai",
@@ -349,13 +775,29 @@
     "content": "<p>Ni mji katika Kanaani ambapo Ibrahimu alijenga madhabahu. Waisraeli walishindwa vita vyao vya kwanza dhidi ya Ai. Na wakashinda vita vya pili na kuuharibu mji huo. Katika lugha ya Kiebrania Ai inamaanisha uharibifu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahi",
+          "type": "person",
+          "preferred_label": "Ahi",
+          "confidence": 0.8252,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahi.2",
+          "type": "person",
+          "preferred_label": "Ahi",
+          "confidence": 0.8252,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367956,
+    "content_id": "367956",
     "reference_id": 108465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aibu na heshima",
     "media_type": "Text",
     "index_reference": "aibu na heshima",
@@ -364,13 +806,14 @@
     "content": "<p>Katika nyakati na maeneo ya Biblia, aibu na heshima zilikuwa muhimu sana. Watu walitaka kuepuka kuleta aibu kwa familia yao, jamii yao na kundi lao la watu. Kila mtu katika jamii alielewa njia za kuzungumza na kutenda zilizochukuliwa kuwa sahihi. Kupinga njia hizo ilikuwa kama kusema hapana kwa uhusiano wao na jamii yao. Hii ilileta aibu. Kisha mtu huyo hakuheshimiwa. Wangeweza kukimbia au kujificha. Mtu mwenye mamlaka zaidi angeweza kumrudisha mtu huyo katika jamii. Hivi ndivyo aibu ilivyotolewa. Badala yake, watu walitaka kuleta heshima kwa familia yao, jamii na kundi lao la watu. Heshima ilikuja kwa kufanya mambo yaliyokuwa sahihi na yanayostahili heshima. Kadiri mtu alivyokuwa na heshima zaidi, ndivyo alivyokuwa na mamlaka zaidi katika jamii.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367917,
+    "content_id": "367917",
     "reference_id": 108426,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Akani",
     "media_type": "Text",
     "index_reference": "akani",
@@ -379,13 +822,50 @@
     "content": "<p>Ni mwanaume Mwisraeli kutoka katika kabila la Yuda. Aliweka vitu kutoka Yeriko ambavyo vilipaswa kuharibiwa. Hii ilisababisha matatizo kwa familia yake na jamii yote ya Waisraeli. Akani na familia yake yote waliuawa katika bonde la Akori. Katika lugha ya Kiebrania Akori inamaanisha matatizo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Achan",
+          "type": "person",
+          "preferred_label": "Akani",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Akan",
+          "type": "person",
+          "preferred_label": "Akani",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Anak",
+          "type": "person",
+          "preferred_label": "Anaki",
+          "confidence": 0.8706,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jacan",
+          "type": "person",
+          "preferred_label": "Yakani",
+          "confidence": 0.806,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Achaia",
+          "type": "place",
+          "preferred_label": "Akaya",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367642,
+    "content_id": "367642",
     "reference_id": 108151,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Akaya",
     "media_type": "Text",
     "index_reference": "akaya",
@@ -394,13 +874,134 @@
     "content": "<p> Ni Eneo la Kirumi katika eneo ambalo sasa ni kusini mwa Ugiriki. Mji mkuu ulikuwa Korintho. Paulo alisafiri kote Akaya katika safari zake za pili na za tatu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Achaia",
+          "type": "place",
+          "preferred_label": "Akaya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aquila",
+          "type": "person",
+          "preferred_label": "Akila",
+          "confidence": 0.8294,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Acco",
+          "type": "place",
+          "preferred_label": "Aka",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah",
+          "type": "person",
+          "preferred_label": "Adaya",
+          "confidence": 0.8197,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.2",
+          "type": "person",
+          "preferred_label": "Adaya",
+          "confidence": 0.8197,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.3",
+          "type": "person",
+          "preferred_label": "Adaya",
+          "confidence": 0.8197,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.4",
+          "type": "person",
+          "preferred_label": "Adaya",
+          "confidence": 0.8197,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.5",
+          "type": "person",
+          "preferred_label": "Adaya",
+          "confidence": 0.8197,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.6",
+          "type": "person",
+          "preferred_label": "Adaya",
+          "confidence": 0.8197,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Adaiah.7",
+          "type": "person",
+          "preferred_label": "Adaya",
+          "confidence": 0.8197,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah",
+          "type": "person",
+          "preferred_label": "Asaya",
+          "confidence": 0.812,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.2",
+          "type": "person",
+          "preferred_label": "Asaya",
+          "confidence": 0.812,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.3",
+          "type": "person",
+          "preferred_label": "Asaya",
+          "confidence": 0.812,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.4",
+          "type": "person",
+          "preferred_label": "Asaya",
+          "confidence": 0.812,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaiah.5",
+          "type": "person",
+          "preferred_label": "Asaya",
+          "confidence": 0.812,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Achan",
+          "type": "person",
+          "preferred_label": "Akani",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Akan",
+          "type": "person",
+          "preferred_label": "Akani",
+          "confidence": 0.8047,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367661,
+    "content_id": "367661",
     "reference_id": 108170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Alfa na Omega",
     "media_type": "Text",
     "index_reference": "alfa na omega",
@@ -409,13 +1010,14 @@
     "content": "<p>Kwenye alfabeti ya Kiyunani, Alfa ni herufi ya kwanza na Omega ni herufi ya mwisho. Yesu alijiita Alfa na Omega. Hii ilikuwa njia ya kusema kwamba yeye ni wa kwanza na wa mwisho. Alikuwepo mwanzoni wakati Mungu aliumba vitu vyote. Atakuwepo mwishoni wa dunia kama ilivyo sasa. Ni njia ya kusema kwamba Yesu amekuwepo milele na atakuwepo milele. Pia ni njia ya kusema kwamba Yesu ni Mungu. Mungu Baba alijiita Alfa na Omega katika Ufunuo 21:6.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367851,
+    "content_id": "367851",
     "reference_id": 108360,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aliyepakwa mafuta",
     "media_type": "Text",
     "index_reference": "aliyepakwa mafuta",
@@ -432,13 +1034,14 @@
           "label": "Mti wa mzeituni",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367702,
+    "content_id": "367702",
     "reference_id": 108211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Amani",
     "media_type": "Text",
     "index_reference": "amani",
@@ -447,13 +1050,14 @@
     "content": "<p>Neno la amani katika lugha ya Kiebrania ni shalom. Inamaanisha zaidi ya wakati ambapo hakuna mapigano au vita. Inamaanisha kuwa kuna usalama, afya na haki. Inamaanisha kuwa kila mtu ana kile anachohitaji. Inamaanisha kuwa mahusiano ni kamili na yenye afya. Yako jinsi Mungu anavyotaka yawe. Hii inajumuisha kila mtu kuwa na amani na Mungu. Pia inajumuisha mahusiano kati ya watu na kila kitu kingine ambacho Mungu aliumba.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367682,
+    "content_id": "367682",
     "reference_id": 108191,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Amina",
     "media_type": "Text",
     "index_reference": "amina",
@@ -462,13 +1066,14 @@
     "content": "<p>Ni neno katika lugha ya Kiebrania linalomaanisha kweli au na iwe hivyo. Linaonyesha kwamba watu wanakubaliana na kile kilichosemwa. Linaonyesha kwamba wanataka kile kilichosemwa kitokee. Katika Biblia watu mara nyingi walisema amina wakati wa kumsifu Mungu, kuomba au kubariki wengine.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367746,
+    "content_id": "367746",
     "reference_id": 108255,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Amini katika",
     "media_type": "Text",
     "index_reference": "amini katika",
@@ -485,13 +1090,22 @@
           "label": "Wokovu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:BelieveIn",
+          "type": "keyterm",
+          "preferred_label": "Believe In",
+          "confidence": 0.8268,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 368053,
+    "content_id": "368053",
     "reference_id": 108562,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Amosi",
     "media_type": "Text",
     "index_reference": "amosi",
@@ -500,13 +1114,29 @@
     "content": "<p>Ni nabii kutoka ufalme wa kusini wa Yuda wakati wa Mfalme Uzia. Alikuwa mchungaji wa wanyama wa kufuga. Ujumbe wake ulikuwa kuhusu ufalme wa kaskazini wakati wa utawala wa Mfalme Yeroboamu wa pili. Unabii wake umeandikwa katika kitabu cha Amosi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Amos.2",
+          "type": "person",
+          "preferred_label": "Amosi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amos.3",
+          "type": "person",
+          "preferred_label": "Amosi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367822,
+    "content_id": "367822",
     "reference_id": 108331,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Amri Kumi",
     "media_type": "Text",
     "index_reference": "amri kumi",
@@ -523,13 +1153,14 @@
           "label": "Sheria ya Musa",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367532,
+    "content_id": "367532",
     "reference_id": 108041,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Andrea",
     "media_type": "Text",
     "index_reference": "andrea",
@@ -538,13 +1169,22 @@
     "content": "<p>Ni mvuvi kutoka Bethsaida aliyeishi Kapernaumu. Alikuwa mwanafunzi wa Yohana Mbatizaji. Aligeuka kuwa  mmoja wa wanafunzi 12 wa Yesu. Petro alikuwa ndugu yake.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Andrew",
+          "type": "person",
+          "preferred_label": "Andrea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367605,
+    "content_id": "367605",
     "reference_id": 108114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Antiochia katika Pisidia",
     "media_type": "Text",
     "index_reference": "antiochia katika pisidia",
@@ -553,13 +1193,14 @@
     "content": "<p> Ni mji katika eneo la Kirumi la Pisidia huko Asia Ndogo. Paulo aliuitembelea katika safari zake tatu kushiriki habari njema kuhusu Yesu. Inadhaniwa kwamba barua ya Paulo kwa Wagalatia ilisomwa kwa kanisa huko. Huu ulikuwa mji tofauti na Antiokia huko Siria.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367600,
+    "content_id": "367600",
     "reference_id": 108109,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Antiochia nchini Siria",
     "media_type": "Text",
     "index_reference": "antiochia nchini siria",
@@ -568,13 +1209,14 @@
     "content": "<p>Ni mji muhimu wa Kigiriki katika eneo la Kirumi la Siria. Wasafiri kutoka kote ulimwenguni wangepitia Antiokia. Ilikuwa katika nchi inayoitwa sasa Uturuki na karibu na nchi inayoitwa sasa Siria. Kanisa huko liliunga mkono Paulo katika safari zake za kueneza ujumbe kuhusu Yesu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367627,
+    "content_id": "367627",
     "reference_id": 108136,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Apollos",
     "media_type": "Text",
     "index_reference": "apollos",
@@ -583,13 +1225,22 @@
     "content": "<p>Myahudi kutoka Aleksandria nchini Misri ambaye alielewa Maandiko vizuri sana. Akawa rafiki wa Akila na Priskila huko Efeso. Walimsaidia kuelewa zaidi kuhusu Yesu. Apolo alifundisha katika makanisa ambapo Paulo alikuwa alifanya kazi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Apollos",
+          "type": "person",
+          "preferred_label": "Apolo",
+          "confidence": 0.8869,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367625,
+    "content_id": "367625",
     "reference_id": 108134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aquila na Priscilla",
     "media_type": "Text",
     "index_reference": "aquila na priscilla",
@@ -598,13 +1249,14 @@
     "content": "<p>Hawa ni mume na mke ambao walitengeneza na kuuza mahema. Walikuwa Wayahudi waliokuwa wakiishi Roma. Paulo akawa rafiki yao katika mji wa Korintho. Walifanya kazi pamoja kueneza habari njema kumhusu Yesu. Paulo aliwataja katika barua zake tatu. Akila na Priskila walimsaidia Apolo kuelewa zaidi kuhusu Yesu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367925,
+    "content_id": "367925",
     "reference_id": 108434,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aramu",
     "media_type": "Text",
     "index_reference": "aramu",
@@ -613,13 +1265,50 @@
     "content": "<p>Ni kundi la watu waliokuwa wakiishi Mesopotamia na Syria au Shamu. Walikuwa wanaabudu miungu ya uongo. Walikuwa kutoka ukoo wa Shemu. Nchi waliyokuwa wakiishi pia iliitwa Aramu. Ndugu za Ibrahimu waliishi Aramu. Dameski ikawa mji muhimu wa Waaramu. Lugha ya Waaramu iliitwa Kiaramu. Baadaye Waashuri wengi, Wababeli na Wayahudi walizungumza lugha ya Kiaramu. Sehemu za Biblia ziliandikwa kwa Kiaramu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Aram",
+          "type": "person",
+          "preferred_label": "Aramu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aram.2",
+          "type": "person",
+          "preferred_label": "Aramu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aram.3",
+          "type": "person",
+          "preferred_label": "Aramu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amram",
+          "type": "person",
+          "preferred_label": "Amramu",
+          "confidence": 0.8385,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amram.2",
+          "type": "person",
+          "preferred_label": "Amramu",
+          "confidence": 0.8385,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367797,
+    "content_id": "367797",
     "reference_id": 108306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aroni",
     "media_type": "Text",
     "index_reference": "aroni",
@@ -643,13 +1332,14 @@
           "label": "Walawi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 368007,
+    "content_id": "368007",
     "reference_id": 108516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Artashasta",
     "media_type": "Text",
     "index_reference": "artashasta",
@@ -658,13 +1348,29 @@
     "content": "<p>Ni mtawala au mfalme  wa ufalme wa Uajemi kutoka 465 hadi 425 kabla ya Yesu (KK). Alijulikana kama Artashasta I. Mungu alimtumia kama chombo kusaidia Wayahudi kujenga upya ukuta wa Yerusalemu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Artaxerxes",
+          "type": "person",
+          "preferred_label": "Artashasta",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Artaxerxes.2",
+          "type": "person",
+          "preferred_label": "Artashasta",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367628,
+    "content_id": "367628",
     "reference_id": 108137,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Artemi",
     "media_type": "Text",
     "index_reference": "artemi",
@@ -673,13 +1379,29 @@
     "content": "<p>Ni mungu wa uongo na wa kike aliyeabudiwa kwa kusaidia watu kuwinda na kupata watoto. Katika nyakati na maeneo ya Agano Jipya aliitwa kwa majina mengi na tofauti. Wakati Wagiriki walipojenga mji wa Efeso, walimwita kwa jina la Artemi. Kulikuwa na hekalu kubwa na la maarufu kwa heshima yake huko Efeso. Efeso ilikuwa kitovu cha ibada ya Artemi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Artemis",
+          "type": "deity",
+          "preferred_label": "Artemi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Artemas",
+          "type": "person",
+          "preferred_label": "Artema",
+          "confidence": 0.872,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367973,
+    "content_id": "367973",
     "reference_id": 108482,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Asa",
     "media_type": "Text",
     "index_reference": "asa",
@@ -688,13 +1410,29 @@
     "content": "<p>Ni mwana wa Abiya na baba wa Yehoshafati. Alikuwa kutoka kabila la Yuda. Alikuwa mfalme wa tatu wa ufalme wa kusini wa Yuda. Kwa miaka mingi alimfuata Mungu kwa uaminifu. Aliwaongoza watu kumwabudu Mungu pekee. Baadaye aliacha kumwamini Mungu na akaanza kuwatendea watu wa Mungu vibaya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asa",
+          "type": "person",
+          "preferred_label": "Asa",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asa.2",
+          "type": "person",
+          "preferred_label": "Asa",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367997,
+    "content_id": "367997",
     "reference_id": 108506,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Asafu",
     "media_type": "Text",
     "index_reference": "asafu",
@@ -703,13 +1441,50 @@
     "content": "<p>Ni mlawi kutoka ukoo wa Gershoni. Daudi alimteua Asafu, wasaidizi wake na wana kutoka ukoo wa Asafu. Daudi aliwateua kuwa wasimamizi wa huduma za ibada. Waliwaongoza watu wa Israeli katika kumsifu Mungu kwa nyimbo za shukrani. Walitoa unabii, walipiga vyombo vya muziki na waliandika nyimbo. Baadhi ya nyimbo hizi zimeandikwa katika kitabu cha Zaburi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asaph",
+          "type": "person",
+          "preferred_label": "Asafu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaph.2",
+          "type": "person",
+          "preferred_label": "Asafu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaph.3",
+          "type": "person",
+          "preferred_label": "Asafu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asaph.4",
+          "type": "person",
+          "preferred_label": "Asafu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Saph",
+          "type": "person",
+          "preferred_label": "Safu",
+          "confidence": 0.8209,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367920,
+    "content_id": "367920",
     "reference_id": 108429,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ashtorethi",
     "media_type": "Text",
     "index_reference": "ashtorethi",
@@ -718,13 +1493,29 @@
     "content": "<p>Ni mungu wa kike aliyeabudiwa na makundi mengi ya watu ndani na karibu na Kanaani. Pia aliitwa Ashera, Astarte na Ishtari. Aliabudiwa kama mama wa miungu mingine ya kiume na ya kike.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Ashtoreth",
+          "type": "deity",
+          "preferred_label": "Ashtorethi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ashtaroth",
+          "type": "place",
+          "preferred_label": "Ashtarothi",
+          "confidence": 0.9538,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367984,
+    "content_id": "367984",
     "reference_id": 108493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ashuru",
     "media_type": "Text",
     "index_reference": "ashuru",
@@ -733,13 +1524,36 @@
     "content": "<p>Ni ufalme katika Mesopotamia ambao ulidumu kwa miaka mingi. Uligeuka  serikali yenye nguvu iliyotawala mataifa mengine na makundi ya watu. Mji mkuu ulikuwa Ninawi. Ashuru ilichukua udhibiti wa ufalme wa kaskazini wa Israeli mwaka 722 kabla ya Yesu (KK). Walilazimisha Waisraeli kuondoka katika nchi yao na kuishi mbali uhamishoni. Baadhi ya wafalme wa Ashuru walikuwa Tiglath-Pileseri, Shalmanesa, Sargoni, na Senakeribu. Majeshi ya Babeli yalishinda vita muhimu dhidi ya Ashuru mwaka 612 KK. Baada ya hapo, Ashuru haikuwa na nguvu tena.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asshur",
+          "type": "person",
+          "preferred_label": "Ashuru",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ashhur",
+          "type": "person",
+          "preferred_label": "Ashuri",
+          "confidence": 0.907,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahasuerus",
+          "type": "person",
+          "preferred_label": "Ahasuero",
+          "confidence": 0.8472,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367604,
+    "content_id": "367604",
     "reference_id": 108113,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Asia Ndogo",
     "media_type": "Text",
     "index_reference": "asia ndogo",
@@ -748,13 +1562,29 @@
     "content": "<p>Ni eneo chini ya utawala wa Kirumi. Ilikuwa sehemu ya magharibi ya nchi inayojulikana sasa kama Uturuki. Haikuwa bara linaloitwa sasa Asia na nchi kama China, India na Urusi. Paulo alisafiri kote Asia Ndogo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:AsiaMinor",
+          "type": "place",
+          "preferred_label": "Asia Minor",
+          "confidence": 0.916,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Asia",
+          "type": "place",
+          "preferred_label": "Asia",
+          "confidence": 0.8499,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367631,
+    "content_id": "367631",
     "reference_id": 108140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Asilisha",
     "media_type": "Text",
     "index_reference": "asilisha",
@@ -763,13 +1593,14 @@
     "content": "<p>Mtu anapofanywa kuwa sehemu ya familia ambayo hakuzaliwa ndani yake. Hivi ndivyo inavyotokea watu wanapomwamini Yesu. Mungu aliumba wanadamu kuishi pamoja naye kwa amani na upendo. Walikusudiwa kuwa watoto katika familia yake. Wanadamu hawakukubali upendo wa Mungu bali walichagua kufuata njia zao wenyewe. Hii ilimaanisha kwamba hawakuwa sehemu ya familia yoyote. Wale wanaoamini Yesu ni Masihi wanakubali upendo wa Mungu. Wanakuwa tena sehemu ya familia ya Mungu. Paulo alielezea hili kama kufanywa watoto wa Mungu kwa njia ya kuasili.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367981,
+    "content_id": "367981",
     "reference_id": 108490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Athalia",
     "media_type": "Text",
     "index_reference": "athalia",
@@ -778,13 +1609,50 @@
     "content": "<p>Mjukuu wa Omri na mama wa Ahazia. Inadhaniwa kwamba alikuwa binti wa Ahabu na Yezebeli.  Pia inadhaniwa kwamba aliolewa na Mfalme Yehoramu. Athalia aliua wanaume katika ukoo wa Daudi ambao wangeweza kuwa wafalme. Alifanya hivi baada ya Yehu kumuua mwanawe Ahazia. Ni Yoashi pekee aliyeokolewa. Athalia alitawala kama malkia juu ya ufalme wa kusini kwa miaka sita. Aliwaongoza watu kuabudu Baali. Alifanya mambo mengi mabaya. Aliuawa na walinzi wa ikulu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Athaliah",
+          "type": "person",
+          "preferred_label": "Athalia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Athaliah.2",
+          "type": "person",
+          "preferred_label": "Athalia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Athaliah.3",
+          "type": "person",
+          "preferred_label": "Athalia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Attalia",
+          "type": "place",
+          "preferred_label": "Atalia",
+          "confidence": 0.8396,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Athaiah",
+          "type": "person",
+          "preferred_label": "Athaya",
+          "confidence": 0.8127,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367621,
+    "content_id": "367621",
     "reference_id": 108130,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Athene",
     "media_type": "Text",
     "index_reference": "athene",
@@ -793,13 +1661,29 @@
     "content": "<p>Ni mji wa Kigiriki uliokuwa muhimu sana katika eneo la Kirumi la Akaya. Paulo aliuitembelea katika safari yake ya pili. Alishiriki ujumbe wa Yesu na wanafikra na viongozi katika Areopago. Areopago ilikuwa kilima nje ya Athene. Hapo baraza la viongozi wa Athene lingekutana na kujadili mambo muhimu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Athens",
+          "type": "place",
+          "preferred_label": "Athene",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Athens",
+          "type": "group",
+          "preferred_label": "Athenians",
+          "confidence": 0.8123,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368015,
+    "content_id": "368015",
     "reference_id": 108524,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ayubu",
     "media_type": "Text",
     "index_reference": "ayubu",
@@ -808,7 +1692,16 @@
     "content": "<p>Mhusika mkuu katika hadithi iliyosimuliwa katika kitabu cha Ayubu. Alikuwa kutoka Usi. Inadhaniwa kuwa Usi ilikuwa Edomu. Pia, inadhaniwa kuwa Ayubu hakuwa kutoka katika ukoo wa Yakobo. Aliabudu Mungu mmoja wa kweli kwa uaminifu. Mungu alimjaribu Ayubu kwa kumruhusu kuteseka. Ayubu alimwuliza Mungu maswali mengi na aliongea kwa uaminifu kuhusu hisia zake. Katika jaribio lote, alibaki mwaminifu kwa Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Job",
+          "type": "person",
+          "preferred_label": "Ayubu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

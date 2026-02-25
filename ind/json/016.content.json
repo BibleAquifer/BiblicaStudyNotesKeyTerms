@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203623,
+    "content_id": "203623",
     "reference_id": 108488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Naaman",
     "media_type": "Text",
     "index_reference": "naaman",
@@ -11,13 +11,71 @@
     "content": "<p>Seorang panglima penting dalam pasukan Aram. Seorang gadis muda Israel menjadi pelayan di rumahnya. Ia mengikuti nasihat gadis itu untuk meminta Elisa menyembuhkan penyakit kulitnya. Pada awalnya, Naaman menolak untuk mengikuti instruksi Elisa. Tetapi ketika ia merendahkan diri dan taat, ia disembuhkan. Kemudian ia percaya kepada Allah. Ia menyembah hanya kepada Allah ketika ia kembali ke Aram.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naaman",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.2",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.3",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.4",
+          "type": "person",
+          "preferred_label": "Naaman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naamah",
+          "type": "person",
+          "preferred_label": "Naama",
+          "confidence": 0.8856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naamah.2",
+          "type": "person",
+          "preferred_label": "Naama",
+          "confidence": 0.8856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Naamah",
+          "type": "place",
+          "preferred_label": "Naama",
+          "confidence": 0.8856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Naamah.2",
+          "type": "place",
+          "preferred_label": "Naamah",
+          "confidence": 0.8795,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203551,
+    "content_id": "203551",
     "reference_id": 108416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nabi",
     "media_type": "Text",
     "index_reference": "nabi",
@@ -34,13 +92,14 @@
           "label": "Nabi palsu",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203685,
+    "content_id": "203685",
     "reference_id": 108550,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nabi palsu",
     "media_type": "Text",
     "index_reference": "nabi palsu",
@@ -57,13 +116,14 @@
           "label": "Nabi",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203491,
+    "content_id": "203491",
     "reference_id": 108356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nadab and Abihu",
     "media_type": "Text",
     "index_reference": "nadab and abihu",
@@ -72,13 +132,14 @@
     "content": "<p>Putra-putra sulung Harun dan Eliseba dari suku Lewi. Saudara-saudara mereka adalah Eleazar dan Itamar. Mereka berada di Gunung Sinai bersama Musa dan Harun ketika Allah meneguhkan perjanjian. Mereka dikhususkan sebagai para imam. Mereka tidak menaati Allah dalam cara mereka memimpin umat dalam ibadah. Mereka mati karena hal ini.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203360,
+    "content_id": "203360",
     "reference_id": 108225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nama",
     "media_type": "Text",
     "index_reference": "nama",
@@ -87,13 +148,43 @@
     "content": "<p>Pada zaman dan tempat di dalam Alkitab, nama sangatlah penting. Nama-nama itu lebih dari sekadar cara untuk berbicara tentang seseorang. Nama-nama itu adalah cara untuk menunjukkan siapa orang itu dan seperti apa dia. Hal ini dipahami berlaku juga untuk Allah. Mengatakan sesuatu tentang nama Allah adalah cara untuk mengatakan sesuatu tentang pribadi Allah sendiri. Percaya kepada nama Allah sama dengan percaya kepada Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naam",
+          "type": "person",
+          "preferred_label": "Naam",
+          "confidence": 0.9699,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nimshi",
+          "type": "person",
+          "preferred_label": "Nimsi",
+          "confidence": 0.8839,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Name",
+          "type": "keyterm",
+          "preferred_label": "nama",
+          "confidence": 0.8828,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elnaam",
+          "type": "person",
+          "preferred_label": "Elnaam",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203605,
+    "content_id": "203605",
     "reference_id": 108470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Natan",
     "media_type": "Text",
     "index_reference": "natan",
@@ -102,13 +193,64 @@
     "content": "<p>Seorang nabi pada masa Daud menjadi raja. Dia adalah penasihat dekat Daud. Dia memberikan pesan kepada Daud tentang janji-janji Allah bagi garis keturunan Daud. Dia menantang Daud ketika Daud melakukan hal-hal yang jahat. Natan mendukung Salomo sebagai raja setelah Daud.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nathan",
+          "type": "person",
+          "preferred_label": "Natan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.2",
+          "type": "person",
+          "preferred_label": "Natan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.3",
+          "type": "person",
+          "preferred_label": "Natan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.4",
+          "type": "person",
+          "preferred_label": "Natan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.5",
+          "type": "person",
+          "preferred_label": "Natan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.6",
+          "type": "person",
+          "preferred_label": "Natan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nain",
+          "type": "place",
+          "preferred_label": "Nain",
+          "confidence": 0.8005,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203206,
+    "content_id": "203206",
     "reference_id": 108071,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nazaret",
     "media_type": "Text",
     "index_reference": "nazaret",
@@ -117,13 +259,22 @@
     "content": "<p>Kota kecil tempat Yesus dibesarkan di bagian selatan Galilea. Nazaret terletak di antara Laut Galilea dan Laut Mediterania.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Nazareth",
+          "type": "place",
+          "preferred_label": "Nazaret",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203519,
+    "content_id": "203519",
     "reference_id": 108384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nazir",
     "media_type": "Text",
     "index_reference": "nazir",
@@ -132,13 +283,14 @@
     "content": "<p>Pria dan wanita yang ingin mengkhususkan diri mereka untuk melayani Allah. Dalam bahasa Ibrani, kata nazir berarti dipisahkan atau dikhususkan. Allah memerintahkan beberapa orang Israel untuk dipisahkan untuk melayani Dia. Beberapa orang lainnya memilih untuk melakukan hal ini dan disebut sebagai. Mereka berjanji untuk melayani Allah selama jangka waktu tertentu. Mereka harus menghindari alkohol dan membiarkan rambut mereka tumbuh panjang. Mereka harus menjauhi apa pun atau siapa pun yang mati. Ini adalah tanda bagi orang Israel lainnya bahwa Nazir benar-benar berkomitmen kepada Tuhan. Pada akhir masa di mana mereka telah mengkhususkan diri, mereka merayakannya. Mereka melakukan hal ini dengan mencukur rambut dan mempersembahkan korban.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203636,
+    "content_id": "203636",
     "reference_id": 108501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nebukadnezar",
     "media_type": "Text",
     "index_reference": "nebukadnezar",
@@ -147,13 +299,29 @@
     "content": "<p>Seorang raja Babel dari kelompok bangsa Kasdim. Allah menggunakan dia sebagai alat untuk menjatuhkan penghakiman terhadap kerajaan selatan. Pada tahun 586 SM, pasukannya menghancurkan Yerusalem dan Bait Allah. Nabi Daniel menjelaskan beberapa mimpi Nebukadnezar kepadanya. Nebukadnezar menyembah ilah-ilah palsu, tetapi ia mengakui bahwa Allah orang Yahudi memiliki otoritas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "Nebukadnezar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nebuzaradan",
+          "type": "person",
+          "preferred_label": "Nebuzaradan",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203650,
+    "content_id": "203650",
     "reference_id": 108515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nehemia",
     "media_type": "Text",
     "index_reference": "nehemia",
@@ -162,13 +330,36 @@
     "content": "<p>Seorang Yahudi yang kembali ke Yerusalem dari Susan. Dia adalah putra Hakaliah dan Hanani adalah saudaranya. Dia adalah seorang pejabat yang dipercaya dalam pemerintahan Persia. Dia adalah pencicip anggur untuk Artahsasta. Ini berarti dia memastikan bahwa makanan dan anggur raja tidak diracuni. Dia menjabat dua kali sebagai gubernur Yerusalem. Dia memimpin orang-orang Yahudi untuk membangun kembali tembok Yerusalem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "Nehemia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "Nehemia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "Nehemia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203209,
+    "content_id": "203209",
     "reference_id": 108074,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neraka",
     "media_type": "Text",
     "index_reference": "neraka",
@@ -177,13 +368,14 @@
     "content": "<p>Sebuah tempat yang penuh kehancuran bagi mereka yang menolak untuk menjadi bagian dari kerajaan Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203223,
+    "content_id": "203223",
     "reference_id": 108088,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nikodemus",
     "media_type": "Text",
     "index_reference": "nikodemus",
@@ -192,13 +384,22 @@
     "content": "<p>Seorang pemimpin Yahudi dan orang Farisi yang percaya kepada Yesus yang mengikuti-Nya secara diam-diam. Dia melakukan pembicaraan penting dengan Yesus pada suatu malam. Ketika Yesus meninggal, Nikodemus membantu mempersiapkan jenazah Yesus untuk dikuburkan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nicodemus",
+          "type": "person",
+          "preferred_label": "Nikodemus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203709,
+    "content_id": "203709",
     "reference_id": 108574,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Niniwe",
     "media_type": "Text",
     "index_reference": "niniwe",
@@ -207,13 +408,29 @@
     "content": "<p>Ibu kota pemerintahan Asyur. Letaknya di Sungai Tigris di negara yang sekarang disebut Irak. Orang-orang yang tinggal di sana dikenal karena melakukan hal-hal yang kejam dan jahat. Pemerintah Babilonia menguasai Niniwe dan pemerintahan Asyur pada tahun 612 SM.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Nineveh",
+          "type": "group",
+          "preferred_label": "Niniwe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "Niniwe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203534,
+    "content_id": "203534",
     "reference_id": 108399,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nubuat",
     "media_type": "Text",
     "index_reference": "nubuat",
@@ -222,13 +439,14 @@
     "content": "<p>Pemberitahuan tentang apa yang diinginkan Allah atau tentang apa yang akan terjadi. Pesan-pesan ini berasal dari Allah atau firman Allah. Pesan-pesan ini diucapkan oleh para nabi dan ini disebut bernubuat. Nubuat-nubuat dari banyak nabi sebelum zaman Yesus dituliskan. Mereka dimasukkan dalam Perjanjian Lama. Secara keseluruhan mereka disebut para Nabi. Roh Kudus membuat beberapa orang mampu bernubuat. Pesan-pesan itu harus dibagikan secara teratur agar orang dapat mengerti. Pesan-pesan itu dibagikan untuk membantu orang yang tidak mengenal Allah berpaling kepada Allah. Pesan-pesan itu dibagikan untuk mendorong orang yang sudah mengikuti Allah. Pesan-pesan itu dibagikan untuk membantu orang memahami bagaimana menaati Allah dengan setia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203535,
+    "content_id": "203535",
     "reference_id": 108400,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nubuat tentang Yesus",
     "media_type": "Text",
     "index_reference": "nubuat tentang yesus",
@@ -245,13 +463,14 @@
           "label": "Juruselamat",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203365,
+    "content_id": "203365",
     "reference_id": 108230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nuh",
     "media_type": "Text",
     "index_reference": "nuh",
@@ -260,7 +479,30 @@
     "content": "<p>Putra Lamekh dalam garis keturunan Set. Dia adalah ayah dari Sem, Ham dan Yafet dan dia mengikuti Allah dengan setia. Allah menyelamatkan Nuh dan keluarganya ketika Allah memusnahkan bumi melalui air bah. Allah membuat perjanjian dengan Nuh.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Nuh",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Noah.2",
+          "type": "person",
+          "preferred_label": "Nuh",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nun",
+          "type": "person",
+          "preferred_label": "Nun",
+          "confidence": 0.8119,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]
