@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132252,
+    "content_id": "132252",
     "reference_id": 108306,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aaron",
     "media_type": "Text",
     "index_reference": "aaron",
@@ -26,13 +26,22 @@
           "label": "Levites",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Aaron",
+          "type": "person",
+          "preferred_label": "Aaron",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132255,
+    "content_id": "132255",
     "reference_id": 108309,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aaron’s walking stick",
     "media_type": "Text",
     "index_reference": "aaron’s walking stick",
@@ -41,13 +50,14 @@
     "content": "<p>The stick Aaron used when God did signs and wonders through him. Later, God caused it to grow buds, flowers and almonds. This showed that God had chosen Aaron’s family line to serve him as priests. Aaron’s walking stick was kept in the ark of the covenant.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132087,
+    "content_id": "132087",
     "reference_id": 108141,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abba",
     "media_type": "Text",
     "index_reference": "abba",
@@ -56,13 +66,22 @@
     "content": "<p>A word in the Aramaic language that means father. Jesus called God Abba. Those who follow Jesus are part of God’s family. So they can call God their Father or Abba just like Jesus does. This name shows how close God is to all those who trust him.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132167,
+    "content_id": "132167",
     "reference_id": 108221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abel",
     "media_type": "Text",
     "index_reference": "abel",
@@ -71,13 +90,29 @@
     "content": "<p>The second son of Adam and Eve. He was a shepherd. He made an offering that pleased God. His brother Cain killed him even though he hadn’t done anything wrong. The Bible talks about Abel’s blood crying out to God from the ground. This meant that God needed to bring justice because Abel was murdered.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abel",
+          "type": "person",
+          "preferred_label": "Abel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Abel",
+          "type": "place",
+          "preferred_label": "Abel",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132405,
+    "content_id": "132405",
     "reference_id": 108459,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abiathar",
     "media_type": "Text",
     "index_reference": "abiathar",
@@ -86,13 +121,22 @@
     "content": "<p>The son of Ahimelek who served as high priest when David was king. He was from Eli’s family line. He was faithful to David but didn’t support Solomon as the king after David. Because of this he was no longer allowed to be the high priest. This fulfilled the prophecy against Eli’s family line.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abiathar",
+          "type": "person",
+          "preferred_label": "Abiathar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132406,
+    "content_id": "132406",
     "reference_id": 108460,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abigail",
     "media_type": "Text",
     "index_reference": "abigail",
@@ -101,13 +145,29 @@
     "content": "<p>A wise woman married to a foolish man named Nabal. She convinced David to trust God instead of killing people because he was angry. After Nabal died, Abigail became one of David’s wives. She had one son with David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abigail.2",
+          "type": "person",
+          "preferred_label": "Abigail",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Abigail",
+          "type": "person",
+          "preferred_label": "Abigail",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132427,
+    "content_id": "132427",
     "reference_id": 108481,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abijah",
     "media_type": "Text",
     "index_reference": "abijah",
@@ -116,13 +176,64 @@
     "content": "<p>The son of Rehoboam and Maakah. He was the father of Asa and was from the tribe of Judah. He was the second king of the southern kingdom of Judah. He did evil and worshipped false gods.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abijah.2",
+          "type": "person",
+          "preferred_label": "Abijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Abijah.3",
+          "type": "person",
+          "preferred_label": "Abijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Abijah.4",
+          "type": "person",
+          "preferred_label": "Abijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Abijah.5",
+          "type": "person",
+          "preferred_label": "Abijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Abijah.6",
+          "type": "person",
+          "preferred_label": "Abijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Abijah.7",
+          "type": "person",
+          "preferred_label": "Abijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Abi",
+          "type": "person",
+          "preferred_label": "Abi",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132386,
+    "content_id": "132386",
     "reference_id": 108440,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abimelek",
     "media_type": "Text",
     "index_reference": "abimelek",
@@ -131,13 +242,36 @@
     "content": "<p>A son of Gideon and Gideon’s concubine from Shechem. Abimelek murdered almost all of Gideon’s other sons. He ruled as king over Shechem and the areas around it. He was violent and killed many people.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abimelech.2",
+          "type": "person",
+          "preferred_label": "Abimelech",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Achish",
+          "type": "person",
+          "preferred_label": "Achish",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Abimelech",
+          "type": "person",
+          "preferred_label": "Abimelech",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132189,
+    "content_id": "132189",
     "reference_id": 108243,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abraham",
     "media_type": "Text",
     "index_reference": "abraham",
@@ -154,13 +288,22 @@
           "label": "Covenant with Abraham",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Abraham",
+          "type": "person",
+          "preferred_label": "Abraham",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132418,
+    "content_id": "132418",
     "reference_id": 108472,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Absalom",
     "media_type": "Text",
     "index_reference": "absalom",
@@ -169,13 +312,22 @@
     "content": "<p>The son of David and Makaah. Tamar was his sister. He also had a daughter named Tamar. Absalom killed his brother Amnon for raping their sister Tamar. Absalom made himself king while King David was still alive. His army fought against David’s army. Joab killed him even though David didn’t want Absalom to be hurt.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Absalom",
+          "type": "person",
+          "preferred_label": "Absalom",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132132,
+    "content_id": "132132",
     "reference_id": 108186,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Abyss",
     "media_type": "Text",
     "index_reference": "abyss",
@@ -192,13 +344,22 @@
           "label": "Evil spiritual beings",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Abyss",
+          "type": "keyterm",
+          "preferred_label": "Abyss",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132097,
+    "content_id": "132097",
     "reference_id": 108151,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Achaia",
     "media_type": "Text",
     "index_reference": "achaia",
@@ -207,13 +368,22 @@
     "content": "<p>A Roman territory in the area that is now southern Greece. The capital city was Corinth. Paul travelled throughout Achaia on his second and third journeys.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Achaia",
+          "type": "place",
+          "preferred_label": "Achaia",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132372,
+    "content_id": "132372",
     "reference_id": 108426,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Achan",
     "media_type": "Text",
     "index_reference": "achan",
@@ -222,13 +392,22 @@
     "content": "<p>An Israelite man from the tribe of Judah. He kept things from Jericho that should have been destroyed. This caused trouble for his family and the entire Israelite community. Achan and his entire family were put to death in the valley of Achor. In the Hebrew language Achor means trouble.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Achan",
+          "type": "person",
+          "preferred_label": "Achan",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132483,
+    "content_id": "132483",
     "reference_id": 108537,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Action of prophecy",
     "media_type": "Text",
     "index_reference": "action of prophecy",
@@ -237,13 +416,14 @@
     "content": "<p>Israel’s prophets shared God’s messages by speaking words and also by the way they lived. God told them to do certain things or to act out a story. These actions were signs to get people’s attention. They were signs about how God would bring judgement or bring salvation.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132010,
+    "content_id": "132010",
     "reference_id": 108064,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "AD",
     "media_type": "Text",
     "index_reference": "ad",
@@ -252,13 +432,14 @@
     "content": "<p>A way to describe all the years after Jesus was born. In the Latin language, AD means in the year of our Lord.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132007,
+    "content_id": "132007",
     "reference_id": 108061,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "AD 70",
     "media_type": "Text",
     "index_reference": "ad 70",
@@ -267,13 +448,14 @@
     "content": "<p>The year that Roman armies destroyed the temple. They also destroyed much of the city of Jerusalem. Jewish rebels had been fighting against Rome’s rule for four years. Then Roman armies killed many Jews and burnt the temple down. It was never rebuilt. Jesus had warned people many times that this would happen. Jesus described it as punishment for not accepting him as the Messiah sent by God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132149,
+    "content_id": "132149",
     "reference_id": 108203,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Adam",
     "media_type": "Text",
     "index_reference": "adam",
@@ -282,13 +464,29 @@
     "content": "<p>The first human being God created. Eve was his wife. In the Hebrew language the name Adam means human being. It’s also like the Hebrew word for ground. God made Adam from dust and breathed life into him. He had friendship and peace with God while he lived in the Garden of Eden. He worked together with Eve to take care of the garden. He named all the creatures God made. Adam was the father of Cain, Abel and Seth. When Adam and Eve stopped obeying God, they had to leave the Garden of Eden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Adam",
+          "type": "person",
+          "preferred_label": "Adam",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Adam",
+          "type": "place",
+          "preferred_label": "Adam",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132420,
+    "content_id": "132420",
     "reference_id": 108474,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Adonijah",
     "media_type": "Text",
     "index_reference": "adonijah",
@@ -297,13 +495,36 @@
     "content": "<p>The son of David and Haggith. He made himself king before David appointed Solomon as king. When Solomon became king, Solomon spared Adonijah’s life. Then Adonijah made a foolish request. He tried to have more authority than Solomon and tried to become king. Solomon had him killed for that.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Adonijah.2",
+          "type": "person",
+          "preferred_label": "Adonijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Adonijah.3",
+          "type": "person",
+          "preferred_label": "Adonijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Adonijah",
+          "type": "person",
+          "preferred_label": "Adonijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132086,
+    "content_id": "132086",
     "reference_id": 108140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Adopted",
     "media_type": "Text",
     "index_reference": "adopted",
@@ -312,13 +533,22 @@
     "content": "<p>When someone is made part of a family that they weren’t born into. This is what happens when people trust in Jesus. God created human beings to live together with him in peace and love. They were meant to be children in his family. Humans didn’t accept God’s love but chose to follow their own ways. This meant that they didn’t belong to any family. Those who believe Jesus is the Messiah accept God’s love. They become part of God’s family again. Paul described this like being adopted as God’s children.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Approved",
+          "type": "keyterm",
+          "preferred_label": "Approved",
+          "confidence": 0.8573,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132430,
+    "content_id": "132430",
     "reference_id": 108484,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahab",
     "media_type": "Text",
     "index_reference": "ahab",
@@ -327,13 +557,29 @@
     "content": "<p>The son of Omri who became the seventh king of the northern kingdom. He was the father of Ahaziah and Jezebel was his wife. He did more evil than any king of Israel before him. He worshipped false gods. He made Samaria a centre for worshipping Baal. He treated the prophet Elijah like an enemy.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahab.2",
+          "type": "person",
+          "preferred_label": "Ahab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ahab",
+          "type": "person",
+          "preferred_label": "Ahab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132423,
+    "content_id": "132423",
     "reference_id": 108477,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahijah",
     "media_type": "Text",
     "index_reference": "ahijah",
@@ -342,13 +588,71 @@
     "content": "<p>A prophet from Shiloh. His words and actions challenged the authority of kings who disobeyed God. God used Ahijah to show that Solomon hadn’t been faithful to God’s covenant with David. Later God used Ahijah to show that Jeroboam hadn’t been faithful to God either.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahijah.2",
+          "type": "person",
+          "preferred_label": "Ahijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ahijah.3",
+          "type": "person",
+          "preferred_label": "Ahijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ahijah.4",
+          "type": "person",
+          "preferred_label": "Ahijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ahijah.5",
+          "type": "person",
+          "preferred_label": "Ahijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ahijah.6",
+          "type": "person",
+          "preferred_label": "Ahijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ahijah.7",
+          "type": "person",
+          "preferred_label": "Ahijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ahimelech",
+          "type": "person",
+          "preferred_label": "Ahimelech",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ahijah",
+          "type": "person",
+          "preferred_label": "Ahijah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132404,
+    "content_id": "132404",
     "reference_id": 108458,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ahimelek",
     "media_type": "Text",
     "index_reference": "ahimelek",
@@ -357,13 +661,36 @@
     "content": "<p>The great-grandson of Eli who served as high priest when the holy tent was in Nob. He gave David holy bread and Goliath’s sword when David was running away from Saul. Doeg the Edomite killed him for helping David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ahimelech.2",
+          "type": "person",
+          "preferred_label": "Ahimelech",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ahimelech.3",
+          "type": "person",
+          "preferred_label": "Ahimelech",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ahimelech",
+          "type": "person",
+          "preferred_label": "Ahimelech",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132371,
+    "content_id": "132371",
     "reference_id": 108425,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ai",
     "media_type": "Text",
     "index_reference": "ai",
@@ -372,13 +699,29 @@
     "content": "<p>A city in Canaan where Abraham built an altar. The Israelites lost their first battle against Ai. They won the second battle and destroyed the city. In the Hebrew language Ai means the ruin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Ai.2",
+          "type": "place",
+          "preferred_label": "Ai",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Ai",
+          "type": "place",
+          "preferred_label": "Ai",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132116,
+    "content_id": "132116",
     "reference_id": 108170,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Alpha and Omega",
     "media_type": "Text",
     "index_reference": "alpha and omega",
@@ -387,13 +730,14 @@
     "content": "<p>In the Greek alphabet Alpha is the first letter and Omega is the last letter. Jesus called himself the Alpha and the Omega. This was a way of saying that he is the first and the last. He was at the beginning when God created all things. He will be at the end of the world as it is now. It’s a way of saying that Jesus has always existed and will always exist. It’s also a way of saying that Jesus is God. God the Father called himself the Alpha and the Omega in Revelation 21:6.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132479,
+    "content_id": "132479",
     "reference_id": 108533,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Alphabet poem",
     "media_type": "Text",
     "index_reference": "alphabet poem",
@@ -410,13 +754,14 @@
           "label": "Poem",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132231,
+    "content_id": "132231",
     "reference_id": 108285,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Altar",
     "media_type": "Text",
     "index_reference": "altar",
@@ -425,13 +770,22 @@
     "content": "<p>Something people built to honour God. They worshipped by making sacrifices on the altar. People often built altars to recognise a special way that God had spoken or acted. Altars helped them remember what God had said or done. The altars also showed that people were committed to worshipping and obeying God. God gave careful instructions about building the altars in the holy tent and the temple. People also built altars to worship false gods.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Altar",
+          "type": "realia",
+          "preferred_label": "Altar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132270,
+    "content_id": "132270",
     "reference_id": 108324,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Amalekites",
     "media_type": "Text",
     "index_reference": "amalekites",
@@ -440,13 +794,22 @@
     "content": "<p>A people group south of Canaan. It’s thought that they came from the family line of Esau’s grandson Amalek. They were enemies of the people of Israel. For hundreds of years they attacked the Israelites.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Amalek",
+          "type": "group",
+          "preferred_label": "Amalekites",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132137,
+    "content_id": "132137",
     "reference_id": 108191,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Amen",
     "media_type": "Text",
     "index_reference": "amen",
@@ -455,13 +818,36 @@
     "content": "<p>A word in the Hebrew language that means truly or may it be. It shows that people agree with what has been said. It shows that they want what has been said to happen. In the Bible people often said amen when praising God, praying or blessing others.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Amon",
+          "type": "deity",
+          "preferred_label": "Amon",
+          "confidence": 0.8091,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amon.2",
+          "type": "person",
+          "preferred_label": "Amon",
+          "confidence": 0.8091,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amon.3",
+          "type": "person",
+          "preferred_label": "Amon",
+          "confidence": 0.8091,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132358,
+    "content_id": "132358",
     "reference_id": 108412,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ammonites",
     "media_type": "Text",
     "index_reference": "ammonites",
@@ -470,13 +856,22 @@
     "content": "<p>A people group that lived east of the River Jordan. They were from the family line of Lot. The land where they lived was called Ammon. They worshipped the false god called Molek.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Ammon",
+          "type": "group",
+          "preferred_label": "Ammonites",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132359,
+    "content_id": "132359",
     "reference_id": 108413,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Amorites",
     "media_type": "Text",
     "index_reference": "amorites",
@@ -485,13 +880,22 @@
     "content": "<p>A people group that lived in Canaan and east of the River Jordan. They were from the family line of Ham’s son Canaan. They were enemies of Abraham’s family line for hundreds of years. God drove them out of Canaan and gave their land to the Israelites.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Amorites",
+          "type": "group",
+          "preferred_label": "Amorites",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132508,
+    "content_id": "132508",
     "reference_id": 108562,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Amos",
     "media_type": "Text",
     "index_reference": "amos",
@@ -500,13 +904,36 @@
     "content": "<p>A prophet from the southern kingdom of Judah during the time of King Uzziah. He was a shepherd. His messages were about the northern kingdom during the rule of King Jeroboam the second. His prophecies are recorded in the book of Amos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Amos.2",
+          "type": "person",
+          "preferred_label": "Amos",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Amos.3",
+          "type": "person",
+          "preferred_label": "Amos",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Amon.3",
+          "type": "person",
+          "preferred_label": "Amon",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 131987,
+    "content_id": "131987",
     "reference_id": 108041,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Andrew",
     "media_type": "Text",
     "index_reference": "andrew",
@@ -515,13 +942,22 @@
     "content": "<p>A fisherman from Bethsaida who lived in Capernaum. He was a disciple of John the Baptist. He became one of Jesus’ 12 disciples. Peter was his brother.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Andrew",
+          "type": "person",
+          "preferred_label": "Andrew",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132259,
+    "content_id": "132259",
     "reference_id": 108313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Angel",
     "media_type": "Text",
     "index_reference": "angel",
@@ -538,13 +974,29 @@
           "label": "Spiritual beings",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "deity:Angel",
+          "type": "deity",
+          "preferred_label": "An Angel",
+          "confidence": 0.9265,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Angels",
+          "type": "group",
+          "preferred_label": "Angels",
+          "confidence": 0.8964,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132374,
+    "content_id": "132374",
     "reference_id": 108428,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Angel of the Lord",
     "media_type": "Text",
     "index_reference": "angel of the lord",
@@ -553,13 +1005,14 @@
     "content": "<p>An angel always described with the name of the Lord in the Old Testament. This spiritual being sometimes brought a message from God. Other times the Old Testament described the angel as being God himself. This angel was one way God made himself known on earth before Jesus was born.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132306,
+    "content_id": "132306",
     "reference_id": 108360,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Anointed",
     "media_type": "Text",
     "index_reference": "anointed",
@@ -576,13 +1029,22 @@
           "label": "Olive tree",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Anointed",
+          "type": "keyterm",
+          "preferred_label": "Anointed",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132060,
+    "content_id": "132060",
     "reference_id": 108114,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Antioch in Pisidia",
     "media_type": "Text",
     "index_reference": "antioch in pisidia",
@@ -591,13 +1053,22 @@
     "content": "<p>A city in the Roman territory of Pisidia in Asia Minor. Paul visited it on three of his journeys to share the good news about Jesus. It’s thought that Paul’s letter to the Galatians was read to the church there. This was a different city than Antioch in Syria.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Antioch.2",
+          "type": "place",
+          "preferred_label": "Antioch",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132055,
+    "content_id": "132055",
     "reference_id": 108109,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Antioch in Syria",
     "media_type": "Text",
     "index_reference": "antioch in syria",
@@ -606,13 +1077,22 @@
     "content": "<p>An important Greek city in the Roman territory of Syria. Travellers from all over the world would pass through Antioch. It was in the country now called Turkey and near the country now called Syria. The church there supported Paul on his journeys to spread the message about Jesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Antioch",
+          "type": "place",
+          "preferred_label": "Antioch",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132487,
+    "content_id": "132487",
     "reference_id": 108541,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Apocalyptic writing",
     "media_type": "Text",
     "index_reference": "apocalyptic writing",
@@ -621,13 +1101,14 @@
     "content": "<p>In the Greek language the word apocalypse means to reveal or uncover something. Apocalyptic writing was common among Jewish and Christian prophets. In apocalyptic writing, prophets used signs and pictures to talk about things happening on earth. The signs and pictures uncovered spiritual truths about those things. They helped people understand God’s point of view. They showed how God would save his people and judge their enemies. The signs and pictures in apocalyptic writing are often powerful and frightening. This was to get people’s attention.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132082,
+    "content_id": "132082",
     "reference_id": 108136,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Apollos",
     "media_type": "Text",
     "index_reference": "apollos",
@@ -636,13 +1117,22 @@
     "content": "<p>A Jew from Alexandria in Egypt who understood the Scriptures very well. He became friends with Aquila and Priscilla in Ephesus. They helped him understand more about Jesus. Apollos taught in churches where Paul had worked.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Apollos",
+          "type": "person",
+          "preferred_label": "Apollos",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 131999,
+    "content_id": "131999",
     "reference_id": 108053,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Apostles",
     "media_type": "Text",
     "index_reference": "apostles",
@@ -651,13 +1141,22 @@
     "content": "<p>Jesus’ 12 disciples and other close followers who became leaders in the first churches. The apostles taught people about Jesus and spread the good news about him. Apostle is a word from the Greek language that means someone who is sent.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:GenericPriests",
+          "type": "group",
+          "preferred_label": "Priests",
+          "confidence": 0.8024,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132080,
+    "content_id": "132080",
     "reference_id": 108134,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aquila and Priscilla",
     "media_type": "Text",
     "index_reference": "aquila and priscilla",
@@ -666,13 +1165,29 @@
     "content": "<p>A husband and wife who made and sold tents. They were Jews who had lived in Rome. Paul became friends with them in the city of Corinth. They worked together to spread the good news about Jesus. Paul mentioned them in three of his letters. Aquila and Priscilla helped Apollos understand more about Jesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Aquila",
+          "type": "person",
+          "preferred_label": "Aquila",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Priscilla",
+          "type": "person",
+          "preferred_label": "Priscilla",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132380,
+    "content_id": "132380",
     "reference_id": 108434,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Aram",
     "media_type": "Text",
     "index_reference": "aram",
@@ -681,13 +1196,43 @@
     "content": "<p>A people group that lived in Mesopotamia and Syria. They worshipped false gods. They were from the family line of Shem. The land where they lived was also called Aram. Abraham’s relatives lived in Aram. Damascus became an important city of the Arameans. The language of the Arameans was called Aramaic. Later on many Assyrians, Babylonians and Jews spoke the Aramaic language. Parts of the Bible were written in Aramaic.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Aram.2",
+          "type": "person",
+          "preferred_label": "Aram",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Aram.3",
+          "type": "person",
+          "preferred_label": "Aram",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Aram",
+          "type": "person",
+          "preferred_label": "Aram",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Paddan-aram",
+          "type": "place",
+          "preferred_label": "Paddan-aram",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132182,
+    "content_id": "132182",
     "reference_id": 108236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ark",
     "media_type": "Text",
     "index_reference": "ark",
@@ -696,13 +1241,14 @@
     "content": "<p>The big boat that God gave Noah instructions to build. God kept the people and the animals in the ark safe during the flood.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132331,
+    "content_id": "132331",
     "reference_id": 108385,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ark of the covenant",
     "media_type": "Text",
     "index_reference": "ark of the covenant",
@@ -719,13 +1265,22 @@
           "label": "Most Holy Room",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "realia:ArkOfTheCovenant",
+          "type": "realia",
+          "preferred_label": "Ark of the Covenant",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132462,
+    "content_id": "132462",
     "reference_id": 108516,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Artaxerxes",
     "media_type": "Text",
     "index_reference": "artaxerxes",
@@ -734,13 +1289,29 @@
     "content": "<p>The ruler of the Persian kingdom from 465 to 425 BC. He was known as Artaxerxes I. God used him as a tool to help the Jews rebuild the wall of Jerusalem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Artaxerxes.2",
+          "type": "person",
+          "preferred_label": "Artaxerxes",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Artaxerxes",
+          "type": "person",
+          "preferred_label": "Artaxerxes",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132083,
+    "content_id": "132083",
     "reference_id": 108137,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Artemis",
     "media_type": "Text",
     "index_reference": "artemis",
@@ -749,13 +1320,22 @@
     "content": "<p>A false goddess worshipped for helping people hunt and have children. In the times and places of the New Testament she was called by many different names. When the Greeks built the city of Ephesus, they called her Artemis. There was a huge and famous temple in her honour in Ephesus. Ephesus was the centre for the worship of Artemis.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Artemis",
+          "type": "deity",
+          "preferred_label": "Artemis",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132428,
+    "content_id": "132428",
     "reference_id": 108482,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Asa",
     "media_type": "Text",
     "index_reference": "asa",
@@ -764,13 +1344,29 @@
     "content": "<p>The son of Abijah and the father of Jehoshaphat. He was from the tribe of Judah. He was the third king of the southern kingdom of Judah. For many years he followed God faithfully. He led the people to worship only God. Later he stopped trusting God and started treating God’s people badly.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asa.2",
+          "type": "person",
+          "preferred_label": "Asa",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Asa",
+          "type": "person",
+          "preferred_label": "Asa",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132452,
+    "content_id": "132452",
     "reference_id": 108506,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Asaph",
     "media_type": "Text",
     "index_reference": "asaph",
@@ -779,13 +1375,50 @@
     "content": "<p>A Levite from the family line of Gershon. David appointed Asaph, his helpers and the sons from Asaph’s family line. David appointed them to be in charge of worship services. They led the people of Israel in praising God with songs of thanks. They prophesied, played instruments and wrote songs. Some of these songs are recorded in the book of Psalms.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Asaph.2",
+          "type": "person",
+          "preferred_label": "Asaph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Asaph.3",
+          "type": "person",
+          "preferred_label": "Asaph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Asaph.4",
+          "type": "person",
+          "preferred_label": "Asaph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Ebiasaph",
+          "type": "person",
+          "preferred_label": "Ebiasaph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Asaph",
+          "type": "person",
+          "preferred_label": "Asaph",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132375,
+    "content_id": "132375",
     "reference_id": 108429,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ashtoreth",
     "media_type": "Text",
     "index_reference": "ashtoreth",
@@ -794,13 +1427,22 @@
     "content": "<p>A goddess worshipped by many people groups in and around Canaan. She was also called Asherah, Astarte and Ishtar. She was worshipped as the mother of other male and female gods.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Ashtoreth",
+          "type": "deity",
+          "preferred_label": "Ashtoreth",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132059,
+    "content_id": "132059",
     "reference_id": 108113,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Asia Minor",
     "media_type": "Text",
     "index_reference": "asia minor",
@@ -809,13 +1451,22 @@
     "content": "<p>An area under Roman rule. It was the western part of the country now called Turkey. It wasn’t the continent now called Asia with countries like China, India and Russia. Paul travelled throughout Asia Minor.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:AsiaMinor",
+          "type": "place",
+          "preferred_label": "Asia Minor",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132439,
+    "content_id": "132439",
     "reference_id": 108493,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Assyria",
     "media_type": "Text",
     "index_reference": "assyria",
@@ -824,13 +1475,29 @@
     "content": "<p>A kingdom in Mesopotamia that lasted for thousands of years. It became a powerful government that ruled over many other nations and people groups. The capital city was Nineveh. Assyria took control of the northern kingdom of Israel in 722 BC. They forced the Israelites to leave their land and live far away in exile. Some of Assyria’s kings were Tiglath-Pilesar, Shalmaneser, Sargon and Sennacherib. Babylonian armies won an important battle over Assyria in 612 BC. Assyria was no longer powerful after that.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Assyria",
+          "type": "place",
+          "preferred_label": "Assyria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Assyria",
+          "type": "group",
+          "preferred_label": "Assyrians",
+          "confidence": 0.868,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132436,
+    "content_id": "132436",
     "reference_id": 108490,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Athaliah",
     "media_type": "Text",
     "index_reference": "athaliah",
@@ -839,13 +1506,36 @@
     "content": "<p>A granddaughter of Omri and the mother of Ahaziah. It’s thought that she was a daughter of Ahab and Jezebel. It’s thought that she married King Jehoram. Athaliah murdered the males in David’s family line who could have become king. She did this after Jehu killed her son Ahaziah. Only Joash was saved. Athaliah ruled as queen over the southern kingdom for six years. She led the people to worship Baal. She did many evil things. She was killed by palace guards.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Athaliah.2",
+          "type": "person",
+          "preferred_label": "Athaliah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Athaliah.3",
+          "type": "person",
+          "preferred_label": "Athaliah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Athaliah",
+          "type": "person",
+          "preferred_label": "Athaliah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132076,
+    "content_id": "132076",
     "reference_id": 108130,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Athens",
     "media_type": "Text",
     "index_reference": "athens",
@@ -854,13 +1544,22 @@
     "content": "<p>A very important Greek city in the Roman territory of Achaia. Paul visited it on his second journey. He shared the message of Jesus with the thinkers and leaders at the Areopagus. The Areopagus was a hill outside of Athens. There a council of Athenian leaders would meet and talk about important matters.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Athens",
+          "type": "place",
+          "preferred_label": "Athens",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132313,
+    "content_id": "132313",
     "reference_id": 108367,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Atone",
     "media_type": "Text",
     "index_reference": "atone",
@@ -877,7 +1576,8 @@
           "label": "Day of Atonement",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

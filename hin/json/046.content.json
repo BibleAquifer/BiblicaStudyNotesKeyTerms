@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 183205,
+    "content_id": "183205",
     "reference_id": 108311,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हठीला",
     "media_type": "Text",
     "index_reference": "हठीला",
@@ -11,13 +11,36 @@
     "content": "<p>लोगों का वर्णन करने का एक तरीका जो परमेश्‍वर<strong> </strong>की बात सुनने या उसका पालन करने से इनकार करते हैं। बाइबिल<span>&nbsp;</span>उन लोगों के उदाहरण देती है जो इस तरह बनने का चुनाव करते हैं। यह भी बताती है कि परमेश्‍वर<strong> </strong>लोगों को हठीला बना देते हैं। ऐसा फिरौन के साथ निर्गमन के दौरान हुआ। यह तब भी हुआ जब कनानी यहोशू की सेना पर हमला कर रहे थे। इसका मतलब यह नहीं है कि परमेश्‍वर कुछ लोगों को उसमें विश्वास न करने के लिए मजबूर करते हैं। फिरौन और कनानी सेनाओं ने दिखा दिया था कि वे परमेश्‍वर में विश्वास करने से इनकार करते हैं। वे यह सुनिश्चित करने के लिए दृढ़ थे कि परमेश्‍वर जो चाहते थे वह न हो। लेकिन परमेश्‍वर ने यह सुनिश्चित किया कि जो वह चाहते थे वह हो। उन्होंने उनकी हठ को अपने उद्देश्यों और योजनाओं को पूरा करने के तरीके के रूप में इस्तेमाल किया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hasadiah",
+          "type": "person",
+          "preferred_label": "हसद्याह",
+          "confidence": 0.8622,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hasupha",
+          "type": "person",
+          "preferred_label": "हसूपा",
+          "confidence": 0.8042,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hathach",
+          "type": "person",
+          "preferred_label": "हताक",
+          "confidence": 0.8036,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183117,
+    "content_id": "183117",
     "reference_id": 108223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हत्या",
     "media_type": "Text",
     "index_reference": "हत्या",
@@ -26,13 +49,14 @@
     "content": "<p>जानबूझकर और परमेश्वर की अनुमति के बिना किसी की हत्या करना। पुराने नियम में हत्या यही थी। यह ग़लत था और इसकी अनुमति नहीं थी। नूह के साथ परमेश्वर की वाचा और दस आज्ञाओं ने इसे स्पष्ट कर दिया। हत्या को किसी का खून ज़मीन पर गिराना बताया गया। उस लहू से भूमि अशुद्ध हो गई। इसने परमेश्वर को पुकारा। इसका मतलब यह था कि खून हत्यारे के खिलाफ गवाह था। इससे पता चला कि न्याय करने की जरूरत है। हत्यारे को मौत की सज़ा दी जानी थी। इससे लोगों और ज़मीन पर न्याय वापस आया। नए नियम में, यीशु ने सिखाया कि हत्या का मतलब किसी को मारने से कहीं अधिक है। किसी से नफरत करना हत्या करने जितना ही गंभीर पाप था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183063,
+    "content_id": "183063",
     "reference_id": 108169,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हनोक की पुस्तक",
     "media_type": "Text",
     "index_reference": "हनोक की पुस्तक",
@@ -41,13 +65,14 @@
     "content": "<p>यीशु के समय से पहले और बाद में ज्ञात एक यहूदी लेख। यह उत्पत्ति में वर्णित हनोक द्वारा नहीं लिखा गया था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183344,
+    "content_id": "183344",
     "reference_id": 108450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हन्ना",
     "media_type": "Text",
     "index_reference": "हन्ना",
@@ -56,13 +81,155 @@
     "content": "<p>भविष्यवक्ता शमूएल की माँ। एल्काना उनके पति थे। लंबे समय तक वह बच्चे पैदा करने के योग्य नहीं थी। फिर परमेश्वर ने उन्हें गर्भवती होने के योग्य किया। धन्यवाद से भरी हुई, उन्होंने एक सुंदर प्रार्थना की कि परमेश्वर अपने लोगों की देखभाल करते है।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Annas",
+          "type": "person",
+          "preferred_label": "हन्ना",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hannah",
+          "type": "person",
+          "preferred_label": "हन्ना",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hena",
+          "type": "place",
+          "preferred_label": "हेना",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Anna",
+          "type": "person",
+          "preferred_label": "हन्नाह",
+          "confidence": 0.8539,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan",
+          "type": "person",
+          "preferred_label": "हानान",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.2",
+          "type": "person",
+          "preferred_label": "हानान",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.3",
+          "type": "person",
+          "preferred_label": "हानान",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.4",
+          "type": "person",
+          "preferred_label": "हानान",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.5",
+          "type": "person",
+          "preferred_label": "हानान",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.6",
+          "type": "person",
+          "preferred_label": "हानान",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.7",
+          "type": "person",
+          "preferred_label": "हानान",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.8",
+          "type": "person",
+          "preferred_label": "हानान",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.9",
+          "type": "person",
+          "preferred_label": "हानान",
+          "confidence": 0.8412,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jannai",
+          "type": "person",
+          "preferred_label": "यन्ना",
+          "confidence": 0.8232,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanani",
+          "type": "person",
+          "preferred_label": "हनानी",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanani.2",
+          "type": "person",
+          "preferred_label": "हनानी",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanani.3",
+          "type": "person",
+          "preferred_label": "हनानी",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanani.4",
+          "type": "person",
+          "preferred_label": "हनानी",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanani.5",
+          "type": "person",
+          "preferred_label": "हनानी",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Peninnah",
+          "type": "person",
+          "preferred_label": "पनिन्ना",
+          "confidence": 0.8052,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183099,
+    "content_id": "183099",
     "reference_id": 108205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हव्वा",
     "media_type": "Text",
     "index_reference": "हव्वा",
@@ -71,13 +238,22 @@
     "content": "<p>दूसरा मानव जिसे परमेश्वर ने बनाया और पहली महिला। आदम उसके पति थे। इब्रानी भाषा में हव्वा का मतलब जीवन होता है। परमेश्वर ने हव्वा को आदम की एक पसली से बनाया। जब वह अदन के बगीचे में रहती थी, तब वह परमेश्वर के साथ मित्रता और शांति में थी। उसने आदम के साथ मिलकर बगीचे की देखभाल की। वह कैन, हाबिल और शेत की माँ थी। जब आदम और हव्वा ने परमेश्वर की आज्ञा का पालन करना बंद कर दिया, तो उन्हें अदन के वाटिका से बाहर जाना पड़ा।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eve",
+          "type": "person",
+          "preferred_label": "हव्वा",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183404,
+    "content_id": "183404",
     "reference_id": 108510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हाग्गै",
     "media_type": "Text",
     "index_reference": "हाग्गै",
@@ -86,13 +262,64 @@
     "content": "<p>यहूदा में एक भविष्यवक्ता थे, जब फारस सरकार का शासन था। उन्होंने यहोशू और जरुब्बाबेल को मंदिर का पुनर्निर्माण करने के लिए प्रोत्साहित किया। उनकी भविष्यवाणियाँ हाग्गै की पुस्तक में दर्ज हैं।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haggai",
+          "type": "person",
+          "preferred_label": "हाग्गै",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggi",
+          "type": "person",
+          "preferred_label": "हाग्गी",
+          "confidence": 0.9328,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gehazi",
+          "type": "person",
+          "preferred_label": "गेहजी",
+          "confidence": 0.885,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggiah",
+          "type": "person",
+          "preferred_label": "हग्गिय्याह",
+          "confidence": 0.8518,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Giah",
+          "type": "place",
+          "preferred_label": "गीह",
+          "confidence": 0.8305,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hegai",
+          "type": "person",
+          "preferred_label": "हेगे",
+          "confidence": 0.8148,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hagri",
+          "type": "person",
+          "preferred_label": "हग्री",
+          "confidence": 0.8066,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183153,
+    "content_id": "183153",
     "reference_id": 108259,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हाजिरा",
     "media_type": "Text",
     "index_reference": "हाजिरा",
@@ -101,13 +328,14 @@
     "content": "<p>मिस्र से एक दासी जो सारा की सेवा करती थी। जब सारा को सन्तान न हुई, तो उसने हाजिरा को अब्राहम के साथ सुला दिया। इसके बाद हाजिरा ने अब्राहम  के पुत्र इश्माएल को जन्म दिया। सारा ने हाजिरा के साथ बुरा व्यवहार किया। उसे और इश्माएल को निकाल दिया गया। परन्तु परमेश्वर ने जंगल में उनकी सुधि ली।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183000,
+    "content_id": "183000",
     "reference_id": 108106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हाथ रखें",
     "media_type": "Text",
     "index_reference": "हाथ रखें",
@@ -116,13 +344,14 @@
     "content": "<p>कई बार यीशु ने लोगों को अपने हाथों से छूकर चंगा किया और आशीर्वाद दिया। विश्वासियों ने उनके उदाहरण का पालन किया। लोगों पर हाथ रखना विशिष्ट कारणों से एक सामान्य प्रथा बन गई। इनमें नए विश्वासियों के लिए पवित्र आत्मा प्राप्त करने के लिए प्रार्थना करना शामिल था। इनमें विश्वासियों के लिए पवित्र आत्मा का वरदान प्राप्त करने के लिए प्रार्थना करना शामिल था। इनमें लोगों को चंगा करना और उन्हें अगुओं के रूप में सेवा करने के लिए अलग करना शामिल था। किसी पर हाथ रखना उनके प्रति परमेश्‍वर के प्रेम और देखभाल को दिखाने का एक तरीका था। किसी पर हाथ रखने से कोई जादू नहीं होता था। जो आशीश आते थे वे विश्वासियों के माध्यम से काम कर रहे पवित्र आत्मा से आते थे।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183122,
+    "content_id": "183122",
     "reference_id": 108228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हानोक",
     "media_type": "Text",
     "index_reference": "हानोक",
@@ -131,13 +360,50 @@
     "content": "<p>शेत के वंश में येरेद का पुत्र और मतूशेलह का पिता।। वह परमेश्वर के प्रति वफादार था। वह अन्य लोगों की तरह नहीं मरा और न ही दफनाया गया। परमेश्वर ने उसे पृथ्वी से उठा लिया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Enoch",
+          "type": "person",
+          "preferred_label": "हनोक",
+          "confidence": 0.9695,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Enoch.2",
+          "type": "person",
+          "preferred_label": "हनोक",
+          "confidence": 0.9695,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanoch",
+          "type": "person",
+          "preferred_label": "हनोक",
+          "confidence": 0.9695,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanoch.2",
+          "type": "person",
+          "preferred_label": "हनोक",
+          "confidence": 0.9695,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Hanoch",
+          "type": "group",
+          "preferred_label": "हनोकियों",
+          "confidence": 0.8209,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183115,
+    "content_id": "183115",
     "reference_id": 108221,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हाबिल",
     "media_type": "Text",
     "index_reference": "हाबिल",
@@ -146,13 +412,29 @@
     "content": "<p>आदम और हव्वा का दूसरा बेटा। वह एक चरवाहा था। उसने एक भेंट चढ़ाई जिसको परमेश्वर ने ग्रहण किया। उसके भाई कैन ने उसे मार डाला, हालांकि उसने कुछ भी गलत नहीं किया था। बाइबल में हाबिल के खून के बारे में बताया गया है जो भूमि पर से परमेश्वर को पुकार रहा था। इसका अर्थ था कि परमेश्वर को न्याय करना था क्योंकि हाबिल की हत्या कर दी गई थी।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Abel",
+          "type": "person",
+          "preferred_label": "हाबिल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Abel",
+          "type": "place",
+          "preferred_label": "हाबिल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183136,
+    "content_id": "183136",
     "reference_id": 108242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हाम",
     "media_type": "Text",
     "index_reference": "हाम",
@@ -161,13 +443,43 @@
     "content": "<p>नूह का सबसे छोटा बेटा। वह और उसकी पत्नी बाढ़ से बच गए क्योंकि वे जहाज में थे। बाढ़ के बाद जब नूह नशे में थें, तो उसने अपने पिता के साथ सम्मान से व्यवहार नहीं किया। इस कारण, नूह ने हाम के परिवार के एक हिस्से पर आशीष की जगह शाप दिया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ham",
+          "type": "person",
+          "preferred_label": "हाम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ham.2",
+          "type": "place",
+          "preferred_label": "हाम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoham",
+          "type": "person",
+          "preferred_label": "होहाम",
+          "confidence": 0.8727,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jalam",
+          "type": "person",
+          "preferred_label": "यालाम",
+          "confidence": 0.801,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183415,
+    "content_id": "183415",
     "reference_id": 108521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हामान",
     "media_type": "Text",
     "index_reference": "हामान",
@@ -176,13 +488,64 @@
     "content": "<p><span>क्षयर्ष</span> के समय में फारस सरकार में एक अगुवा। वह अगाग अमालेकी के परिवार से था। इसका मतलब था कि हामान एक ऐसे लोगों के समूह से था जिसने इस्राएलियों के साथ बुरा व्यवहार किया था। हामान ने फारस के साम्राज्य में सभी यहूदियों को नष्ट करने की योजना बनाई। <span>क्षयर्ष</span> ने उसे मौत के घाट उतार दिया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haman",
+          "type": "person",
+          "preferred_label": "हामान",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman",
+          "type": "person",
+          "preferred_label": "हेमान",
+          "confidence": 0.943,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman.2",
+          "type": "person",
+          "preferred_label": "हेमान",
+          "confidence": 0.943,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman.3",
+          "type": "person",
+          "preferred_label": "हेमान",
+          "confidence": 0.943,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hemam",
+          "type": "person",
+          "preferred_label": "हेमाम",
+          "confidence": 0.835,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hemdan",
+          "type": "person",
+          "preferred_label": "हेमदान",
+          "confidence": 0.8154,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jalam",
+          "type": "person",
+          "preferred_label": "यालाम",
+          "confidence": 0.8088,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183203,
+    "content_id": "183203",
     "reference_id": 108309,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हारून की चलने वाली लाठी",
     "media_type": "Text",
     "index_reference": "हारून की चलने वाली लाठी",
@@ -191,13 +554,14 @@
     "content": "<p>लाठी जिसे हारून ने तब इस्तेमाल किया जब  परमेश्वर ने उसके माध्यम से चमत्कार और अद्भुत कार्य किए। बाद में, परमेश्वर ने उसमें कलियाँ, फूल और बादाम उगाये। इससे पता चला कि परमेश्वर ने हारून के वंश को अपने याजक के रूप में सेवा करने के लिए चुना था। हारून की लाठी को वाचा के सन्दूक में रखा गया था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183390,
+    "content_id": "183390",
     "reference_id": 108496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हिजकिय्याह",
     "media_type": "Text",
     "index_reference": "हिजकिय्याह",
@@ -206,13 +570,64 @@
     "content": "<p>आहाज और अबी का पुत्र। वह मनश्शे का पिता था और यहूदा के गोत्र से था। वह यहूदा के दक्षिणी राज्य का बारहवां राजा था। जब वह राजा था, तब परमेश्वर ने अश्शूरियों से यरूशलेम को बचाने के लिए एक चमत्कार किया। हिजकिय्याह ने सच्चे मन से परमेश्वर अनुसरण किया और लोगों को केवल परमेश्वर की उपासना करने के लिए प्रेरित किया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "हिजकिय्याह",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.2",
+          "type": "person",
+          "preferred_label": "हिजकिय्याह",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.3",
+          "type": "person",
+          "preferred_label": "हिजकिय्याह",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.4",
+          "type": "person",
+          "preferred_label": "हिजकिय्याह",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hizkiah",
+          "type": "person",
+          "preferred_label": "हिजकिय्याह",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hizki",
+          "type": "person",
+          "preferred_label": "हिजकी",
+          "confidence": 0.8614,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggiah",
+          "type": "person",
+          "preferred_label": "हग्गिय्याह",
+          "confidence": 0.8125,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183321,
+    "content_id": "183321",
     "reference_id": 108427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हिब्बी",
     "media_type": "Text",
     "index_reference": "हिब्बी",
@@ -221,13 +636,14 @@
     "content": "<p>कनान में रहने वाला एक जनसमूह। वे हाम के पुत्र कनान के वंशज थे। परमेश्वर ने इस्राएलियों से कहा कि वे उन्हें कनान से बाहर निकाल दें क्योंकि यह उनके खिलाफ परमेश्वर का न्याय था। यहोशू को गिबोन में रहने वाले हिब्बियों के साथ शांति की वाचा बंधने के लिए धोखा दिया गया था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183313,
+    "content_id": "183313",
     "reference_id": 108419,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हृदय",
     "media_type": "Text",
     "index_reference": "हृदय",
@@ -236,13 +652,22 @@
     "content": "<p>बाइबल में ह्रदय शब्द के दो अर्थ हैं। पहला अर्थ शरीर का वह हिस्सा है जो छाती के अंदर धड़कता है। दूसरा अर्थ लोगों का एक आत्मिक हिस्सा, जहां वे अपनी भावनाओं को महसूस करते हैं। यह वह जगह है जहाँ वे यह निर्णय लेते हैं कि क्या करना है और किसकी उपासना करनी है। परमेश्वर प्रत्येक व्यक्ति के हृदय को जानते हैं। वह जानते हैं कि वे क्या सोचते और महसूस करते हैं और वे अपने निर्णय क्यों लेते हैं। परमेश्वर के लोगों को पूरे हृदय से परमेश्वर की सेवा करनी चाहिए। इसका मतलब है कि उन्हें पूरी तरह से परमेश्वर के तरीकों के अनुसार जीने के लिए प्रतिबद्ध होना चाहिए।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Heart",
+          "type": "keyterm",
+          "preferred_label": "Heart",
+          "confidence": 0.8783,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183033,
+    "content_id": "183033",
     "reference_id": 108139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हेरोद अग्रिप्पा द्वितीय",
     "media_type": "Text",
     "index_reference": "हेरोद अग्रिप्पा द्वितीय",
@@ -251,13 +676,14 @@
     "content": "<p>प्रेरितों अध्‍याय 25 और 26 के राजा अग्रिप्पा। वह हेरोदेस अग्रिप्पा I का पुत्र था। ऐसा माना जाता है कि उसकी बहन बिरनीके उसके साथ पत्नी के रूप में रहती थी।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 182956,
+    "content_id": "182956",
     "reference_id": 108062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हेरोदियों",
     "media_type": "Text",
     "index_reference": "हेरोदियों",
@@ -266,13 +692,29 @@
     "content": "<p>महान हेरोदेस के परिवार की वंशावली के शासकों के समर्थक।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Herodian",
+          "type": "group",
+          "preferred_label": "हेरोदियों",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "हेरोदियास",
+          "confidence": 0.8125,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183004,
+    "content_id": "183004",
     "reference_id": 108110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हेरोदेस अग्रिप्पा I",
     "media_type": "Text",
     "index_reference": "हेरोदेस अग्रिप्पा I",
@@ -281,13 +723,14 @@
     "content": "<p>प्रेरितों के काम अध्याय 12 के राजा हेरोदेस। वह महान हेरोदेस का पोता था। वह हेरोदेस अन्तिपास का भतीजा भी था। वह हेरोदेस अग्रिप्पा II का पिता था। उसकी दो बेटियाँ बिरनिके और ड्रुसिला थीं।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 182951,
+    "content_id": "182951",
     "reference_id": 108057,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "हेरोदेस अन्तिपास",
     "media_type": "Text",
     "index_reference": "हेरोदेस अन्तिपास",
@@ -296,13 +739,14 @@
     "content": "<p>मत्ती अध्याय 14, मरकुस अध्याय 6, और लूका अध्याय 3, 9 और 23 के हेरोदेस। वह महान हेरोदेस का पुत्र था। उसने यीशु के समय में गलील और पेरिया पर शासन किया। पेरिया यरदन नदी के पूर्व में था। उसने अपने भाई <span>फिलिप्पुस</span> की पत्नी से विवाह किया। उसका नाम <span>हेरोदियास</span> था। हेरोदेस अन्तिपास ने युहन्ना बपतिस्मा देने वाले को मरवा दिया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183281,
+    "content_id": "183281",
     "reference_id": 108387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "होबाब",
     "media_type": "Text",
     "index_reference": "होबाब",
@@ -311,13 +755,85 @@
     "content": "<p>मूसा का साला। वह रुएल का पुत्र था जिसे यित्रो भी कहा जाता था। होबाब मूसा की पत्नी सिप्पोरा का भाई था। वह केनी लोगों के समूह का हिस्सा था। वह इस्राएलियों के साथ सीनै पर्वत से कनान तक की यात्रा में रहा। वह रेगिस्तान में उनका मार्गदर्शक था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hobab",
+          "type": "person",
+          "preferred_label": "होबाब",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hobah",
+          "type": "place",
+          "preferred_label": "होबा",
+          "confidence": 0.9095,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Habaiah",
+          "type": "person",
+          "preferred_label": "हबायाह",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab",
+          "type": "person",
+          "preferred_label": "योबाब",
+          "confidence": 0.808,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.2",
+          "type": "person",
+          "preferred_label": "योबाब",
+          "confidence": 0.808,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.3",
+          "type": "person",
+          "preferred_label": "योबाब",
+          "confidence": 0.808,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.4",
+          "type": "person",
+          "preferred_label": "योबाब",
+          "confidence": 0.808,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.5",
+          "type": "person",
+          "preferred_label": "योबाब",
+          "confidence": 0.808,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hagab",
+          "type": "person",
+          "preferred_label": "हागाब",
+          "confidence": 0.8068,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Habor",
+          "type": "place",
+          "preferred_label": "हाबोर",
+          "confidence": 0.8044,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183244,
+    "content_id": "183244",
     "reference_id": 108350,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "होमबली",
     "media_type": "Text",
     "index_reference": "होमबली",
@@ -326,13 +842,14 @@
     "content": "<p>स्वच्छ नर जानवरों या पक्षियों की बलि या भेंट जो लोग देने का चयन करते थे। त्वचा को छोड़कर पूरे जानवर को जलाया जाता था। यह इस बात का संकेत था कि बलि देने वाला व्यक्ति पूरी तरह से परमेश्वर के प्रति समर्पित था। कुछ निश्चित समय थे जब होमबलि देनी पड़ती थी। लोग अन्य समय पर भी होमबलि दे सकते थे जब वे चाहते थे। होमबलि के दौरान तुरहियां बजाई जाती थीं।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183464,
+    "content_id": "183464",
     "reference_id": 108570,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "होशे",
     "media_type": "Text",
     "index_reference": "होशे",
@@ -341,7 +858,37 @@
     "content": "<p>इस्राएल के उत्तरी राज्य में एक भविष्यवक्ता। उन्होंने राजा यारोबाम द्वितीय के समय में भविष्यवाणी की। उन्होंने तब तक भविष्यवाणी की जब तक उत्तरी राज्य को अश्शुर द्वारा नष्ट नहीं कर दिया गया। उनकी भविष्यवाणियाँ होशे की पुस्तक में दर्ज हैं।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hosea",
+          "type": "person",
+          "preferred_label": "होशे",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshaiah",
+          "type": "person",
+          "preferred_label": "होशायाह",
+          "confidence": 0.8314,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshaiah.2",
+          "type": "person",
+          "preferred_label": "होशायाह",
+          "confidence": 0.8314,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hushai",
+          "type": "person",
+          "preferred_label": "हूशै",
+          "confidence": 0.8258,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

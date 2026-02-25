@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 193319,
+    "content_id": "193319",
     "reference_id": 108237,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Завет",
     "media_type": "Text",
     "index_reference": "завет",
@@ -11,13 +11,14 @@
     "content": "<p>Соглашение или договор между двумя сторонами. Одна из сторон обладала большей властью, чем другая. Сторона с меньшей властью получала награду за соблюдение соглашения или завета. Наградой назывались благословения завета, а последствия нарушения соглашения или завета <span>— проклятиями завета.</span> Обычно стороны, заключающие завет, разделяли совместную трапезу или приносили жертву. Обе стороны записывали своё соглашение перед свидетелями, и каждая сторона хранила у себя его копию. Именно так заветы вступали в силу. В Библии заветы обычно заключались между Богом и Его народом.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193335,
+    "content_id": "193335",
     "reference_id": 108253,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Завет с Авраамом",
     "media_type": "Text",
     "index_reference": "завет с авраамом",
@@ -26,13 +27,14 @@
     "content": "<p>Бог избрал Авраама и его семью для осуществления Своего плана спасения мира. Бог показал Свои намерения, заключив с Авраамом завет. Авраам был ответственен за исполнение определённых условий завета. Он должен был покинуть свою родину и народ. Он должен был отправиться в землю Ханаан. Он должен был быть верным Богу. Все мужчины в его семье должны были быть обрезаны. Обрезание было символом завета. Со своей стороны Бог обещал выполнить условия, а именно дать Аврааму и его жене Сарре сына. Бог обещал благословить потомков Авраама, которые произойдут от его сына, и сделать их великим народом. Бог обещал дать им во владение Ханаанскую землю. Бог обещал благословить Авраама и его семью во многих отношениях. Через них Бог благословит все народы, живущие на земле. Бог обещал быть всегда верным Своему завету с семьей Авраама. Иисус был потомком Авраама. Все люди и народы, живущие на земле, получили благословение через Иисуса. Так полностью исполнилось Божье обещание, данное Аврааму.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193548,
+    "content_id": "193548",
     "reference_id": 108466,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Завет с Давидом",
     "media_type": "Text",
     "index_reference": "завет с давидом",
@@ -49,13 +51,14 @@
           "label": "Давид",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193320,
+    "content_id": "193320",
     "reference_id": 108238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Завет с Ноем",
     "media_type": "Text",
     "index_reference": "завет с ноем",
@@ -64,13 +67,14 @@
     "content": "<p>Бог избрал Ноя и его семью для осуществления Своего плана спасения мира. Бог показал Свои намерения, заключив с Ноем и его потомками завет. Завет был заключён со всеми, кто находились в ковчеге. Люди и животные должны были населить землю. Люди не должны были убивать друг друга. Бог пообещал, что Он больше не будет проклинать землю и не уничтожать её потопом. Радуга <span>была знаком заключённого</span> завета.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193525,
+    "content_id": "193525",
     "reference_id": 108443,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Завулон",
     "media_type": "Text",
     "index_reference": "завулон",
@@ -79,13 +83,29 @@
     "content": "<p>Завулон был шестым сыном Иакова и Лии. С древнееврейского языка его имя переводится как <span>«честь и хвала». Потомки Завулона стали одним из колен Израиля. </span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Zebulun",
+          "type": "group",
+          "preferred_label": "Завулон",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zebulun",
+          "type": "person",
+          "preferred_label": "Завулон",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193417,
+    "content_id": "193417",
     "reference_id": 108335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Закон Моисея",
     "media_type": "Text",
     "index_reference": "закон моисея",
@@ -109,13 +129,14 @@
           "label": "Десять заповедей",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193229,
+    "content_id": "193229",
     "reference_id": 108147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Закон Христов",
     "media_type": "Text",
     "index_reference": "закон христов",
@@ -124,13 +145,14 @@
     "content": "<p><span>Д</span>анное выражение используется для того, чтобы сказать, как подражать Иисусу в жизни. Иисус заповедал Своим ученикам любить Бога всем сердцем, душой, силой и разумением. Он заповедал любить ближнего, как самого себя (Лк.10:27). Своей жизнью Иисус показывал людям, как жить по этим заповедям. Он любил Бога-Отца и был Ему послушен. Он принёс Себя в жертву ради блага других людей и отказался от Своих прав, чтобы спасти мир. Он служил людям, чтобы показать им, как сильно их любит Бог.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193130,
+    "content_id": "193130",
     "reference_id": 108048,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Законники",
     "media_type": "Text",
     "index_reference": "законники",
@@ -139,13 +161,14 @@
     "content": "<p>Это иудейские мужчины, которые на протяжении всей своей жизни изучали Ветхий Завет и другие еврейские тексты. Законники имели право обучать других людей тому, что знали сами. Обычно народ относился к учителям закона с большим уважением и высоко ценил их труд. Большинство законников выступало против учения и служения Иисуса.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193444,
+    "content_id": "193444",
     "reference_id": 108362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Законы в Книге Левит",
     "media_type": "Text",
     "index_reference": "законы в книге левит",
@@ -154,13 +177,14 @@
     "content": "<p><span>Бог дал Моисею и Аарону постановления и законы о том, как следует поступать каждому человеку, принадлежавшему к израильскому обществу. Многие из тех постановлений касались образа жизни людей того времени. Законы должны были помочь народу Израиля лучше узнать Бога. Они также помогали людям принимать верные и мудрые решения, связанные с повседневными проблемами. Божий народ должен был принимать такие решения, которые полностью соответствовали бы Божье воле.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193593,
+    "content_id": "193593",
     "reference_id": 108511,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Захария, пророк",
     "media_type": "Text",
     "index_reference": "захария, пророк",
@@ -169,13 +193,14 @@
     "content": "<p><span>Захария был иудейским пророком и священником во времена Персидской империи. Он происходил их колена Левия, и его отцом был Варахий. Захария вдохновил Зоровавеля и Иисуса сына Иоседека на восстановление Храма. Видения и пророчества Захарии записаны в Книге пророка Захарии. Его не следует путать с новозаветным Захарией, который был отцом Иоанна Крестителя.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193162,
+    "content_id": "193162",
     "reference_id": 108080,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Захария, священник",
     "media_type": "Text",
     "index_reference": "захария, священник",
@@ -184,13 +209,14 @@
     "content": "<p>Захария был отцом Иоанна Крестителя и священником из колена Левия, из рода Аарона. Его женой была Елисавета. Захария произнёс прекрасное пророчество после того, как у него родился Иоанн Креститель.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193530,
+    "content_id": "193530",
     "reference_id": 108448,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Защитник семьи (искупитель)",
     "media_type": "Text",
     "index_reference": "защитник семьи (искупитель)",
@@ -199,13 +225,14 @@
     "content": "<p>Близкий родственник мужского пола, который нёс ответственность за помощь нуждающимся членам семьи. Такого родственника часто называли искупитель. Родственник мог оплачивать долги бедных членов семьи. Он мог выкупить имущество, которое те продали. Он мог заплатить за их освобождение или их детей из рабства (Исх. 21:1–11). Этот человек мог также выполнять обязанности шурина и помогать вдове своего умершего брата. Такой родственник был <span>примером того, как Бог заботился об Израиле.</span> Спасая Свой народ, находящийся в бедственном положении, Бог поступал как искупитель. Защитник семьи был прообразом Иисуса. Иисус похожим образом спасает грешников, находящихся в нужде. Он искупает тех, кто доверяет Ему, выкупает от власти зла, греха и смерти.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193372,
+    "content_id": "193372",
     "reference_id": 108290,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Зелфа",
     "media_type": "Text",
     "index_reference": "зелфа",
@@ -222,13 +249,22 @@
           "label": "Наложницы",
           "language": "rus"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zilpah",
+          "type": "person",
+          "preferred_label": "Зелфа",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 193328,
+    "content_id": "193328",
     "reference_id": 108246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Земля Ханаан",
     "media_type": "Text",
     "index_reference": "земля ханаан",
@@ -237,13 +273,197 @@
     "content": "<p>Территория, расположенная между Средиземным морем и рекой Иордан. На юге она доходила до Синайской пустыни, а на севере — до реки Евфрат. Народы, населявшие эту землю до израильтян, назывались хананеями. Многие из них были потомками Ханаана, сына Хама. Среди них были хетты, иевусеи, евеи и аморреи. Некоторые хананеи признали Бога иудеев истинным, они помогали Божьему народу и присоединялись к нему. Другие отказались поклоняться одному только Богу. Они враждовали с израильским народом, за что Бог произвёл над ними суд. Земля Ханаан занимала территорию современного Израиля, Палестины, Ливана и часть Сирии. Бог пообещал отдать эту землю потомкам Авраама. После того как евреи вышли из Египта, они поселились на этой земле.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Canaan",
+          "type": "person",
+          "preferred_label": "Ханаан",
+          "confidence": 0.8848,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Ханаан",
+          "confidence": 0.8848,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan",
+          "type": "person",
+          "preferred_label": "Ханан",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.2",
+          "type": "person",
+          "preferred_label": "Ханан",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.3",
+          "type": "person",
+          "preferred_label": "Ханан",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.4",
+          "type": "person",
+          "preferred_label": "Ханан",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.5",
+          "type": "person",
+          "preferred_label": "Ханан",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.6",
+          "type": "person",
+          "preferred_label": "Ханан",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.7",
+          "type": "person",
+          "preferred_label": "Ханан",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.8",
+          "type": "person",
+          "preferred_label": "Ханан",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.9",
+          "type": "person",
+          "preferred_label": "Ханан",
+          "confidence": 0.802,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.10",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.11",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.12",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.13",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.14",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.15",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.2",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.3",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.4",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.5",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.6",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.7",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.8",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hananiah.9",
+          "type": "person",
+          "preferred_label": "Ханания",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193300,
+    "content_id": "193300",
     "reference_id": 108218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Злые духи",
     "media_type": "Text",
     "index_reference": "злые духи",
@@ -260,13 +480,14 @@
           "label": "Дьявол",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193264,
+    "content_id": "193264",
     "reference_id": 108182,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Золотой жертвенник",
     "media_type": "Text",
     "index_reference": "золотой жертвенник",
@@ -283,13 +504,14 @@
           "label": "Жертвенник",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193423,
+    "content_id": "193423",
     "reference_id": 108341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Золотой телец",
     "media_type": "Text",
     "index_reference": "золотой телец",
@@ -306,7 +528,8 @@
           "label": "Идолы",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

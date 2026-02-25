@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 183009,
+    "content_id": "183009",
     "reference_id": 108115,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इकुनियुम",
     "media_type": "Text",
     "index_reference": "इकुनियुम",
@@ -11,13 +11,22 @@
     "content": "<p>आसिया में गलतिया के रोमी क्षेत्र में एक शहर। पौलुस ने यीशु के बारे में सुसमाचार साझा करने के लिए अपनी तीनो यात्राओं पर इसका दौरा किया।। माना जाता है कि पौलुस का गलतिया कि कलीसिया को लिखा गया पत्र वहाँ की कलीसिया में पढ़ा गया था।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Iconium",
+          "type": "place",
+          "preferred_label": "इकुनियुम",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183026,
+    "content_id": "183026",
     "reference_id": 108132,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इपिकूरीयों",
     "media_type": "Text",
     "index_reference": "इपिकूरीयों",
@@ -26,13 +35,14 @@
     "content": "<p>यूनानी विचारक इपिकूरी की शिक्षाओं का पालन करने वाले विचारकों का एक समूह था। उनका मानना था कि जीवन का लक्ष्य पूर्ण शांति प्राप्त करना है। वे पूर्ण शांति प्राप्त कर सकते है जब उनके पास वह सब कुछ होता जिसकी उन्हें वास्तव में आवश्यकता है। तब वे किसी भी चीज़ की चिंता नहीं करते। उनका यह भी मानना था कि मृत्यु के बाद कोई जीवन नहीं है। पौलुस ने एथेंस में इपिकूरीयों के साथ यीशु के बारे में सुसमाचार साझा किया।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183029,
+    "content_id": "183029",
     "reference_id": 108135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इफिसुस",
     "media_type": "Text",
     "index_reference": "इफिसुस",
@@ -41,13 +51,29 @@
     "content": "<p>एशिया के रोमी क्षेत्र की राजधानी। देवी अरतिमिस की उपासना इफिसुस में मुख्य धर्म था। पौलुस ने अपनी दूसरी और तीसरी यात्राओं में इस शहर का दौरा किया। उन्होंने वहां कलीसिया की मदद करते हुए दो साल बिताए।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "इफिसुस",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Ephesus",
+          "type": "group",
+          "preferred_label": "इफिसी",
+          "confidence": 0.8241,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183426,
+    "content_id": "183426",
     "reference_id": 108532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इब्रानी",
     "media_type": "Text",
     "index_reference": "इब्रानी",
@@ -71,13 +97,14 @@
           "label": "यहूदी",
           "language": "hin"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 183432,
+    "content_id": "183432",
     "reference_id": 108538,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इम्मानुएल",
     "media_type": "Text",
     "index_reference": "इम्मानुएल",
@@ -86,13 +113,14 @@
     "content": "<p>इब्रानी भाषा में एक नाम जिसका अर्थ है परमेश्वर हमारे साथ है। राजा आहाज के समय में, यशायाह ने इम्मानुएल नामक एक लड़के के बारे में भविष्यवाणी की थी। वह एक संकेत होगा कि परमेश्वर दक्षिणी राज्य के साथ हैं। यह बालक एक संकेत था कि दक्षिणी राज्य बच जाएगा। वे उन दुश्मन सेनाओं से बच जाएंगे जिन्होंने उन पर हमला किया था। यशायाह की भविष्यवाणी का भविष्य के लिए भी एक अर्थ था। मत्ती ने अपने सुसमाचार में इसके बारे में लिखा। यीशु के माध्यम से, परमेश्वर  लोगों के साथ एक मनुष्य रूप में थे। यीशु वह इम्मानुएल है जो परमेश्वर के लोगों को पाप और मृत्यु जैसे शत्रुओं से बचाता है।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 183156,
+    "content_id": "183156",
     "reference_id": 108262,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इश्माएल",
     "media_type": "Text",
     "index_reference": "इश्माएल",
@@ -101,13 +129,71 @@
     "content": "<p>सारा की दासी हाजिरा से अब्राहम का बेटा। इश्माएल वह बेटा नहीं था जिसका वादा परमेश्वर ने अब्राहम से किया था। लेकिन परमेश्वर ने इश्माएल का ख्याल रखा और वह भी 12 गोत्रों का पिता बना।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "इश्माएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.2",
+          "type": "person",
+          "preferred_label": "इश्माएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.3",
+          "type": "person",
+          "preferred_label": "इश्माएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.4",
+          "type": "person",
+          "preferred_label": "इश्माएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.5",
+          "type": "person",
+          "preferred_label": "इश्माएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.6",
+          "type": "person",
+          "preferred_label": "इश्माएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Ishmael",
+          "type": "group",
+          "preferred_label": "इश्माएली",
+          "confidence": 0.9171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jesimiel",
+          "type": "person",
+          "preferred_label": "यसीमीएल",
+          "confidence": 0.8181,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183155,
+    "content_id": "183155",
     "reference_id": 108261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इसहाक",
     "media_type": "Text",
     "index_reference": "इसहाक",
@@ -116,13 +202,36 @@
     "content": "<p>वह पुत्र, जिसका वादा परमेश्वर ने अब्राहम से किया था, जो उसकी पत्नी सारा से था। इसहाक ने रिबका से विवाह किया और याकूब और एसाव का पिता था। इब्रानी भाषा में, इसहाक का अर्थ है, हँसी। परमेश्वर ने अब्राहम के साथ अपनी वाचा को इसहाक के माध्यम से जारी रखा।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "इसहाक",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishbak",
+          "type": "person",
+          "preferred_label": "यिशबाक",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ikkesh",
+          "type": "person",
+          "preferred_label": "इक्केश",
+          "confidence": 0.8042,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 183174,
+    "content_id": "183174",
     "reference_id": 108280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "इस्राएल",
     "media_type": "Text",
     "index_reference": "इस्राएल",
@@ -138,6 +247,43 @@
           "resource_code": "BiblicaStudyNotesKeyTerms",
           "label": "सीनै पहाड़ की वाचा",
           "language": "hin"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "इस्राएल",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Israel",
+          "type": "group",
+          "preferred_label": "इस्राएली",
+          "confidence": 0.9433,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Israel",
+          "type": "place",
+          "preferred_label": "Israel",
+          "confidence": 0.9086,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asriel",
+          "type": "person",
+          "preferred_label": "अस्रीएल",
+          "confidence": 0.8244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Asriel.2",
+          "type": "person",
+          "preferred_label": "अस्रीएल",
+          "confidence": 0.8244,
+          "match_method": "embedding"
         }
       ]
     }

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132242,
+    "content_id": "132242",
     "reference_id": 108296,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Vision",
     "media_type": "Text",
     "index_reference": "vision",
@@ -18,6 +18,15 @@
           "resource_code": "BiblicaStudyNotesKeyTerms",
           "label": "Heavenly world",
           "language": "eng"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Vision",
+          "type": "keyterm",
+          "preferred_label": "Vision",
+          "confidence": 1.0,
+          "match_method": "embedding"
         }
       ]
     }

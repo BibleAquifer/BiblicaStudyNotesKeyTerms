@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133586,
+    "content_id": "133586",
     "reference_id": 108334,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tabernacle",
     "media_type": "Text",
     "index_reference": "tabernacle",
@@ -11,13 +11,22 @@
     "content": "<p>La tente dans laquelle Dieu a vécu parmi les Israélites après leur départ d&apos;Égypte. C&apos;est là qu&apos;il parlait avec Moïse et avec le peuple d&apos;Israël. Dieu a donné à Moïse des instructions claires sur la façon de la construire. La tente sainte comprenait l&apos;arche de l&apos;alliance et un autel pour l&apos;encens. Elle comprenait des chandeliers et une table pour le pain sacré. Elle comprenait un autel pour les sacrifices et une cour. Elle comprenait un grand bassin d&apos;eau pour que les prêtres puissent se laver les mains et les pieds. Des ouvriers qualifiés ont construit la tente selon le modèle que Dieu a montré à Moïse sur le mont Sinaï. Les Israélites emportaient la tente sainte partout où ils voyageaient. C&apos;était aussi un signe de la manière dont Dieu allait agir à travers Jésus bien des années plus tard.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Tabernacle",
+          "type": "realia",
+          "preferred_label": "Tabernacle",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133591,
+    "content_id": "133591",
     "reference_id": 108339,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tablettes de pierre",
     "media_type": "Text",
     "index_reference": "tablettes de pierre",
@@ -26,13 +35,14 @@
     "content": "<p>Des morceaux de pierre que Moïse a taillés dans le roc. Dieu y a écrit les paroles des Dix Commandements et de la loi de l&apos;alliance. Ils étaient la copie écrite de l&apos;accord d&apos;alliance entre Dieu et les Israélites. Moïse a brisé les tablettes d&apos;une première série lorsque il a trouvé les Israélites en train d&apos;adorer la statue métallique d&apos;un veau. Alors, Dieu a écrit l&apos;accord d&apos;alliance sur deux nouvelles tablettes. Celles-ci étaient conservées dans l&apos;arche de l&apos;alliance.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133544,
+    "content_id": "133544",
     "reference_id": 108292,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamar",
     "media_type": "Text",
     "index_reference": "tamar",
@@ -41,13 +51,43 @@
     "content": "<p>La belle-fille de Juda. Ses deux premiers maris étaient les fils de Juda mais ils sont tous les deux décédés. Après cela, Juda a couché avec Tamar sans savoir qui elle était. Elle est tombée enceinte et a eu des jumeaux. Jésus est issu de la lignée de Perez, le fils de Tamar. Il s&apos;agit d&apos;une Tamar différente de la fille du roi David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Tamar",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tamar.2",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tamar.3",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Tamar.2",
+          "type": "place",
+          "preferred_label": "Tamar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133723,
+    "content_id": "133723",
     "reference_id": 108471,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamar - David",
     "media_type": "Text",
     "index_reference": "tamar - david",
@@ -56,13 +96,14 @@
     "content": "<p>La fille de David et Makaah. Elle et Absalom avaient les mêmes parents. Amnon et elle avaient le même père. Amnon a violé Tamar lorsqu&apos;elle était vierge. Ensuite, il l&apos;a chassée hors de sa maison. À cette époque, c&apos;était la même chose que de la répudier. Être violée sans être mariée ensuite a apporté la honte à Tamar dans leur communauté. Cela signifiait qu&apos;elle ne se marierait probablement pas ni n&apos;aurait sa propre famille. Elle a vécu avec Absalom après cet événement.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133669,
+    "content_id": "133669",
     "reference_id": 108417,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temple",
     "media_type": "Text",
     "index_reference": "temple",
@@ -71,13 +112,29 @@
     "content": "<p>Le bâtiment à Jérusalem où les gens pouvaient aller adorer Dieu. On l&apos;appelait aussi la &quot;maison du Seigneur&quot; ou la &quot;maison de Dieu&quot;. Le premier a été construit lorsque Salomon était roi. Dieu y était présent avec son peuple. Les Babyloniens l&apos;ont détruit en 586 av. J.-C. Plusieurs années plus tard, les Juifs en ont construit un autre. Après que les Romains ont détruit ce temple en 70 apr. J.-C., les Juifs n&apos;en ont jamais reconstruit un autre. Jésus appelait le Temple la maison de son Père. Jésus a dit que son corps était le nouveau Temple, parce que Dieu était présent avec son peuple à travers lui. Dieu reste présent sur terre à travers ceux qui suivent Jésus. Ils sont remplis du Saint-Esprit. En raison de cela, les croyants sont décrits comme un nouveau Temple.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Temple",
+          "type": "realia",
+          "preferred_label": "Temple",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:TempleAltar",
+          "type": "realia",
+          "preferred_label": "Temple Altar",
+          "confidence": 0.8034,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133291,
+    "content_id": "133291",
     "reference_id": 108039,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ténèbres",
     "media_type": "Text",
     "index_reference": "ténèbres",
@@ -94,13 +151,14 @@
           "label": "Êtres spirituels maléfiques",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133331,
+    "content_id": "133331",
     "reference_id": 108079,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Théophile",
     "media_type": "Text",
     "index_reference": "théophile",
@@ -109,13 +167,22 @@
     "content": "<p>La personne pour laquelle Luc a écrit son Évangile et le livre des Actes. Le nom <em>Théophile </em>signifie &quot;amoureux de Dieu&quot;. Ce que Luc a écrit peut aider toute personne qui aime Dieu. Luc a peut-être utilisé le nom Théophile pour désigner un autre chrétien. Il aurait pu faire cela pour garder le nom de la personne secret afin de la protéger. Luc a qualifié Théophile d&apos;excellent. Cela pourrait signifier que Théophile était un fonctionnaire du gouvernement romain.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Theophilus",
+          "type": "person",
+          "preferred_label": "Théophile",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133380,
+    "content_id": "133380",
     "reference_id": 108128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thessalonique",
     "media_type": "Text",
     "index_reference": "thessalonique",
@@ -124,13 +191,29 @@
     "content": "<p>Une ville grecque du territoire romain de Macédoine. C&apos;était dans la région qui est désormais le nord de la Grèce. Paul s&apos;y est rendu lors de son deuxième voyage. Ses lettres aux Thessaloniciens ont été écrites pour l&apos;église de cette région.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Thessalonica",
+          "type": "place",
+          "preferred_label": "Thessalonique",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Thessalonica",
+          "type": "group",
+          "preferred_label": "une Thessalonicien",
+          "confidence": 0.8813,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133347,
+    "content_id": "133347",
     "reference_id": 108095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thomas",
     "media_type": "Text",
     "index_reference": "thomas",
@@ -139,13 +222,22 @@
     "content": "<p>Un des douze disciples de Jésus. Il était aussi appelé <em>Didyme</em>, ce qui signifie &quot;jumeau&quot;.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Thomas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133429,
+    "content_id": "133429",
     "reference_id": 108177,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thyatire",
     "media_type": "Text",
     "index_reference": "thyatire",
@@ -154,13 +246,22 @@
     "content": "<p>Une ville importante du territoire romain d&apos;Asie. Elle fait partie de la ville d&apos;Akhisar dans le pays maintenant connu sous le nom de Turquie. Lydie était originaire de Thyatire.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Thyatira",
+          "type": "place",
+          "preferred_label": "Thyatire",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133376,
+    "content_id": "133376",
     "reference_id": 108124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timothée",
     "media_type": "Text",
     "index_reference": "timothée",
@@ -169,13 +270,22 @@
     "content": "<p>Un jeune homme originaire de Lystre qui a travaillé avec Paul. Son père était un grec païen. Puisque que sa mère était juive, Timothée était considéré comme juif. Sa grand-mère Loïs et sa mère Eunice étaient croyantes. Paul avait confiance en Timothée et l&apos;aimait comme un fils. Timothée a servi dans plusieurs des églises que Paul a contribué à fonder. Il était avec Paul lorsque l&apos;apôtre a écrit plusieurs de ses lettres. Le Nouveau Testament contient deux lettres que Paul a écrites à Timothée.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timothée",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133656,
+    "content_id": "133656",
     "reference_id": 108404,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tirer au sort",
     "media_type": "Text",
     "index_reference": "tirer au sort",
@@ -184,13 +294,14 @@
     "content": "<p>Procédure très répandue parmi les nations qui vivaient autour des Israélites et qui visait à aider les gens à prendre une décision sur quelque chose. Dieu a permis à son peuple d&apos;utiliser cette pratique. On ne sait pas exactement comment les gens procédaient. Les Israélites avaient confiance dans le fait que Dieu les guidait pour qu&apos;ils fassent des choix judicieux en tirant au sort.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133404,
+    "content_id": "133404",
     "reference_id": 108152,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tite",
     "media_type": "Text",
     "index_reference": "tite",
@@ -199,13 +310,22 @@
     "content": "<p>Un homme qui a travaillé et voyagé avec Paul. C&apos;était un croyant grec païen qui n&apos;était pas circoncis. Il a servi dans de nombreuses églises que Paul a contribué à fonder. Il était un leader important dans l&apos;église sur l&apos;île de Crète. Il a également aidé à récolter l&apos;offrande faite par les croyants de Corinthe à Jérusalem. Le livre du Nouveau Testament souvent appelé <em>L&apos;Épître à Tite</em> est une lettre que Paul lui a écrite.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "Tite",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133512,
+    "content_id": "133512",
     "reference_id": 108260,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trois hommes",
     "media_type": "Text",
     "index_reference": "trois hommes",
@@ -214,13 +334,14 @@
     "content": "<p>Trois hommes avec des corps humains ont rendu visite à Abraham. Ils ont mangé un repas préparé par Abraham et Sarah. Ils ont dit à Abraham et Sarah qu&apos;Isaac naîtrait dans l&apos;année. Ils ont parlé avec Abraham des plans de Dieu pour détruire Sodome et Gomorrhe. Deux de ces hommes étaient des anges. Ils ont continué leur voyage vers Sodome et Gomorrhe pour détruire ces villes et sauver Lot. Le troisième homme était Dieu. Dieu est un être spirituel. Il peut apparaître aux êtres humains. Il peut apparaître de façon qu&apos;ils le voient et reconnaissent qui il est.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133727,
+    "content_id": "133727",
     "reference_id": 108475,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tyr et Sidon",
     "media_type": "Text",
     "index_reference": "tyr et sidon",
@@ -229,7 +350,8 @@
     "content": "<p>Des villes situées sur la côte méditerranéenne, dans le pays désormais connu sous le nom de Liban. Le peuple phénicien a été le premier à y vivre. Les villes ont ensuite été dirigées par de nombreux gouvernements différents. Les Israélites n&apos;ont jamais pris le contrôle de ces villes lorsqu&apos;ils sont entrés à Canaan. Tyr était aussi une forteresse puissante. Il y avait la paix entre Tyr et Israël pendant le règne de certains rois d&apos;Israël. Les habitants de Tyr et de Sidon adoraient de faux dieux et étaient connus pour leurs mauvaises actions.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

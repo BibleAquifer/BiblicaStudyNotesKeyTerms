@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203536,
+    "content_id": "203536",
     "reference_id": 108401,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baal",
     "media_type": "Text",
     "index_reference": "baal",
@@ -11,13 +11,71 @@
     "content": "<p>Berhala/allah palsu yang disembah oleh sekelompok orang di dalam dan di sekitar tanah Kanaan. Dalam bahasa Ibrani kata Baal berarti tuan atau penguasa. Baal disembah sebagai dewa matahari dan badai. Orang-orang berpikir bahwa dia memberi mereka anak-anak dan hasil panen yang baik.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Baal",
+          "type": "deity",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Baal-berith",
+          "type": "deity",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baal",
+          "type": "person",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baal.2",
+          "type": "person",
+          "preferred_label": "Baal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baalah",
+          "type": "place",
+          "preferred_label": "Baala",
+          "confidence": 0.8733,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baalis",
+          "type": "person",
+          "preferred_label": "Baalis",
+          "confidence": 0.8071,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baalath",
+          "type": "place",
+          "preferred_label": "Baalat",
+          "confidence": 0.8051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baalath.2",
+          "type": "place",
+          "preferred_label": "Baalat",
+          "confidence": 0.8051,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203537,
+    "content_id": "203537",
     "reference_id": 108402,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baal Peor",
     "media_type": "Text",
     "index_reference": "baal peor",
@@ -26,13 +84,14 @@
     "content": "<p>Peor adalah sebuah tempat di tanah Moab. Orang Israel melanggar perjanjian mereka dengan Allah di sana ketika mereka mulai menyembah Baal. Akibatnya adalah penyakit sampar yang membunuh ribuan orang Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203374,
+    "content_id": "203374",
     "reference_id": 108239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babel",
     "media_type": "Text",
     "index_reference": "babel",
@@ -41,13 +100,29 @@
     "content": "<p>Kota yang dibangun bersama oleh orang-orang sebelum mereka berbicara dalam bahasa yang berbeda-beda. Mereka mulai membangun menara yang tinggi di kota Babel. Mereka ingin menetap disana ketimbang menyebar ke seluruh bumi. Hal ini bertentangan dengan apa yang diinginkan Allah bagi manusia. Allah mencegah mereka dengan mengubah bahasa yang mereka gunakan. Ini membuat mereka bingung karena mereka tidak dapat lagi mengerti satu sama lain. Dalam bahasa Ibrani, kata Babel terdengar seperti kata yang berarti kebingungan. Babel merupakan sebuah tanda untuk orang-orang yang bekerja sama dalam melawan apa yang Allah inginkan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Babylon.2",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.8138,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203633,
+    "content_id": "203633",
     "reference_id": 108498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babilon",
     "media_type": "Text",
     "index_reference": "babilon",
@@ -56,13 +131,43 @@
     "content": "<p>Ibu kota Babilonia. Babilonia merupakan sebuah kerajaan di Mesopotamia yang bertahan selama ribuan tahun. Kerajaan tersebut menjadi sebuah pemerintahan yang kuat dan berkuasa atas banyak bangsa dan sekelompok orang lainnya. Banyak orang Babilonia yang berasal dari sekelompok orang yang disebut Kasdim. Babilonia mengambil ahli kerajaan Yehuda disebelah selatan. Pada tahun 586 SM tentara Babilonia menghancurkan Yerusalem dan bait suci dibangun ketika Salomo menjadi raja. Mereka memaksa orang banyak dari Yehuda untuk meninggalkan tanah mereka. Mereka hidup dalam pembuangan di Babilonia. Merodakh-Baladan, Nebukadnezar, Awel-Marduk, dan Belsyazar adalah raja-raja Kasdim dari Babilonia. Pemerintahan Persia mengambil alih pemerintahan Babilonia pada tahun 539 SM. Beberapa kitab dalam Alkitab menggunakan nama Babilon untuk berbicara tentang pemerintahan yang kuat. Nama Babilon menggambarkan kerajaan yang kaya dan angkuh yang tidak menghormati Allah. Mereka mencoba untuk menjadi lebih kuat daripada pemerintahan atau sekelompok orang lainnya. Mereka memerintah atas bangsa lain tanpa belas kasihan dan memperlakukan orang-orang dengan sangat buruk. Dalam kitab Wahyu, Yohanes menggunakan kata Babilon sebagai sebuah tanda untuk pemerintahan Roma.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Babylon.2",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.9366,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Babylonia",
+          "type": "place",
+          "preferred_label": "Babylonia",
+          "confidence": 0.9036,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Babylon",
+          "type": "group",
+          "preferred_label": "Babylonians",
+          "confidence": 0.8342,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babel",
+          "confidence": 0.822,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203371,
+    "content_id": "203371",
     "reference_id": 108236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bahtera",
     "media_type": "Text",
     "index_reference": "bahtera",
@@ -71,13 +176,14 @@
     "content": "<p>Perahu besar yang diperintahkan oleh Allah kepada Nuh untuk dibangun. Allah memelihara orang-orang dan hewan-hewan yang ada di dalam bahtera agar tetap aman selama air bah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203552,
+    "content_id": "203552",
     "reference_id": 108417,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bait Allah",
     "media_type": "Text",
     "index_reference": "bait allah",
@@ -86,13 +192,14 @@
     "content": "<p>Bangunan di Yerusalem di mana orang-orang dapat pergi untuk menyembah Allah. Bangunan ini juga disebut rumah Tuhan atau rumah Allah. Yang pertama dibangun ketika Salomo menjadi raja. Allah hadir bersama umat-Nya di sana. Bangsa Babel menghancurkannya pada tahun 586 SM. Bertahun-tahun kemudian, orang-orang Yahudi membangunnya kembali. Setelah bangsa Romawi menghancurkan Bait Allah pada tahun 70 M, orang Yahudi tidak pernah membangun Bait Allah lagi. Yesus menyebut Bait Allah sebagai rumah Bapa-Nya. Yesus mengatakan bahwa tubuh-Nya adalah bait Allah yang baru. Hal ini terjadi karena Allah hadir bersama umat-Nya melalui Yesus. Allah tetap hadir di bumi melalui mereka yang mengikut Yesus. Mereka dipenuhi dengan Roh Kudus. Karena itu, orang-orang percaya digambarkan sebagai bait Allah yang baru.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203531,
+    "content_id": "203531",
     "reference_id": 108396,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Balak",
     "media_type": "Text",
     "index_reference": "balak",
@@ -101,13 +208,22 @@
     "content": "<p>Raja Moab pada masa perjalanan bangsa Israel ke tanah Kanaan. Ia mempekerjakan nabi Bileam untuk mengutuk bangsa Israel. Ia berpikir bahwa ini akan membantunya untuk mengusir bangsa Israel keluar dari negerinya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "Balak",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203447,
+    "content_id": "203447",
     "reference_id": 108312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bapa",
     "media_type": "Text",
     "index_reference": "bapa",
@@ -116,13 +232,29 @@
     "content": "<p>Satu nama untuk Allah. Bapa adalah Allah sama seperti Yesus adalah Allah dan Roh Kudus adalah Allah. Mereka adalah tiga pribadi dari Allah yang esa. Allah menyatakan diri-Nya sebagai Bapa bagi Israel selama peristiwa keluaran dan menyebut Israel sebagai anak-Nya. Kemudian, Allah menyatakan diri-Nya sebagai Bapa dari Yesus. Yesus menunjukkan bahwa Allah adalah Bapa dari semua yang menjadi bagian dari keluarga Allah. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Beth-gader",
+          "type": "place",
+          "preferred_label": "bapa",
+          "confidence": 0.9202,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:GenericFather",
+          "type": "person",
+          "preferred_label": "A Father",
+          "confidence": 0.8806,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203422,
+    "content_id": "203422",
     "reference_id": 108287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bapa leluhur",
     "media_type": "Text",
     "index_reference": "bapa leluhur",
@@ -131,13 +263,14 @@
     "content": "<p>Pemimpin laki-laki yang memiliki otoritas paling besar dalam sebuah kelompok. Biasanya ini adalah laki-laki tertua dalam sebuah keluarga. Di antara bangsa Israel, para pemimpin penting dan raja-raja disebut bapa leluhur. Mereka dianggap sebagai pendiri bangsa Israel. Mereka termasuk Abraham, Ishak, Yakub dan putra-putranya, Musa dan Raja Daud.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203172,
+    "content_id": "203172",
     "reference_id": 108037,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baptisan",
     "media_type": "Text",
     "index_reference": "baptisan",
@@ -146,13 +279,22 @@
     "content": "<p>Sebuah praktik dikalangan orang Yahudi. Baptisan merupakan sebuah tanda lahiriah dari sesuatu yang telah terjadi dalam diri seseorang. Mereka akan masuk kedalam air dan akan ditutupi oleh air. Kemudian mereka akan keluar dari air. Orang-orang melakukan hal ini untuk menyucikan diri menurut hukum Yahudi. Orang-orang bukan Yahudi dibaptis untuk menunjukkan bahwa mereka menerima iman dari orang Yahudi. Orang Yahudi dibaptis sebagai tanda bahwa mereka menaati Allah. Ini menunjukkan bahwa mereka telah berbalik dari dosa. Orang Kristen dibaptis untuk menunjukkan bahwa mereka telah berbalik dari dosa dan telah percaya kepada Yesus. Ini menunjukkan komitmen mereka untuk mengikuti Yesus dan menjadi bagian dari umat Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Baptism",
+          "type": "keyterm",
+          "preferred_label": "baptisan",
+          "confidence": 0.8097,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203211,
+    "content_id": "203211",
     "reference_id": 108076,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barabbas",
     "media_type": "Text",
     "index_reference": "barabbas",
@@ -161,13 +303,22 @@
     "content": "<p>Seorang Yahudi yang bersalah atas pembunuhan dan berperang melawan pemerintah Romawi. Orang Romawi telah memasukkannya ke dalam penjara. Pilatus membebaskannya daripada membebaskan Yesus pada Perayaan Paskah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barabbas",
+          "type": "person",
+          "preferred_label": "Barabas",
+          "confidence": 0.9465,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203570,
+    "content_id": "203570",
     "reference_id": 108435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barak",
     "media_type": "Text",
     "index_reference": "barak",
@@ -176,13 +327,22 @@
     "content": "<p>Seorang Israel dari suku Naftali. Dia taat pada perintah Allah untuk menyerang tentara Sisera. Tetapi dia hanya mau menaati Allah jika Debora pergi bersamanya. Bersama Debora, ia menyanyikan sebuah lagu yang penting tentang kemenangan mereka di dalam Hakim-Hakim pasal 5.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barak",
+          "type": "person",
+          "preferred_label": "Barak",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203242,
+    "content_id": "203242",
     "reference_id": 108107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barnabas",
     "media_type": "Text",
     "index_reference": "barnabas",
@@ -191,13 +351,22 @@
     "content": "<p>Seorang penganut Yahudi dari suku Lewi yang berasal dari pulau Siprus. Namanya terdengar seperti kata Ibrani untuk anak penolong. Barnabas juga dipanggil Yusuf. Ia dengan sukarela memberikan apa yang dimilikinya untuk membantu orang lain. Ia juga membantu membawa perdamaian di antara orang-orang. Barnabas adalah seorang rasul. Ia membantu Saul setelah ia menjadi orang percaya. Ia dan Saul bepergian ke banyak tempat untuk memberitakan kabar baik tentang Yesus. Yohanes Markus adalah sepupu Barnabas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "Barnabas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203603,
+    "content_id": "203603",
     "reference_id": 108468,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Batsyeba",
     "media_type": "Text",
     "index_reference": "batsyeba",
@@ -206,13 +375,29 @@
     "content": "<p>Istri Uria orang Het. Daud berzinah dengan perempuan itu, membunuh suaminya dan kemudian menjadikan perempuan itu istrinya. Anak pertamanya dengan Daud meninggal akibat dosa-dosa Daud. Anak keduanya dengan Daud yaitu Salomo. Yesus berasal dari garis keturunan Batsyeba. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Bathsheba",
+          "type": "person",
+          "preferred_label": "Batsyeba",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beersheba",
+          "type": "place",
+          "preferred_label": "Bersyeba",
+          "confidence": 0.8375,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203516,
+    "content_id": "203516",
     "reference_id": 108381,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beli kembali",
     "media_type": "Text",
     "index_reference": "beli kembali",
@@ -221,13 +406,14 @@
     "content": "<p>Untuk mendapatkan kembali sesuatu atau seseorang yang telah diberikan atau dijual. Ini dilakukan dengan cara membayar harga untuk benda atau orang tersebut. Kata lain untuk hal ini adalah menebus. Orang yang membeli kembali benda atau orang tersebut disebut dengan penebus. Allah membeli kembali bangsa Israel ketika mereka menjadi budak di Mesir. Hal ini menunjukkan bahwa Ia adalah penebus mereka. Ketika Yesus mati di kayu salib, Ia membayar harga untuk membeli kembali semua orang berdosa. Ia menebus semua yang percaya kepada-Nya. Ia menebus mereka dari kuasa dosa, kematian, dan kejahatan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203389,
+    "content_id": "203389",
     "reference_id": 108254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Benar di hadapan Tuhan",
     "media_type": "Text",
     "index_reference": "benar di hadapan tuhan",
@@ -236,13 +422,14 @@
     "content": "<p>Menjadi mampu hidup dalam kedamaian dan sukacita bersama Allah. Ini juga disebut sebagai dibenarkan atau dianggap benar. Artinya, orang dapat menikmati berkat-berkat dari perjanjian Allaj. Ini juga berarti bahwa orang dapat dibebaskan dari kuasa dosa, kematian, dan kejahatan. Allaj membebaskan mereka melalui kematian dan kebangkitan Yesus. Orang-orang yang mempercayai Allah dan memiliki iman kepada-Nya dianggap benar di hadapan-Nya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203429,
+    "content_id": "203429",
     "reference_id": 108294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Benyamin",
     "media_type": "Text",
     "index_reference": "benyamin",
@@ -251,13 +438,78 @@
     "content": "<p>Anak bungsu dari Yakub dan Rahel. Rahel pertama kali menamainya Ben-Oni yang berarti anak dari kesusahanku. Yakub mengubah namanya menjadi Benyamin. Benyamin berarti anak tangan kananku. Rahel meninggal setelah melahirkan Benyamin. Garis keturunannya menjadi salah satu suku Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Benjamin",
+          "type": "group",
+          "preferred_label": "Benyamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin",
+          "type": "person",
+          "preferred_label": "Benyamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.2",
+          "type": "person",
+          "preferred_label": "Benyamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.3",
+          "type": "person",
+          "preferred_label": "Benyamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.4",
+          "type": "person",
+          "preferred_label": "Benyamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.5",
+          "type": "person",
+          "preferred_label": "Benyamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:BenjaminGate",
+          "type": "place",
+          "preferred_label": "Benyamin",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Miniamin.2",
+          "type": "person",
+          "preferred_label": "Minyamin",
+          "confidence": 0.8199,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Miniamin.3",
+          "type": "person",
+          "preferred_label": "Minyamin",
+          "confidence": 0.8199,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203232,
+    "content_id": "203232",
     "reference_id": 108097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berbicara bahasa lain",
     "media_type": "Text",
     "index_reference": "berbicara bahasa lain",
@@ -274,13 +526,14 @@
           "label": "Menafsirkan bahasa roh",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203264,
+    "content_id": "203264",
     "reference_id": 108129,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berea",
     "media_type": "Text",
     "index_reference": "berea",
@@ -289,13 +542,78 @@
     "content": "<p>Sebuah kota Yunani di wilayah Romawi di Makedonia. Kota itu terletak di daerah yang sekarang merupakan wilayah utara Yunani. Paulus melakukan perjalanan kesana pada perjalanannya yang kedua.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Berea",
+          "type": "place",
+          "preferred_label": "Berea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beera",
+          "type": "person",
+          "preferred_label": "Beera",
+          "confidence": 0.8611,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beerah",
+          "type": "person",
+          "preferred_label": "Beera",
+          "confidence": 0.8611,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beraiah",
+          "type": "person",
+          "preferred_label": "Beraya",
+          "confidence": 0.8519,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah",
+          "type": "person",
+          "preferred_label": "Beria",
+          "confidence": 0.8396,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah.2",
+          "type": "person",
+          "preferred_label": "Beria",
+          "confidence": 0.8396,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah.3",
+          "type": "person",
+          "preferred_label": "Beria",
+          "confidence": 0.8396,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah.4",
+          "type": "person",
+          "preferred_label": "Beria",
+          "confidence": 0.8396,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bera",
+          "type": "person",
+          "preferred_label": "Bera",
+          "confidence": 0.8145,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203419,
+    "content_id": "203419",
     "reference_id": 108284,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berhala-berhala",
     "media_type": "Text",
     "index_reference": "berhala-berhala",
@@ -304,13 +622,22 @@
     "content": "<p>Apapun yang disembah orang yang lebih penting bagi mereka dibandingkan Allah yang sejati. Orang-orang menyembah sesuatu karena mereka percaya hal itu memiliki kekuatan. Iblis menggunakan penyembahan mereka akan hal-hal ini untuk menjebak orang-orang dan mengendalikan mereka. Sekelompok orang dalam Alkitab membuat gambar atau patung dari beberapa hal ini. Gambar atau patung berhala-berhala adalah benda yang tidak memiliki kekuatan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Asherah",
+          "type": "deity",
+          "preferred_label": "berhala",
+          "confidence": 0.8394,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203669,
+    "content_id": "203669",
     "reference_id": 108534,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berita Penghakiman",
     "media_type": "Text",
     "index_reference": "berita penghakiman",
@@ -319,13 +646,14 @@
     "content": "<p>Pesan-pesan yang dikirim Allah kepada manusia melalui seorang nabi tentang penghakiman yang akan datang. Pesan-pesan tersebut memperingatkan orang-orang untuk berhenti melakukan hal-hal yang jahat. Allah memperingatkan mereka untuk berbalik dari dosa dan bertobat. Allah memperingatkan mereka karena Dia ingin mereka mengubah cara hidup mereka. Jika mereka tidak berubah, Allah akan menjatuhkan hukuman atas mereka. Jika mereka berubah, Allah tidak akan menghakimi mereka. Dengan memberikan peringatan-peringatan ini kepada manusia, Allah menunjukkan bahwa Ia penuh dengan rahmat.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203406,
+    "content_id": "203406",
     "reference_id": 108271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berkat dari bapa",
     "media_type": "Text",
     "index_reference": "berkat dari bapa",
@@ -334,13 +662,14 @@
     "content": "<p>Kata-kata terakhir yang diucapkan seorang ayah dengan keras kepada anak-anaknya sebelum ia meninggal. Seorang ayah akan mengatakan apa yang ia pikirkan atau diharapkan akan terjadi di kemudian hari dalam kehidupan anak-anaknya. Biasanya ini akan mencakup harapan untuk kesuksesan, kekayaan, dan kekuasaan. Anak sulung biasanya menerima berkat yang paling besar.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203514,
+    "content_id": "203514",
     "reference_id": 108379,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berkat-berkat perjanjian",
     "media_type": "Text",
     "index_reference": "berkat-berkat perjanjian",
@@ -349,13 +678,14 @@
     "content": "<p>Hal-hal yang baik akan terjadi ketika orang-orang setia pada sebuah perjanjian. Dalam perjanjian dengan Allah, menjadi setia berarti hidup menurut cara Allah. Ini membawa kepada berkat-berkat yang telah Allah sediakan. Hal ini biasanya berkaitan dengan tanah, anak-anak, dan kehadiran Allah. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203290,
+    "content_id": "203290",
     "reference_id": 108155,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berkat-berkat rohani",
     "media_type": "Text",
     "index_reference": "berkat-berkat rohani",
@@ -364,13 +694,14 @@
     "content": "<p>Cara-cara Allah memberkati umat-Nya secara rohani. Berkat-berkat ini bukanlah sesuatu yang dapat dipegang oleh manusia. Berkat-berkat ini adalah kekayaan di surga yang dibicarakan oleh Yesus (Matius 6:19–21). Ada banyak jenis berkat rohani. Hikmat, pengertian, kasih karunia, pengharapan dan kasih adalah berkat-berkat rohani. Diampuni dari dosa dan memiliki hidup yang kekal juga merupakan berkat rohani. Manusia tidak mendapatkan berkat-berkat rohani dengan usahanya sendiri. Allah memberikannya secara cuma-cuma.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203314,
+    "content_id": "203314",
     "reference_id": 108179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Berpakaian putih",
     "media_type": "Text",
     "index_reference": "berpakaian putih",
@@ -379,13 +710,14 @@
     "content": "<p>Sebuah cara untuk menggambarkan ketika orang-orang taat kepada Allah. Dalam Alkitab, warna putih merupakan tanda dari hal-hal yang dianggap suci. Orang-orang menjadi suci ketika mereka melakukan apa yang dikehendaki Allah. Pakaian putih adalah tanda untuk melakukan hal tersebut. Dalam kitab Wahyu, pakaian orang-orang menjadi putih setelah dicuci dengan darah Anak Domba. Ini berarti bahwa orang-orang percaya pada Yesus untuk menyelamatkan mereka dari kuasa dosa. </p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203430,
+    "content_id": "203430",
     "reference_id": 108295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bersyeba",
     "media_type": "Text",
     "index_reference": "bersyeba",
@@ -394,13 +726,29 @@
     "content": "<p>Sebuah kota di Kanaan bagian selatan. Kota itu menjadi kota paling selatan di tanah Israel. Abraham menggali sumur di sana. Allah berbicara kepada Hagar, Ishak, Yakub, dan Elia di Bersyeba atau padang gurun di dekatnya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Beersheba",
+          "type": "place",
+          "preferred_label": "Bersyeba",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bathsheba",
+          "type": "person",
+          "preferred_label": "Batsyeba",
+          "confidence": 0.8375,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203481,
+    "content_id": "203481",
     "reference_id": 108346,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bertobat",
     "media_type": "Text",
     "index_reference": "bertobat",
@@ -417,13 +765,14 @@
           "label": "Benar di hadapan Tuhan",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203210,
+    "content_id": "203210",
     "reference_id": 108075,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Betania",
     "media_type": "Text",
     "index_reference": "betania",
@@ -432,13 +781,43 @@
     "content": "<p>Kota dimana Maria, Marta, dan Lazarus tinggal. Kota ini tidak jauh dari bagian timur Yerusalem dan dekat dengan Bukit Zaitun.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Bethany",
+          "type": "place",
+          "preferred_label": "Betania",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethany.2",
+          "type": "place",
+          "preferred_label": "Betania",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Batanea",
+          "type": "place",
+          "preferred_label": "Batanea",
+          "confidence": 0.8715,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bithynia",
+          "type": "place",
+          "preferred_label": "Bitinia",
+          "confidence": 0.8344,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203407,
+    "content_id": "203407",
     "reference_id": 108272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Betel",
     "media_type": "Text",
     "index_reference": "betel",
@@ -447,13 +826,50 @@
     "content": "<p>Tempat dimana Allah menampakkan diri pada Yakub ketika ia melarikan diri dari Esau. Tempat itu juga disebut Lus. Dalam bahasa Ibrani Betel berarti rumah Allah. Abraham dan Yakub mendirikan mezbah untuk menyembah Allah disana. Tempat itu menjadi kota yang penting di Israel. Letaknya disebelah utara Yerusalem di perbatasan antara kerajaan sebelah selatan dan utara. Yerobeam mendirikan kuil-kuil untuk menyembah dewa-dewa disana.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Bethel",
+          "type": "place",
+          "preferred_label": "Betel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethel.2",
+          "type": "place",
+          "preferred_label": "Betel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bethuel",
+          "type": "person",
+          "preferred_label": "Betuel",
+          "confidence": 0.9089,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethuel",
+          "type": "place",
+          "preferred_label": "Betuel",
+          "confidence": 0.9089,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beten",
+          "type": "place",
+          "preferred_label": "Beten",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203577,
+    "content_id": "203577",
     "reference_id": 108442,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Betlehem",
     "media_type": "Text",
     "index_reference": "betlehem",
@@ -462,13 +878,50 @@
     "content": "<p>Kota asal Daud dan tempat kelahiran Yesus. Letaknya tidak jauh dari sebelah selatan Yerusalem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hareph",
+          "type": "person",
+          "preferred_label": "Betlehem",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethlehem",
+          "type": "place",
+          "preferred_label": "Betlehem",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethlehem.2",
+          "type": "place",
+          "preferred_label": "Betlehem",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:GeruthChimham",
+          "type": "place",
+          "preferred_label": "Betlehem",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Bethlehem",
+          "type": "group",
+          "preferred_label": "Bethlehemites",
+          "confidence": 0.8534,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203533,
+    "content_id": "203533",
     "reference_id": 108398,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bileam",
     "media_type": "Text",
     "index_reference": "bileam",
@@ -477,13 +930,22 @@
     "content": "<p>Seorang nabi dari Mesopotamia yang tidak berasal dari garis keturunan Yakub. Ia menggunakan sihir untuk belajar mengenai apa yang akan terjadi di masa yang akan datang. Balak mempekerjakan Bileam untuk menjatuhkan kutuk kepada orang-orang Israel. Keledai Bileam berbicara kepadanya untuk mencoba menghentikannya. Allah membuat Bileam memberkati umat-Nya dan bukan mengutuk mereka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "Bileam",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203424,
+    "content_id": "203424",
     "reference_id": 108289,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bilha",
     "media_type": "Text",
     "index_reference": "bilha",
@@ -500,13 +962,57 @@
           "label": "Gundik",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bilhah",
+          "type": "person",
+          "preferred_label": "Bilha",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bilhah",
+          "type": "place",
+          "preferred_label": "Bilha",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bilgah",
+          "type": "person",
+          "preferred_label": "Bilga",
+          "confidence": 0.8952,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bilgah.2",
+          "type": "person",
+          "preferred_label": "Bilga",
+          "confidence": 0.8952,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bilhan",
+          "type": "person",
+          "preferred_label": "Bilhan",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bilhan.2",
+          "type": "person",
+          "preferred_label": "Bilhan",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203289,
+    "content_id": "203289",
     "reference_id": 108154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Buah Roh",
     "media_type": "Text",
     "index_reference": "buah roh",
@@ -515,13 +1021,14 @@
     "content": "<p>Cara-cara ilahi yang dipikirkan, dikatakan, dan dilakukan oleh orang-orang. Cara-cara ini menunjukkan bahwa orang-orang berpikir, berbicara, dan bertindak seperti yang Yesus lakukan. Roh Kudus membuat orang mampu melakukan hal ini. Tidak ada jumlah yang pasti dari buah Roh Kudus. Paulus dan Petrus membuat daftar dari contoh-contoh buah Roh Kudus dalam kehidupan orang percaya. Ini mencakup kasih, sukacita, damai sejahtera, kesabaran, kebaikan, kesetiaan, kelemahlembutan, dan penguasaan diri. Buah Roh juga mencakup pengetahuan dan kesalehan. Ini juga termasuk segala sesuatu yang menunjukkan bahwa orang percaya mengikuti teladan Yesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203393,
+    "content_id": "203393",
     "reference_id": 108258,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Budak",
     "media_type": "Text",
     "index_reference": "budak",
@@ -530,13 +1037,29 @@
     "content": "<p>Banyak orang bekerja sebagai budak pada masa dan tempat yang dicatat dalam Alkitab. Cara hidup banyak kelompok masyarakat bergantung pada pekerjaan yang dilakukan oleh para budak. Para budak dapat melakukan hampir semua pekerjaan dalam sebuah rumah tangga. Para penulis Alkitab tidak mengajarkan orang untuk memiliki budak. Para penulis Perjanjian Lama mengajarkan bagaimana para budak dan tuannya harus memperlakukan satu sama lain. Hal ini didasarkan pada Hukum Musa. Semua budak di antara bangsa Israel diizinkan untuk beristirahat pada hari Sabat. Mereka diizinkan untuk beribadah kepada Allah bersama dengan orang-orang merdeka. Mereka tidak diharuskan untuk tetap menjadi budak sampai mereka mati. Umat Allah tidak boleh dijual sebagai budak. Para penulis Perjanjian Baru mengajarkan bahwa budak dan tuan adalah anggota keluarga Allah yang setara. Mereka harus melayani Yesus dan melayani satu sama lain. Ada juga makna spiritual untuk perbudakan dalam Alkitab. Para penulis Alkitab menggambarkan manusia sebagai budak dosa. Ini berarti bahwa dosa menguasai semua manusia dan mengendalikan mereka. Yesus membebaskan manusia dari perbudakan dosa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "fauna:Kid",
+          "type": "fauna",
+          "preferred_label": "Kid",
+          "confidence": 0.8739,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Barn",
+          "type": "realia",
+          "preferred_label": "Barn",
+          "confidence": 0.8005,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203198,
+    "content_id": "203198",
     "reference_id": 108063,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bukit Zaitun",
     "media_type": "Text",
     "index_reference": "bukit zaitun",
@@ -545,13 +1068,14 @@
     "content": "<p>Sekelompok dari tiga puncak gunung di sisi timur Yerusalem. Tempat ini dipisahkan dari Yerusalem oleh Lembah Kidron. Di sana terdapat sebuah kebun zaitun yang sering dikunjungi Yesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203634,
+    "content_id": "203634",
     "reference_id": 108499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bukit-bukit pengorbanan",
     "media_type": "Text",
     "index_reference": "bukit-bukit pengorbanan",
@@ -560,7 +1084,8 @@
     "content": "<p>Sebuah tempat ibadah di atas bukit, gunung, atau tempat di dataran tinggi. Orang-orang membakar ukupan dan membuat pengorbanan di sana. Beberapa bukit pengorbanan digunakan untuk menyembah Allah yang sejati. Ini sering terjadi sebelum bait suci dibangun. Bukit pengorbanan lainnya digunakan untuk menyembah berhala. Orang-orang bahkan akan mengorbankan anak-anak mereka untuk menghormati berhala-berhala. Ada banyak bukit pengorbanan seperti ini ketika bangsa Israel pertama kali memasuki Kanaan. Bangsa Israel seharusnya menghancurkan semua bukit pengorbanan yang digunakan untuk menyembah para berhala.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 367911,
+    "content_id": "367911",
     "reference_id": 108420,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jaji",
     "media_type": "Text",
     "index_reference": "jaji",
@@ -11,13 +11,22 @@
     "content": "<p>Kiongozi ambaye alifanya maamuzi ya sheria. Kila jamii nchini Israeli ilikuwa na majaji wa eneo. Kulikuwa pia na majaji kwenye hema takatifu na hekalu. Walifanya maamuzi kuhusu kesi ambazo zilikuwa ngumu kwa majaji wa eneo. Walawi waliwasaidia majaji kufanya maamuzi yao. Wafalme wa Israeli pia walihudumu kama majaji kwa kusikiliza na kuamua kesi. Majaji walipaswa kufanya kile kilicho sahihi na haki. Watu walipaswa kuwaheshimu na kutii maamuzi yao.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Judge",
+          "type": "keyterm",
+          "preferred_label": "Judge",
+          "confidence": 0.9164,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367754,
+    "content_id": "367754",
     "reference_id": 108263,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jaribio",
     "media_type": "Text",
     "index_reference": "jaribio",
@@ -26,13 +35,14 @@
     "content": "<p>Nyakati ambapo watu lazima wafanye uchaguzi mgumu. Lazima wachague kati ya kumtii Mungu au kufanya wanachotaka kufanya. Uchaguzi wanaofanya unaonyesha kama wanamwamini Mungu kuwapa wanachohitaji. Kusudi la jaribio sio kusababisha watu wafanye makosa au kuteseka. Kusudi ni kwao kupokea neema zaidi ya Mungu. Mungu huwajaribu watu ili kuimarisha imani yao kwake</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367565,
+    "content_id": "367565",
     "reference_id": 108074,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jehanamu",
     "media_type": "Text",
     "index_reference": "jehanamu",
@@ -41,13 +51,64 @@
     "content": "<p>Mahali pa uharibifu kamili kwa wale wanaokataa kuwa sehemu ya ufalme wa Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroham",
+          "type": "person",
+          "preferred_label": "Yerohamu",
+          "confidence": 0.8021,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.2",
+          "type": "person",
+          "preferred_label": "Yerohamu",
+          "confidence": 0.8021,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.3",
+          "type": "person",
+          "preferred_label": "Yerohamu",
+          "confidence": 0.8021,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.4",
+          "type": "person",
+          "preferred_label": "Yerohamu",
+          "confidence": 0.8021,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.5",
+          "type": "person",
+          "preferred_label": "Yerohamu",
+          "confidence": 0.8021,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.6",
+          "type": "person",
+          "preferred_label": "Yerohamu",
+          "confidence": 0.8021,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.7",
+          "type": "person",
+          "preferred_label": "Yerohamu",
+          "confidence": 0.8021,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367716,
+    "content_id": "367716",
     "reference_id": 108225,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jina",
     "media_type": "Text",
     "index_reference": "jina",
@@ -56,13 +117,22 @@
     "content": "<p>Katika nyakati na maeneo ya Biblia, majina yalikuwa muhimu sana. Yalikuwa na maana zaidi ya njia ya kumzungumzia mtu; yalikuwa njia ya kuonyesha mtu alikuwa nani na alikuwa vipi. Hii ilieleweka kuwa kweli kuhusu Mungu pia. Kusema chochote kuhusu jina la Mungu ilikuwa njia ya kusema kitu kuhusu Mungu mwenyewe. Kumwamini jina la Mungu ilikuwa sawa na kumwamini Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Name",
+          "type": "keyterm",
+          "preferred_label": "Name",
+          "confidence": 0.9577,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367861,
+    "content_id": "367861",
     "reference_id": 108370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jirani",
     "media_type": "Text",
     "index_reference": "jirani",
@@ -79,13 +149,14 @@
           "label": "Mgeni",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367999,
+    "content_id": "367999",
     "reference_id": 108508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joshua na Zerubabeli",
     "media_type": "Text",
     "index_reference": "joshua na zerubabeli",
@@ -94,7 +165,8 @@
     "content": "<p>Viongozi wa Kiyahudi waliorudi Yuda kutoka uhamishoni Babeli. Waliwaongoza watu wa Mungu kujenga upya hekalu huko Yerusalemu. Yoshua, mwana wa Yozadaki, alihudumu kama kuhani mkuu katika hekalu la pili. Huyu Yoshua ni tofauti na yule aliyeongoza Waisraeli baada ya Musa. Zerubabeli alihudumu kama gavana wa Yuda chini ya utawala wa Uajemi. Alikuwa mwana wa Shealtieli na alitoka katika ukoo wa Daudi. Yesu anatoka katika ukoo wa Zerubabeli.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

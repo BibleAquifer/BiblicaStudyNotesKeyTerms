@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 367555,
+    "content_id": "367555",
     "reference_id": 108064,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baada ya Kristo (BK)",
     "media_type": "Text",
     "index_reference": "baada ya kristo (bk)",
@@ -11,13 +11,14 @@
     "content": "<p> Ni njia ya kuelezea miaka yote baada ya Yesu kuzaliwa. Katika lugha ya Kilatini, BK inamaanisha katika mwaka wa Bwana wetu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367552,
+    "content_id": "367552",
     "reference_id": 108061,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baada ya Kristo (BK) 70",
     "media_type": "Text",
     "index_reference": "baada ya kristo (bk) 70",
@@ -26,13 +27,14 @@
     "content": "<p>Ni mwaka ambao majeshi ya Kirumi yaliharibu hekalu. Yaliharibu pia sehemu kubwa ya mji wa Yerusalemu. Waasi wa Kiyahudi walikuwa wakipigana dhidi ya utawala wa Kirumi kwa miaka minne. Kisha majeshi ya Kirumi yaliwaua Wayahudi wengi na kuchoma moto hekalu. Halikujengwa tena. Yesu alikuwa ameonya watu mara nyingi kwamba hili lingetokea. Yesu alielezea kama adhabu iliyowapata kwa  sababu ya kutomkubali kama Masihi aliyetumwa na Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367892,
+    "content_id": "367892",
     "reference_id": 108401,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baali",
     "media_type": "Text",
     "index_reference": "baali",
@@ -41,13 +43,71 @@
     "content": "<p> Ni mungu wa uongo aliyeabudiwa na makundi ya watu ndani na karibu na Kanaani. Katika lugha ya Kiebrania, neno Baal linamaanisha bwana au mtawala. Baali aliabudiwa kama mungu wa jua na wa dhoruba. Watu waliamini kwamba anawapa watoto na mazao yenye afya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Baal",
+          "type": "deity",
+          "preferred_label": "Baali",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baal",
+          "type": "person",
+          "preferred_label": "Baali",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baal.2",
+          "type": "person",
+          "preferred_label": "Baali",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baalah",
+          "type": "place",
+          "preferred_label": "Baala",
+          "confidence": 0.8804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:BaalahMount",
+          "type": "place",
+          "preferred_label": "Baala",
+          "confidence": 0.8804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Baalis",
+          "type": "person",
+          "preferred_label": "Baalisi",
+          "confidence": 0.8575,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baalath",
+          "type": "place",
+          "preferred_label": "Baalathi",
+          "confidence": 0.8187,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baalath.2",
+          "type": "place",
+          "preferred_label": "Baalathi",
+          "confidence": 0.8187,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367893,
+    "content_id": "367893",
     "reference_id": 108402,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baali Peor",
     "media_type": "Text",
     "index_reference": "baali peor",
@@ -56,13 +116,14 @@
     "content": "<p>Peor ilikuwa mahali katika nchi ya Moabu. Waisraeli walivunja agano lao na Mungu pale walipoanza kumwabudu Baali. Matokeo yake yalikuwa tauni iliyoua maelfu ya Waisraeli.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367803,
+    "content_id": "367803",
     "reference_id": 108312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baba",
     "media_type": "Text",
     "index_reference": "baba",
@@ -71,13 +132,14 @@
     "content": "<p>Baba ni Jina moja la Mungu. Baba ni Mungu kama vile Yesu ni Mungu na Roho Mtakatifu ni Mungu. Wao ni utatu wa Mungu mmoja na wa pekee. Mungu alijionyesha kuwa Baba wa Israeli wakati  alipowatoa Misri, na kumwita Israeli mwana wake. Baadaye, Mungu alijionyesha kuwa Baba wa Yesu. Yesu anaonyesha kwamba Mungu ni Baba wa wote ambao ni sehemu ya familia ya Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367730,
+    "content_id": "367730",
     "reference_id": 108239,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babeli",
     "media_type": "Text",
     "index_reference": "babeli",
@@ -86,13 +148,22 @@
     "content": "<p>Ni mji ambao watu walifanya kazi pamoja kuujenga kabla hawajazungumza lugha tofauti. Walianza kujenga mnara mrefu katika mji wa Babeli. Walitaka kubaki hapo badala ya kuenea duniani kote. Hii ilikuwa kinyume na kile ambacho Mungu alitaka kwa watu. Mungu aliwazuia kwa kubadilisha lugha waliyoongea. Hii iliwachanganya kwa sababu hawakuweza kuelewana tena. Katika lugha ya Kiebrania, neno Babeli linafanana na neno la kuchanganyikiwa. Babeli ilikuwa ishara ya watu kufanya kazi pamoja kinyume na kile ambacho Mungu anataka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babeli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367989,
+    "content_id": "367989",
     "reference_id": 108498,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Babiloni",
     "media_type": "Text",
     "index_reference": "babiloni",
@@ -101,13 +172,43 @@
     "content": "<p>Mji mkuu wa Babiloni. Babiloni ilikuwa ufalme katika Mesopotamia ambao ulidumu kwa miaka mingi. Ukawa serikali yenye nguvu iliyotawala mataifa mengine mengi na makundi ya watu. Watu wengi wa Babiloni walitoka katika kundi la watu linaloitwa Wakaldayo. Babiloni ilichukua mamlaka ya ufalme wa kusini wa Yuda. Mnamo mwaka 586 kabala ya Yesu (KK) majeshi ya Babiloni yaliharibu Yerusalemu na hekalu lililojengwa wakati Sulemani alikuwa mfalme. Walilazimisha watu wengi wa Yuda kuondoka katika ardhi yao. Walilazimika kuishi uhamishoni Babiloni. Merodaki-Baladani, Nebukadneza, Awel-Marduku na Belshaza walikuwa wafalme wa Kikaldayo wa Babiloni. Serikali ya Wapersia ilichukua udhibiti wa serikali ya Babiloni mnamo 539 KK. Vitabu vingine vya Biblia hutumia jina Babiloni kuzungumzia serikali zenye nguvu. Jina Babiloni lilielezea falme tajiri na zenye kiburi ambazo hazikumheshimu Mungu. Walijaribu kuwa na nguvu zaidi kuliko serikali au kundi lolote la watu. Walitawala mataifa mengine bila huruma na kuwatendea watu vibaya sana. Katika Ufunuo, Yohana alitumia Babiloni kama ishara ya serikali ya Roma.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Babylonia",
+          "type": "place",
+          "preferred_label": "Babylonia",
+          "confidence": 0.9085,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Babylon.2",
+          "type": "place",
+          "preferred_label": "Babylon",
+          "confidence": 0.8876,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Babylon",
+          "type": "group",
+          "preferred_label": "Babylonians",
+          "confidence": 0.8684,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Babylon",
+          "type": "place",
+          "preferred_label": "Babeli",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367563,
+    "content_id": "367563",
     "reference_id": 108072,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bahari",
     "media_type": "Text",
     "index_reference": "bahari",
@@ -116,13 +217,22 @@
     "content": "<p>Hadithi nyingi katika Biblia zinaelezea bahari kama kitu cha kuogopwa. Ilikuwa kitu ambacho watu walihitaji Mungu awaokoe kutoka kwayo. Hii ilijumuisha Waisraeli kuvuka Bahari ya Shamu. Ilijumuisha Yona aliporushwa baharini. Ilijumuisha Yesu alipoutuliza dhoruba baharini. Ilijumuisha maono ya Yohana katika Ufunuo ya mnyama aliyekuja kutoka baharini.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:AdriaticSea",
+          "type": "place",
+          "preferred_label": "bahari",
+          "confidence": 0.897,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368066,
+    "content_id": "368066",
     "reference_id": 108575,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bahari ya Mediterania",
     "media_type": "Text",
     "index_reference": "bahari ya mediterania",
@@ -131,13 +241,14 @@
     "content": "<p>Sehemu kubwa ya maji inayounganisha Afrika, Asia na Ulaya, ilikuwa mpaka wa magharibi wa ardhi ambayo Mungu aliwaahidi Waisraeli.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367811,
+    "content_id": "367811",
     "reference_id": 108320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bahari ya Shamu",
     "media_type": "Text",
     "index_reference": "bahari ya shamu",
@@ -146,13 +257,14 @@
     "content": "<p>Ni ziwa kubwa la maji kwenye mpaka wa Misri wakati wa kutoka. Haijulikani kwa hakika ni ziwa gani la maji kwa  leo hii. Mungu aligawanya maji ili watu wa Israeli waweze kupita kwenye ardhi kavu. Baada ya Waisraeli kufika upande wa pili, Wamisri walizama kwenye maji.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367889,
+    "content_id": "367889",
     "reference_id": 108398,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Balaamu",
     "media_type": "Text",
     "index_reference": "balaamu",
@@ -161,13 +273,22 @@
     "content": "<p>Ni nabii kutoka Mesopotamia ambaye hakuwa kutoka ukoo wa Yakobo. Alitumia uchawi kujua kitakachotokea baadaye. Balaki alimwajiri ili aweke laana kwa watu wa Israeli. Punda wa Balaamu alizungumza naye ili kujaribu kumzuia. Mungu alisababisha Balaamu kuwabariki watu wake badala ya kuwawekea laana.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Balaam",
+          "type": "person",
+          "preferred_label": "Balaamu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367887,
+    "content_id": "367887",
     "reference_id": 108396,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Balaki",
     "media_type": "Text",
     "index_reference": "balaki",
@@ -176,13 +297,22 @@
     "content": "<p>Ni mfalme wa Moabu ambaye wakati waisraeli walipokuwa wakisafiri kwenda Kanaani,  alimwaajiri nabii Balaamu kuwawekea waisraeli laana. Alidhani kwamba hii ingemsaidia kuwafukuza waisraeli kutoka katika nchi yake.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Balak",
+          "type": "person",
+          "preferred_label": "Balaki",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367567,
+    "content_id": "367567",
     "reference_id": 108076,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baraba",
     "media_type": "Text",
     "index_reference": "baraba",
@@ -191,13 +321,36 @@
     "content": "<p>Myahudi aliyekuwa na hatia ya mauaji, na kupigana dhidi ya serikali ya Kirumi. Warumi walikuwa wamemtia gerezani. Pilato alimwachilia huru badala ya kumwachilia Yesu katika Sikukuu ya Pasaka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barabbas",
+          "type": "person",
+          "preferred_label": "Baraba",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "Barnaba",
+          "confidence": 0.8229,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rabbah.2",
+          "type": "place",
+          "preferred_label": "Rabbah",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367762,
+    "content_id": "367762",
     "reference_id": 108271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baraka ya baba",
     "media_type": "Text",
     "index_reference": "baraka ya baba",
@@ -206,13 +359,14 @@
     "content": "<p>Ni maneno ya mwisho ambayo baba aliwaambia watoto wake kwa sauti kabla ya kufa. Baba angesema kile alichofikiria au alichotarajia kingetokea baadaye katika maisha ya watoto wake. Kwa kawaida hii ingejumuisha ahadi za mafanikio, utajiri na mamlaka. Mwanaye wa kwanza kwa kawaida alipokea baraka kubwa zaidi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367870,
+    "content_id": "367870",
     "reference_id": 108379,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baraka za Agano",
     "media_type": "Text",
     "index_reference": "baraka za agano",
@@ -221,13 +375,14 @@
     "content": "<p>Mambo mazuri yaliyotokea wakati watu walikuwa waaminifu kwa agano. Katika maagano na Mungu, kuwa mwaminifu kulimaanisha kuishi kulingana na njia za Mungu, na hii ilisababisha baraka ambazo Mungu alitoa. Hizi kwa kawaida zilihusiana na ardhi, watoto na uwepo wa Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367646,
+    "content_id": "367646",
     "reference_id": 108155,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baraka za kiroho",
     "media_type": "Text",
     "index_reference": "baraka za kiroho",
@@ -236,13 +391,14 @@
     "content": "<p>Njia ambazo Mungu hubariki watu wake kiroho. Baraka hizi si kitu ambacho watu wanaweza kushika mikononi mwao. Ni utajiri wa mbinguni ambao Yesu alizungumzia (Mathayo 6:19–21). Kuna aina nyingi za baraka za kiroho. Hekima, ufahamu, neema, tumaini na upendo ni baraka za kiroho. Kusamehewa dhambi na kuwa na uzima wa milele pia ni baraka za kiroho. Watu hawapati baraka za kiroho. Mungu huwapa bure.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367926,
+    "content_id": "367926",
     "reference_id": 108435,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Baraki",
     "media_type": "Text",
     "index_reference": "baraki",
@@ -251,13 +407,22 @@
     "content": "<p>Mwisraeli kutoka kabila la Naftali. Alitii maagizo ya Mungu kwa kushambulia jeshi la Sisera. Lakini alikuwa tayari kumtii Mungu tu ikiwa Debora angeenda naye. Wakiwa pamoja na Debora, aliimba wimbo muhimu kuhusu ushindi wao katika Waamuzi sura ya 5.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barachel",
+          "type": "person",
+          "preferred_label": "Barakeli",
+          "confidence": 0.8431,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367736,
+    "content_id": "367736",
     "reference_id": 108245,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bariki mataifa yote",
     "media_type": "Text",
     "index_reference": "bariki mataifa yote",
@@ -266,13 +431,14 @@
     "content": "<p>Mungu aliahidi kwamba mataifa yote duniani yangebarikiwa kupitia Ibrahimu na ukoo wake. Mungu alirudilia ahadi hii kwa Isaka na kwa Yakobo. Ilirudiwa katika Zaburi 72 na Zakaria sura ya 8. Ahadi hii ilitimizwa kwa njia nyingi. Njia moja ilikuwa kupitia sheria za agano la Mungu na Waisraeli. Waisraeli walipaswa kumwabudu Mungu pekee na kutii agano la Mlima Sinai. Hii ingeonyesha mataifa mengine jinsi watu wa Mungu walivyokuwa na hekima na ufahamu. Ingeonyesha mataifa mengine kwamba Mungu alikuwa karibu na watu wake na aliwapenda. Hii ingefanya mataifa mengine kutaka kumwabudu na kumtii Mungu wa kweli. Njia nyingine ilikuwa kupitia Yesu. Yesu alitoka katika ukoo wa Ibrahimu. Watu wote duniani wanaweza kufanywa kuwa sawa na Mungu kwa kumwamini Yesu. Hivyo ndivyo ahadi ya Mungu kuhusu mataifa yote kubarikiwa inavyotimizwa kikamilifu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367598,
+    "content_id": "367598",
     "reference_id": 108107,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barnaba",
     "media_type": "Text",
     "index_reference": "barnaba",
@@ -281,13 +447,29 @@
     "content": "<p>Muumini Myahudi kutoka kabila la Lawi ambaye  alitoka kisiwa cha Kupro. Jina lake ni mfano wa maneno ya Kiebrania, maana yeke, &apos;mwana wa msaada.&apos; Barnaba pia aliitwa Yusufu. Alitoa kwa hiari kile alichomiliki ili kusaidia wengine. Pia alisaidia kuleta amani kati ya watu. Barnaba alikuwa mtume. Alimsaidia Sauli baada ya kuwa muumini. Yeye na Sauli walisafiri sehemu nyingi wakitangaza habari njema kuhusu Yesu. Yohana Marko alikuwa binamu wa Barnaba.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Barnabas",
+          "type": "person",
+          "preferred_label": "Barnaba",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Barabbas",
+          "type": "person",
+          "preferred_label": "Baraba",
+          "confidence": 0.8229,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367664,
+    "content_id": "367664",
     "reference_id": 108173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barua kwa makanisa",
     "media_type": "Text",
     "index_reference": "barua kwa makanisa",
@@ -296,13 +478,14 @@
     "content": "<p>Yesu alimwamuru Yohana kuandika barua zenye ujumbe kwa makanisa saba. Kila barua ilianza kwa kumuelezea Yesu kwa njia tofauti. Katika barua nyingi, Yesu alitaja njia ambazo kanisa lilikuwa linaishi kwa uaminifu. Katika barua nyingi pia alitaja njia ambazo kanisa halikuwa linaishi kwa uaminifu kwake. Yesu aliwasihi waumini katika kila kanisa wasikilize Roho Mtakatifu. Yesu alimaliza kila barua na ahadi. Ahadi ilikuwa kwa wale waliokuwa na ushindi juu ya nguvu ya dhambi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367611,
+    "content_id": "367611",
     "reference_id": 108120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Barua za Paulo",
     "media_type": "Text",
     "index_reference": "barua za paulo",
@@ -311,13 +494,14 @@
     "content": "<p>Paulo aliandika barua kwa waumini na makanisa mengi. Kumi na tatu ya barua hizi ziko katika Agano Jipya. Zinajumuisha vitabu vya Warumi, 1 Wakorintho, 2 Wakorintho, Wagalatia, Waefeso, Wafilipi na Wakolosai. Pia zinajumuisha vitabu vya 1 Wathesalonike, 2 Wathesalonike, 1 Timotheo, 2 Timotheo, Tito na Filemoni. Ilikuwa kawaida kwa Paulo kusema kwa sauti, kile alichotaka kusema katika barua zake. Msaidizi aliandika maneno hayo. Kisha Paulo aliongeza ujumbe wa mwisho kwa maandishi yake mwenyewe. Hii iliwasaidia watu kuwa na uhakika kwamba barua hizo zilikuwa kweli kutoka kwake. Wasaidizi wa Paulo walibeba barua kutoka kwa Paulo kwenda kwa makanisa au kwa watu wengine. Kanisa liliwasomea kwa sauti na kisha kuzishirikisha na makanisa mengine katika eneo hilo. Paulo aliandika baadhi ya barua zake alipokuwa gerezani.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367959,
+    "content_id": "367959",
     "reference_id": 108468,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bathsheba",
     "media_type": "Text",
     "index_reference": "bathsheba",
@@ -326,13 +510,22 @@
     "content": "<p>Mke wa Uria Mhiti. Daudi alizini naye, akamuua mumewe kisha akamfanya kuwa mke wake. Mwana wake wa kwanza na Daudi alikufa kutokana na dhambi za Daudi. Mwana wake wa pili na Daudi alikuwa Sulemani. Yesu alitoka katika ukoo wa Bathsheba.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Bathsheba",
+          "type": "person",
+          "preferred_label": "Bathsheba",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367786,
+    "content_id": "367786",
     "reference_id": 108295,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beersheba",
     "media_type": "Text",
     "index_reference": "beersheba",
@@ -341,13 +534,22 @@
     "content": "<p>Mji ulioko kusini mwa Kanaani. Ulikuwa mji wa kusini zaidi katika nchi ya Israeli. Ibrahimu alichimba kisima huko. Mungu alizungumza na Hagari, Isaka, Yakobo na Eliya huko Beersheba au jangwani karibu nayo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Beersheba",
+          "type": "place",
+          "preferred_label": "Beer-sheba",
+          "confidence": 0.8743,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367785,
+    "content_id": "367785",
     "reference_id": 108294,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Benyamini",
     "media_type": "Text",
     "index_reference": "benyamini",
@@ -356,13 +558,71 @@
     "content": "<p>Ni mwana wa mwisho wa Yakobo na Raheli. Raheli alimtaja kwanza kama Ben-Oni. Katika lugha ya Kiebrania Ben-Oni inamaanisha mwana wa shida yangu. Yakobo alibadilisha jina lake kuwa Benyamini. Benyamini inamaanisha mwana wa mkono wangu wa kiume. Raheli alikufa akimzaa Benyamini. Ukoo wake ukawa kabila la Israeli.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Benjamin",
+          "type": "group",
+          "preferred_label": "Benyamini",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin",
+          "type": "person",
+          "preferred_label": "Benyamini",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.2",
+          "type": "person",
+          "preferred_label": "Benyamini",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.3",
+          "type": "person",
+          "preferred_label": "Benyamini",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.4",
+          "type": "person",
+          "preferred_label": "Benyamini",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.5",
+          "type": "person",
+          "preferred_label": "Benyamini",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:BenjaminGate",
+          "type": "place",
+          "preferred_label": "Benyamini",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ben-ammi",
+          "type": "person",
+          "preferred_label": "Benami",
+          "confidence": 0.8586,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367620,
+    "content_id": "367620",
     "reference_id": 108129,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Beroya",
     "media_type": "Text",
     "index_reference": "beroya",
@@ -371,13 +631,57 @@
     "content": "<p>Ni mji wa Kiyunani katika eneo la Kirumi la Makedonia. Ilikuwa katika eneo ambalo sasa ni kaskazini mwa Ugiriki. Paulo alisafiri huko katika safari yake ya pili.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Berea",
+          "type": "place",
+          "preferred_label": "Beroya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beraiah",
+          "type": "person",
+          "preferred_label": "Beraya",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah",
+          "type": "person",
+          "preferred_label": "Beria",
+          "confidence": 0.8134,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah.2",
+          "type": "person",
+          "preferred_label": "Beria",
+          "confidence": 0.8134,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah.3",
+          "type": "person",
+          "preferred_label": "Beria",
+          "confidence": 0.8134,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beriah.4",
+          "type": "person",
+          "preferred_label": "Beria",
+          "confidence": 0.8134,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367566,
+    "content_id": "367566",
     "reference_id": 108075,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bethania",
     "media_type": "Text",
     "index_reference": "bethania",
@@ -386,13 +690,50 @@
     "content": "<p>Ni mji ambamo Mariamu, Martha na Lazaro waliishi. Ilikuwa umbali mfupi mashariki mwa Yerusalemu na karibu na Mlima wa Mizeituni.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Bethany",
+          "type": "place",
+          "preferred_label": "Bethania",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethany.2",
+          "type": "place",
+          "preferred_label": "Bethania",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Batanea",
+          "type": "place",
+          "preferred_label": "Batanea",
+          "confidence": 0.8196,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-anoth",
+          "type": "place",
+          "preferred_label": "Bethanothi",
+          "confidence": 0.8023,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-anath",
+          "type": "place",
+          "preferred_label": "Bethanathi",
+          "confidence": 0.8002,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367763,
+    "content_id": "367763",
     "reference_id": 108272,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Betheli",
     "media_type": "Text",
     "index_reference": "betheli",
@@ -401,13 +742,64 @@
     "content": "<p>Ni pahali ambapo Mungu alimtokea Yakobo alipokimbia kutoka kwa Esau. Pia paliitwa Luzi. Katika lugha ya Kiebrania Betheli inamaanisha nyumba ya Mungu. Ibrahimu na Yakobo walijenga madhabahu za kumwabudu Mungu hapo. Betheli, ikawa mji muhimu katika Israeli. Ilikuwa kaskazini mwa Yerusalemu kwenye mpaka kati ya falme za kusini na kaskazini. Yeroboamu alijenga hekalu la kuabudu miungu ya uongo hapo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Bethel",
+          "type": "place",
+          "preferred_label": "Betheli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethel.2",
+          "type": "place",
+          "preferred_label": "Betheli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethul",
+          "type": "place",
+          "preferred_label": "Bethuli",
+          "confidence": 0.8734,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bethuel",
+          "type": "person",
+          "preferred_label": "Bethueli",
+          "confidence": 0.8686,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethuel",
+          "type": "place",
+          "preferred_label": "Bethueli",
+          "confidence": 0.8686,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:BetherMountain",
+          "type": "place",
+          "preferred_label": "Betheri",
+          "confidence": 0.8187,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-arbel",
+          "type": "place",
+          "preferred_label": "Betharbeli",
+          "confidence": 0.8045,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367933,
+    "content_id": "367933",
     "reference_id": 108442,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bethlehemu",
     "media_type": "Text",
     "index_reference": "bethlehemu",
@@ -416,13 +808,36 @@
     "content": "<p>Ni mji ambao David alitoka na ambapo Yesu alizaliwa. Ni umbali mfupi kusini mwa Yerusalemu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Bethlehem",
+          "type": "place",
+          "preferred_label": "Bethlehemu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethlehem.2",
+          "type": "place",
+          "preferred_label": "Bethlehemu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Bethlehem",
+          "type": "group",
+          "preferred_label": "Bethlehemites",
+          "confidence": 0.8897,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367684,
+    "content_id": "367684",
     "reference_id": 108193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bibilia",
     "media_type": "Text",
     "index_reference": "bibilia",
@@ -439,13 +854,14 @@
           "label": "Neno la Mungu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367780,
+    "content_id": "367780",
     "reference_id": 108289,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bilha",
     "media_type": "Text",
     "index_reference": "bilha",
@@ -462,13 +878,29 @@
           "label": "Masuria",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Bilhah",
+          "type": "person",
+          "preferred_label": "Bilha",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bilhah",
+          "type": "place",
+          "preferred_label": "Bilha",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 367693,
+    "content_id": "367693",
     "reference_id": 108202,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Binadamu",
     "media_type": "Text",
     "index_reference": "binadamu",
@@ -477,13 +909,22 @@
     "content": "<p>Mungu aliumba wanadamu kwa mfano wake. Alikusudia waishi milele kwa amani kamili naye. Walipaswa kuishi kwa amani na wao kwa wao na viumbe vingine vyote. Lakini Adamu na Hawa walitenda dhambi. Tangu wakati huo dhambi na kifo vimekuwa na mamlaka juu ya wanadamu. Wanadamu hutenda dhambi. Wanadamu hufa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:GenericMale",
+          "type": "person",
+          "preferred_label": "A Man",
+          "confidence": 0.8173,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367896,
+    "content_id": "367896",
     "reference_id": 108405,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Binti za Selofehadi",
     "media_type": "Text",
     "index_reference": "binti za selofehadi",
@@ -492,13 +933,14 @@
     "content": "<p>Mahla, Nuhu, Hogla, Milka na Tirza walikuwa kutoka kabila la Manase. Baba yao Selofehadi alikufa jangwani baada ya Waisraeli kukataa kuingia Kanaani. Binti zake walipokea ardhi kwa ajili ya ukoo wa Selofehadi kwa kuwa hakuwa na wana. Waliolewa na binamu zao katika kundi la familia yao. Kwa njia hii ardhi yao ingekuwa ya kabila la Manase daima.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367698,
+    "content_id": "367698",
     "reference_id": 108207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bustani ya Edeni",
     "media_type": "Text",
     "index_reference": "bustani ya edeni",
@@ -507,13 +949,22 @@
     "content": "<p>Bustani ambayo Mungu aliumba alipoumba ulimwengu, wanadamu wa kwanza waliishi na kufanya kazi humo. Maisha katika Bustani ya Edeni yalikuwa jinsi Mungu alivyotaka ulimwengu wake uwe kuwa Mungu na wanadamu waliishi pamoja kwa amani. Bustani ilikuwa nzuri na ilijaa na aina nyingi za mimea na wanyama. Mimea ilikuwa bora kwa chakula, na kulikuwa na maji mengi. Wanadamu hawakuhitaji kujilinda dhidi ya chochote katika bustani.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Eden.2",
+          "type": "place",
+          "preferred_label": "Garden of Eden",
+          "confidence": 0.9181,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367717,
+    "content_id": "367717",
     "reference_id": 108226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bwana",
     "media_type": "Text",
     "index_reference": "bwana",
@@ -522,13 +973,14 @@
     "content": "<p>Jina ambalo Waisraeli walitumia kumzungumzia Mungu. Katika lugha ya Kiebrania jina hilo linaundwa na herufi YHWH. Hakuna anayejua kwa wazi jina hili linamaanisha nini. Herufi hizi zinasikika kama maneno ya Kiebrania kwa Mimi ni yule niye.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367820,
+    "content_id": "367820",
     "reference_id": 108329,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bwana - Mtawala",
     "media_type": "Text",
     "index_reference": "bwana - mtawala",
@@ -537,13 +989,14 @@
     "content": "<p>Jina la mtawala, kiongozi au bwana. Linatumika kama jina la Mungu katika Biblia. Iinamaanisha kwamba Mungu ana mamlaka juu ya kila kitu na kila mtu. Katika nyakati za Agano Jipya, neno bwana lilitumika kama jina kwa ajili ya mfalme wa Kirumi. Lilimaanisha kwamba Kaisari alikuwa na mamlaka kila mahali ambapo serikali ya Kirumi ilikuwa na udhibiti. Wafuasi wa Yesu walimwita Bwana. Hii ilimaanisha kwamba walitambua kwamba Yesu ni Mungu. Walitambua kwamba Yesu ana mamlaka kamili juu ya kila kitu na kila mtu. Wafuasi wa Yesu walipinga mamlaka ya Kaisari walipomwita Yesu Bwana.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367637,
+    "content_id": "367637",
     "reference_id": 108146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bwana Yesu Kristo",
     "media_type": "Text",
     "index_reference": "bwana yesu kristo",
@@ -552,13 +1005,14 @@
     "content": "<p>Jina la Yesu linalomuelezea kwa njia nyingi. Kama Bwana, ana mamlaka juu ya watawala wote duniani. Kama Yesu, yeye ni Myahudi aliyeishi Israeli wakati serikali ya Kirumi ilikuwa ikitawala. Yesu pia ni Mwana wa Mungu. Kama Kristo, yeye ni Masihi na Mfalme wa Kiyahudi. Jina Bwana Yesu Kristo linamaanisha kwamba Yesu ni Mfalme wa kila kitu. Linamaanisha yeye ni Mwokozi anayewaokoa watu wa Mungu na ulimwengu wa asili. Anawaokoa kutoka dhambi, kifo, na uovu. Linamaanisha anastahili kuabudiwa kwa sababu yeye ni Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367582,
+    "content_id": "367582",
     "reference_id": 108091,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Bwawa la Bethzatha",
     "media_type": "Text",
     "index_reference": "bwawa la bethzatha",
@@ -567,7 +1021,8 @@
     "content": "<p>Bwawa la maji huko Yerusalemu. Katika lugha ya Kiaramu, Bethzatha inamaanisha nyumba ya rehema. Maji kutoka kwenye bwawa yalitumiwa hekaluni. Watu wengi waliamini kwamba maji kutoka kwenye bwawa yangewaponya magonjwa yao.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

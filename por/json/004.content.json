@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 145900,
+    "content_id": "145900",
     "reference_id": 108391,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cades Barneia",
     "media_type": "Text",
     "index_reference": "cades barneia",
@@ -11,13 +11,22 @@
     "content": "<p>Uma área a sudoeste do Mar Morto no Deserto de Zin. Os israelitas acamparam lá enquanto viajavam do Egito para Canaã. De lá, os israelitas se recusaram a entrar em Canaã. Cades é onde Miriam morreu. É também onde Moisés desobedeceu a Deus ao bater em uma rocha para obter água.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Kadesh-barnea",
+          "type": "place",
+          "preferred_label": "Cades-Barneia",
+          "confidence": 0.8316,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145601,
+    "content_id": "145601",
     "reference_id": 108092,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cafarnaum",
     "media_type": "Text",
     "index_reference": "cafarnaum",
@@ -26,13 +35,22 @@
     "content": "<p>Uma cidade na margem noroeste do Mar da Galileia. Jesus viveu em Cafarnaum por algum tempo e fez muitos milagres lá. Em Cafarnaum, Jesus convidou Pedro, André, Tiago, João e Mateus para serem seus discípulos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Capernaum",
+          "type": "place",
+          "preferred_label": "Cafarnaum",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145731,
+    "content_id": "145731",
     "reference_id": 108222,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Caim",
     "media_type": "Text",
     "index_reference": "caim",
@@ -41,13 +59,29 @@
     "content": "<p>O filho mais velho de Adão e Eva. Ele era um agricultor. Ele fez uma oferta que não agradou a Deus. Ele matou seu irmão Abel. O solo onde ele assassinou Abel foi uma testemunha contra ele. Deus trouxe justiça punindo Caim. Ele não podia mais viver em apenas um lugar ou ser um agricultor. Deus protegeu Caim de ser morto por outras pessoas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cain",
+          "type": "person",
+          "preferred_label": "Caim",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kain",
+          "type": "place",
+          "preferred_label": "Caim",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145899,
+    "content_id": "145899",
     "reference_id": 108390,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Calebe",
     "media_type": "Text",
     "index_reference": "calebe",
@@ -56,13 +90,36 @@
     "content": "<p>Um homem nascido escravo no Egito que entrou em Canaã com os israelitas. Ele não era da linha familiar de Jacó. Ele foi o espião da tribo de Judá que explorou a terra de Canaã. Ele trouxe um bom relatório. Calebe obedeceu a Deus completamente.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Caleb",
+          "type": "person",
+          "preferred_label": "Calebe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Caleb.2",
+          "type": "person",
+          "preferred_label": "Calebe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Caleb",
+          "type": "group",
+          "preferred_label": "Calebites",
+          "confidence": 0.8344,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145751,
+    "content_id": "145751",
     "reference_id": 108242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cam",
     "media_type": "Text",
     "index_reference": "cam",
@@ -71,13 +128,14 @@
     "content": "<p>O filho mais novo de Noé. Ele e sua esposa foram salvos do dilúvio porque estavam na arca. Ele não tratou seu pai com respeito quando Noé ficou bêbado após o dilúvio. Por causa disso, Noé proferiu uma maldição em vez de uma bênção sobre parte da família de Cam.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145614,
+    "content_id": "145614",
     "reference_id": 108105,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Caminho de Jesus",
     "media_type": "Text",
     "index_reference": "caminho de jesus",
@@ -86,13 +144,14 @@
     "content": "<p>Um nome para a prática de seguir Jesus. Este nome foi usado em Atos para descrever como a comunidade de crentes vivia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145599,
+    "content_id": "145599",
     "reference_id": 108090,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Caná",
     "media_type": "Text",
     "index_reference": "caná",
@@ -101,13 +160,36 @@
     "content": "<p>Uma cidade na Galileia. Dois dos sete sinais no evangelho de João ocorreram lá. O discípulo Natanael era de Caná.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Cana",
+          "type": "place",
+          "preferred_label": "Caná",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Canaan",
+          "type": "person",
+          "preferred_label": "Canaã",
+          "confidence": 0.879,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Canaã",
+          "confidence": 0.879,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145755,
+    "content_id": "145755",
     "reference_id": 108246,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Canaã",
     "media_type": "Text",
     "index_reference": "canaã",
@@ -116,13 +198,57 @@
     "content": "<p>Uma área de terra entre o Mar Mediterrâneo e o Rio Jordão. No sul, alcançava quase o Deserto do Sinai. No norte, alcançava o Rio Eufrates. Os grupos de pessoas que viviam lá antes dos israelitas eram chamados de cananeus. Muitos desses grupos eram da linha familiar do filho de Cam, Canaã. Isso incluía os hititas, jebuseus, heveus e amorreus. Alguns cananeus reconheceram que Deus é o verdadeiro Deus. Alguns deles foram úteis ao povo de Deus e se tornaram parte deles. Outros se recusaram a adorar somente a Deus. Eles eram inimigos do povo de Israel e Deus trouxe julgamento contra eles. Canaã era onde estão agora as áreas chamadas Israel, Palestina, Líbano e partes da Síria. Deus prometeu essa área à linha familiar de Abraão. As tribos de Israel viveram lá depois de serem libertadas da escravidão no Egito.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Canaan",
+          "type": "person",
+          "preferred_label": "Canaã",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Canaan",
+          "type": "place",
+          "preferred_label": "Canaã",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Cana",
+          "type": "place",
+          "preferred_label": "Caná",
+          "confidence": 0.879,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kanah.2",
+          "type": "place",
+          "preferred_label": "Kanah",
+          "confidence": 0.8239,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Cainan",
+          "type": "person",
+          "preferred_label": "Cainã",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kenan",
+          "type": "person",
+          "preferred_label": "Cainã",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145682,
+    "content_id": "145682",
     "reference_id": 108173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cartas às igrejas",
     "media_type": "Text",
     "index_reference": "cartas às igrejas",
@@ -131,13 +257,14 @@
     "content": "<p>Jesus ordenou a João que escrevesse cartas com mensagens para sete igrejas. Cada carta começava descrevendo Jesus de uma maneira diferente. Na maioria das cartas, Jesus mencionava maneiras pelas quais a igreja estava vivendo fielmente. Na maioria, ele também mencionava maneiras pelas quais a igreja não estava sendo fiel a ele. Jesus exortou os crentes em cada igreja a ouvirem o Espírito Santo. Jesus terminava cada carta com uma promessa. A promessa era para aqueles que compartilhavam de sua vitória sobre o poder do pecado.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145629,
+    "content_id": "145629",
     "reference_id": 108120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cartas de Paulo",
     "media_type": "Text",
     "index_reference": "cartas de paulo",
@@ -146,13 +273,14 @@
     "content": "<p>Paulo escreveu cartas para muitos crentes e igrejas. Treze dessas cartas estão no Novo Testamento. Elas incluem os livros de Romanos, 1 Coríntios, 2 Coríntios, Gálatas, Efésios, Filipenses e Colossenses. Elas também incluem os livros de 1 Tessalonicenses, 2 Tessalonicenses, 1 Timóteo, 2 Timóteo, Tito e Filemom. Era comum Paulo falar em voz alta o que queria dizer em suas cartas. Um ajudante escrevia as palavras. Então Paulo adicionava uma mensagem final com sua própria caligrafia. Isso ajudava as pessoas a terem certeza de que as cartas eram realmente dele. Os ajudantes de Paulo levavam as cartas de Paulo para as igrejas ou para outras pessoas. A igreja as liam em voz alta e depois as compartilhava com outras igrejas na área. Paulo escreveu algumas de suas cartas enquanto estava na prisão.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145715,
+    "content_id": "145715",
     "reference_id": 108206,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Casamento",
     "media_type": "Text",
     "index_reference": "casamento",
@@ -161,13 +289,14 @@
     "content": "<p>A prática na Bíblia que permitia a um homem e uma mulher se unirem. Permitia que fossem uma família. É assim que os seres humanos obedeciam à instrução de Deus para terem filhos e encherem a terra. A Lei de Moisés incluía muitas regras sobre casamento entre os israelitas. A principal regra era que maridos e esposas deviam ser sempre fiéis um ao outro. Deviam ter relações sexuais apenas um com o outro. Cântico dos Cânticos deu um exemplo de alegria, respeito e bondade no casamento. Os profetas do Antigo Testamento usaram o casamento como uma metáfora. Descrevia algo sobre a relação entre o povo de Israel e Deus. Deus era como o marido e Israel era como a esposa. Deus amava Israel e era sempre fiel ao seu povo. Escritores do Novo Testamento também usaram o casamento como uma metáfora. Jesus era como o noivo e a igreja era como a noiva. Isso mostra o quanto Jesus ama seus seguidores.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145657,
+    "content_id": "145657",
     "reference_id": 108148,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ceia do Senhor",
     "media_type": "Text",
     "index_reference": "ceia do senhor",
@@ -176,13 +305,14 @@
     "content": "<p>A refeição que os cristãos compartilham juntos para lembrar a morte de Jesus. É baseada na última ceia que Jesus compartilhou com seus discípulos antes de morrer. Também é baseada na Festa da Páscoa judaica. A refeição inclui comer pão e beber vinho. Isso lembra aos crentes que Jesus deu seu corpo e seu sangue para salvar todas as pessoas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145763,
+    "content_id": "145763",
     "reference_id": 108254,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Certo com Deus",
     "media_type": "Text",
     "index_reference": "certo com deus",
@@ -191,13 +321,14 @@
     "content": "<p>Ser capaz de viver em paz e alegria com Deus. Isso também é chamado de ser feito justo ou ser justificado. Significa que as pessoas podem desfrutar das bênçãos da aliança de Deus. Também significa que as pessoas podem ser libertas do poder do pecado, da morte e do mal. Deus as liberta através da morte e ressurreição de Jesus. Pessoas que confiam em Deus e têm fé nele são feitas justas com ele.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145543,
+    "content_id": "145543",
     "reference_id": 108034,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "César",
     "media_type": "Text",
     "index_reference": "césar",
@@ -206,13 +337,14 @@
     "content": "<p>O título para o governante com mais autoridade nas terras controladas pelo governo romano. Júlio César foi o primeiro a usar este nome. Os governantes que vieram depois dele também o usaram. Os Césares após Júlio foram imperadores de Roma. Quase todos os Césares trataram muito mal as pessoas que governavam. César Augusto era o imperador quando Jesus nasceu. Os romanos adoravam o imperador como senhor e como filho dos deuses. Aqueles que se recusavam a adorar o imperador eram maltratados. Eles não podiam comprar e vender no mercado. O anúncio de que Jesus é Senhor e Filho de Deus desafiava a autoridade do governante de Roma.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145647,
+    "content_id": "145647",
     "reference_id": 108138,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cesareia",
     "media_type": "Text",
     "index_reference": "cesareia",
@@ -221,13 +353,29 @@
     "content": "<p>A capital do território romano da Judeia em Israel. Estava na costa do Mar Mediterrâneo. Herodes, o Grande, mandou construir a cidade.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Caesarea",
+          "type": "place",
+          "preferred_label": "Cesareia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Caesarea.2",
+          "type": "place",
+          "preferred_label": "Caesarea",
+          "confidence": 0.8912,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145710,
+    "content_id": "145710",
     "reference_id": 108201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Céu",
     "media_type": "Text",
     "index_reference": "céu",
@@ -251,13 +399,43 @@
           "label": "Reino de Deus",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Zeruah",
+          "type": "person",
+          "preferred_label": "Zerua",
+          "confidence": 0.9291,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Heaven",
+          "type": "keyterm",
+          "preferred_label": "céu",
+          "confidence": 0.9117,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Heavenly",
+          "type": "keyterm",
+          "preferred_label": "Heavenly",
+          "confidence": 0.8215,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:FromHeaven",
+          "type": "keyterm",
+          "preferred_label": "do céu",
+          "confidence": 0.8195,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 145621,
+    "content_id": "145621",
     "reference_id": 108112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Chipre",
     "media_type": "Text",
     "index_reference": "chipre",
@@ -266,13 +444,22 @@
     "content": "<p>Uma grande ilha no Mar Mediterrâneo a oeste da Síria e ao sul da Turquia. Profetas no Antigo Testamento mencionaram Chipre. A ilha foi importante na primeira viagem de Paulo para compartilhar as boas novas. Os crentes Barnabé e Mnason eram de Chipre.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Cyprus",
+          "type": "place",
+          "preferred_label": "Chipre",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145636,
+    "content_id": "145636",
     "reference_id": 108127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cidadão romano",
     "media_type": "Text",
     "index_reference": "cidadão romano",
@@ -281,13 +468,14 @@
     "content": "<p>Ser um cidadão de Roma dava às pessoas certos direitos. Protegia-as de serem tratadas mal de certas maneiras. Os governantes romanos tinham que seguir as leis romanas sobre os cidadãos. A maioria das pessoas nas terras controladas pelo governo romano não eram cidadãos romanos. Ser um cidadão romano era especial.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145665,
+    "content_id": "145665",
     "reference_id": 108156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cidadãos do céu",
     "media_type": "Text",
     "index_reference": "cidadãos do céu",
@@ -304,13 +492,14 @@
           "label": "Reino de Deus",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 145919,
+    "content_id": "145919",
     "reference_id": 108410,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cidades seguras",
     "media_type": "Text",
     "index_reference": "cidades seguras",
@@ -319,13 +508,14 @@
     "content": "<p>Seis cidades onde os levitas viviam. Três estavam no lado leste do Rio Jordão. Três estavam no lado oeste. Pessoas que acidentalmente matavam alguém poderiam ir para lá. Elas estariam seguras e não seriam mortas pelo parente masculino mais próximo da pessoa morta. Elas poderiam viver lá até que o sumo sacerdote morresse. Então, poderiam voltar para onde viviam antes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145766,
+    "content_id": "145766",
     "reference_id": 108257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Circuncisão",
     "media_type": "Text",
     "index_reference": "circuncisão",
@@ -334,13 +524,14 @@
     "content": "<p>Uma prática entre alguns grupos de pessoas nos tempos e lugares registrados na Bíblia. O prepúcio do órgão sexual masculino é cortado. Para os israelitas, a circuncisão era um sinal. Mostrava que eles faziam parte do povo com quem Deus fez uma aliança. Os israelitas praticavam a circuncisão apenas em homens com mais de oito dias de idade.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 146011,
+    "content_id": "146011",
     "reference_id": 108502,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ciro",
     "media_type": "Text",
     "index_reference": "ciro",
@@ -349,13 +540,22 @@
     "content": "<p>Um rei da Pérsia que também era chamado de Ciro, o Grande ou Ciro II. Deus o usou como uma ferramenta para trazer julgamento contra a Babilônia. Ciro tomou o controle da Babilônia em 539 a.C. Muitos judeus haviam sido forçados a viver na Babilônia. Ciro os incentivou a retornar a Judá. Ele os apoiou na reconstrução de Jerusalém e do templo. Deus usou Ciro como uma ferramenta para realizar essas coisas para os judeus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cyrus",
+          "type": "person",
+          "preferred_label": "Ciro",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145854,
+    "content_id": "145854",
     "reference_id": 108345,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ciumento",
     "media_type": "Text",
     "index_reference": "ciumento",
@@ -364,13 +564,14 @@
     "content": "<p>Uma maneira que Deus se descreve. Ele não é ciumento da maneira pecaminosa que os seres humanos podem ser ciumentos. Os seres humanos podem ter ciúmes de outros que têm algo que eles mesmos precisam ou querem. Deus é ciumento quando os seres humanos adoram falsos deuses. Isso ocorre porque ele é o único Deus verdadeiro. Ele é o único digno de ser adorado.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145558,
+    "content_id": "145558",
     "reference_id": 108049,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cobrador de impostos",
     "media_type": "Text",
     "index_reference": "cobrador de impostos",
@@ -387,13 +588,29 @@
           "label": "Forasteiro",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:TaxCollector",
+          "type": "keyterm",
+          "preferred_label": "cobrador de impostos",
+          "confidence": 0.9193,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:TaxCollectors",
+          "type": "group",
+          "preferred_label": "Tax Collectors",
+          "confidence": 0.8399,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 145669,
+    "content_id": "145669",
     "reference_id": 108160,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Colossos",
     "media_type": "Text",
     "index_reference": "colossos",
@@ -402,13 +619,22 @@
     "content": "<p>Uma cidade no território romano da Ásia Menor no que agora é chamado de Turquia. Epafras compartilhou a mensagem sobre Jesus lá e ajudou a iniciar uma igreja. Paulo escreveu uma carta para a igreja lá. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Colossae",
+          "type": "place",
+          "preferred_label": "Colossos",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145874,
+    "content_id": "145874",
     "reference_id": 108365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cômodo Mais Sagrado (Santo dos Santos)",
     "media_type": "Text",
     "index_reference": "cômodo mais sagrado (santo dos santos)",
@@ -425,13 +651,14 @@
           "label": "Arca da Aliança",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 145774,
+    "content_id": "145774",
     "reference_id": 108265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Concubinas",
     "media_type": "Text",
     "index_reference": "concubinas",
@@ -440,13 +667,14 @@
     "content": "<p>Nos tempos e lugares do Antigo Testamento, muitos homens tinham mais de uma esposa. A esposa principal do homem tinha a maior autoridade entre as mulheres da casa. As esposas chamadas concubinas tinham menos direitos. Muitas vezes, escravas ou servas eram forçadas a ser concubinas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145902,
+    "content_id": "145902",
     "reference_id": 108393,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Corá",
     "media_type": "Text",
     "index_reference": "corá",
@@ -455,13 +683,57 @@
     "content": "<p>Um homem nascido como escravo hebreu no Egito. Ele era da tribo de Levi, mas não era da linhagem familiar de Arão. No deserto, ele liderou muitas pessoas para se oporem a Moisés e Arão. Deus destruiu ele e aqueles que o seguiram. Mais tarde, algumas pessoas de sua linhagem familiar serviram a Deus fielmente. Isso incluiu o profeta Samuel e homens conhecidos como os filhos de Corá. Eles lideraram Israel na adoração a Deus com salmos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Korah",
+          "type": "person",
+          "preferred_label": "Corá",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Korah.2",
+          "type": "person",
+          "preferred_label": "Corá",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Korah.3",
+          "type": "person",
+          "preferred_label": "Corá",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Korah.4",
+          "type": "person",
+          "preferred_label": "Corá",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kore",
+          "type": "person",
+          "preferred_label": "Coré",
+          "confidence": 0.9073,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kore.2",
+          "type": "person",
+          "preferred_label": "Coré",
+          "confidence": 0.9073,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145928,
+    "content_id": "145928",
     "reference_id": 108419,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Coração",
     "media_type": "Text",
     "index_reference": "coração",
@@ -470,13 +742,22 @@
     "content": "<p>Ao longo da Bíblia, há dois significados para a palavra coração. O primeiro significado é a parte do corpo que bate dentro do peito. O segundo significado é uma parte espiritual das pessoas onde elas sentem seus sentimentos. É onde elas tomam decisões sobre o que fazer e quem adorar. Deus conhece o coração de cada pessoa. Ele sabe o que elas pensam e sentem e as razões pelas quais tomam suas decisões. O povo de Deus deve servir a Deus com todo o coração. Isso significa que eles devem estar completamente comprometidos a viver de acordo com os caminhos de Deus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Heart",
+          "type": "keyterm",
+          "preferred_label": "coração",
+          "confidence": 0.9136,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145595,
+    "content_id": "145595",
     "reference_id": 108086,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cordeiro de Deus",
     "media_type": "Text",
     "index_reference": "cordeiro de deus",
@@ -485,13 +766,14 @@
     "content": "<p>Um título para Jesus que descreve como ele se sacrificou. Durante a primeira Páscoa, cordeiros eram sacrificados. Por causa de seu sangue, os israelitas eram salvos de serem destruídos. Depois disso, cordeiros eram usados nas práticas de adoração judaicas como um sacrifício pelo pecado. Jesus se sacrificou ao entregar sua vida na cruz. Seu sacrifício salva as pessoas de serem destruídas pelo pecado, pela morte e pelo mal. Dessa forma, ele é como os cordeiros sacrificados pelos israelitas. Em Apocalipse, Jesus parecia ao profeta João como um Cordeiro que havia sido morto. No entanto, o Cordeiro estava vivo. Isso porque Jesus foi ressuscitado dos mortos após morrer na cruz.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145642,
+    "content_id": "145642",
     "reference_id": 108133,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Corinto",
     "media_type": "Text",
     "index_reference": "corinto",
@@ -500,13 +782,29 @@
     "content": "<p>A capital do território romano da Acaia. Está na área que agora é o sul da Grécia. Paulo a visitou em suas segunda e terceira viagens. Ele passou mais de um ano lá compartilhando a mensagem de Jesus e ajudando a igreja. Duas de suas cartas à igreja em Corinto estão no Novo Testamento.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Corinth",
+          "type": "place",
+          "preferred_label": "Corinto",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Corinth",
+          "type": "group",
+          "preferred_label": "Corinthians",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145617,
+    "content_id": "145617",
     "reference_id": 108108,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cornélio",
     "media_type": "Text",
     "index_reference": "cornélio",
@@ -515,13 +813,22 @@
     "content": "<p>Um comandante do exército romano que viveu em Cesareia. Ele não era judeu, mas adorava o Deus de Israel. Ele e sua família foram dos primeiros gentios a seguir o Messias judeu Jesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Cornelius",
+          "type": "person",
+          "preferred_label": "Cornélio",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145652,
+    "content_id": "145652",
     "reference_id": 108143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Corpo de Cristo",
     "media_type": "Text",
     "index_reference": "corpo de cristo",
@@ -530,13 +837,14 @@
     "content": "<p>Uma maneira de descrever a comunidade dos seguidores de Jesus. É uma imagem que descreve como todos na igreja amam e servem uns aos outros. O corpo de Cristo é composto por muitas pessoas diferentes que são reunidas como uma só. Confiar em Jesus e obedecê-lo é o que os torna um. Usando seus diferentes dons, juntos eles continuam fazendo o trabalho de Jesus na terra.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145586,
+    "content_id": "145586",
     "reference_id": 108077,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Crente",
     "media_type": "Text",
     "index_reference": "crente",
@@ -545,13 +853,14 @@
     "content": "<p>Alguém que acredita em Jesus Cristo e o segue. No Novo Testamento, eles também são chamados de cristãos. Eles acreditam que Jesus de Nazaré é o Filho de Deus e que ressuscitou dos mortos. Os crentes adoram Jesus como Deus. Eles o servem como Messias e Rei. Os crentes foram chamados de cristãos pela primeira vez em Antioquia, na Síria. Eles são chamados pelo nome de Cristo porque seguem seu modo de vida. Os crentes permanecem parte de sua comunidade e de seu grupo de pessoas enquanto seguem Jesus. Eles seguem as leis e práticas de seu grupo de pessoas. Eles fazem isso a menos que as leis e práticas sejam contrárias ao que Jesus ensinou. Isso é verdade tanto para crentes judeus quanto para crentes gentios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145764,
+    "content_id": "145764",
     "reference_id": 108255,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Crer em",
     "media_type": "Text",
     "index_reference": "crer em",
@@ -568,13 +877,14 @@
           "label": "Salvação",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 145672,
+    "content_id": "145672",
     "reference_id": 108163,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Creta",
     "media_type": "Text",
     "index_reference": "creta",
@@ -583,13 +893,22 @@
     "content": "<p>Uma grande ilha no Mar Mediterrâneo perto da Grécia. Paulo viajou para Creta durante uma de suas jornadas. Ele ajudou a iniciar várias igrejas lá. Tito ficou para liderar as igrejas. Alguns crentes em Creta eram judeus, mas a maioria eram gentios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Crete",
+          "type": "place",
+          "preferred_label": "Creta",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145706,
+    "content_id": "145706",
     "reference_id": 108197,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Criação",
     "media_type": "Text",
     "index_reference": "criação",
@@ -606,13 +925,14 @@
           "label": "Nova criação",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 145607,
+    "content_id": "145607",
     "reference_id": 108098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cristo",
     "media_type": "Text",
     "index_reference": "cristo",
@@ -636,13 +956,14 @@
           "label": "Messias",
           "language": "por"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 146039,
+    "content_id": "146039",
     "reference_id": 108530,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cruz",
     "media_type": "Text",
     "index_reference": "cruz",
@@ -651,7 +972,8 @@
     "content": "<p>Duas peças de madeira que eram colocadas juntas para que uma pessoa pudesse ser pregada nelas. Os romanos matavam criminosos, rebeldes e escravos dessa maneira. Esse processo é chamado de crucificação. Era feito em público para trazer vergonha aos prisioneiros. Também era feito para fazer as pessoas terem medo de desobedecer às leis romanas. Morrer na cruz era muito doloroso e geralmente lento. Os soldados romanos podiam fazer a morte chegar mais rápido quebrando as pernas dos criminosos. A cruz era um símbolo de terror e morte. Jesus falou sobre a cruz para mostrar como seus seguidores devem estar dispostos a sofrer.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

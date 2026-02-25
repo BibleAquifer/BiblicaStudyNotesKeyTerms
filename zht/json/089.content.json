@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232839,
+    "content_id": "232839",
     "reference_id": 108238,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "挪亞之約",
     "media_type": "Text",
     "index_reference": "挪亞之約",
@@ -11,13 +11,14 @@
     "content": "<p>神選擇藉著挪亞和他的後裔做工，在祂的計劃中拯救世人。神藉著與他們和他們以後出生的所有孩子立約來顯明這一點。這個約也包括方舟裡的所有活物。這是與地上所有生命所立的約。人和動物要充滿全地。任何人都不應被殺害。神承諾不再詛咒這地。祂承諾不再用洪水毀滅地上的所有生命。彩虹是這個約的記號。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232831,
+    "content_id": "232831",
     "reference_id": 108230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "諾亞",
     "media_type": "Text",
     "index_reference": "諾亞",
@@ -26,7 +27,23 @@
     "content": "<p>賽特家族中拉麥的兒子。他是閃、含和雅弗的父親，並且忠心地跟隨神。當神用洪水毀滅地球時，神拯救了挪亞和他的家人。神與挪亞立約。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Noah",
+          "confidence": 0.8426,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Noah.2",
+          "type": "person",
+          "preferred_label": "Noah",
+          "confidence": 0.8426,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 193583,
+    "content_id": "193583",
     "reference_id": 108501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Навуходоносор",
     "media_type": "Text",
     "index_reference": "навуходоносор",
@@ -11,13 +11,22 @@
     "content": "<p><span>Царь в Вавилоне. Происходил из халдеев, родственному арамеям народу. Бог использовал его как инструмент для свершения Своего суда над Южным Царством (Иудеей). В 586 году до н.э. армия Навуходоносора разрушила город Иерусалим и Храм. </span>Пророк Даниил не раз объяснял Навуходоносору значение его снов, которые Бог давал этому царю. <span>Несмотря на то, что Навуходоносор поклонялся ложным богам, он признал, что Бог иудеев обладает истинной властью.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "Навуходоносор",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193438,
+    "content_id": "193438",
     "reference_id": 108356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Надав и Авиуд",
     "media_type": "Text",
     "index_reference": "надав и авиуд",
@@ -26,13 +35,14 @@
     "content": "<p>Надав и Авиуд происходили из колена Левия и были старшими сыновьями Аарона и Елисаветы. Их братьями были Елеазар и Ифамар. Они были на горе Синай с Моисеем и Аароном, когда Бог заключил с народом Израиля завет. Их посвятили в священники, но Надав и Авиуд согрешили против Бога и из-за этого погибли. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193153,
+    "content_id": "193153",
     "reference_id": 108071,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Назарет",
     "media_type": "Text",
     "index_reference": "назарет",
@@ -41,13 +51,22 @@
     "content": "<p>Небольшой город в Южной Галилеи, где прошло детство Иисуса. Этот город расположен между Галилейским морем и Средиземным морем.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Nazareth",
+          "type": "place",
+          "preferred_label": "Назарет",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193466,
+    "content_id": "193466",
     "reference_id": 108384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Назорей",
     "media_type": "Text",
     "index_reference": "назорей",
@@ -56,13 +75,14 @@
     "content": "<p>Мужчины и женщины, которые отделяли себя для служения Богу. В переводе с древнееврейского «назир» означает «быть отделённым или выделенным». Бог повелел некоторым израильтянам быть отделёнными для служения Ему. Другие выбирали это сами; они давали обет назорейства, после чего назывались назореями. Они обещали служить Богу в течение определённого времени, на которое давался обет. Им запрещалось пить спиртные напитки, стричь волосы и прикасаться к телам мёртвых, будь то людей или животных. Для всех других израильтян, назореи были своего рода знаком, что они полностью посвящены и верны Богу. Когда обет их назорейства заканчивался, они приносили жертвы в Храме и сбривали волосы.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193659,
+    "content_id": "193659",
     "reference_id": 108577,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Налоги",
     "media_type": "Text",
     "index_reference": "налоги",
@@ -71,13 +91,22 @@
     "content": "<p>Деньги, которые правители собирают со своих подданных. Все, кто находится под властью конкретного правителя, должны платить налоги, установленные этим правителем. Предполагается, что правители используют налоги своих граждан для пользы населения своей страны. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Tax",
+          "type": "keyterm",
+          "preferred_label": "Tax",
+          "confidence": 0.8755,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193347,
+    "content_id": "193347",
     "reference_id": 108265,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Наложницы",
     "media_type": "Text",
     "index_reference": "наложницы",
@@ -86,13 +115,14 @@
     "content": "<p>В ветхозаветные времена у многих мужчин было больше одной жены. Главная жена имела наибольшую власть среди женщин в доме, тогда как жёны, называемые наложницами, имели меньше прав. Часто наложницами становились рабыни или служанки.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193552,
+    "content_id": "193552",
     "reference_id": 108470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Нафан",
     "media_type": "Text",
     "index_reference": "нафан",
@@ -101,13 +131,78 @@
     "content": "<p>Пророк, живший в период царствования Давида. Он был близким советником царя. Через Нафана Бог обещал Давиду, что престол навсегда будет принадлежать потомкам Давида. Нафан обличал Давида, когда тот совершал неугодные Богу поступки. Этот пророк поддержал Соломона в борьбе за трон как следующего царя после Давида. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nathan",
+          "type": "person",
+          "preferred_label": "Нафан",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.2",
+          "type": "person",
+          "preferred_label": "Нафан",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.3",
+          "type": "person",
+          "preferred_label": "Нафан",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.4",
+          "type": "person",
+          "preferred_label": "Нафан",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.5",
+          "type": "person",
+          "preferred_label": "Нафан",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.6",
+          "type": "person",
+          "preferred_label": "Нафан",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahath",
+          "type": "person",
+          "preferred_label": "Нахаф",
+          "confidence": 0.8296,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahath.2",
+          "type": "person",
+          "preferred_label": "Нахаф",
+          "confidence": 0.8296,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Naioth",
+          "type": "place",
+          "preferred_label": "Наваф",
+          "confidence": 0.818,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193146,
+    "content_id": "193146",
     "reference_id": 108064,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Наша эра",
     "media_type": "Text",
     "index_reference": "наша эра",
@@ -116,13 +211,14 @@
     "content": "<p>Выражение, которое используется для описания времени после рождения Иисуса. В переводе с латинского языка <span>AD (anno Domini) означает «год Господа».</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193283,
+    "content_id": "193283",
     "reference_id": 108201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Небо",
     "media_type": "Text",
     "index_reference": "небо",
@@ -146,13 +242,22 @@
           "label": "Царство Божье",
           "language": "rus"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Heaven",
+          "type": "keyterm",
+          "preferred_label": "Sky",
+          "confidence": 0.8706,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 193570,
+    "content_id": "193570",
     "reference_id": 108488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Нееман",
     "media_type": "Text",
     "index_reference": "нееман",
@@ -161,13 +266,43 @@
     "content": "<p>Военачальник сирийской армии (из Арама), который был болен проказой. <span>В его доме жила пленная еврейская девочка-служанка. Она посоветовала Нееману обратиться за исцелением к Божьему пророку Елисею. Нееман последовал её совету и попросил Елисея исцелить его. Елисей дал Нееману указания, которым военачальник поначалу отказался следовать. Потом он смирился, выполнил указания Елисея и был исцелён от своей болезни. Нееман поверил в Бога и, вернувшись в Арам, стал поклоняться только Ему. </span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naaman",
+          "type": "person",
+          "preferred_label": "Нааман",
+          "confidence": 0.8252,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.2",
+          "type": "person",
+          "preferred_label": "Нааман",
+          "confidence": 0.8252,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.3",
+          "type": "person",
+          "preferred_label": "Нааман",
+          "confidence": 0.8252,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.4",
+          "type": "person",
+          "preferred_label": "Нааман",
+          "confidence": 0.8252,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193597,
+    "content_id": "193597",
     "reference_id": 108515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Неемия",
     "media_type": "Text",
     "index_reference": "неемия",
@@ -176,13 +311,36 @@
     "content": "<p><span>Неемия был иудеем, вернувшимся в Иерусалим из персидского города Сузы. Его отцом был Хахалия, а Ханани — братом. Неемия был доверенным лицом персидского царя Артаксеркса. Он проверял качество вина, подаваемого царю, и следил, насколько безопасной была царская пища. Неемия дважды занимал пост правителя Иерусалима. Под его руководством были восстановлены стены Иерусалима.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "Неемия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "Неемия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "Неемия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193446,
+    "content_id": "193446",
     "reference_id": 108364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Непорочный или порочный",
     "media_type": "Text",
     "index_reference": "непорочный или порочный ",
@@ -199,13 +357,14 @@
           "label": "Чистый или нечистый",
           "language": "rus"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 193607,
+    "content_id": "193607",
     "reference_id": 108525,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Нечестивцы",
     "media_type": "Text",
     "index_reference": "нечестивцы",
@@ -214,13 +373,22 @@
     "content": "<p><span>Люди, чей образ жизни не соответствует Божьей воле. Нечестивцы не любят Бога, не поклоняются Ему и не слушаются Его. Они поклоняются своим ложным богам. Нечестивцы стараются добиться всего самого лучшего лишь для себя, но они никогда не служат другим людям. Нередко безбожники стараются увести других людей от Бога и Его путей. Бог хочет, чтобы нечестивцы оставили свои грехи и исправили свой образ жизни. Когда Бог воскресит нечестивых и безбожных людей из мёртвых, они предстанут перед Его судом.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Sinners",
+          "type": "group",
+          "preferred_label": "Sinners",
+          "confidence": 0.8517,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193170,
+    "content_id": "193170",
     "reference_id": 108088,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Никодим",
     "media_type": "Text",
     "index_reference": "никодим",
@@ -229,13 +397,22 @@
     "content": "<p>Иудейский начальник и фарисей, который был тайным учеником Иисуса Христа. Однажды ночью Никодим пришёл к Иисусу, чтобы побеседовать с Ним. Когда Иисус умер, Никодим помог подготовить Его Тело к погребению.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nicodemus",
+          "type": "person",
+          "preferred_label": "Никодим",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193656,
+    "content_id": "193656",
     "reference_id": 108574,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ниневия",
     "media_type": "Text",
     "index_reference": "ниневия",
@@ -244,13 +421,57 @@
     "content": "<p><span>Столица Ассирийской империи. Этот город был расположен на реке Тигр (на территории, которая сейчас называется Ирак). Живший там народ был известен своей жестокостью и злодеяниями. </span>В 612 году до н.э. вавилоняне <span>захватили Ассирийскую империю вместе с её столицей.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Nineveh",
+          "type": "group",
+          "preferred_label": "Ниневия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nineveh",
+          "type": "place",
+          "preferred_label": "Ниневия",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah",
+          "type": "person",
+          "preferred_label": "Нефания",
+          "confidence": 0.8281,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah.2",
+          "type": "person",
+          "preferred_label": "Нефания",
+          "confidence": 0.8281,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah.3",
+          "type": "person",
+          "preferred_label": "Нефания",
+          "confidence": 0.8281,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah.4",
+          "type": "person",
+          "preferred_label": "Нефания",
+          "confidence": 0.8281,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193500,
+    "content_id": "193500",
     "reference_id": 108418,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Нищие",
     "media_type": "Text",
     "index_reference": "нищие",
@@ -259,13 +480,14 @@
     "content": "<p><span>В ветхозаветные времена нищими были те люди, у которых не было собственного земельного надела. Без земельного участка они не могли выращивать для себя пищу и разводить скот. В крайней нищете всегда жили вдовы, чужеземцы и сироты. Нищими могли быть даже те, у кого был земельный участок, но они не могли получать с него хороших урожаев. В новозаветный период люди, которые не могли обеспечить себя и нуждались в материальной поддержке, считались нищими.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 650778,
+    "content_id": "650778",
     "reference_id": 209393,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Новая песнь",
     "media_type": "Text",
     "index_reference": "новая песнь",
@@ -287,13 +509,14 @@
           "end_ref_usfm": "PSA 150:6"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193625,
+    "content_id": "193625",
     "reference_id": 108543,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Новое творение",
     "media_type": "Text",
     "index_reference": "новое творение",
@@ -302,13 +525,14 @@
     "content": "<p><span>Мир, в котором Бог создаст всё новое. Новым будет и небо, и земля. Новое творение также носит название «век грядущий». В этом грядущем веке будет абсолютно всё, что создал Бог. </span>Божье новое творение появится тогда, когда зло будет полностью уничтожено и Иисус станет править как Царь. Он воскресит из мёртвых всех верующих и подарит им новые тела. Божьи дети будут наслаждаться жизнью с их Отцом на протяжении всей вечности. Воскресшее Тело Иисуса стало самым первым знаком нового творения.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193635,
+    "content_id": "193635",
     "reference_id": 108553,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Новый завет",
     "media_type": "Text",
     "index_reference": "новый завет",
@@ -317,13 +541,14 @@
     "content": "<p>Новый завет <span>— это Божье обещание</span>, данное Господом Своему народу, когда иудеи вернулись из плена. Бог заключил этот завет на все времена, и он будет длиться вечно. Бог простит людям все грехи и зло и сделает так, что они смогут верно следовать за Ним. Впервые Бог открыл тайну о новом завете через пророков Иеремию и Иезекииля. Спустя сотни лет, Иисус также учил об этом новом завете. Божий Сын отдал Свою жизнь в жертву, чтобы спасти всех людей от греха и смерти. Когда Он воскрес из мёртвых, новый завет пришёл в действие. В этом новом завете люди, которые принимают Иисуса, получают спасение и становятся частью святого Божьего народа. Бог даёт им Свою праведность, а Святой Дух наделяет их способностью во всём повиноваться Богу и верно следовать за Иисусом Христом.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193610,
+    "content_id": "193610",
     "reference_id": 108528,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Новый Завет, Библия",
     "media_type": "Text",
     "index_reference": "новый завет, библия",
@@ -332,13 +557,14 @@
     "content": "<p>Вторая часть Библии, состоящая из 27 книг. Новый Завет состоит из четырёх Евангелий, книги об истории рождения Церкви, большого количества посланий и одной книги апокалиптического содержания. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193631,
+    "content_id": "193631",
     "reference_id": 108549,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Новый Иерусалим",
     "media_type": "Text",
     "index_reference": "новый иерусалим",
@@ -347,13 +573,22 @@
     "content": "<p><span>Город, который Бог показал апостолу Иоанну в пророческих видениях. Эти видения записаны в Книге Откровение. В прошлом Божье присутствие было только в Храме в Иерусалиме. Но в Новом Иерусалиме Его присутствие будет повсюду. Бог будет вечно жить вместе со Своим народом. В Новом Иерусалиме не будет ни греха, ни страданий, ни смерти. Жизнь будет такой, какой Бог хотел её видеть ещё до сотворения мира. Новый Иерусалим также называют Невестой Агнца, потому что в нём живёт весь Божий народ. Новый Иерусалим иногда называют Божий Град или </span>Небесный Иерусалим<span>. В Новом Иерусалиме Бог будет править как Царь. Он разделит Свою власть со всеми Своими верными детьми.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Иерусалим",
+          "confidence": 0.8249,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193312,
+    "content_id": "193312",
     "reference_id": 108230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ной",
     "media_type": "Text",
     "index_reference": "ной",
@@ -362,7 +597,30 @@
     "content": "<p>Сын Ламеха из рода Сифа. Он был отцом Сима, Хама и Иафета. Он был праведным человеком, поэтому Бог спас Ноя и его семью во время потопа, уничтожившего весь древний мир. После потопа Бог заключил завет с Ноем.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Noah",
+          "type": "person",
+          "preferred_label": "Ноа",
+          "confidence": 0.8812,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Noah.2",
+          "type": "person",
+          "preferred_label": "Ноа",
+          "confidence": 0.8812,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nod",
+          "type": "place",
+          "preferred_label": "Нод",
+          "confidence": 0.8363,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

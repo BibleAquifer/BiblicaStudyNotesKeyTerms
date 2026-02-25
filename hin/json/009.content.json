@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 183319,
+    "content_id": "183319",
     "reference_id": 108425,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ऐ",
     "media_type": "Text",
     "index_reference": "ऐ",
@@ -11,7 +11,58 @@
     "content": "<p>कनान में एक शहर जहाँ अब्राहम ने एक वेदी बनाई। इस्राएली ऐ के विरुद्ध अपनी पहली लड़ाई हार गए। उन्होंने दूसरी लड़ाई जीती और शहर को नष्ट कर दिया। इब्रानी भाषा में ऐ का अर्थ है खंडहर है।</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Aiah",
+          "type": "person",
+          "preferred_label": "अय्या",
+          "confidence": 0.8209,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Aiah.2",
+          "type": "person",
+          "preferred_label": "अय्या",
+          "confidence": 0.8209,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Er",
+          "type": "person",
+          "preferred_label": "एर",
+          "confidence": 0.8083,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Er.2",
+          "type": "person",
+          "preferred_label": "एर",
+          "confidence": 0.8083,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Er.3",
+          "type": "person",
+          "preferred_label": "एर",
+          "confidence": 0.8083,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahi",
+          "type": "person",
+          "preferred_label": "अही",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahi.2",
+          "type": "person",
+          "preferred_label": "अही",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

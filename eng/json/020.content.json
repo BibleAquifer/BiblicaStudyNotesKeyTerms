@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132238,
+    "content_id": "132238",
     "reference_id": 108292,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamar",
     "media_type": "Text",
     "index_reference": "tamar",
@@ -11,13 +11,50 @@
     "content": "<p>The daughter-in-law of Judah. Her first two husbands were Judah’s sons but they both died. After that, Judah slept with Tamar without knowing who she was. She got pregnant and had twin sons. Jesus is from the family line of Tamar’s son Perez. This is a different Tamar than the daughter of King David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Tamar.2",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Tamar.3",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Tamar",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Tamar.2",
+          "type": "place",
+          "preferred_label": "Tamar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Tadmor",
+          "type": "place",
+          "preferred_label": "Tadmor",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132417,
+    "content_id": "132417",
     "reference_id": 108471,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tamar - David",
     "media_type": "Text",
     "index_reference": "tamar - david",
@@ -26,13 +63,22 @@
     "content": "<p>The daughter of David and Makaah. She and Absalom had the same parents. She and Amnon had the same father. Amnon raped Tamar when she was a virgin. Then he threw her out of his house. In those days, this was the same as divorcing her. Being raped and then not married brought shame to Tamar in their community. It meant she probably wouldn’t get married or have a family of her own. She lived with Absalom after that happened.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Tamar",
+          "type": "person",
+          "preferred_label": "Tamar",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 131995,
+    "content_id": "131995",
     "reference_id": 108049,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tax collector",
     "media_type": "Text",
     "index_reference": "tax collector",
@@ -49,13 +95,29 @@
           "label": "Outsider",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:TaxCollector",
+          "type": "keyterm",
+          "preferred_label": "Tax Collector",
+          "confidence": 0.986,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:TaxCollectors",
+          "type": "group",
+          "preferred_label": "Tax Collectors",
+          "confidence": 0.8938,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 132523,
+    "content_id": "132523",
     "reference_id": 108577,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Taxes",
     "media_type": "Text",
     "index_reference": "taxes",
@@ -64,13 +126,22 @@
     "content": "<p>Money that a government requires people to pay. Those who live under the authority of that government pay this money. The leaders are supposed to use the money to take care of their people.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Tax",
+          "type": "keyterm",
+          "preferred_label": "Tax",
+          "confidence": 0.9543,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132264,
+    "content_id": "132264",
     "reference_id": 108318,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Teach their children",
     "media_type": "Text",
     "index_reference": "teach their children",
@@ -79,13 +150,14 @@
     "content": "<p>Israelite children were encouraged to ask questions about God and about worship practices. Parents were to explain to their children why they worshipped God in certain ways. This way the children would learn about who God is. They would learn about the mighty works that God does in the world. This was important because God had promised to be their God for ever. He wanted everyone in Jacob’s family line to know him.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 131994,
+    "content_id": "131994",
     "reference_id": 108048,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Teachers of the law",
     "media_type": "Text",
     "index_reference": "teachers of the law",
@@ -94,13 +166,14 @@
     "content": "<p>Jewish men who had studied the Old Testament and other Jewish writings. These men taught what they had learnt to the people. People usually thought highly of these teachers and treated them with honour. Most teachers of the law opposed Jesus and his work.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132363,
+    "content_id": "132363",
     "reference_id": 108417,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Temple",
     "media_type": "Text",
     "index_reference": "temple",
@@ -109,13 +182,22 @@
     "content": "<p>The building in Jerusalem where people could go to worship God. It was also called the house of the Lord or the house of God. The first one was built when Solomon was king. God was present with his people there. The Babylonians destroyed it in the year 586 BC. Many years later, the Jews built another one. After the Romans destroyed that temple in the year AD 70, the Jews never built another one. Jesus called the temple his Father’s house. Jesus said his body was the new temple. This was because God was present with his people through Jesus. God remains present on earth through those who follow Jesus. They are filled with the Holy Spirit. Because of this, believers are described as a new temple.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Temple",
+          "type": "realia",
+          "preferred_label": "Temple",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132277,
+    "content_id": "132277",
     "reference_id": 108331,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ten Commandments",
     "media_type": "Text",
     "index_reference": "ten commandments",
@@ -132,13 +214,14 @@
           "label": "Law of Moses",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132254,
+    "content_id": "132254",
     "reference_id": 108308,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ten plagues",
     "media_type": "Text",
     "index_reference": "ten plagues",
@@ -147,13 +230,14 @@
     "content": "<p>Ten ways that God brought judgement against Pharaoh, Egypt and the Egyptian false gods. They were mighty signs worked by God through Moses and Aaron. These signs showed Pharaoh, the Israelites and the earth God’s authority and power over everything. They showed that God uses his authority and power to help his people. The plagues were part of how God rescued his people from slavery in Egypt. God sent one plague each time that Pharaoh refused to let the Israelites leave Egypt. The plagues included water turning into blood, frogs, gnats and flies. They included livestock being killed and boils on the skin of animals and people. They included hail, locusts and darkness. During the last plague, the eldest son in every Egyptian family was killed. God saved the Israelites from the suffering that the plagues brought.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132293,
+    "content_id": "132293",
     "reference_id": 108347,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tent of meeting",
     "media_type": "Text",
     "index_reference": "tent of meeting",
@@ -162,13 +246,22 @@
     "content": "<p>A tent outside the Israelite camp near Mount Sinai. God met with Moses and the Israelites there through the pillar of cloud. Certain women served at the entrance and Joshua stayed in the tent all the time. After the holy tent was built the tent of meeting was no longer used. But the holy tent was also called the tent of meeting.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:TentOfMeeting",
+          "type": "realia",
+          "preferred_label": "Tent of Meeting",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132328,
+    "content_id": "132328",
     "reference_id": 108382,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tenth",
     "media_type": "Text",
     "index_reference": "tenth",
@@ -177,13 +270,14 @@
     "content": "<p>The Israelites were to offer a tenth of everything they had to God. This included everything their land produced and their livestock. This would help them remember that everything belongs to God. It would help them remember that everything they had was a gift from God. It would help them be full of joy in the land God gave them. They gave the tenth of everything to God by sharing it with the priests and Levites. They also shared it with poor and needy people. The practice of giving God a tenth of everything lasted for hundreds of years. It’s also called giving a tithe. Many Christians give a tithe to their church. The tithe can be of anything their work produces including money.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132209,
+    "content_id": "132209",
     "reference_id": 108263,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Test",
     "media_type": "Text",
     "index_reference": "test",
@@ -192,13 +286,14 @@
     "content": "<p>Times when people must make a difficult choice. They must choose between obeying God or doing what they want to do. The choice they make shows if they trust God to provide what they need. The purpose behind the test isn’t to cause people to make mistakes or for them to suffer. The purpose is for them to receive more of God’s grace. God tests people to help their faith in him grow stronger.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132025,
+    "content_id": "132025",
     "reference_id": 108079,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Theophilus",
     "media_type": "Text",
     "index_reference": "theophilus",
@@ -207,13 +302,22 @@
     "content": "<p>The person that Luke wrote his gospel and the book of Acts for. The name Theophilus means lover of God. What Luke wrote can help anyone who loves God. Luke might have used the name Theophilus to talk about another Christian. He might have done this to keep the person’s name a secret to protect them. Luke called Theophilus most excellent. This might mean that Theophilus was an official of the Roman government.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Theophilus",
+          "type": "person",
+          "preferred_label": "Theophilus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132074,
+    "content_id": "132074",
     "reference_id": 108128,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thessalonica",
     "media_type": "Text",
     "index_reference": "thessalonica",
@@ -222,13 +326,22 @@
     "content": "<p>A Greek city the Roman territory of Macedonia. It was in the area that is now northern Greece. Paul travelled there on his second journey. His letters to the Thessalonians were written to the church there.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Thessalonica",
+          "type": "place",
+          "preferred_label": "Thessalonica",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132041,
+    "content_id": "132041",
     "reference_id": 108095,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thomas",
     "media_type": "Text",
     "index_reference": "thomas",
@@ -237,13 +350,22 @@
     "content": "<p>One of Jesus’ 12 disciples. He was also called Didymus which means twin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Thomas",
+          "type": "person",
+          "preferred_label": "Thomas",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132206,
+    "content_id": "132206",
     "reference_id": 108260,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Three men",
     "media_type": "Text",
     "index_reference": "three men",
@@ -252,13 +374,14 @@
     "content": "<p>Three men with human bodies visited Abraham. They ate a meal that Abraham and Sarah prepared. They told Abraham and Sarah that Isaac would be born within a year. They talked with Abraham about God’s plans to destroy Sodom and Gomorrah. Two of these men were angels. They continued travelling to Sodom and Gomorrah to destroy the cities and to save Lot. The other man was God. God is a spiritual being. He can appear to human beings. He can appear in a way that they see him and recognise who he is.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132123,
+    "content_id": "132123",
     "reference_id": 108177,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Thyatira",
     "media_type": "Text",
     "index_reference": "thyatira",
@@ -267,13 +390,22 @@
     "content": "<p>An important town in the Roman territory of Asia. It’s part of the city Akhisar in the country now known as Turkey. Lydia was from Thyatira.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Thyatira",
+          "type": "place",
+          "preferred_label": "Thyatira",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132070,
+    "content_id": "132070",
     "reference_id": 108124,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Timothy",
     "media_type": "Text",
     "index_reference": "timothy",
@@ -282,13 +414,22 @@
     "content": "<p>A young man from Lystra who worked with Paul. His father was a Greek Gentile. Because his mother was a Jew, Timothy was considered a Jew. His grandmother Lois and his mother Eunice were believers. Paul trusted Timothy and loved him like a son. Timothy served in many of the churches Paul helped start. He was with Paul when the apostle wrote many of his letters. The New Testament includes two letters Paul wrote to Timothy.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Timothy",
+          "type": "person",
+          "preferred_label": "Timothy",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132098,
+    "content_id": "132098",
     "reference_id": 108152,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Titus",
     "media_type": "Text",
     "index_reference": "titus",
@@ -297,13 +438,22 @@
     "content": "<p>A man who worked and travelled with Paul. He was a Greek Gentile believer who wasn’t circumcised. He served in many of the churches that Paul helped start. He was an important leader in the church on the island of Crete. He also helped take the offering given by the Corinthian believers to Jerusalem. The New Testament book called Titus is a letter that Paul wrote to him.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Titus",
+          "type": "person",
+          "preferred_label": "Titus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132000,
+    "content_id": "132000",
     "reference_id": 108054,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Treated badly",
     "media_type": "Text",
     "index_reference": "treated badly",
@@ -320,13 +470,14 @@
           "label": "Rome",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132163,
+    "content_id": "132163",
     "reference_id": 108217,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tree of life",
     "media_type": "Text",
     "index_reference": "tree of life",
@@ -335,13 +486,14 @@
     "content": "<p>A tree in the Garden of Eden. Its fruit allowed people to live for ever. Human beings weren’t allowed to eat from it after Adam and Eve sinned. Ezekiel saw trees like the tree of life in his vision of the temple (Ezekiel 47:12). In Revelation, John saw this tree in the new heaven and the new earth (Revelation 22:2). Everyone who lived in God’s Holy City could eat of it freely. This meant that they had eternal life and lived for ever with God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132156,
+    "content_id": "132156",
     "reference_id": 108210,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tree of the knowledge",
     "media_type": "Text",
     "index_reference": "tree of the knowledge",
@@ -350,13 +502,14 @@
     "content": "<p>This was the tree of the knowledge of good and of evil. It was in the middle of the Garden of Eden. It was the only tree that Adam and Eve weren’t allowed to eat from. This is because only God knows and decides what is good and what is evil. Human beings aren’t allowed to decide about that.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 131984,
+    "content_id": "131984",
     "reference_id": 108038,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trinity",
     "media_type": "Text",
     "index_reference": "trinity",
@@ -401,13 +554,14 @@
           "label": "Son of God",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132332,
+    "content_id": "132332",
     "reference_id": 108386,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trumpets",
     "media_type": "Text",
     "index_reference": "trumpets",
@@ -416,13 +570,22 @@
     "content": "<p>In the Bible, trumpets were used for many purposes. They were used in worship services and feasts and in battles. Trumpets were used to make important announcements and as alarms. Before the Israelites reached Canaan, trumpet blasts let the 12 tribes know when to start marching. In the New Testament, Jesus and Paul talked about trumpets being blown. Trumpets would announce when God gathered his people and raised them from the dead. In Revelation, angels blew trumpets to announce parts of God’s judgement against evil.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Trumpet",
+          "type": "realia",
+          "preferred_label": "Trumpet",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132421,
+    "content_id": "132421",
     "reference_id": 108475,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Tyre and Sidon",
     "media_type": "Text",
     "index_reference": "tyre and sidon",
@@ -431,7 +594,30 @@
     "content": "<p>Cities on the Mediterranean coast in the country now called Lebanon. The Phoenician people lived there first. The cities were later controlled by many different governments. The Israelites never took control of these cities when they moved into Canaan. Tyre was also a strong fort. There was peace between Tyre and Israel during the rule of some of Israel’s kings. The people in Tyre and Sidon worshipped false gods and were known for doing evil things.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sidon",
+          "type": "person",
+          "preferred_label": "Sidon",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Sidon",
+          "type": "place",
+          "preferred_label": "Sidon",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Tyre",
+          "type": "place",
+          "preferred_label": "Tyre",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   }
 ]

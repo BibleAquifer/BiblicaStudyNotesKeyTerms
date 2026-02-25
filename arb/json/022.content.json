@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 134248,
+    "content_id": "134248",
     "reference_id": 108446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "داجون",
     "media_type": "Text",
     "index_reference": "داجون",
@@ -11,13 +11,14 @@
     "content": "<p>إله زائف عُبِد من قبل مجموعات من الناس في كنعان وما حولها. تعني كلمة داجون في اللغة العبرية الحُبوب. كان من المفهوم أن داجون هو أبو البعل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134314,
+    "content_id": "134314",
     "reference_id": 108512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَارِيُّوس",
     "media_type": "Text",
     "index_reference": "دَارِيُّوس",
@@ -26,13 +27,43 @@
     "content": "<p>ملك فارس الذي كان يُدعى أيضًا داريوس الأكبر أو داريوس الأول. سمح داريوس لليهود بإعادة بناء الهيكل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Darius",
+          "type": "person",
+          "preferred_label": "دَارِيوسَ",
+          "confidence": 0.8759,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "دَارِيوسَ",
+          "confidence": 0.8759,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Darius.3",
+          "type": "person",
+          "preferred_label": "دَارِيوسَ",
+          "confidence": 0.8759,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dara",
+          "type": "person",
+          "preferred_label": "دَارَع",
+          "confidence": 0.809,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134246,
+    "content_id": "134246",
     "reference_id": 108444,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَان",
     "media_type": "Text",
     "index_reference": "دَان",
@@ -41,13 +72,64 @@
     "content": "<p>الابن الأكبر ليعقوب وبلهة. في اللغة العبرية، اسم دان يعني قاض. أصبح نسله من أسباط إسرائيل. دان هو أيضاً اسم المدينة الرئيسية لسبط دان. كانت بالقرب من جبل حرمون وكانت من أقصى شمال إسرائيل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Vedan",
+          "type": "place",
+          "preferred_label": "دَان",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Dan",
+          "type": "group",
+          "preferred_label": "دَانَ",
+          "confidence": 0.9581,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "دَانَ",
+          "confidence": 0.9581,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dan",
+          "type": "place",
+          "preferred_label": "دَانَ",
+          "confidence": 0.9581,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dedan",
+          "type": "person",
+          "preferred_label": "دَدَانَ",
+          "confidence": 0.868,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dedan.2",
+          "type": "person",
+          "preferred_label": "دَدَانَ",
+          "confidence": 0.868,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dedan",
+          "type": "place",
+          "preferred_label": "دَدَانَ",
+          "confidence": 0.868,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134362,
+    "content_id": "134362",
     "reference_id": 108560,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَانِيَال",
     "media_type": "Text",
     "index_reference": "دَانِيَال",
@@ -56,13 +138,29 @@
     "content": "<p>شاب من المملكة الجنوبية عندما كان يهوياقيم ملكاً. سُبي من يهوذا ليعيش في بابل. خدم العديد من الملوك البابليين والفرس كحكيم وقائد حكومي. كان يُدعى أيضًا بلطشاصر. كان نبيًا وأعطاه الله رؤى ورسائل. وهي مسجلة في سفر دانيال.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Daniel.2",
+          "type": "person",
+          "preferred_label": "دَانِيآل",
+          "confidence": 0.942,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "دَانِيآل",
+          "confidence": 0.942,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134251,
+    "content_id": "134251",
     "reference_id": 108449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَاوُد",
     "media_type": "Text",
     "index_reference": "دَاوُد",
@@ -79,13 +177,36 @@
           "label": "العهد مع داود",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Dedan",
+          "type": "person",
+          "preferred_label": "دَدَانَ",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dedan.2",
+          "type": "person",
+          "preferred_label": "دَدَانَ",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dedan",
+          "type": "place",
+          "preferred_label": "دَدَانَ",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 134235,
+    "content_id": "134235",
     "reference_id": 108433,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَبُورَة",
     "media_type": "Text",
     "index_reference": "دَبُورَة",
@@ -94,13 +215,71 @@
     "content": "<p>أحد قضاة إسرائيل الاثني عشر. كانت نبية في بلاد جبل أفرايم. خدمت بني إسرائيل بتسوية الأمور الصعبة لهم. عينت باراق كقائد للهجوم ضد جيش سيسرا. تم تسجيل أغنيتها عن انتصارهم في سفر القضاة الفصل الخامس.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Deborah",
+          "type": "person",
+          "preferred_label": "دَبورَة",
+          "confidence": 0.9342,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Deborah.2",
+          "type": "person",
+          "preferred_label": "دَبورَة",
+          "confidence": 0.9342,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Derbe",
+          "type": "place",
+          "preferred_label": "دَرْبَةَ",
+          "confidence": 0.8487,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dannah",
+          "type": "place",
+          "preferred_label": "دَنَّة",
+          "confidence": 0.8473,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zebidah",
+          "type": "person",
+          "preferred_label": "زَبِيدَة",
+          "confidence": 0.8258,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "دِمَشْقَ",
+          "confidence": 0.8251,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dophkah",
+          "type": "place",
+          "preferred_label": "دفْقَةَ",
+          "confidence": 0.8183,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Humtah",
+          "type": "place",
+          "preferred_label": "حمْطَة",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133919,
+    "content_id": "133919",
     "reference_id": 108117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَرْبة",
     "media_type": "Text",
     "index_reference": "دَرْبة",
@@ -109,13 +288,85 @@
     "content": "<p>مدينة في إقليم غلاطية الروماني في آسيا الصغرى. زارها بولس في ثلاث من رحلاته لمشاركة الأخبار السارة عن يسوع. يُعتقد أن رسالة بولس إلى أهل غلاطية كانت تُقرأ على الكنيسة هناك.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Derbe",
+          "type": "place",
+          "preferred_label": "دَرْبَةَ",
+          "confidence": 0.9414,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Deborah",
+          "type": "person",
+          "preferred_label": "دَبورَة",
+          "confidence": 0.8895,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Deborah.2",
+          "type": "person",
+          "preferred_label": "دَبورَة",
+          "confidence": 0.8895,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dara",
+          "type": "person",
+          "preferred_label": "دَارَع",
+          "confidence": 0.8729,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dannah",
+          "type": "place",
+          "preferred_label": "دَنَّة",
+          "confidence": 0.8168,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hirah",
+          "type": "person",
+          "preferred_label": "حِيرَة",
+          "confidence": 0.805,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kedemah",
+          "type": "person",
+          "preferred_label": "قِدْمَة",
+          "confidence": 0.805,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beracah",
+          "type": "person",
+          "preferred_label": "بَرَاخَة",
+          "confidence": 0.8045,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Taphath",
+          "type": "person",
+          "preferred_label": "طَافَة",
+          "confidence": 0.8032,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Orpah",
+          "type": "person",
+          "preferred_label": "عرْفَة",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134247,
+    "content_id": "134247",
     "reference_id": 108445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دَليلة",
     "media_type": "Text",
     "index_reference": "دَليلة",
@@ -124,13 +375,22 @@
     "content": "<p>امرأة فلسطينية كان شمشون مغرمًا بها. استخدمها القادة الفلسطينيون لمعرفة سر قوة شمشون المذهلة. كذب شمشون عليها ثلاث مرات. لكن دليلة توسلت إلى أن أخبرها شمشون أخيرًا بالحقيقة. وحصلت على المال مقابل تسليم شمشون للقادة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Delilah",
+          "type": "person",
+          "preferred_label": "دَلِيلَة",
+          "confidence": 0.9274,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134117,
+    "content_id": "134117",
     "reference_id": 108315,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دم",
     "media_type": "Text",
     "index_reference": "دم",
@@ -139,13 +399,14 @@
     "content": "<p> هناك معنيان لكلمة دم في كل أنحاء الكتاب المقدس. إن المعنى الأول يُشير إلي ذلك السائل الأحمر داخل أجسام البشر والحيوانات. أما المعنى الثاني فهو علامة أو إشارة  على الحياة. فالحياة عطية من الله. وكان الدم يُعتبر مهمًا لأنه يبيّن أن حيوان ما أو شخص ما كان على قيد الحياة. ولقد كان مفهومًا أن فقدان الدم يؤدي إلى الموت. لذلك كان أي شيء يتعلق بفقدان الدم يُعتبر نجسًا.  كما كان الدم يُستخدم في تطهير وتقديس الأشياء وذلك لكونه شيئًا ثمينًا ومحوريًا. لذلك فإن رش دم الذبائح على شخص أو شيء ما، كان يُقدّم برهانًا أو دليلًا. فقد أظهر أن الشخص أو الشيء قد تم تطهيره من الموت والخطية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134342,
+    "content_id": "134342",
     "reference_id": 108540,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دمشق",
     "media_type": "Text",
     "index_reference": "دمشق",
@@ -154,13 +415,14 @@
     "content": "<p>عاصمة المملكة الواقعة شمال أرض إسرائيل. تقع في البلد الذي يسمى الآن سوريا. كانت لسنوات عديدة مدينة الآراميين. تبعد حوالي 300 كم شمال أورشليم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133969,
+    "content_id": "133969",
     "reference_id": 108167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دوسيتية",
     "media_type": "Text",
     "index_reference": "دوسيتية",
@@ -169,13 +431,14 @@
     "content": "<p>الاعتقاد بأن يسوع لم يكن له جسد بشري ولم يكن إنسانًا كاملاً. كان هذا الاعتقاد مبنيًا على فكرة يونانية. وقد بنت أفكارها على أساس أن المادة شر. كانت تتضمن هذه الفكرة أيضًا أن الأشياء الروحية التي تدوم إلى الأبد فقط الأشياء الجيدة. أصبحت الدوسيتية فيما بعد جزءًا من حركة أكبر تُدعى الغنوسية. آمنت الغنوسية أن مشكلة العالم تكمن في أن البشر لديهم أجساد. واعتقدوا أن الخلاص هو بامتلاك البشر للمعرفة السرية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134085,
+    "content_id": "134085",
     "reference_id": 108283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دِينَة",
     "media_type": "Text",
     "index_reference": "دِينَة",
@@ -184,13 +447,29 @@
     "content": "<p>ابنة يعقوب وليئة. إخوتها لاوي وشمعون قتلوا شكيم بعد أن أغواها وأذلّها.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Dinah",
+          "type": "person",
+          "preferred_label": "دِينَةَ",
+          "confidence": 0.936,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zenas",
+          "type": "person",
+          "preferred_label": "زِينَاسَ",
+          "confidence": 0.8052,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134035,
+    "content_id": "134035",
     "reference_id": 108233,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "دينونة",
     "media_type": "Text",
     "index_reference": "دينونة",
@@ -199,7 +478,8 @@
     "content": "<p>المعاناة والعقاب على فعل ما يخالف ما يريده الله. يجلب الله الدينونة على الناس والجماعات البشرية والكائنات الروحية الشريرة. إنه يجلب الدينونة لوقف الأمور الخاطئة والأعمال الشريرة. الدينونة ضد الشر هي الطريقة التي يعيد بها الله العدالة إلى عالمه. يمكن أن تكون دينونة الله مؤلمة ويمكن أن تؤدي إلى موت الناس. كما يمكن أن تقود الناس إلى التوبة والابتعاد عن الخطية والشر. يمكن أن يعلم الناس أن يفعلوا ما يريده الله. هذا يسمح للناس بالعيش في سلام مع الله ومع بعضهم البعض.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

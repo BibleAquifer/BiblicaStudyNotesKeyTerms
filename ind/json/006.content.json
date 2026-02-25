@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203581,
+    "content_id": "203581",
     "reference_id": 108446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dagon",
     "media_type": "Text",
     "index_reference": "dagon",
@@ -11,13 +11,22 @@
     "content": "<p>Seorang dewa yang disembah oleh sekelompok orang di dan sekitar Kanaan. Dalam bahasa Ibrani, kata Dagon berarti butir/gandum. Dagon dipercaya sebagai bapa dari Baal.</p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Dagon",
+          "type": "deity",
+          "preferred_label": "Dagon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203208,
+    "content_id": "203208",
     "reference_id": 108073,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dalam nama Yesus",
     "media_type": "Text",
     "index_reference": "dalam nama yesus",
@@ -26,13 +35,14 @@
     "content": "<p>Orang-orang dapat melakukan sesuatu atas nama orang lain. Ketika mereka melakukan hal ini, berarti mereka melakukannya dengan kekuasaan orang tersebut. Mereka melakukan itu seolah-olah orang lain yang melakukannya. Para murid berdoa, berbicara, dan bertindak dalam nama Yesus. Ini menunjukkan bahwa mereka percaya Yesus memiliki kekuasaan sepenuhnya di surga dan di bumi. Ini juga menunjukkan bahwa mereka melakukan pekerjaan yang telah diajarkan Yesus kepada mereka. Orang-orang dibaptis dalam nama Yesus. Ini berarti mereka menjalani baptisan karena mereka percaya kepada Yesus. Baptisan mereka menunjukkan bahwa mereka sepenuhnya berkomitmen untuk mengikuti Yesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203346,
+    "content_id": "203346",
     "reference_id": 108211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Damai sejahtera",
     "media_type": "Text",
     "index_reference": "damai sejahtera",
@@ -41,13 +51,14 @@
     "content": "<p>Kata damai sejahtera dalam bahasa Ibrani adalah shalom. Kata ini berarti lebih dari sekadar saat ketika tidak ada pertempuran atau peperangan. Ini berarti ada keselamatan, kesehatan dan keadilan. Ini berarti bahwa setiap orang memiliki secara cukup apa yang mereka butuhkan. Ini berarti hubungan yang utuh dan sehat. Hubungan-hubungan itu seperti yang Allah inginkan. Ini termasuk setiap orang yang berdamai dengan Allah. Hal ini juga mencakup hubungan antara manusia dan segala sesuatu yang diciptakan Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203675,
+    "content_id": "203675",
     "reference_id": 108540,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Damsyik",
     "media_type": "Text",
     "index_reference": "damsyik",
@@ -56,13 +67,22 @@
     "content": "<p>Ibu kota dari kerajaan di sebelah utara dari tanah Israel. Kota ini berada di negara yang sekarang disebut Siria. Selama bertahun-tahun kota ini menjadi kota dari orang Aram. Letaknya sekitar 300 km di sebelah utara Yerusalem. </p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "Damsyik",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203579,
+    "content_id": "203579",
     "reference_id": 108444,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dan",
     "media_type": "Text",
     "index_reference": "dan",
@@ -71,13 +91,43 @@
     "content": "<p>Anak sulung dari Yakub dan Bilha. Dalam bahasa Ibrani, nama Dan berarti ia menghakimi. Garis keturunannya menjadi salah satu suku Israel. Dan juga dulu merupakan nama kota utama dari suku Dan. Kota itu terletak dekat Gunung Hermon dan merupakan salah satu bagian yang paling utara dari Israel. </p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Dan",
+          "type": "group",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dan",
+          "type": "place",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dannah",
+          "type": "place",
+          "preferred_label": "Dana",
+          "confidence": 0.86,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203695,
+    "content_id": "203695",
     "reference_id": 108560,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daniel",
     "media_type": "Text",
     "index_reference": "daniel",
@@ -86,13 +136,29 @@
     "content": "<p>Seorang anak muda dari kerajaan sebelah selatan ketika Yoyakim menjadi raja. Ia dibawa dari Yehuda untuk tinggal di Babel. Ia melayani beberapa raja Babel dan Persia sebagai orang bijak dan pemimpin pemerintahan. Ia juga disebut Beltsazar. Ia adalah seorang nabi dan Allah memberikan padanya penglihatan dan pesan-pesan. Hal ini dicatat dalam kitab Daniel.</p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Daniel.2",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203450,
+    "content_id": "203450",
     "reference_id": 108315,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Darah",
     "media_type": "Text",
     "index_reference": "darah",
@@ -101,13 +167,22 @@
     "content": "<p>Di seluruh Alkitab ada dua arti untuk kata darah. Arti yang pertama yaitu cairan merah di dalam tubuh manusia dan hewan. Arti yang kedua yaitu tanda dari kehidupan. Kehidupan merupakan hadiah dari Allah. Darah dianggap penting karena menunjukkan bahwa seekor hewan atau seseorang itu hidup. Kehilangan darah dipahami sebagai penyebab kematian. Jadi apa pun yang berhubungan dengan kehilangan darah dianggap najis. Karena darah adalah sesuatu yang penting, dan itu digunakan untuk membuat sesuatu menjadi suci dan bersih. Memercikkan darah dari korban pada seseorang atau sesuatu merupakan sebuah tanda. Itu menunjukkan bahwa orang atau benda tersebut telah dibersihkan dari kematian dan dosa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Blood",
+          "type": "keyterm",
+          "preferred_label": "darah",
+          "confidence": 0.8991,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203647,
+    "content_id": "203647",
     "reference_id": 108512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Darius",
     "media_type": "Text",
     "index_reference": "darius",
@@ -116,13 +191,36 @@
     "content": "<p>Raja Persia yang juga disebut Darius Agung atau Darius I. Allah memakai dirinya sebagai alat. Darius mengizinkan orang Yahudi untuk membangun kembali bait suci. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Darius",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Darius.3",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203584,
+    "content_id": "203584",
     "reference_id": 108449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daud",
     "media_type": "Text",
     "index_reference": "daud",
@@ -139,13 +237,22 @@
           "label": "Perjanjian dengan Daud",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "Daud",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203568,
+    "content_id": "203568",
     "reference_id": 108433,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Debora",
     "media_type": "Text",
     "index_reference": "debora",
@@ -154,13 +261,29 @@
     "content": "<p>Salah satu dari ke-12 hakim Israel. Ia adalah seorang nabi di wilayah pegunungan Efraim. Ia melayani bangsa Israel dengan menyelesaikan masalah-masalah yang sulit bagi mereka. Ia menunjuk Barak sebagai pemimpin dalam penyerangan terhadap tentara Sisera. Nyanyiannya tentang kemenangan mereka dicatat dalam Hakim-hakim pasal 5. </p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Deborah",
+          "type": "person",
+          "preferred_label": "Debora",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Deborah.2",
+          "type": "person",
+          "preferred_label": "Debora",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203580,
+    "content_id": "203580",
     "reference_id": 108445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Delila",
     "media_type": "Text",
     "index_reference": "delila",
@@ -169,13 +292,22 @@
     "content": "<p>Seorang perempuan Filistin yang dicintai oleh Simson. Pemimpin Filistin menggunakannya untuk mengetahui rahasia dari kekuatan Simson yang luar biasa. Simson berbohong padanya tentang hal itu sebanyak 3 kali. Tetapi Delila terus memohon hingga akhirnya Simson mengatakan kebenarannya. Ia menerima uang karena telah menyerahkan Simson kepada para pemimpin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Delilah",
+          "type": "person",
+          "preferred_label": "Delila",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203252,
+    "content_id": "203252",
     "reference_id": 108117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Derbe",
     "media_type": "Text",
     "index_reference": "derbe",
@@ -184,13 +316,22 @@
     "content": "<p>Sebuah kota di wilayah Romawi di Asia Kecil. Paulus mengunjungi tempat itu dalam ketiga perjalanannya untuk memberitakan kabar baik mengenai Yesus. Diperkirakan bahwa surat Paulus kepada jemaat di Galatia telah dibacakan kepada jemaat di sana.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Derbe",
+          "type": "place",
+          "preferred_label": "Derbe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203275,
+    "content_id": "203275",
     "reference_id": 108140,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diadopsi",
     "media_type": "Text",
     "index_reference": "diadopsi",
@@ -199,13 +340,14 @@
     "content": "<p>Ketika seseorang menjadi bagian dari sebuah keluarga yang bukan merupakan keluarga kandungnya. Inilah yang terjadi ketika seseorang percaya kepada Yesus. Allah menciptakan manusia untuk hidup bersama dengan-Nya dalam kedamaian dan kasih. Mereka dipanggil untuk menjadi anak dalam keluarga-Nya. Manusia tidak menerima kasih Allah tetapi memilih untuk mengikuti kehendak mereka sendiri. Ini berarti bahwa mereka tidak termasuk dalam keluarga siapapun. Mereka yang percaya bahwa Yesus adalah Mesias akan menerima kasih Allah. Mereka akan kembali menjadi bagian dari keluarga Allah. Paulus menggambarkan ini seperti diadopsi menjadi anak Allah. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203235,
+    "content_id": "203235",
     "reference_id": 108100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diaken",
     "media_type": "Text",
     "index_reference": "diaken",
@@ -214,13 +356,14 @@
     "content": "<p>Pengikut Yesus yang melayani sebagai pemimpin gereja. Diaken bekerja keras untuk membantu memenuhi kebutuhan orang-orang percaya di dalam gereja. Pekerjaan dari diaken pertama dijelaskan dalam Kisah Para Rasul 6:1–7. </p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203493,
+    "content_id": "203493",
     "reference_id": 108358,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dikhususkan",
     "media_type": "Text",
     "index_reference": "dikhususkan",
@@ -229,13 +372,22 @@
     "content": "<p>Dalam Perjanjian Lama, ada dua makna untuk dikhususkan. Makna pertama adalah orang, imam, nabi, dan benda-benda yang dikhususkan. Orang, imam dan nabi dapat dikhususkan untuk melayani Allah dengan cara-cara khusus. Hal-hal seperti binatang, tanah dan benda-benda juga dapat dikhususkan bagi Tuhan. Ini berarti bahwa benda-benda tersebut tidak boleh digunakan dengan cara biasa. Mereka hanya boleh digunakan dengan cara-cara khusus untuk melayani Allah. Makna kedua adalah ketika orang atau benda dikhususkan untuk dimusnahkan. Ini adalah cara Allah menjatuhkan penghakiman atas perbuatan jahat manusia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Consecration.2",
+          "type": "keyterm",
+          "preferred_label": "dikhususkan",
+          "confidence": 0.8715,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203418,
+    "content_id": "203418",
     "reference_id": 108283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dina",
     "media_type": "Text",
     "index_reference": "dina",
@@ -244,13 +396,29 @@
     "content": "<p>Anak perempuan dari Yakub dan Lea. Saudaranya Lewi dan Simeon membunuh Sikhem setelah ia memperkosanya. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Dinah",
+          "type": "person",
+          "preferred_label": "Dina",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dannah",
+          "type": "place",
+          "preferred_label": "Dana",
+          "confidence": 0.8718,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203189,
+    "content_id": "203189",
     "reference_id": 108054,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diperlakukan dengan buruk",
     "media_type": "Text",
     "index_reference": "diperlakukan dengan buruk",
@@ -267,13 +435,14 @@
           "label": "Roma",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203495,
+    "content_id": "203495",
     "reference_id": 108360,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diurapi",
     "media_type": "Text",
     "index_reference": "diurapi",
@@ -290,13 +459,22 @@
           "label": "Pohon zaitun",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Anointed",
+          "type": "keyterm",
+          "preferred_label": "diurapi",
+          "confidence": 0.9037,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203362,
+    "content_id": "203362",
     "reference_id": 108227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Doa",
     "media_type": "Text",
     "index_reference": "doa",
@@ -305,13 +483,22 @@
     "content": "<p>Praktik berbicara dengan Allah dan mendengarkan Allah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Intercession",
+          "type": "keyterm",
+          "preferred_label": "doa",
+          "confidence": 0.8786,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203302,
+    "content_id": "203302",
     "reference_id": 108167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Doketisme",
     "media_type": "Text",
     "index_reference": "doketisme",
@@ -320,13 +507,14 @@
     "content": "<p>Sebuah keyakinan bahwa Yesus tidak memiliki tubuh manusia dan bukan sepenuhnya manusia. Keyakinan ini didasarkan pada gagasan Yunani. Gagasan ini menyatakan bahwa tubuh itu jahat. Gagasan ini juga menyatakan bahwa hal-hal rohani yang bertahan selamanya adalah baik.</p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203330,
+    "content_id": "203330",
     "reference_id": 108195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dosa",
     "media_type": "Text",
     "index_reference": "dosa",
@@ -335,13 +523,14 @@
     "content": "<p>Pikiran, perkataan, tindakan atau keinginan yang bertentangan dengan apa yang Tuhan inginkan. Hal-hal ini berbahaya bagi orang tersebut, orang lain dan ciptaan lainnya. Dosa masuk ke dalam dunia ketika Adam dan Hawa tidak menaati Allah. Dosa menghancurkan kedamaian antara Allah dan manusia. Dosa menghancurkan perdamaian antara manusia dan perdamaian antara segala sesuatu yang Allah ciptakan. Dosa membawa kematian. Dosa membuat manusia terpisah dari Allah. Alkitab menggambarkan dosa sebagai tuan dan manusia sebagai budaknya. Dosa itu jahat. Yesus adalah satu-satunya yang cukup berkuasa untuk menghancurkan kuasa dosa. Hanya Yesus yang dapat membebaskan manusia darinya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203350,
+    "content_id": "203350",
     "reference_id": 108215,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dunia",
     "media_type": "Text",
     "index_reference": "dunia",
@@ -350,13 +539,29 @@
     "content": "<p>Di dalam Alkitab, ada dua makna untuk kata dunia. Makna pertama adalah tempat yang diciptakan Allah untuk tumbuhan, hewan dan manusia hidup. Makna kedua adalah cara untuk berbicara tentang kejahatan. Dunia yang Allah ciptakan adalah baik dan tidak jahat. Namun, iblis itu jahat dan ia memiliki kuasa untuk melakukan hal-hal yang jahat di dunia. Banyak orang memilih untuk mengikuti cara-cara jahatnya. Inilah yang dimaksud oleh para penulis Perjanjian Baru ketika mereka menulis tentang jalan-jalan dunia. Mereka juga menulis bahwa Yesus telah memenangkan peperangan melawan dunia. Ini berarti bahwa Yesus memiliki kemenangan atas dosa, maut dan semua makhluk rohani yang jahat. Yesus memenangkan peperangan ini dengan menderita, mati di kayu salib dan dibangkitkan dari antara orang mati. Karena itu, para pengikut Yesus hidup di bawah kuasa Roh Kudus. Mereka tidak hidup sebagai budak dari kuasa dosa, maut dan kejahatan. Itulah yang dimaksud oleh para penulis Perjanjian Baru tentang dibebaskan dari dunia yang jahat ini.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:OfThisLife",
+          "type": "keyterm",
+          "preferred_label": "duniawi",
+          "confidence": 0.8107,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Worldly",
+          "type": "keyterm",
+          "preferred_label": "duniawi",
+          "confidence": 0.8107,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203664,
+    "content_id": "203664",
     "reference_id": 108529,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dunia surgawi",
     "media_type": "Text",
     "index_reference": "dunia surgawi",
@@ -380,7 +585,8 @@
           "label": "Makhluk rohani",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

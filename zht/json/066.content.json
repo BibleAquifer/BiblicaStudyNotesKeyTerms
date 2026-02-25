@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232943,
+    "content_id": "232943",
     "reference_id": 108342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "憐憫",
     "media_type": "Text",
     "index_reference": "憐憫",
@@ -11,7 +11,16 @@
     "content": "<p>對於在某方面掙扎的人表現出溫柔的愛或善意。神對人充滿憐憫，並以多種方式表現出祂的善意。神憐憫的一個最大例子就是祂如何寬恕人們的罪。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Mercy",
+          "type": "keyterm",
+          "preferred_label": "Mercy",
+          "confidence": 0.8145,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

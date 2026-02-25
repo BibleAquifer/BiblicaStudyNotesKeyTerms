@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232945,
+    "content_id": "232945",
     "reference_id": 108344,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "生命冊",
     "media_type": "Text",
     "index_reference": "生命冊",
@@ -11,13 +11,22 @@
     "content": "<p>在聖經中，生命冊有兩種含義。它也被稱為神的冊子。在舊約中，這種方式用來描述活著的人。它的描述是神寫在冊子中的名字列表。在新約中，這是用來描述耶穌追隨者的一種方式。此書是屬於神的羔羊。生命冊並不是一本實際寫有名字的書。這是一種表達方式，用來描述那些活著的人或者那些信耶穌的人。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Life",
+          "type": "keyterm",
+          "preferred_label": "Life",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232818,
+    "content_id": "232818",
     "reference_id": 108217,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "生命樹",
     "media_type": "Text",
     "index_reference": "生命樹",
@@ -26,13 +35,14 @@
     "content": "<p>伊甸園中的一棵樹，其果實讓人永遠活著。亞當和夏娃犯罪後，神不允許人吃它的果實。以西結在他的聖殿異象中看到了像生命樹的樹（結47:12）。在啟示錄中，約翰在新天新地中看到了這棵樹（啟22:2）。住在聖城中的每個人都可以自由地吃它的果實。這意味著他們擁有永生，永遠與神同住。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233018,
+    "content_id": "233018",
     "reference_id": 108417,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "聖殿",
     "media_type": "Text",
     "index_reference": "聖殿",
@@ -41,13 +51,22 @@
     "content": "<p>位於耶路撒冷，人們可以去那裡敬拜神的建築，也被稱為主的殿或神的殿。第一座聖殿是在所羅門為王時建造的，神與祂的子民同在那裡。巴比倫人在公元前586年摧毀了聖殿。許多年後，猶太人又建造了另一座。羅馬人在公元70年摧毀了那座聖殿後，猶太人再也沒有重建另一座。耶穌稱聖殿為祂父的家。耶穌說祂的身體是新的聖殿，因為神透過耶穌與祂的子民同在。神透過那些跟隨耶穌的人繼續在地上與人同在，讓他們充滿聖靈。因此，信徒被描述為新的聖殿。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Temple",
+          "type": "realia",
+          "preferred_label": "Temple",
+          "confidence": 0.8293,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232962,
+    "content_id": "232962",
     "reference_id": 108361,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "聖潔",
     "media_type": "Text",
     "index_reference": "聖潔",
@@ -56,13 +75,14 @@
     "content": "<p>被分別出來。神是聖潔的。這意味著祂與其他一切存在的事物不同。在聖經中，某些地方是聖潔的。這是因為人們意識到神在那裡同在。某些東西是聖潔的。這意味著它們被用來以特別的方式敬拜神。聖潔的反義詞是不聖潔或邪惡。不聖潔的事物不能與神同在。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232645,
+    "content_id": "232645",
     "reference_id": 108044,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "聖潔的生活",
     "media_type": "Text",
     "index_reference": "聖潔的生活",
@@ -71,13 +91,14 @@
     "content": "<p>效法耶穌的思想、言語和行為。這是信徒如何可以像神一樣聖潔的方法。神希望祂的子民過聖潔生活，這有很多原因。一個原因是聖靈住在他們中間，在他們的裡面。另一個原因是聖潔的生活幫助神的家人彼此善待。這幫助他們總是對彼此表現出關心和愛。聖潔的生活表明信徒已經從罪和死的權勢中得釋放。這幫助他們在不信者中傳播有關耶穌的信息。聖靈使信徒能夠過聖潔的生活。聖潔的生活也被稱為敬虔的生活。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232794,
+    "content_id": "232794",
     "reference_id": 108193,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "聖經",
     "media_type": "Text",
     "index_reference": "聖經",
@@ -94,13 +115,14 @@
           "label": "神的話",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232989,
+    "content_id": "232989",
     "reference_id": 108388,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "聖靈",
     "media_type": "Text",
     "index_reference": "聖靈",
@@ -109,13 +131,29 @@
     "content": "<p>神在創造世界時顯明自己是聖靈。聖靈是神，就像聖父是神，耶穌是神一樣。他們是獨一神的三個位格。聖靈作工在記錄聖經書卷的人身上。在舊約中，聖靈使人能夠預言。聖靈也使人能夠做巧妙的工作和偉大的事蹟。在新約中，聖靈使馬利亞能夠成為耶穌的母親。耶穌在五旬節時將聖靈賜給跟隨祂的人。藉著聖靈，信徒與耶穌聯合。聖靈是一位朋友，使跟隨耶穌的人能夠繼續做祂的工作。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Holy Spirit",
+          "confidence": 0.8479,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Holy",
+          "type": "keyterm",
+          "preferred_label": "Holy",
+          "confidence": 0.8417,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232750,
+    "content_id": "232750",
     "reference_id": 108149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "聖靈的恩賜",
     "media_type": "Text",
     "index_reference": "聖靈的恩賜",
@@ -124,13 +162,14 @@
     "content": "<p>聖靈賜給人們能夠做好某些事情的能力。這些恩賜不是人們可以用手掌握的東西。它們是屬靈的恩賜。這些恩賜包括教導、關心他人和醫治病人。耶穌的追隨者使用他們的恩賜來勸勉和緊固教會。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232755,
+    "content_id": "232755",
     "reference_id": 108154,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "聖靈的果子",
     "media_type": "Text",
     "index_reference": "聖靈的果子",
@@ -139,7 +178,8 @@
     "content": "<p>人們思想、說話和行為的敬虔方式。這些方式顯示人們在思想、說話和行為上像耶穌一樣。聖靈使人們能夠做到這一點。聖靈的果子沒有確切的數量。保羅和彼得列舉了信徒生活中聖靈果子的例子。這些包括仁愛、喜樂、和平、忍耐、恩慈、信實、溫柔和節制。它們包括知識和敬虔。它們還包括任何顯示信徒所跟隨任何耶穌的榜樣。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

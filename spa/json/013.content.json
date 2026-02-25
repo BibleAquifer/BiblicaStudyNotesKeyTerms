@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232094,
+    "content_id": "232094",
     "reference_id": 108125,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Macedonia",
     "media_type": "Text",
     "index_reference": "macedonia",
@@ -19,13 +19,29 @@
           "label": "Grecia",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Macedonia",
+          "type": "place",
+          "preferred_label": "Macedonia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:MacedonianMan",
+          "type": "person",
+          "preferred_label": "Macedonian",
+          "confidence": 0.8792,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232272,
+    "content_id": "232272",
     "reference_id": 108303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Madianitas",
     "media_type": "Text",
     "index_reference": "madianitas",
@@ -34,13 +50,36 @@
     "content": "<p>Madián era un hijo de Abraham y su esposa Cetura. El grupo de personas llamado madianitas provino de su linaje familiar. El nombre de la tierra donde vivían también se llamaba Madián. Estaba al este de Egipto y al sur de Canaán. Dios se le apareció a Moisés en la tierra de Madián. En el Antiguo Testamento, los madianitas a veces ayudaban a los israelitas. Otras veces les perjudicaba.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Midian",
+          "type": "person",
+          "preferred_label": "Madianitas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Midian",
+          "type": "place",
+          "preferred_label": "Madianitas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Midian",
+          "type": "group",
+          "preferred_label": "Madianita",
+          "confidence": 0.9255,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232017,
+    "content_id": "232017",
     "reference_id": 108048,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maestros de la ley",
     "media_type": "Text",
     "index_reference": "maestros de la ley",
@@ -49,13 +88,14 @@
     "content": "<p>Hombres judíos que habían estudiado el Antiguo Testamento y otros escritos judaicos. Estos hombres enseñaban lo que habían aprendido a la gente. La gente generalmente respetaba muy bien estos maestros y los trataba con honor. La mayoría de los maestros de la ley se opusieron a Jesús y a su obra.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232279,
+    "content_id": "232279",
     "reference_id": 108310,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Magia",
     "media_type": "Text",
     "index_reference": "magia",
@@ -64,13 +104,22 @@
     "content": "<p>El uso de poder espiritual que no proviene de Dios. Las personas usan este poder para intentar controlar cosas o a otras personas,  para intentar dañar a otros o protegerse del daño. También lo usan para intentar hacer cambios en el mundo. A menudo estos cambios parecen ser milagros. En los tiempos y diferentes lugares de la Biblia, muchas personas usaban magia. Creían que este poder espiritual provenía de dioses y diosas y que los espíritus de los miembros fallecidos de la familia podían ayudarlos a usar este poder. También consideraban que este poder también se podía encontrar en el mundo natural. Muchas personas todavía creen estas cosas. Buscan la ayuda de dioses, seres espirituales o cosas en el mundo natural.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Magi",
+          "type": "group",
+          "preferred_label": "Magi",
+          "confidence": 0.8701,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232547,
+    "content_id": "232547",
     "reference_id": 108578,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Malaquías",
     "media_type": "Text",
     "index_reference": "malaquías",
@@ -79,13 +128,106 @@
     "content": "<p>Un profeta que apareció después de que los judíos regresaran a Jerusalén tras ser obligados a vivir en Babilonia. Sus profecías están registradas en el libro de Malaquías.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Malachi",
+          "type": "person",
+          "preferred_label": "Malaquías",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchiah",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.10",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.11",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.2",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.3",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.4",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.5",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.6",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.7",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.8",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchijah.9",
+          "type": "person",
+          "preferred_label": "Malchîas",
+          "confidence": 0.8282,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232349,
+    "content_id": "232349",
     "reference_id": 108380,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maldiciones del pacto",
     "media_type": "Text",
     "index_reference": "maldiciones del pacto",
@@ -94,13 +236,14 @@
     "content": "<p>Cosas terribles que sucedían cuando las personas no eran fieles a un pacto. En los pactos con Dios, no ser fiel significaba no vivir según los caminos de Dios. Esto detenía las bendiciones del pacto y llevaba a las personas a sufrir de muchas maneras. El sufrimiento generalmente tenía que ver con perder la tierra que Dios les había dado, la muerte de sus hijos y la partida de la presencia de Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232023,
+    "content_id": "232023",
     "reference_id": 108054,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maltratado",
     "media_type": "Text",
     "index_reference": "maltratado",
@@ -117,13 +260,14 @@
           "label": "Roma",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232292,
+    "content_id": "232292",
     "reference_id": 108323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Maná",
     "media_type": "Text",
     "index_reference": "maná",
@@ -132,13 +276,14 @@
     "content": "<p>El pan del cielo que Dios proporcionó a los israelitas en el desierto después del éxodo. Dios se lo enviaba seis días a la semana. Fue el alimento que los israelitas comieron hasta que entraron en Canaán. Se guardó un frasco lleno de maná en el arca del pacto. Esto era un recordatorio para el pueblo de cómo Dios había provisto para ellos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232268,
+    "content_id": "232268",
     "reference_id": 108299,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Manasés",
     "media_type": "Text",
     "index_reference": "manasés",
@@ -147,13 +292,50 @@
     "content": "<p>El hijo mayor de José y Asenat. En el idioma hebreo, Manasés significa causar el olvido. Jacob lo adoptó como uno de sus propios hijos. El linaje familiar de Manasés se convirtió en una tribu de Israel. La mitad de la tribu vivía al este del río Jordán. La otra mitad vivía al oeste del río Jordán en Canaán.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Manasseh",
+          "type": "group",
+          "preferred_label": "Manasés",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Manasseh",
+          "type": "person",
+          "preferred_label": "Manasés",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Manasseh.2",
+          "type": "person",
+          "preferred_label": "Manasés",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Manasseh.3",
+          "type": "person",
+          "preferred_label": "Manasés",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Manasseh.4",
+          "type": "person",
+          "preferred_label": "Manasés",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232041,
+    "content_id": "232041",
     "reference_id": 108072,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mar",
     "media_type": "Text",
     "index_reference": "mar",
@@ -162,13 +344,29 @@
     "content": "<p>Muchas historias en la Biblia describen el mar como algo a temer. Era algo de lo que la gente necesitaba que Dios los salvara. Esto incluye a los israelitas cruzando el Mar Rojo. Incluye a Jonás cuando fue arrojado al mar. Incluye a Jesús cuando calmó la tormenta en el mar. Incluye la visión de Juan en el Apocalipsis de la bestia que salío del mar.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:SaltSea",
+          "type": "place",
+          "preferred_label": "mar",
+          "confidence": 0.8244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Suphah",
+          "type": "place",
+          "preferred_label": "mar",
+          "confidence": 0.8244,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232544,
+    "content_id": "232544",
     "reference_id": 108575,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mar Mediterráneo",
     "media_type": "Text",
     "index_reference": "mar mediterráneo",
@@ -177,13 +375,14 @@
     "content": "<p>Un enorme cuerpo de agua que conecta África, Asia y Europa. Era la frontera occidental de la tierra que Dios prometió dar a los israelitas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232289,
+    "content_id": "232289",
     "reference_id": 108320,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mar Rojo",
     "media_type": "Text",
     "index_reference": "mar rojo",
@@ -192,13 +391,14 @@
     "content": "<p>Un gran cuerpo de agua en la frontera de Egipto durante el tiempo del éxodo. Hoy en día no se sabe con certeza cuál es este cuerpo de agua. Dios dividió el agua para que el pueblo de Israel pudiera caminar por tierra seca. Después de que los israelitas llegaron al otro lado, los egipcios se ahogaron en el agua.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232038,
+    "content_id": "232038",
     "reference_id": 108069,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Marcos",
     "media_type": "Text",
     "index_reference": "marcos",
@@ -207,13 +407,22 @@
     "content": "<p>El autor del Evangelio de Marcos. También se le llamaba Juan Marcos. La casa de su madre era un lugar de oración para los cristianos en Jerusalén. Fue discípulo de Pedro y Bernabé era su primo. Marcos viajó con Pablo y Bernabé en su primer viaje, pero se fue temprano. Más tarde, fue útil para Pablo en su trabajo nuevamente.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "Marcos",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232489,
+    "content_id": "232489",
     "reference_id": 108520,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mardoqueo",
     "media_type": "Text",
     "index_reference": "mardoqueo",
@@ -222,13 +431,29 @@
     "content": "<p>Un judío que vivió en el reino persa durante el tiempo de Jerjes. Mardoqueo era hijo de Jair y era de la tribu de Benjamín. Adoptó a su prima Ester cuando sus padres murieron. Sirvió en el gobierno persa en la puerta del palacio en Susa. Después de que Amán fue asesinado, Mardoqueo se convirtió en consejero de Asuero. Mardoqueo fue un líder importante con autoridad en el reino persa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mordecai",
+          "type": "person",
+          "preferred_label": "Mardochêo",
+          "confidence": 0.9021,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mordecai.2",
+          "type": "person",
+          "preferred_label": "Mardochêo",
+          "confidence": 0.9021,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232423,
+    "content_id": "232423",
     "reference_id": 108454,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "María de Nazaret",
     "media_type": "Text",
     "index_reference": "maría de nazaret",
@@ -237,13 +462,14 @@
     "content": "<p>Una joven de Nazaret que sirvió a Dios fielmente. Había prometido casarse con un hombre llamado José de Nazaret. Quedó embarazada aunque no había tenido relaciones sexuales con ningún hombre. El poder del Espíritu Santo hizo esto posible. Ella fue la madre humana de Jesús el Mesías.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232291,
+    "content_id": "232291",
     "reference_id": 108322,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "María hermana de Moisés",
     "media_type": "Text",
     "index_reference": "maría hermana de moisés",
@@ -252,13 +478,14 @@
     "content": "<p>Una hija de Amram y Jocabed de la tribu de Leví. Moisés y Aarón eran sus hermanos. Ayudó a Moisés a guiar al pueblo de Israel durante el éxodo. Era una profetisa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232037,
+    "content_id": "232037",
     "reference_id": 108068,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "María Magdalena",
     "media_type": "Text",
     "index_reference": "maría magdalena",
@@ -267,13 +494,14 @@
     "content": "<p>Una mujer que era una fiel seguidora de Jesús. Se cree que era del pueblo de Magdala en Galilea. Jesús expulsó siete demonios de ella.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232052,
+    "content_id": "232052",
     "reference_id": 108083,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "María, Marta y Lázaro",
     "media_type": "Text",
     "index_reference": "maría, marta y lázaro",
@@ -282,13 +510,14 @@
     "content": "<p>Dos hermanas y un hermano que eran amigos cercanos de Jesús. Vivían fuera de Jerusalén en Betania. Jesús se quedaba en su casa. Después de que Lázaro había sido enterrado durante cuatro días, Jesús lo devolvió a la vida. María derramó perfume caro en la cabeza de Jesús para mostrar su profundo amor por él.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232508,
+    "content_id": "232508",
     "reference_id": 108539,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mateo",
     "media_type": "Text",
     "index_reference": "mateo",
@@ -297,13 +526,22 @@
     "content": "<p>El autor del primer evangelio en el Nuevo Testamento. Fue uno de los 12 discípulos de Jesús. También se le llamaba Leví. Era un recaudador de impuestos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Matthew",
+          "type": "person",
+          "preferred_label": "Mateo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232175,
+    "content_id": "232175",
     "reference_id": 108206,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Matrimonio",
     "media_type": "Text",
     "index_reference": "matrimonio",
@@ -312,13 +550,14 @@
     "content": "<p>La práctica en la Biblia que permitía a un hombre y una mujer unirse. Les permitía ser una familia. Así es como los seres humanos obedecían la instrucción de Dios de tener hijos y llenar la tierra. La Ley de Moisés incluía muchas reglas sobre el matrimonio entre los israelitas. La regla principal era que los esposos y esposas debían ser siempre fieles el uno al otro. Debían tener relaciones sexuales solo entre ellos. El Cantar de los Cantares daba un ejemplo de alegría, respeto y amabilidad en el matrimonio. Los profetas del Antiguo Testamento usaban el matrimonio como una ilustración. Describía algo sobre la relación entre el pueblo de Israel y Dios. Dios era como el esposo e Israel era como la esposa. Dios amaba a Israel y siempre era fiel a su pueblo. Los escritores del Nuevo Testamento también usaron el matrimonio como una ilustración. Jesús era como el novio y la iglesia como la novia. Esto muestra cuánto ama Jesús a sus seguidores.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232430,
+    "content_id": "232430",
     "reference_id": 108461,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Médium",
     "media_type": "Text",
     "index_reference": "médium",
@@ -327,13 +566,14 @@
     "content": "<p>Alguien que habla con los espíritus de personas muertas para recibir mensajes. Esta era una práctica común entre los grupos de personas alrededor de los israelitas. Dios no permitió que su pueblo hiciera eso. En su lugar, debían orar a él. Debían ser guiados por la palabra de Dios y el Espíritu de Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232436,
+    "content_id": "232436",
     "reference_id": 108467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mefi-boset",
     "media_type": "Text",
     "index_reference": "mefi-boset",
@@ -342,13 +582,29 @@
     "content": "<p>Un hijo de Jonatán y nieto de Saúl. Era de la tribu de Benjamín. Sus pies se lastimaron en un accidente el día que murió Jonatán. Una vez que David se convirtió en rey, siempre trató bien a Mefi-boset.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mephibosheth",
+          "type": "person",
+          "preferred_label": "Mephi-boseth",
+          "confidence": 0.8927,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mephibosheth.2",
+          "type": "person",
+          "preferred_label": "Mephi-boseth",
+          "confidence": 0.8927,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232221,
+    "content_id": "232221",
     "reference_id": 108252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Melquisedec",
     "media_type": "Text",
     "index_reference": "melquisedec",
@@ -357,13 +613,22 @@
     "content": "<p>Un sacerdote de Dios que era el rey de Salem. Salem era un nombre para Jerusalén en la época de Abraham. Melquisedec bendijo a Abraham después de que Abraham rescatara a Lot. Abraham lo honró dándole una décima parte de todo lo que ganó en una batalla.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Melchizedek",
+          "type": "person",
+          "preferred_label": "Melchîsedec",
+          "confidence": 0.8485,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232503,
+    "content_id": "232503",
     "reference_id": 108534,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mensajes de juicio",
     "media_type": "Text",
     "index_reference": "mensajes de juicio",
@@ -372,13 +637,14 @@
     "content": "<p>Mensajes que Dios enviaba a la gente a través de un profeta sobre el juicio que traería. Los mensajes advertían a la gente que dejaran de hacer cosas perversas. Dios les advertía que se apartaran de su pecado y se arrepintieran. También les advertía porque quería que cambiaran sus caminos. Si no cambiaban, Dios traería juicio contra ellos. Si cambiaban, Dios no lo haría. Dar estas advertencias a la gente mostraba que Dios estaba lleno de misericordia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232363,
+    "content_id": "232363",
     "reference_id": 108394,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Meriba",
     "media_type": "Text",
     "index_reference": "meriba",
@@ -387,13 +653,29 @@
     "content": "<p>En el idioma hebreo, la palabra Meriba significa discutir. Hay dos lugares llamados Meriba en la Biblia. En ambos lugares, los israelitas discutieron con Dios y Moisés porque no tenían agua. Un lugar se llamaba Masah y Meriba. El otro lugar se llamaba Meriba de Cades y estaba cerca de Cades Barnea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Meribah",
+          "type": "place",
+          "preferred_label": "Meribah",
+          "confidence": 0.8849,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Meribah.2",
+          "type": "place",
+          "preferred_label": "Meribah",
+          "confidence": 0.8849,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232496,
+    "content_id": "232496",
     "reference_id": 108527,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mesías",
     "media_type": "Text",
     "index_reference": "mesías",
@@ -402,13 +684,14 @@
     "content": "<p>El salvador que Dios prometió enviar para rescatar a su pueblo de todos sus enemigos. En el idioma hebreo, la palabra mesías significa ungido o elegido. Muchas profecías y promesas registradas en el Antiguo Testamento hablan de este rescatador. Muchos judíos llegaron a entender que estas profecías y promesas hablaban de un rey. Sería del linaje familiar de David. Sería elegido por Dios para traer una paz que duraría para siempre. Cuando Jesús vivió en la tierra, muchos judíos creyeron que él es el Mesías.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232213,
+    "content_id": "232213",
     "reference_id": 108244,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mesopotamia",
     "media_type": "Text",
     "index_reference": "mesopotamia",
@@ -417,13 +700,36 @@
     "content": "<p>El área alrededor del río Tigris y el río Éufrates. Era donde están partes de los países ahora llamados Irán, Siria, Kuwait y Turquía.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Mesopotamia",
+          "type": "group",
+          "preferred_label": "Mesopotamia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Aram-naharaim",
+          "type": "place",
+          "preferred_label": "Mesopotamia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mesopotamia",
+          "type": "place",
+          "preferred_label": "Mesopotamia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232534,
+    "content_id": "232534",
     "reference_id": 108565,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miguel",
     "media_type": "Text",
     "index_reference": "miguel",
@@ -432,13 +738,14 @@
     "content": "<p>Un líder entre los ángeles que sirven a Dios. Dios le dio autoridad en el mundo celestial. Los capítulos 10 y 12 de Daniel describieron a Miguel sirviendo y protegiendo al pueblo de Israel. En Apocalipsis, Juan describió una batalla que Miguel luchó contra el dragón. Judas contó una historia sobre Miguel basada en un escrito judío de su tiempo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232274,
+    "content_id": "232274",
     "reference_id": 108305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Milagros",
     "media_type": "Text",
     "index_reference": "milagros",
@@ -447,13 +754,14 @@
     "content": "<p>Grandes obras de Dios. Estos también se llaman señales y prodigios, cosas asombrosas y actos poderosos. Muestran que Dios es el verdadero Dios. Muestran que él tiene más poder y autoridad que cualquier cosa que exista. Dios da a ciertas personas el poder de realizar milagros. Los hacen para ayudar a otros a creer que Dios es quien dice ser. Jesús realizó las grandes obras de Dios cuando estuvo en la tierra. También dio a sus seguidores el poder de hacer señales y prodigios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232545,
+    "content_id": "232545",
     "reference_id": 108576,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miqueas",
     "media_type": "Text",
     "index_reference": "miqueas",
@@ -462,13 +770,78 @@
     "content": "<p>Un profeta del reino del sur durante el tiempo de Jotam, Acaz y Ezequías. Sus mensajes eran para el reino del norte y el reino del sur. Sus profecías están registradas en el libro de Miqueas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Micaiah.3",
+          "type": "person",
+          "preferred_label": "Michâías",
+          "confidence": 0.809,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.4",
+          "type": "person",
+          "preferred_label": "Michâías",
+          "confidence": 0.809,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.5",
+          "type": "person",
+          "preferred_label": "Michâías",
+          "confidence": 0.809,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.6",
+          "type": "person",
+          "preferred_label": "Michâías",
+          "confidence": 0.809,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.2",
+          "type": "person",
+          "preferred_label": "Michâs",
+          "confidence": 0.8012,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.3",
+          "type": "person",
+          "preferred_label": "Michâs",
+          "confidence": 0.8012,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.4",
+          "type": "person",
+          "preferred_label": "Michâs",
+          "confidence": 0.8012,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.5",
+          "type": "person",
+          "preferred_label": "Michâs",
+          "confidence": 0.8012,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.6",
+          "type": "person",
+          "preferred_label": "Michâs",
+          "confidence": 0.8012,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232311,
+    "content_id": "232311",
     "reference_id": 108342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Misericordia",
     "media_type": "Text",
     "index_reference": "misericordia",
@@ -477,13 +850,14 @@
     "content": "<p>Amor tierno o amabilidad hacia alguien que está luchando de alguna manera. Dios está lleno de misericordia hacia las personas y muestra su bondad de muchas maneras. Uno de los mayores ejemplos de su misericordia es cómo perdona los pecados de las personas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232114,
+    "content_id": "232114",
     "reference_id": 108145,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Misterio de Cristo",
     "media_type": "Text",
     "index_reference": "misterio de cristo",
@@ -492,13 +866,14 @@
     "content": "<p>La verdad sobre cómo Dios lleva a cabo su plan para el mundo a través de Jesucristo. En el Nuevo Testamento, un misterio suele ser algo que no se dió a conocer a las personas. Los profetas del Antiguo Testamento dijeron que Dios salvaría a su pueblo. Pero los judíos no sabían exactamente cómo o cuándo Dios haría esto. No estaban seguros de quién o de qué serían salvados. No sabían exactamente quién sería salvado. Pablo explica este misterio en sus cartas. El plan de Dios era salvar a todas las personas que confían en Jesús. Jesús es un ser humano y es el Hijo de Dios. Dios salva a su pueblo del poder del pecado, el mal y la muerte. Los salva a través de lo que Jesús hizo cuando se sacrificó en la cruz.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232366,
+    "content_id": "232366",
     "reference_id": 108397,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moab",
     "media_type": "Text",
     "index_reference": "moab",
@@ -507,13 +882,36 @@
     "content": "<p>Un grupo de personas que vivía al este del río Jordán. Eran del linaje familiar de Lot. La tierra donde vivían también se llamaba Moab. Adoraban a dioses falsos llamados Baal y Quemos. A veces los moabitas hacían daño al pueblo de Dios y otras veces los ayudaban.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Moab",
+          "type": "person",
+          "preferred_label": "Moab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Moab",
+          "type": "place",
+          "preferred_label": "Moab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Moab",
+          "type": "group",
+          "preferred_label": "Moabites",
+          "confidence": 0.872,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232269,
+    "content_id": "232269",
     "reference_id": 108300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moisés",
     "media_type": "Text",
     "index_reference": "moisés",
@@ -530,13 +928,22 @@
           "label": "Ley de Moisés",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Moses",
+          "type": "person",
+          "preferred_label": "Moisés",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232032,
+    "content_id": "232032",
     "reference_id": 108063,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Monte de los Olivos",
     "media_type": "Text",
     "index_reference": "monte de los olivos",
@@ -545,13 +952,14 @@
     "content": "<p>Un grupo de tres picos en el lado este de Jerusalén. Está separado de Jerusalén por el Valle de Cedrón. Había un jardín de olivos allí donde Jesús iba a menudo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232474,
+    "content_id": "232474",
     "reference_id": 108505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Monte Moriah",
     "media_type": "Text",
     "index_reference": "monte moriah",
@@ -560,13 +968,29 @@
     "content": "<p>Una colina rocosa en Jerusalén. También llamado Monte Sion. Estaba al norte de la parte de Jerusalén que David usaba para su gobierno. En el idioma hebreo Moriah significa el lugar donde el Señor provee y aparece. Es donde Dios probó a Abraham pidiéndole que sacrificara a Isaac. Luego Dios proporcionó el carnero para ser sacrificado en lugar de Isaac. Muchos años después, el ángel del Señor apareció en el Monte Moriah. El ángel trajo una plaga para destruir Jerusalén. Dios aceptó la ofrenda en el altar que David construyó. David construyó ese altar en el terreno de un jebuseo en el Monte Moriah. Entonces, Dios detuvo la plaga. Por eso Salomón hizo construir el primer templo en el Monte Moriah. El segundo templo también fue construido allí.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Moriah",
+          "type": "place",
+          "preferred_label": "Moriah",
+          "confidence": 0.8033,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:MoriahMount",
+          "type": "place",
+          "preferred_label": "Moriah",
+          "confidence": 0.8033,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232296,
+    "content_id": "232296",
     "reference_id": 108327,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Monte Sinaí",
     "media_type": "Text",
     "index_reference": "monte sinaí",
@@ -575,13 +999,14 @@
     "content": "<p>Una montaña fuera de Egipto. También llamada Monte Horeb. Dios apareció allí a Moisés en la zarza que no se consumía. Después de que el pueblo de Israel salió de Egipto, Dios se reunió nuevamente con Moisés allí. Es donde Dios estableció su pacto con el pueblo de Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232159,
+    "content_id": "232159",
     "reference_id": 108190,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Muerte e infierno",
     "media_type": "Text",
     "index_reference": "muerte e infierno",
@@ -590,13 +1015,14 @@
     "content": "<p>En el Apocalipsis, Juan describió la muerte y el infierno como poderes malignos que Dios juzgó. Esto significa que Dios detuvo la muerte y el infierno para siempre. Debido a esto, las personas en el reino de Dios en la tierra nunca morirán. Y las personas que se nieguen a unirse al reino de Dios estarán separadas de Dios para siempre.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232056,
+    "content_id": "232056",
     "reference_id": 108087,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mujer",
     "media_type": "Text",
     "index_reference": "mujer",
@@ -605,13 +1031,29 @@
     "content": "<p>Una forma respetuosa en que Jesús hablaba a las mujeres. A algunas mujeres que sanó las llamó querida mujer. Otras veces llamó a su madre María querida mujer. Mostraba amabilidad y cuidado.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:GenericFemales",
+          "type": "group",
+          "preferred_label": "Women",
+          "confidence": 0.9168,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:GenericFemale",
+          "type": "person",
+          "preferred_label": "A Woman",
+          "confidence": 0.8737,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232184,
+    "content_id": "232184",
     "reference_id": 108215,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mundo",
     "media_type": "Text",
     "index_reference": "mundo",
@@ -620,13 +1062,14 @@
     "content": "<p>A lo largo de la Biblia hay dos significados para la palabra mundo. El primer significado es el lugar que Dios creó para que vivan las plantas, los animales y los humanos. El segundo significado es una forma de hablar sobre el mal. El mundo que Dios creó es bueno y no es malo. Sin embargo, el diablo es malvado y tiene poder para hacer cosas malvadas en el mundo. Muchas personas eligen seguir los caminos malvados del diablo. Esto es lo que los escritores del Nuevo Testamento querían decir cuando escribieron sobre los caminos del mundo. También escribieron que Jesús ganó la batalla sobre el mundo. Esto significa que Jesús tiene victoria sobre el pecado, la muerte y todos los seres espirituales malignos. Jesús ganó esta batalla sufriendo, muriendo en la cruz y resucitando de entre los muertos. Debido a esto, los seguidores de Jesús viven bajo el poder del Espíritu Santo. No viven como esclavos del poder del pecado, la muerte y el mal. Esto es lo que los escritores del Nuevo Testamento querían decir sobre ser librados de este mundo maligno.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232498,
+    "content_id": "232498",
     "reference_id": 108529,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mundo celestial",
     "media_type": "Text",
     "index_reference": "mundo celestial",
@@ -650,7 +1093,8 @@
           "label": "Seres espirituales",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

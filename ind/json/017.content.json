@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203296,
+    "content_id": "203296",
     "reference_id": 108161,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Onesimus",
     "media_type": "Text",
     "index_reference": "onesimus",
@@ -11,13 +11,22 @@
     "content": "<p>Seorang budak di Kolose yang melarikan diri dari tuannya, Filemon. Dalam bahasa Yunani, Onesimus berarti berguna. Ia bertemu dengan Paulus dan mulai mengikuti Yesus. Ia menjadi sahabat dekat Paulus dan bekerja sama dengannya. Paulus mengirimnya kembali untuk tinggal bersama Filemon. Onesimus membantu membawa surat-surat Paulus kepada jemaat di Kolose dan Filemon.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Onesimus",
+          "type": "person",
+          "preferred_label": "Onesimus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203459,
+    "content_id": "203459",
     "reference_id": 108324,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Amalek",
     "media_type": "Text",
     "index_reference": "orang amalek",
@@ -26,13 +35,14 @@
     "content": "<p>Sekelompok orang dari bagian selatan Kanaan. Diperkirakan bahwa mereka berasal dari garis keturunan cucu Esau dari Amalek. Mereka merupakan musuh dari orang Israel. Selama ratusan tahun mereka menyerang bangsa Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203547,
+    "content_id": "203547",
     "reference_id": 108412,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Amon",
     "media_type": "Text",
     "index_reference": "orang amon",
@@ -41,13 +51,43 @@
     "content": "<p>Sekelompok orang yang tinggal di sebelah timur Sungai Yordan. Mereka berasal dari garis keturunan Lot. Tanah yang mereka diami disebut Amon. Mereka menyembah allah-allah palsu yang disebut dengan Molokh.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Amon",
+          "type": "deity",
+          "preferred_label": "Amon",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amon.2",
+          "type": "person",
+          "preferred_label": "Amon",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amon.3",
+          "type": "person",
+          "preferred_label": "Amon",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ammon",
+          "type": "place",
+          "preferred_label": "Amon",
+          "confidence": 0.8818,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203548,
+    "content_id": "203548",
     "reference_id": 108413,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Amori",
     "media_type": "Text",
     "index_reference": "orang amori",
@@ -56,13 +96,22 @@
     "content": "<p>Sekelompok orang yang tinggal di tanah Kanaan dan di sebelah timur Sungai Yordan. Mereka berasal dari garis keturunan Ham yang adalah bapa Kanaan. Mereka merupakan musuh dari garis keturunan Abraham selama ratusan tahun. Allah mengusir mereka dari tanah Kanaan dan memberikan tanah mereka kepada bangsa Israel.  </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Amorites",
+          "type": "group",
+          "preferred_label": "Amorites",
+          "confidence": 0.821,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203682,
+    "content_id": "203682",
     "reference_id": 108547,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang bukan Yahudi",
     "media_type": "Text",
     "index_reference": "orang bukan yahudi",
@@ -79,13 +128,14 @@
           "label": "Hukum Musa",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203402,
+    "content_id": "203402",
     "reference_id": 108267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Filistin",
     "media_type": "Text",
     "index_reference": "orang filistin",
@@ -94,13 +144,36 @@
     "content": "<p>Sebuah kelompok masyarakat dari garis keturunan Ham. Mereka tinggal di Kanaan bagian selatan di sepanjang pesisir Laut Tengah. Kadang-kadang mereka bekerja sama dengan garis keluarga Abraham. Mereka sering berperang dengan bangsa Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Filistin",
+          "confidence": 0.8994,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philistine",
+          "type": "person",
+          "preferred_label": "Filistin",
+          "confidence": 0.8994,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Filistin",
+          "confidence": 0.8994,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203562,
+    "content_id": "203562",
     "reference_id": 108427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Hewi",
     "media_type": "Text",
     "index_reference": "orang hewi",
@@ -109,13 +182,14 @@
     "content": "<p>Suatu kelompok masyarakat yang tinggal di Kanaan. Mereka berasal dari garis keturunan Kanaan, putra Ham. Allah berkata kepada bangsa Israel untuk mengusir mereka dari Kanaan sebagai penghakiman Allah terhadap mereka. Yosua ditipu untuk membuat perjanjian damai dengan orang Hewi yang tinggal di Gibeon.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203478,
+    "content_id": "203478",
     "reference_id": 108343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Lewi",
     "media_type": "Text",
     "index_reference": "orang lewi",
@@ -132,13 +206,14 @@
           "label": "Imam",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203504,
+    "content_id": "203504",
     "reference_id": 108369,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang luar",
     "media_type": "Text",
     "index_reference": "orang luar",
@@ -147,13 +222,14 @@
     "content": "<p>Siapapun yang tidak termasuk dalam suatu tempat atau kelompok. Orang yang tinggal di tempat yang berbeda dengan tempat asal keluarga mereka dianggap sebagai orang luar. Orang yang menjadi bagian dari kelompok yang bukan bagian dari kelompok keluarga mereka juga dianggap orang luar. Orang Israel menganggap siapa pun yang bukan bagian dari garis keturunan Yakub sebagai orang luar. Orang luar yang tinggal bersama mereka harus mematuhi hukum-hukum tertentu dari Hukum Musa. Orang Israel yang tidak setia mengikuti Hukum Musa sering diperlakukan sebagai orang asing. Mereka juga disebut sebagai orang berdosa. Orang Israel yang dianggap najis menurut Hukum Musa diperlakukan seperti orang luar. Kebanyakan orang luar tidak dapat sepenuhnya menjadi bagian dari komunitas mereka. Tetapi beberapa orang seperti Rut diterima sepenuhnya sebagai anggota komunitas Israel. Beberapa orang luar juga dikenal sebagai orang asing dan pendatang.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203438,
+    "content_id": "203438",
     "reference_id": 108303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Midian",
     "media_type": "Text",
     "index_reference": "orang midian",
@@ -162,13 +238,36 @@
     "content": "<p>Midian adalah anak dari Abraham dan istrinya Ketura. Kelompok orang yang disebut orang Midian berasal dari garis keturunannya. Nama tanah tempat mereka tinggal juga disebut Midian. Letaknya di sebelah timur Mesir dan di sebelah selatan Kanaan. Allah menampakkan diri kepada Musa di tanah Midian. Dalam Perjanjian Lama, orang Midian terkadang membantu orang Israel. Di lain waktu, mereka mencelakakan orang Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Midian",
+          "type": "person",
+          "preferred_label": "Midian",
+          "confidence": 0.9079,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Midian",
+          "type": "place",
+          "preferred_label": "Midian",
+          "confidence": 0.9079,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Midian",
+          "type": "group",
+          "preferred_label": "Midianites",
+          "confidence": 0.8697,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203212,
+    "content_id": "203212",
     "reference_id": 108077,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Percaya",
     "media_type": "Text",
     "index_reference": "orang percaya",
@@ -177,13 +276,22 @@
     "content": "<p>Seseorang yang percaya pada Yesus Kristus dan mengikuti-Nya. Dalam Perjanjian Baru mereka juga disebut Orang Kristen. Mereka percaya bahwa Yesus dari Nazaret adalah Anak Allah yang bangkit dari kematian. Orang percaya menyembah Yesus sebagai Allah. Mereka melayani Dia sebagai Mesias dan Raja. Orang percaya pertama kali disebut Orang Kristen di Antiokhia di Siria. Mereka disebut dengan nama Kristus karena mereka mengikuti jalan hidup-Nya. Orang percaya tetap menjadi bagian dari masyarakat dan kelompok mereka saat mereka mengikuti Yesus. Mereka terus melanjutkan hukum dan praktik dalam kelompok masyarakat mereka. Mereka melakukan ini kecuali hukum dan praktik tersebut bertentangan dengan apa yang diajarkan Yesus. Hal ini berlaku untuk orang percaya Yahudi dan orang percaya yang bukan Yahudi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:GenericBelievers",
+          "type": "group",
+          "preferred_label": "Believers",
+          "confidence": 0.8852,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203193,
+    "content_id": "203193",
     "reference_id": 108058,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Saduki",
     "media_type": "Text",
     "index_reference": "orang saduki",
@@ -192,13 +300,14 @@
     "content": "<p>Kelompok pemimpin agama Yahudi yang memiliki otoritas paling besar di Yerusalem. Ini terjadi pada masa Perjanjian Baru. Mereka bertanggung jawab atas Bait Allah dan bekerja sama erat dengan para penguasa Romawi. Mereka tidak percaya pada malaikat atau bahwa Allah membangkitkan orang dari kematian. Mereka tidak percaya bahwa Yesus adalah Mesias yang dijanjikan Allah untuk diutus. Kebanyakan orang Saduki menentang Yesus dan ajarannya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203639,
+    "content_id": "203639",
     "reference_id": 108504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang Yebus",
     "media_type": "Text",
     "index_reference": "orang yebus",
@@ -207,13 +316,14 @@
     "content": "<p>Sekelompok orang yang tinggal di Kanaan. Mereka berasal dari garis keturunan Kanaan, putra Ham. Allah memerintahkan bangsa Israel untuk mengusir mereka dari tanah itu sebagai penghakiman-Nya terhadap mereka. Mereka tinggal di kota Yerusalem sebelum Daud menguasai kota itu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203185,
+    "content_id": "203185",
     "reference_id": 108050,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang-orang Farisi",
     "media_type": "Text",
     "index_reference": "orang-orang farisi",
@@ -222,13 +332,29 @@
     "content": "<p>Sekelompok pemimpin agama Yahudi pada masa Perjanjian Baru. Mereka mendesak orang-orang Yahudi untuk bekerja sangat keras demi menaati semua hukum Perjanjian Lama. Mereka tidak percaya bahwa Yesus adalah Mesias yang dijanjikan Allah untuk diutus. Sebagian besar orang-orang Farisi menentang Yesus dan ajaran-ajarannya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisees",
+          "confidence": 0.8916,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Persia",
+          "type": "group",
+          "preferred_label": "Persians",
+          "confidence": 0.8368,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203660,
+    "content_id": "203660",
     "reference_id": 108525,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang-orang fasik",
     "media_type": "Text",
     "index_reference": "orang-orang fasik",
@@ -237,13 +363,14 @@
     "content": "<p>Orang-orang yang tidak hidup seperti yang Allah inginkan untuk manusia. Mereka tidak mengasihi, menyembah, dan menaati Allah. Mereka menyembah ilah-ilah palsu. Mereka berusaha mendapatkan yang terbaik untuk diri mereka sendiri dan tidak melayani orang lain. Mereka juga berusaha membuat orang lain berhenti setia kepada Allah dan jalan-jalan-Nya. Allah ingin agar orang-orang fasik berbalik dari dosa dan menjadi benar di hadapan-Nya. Allah akan membangkitkan orang fasik dari kematian. Ia akan menghakimi mereka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203217,
+    "content_id": "203217",
     "reference_id": 108082,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang-orang Gerasa",
     "media_type": "Text",
     "index_reference": "orang-orang gerasa",
@@ -252,13 +379,22 @@
     "content": "<p>Sebuah kelompok yang tinggal di sepanjang pantai timur Danau Galilea. Mereka tidak ingin Yesus melakukan mukjizat-mukjizat di kota mereka. Markus dan Lukas menyebut kelompok ini sebagai orang-orang Gerasa. Matius menyebut mereka orang-orang Gadara.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Gerasa",
+          "type": "place",
+          "preferred_label": "Gerasa",
+          "confidence": 0.8058,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203168,
+    "content_id": "203168",
     "reference_id": 108033,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang-orang majus",
     "media_type": "Text",
     "index_reference": "orang-orang majus",
@@ -267,13 +403,14 @@
     "content": "<p>Orang-orang penting dari negeri-negeri di sebelah timur Yerusalem. Mereka mempelajari bintang-bintang di langit. Setelah Yesus lahir, mereka menyembah Dia sebagai Raja dunia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203553,
+    "content_id": "203553",
     "reference_id": 108418,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Orang-orang yang membutuhkan",
     "media_type": "Text",
     "index_reference": "orang-orang yang membutuhkan",
@@ -282,13 +419,14 @@
     "content": "<p>Dalam Perjanjian Lama, orang-orang yang berkekurangan adalah mereka yang tidak memiliki tanah untuk bertani. Tanpa tanah, mereka tidak dapat menanam makanan atau memiliki ternak. Orang asing dan para janda adalah orang-orang yang membutuhkan. Begitu juga anak-anak yang ayahnya telah meninggal. Orang-orang juga dikatakan menjadi orang yang membutuhkan jika mereka memiliki tanah tetapi tidak berhasil bertani. Dalam Perjanjian Baru, siapa pun yang miskin atau membutuhkan bantuan dianggap berkekurangan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203566,
+    "content_id": "203566",
     "reference_id": 108431,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Otniel",
     "media_type": "Text",
     "index_reference": "otniel",
@@ -297,7 +435,16 @@
     "content": "<p>Seorang kerabat Kaleb dan salah satu dari 12 hakim Israel. Istrinya adalah putri Kaleb yang bernama Aksa. Dia memenangkan pertempuran untuk Israel atas raja Aram-Naharaim.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Othniel",
+          "type": "person",
+          "preferred_label": "Otniel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 134080,
+    "content_id": "134080",
     "reference_id": 108278,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الراعي",
     "media_type": "Text",
     "index_reference": "الراعي",
@@ -11,13 +11,14 @@
     "content": "<p>شخص يرعى الغنم أو غيرها من الماشية. في العهد القديم كان إبراهيم والعديد من أفراد عائلته رعاة. كانوا يسافرون من مكان إلى آخر للعثور على العشب لقطعانهم. إنها أيضًا طريقة للحديث عن القادة الذين يعتنون بأشخاص آخرين. غالبًا ما وُصف قادة إسرائيل بأنهم رعاة سيئون. كان الله هو الراعي الصالح لشعبه. في العهد الجديد، على قادة الكنيسة أن يكونوا رعاة لأتباع يسوع. يسوع نفسه هو الراعي الصالح لشعب الله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134028,
+    "content_id": "134028",
     "reference_id": 108226,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الرب",
     "media_type": "Text",
     "index_reference": "الرب",
@@ -26,13 +27,22 @@
     "content": "<p>الاسم الذي استخدمه بنو إسرائيل للتحدث عن الله. يتكون الاسم في اللغة العبرية من الحروف يهوه. لا أحد يعرف بالضبط معنى هذا الاسم. تبدو هذه الحروف مثل الكلمات العبرية التي تعني أَهْيَه الَّذِي أَهْيَه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "ٱلرَّبِّ",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134131,
+    "content_id": "134131",
     "reference_id": 108329,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الرب - الملك",
     "media_type": "Text",
     "index_reference": "الرب - الملك",
@@ -41,13 +51,14 @@
     "content": "<p>لقب لحاكم أو قائد أو سيد. يُستخدم كلقب لله في الكتاب المقدس. وهو يعني أن الله له سلطان على كل شيء وكل شخص. في زمن العهد الجديد، استُخدِمت كلمة رب كلقب للإمبراطور الروماني. كان يعني أن للقيصر سلطة في كل مكان تسيطر عليه الحكومة الرومانية. دعا أتباع يسوعُ المسيحُ إياه ربًا. كان هذا يعني أنهم أدركوا أن يسوع هو الله. لقد أدركوا أن ليسوع سُلطة كاملة على كل شيء وكل شخص. تحدى أتباع يسوعَ المسيحُ سُلطةَ قيصر عندما دعوا يسوعَ ربًا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133948,
+    "content_id": "133948",
     "reference_id": 108146,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الرب يسوع المسيح",
     "media_type": "Text",
     "index_reference": "الرب يسوع المسيح",
@@ -56,13 +67,14 @@
     "content": "<p>لقب ليسوع يصفه من نواحٍ عديدة. بصفته ربًا، له سلطان على جميع الملوك الآخرين على الأرض. وبالنسبة ليسوع، فقد كان يهودي يعيش في إسرائيل والتي كانت خاضعة للسيادة الرومانية. يسوع هو أيضًا ابن الله. كمسيح، هو المسيح المنتظر والملك اليهودي. يعني لقب الرب يسوع المسيح أن يسوع هو ملك كل شيء. يعني أنه المخلّص الذي ينقذ شعب الله والطبيعة. إنه ينقذهم من الخطية والموت والشر، أي أنه جدير بالعبادة لأنه الله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133933,
+    "content_id": "133933",
     "reference_id": 108131,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الرُواقيُّون",
     "media_type": "Text",
     "index_reference": "الرُواقيُّون",
@@ -71,13 +83,99 @@
     "content": "<p>مجموعة من الفلاسفة الذين اتبعوا تعاليم الفيلسوف اليوناني زينو من كتّيم. كانوا يعتقدون أن الناس يجب أن يعيشوا وفقًا لقوانين طبيعية تسمى اللوغوس. كان اللوغوس يُفهم على أنه قوة العقل التي تجعل العالم يعمل. شارك بولس الأخبار السارة عن يسوع مع الرواقيين في أثينا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rakkon",
+          "type": "place",
+          "preferred_label": "ٱلرَّقّونَ",
+          "confidence": 0.8583,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hagri",
+          "type": "person",
+          "preferred_label": "ٱلْهَاجَرِيِّينَ",
+          "confidence": 0.8554,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Izhar",
+          "type": "person",
+          "preferred_label": "ٱلْيِصْهَارِيِّينَ",
+          "confidence": 0.8358,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Izhar.2",
+          "type": "person",
+          "preferred_label": "ٱلْيِصْهَارِيِّينَ",
+          "confidence": 0.8358,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ammon",
+          "type": "place",
+          "preferred_label": "ٱلْعَمّونِيِّينَ",
+          "confidence": 0.8272,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Japhlet",
+          "type": "person",
+          "preferred_label": "ٱلْيَفْلَطِيِّينَ",
+          "confidence": 0.8241,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zerah",
+          "type": "person",
+          "preferred_label": "ٱلزَّارَحِيِّينَ",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zerah.2",
+          "type": "person",
+          "preferred_label": "ٱلزَّارَحِيِّينَ",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zerah.3",
+          "type": "person",
+          "preferred_label": "ٱلزَّارَحِيِّينَ",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zerah.4",
+          "type": "person",
+          "preferred_label": "ٱلزَّارَحِيِّينَ",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zerah.5",
+          "type": "person",
+          "preferred_label": "ٱلزَّارَحِيِّينَ",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zerah.6",
+          "type": "person",
+          "preferred_label": "ٱلزَّارَحِيِّينَ",
+          "confidence": 0.8224,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134190,
+    "content_id": "134190",
     "reference_id": 108388,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الروح القدس",
     "media_type": "Text",
     "index_reference": "الروح القدس",
@@ -86,13 +184,14 @@
     "content": "<p>يُظهر الله نفسه أنه الروح الذي كان موجودًا وقت خلق العالم. إن الروح القدس هو الله تمامًا كما أن الآب هو الله ويسوع هو الله. إنهم الأقانيم الثلاثة للإله الواحد والوحيد. لقد عمل الروح القدس من خلال الأشخاص الذين سجّلوا أسفار الكتاب المقدس. لقد جعل الروح القدس، في العهد القديم، بعض الأشخاص مؤهّلين كي يتنبأوا. كما قد جعل الروح البعض قادرين على القيام بأعمال باقتدار ومهارة وأن يصنعوا أشياء عظيمة. وفي العهد الجديد، كان الروح القدس هو من جعل مريم قادرة على أن تكون أمًا وتحمل بيسوع. ولقد أرسل يسوع الروح القدس إلى تلاميذه في عيد العنصرة. وبواسطة الروح القدس، يتحد المؤمنون بيسوع. إن الروح القدس هو المُعين الذى يجعل تلاميذ يسوع قادرين على الاستمرار في عمله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133848,
+    "content_id": "133848",
     "reference_id": 108046,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رابيّ (ربّان أو حاخام)",
     "media_type": "Text",
     "index_reference": "رابيّ (ربّان أو حاخام)",
@@ -101,13 +200,14 @@
     "content": "<p>معلم يهودي ذكر. درس الرابيوّن عادةً العهد القديم والكتابات اليهودية الأخرى في المدارس. وعادةً ما كانوا يتدربون على يد معلمين آخرين. كان على الناس الذين يريدون التعلم منهم وأن يصيروا مثلهم أن يصبحوا تلاميذهم. عادة ما كان الفتيان والرجال فقط هم التلاميذ. كان يسوع مُعلّم على الرغم من أنه لم يتدرب مثل حاخامات عصره. كان يرحب بالرجال والنساء على حد سواء كتلاميذ له.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134223,
+    "content_id": "134223",
     "reference_id": 108421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَاحَاب",
     "media_type": "Text",
     "index_reference": "رَاحَاب",
@@ -116,13 +216,78 @@
     "content": "<p>امرأة من مدينة أريحا في كنعان. كانت زانِيَة. أخفت الجواسيس الذين أرسلهم يشوع وحافظت على سلامتهم. عندما دمر بنو إسرائيل أريحا، أنقذوا راحاب وعائلتها. أصبحت جزءًا من شعب الله. كان داود ويسوع من نسلها.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "رَاحَاب",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehob",
+          "type": "person",
+          "preferred_label": "رَحوبَ",
+          "confidence": 0.866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehob.2",
+          "type": "person",
+          "preferred_label": "رَحوبَ",
+          "confidence": 0.866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rehob.2",
+          "type": "place",
+          "preferred_label": "رَحوبَ",
+          "confidence": 0.866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rehob.3",
+          "type": "place",
+          "preferred_label": "رَحوبَ",
+          "confidence": 0.866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Arab",
+          "type": "place",
+          "preferred_label": "أَرَاب",
+          "confidence": 0.8249,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "رَحبْعَامَ",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rohgah",
+          "type": "person",
+          "preferred_label": "رهْجَة",
+          "confidence": 0.8074,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Resheph",
+          "type": "person",
+          "preferred_label": "رَشَف",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134014,
+    "content_id": "134014",
     "reference_id": 108212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "راحة",
     "media_type": "Text",
     "index_reference": "راحة",
@@ -131,13 +296,14 @@
     "content": "<p>يُوجد في الكتاب المقدس العديد من المعاني لكلمة الراحة. المعنى الأول موجود في سفر التكوين الإصحاح 2. فبعد أن أنهى الله عمله في خلق العالم، استراح. كان هناك سلام بين الله وبين كل ما خلقه. فكل شيء تم خلقه، كان لديه ما يحتاجه ليعيش كما أراده الله. معنى آخر لكلمة راحة تم ذكره في الوصايا العشر. إنها راحة السبت. ففي اليوم السابع من الأسبوع، كان على شعب إسرائيل أن يستريحوا ولا يعملوا. المزمور 95 يذكر معنيً ثالث. إنها الراحة التي حصل عليها شعب إسرائيل بعد أن تحرروا من العبودية. فقد أخرجهم الله إلى أرض الموعد التي وعد بإعطائها لهم. أما المعنى الكامل للراحة فيُذكر في الرسالة إلى العبرانيين الإصحاحات 3 و 4. فإن يسوع هو الذي يحقق الراحة الحقيقية لأولئك الذين يؤمنون به. فيبدأون في إختبار راحة يسوع عندما يبدأون في اتّباعه. لكنهم سيستمتعون بها بشكل كامل عندما يحكم كملك على كل خليقة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134078,
+    "content_id": "134078",
     "reference_id": 108276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَاحيل",
     "media_type": "Text",
     "index_reference": "رَاحيل",
@@ -146,13 +312,22 @@
     "content": "<p>الابنة الثانية للابان والزوجة الثانية ليعقوب. كانت ليئة أختها وبلهة جارية لها. كانت راعية غنم. أحبها يعقوب أكثر مما أحب ليئة. أصبحت أم يوسف وبنيامين.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rephael",
+          "type": "person",
+          "preferred_label": "رَفَائِيل",
+          "confidence": 0.8042,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134249,
+    "content_id": "134249",
     "reference_id": 108447,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رِاعوث",
     "media_type": "Text",
     "index_reference": "رِاعوث",
@@ -161,13 +336,43 @@
     "content": "<p>امرأة من موآب وزوجة ابن نعومي. عندما مات زوجها، غادرت موآب وذهبت إلى إسرائيل مع نعمي. تزوجت من إسرائيلي اسمه بوعز وأصبحت جدة داود.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "رَاعوث",
+          "confidence": 0.8692,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rizpah",
+          "type": "person",
+          "preferred_label": "رِصْفَة",
+          "confidence": 0.8138,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Riphath",
+          "type": "person",
+          "preferred_label": "رِيفَاث",
+          "confidence": 0.8054,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Reumah",
+          "type": "person",
+          "preferred_label": "رَؤومَة",
+          "confidence": 0.8019,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134209,
+    "content_id": "134209",
     "reference_id": 108407,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رأوبَيْن",
     "media_type": "Text",
     "index_reference": "رأوبَيْن",
@@ -176,13 +381,29 @@
     "content": "<p>الابن الأكبر ليعقوب وليئة. في اللغة العبرية يعني اسم رأوبين هوذا ابن. يبدو مثل الكلمة التي تعني لقد رأى معاناتي. ذهب راوبين واضطجع مع بلهة سرية أبيه. بسبب ذلك، خسر امتياز البكورية. أصبح نسله من اسباط إسرائيل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Reuben",
+          "type": "group",
+          "preferred_label": "رَأوبَيْنَ",
+          "confidence": 0.9261,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Reuben",
+          "type": "person",
+          "preferred_label": "رَأوبَيْنَ",
+          "confidence": 0.9261,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134098,
+    "content_id": "134098",
     "reference_id": 108296,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رؤية",
     "media_type": "Text",
     "index_reference": "رؤية",
@@ -199,13 +420,22 @@
           "label": "عالم سماوي",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Vision",
+          "type": "keyterm",
+          "preferred_label": "Vision",
+          "confidence": 0.8378,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 134170,
+    "content_id": "134170",
     "reference_id": 108368,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رئيس الكهنة",
     "media_type": "Text",
     "index_reference": "رئيس الكهنة",
@@ -214,13 +444,14 @@
     "content": "<p>القائد الديني الذي يتمتع بأكبر سلطة في إسرائيل. كان يجب أن يكون رئيس الكهنة ذكراً من سبط لاوي. كان يجب أن يكون من نسل هارون. كان رئيس الكهنة يعلم الناس كما فعل موسى. كان لديه واجبات خاصة في خيمة الإجتماع ولاحقاً في الهيكل. كان رئيس الكهنة وحده هو المسموح له بالدخول إلى قدس الأقداس. كان يخبر الشعب بما يريد الله أن يفعلوه. كما كان يقدم الذبائح من أجل غفران خطايا إسرائيل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134280,
+    "content_id": "134280",
     "reference_id": 108478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رَحُبْعَام",
     "media_type": "Text",
     "index_reference": "رَحُبْعَام",
@@ -229,13 +460,29 @@
     "content": "<p>ابن سليمان وامرأة عمونية تدعى نعمة. بينما كان رحبعام ملكًا، انقسمت أمة إسرائيل إلى مملكتين. حكم رحبعام على مملكة يهوذا الجنوبية. كان قائدًا أحمق فعل أشياء شريرة وعبد آلهة كاذبة. لم يكن لديه الثروة أو السلطة التي كانت لدى سليمان.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "رَحبْعَامَ",
+          "confidence": 0.8615,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "رَاحَاب",
+          "confidence": 0.8447,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133913,
+    "content_id": "133913",
     "reference_id": 108111,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رحلات بولس",
     "media_type": "Text",
     "index_reference": "رحلات بولس",
@@ -244,13 +491,14 @@
     "content": "<p>قام بولس بعدة رحلات طويلة عبر الأراضي التي تحكمها الحكومة الرومانية. في كل مكان ذهب إليه، كان يبشر اليهود أولاً بالبشارة عن يسوع. ثم كرز للأمم. ساعد في تأسيس كنائس بين أولئك الذين آمنوا بيسوع. سافر مع برنابا في الرحلة الأولى. سافر مع سيلا في الرحلة الثانية. كما سافر مع العديد من المساعدين في الرحلة الثالثة. سافر كسجين إلى روما في رحلته الرابعة. وقد استمرت كل رحلة أكثر من عام.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134144,
+    "content_id": "134144",
     "reference_id": 108342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رحمة",
     "media_type": "Text",
     "index_reference": "رحمة",
@@ -259,13 +507,36 @@
     "content": "<p>المحبة الرقيقة أو اللطف تجاه شخص يعاني بطريقة ما. الله مليء بالرحمة تجاه الناس ويظهر لطفه بطرق عديدة. أحد أكبر الأمثلة على رحمته هو كيف يغفر خطايا الناس.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Mercy",
+          "type": "keyterm",
+          "preferred_label": "Mercy",
+          "confidence": 0.8639,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raamah",
+          "type": "person",
+          "preferred_label": "رَعْمَة",
+          "confidence": 0.8426,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Raamah",
+          "type": "place",
+          "preferred_label": "رَعْمَة",
+          "confidence": 0.8426,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133975,
+    "content_id": "133975",
     "reference_id": 108173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رسائل إلى السبع كنائس",
     "media_type": "Text",
     "index_reference": "رسائل إلى السبع كنائس",
@@ -274,13 +545,14 @@
     "content": "<p>أمر يسوع يوحنا بكتابة رسائل تحتوي على رسائل إلى سبع كنائس. بدأت كل رسالة بوصف يسوع بطريقة مختلفة. في معظم الرسائل، ذكر يسوع طرقًا كانت الكنيسة تعيش فيها بأمانة. وفي معظمها ذكر أيضًا طرقًا لم تكن الكنيسة أمينة له. حث يسوع المؤمنين في كل كنيسة على الاستماع إلى الروح القدس. أنهى يسوع كل رسالة بوعد. كان الوعد لأولئك الذين سيشاركوا في انتصاره على قوة الخطية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133922,
+    "content_id": "133922",
     "reference_id": 108120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رسائل بولس",
     "media_type": "Text",
     "index_reference": "رسائل بولس",
@@ -289,13 +561,14 @@
     "content": "<p>لقد كتب بولس رسائل للعديد من المؤمنين والعديد من الكنائس. إن ثلاثة عشر من هذه الرسائل موجودة في العهد الجديد. وتشمل أسفار رومية، و1 كورنثوس، و2 كورنثوس، وغلاطية، وأفسس، وفيلبي وكولوسي. كما تشمل أيضًا أسفار 1 تسالونيكي، و2 تسالونيكي، و1 تيموثاوس، و2 تيموثاوس، وتيطس وفليمون. لقد كان من الشائع أن ينطق بولس بما يريد أن يكتبه في رسائله بصوت عالٍ. ثم يقوم أحد مساعديه بكتابة الرسالة. وبعدها يضيف بولس جزءًا أخيرًا من الرسالة بخط يده. وكان ذلك يساعد الناس على التأكد من أن الرسائل كانت حقًا منه. ثم يحمل مُساعدوا بولس هذه الرسائل التي أرسلها بولس إلى الكنائس أو إلى أشخاص آخرين. ولقد كانت الكنيسة تقرأ الرسائل بصوت عالٍ ثم تشاركها مع كنائس أخرى في المنطقة. وقد كتب بولس بعضًا من رسائله بينما كان موجودًا في السجن.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134336,
+    "content_id": "134336",
     "reference_id": 108534,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رسائل قضائية",
     "media_type": "Text",
     "index_reference": "رسائل قضائية",
@@ -304,13 +577,14 @@
     "content": "<p>رسائل أرسلها الله إلى الناس من خلال نبي عن الدينونة التي سيأتي بها. وحذرت الرسائل الناس من فعل الشرور. أنذرهم الله بالابتعاد عن خطاياهم والتوبة. حذرهم الله لأنه أرادهم أن يغيروا طرقهم. إذا لم يتغيروا، سيجلب الله الدينونة عليهم. وإن تغيَّروا، فلن يجلب الله الدينونة عليهم. أظهر إعطاء الناس هذه التحذيرات للناس أن الله كان مليئًا بالرحمة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133855,
+    "content_id": "133855",
     "reference_id": 108053,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رُسُل",
     "media_type": "Text",
     "index_reference": "رُسُل",
@@ -319,13 +593,14 @@
     "content": "<p>تلاميذ يسوع الاثنا عشر وأتباعه المقربون الآخرون الذين أصبحوا قادة في الكنائس الأولى. علّم الرسل الناس عن يسوع ونشروا الأخبار السارة عنه. رسول هي كلمة من اللغة اليونانية تعني الشخص المرسل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134068,
+    "content_id": "134068",
     "reference_id": 108266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رِفقة",
     "media_type": "Text",
     "index_reference": "رِفقة",
@@ -334,13 +609,14 @@
     "content": "<p>ابنة بتوئيل وأخت لابان من بلاد ما بين النهرين. تزوجت من إسحق وأصبحت أم يعقوب وعيسو.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134264,
+    "content_id": "134264",
     "reference_id": 108462,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "روحي",
     "media_type": "Text",
     "index_reference": "روحي",
@@ -349,13 +625,14 @@
     "content": "<p>هو كل ما له علاقة بروح الإنسان أو كائن روحي. وهناك العديد من المعاني لكلمة روح في كل أنحاء الكتاب المقدس. أحد هذه المعاني يشير إلي روح الله أو الروح القدس. كما أن أحد المعاني الأخرى يشير إلي الكائنات الروحية. كذلك فإن أحد المعانى يشير إلي روح الشخص. فعندما خلق الله البشر، نفخ فيهم الحياة. إن هذه الحياة التي من الله هي روح كل شخص. إنها الجزء غير المادي من كل شخص. وهي ستمكث إلى الأبد. والأشياء التي تحدث في روح الشخص أو تحدث لروحه، تُوصف بأنها أشياء روحية. وغالبًا ما يُشار أيضًا إلي روح الإنسان باعتبارها قلبه أو نفسه.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133849,
+    "content_id": "133849",
     "reference_id": 108047,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "روما",
     "media_type": "Text",
     "index_reference": "روما",
@@ -364,7 +641,8 @@
     "content": "<p>مملكة في المنطقة المحيطة بالبحر الأبيض المتوسط استمرت لمئات السنين. كانت العاصمة تسمى روما أيضاً. أصبحت حكومة قوية حكمت العديد من الأمم والشعوب. وقد حكمت إسرائيل في زمن العهد الجديد. ولسنوات عديدة كان يقودها أباطرة أقوياء. عاملت الحكومة الرومانية العديد من أتباع يسوع معاملة سيئة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 134210,
+    "content_id": "134210",
     "reference_id": 108408,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جَاد",
     "media_type": "Text",
     "index_reference": "جَاد",
@@ -11,13 +11,85 @@
     "content": "<p>الابن الأكبر ليعقوب وزِلفة. في اللغة العبرية، جَاد يعني النصيب الصالح أو مجموعة من الجنود. أصبح نسله سِبط من أسباط بني إسرائيل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "جَاد",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gad.2",
+          "type": "person",
+          "preferred_label": "جَاد",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Giah",
+          "type": "place",
+          "preferred_label": "جِيحَ",
+          "confidence": 0.848,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gadi",
+          "type": "person",
+          "preferred_label": "جَادِي",
+          "confidence": 0.836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Giddel",
+          "type": "person",
+          "preferred_label": "جَدِّيلَ",
+          "confidence": 0.822,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Giddel.2",
+          "type": "person",
+          "preferred_label": "جَدِّيلَ",
+          "confidence": 0.822,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad",
+          "type": "person",
+          "preferred_label": "هَدَد",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad.2",
+          "type": "person",
+          "preferred_label": "هَدَد",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad.3",
+          "type": "person",
+          "preferred_label": "هَدَد",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad.4",
+          "type": "person",
+          "preferred_label": "هَدَد",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134099,
+    "content_id": "134099",
     "reference_id": 108297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جَاسَان",
     "media_type": "Text",
     "index_reference": "جَاسَان",
@@ -26,13 +98,50 @@
     "content": "<p>أرض تقع في مصر حيث عاشت فيها عائلة يعقوب وعملت كرعاة. يُعتقد أنها تقع في الشمال الشرقي من مصر بالقرب من كنعان ونهر النيل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Goshen",
+          "type": "place",
+          "preferred_label": "جَاسَانَ",
+          "confidence": 0.9359,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Goshen.2",
+          "type": "place",
+          "preferred_label": "جَاسَانَ",
+          "confidence": 0.9359,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gozan",
+          "type": "place",
+          "preferred_label": "جوزَانَ",
+          "confidence": 0.8259,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zaavan",
+          "type": "person",
+          "preferred_label": "زَعْان",
+          "confidence": 0.8135,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Geshan",
+          "type": "person",
+          "preferred_label": "جِيشَان",
+          "confidence": 0.8042,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134365,
+    "content_id": "134365",
     "reference_id": 108563,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جِبْرَائِيل",
     "media_type": "Text",
     "index_reference": "جِبْرَائِيل",
@@ -41,13 +150,22 @@
     "content": "<p>ملاك حَمل رسائل مهمة إلى زكريا، مريم ويوسف في العهد الجديد. وأتى برسائل مهمة إلى دانيال في العهد القديم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Gabriel",
+          "type": "deity",
+          "preferred_label": "جِبْرَائِيل",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133865,
+    "content_id": "133865",
     "reference_id": 108063,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جَبَل الزَّيْتُون",
     "media_type": "Text",
     "index_reference": "جَبَل الزَّيْتُون",
@@ -56,13 +174,14 @@
     "content": "<p>مجموعة من ثلاث قمم على الجانب الشرقي من أورشليم. يفصلها وادي قدرون عن أورشليم. كان هناك بستان زيتون حيث كان يسوع يذهب إليه كثيرًا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134129,
+    "content_id": "134129",
     "reference_id": 108327,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جَبَلِ سِينَاء",
     "media_type": "Text",
     "index_reference": "جَبَلِ سِينَاء",
@@ -71,13 +190,14 @@
     "content": "<p>جبل خارج مصر. كان يسمى أيضًا جَبَلِ حُورِيب. ظهر الله هناك لموسى في العليقة التي لم تحترق. بعد خروج شعب إسرائيل من مصر، التقى الله بموسى هناك مرة أخرى. هناك أقام الله عهده مع شعب إسرائيل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133876,
+    "content_id": "133876",
     "reference_id": 108074,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جحيم",
     "media_type": "Text",
     "index_reference": "جحيم",
@@ -86,13 +206,14 @@
     "content": "<p>مكان الخراب التام لأولئك الذين يرفضون أن يكونوا جزءًا من ملكوت الله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134239,
+    "content_id": "134239",
     "reference_id": 108437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جِدْعُون",
     "media_type": "Text",
     "index_reference": "جِدْعُون",
@@ -101,13 +222,14 @@
     "content": "<p>أحد قضاة إسرائيل الاثني عشر. كان من سبط منسّى وكان والده يوآش. كان لجدعون العديد من الزوجات والأبناء. استخدم الله جدعون لتحرير إسرائيل من المعاملة السيئة من قبل المِديانيين. كان يُدعى أيضًا يربعل. في اللغة العبرية يعني هذا الاسم ليقاتله البعل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133945,
+    "content_id": "133945",
     "reference_id": 108143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جسد المسيح",
     "media_type": "Text",
     "index_reference": "جسد المسيح",
@@ -116,13 +238,14 @@
     "content": "<p>طريقة لوصف مجتمع أتباع يسوع. إنها صورة تصف كيف أن الجميع في الكنيسة يحبون ويخدمون بعضهم البعض. يتكون جسد المسيح من العديد من الأشخاص المختلفين الذين يجتمعون معًا كواحد. الإيمان بيسوع وطاعته هو ما يجعلهم واحدًا. باستخدام مواهبهم المختلفة، يواصلون معًا القيام بعمل يسوع على الأرض.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134224,
+    "content_id": "134224",
     "reference_id": 108422,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جِلْجَال",
     "media_type": "Text",
     "index_reference": "جِلْجَال",
@@ -131,13 +254,14 @@
     "content": "<p>مدينة كنعانية تقع غرب نهر الأردن بالقرب من أريحا. أصبحت مكاناً مهماً لقادة إسرائيل وملوكها وأنبيائها. كانت الحجارة التي جُمعت من نهر الأردن تُنصب هناك. وقد ذكّر هذا بني إسرائيل كيف قادهم الله إلى كنعان.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134243,
+    "content_id": "134243",
     "reference_id": 108441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جِلْعَاد",
     "media_type": "Text",
     "index_reference": "جِلْعَاد",
@@ -146,13 +270,64 @@
     "content": "<p>منطقة التلال الواقعة شرق نهر الأردن. كان جزء منها تابعاً لمملكة سيحون. وجزء آخر ينتمي إلى مملكة عوج. كان ذلك قبل انتصار بني إسرائيل في المعارك على سيحون وعوج. وقد سُميت على اسم جلعاد الذي كان من نسل منسّى. كانت ذات تربة غنية وجيدة لتربية الماشية. لم تكن جزءًا من الأرض التي وعد الله بإعطائها لنسل إبراهيم. لكن الله سمح لبعض الأسباط بالسكنى هناك، هم سبط رَأُوبَيْن وجَاد ونصف سبط منسّى.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gilead",
+          "type": "person",
+          "preferred_label": "جِلْعَادَ",
+          "confidence": 0.9263,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilead.2",
+          "type": "person",
+          "preferred_label": "جِلْعَادَ",
+          "confidence": 0.9263,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilead.3",
+          "type": "person",
+          "preferred_label": "جِلْعَادَ",
+          "confidence": 0.9263,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilead",
+          "type": "place",
+          "preferred_label": "جِلْعَادَ",
+          "confidence": 0.9263,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zilpah",
+          "type": "person",
+          "preferred_label": "زِلْفَةَ",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zebidah",
+          "type": "person",
+          "preferred_label": "زَبِيدَة",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Idalah",
+          "type": "place",
+          "preferred_label": "يَدَالَةَ",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133838,
+    "content_id": "133838",
     "reference_id": 108036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جَلِيل",
     "media_type": "Text",
     "index_reference": "جَلِيل",
@@ -161,13 +336,14 @@
     "content": "<p>المنطقة الشمالية من الأرض التي وعد الله أن يعطيها لنسل إبراهيم. تشمل الأرض التي كانت جزءًا من مملكة إسرائيل الشمالية. كان يحكمها هيرودس أنتيباس في زمن يسوع. نشأ يسوع في الجليل. وكان بحر الجليل بحيرة كبيرة في تلك المنطقة، يتدفق نهر الأردن جنوباً منه. حدثت قصص كثيرة من حياة يسوع في الجليل وحول بحر الجليل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134009,
+    "content_id": "134009",
     "reference_id": 108207,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "جنة عَدْن",
     "media_type": "Text",
     "index_reference": "جنة عَدْن",
@@ -176,7 +352,8 @@
     "content": "<p>البستان الذي صنعه الله عندما خلق العالم. عاش الزوج الأول من البشر وعملوا فيها. كانت الحياة في جنة عدن كما أراد الله أن يكون عالمه. عاش الله والإنسان معًا في سلام. كان البستان جميل وفيه أنواع كثيرة من النباتات والحيوانات. كانت النباتات صحية للأكل وكان هناك الكثير من الماء. لم يكن البشر بحاجة إلى حماية أنفسهم من أي شيء في الجنة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

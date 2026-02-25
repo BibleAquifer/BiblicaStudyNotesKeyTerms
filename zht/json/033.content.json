@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232724,
+    "content_id": "232724",
     "reference_id": 108123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "弗呂家",
     "media_type": "Text",
     "index_reference": "弗呂家",
@@ -11,13 +11,14 @@
     "content": "<p>羅馬領土中靠近加拉太小亞細亞的地區。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232632,
+    "content_id": "232632",
     "reference_id": 108031,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "福音",
     "media_type": "Text",
     "index_reference": "福音",
@@ -34,13 +35,14 @@
           "label": "好消息",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232913,
+    "content_id": "232913",
     "reference_id": 108312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "父",
     "media_type": "Text",
     "index_reference": "父",
@@ -49,13 +51,22 @@
     "content": "<p>神的一個名字。父是神，就像耶穌是神，聖靈也是神。他們是獨一真神的三個位格。神在出埃及期間顯示自己是以色列的父，並稱以色列為祂的兒子。後來，神顯示自己是耶穌的父。耶穌表明神是所有屬於神家庭之人的父。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:GenericFather",
+          "type": "person",
+          "preferred_label": "A Father",
+          "confidence": 0.8411,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232872,
+    "content_id": "232872",
     "reference_id": 108271,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "父親的祝福",
     "media_type": "Text",
     "index_reference": "父親的祝福",
@@ -64,13 +75,14 @@
     "content": "<p>父親在臨終前對孩子們說的最後話語。父親會說出他對孩子們未來生活的期望或希望。這通常包括成功、財富和權柄的祝福。長子通常會得到最大的祝福。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 233169,
+    "content_id": "233169",
     "reference_id": 108568,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "復活",
     "media_type": "Text",
     "index_reference": "復活",
@@ -79,7 +91,16 @@
     "content": "<p>從死裡復活。猶太人對於人死後是否會復活存在分歧。耶穌曾使一些死去的人復活。然而，那些人並沒有永遠活著，他們後來又死了。這不是耶穌的情況。在耶穌的復活中，神使祂從死裡復活，永遠活著，耶穌再也沒有死過。神有一天會使所有死去的人復活。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Resurrection",
+          "type": "keyterm",
+          "preferred_label": "Resurrection",
+          "confidence": 0.8294,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

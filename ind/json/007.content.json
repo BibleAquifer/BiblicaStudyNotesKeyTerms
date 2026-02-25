@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203546,
+    "content_id": "203546",
     "reference_id": 108411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Edom",
     "media_type": "Text",
     "index_reference": "edom",
@@ -11,13 +11,36 @@
     "content": "<p>Tanah di sebelah selatan dan timur dari Yehuda di mana garis keturunan Esau tinggal. Esau juga disebut Edom. Anaknya menjadi bangsa yang kuat yang disebut Edom. Orang Edom dan orang Israel tidak hidup dalam damai satu sama lain.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Edom",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Edom",
+          "type": "group",
+          "preferred_label": "Edomites",
+          "confidence": 0.863,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Obed-edom",
+          "type": "person",
+          "preferred_label": "Obed-Edom",
+          "confidence": 0.8031,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203270,
+    "content_id": "203270",
     "reference_id": 108135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efesus",
     "media_type": "Text",
     "index_reference": "efesus",
@@ -26,13 +49,29 @@
     "content": "<p>Ibu kota wilayah Romawi di Asia. Penyembahan kepada dewi Artemis adalah agama yang utama di Efesus. Paulus mengunjungi kota itu pada perjalanannya yang kedua dan ketiga. Ia menetap di sana untuk membantu gereja selama dua tahun.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "Efesus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Ephesus",
+          "type": "group",
+          "preferred_label": "Ephesians",
+          "confidence": 0.8703,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203433,
+    "content_id": "203433",
     "reference_id": 108298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efraim",
     "media_type": "Text",
     "index_reference": "efraim",
@@ -41,13 +80,50 @@
     "content": "<p>Anak kedua dari Yusuf dan Asnat. Dalam bahasa Ibrani, Efraim berarti buah ganda. Yakub mengangkatnya sebagai salah satu dari anaknya sendiri. Yakub memberinya restu dari seorang ayah meskipun ia bukan anak sulung. Garis keturunan Efraim menjadi suku Israel. Mereka merupakan suku yang penting dari kerajaan Israel bagian utara. Ibu kota dari kerajaan utara berada di tanah Efraim. Kerajaan utara terkadang disebut dengan Efraim dalam Alkitab.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Ephraim",
+          "type": "group",
+          "preferred_label": "Efraim",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephraim",
+          "type": "person",
+          "preferred_label": "Efraim",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim",
+          "type": "place",
+          "preferred_label": "Efraim",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:EphraimGate",
+          "type": "place",
+          "preferred_label": "Efraim",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim.2",
+          "type": "place",
+          "preferred_label": "Ephraim",
+          "confidence": 0.9605,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203567,
+    "content_id": "203567",
     "reference_id": 108432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ehud",
     "media_type": "Text",
     "index_reference": "ehud",
@@ -56,13 +132,29 @@
     "content": "<p>Salah satu dari ke-12 hakim Israel. Ia berasal dari suku Benyamin dan seorang bertangan kidal. Ia menggunakan fakta ini sebagai bagian dari rencananya untuk membunuh raja Moab.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ehud",
+          "type": "person",
+          "preferred_label": "Ehud",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ehud.2",
+          "type": "person",
+          "preferred_label": "Ehud",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203492,
+    "content_id": "203492",
     "reference_id": 108357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eleazar",
     "media_type": "Text",
     "index_reference": "eleazar",
@@ -71,13 +163,71 @@
     "content": "<p>Anak dari Harun dan Eliseba dari suku Lewi. Saudara-saudaranya yaitu Nadab, Abihu, dan Itamar. Ia adalah ayah dari Pinehas dan menjadi kepala pemimpin orang Lewi. Ia menjadi imam besar setelah Harun meninggal. Ia membantu Musa memimpin orang Israel di padang gurun. Ia membantu Yosua memimpin orang Israel di Kanaan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eleazar",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.2",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.3",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.4",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.5",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.6",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.7",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.8",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203586,
+    "content_id": "203586",
     "reference_id": 108451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eli",
     "media_type": "Text",
     "index_reference": "eli",
@@ -86,13 +236,29 @@
     "content": "<p>Imam besar ketika Samuel masih muda pada zaman ke-12 hakim. Ia melayani ketika kemah suci berada di Silo. Eli adalah ayah dari Hofni dan Pinehas. Ia tidak menghentikan anak-anaknya dari perbuatan-perbuatan yang jahat. Karena hal ini, garis keturunan Eli tidak meneruskan pelayanan sebagai imam besar.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eli",
+          "type": "person",
+          "preferred_label": "Eli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heli",
+          "type": "person",
+          "preferred_label": "Eli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203621,
+    "content_id": "203621",
     "reference_id": 108486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elia",
     "media_type": "Text",
     "index_reference": "elia",
@@ -101,13 +267,50 @@
     "content": "<p>Seorang nabi di kerajaan Israel bagian utara ketika Ahab dan Ahazia berkuasa. Ia berasal dari tanah Gilead. Ia dikenal memakai pakaian yang terbuat dari bulu dan ikat pinggang kulit. Perkataan dan tindakannya menantang kekuasaan dari para penguasa di Israel yang menyembah berhala. Ia banyak mengajar nabi-nabi lainnya. Ia memberikan otoritasnya kepada Elisa untuk menjadi nabi setelah dirinya. Elia sama seperti Musa dalam banyak hal. Allah melakukan mukjizat-mukjizat melalui dia dan menampakkan diri kepadanya di Gunung Horeb. Elia tidak mati tetapi terangkat ke surga dalam angin kencang. Tidak ada yang pernah menemukan tubuhnya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "Elia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.2",
+          "type": "person",
+          "preferred_label": "Elia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.3",
+          "type": "person",
+          "preferred_label": "Elia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.4",
+          "type": "person",
+          "preferred_label": "Elia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliathah",
+          "type": "person",
+          "preferred_label": "Eliata",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203622,
+    "content_id": "203622",
     "reference_id": 108487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elisa",
     "media_type": "Text",
     "index_reference": "elisa",
@@ -116,13 +319,36 @@
     "content": "<p>Seorang nabi di kerajaan Israel bagian utara dari pemerintahan Ahab hingga pemerintahan Yoas. Ia adalah pelayan Elia. Perkataan dan tindakannya menantang kekuasaan para penguasa di Israel yang menyembah berhala. Ia mengajar banyak nabi-nabi lainnya. Allah melakukan banyak mukjizat melalui Elisa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Elisa",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishah",
+          "type": "person",
+          "preferred_label": "Elisa",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishua",
+          "type": "person",
+          "preferred_label": "Elisua",
+          "confidence": 0.8447,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203216,
+    "content_id": "203216",
     "reference_id": 108081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elisabet",
     "media_type": "Text",
     "index_reference": "elisabet",
@@ -131,13 +357,22 @@
     "content": "<p>Ibu dari Yohanes Pembaptis. Ia berasal dari suku Lewi dan dari garis keturunan Harun. Zakharia adalah suaminya dan Maria dari Nazaret adalah kerabatnya. Ketika Elisabet sudah sangat tua, Allah mengizinkannya untuk memiliki seorang anak laki-laki. Elisabet menyadari bahwa Maria sedang mengandung Mesias.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elizabeth",
+          "type": "person",
+          "preferred_label": "Elisabet",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203691,
+    "content_id": "203691",
     "reference_id": 108556,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Empat makhluk hidup",
     "media_type": "Text",
     "index_reference": "empat makhluk hidup",
@@ -146,13 +381,14 @@
     "content": "<p>Roh-roh yang dilihat oleh Yehezkiel dan Yohanes dalam penglihatan. Seperti para serafim dalam penglihatan Yesaya, mereka memuliakan Allah. Mereka menyembah Allah dan melakukan apa yang dikehendaki-Nya. Yehezkiel menyebut mereka kerubim. Ada patung-patung dari makhluk-makhluk ini di atas tabut perjanjian.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203294,
+    "content_id": "203294",
     "reference_id": 108159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Epafras",
     "media_type": "Text",
     "index_reference": "epafras",
@@ -161,13 +397,22 @@
     "content": "<p>Orang percaya Yunani dari Kolose yang bekerja dengan Paulus. Ia memberitakan pesan mengenai Yesus di Kolose, Laodikia, dan Hierapolis. Ia membantu mendirikan gereja di kota-kota tersebut. Ia pernah dipenjara bersama Paulus selama beberapa waktu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphras",
+          "type": "person",
+          "preferred_label": "Epafras",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203293,
+    "content_id": "203293",
     "reference_id": 108158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Epafroditus",
     "media_type": "Text",
     "index_reference": "epafroditus",
@@ -176,13 +421,22 @@
     "content": "<p>Orang percaya Yunani dari Filipi yang bekerja dengan Paulus. Ketika Paulus berada di dalam penjara, Epafroditus membawakan hadiah dan uang dari orang-orang percaya di Filipi. Ia menyampaikan surat Paulus kepada jemaat Filipi ketika dia kembali ke Filipi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphroditus",
+          "type": "person",
+          "preferred_label": "Epafroditus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203404,
+    "content_id": "203404",
     "reference_id": 108269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esau",
     "media_type": "Text",
     "index_reference": "esau",
@@ -191,13 +445,22 @@
     "content": "<p>Anak sulung dari Ishak dan Ribka serta cucu dari Abraham. Ia adalah saudara kembar Yakub dan juga disebut Edom. Orang Edom berasal dari garis keturunan Esau.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esau",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203653,
+    "content_id": "203653",
     "reference_id": 108518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ester",
     "media_type": "Text",
     "index_reference": "ester",
@@ -206,13 +469,22 @@
     "content": "<p>Seorang Yahudi yang tinggal di kerajaan Persia pada zaman Ahasyweros. Hadasa adalah nama Yahudinya dan Ester adalah nama Persianya. Ia adalah anak perempuan dari Abihail dan berasal dari suku Benyamin. Sepupunya, Mordekhai, mengadopsinya ketika orang tuanya meninggal. Ahasyweros memilihnya menjadi ratu karena ia cantik dan menyenangkan hatinya. Ester membuat sebuah rencana yang berani dan bijaksana untuk membantu menyelamatkan orang Yahudi dari kehancuran.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esther",
+          "type": "person",
+          "preferred_label": "Ester",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203648,
+    "content_id": "203648",
     "reference_id": 108513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezra",
     "media_type": "Text",
     "index_reference": "ezra",
@@ -221,7 +493,30 @@
     "content": "<p>Seorang imam yang memimpin kelompok orang Yahudi untuk kembali dari Babel ke Yerusalem. Ia juga merupakan seorang ahli Taurat. Ia adalah anak dari Seraya. Ia berasal dari garis keturunan Harun dalam suku Lewi. Ezra mengajarkan kepada orang Yahudi di Yerusalem tentang Hukum Musa. Hal ini terjadi setelah mereka tinggal di Babel selama beberapa tahun. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezra",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ezra.2",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ezrah",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

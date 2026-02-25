@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232802,
+    "content_id": "232802",
     "reference_id": 108201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天（天堂）",
     "media_type": "Text",
     "index_reference": "天（天堂）",
@@ -26,13 +26,14 @@
           "label": "神的國",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232757,
+    "content_id": "232757",
     "reference_id": 108156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天國的子民",
     "media_type": "Text",
     "index_reference": "天國的子民",
@@ -49,13 +50,14 @@
           "label": "神的國",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 233130,
+    "content_id": "233130",
     "reference_id": 108529,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天界",
     "media_type": "Text",
     "index_reference": "天界",
@@ -79,13 +81,14 @@
           "label": "靈體（靈性的存在）",
           "language": "zht"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 233142,
+    "content_id": "233142",
     "reference_id": 108541,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天啟文學",
     "media_type": "Text",
     "index_reference": "天啟文學",
@@ -94,13 +97,14 @@
     "content": "<p>在希臘文中，天啟這個詞的意思是顯明或揭開某事。天啟文學在猶太和基督教先知中很常見。在天啟文學中，先知使用符號（signs）和圖像來談論世上發生的事情。這些符號和圖像揭示了那些事情的屬靈真理。它們幫助人們理解神的觀點。它們展示了神如何拯救祂的子民並審判他們的敵人。天啟文學中的符號和圖像通常是強大且令人恐懼的。這是為了引起人們的注意。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232914,
+    "content_id": "232914",
     "reference_id": 108313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "天使",
     "media_type": "Text",
     "index_reference": "天使",
@@ -116,6 +120,22 @@
           "resource_code": "BiblicaStudyNotesKeyTerms",
           "label": "靈體（靈性的存在）",
           "language": "zht"
+        }
+      ],
+      "acai": [
+        {
+          "id": "group:Angels",
+          "type": "group",
+          "preferred_label": "Angels",
+          "confidence": 0.849,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Angel",
+          "type": "deity",
+          "preferred_label": "An Angel",
+          "confidence": 0.8085,
+          "match_method": "embedding"
         }
       ]
     }

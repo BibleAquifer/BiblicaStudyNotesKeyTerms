@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203315,
+    "content_id": "203315",
     "reference_id": 108180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filadelfia",
     "media_type": "Text",
     "index_reference": "filadelfia",
@@ -11,13 +11,22 @@
     "content": "<p>Sebuah kota penting di wilayah Romawi di Asia. Kota ini bernama Alaşehir di negara yang sekarang dikenal sebagai Turki.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philadelphia",
+          "type": "place",
+          "preferred_label": "Filadelfia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203299,
+    "content_id": "203299",
     "reference_id": 108164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filemon",
     "media_type": "Text",
     "index_reference": "filemon",
@@ -26,13 +35,22 @@
     "content": "<p>Seorang Kristen kaya di Kolose yang berteman dengan Paulus dan bekerja sama dengannya. Diperkirakan Apfia adalah istri Filemon dan Arkhipus adalah putra mereka. Jemaat bertemu di rumahnya. Ia memiliki seorang budak bernama Onesimus. Surat yang ditulis Paulus kepadanya tentang Onesimus disebut Filemon.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philemon",
+          "type": "person",
+          "preferred_label": "Filemon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203261,
+    "content_id": "203261",
     "reference_id": 108126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipi",
     "media_type": "Text",
     "index_reference": "filipi",
@@ -41,13 +59,57 @@
     "content": "<p>Sebuah kota Yunani di wilayah Romawi di Makedonia. Letaknya di daerah yang sekarang menjadi Yunani utara. Paulus pergi ke sana dalam perjalanannya yang kedua. Itu adalah kota pertama di Eropa di mana kabar baik tentang Yesus dibagikan. Surat Paulus kepada jemaat di Filipi ditujukan kepada jemaat di sana.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Philippi",
+          "type": "group",
+          "preferred_label": "Philippians",
+          "confidence": 0.8673,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Filipus",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Filipus",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Filipus",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Filipus",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203238,
+    "content_id": "203238",
     "reference_id": 108103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Filipus",
     "media_type": "Text",
     "index_reference": "filipus",
@@ -56,13 +118,57 @@
     "content": "<p>Salah satu dari tujuh pemimpin yang dipilih oleh orang-orang percaya di Yerusalem untuk menjadi diaken. Dia memastikan semua orang percaya memiliki cukup makanan. Dia adalah orang yang berbeda dari Filipus yang merupakan salah satu dari 12 murid Yesus. Dia menyebarkan berita tentang Yesus kepada banyak orang dan tempat. Keempat anak perempuannya adalah nabi-nabi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Filipus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Filipus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Filipus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Filipus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Filipi",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Philippi",
+          "type": "group",
+          "preferred_label": "Philippians",
+          "confidence": 0.811,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203385,
+    "content_id": "203385",
     "reference_id": 108250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Firaun",
     "media_type": "Text",
     "index_reference": "firaun",
@@ -71,13 +177,71 @@
     "content": "<p>Gelar untuk penguasa yang paling berkuasa di Mesir. Banyak Firaun yang berbeda disebutkan dalam Alkitab.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.10",
+          "type": "person",
+          "preferred_label": "Firaun",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "Firaun",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Firaun",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Firaun",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Firaun",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.7",
+          "type": "person",
+          "preferred_label": "Firaun",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.8",
+          "type": "person",
+          "preferred_label": "Firaun",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.9",
+          "type": "person",
+          "preferred_label": "Firaun",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203335,
+    "content_id": "203335",
     "reference_id": 108200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Firman Allah",
     "media_type": "Text",
     "index_reference": "firman allah",
@@ -94,13 +258,22 @@
           "label": "Alkitab",
           "language": "ind"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "firman tuhan",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 203258,
+    "content_id": "203258",
     "reference_id": 108123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Frigia",
     "media_type": "Text",
     "index_reference": "frigia",
@@ -109,7 +282,16 @@
     "content": "<p>Sebuah daerah di wilayah Romawi di Asia Kecil dekat Galatia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Phrygia",
+          "type": "place",
+          "preferred_label": "Frigia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133863,
+    "content_id": "133863",
     "reference_id": 108061,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "70 ميلاديًا",
     "media_type": "Text",
     "index_reference": "70 ميلاديًا",
@@ -11,13 +11,14 @@
     "content": "<p>السنة التي دمرت فيها الجيوش الرومانية الهيكل. ودمروا أيضًا جزءًا كبيرًا من مدينة أورشليم. كان المتمردون اليهود يقاتلون ضد حكم روما لمدة أربع سنوات. ثم قتلت الجيوش الرومانية العديد من اليهود وأحرقت الهيكل. ولم يُعاد بناؤه أبدًا. حذر يسوع الناس مرات عديدة من أن هذا سيحدث. وصفه يسوع بأنه عقاب لعدم قبولهم له كمسيح مرسل من الله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134361,
+    "content_id": "134361",
     "reference_id": 108559,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الماء الحي",
     "media_type": "Text",
     "index_reference": "الماء الحي",
@@ -26,13 +27,14 @@
     "content": "<p>إنها طريقة للتعبير عن كيف يُدبّر الله كل ما يحتاجه الناس كي يحيوا. يُطلق عليه أيضًا في الكتاب المقدس، الماء الذي يعطي الحياة وماء الحياة. يكون الماء حيًا عندما يكون متجددًا ومتحركًا. ويشربه الناس للبقاء على قيد الحياة ويمكن للنباتات والحيوانات أن تعيش به. ولقد وصف الأنبياء الله بأنه هو ينبوع الماء الذي يعطي الحياة لشعبه. كما وصفوه بأنه الراعي الذي يقود شعبه إلى ينابيع الماء. كذلك قاموا بوصف كيف أن الماء سينبع من أورشليم. وأن هذا الماء هو الذي سيعطي الحياة للعالم كله. في العهد الجديد، وصف يسوع الروح القدس بأنه أنهار ماء حي. ويعطي يسوع هذا الماء الحي للناس الذين يؤمنون به. وهذا يعني أنه يشارك الروح القدس معهم. إن الروح يوفر ما تحتاجه أرواحهم. وهذا يشبه الطريقة التي بها يمنح الماء الأجساد ما تحتاجه. كذلك الروح يساعدهم على خدمة الآخرين. وهذه هي الطريقة التي من خلالها يتدفق الماء الحي من داخل الناس إلي الخارج. وفي سفر الرؤيا، يعطي الله ماء الحياة مجانًا لكل من يؤمن به.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134121,
+    "content_id": "134121",
     "reference_id": 108319,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "المُخَلِص",
     "media_type": "Text",
     "index_reference": "المُخَلِص",
@@ -41,13 +43,22 @@
     "content": "<p>أنقذ الله بني إسرائيل من العبودية في مصر. لقد أنقذهم من أعدائهم مرات عديدة في العهد القديم. كان هو الوحيد القادر أن يخلصهم. بهذه الطرق أظهر نفسه أنه مخلصهم الوحيد. وعد أيضًا بإرسال مُخلص يعيش بينهم. كان هذا هو يسوع المسيح. يسوع يُخلص أولئك الذين يؤمنون به ويتبعونه. يُخلصهم من قوة الخطية والموت والشر.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:East",
+          "type": "place",
+          "preferred_label": "ٱلْمَشْرِقِ",
+          "confidence": 0.8675,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134358,
+    "content_id": "134358",
     "reference_id": 108556,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "المخلوقات الحية الأربعة",
     "media_type": "Text",
     "index_reference": "المخلوقات الحية الأربعة",
@@ -56,13 +67,22 @@
     "content": "<p>كائنات روحية رآها حزقيال ويوحنا في رؤى. مثل السرافيم في رؤية إشعياء، يعطون المجد لله. يعبدون الله ويفعلون ما يريد. يُدعوها حزقيال الكروبيم. وقد كانت هناك تماثيل لهذه الكائنات فوق تابوت العهد.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:FourthLivingCreature",
+          "type": "deity",
+          "preferred_label": "Fourth Living Creature",
+          "confidence": 0.8116,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134220,
+    "content_id": "134220",
     "reference_id": 108418,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "المَساكِين",
     "media_type": "Text",
     "index_reference": "المَساكِين",
@@ -71,13 +91,50 @@
     "content": "<p>في العهد القديم، كان الناس المحتاجون هم أولئك الذين لم يكن لديهم أرض للزراعة. بدون أرض، لم يتمكنوا من زراعة الطعام أو امتلاك ماشية. الغرباء والأرامل كانوا مساكين. وكذلك الأطفال الذين مات آباؤهم. كان الناس محتاجين أيضًا إذا كانت لديهم أرض ولكنهم لم ينجحوا في الزراعة. في العهد الجديد، كان أي شخص فقير أو يحتاج إلى مساعدة يعتبر مِسكينًا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rakkon",
+          "type": "place",
+          "preferred_label": "ٱلرَّقّونَ",
+          "confidence": 0.8398,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Japhlet",
+          "type": "person",
+          "preferred_label": "ٱلْيَفْلَطِيِّينَ",
+          "confidence": 0.8131,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Izhar",
+          "type": "person",
+          "preferred_label": "ٱلْيِصْهَارِيِّينَ",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Izhar.2",
+          "type": "person",
+          "preferred_label": "ٱلْيِصْهَارِيِّينَ",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hagri",
+          "type": "person",
+          "preferred_label": "ٱلْهَاجَرِيِّينَ",
+          "confidence": 0.8051,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134329,
+    "content_id": "134329",
     "reference_id": 108527,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "المسيّا",
     "media_type": "Text",
     "index_reference": "المسيّا",
@@ -86,13 +143,22 @@
     "content": "<p>المخلّص الذي وعد الله بإرساله ليخلّص شعب الله من جميع أعدائه. في اللغة العبرية، كلمة مسيح تعني الممسوح أو المختار. تتحدث العديد من النبوات والوعود المسجلة في العهد القديم عن هذا المخلّص. فهم الكثير من اليهود أن هذه النبوات والوعود تتحدث عن ملكٍ سيكون من نسل داود. سيختاره الله ليجلب سلامًا يدوم إلى الأبد. عندما عاش يسوع على الأرض، أصبح الكثير من اليهود يؤمنون بأنه المسيح المنتظر.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Casiphia",
+          "type": "place",
+          "preferred_label": "ٱلْمسَمَّى",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134116,
+    "content_id": "134116",
     "reference_id": 108314,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "المَلاك المُهلِك",
     "media_type": "Text",
     "index_reference": "المَلاك المُهلِك",
@@ -101,13 +167,14 @@
     "content": "<p>ملاك يطيع الله بإهلاك شيء ما. فعل الإهلاك يجلب دينونة الله ضد الشر.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134282,
+    "content_id": "134282",
     "reference_id": 108480,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "المملكة الجنوبية",
     "media_type": "Text",
     "index_reference": "المملكة الجنوبية",
@@ -116,13 +183,14 @@
     "content": "<p>هي أرض ومجموع أسباط إسرائيل التي حكمها ملوك من نسل داود. وكانت تُعرف أيضًا بمملكة يهوذا. ولقد شملت أسباط يهوذا وبنيامين وبعض اليهود من أسباط أخرى. المدن المهمة في المملكة الجنوبية كانت حبرون، ولخيش وأورشليم. وكانت أورشليم العاصمة. بدأت المملكة الجنوبية عندما فقد رحبعام سلطانه على عشرة من الأسباط. ولقد انتهت في عام 586 قبل الميلاد عندما سيطرت بابل على أورشليم. ولقد عاد بعض الناس من المملكة الجنوبية بعد انتهاء السبي في بابل. الأنبياء الذين تنبأوا للمملكة الجنوبية ضمّوا يوئيل، وإشعياء، وميخا، وصفنيا، وإرميا، وحبقوق وحزقيال. أما الملوك الذين حكموا هناك فكانوا رحبعام، وأبيا، وآسا، ويهوشافاط، ويهورام، وأخزيا، وعثليا (الملكة)، ويوآش، وأمصيا، وعزّيا، ويوثام، وآحاز، وحزقيا، ومنسى، وآمون، ويوشيا، ويهوآحاز، ويهوياقيم، ويهوياكين وصدقيّا. ولقد كان عدد قليل فقط من هؤلاء الملوك أمناء لعهد جبل سيناء. شمل هذا آسا، ويهوشافاط، ويوآش، وأمصيا، وعزّيا، ويوثام، وحزقيا ويوشيا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134281,
+    "content_id": "134281",
     "reference_id": 108479,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "المملكة الشمالية",
     "media_type": "Text",
     "index_reference": "المملكة الشمالية",
@@ -131,13 +199,14 @@
     "content": "<p>تشير إلى الأرض والأسباط في إسرائيل والتي حكمها ملوك لم يكونوا من نسل داود. وكانت تُعرف أيضًا بإسرائيل أو إفرايم. كانت المدن الهامة في المملكة الشمالية هي دان، وبيت إيل والسامرة. وقد أصبحت مدينة السامرة العاصمة. بدأت المملكة الشمالية عندما قاد يربعام الكثير من شعب إسرائيل لرفض مُلك رحبعام. ولقد انتهت في عام 722 قبل الميلاد عندما سيطرت آشور على السامرة. ولم يرجع شعب المملكة الشمالية من السبي أبدًا. من الأنبياء الذين تنبأوا إلى المملكة الشمالية أخيّا، وياهو، وميخا، وإيليّا، وأليشع، وعاموس، ويونان، وهوشع وميخا. وكان من الملوك يربعام، وناداب، وبعشا، وإيلة، وزمري، وعمري، وأخآب، وأخزيا، ويهورام، وياهو، ويهوآحاز، ويهوآش، ويربعام الثاني، وزكريا، وشلّوم، ومنحيم، وفقحيا، وفقح وهوشع. ولم يكن أي من هؤلاء الملوك مخلصًا أو أمينًا لعهد جبل سيناء.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134297,
+    "content_id": "134297",
     "reference_id": 108495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "المنفى",
     "media_type": "Text",
     "index_reference": "المنفى",
@@ -146,13 +215,14 @@
     "content": "<p>عندما يُجبر الناس على ترك منازلهم وأرضهم والعيش في مكان آخر. كانت هذه لعنة عهد جبل سيناء. تم نفي العديد من بني إسرائيل من المملكة الشمالية إلى آشور. لم يعودوا أبدًا إلى أرض إسرائيل. ونُفي العديد من الإسرائيليين من المملكة الجنوبية إلى بابل. عاد بعضهم إلى أرض يهوذا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133977,
+    "content_id": "133977",
     "reference_id": 108175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الموت الثاني",
     "media_type": "Text",
     "index_reference": "الموت الثاني",
@@ -161,13 +231,14 @@
     "content": "<p>طريقة لوصف دينونة الله النهائية ضد أولئك الذين يرفضون اتباعه. إنهم يهلكون وينفصلون عن الله إلى الأبد. وصف يوحنا المكان الذي يحدث فيه الموت الثاني بأنه بحيرة النار. كانت تسمى أيضًا بحيرة النار والكبريت. أولئك الذين أُلقوا فيها لن يكون لهم نصيب في ملكوت الله على الأرض.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133992,
+    "content_id": "133992",
     "reference_id": 108190,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الموت والجحيم",
     "media_type": "Text",
     "index_reference": "الموت والجحيم",
@@ -176,13 +247,14 @@
     "content": "<p>وصف يوحنا في سفر الرؤيا الموت والجحيم كقوى شريرة حكم الله عليها. هذا يعني أن الله أوقف الموت والجحيم إلى الأبد. بسبب هذا، لن يموت الناس في مملكة الله على الأرض أبدًا. والناس الذين يرفضون الانضمام إلى ملكوت الله سوف ينفصلون عن الله إلى الأبد.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134046,
+    "content_id": "134046",
     "reference_id": 108244,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ما بين النهرين",
     "media_type": "Text",
     "index_reference": "ما بين النهرين",
@@ -191,13 +263,14 @@
     "content": "<p>المنطقة المحيطة بنهر دجلة ونهر الفرات. وهي المنطقة التي تقع فيها أجزاء من الدول التي تسمى الآن إيران وسوريا والكويت وتركيا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134161,
+    "content_id": "134161",
     "reference_id": 108359,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ماء التطهير",
     "media_type": "Text",
     "index_reference": "ماء التطهير",
@@ -206,13 +279,14 @@
     "content": "<p>تم استخدام الماء في العديد من الفرائض والطقوس لمساعدة بني إسرائيل على عبادة الله. فكان الكهنة يغسلون أيديهم وأقدامهم بالماء عندما يخدمون الله عند المذبح. وقد كان هذا الماء موجودًا في وعاء برونزي كبير يُسمى المرحضة. الأشخاص والأشياء التي كانت غير طاهرة، تصبح طاهرة بعد غسلها بالماء. ولقد كان الماء يُسمي ماء التطهير عندما يضيف الكهنة إليه رماد عجلة صغيرة. وكان يتم رش ماء التطهير هذا على الأشخاص أو الأشياء بعد الاقتراب من جثة ما. وكان استخدام الماء بهذه الطرق يشير إلي أكثر من مجرد ازالة الأوساخ. فقد كان علامة على أن الأشخاص أو الأشياء أصبحت طاهرة ونقية روحياً. فقط الأشخاص أو الأشياء التي كانت طاهرة ونقية هي التي كان ممكنًا أن تقترب إلى الله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133986,
+    "content_id": "133986",
     "reference_id": 108184,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مائة أربعة وأربعون ألفًا",
     "media_type": "Text",
     "index_reference": "مائة أربعة وأربعون ألفًا",
@@ -221,13 +295,14 @@
     "content": "<p>كان هذا الرقم 12 × 12،000. كانت طريقة للتحدث عن شعب الله بأكمله. لقد كانوا من جميع العصور والأماكن وكانوا كثيرين جدًا بحيث لا يمكن إحصاؤهم. لم يكن يعني بالضبط 144،000 شخص من نسل إبراهيم. كان يعني العدد الكامل لأولئك الذين يثقون بيسوع.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133879,
+    "content_id": "133879",
     "reference_id": 108077,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مؤمن",
     "media_type": "Text",
     "index_reference": "مؤمن",
@@ -236,13 +311,14 @@
     "content": "<p>هو ذلك الشخص الذي يؤمن بيسوع المسيح ويتبعه. وكذلك تمّت تسميتهم في العهد الجديد بالمسيحيين. إنهم يؤمنون بأن يسوع الناصري هو ابن الله الذي قام من بين الأموات. كما أن المؤمنين يُقدّمون العبادة ليسوع باعتباره الله. وهم يخدمونه باعتباره المسيا والملك. ولقد أُطلق على المؤمنين اسم المسيحيين لأول مرة في أنطاكية بسوريا. فقد نُسبوا إلى اسم المسيح لأنهم يتبعون طريق حياته. يظل المؤمنون جزءًا من مجتمعاتهم وشعوبهم خلال تبعيّتهم ليسوع. كما يستمرون في اتبّاع قوانين وعادات مجتمعاتهم . إنهم يفعلون ذلك إلا إذا كانت هذه القوانين والعادات تتعارض مع ما علّمه يسوع. وهذا ينطبق على المؤمنين اليهود والمؤمنين من الأمم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133981,
+    "content_id": "133981",
     "reference_id": 108179,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مُتَسَرْبِلِينَ بِثِيَابٍ بِيضٍ",
     "media_type": "Text",
     "index_reference": "مُتَسَرْبِلِينَ بِثِيَابٍ بِيضٍ",
@@ -251,13 +327,14 @@
     "content": "<p>طريقة لوصف الأشخاص الذين يطيعون الله. في الكتاب المقدس، اللون الأبيض هو علامة على الأشياء التي تعتبر نقية. يكون الناس أنقياء عندما يفعلون ما يريده الله. الملابس البيضاء هي علامة على فعل ذلك. في سفر الرؤيا، تصبح ثياب الناس بيضاء من خلال غسلها بدم الحمل. هذا يعني أن الناس يثقون في يسوع ليخلصهم من قوة الخطية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134341,
+    "content_id": "134341",
     "reference_id": 108539,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "متى",
     "media_type": "Text",
     "index_reference": "متى",
@@ -266,13 +343,14 @@
     "content": "<p>كاتب أول إنجيل في العهد الجديد. كان أحد تلاميذ يسوع الاثني عشر. كان يُدعى أيضًا لاوي. كان جابي ضرائب.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134150,
+    "content_id": "134150",
     "reference_id": 108348,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مجد",
     "media_type": "Text",
     "index_reference": "مجد",
@@ -281,13 +359,14 @@
     "content": "<p>جمال الله الرائع وجلاله وصلاحه وحضوره. إنها طريقة للحديث عن من هو الله وكيف أنه طاهر وقدوس. الخالق وحده يملك هذا المجد. وقد اختار أن يشاركه مع من خلقهم. الكائنات المخلوقة تظهر مجد الله عندما تنفذ خططه لخليقته.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133853,
+    "content_id": "133853",
     "reference_id": 108051,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مَجْمَعَ",
     "media_type": "Text",
     "index_reference": "مَجْمَعَ",
@@ -296,13 +375,680 @@
     "content": "<p>الأماكن التي كان اليهود في زمن العهد الجديد يجتمعون فيها لعبادة الله. كانوا يقرأون بصوت عالٍ من شريعة موسى والأنبياء. ثم يقوم المعلمون اليهود الذين كانوا يسمون بالحاخامات بتعليم الناس. كان هذا يحدث في يوم السبت. كانت هناك مجامع في جميع أنحاء الأراضي التي تسيطر عليها الحكومة الرومانية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Magadan",
+          "type": "place",
+          "preferred_label": "مَجْدَلَ",
+          "confidence": 0.9155,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Migdol",
+          "type": "place",
+          "preferred_label": "مَجْدَلَ",
+          "confidence": 0.9155,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahath.2",
+          "type": "person",
+          "preferred_label": "مَحَث",
+          "confidence": 0.9096,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahath.3",
+          "type": "person",
+          "preferred_label": "مَحَث",
+          "confidence": 0.9096,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mahanaim",
+          "type": "place",
+          "preferred_label": "مَحَنَايِمَ",
+          "confidence": 0.9016,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maoch",
+          "type": "person",
+          "preferred_label": "مَعوكَ",
+          "confidence": 0.8872,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8859,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.2",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8859,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.3",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8859,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.4",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8859,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.5",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8859,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Methuselah",
+          "type": "person",
+          "preferred_label": "مَتوشَالَحَ",
+          "confidence": 0.878,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikneiah",
+          "type": "person",
+          "preferred_label": "مَقَنْيَا",
+          "confidence": 0.8777,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mishal",
+          "type": "place",
+          "preferred_label": "مِشْآلَ",
+          "confidence": 0.8772,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mehida",
+          "type": "person",
+          "preferred_label": "مَحِيدَا",
+          "confidence": 0.8767,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibzar",
+          "type": "person",
+          "preferred_label": "مِبْصَارَ",
+          "confidence": 0.8725,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikloth",
+          "type": "person",
+          "preferred_label": "مَقْلوث",
+          "confidence": 0.8685,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikloth.2",
+          "type": "person",
+          "preferred_label": "مَقْلوث",
+          "confidence": 0.8685,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Madmenah",
+          "type": "place",
+          "preferred_label": "مَدْمِينَة",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattan",
+          "type": "person",
+          "preferred_label": "مَتَّانَ",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattan.2",
+          "type": "person",
+          "preferred_label": "مَتَّانَ",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matthan",
+          "type": "person",
+          "preferred_label": "مَتَّانَ",
+          "confidence": 0.8628,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mortar",
+          "type": "place",
+          "preferred_label": "مَكْتِيشَ",
+          "confidence": 0.859,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maath",
+          "type": "person",
+          "preferred_label": "مَآثَ",
+          "confidence": 0.8547,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matri",
+          "type": "person",
+          "preferred_label": "مَطْرِي",
+          "confidence": 0.8535,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahli",
+          "type": "person",
+          "preferred_label": "مَحْلِي",
+          "confidence": 0.8515,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahli.2",
+          "type": "person",
+          "preferred_label": "مَحْلِي",
+          "confidence": 0.8515,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "مَرْقسَ",
+          "confidence": 0.8505,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Adummim",
+          "type": "place",
+          "preferred_label": "أَدمِّيمَ",
+          "confidence": 0.8503,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Michmash",
+          "type": "place",
+          "preferred_label": "مِخْمَاسَ",
+          "confidence": 0.8488,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mehir",
+          "type": "person",
+          "preferred_label": "مَحِيرَ",
+          "confidence": 0.8456,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchus",
+          "type": "person",
+          "preferred_label": "مَلْخسَ",
+          "confidence": 0.8454,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8452,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah.2",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8452,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah.3",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8452,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah.4",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8452,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8447,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.2",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8447,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.3",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8447,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.4",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8447,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shema",
+          "type": "place",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8447,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahseiah",
+          "type": "person",
+          "preferred_label": "مَحْسِيَا",
+          "confidence": 0.8446,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Megiddo",
+          "type": "place",
+          "preferred_label": "مَجِدّو",
+          "confidence": 0.8437,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Misham",
+          "type": "person",
+          "preferred_label": "مِشْعَام",
+          "confidence": 0.8407,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meshelemiah",
+          "type": "person",
+          "preferred_label": "مَشَلْمِيَا",
+          "confidence": 0.8398,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Magbish",
+          "type": "place",
+          "preferred_label": "مَغْبِيشَ",
+          "confidence": 0.8381,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shittim",
+          "type": "place",
+          "preferred_label": "شِطِّيمَ",
+          "confidence": 0.8361,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattenai",
+          "type": "person",
+          "preferred_label": "مَتَّنَاي",
+          "confidence": 0.8355,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattenai.2",
+          "type": "person",
+          "preferred_label": "مَتَّنَاي",
+          "confidence": 0.8355,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattenai.3",
+          "type": "person",
+          "preferred_label": "مَتَّنَاي",
+          "confidence": 0.8355,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattaniah",
+          "type": "person",
+          "preferred_label": "مَتَّنْيَا",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattaniah.10",
+          "type": "person",
+          "preferred_label": "مَتَّنْيَا",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattaniah.2",
+          "type": "person",
+          "preferred_label": "مَتَّنْيَا",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattaniah.3",
+          "type": "person",
+          "preferred_label": "مَتَّنْيَا",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattaniah.4",
+          "type": "person",
+          "preferred_label": "مَتَّنْيَا",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattaniah.5",
+          "type": "person",
+          "preferred_label": "مَتَّنْيَا",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattaniah.6",
+          "type": "person",
+          "preferred_label": "مَتَّنْيَا",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattaniah.7",
+          "type": "person",
+          "preferred_label": "مَتَّنْيَا",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattaniah.8",
+          "type": "person",
+          "preferred_label": "مَتَّنْيَا",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattaniah.9",
+          "type": "person",
+          "preferred_label": "مَتَّنْيَا",
+          "confidence": 0.8324,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jakeh",
+          "type": "person",
+          "preferred_label": "متَّقِيَةِ",
+          "confidence": 0.8322,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Makkedah",
+          "type": "place",
+          "preferred_label": "مَقِّيدَةَ",
+          "confidence": 0.8308,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malachi",
+          "type": "person",
+          "preferred_label": "مَلَاخِي",
+          "confidence": 0.8292,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gallim",
+          "type": "place",
+          "preferred_label": "جَلِّيمَ",
+          "confidence": 0.8288,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matred",
+          "type": "person",
+          "preferred_label": "مَطْرِدَ",
+          "confidence": 0.8287,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha",
+          "type": "person",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha.2",
+          "type": "person",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mesha",
+          "type": "place",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.2",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.3",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.4",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.5",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.6",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.7",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.8",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Maacah",
+          "type": "place",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matthias",
+          "type": "person",
+          "preferred_label": "مَتِّيَاسَ",
+          "confidence": 0.8245,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meres",
+          "type": "person",
+          "preferred_label": "مَرَسَ",
+          "confidence": 0.8216,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meremoth",
+          "type": "person",
+          "preferred_label": "مَرِيموث",
+          "confidence": 0.8214,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meremoth.2",
+          "type": "person",
+          "preferred_label": "مَرِيموث",
+          "confidence": 0.8214,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mallothi",
+          "type": "person",
+          "preferred_label": "مَلوثِي",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zaham",
+          "type": "person",
+          "preferred_label": "زَاهَمَ",
+          "confidence": 0.8187,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibhar",
+          "type": "person",
+          "preferred_label": "مَبْحَار",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Menahem",
+          "type": "person",
+          "preferred_label": "مَنَحِيم",
+          "confidence": 0.8177,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahalath",
+          "type": "person",
+          "preferred_label": "مَحْلَةَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahalath.2",
+          "type": "person",
+          "preferred_label": "مَحْلَةَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahlah",
+          "type": "person",
+          "preferred_label": "مَحْلَةَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahlah.2",
+          "type": "person",
+          "preferred_label": "مَحْلَةَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.7",
+          "type": "person",
+          "preferred_label": "مَحْلَةَ",
+          "confidence": 0.8164,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:KingsValley",
+          "type": "place",
+          "preferred_label": "مَلِك",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mephibosheth",
+          "type": "person",
+          "preferred_label": "مَفِيبوشَثَ",
+          "confidence": 0.8103,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mephibosheth.2",
+          "type": "person",
+          "preferred_label": "مَفِيبوشَثَ",
+          "confidence": 0.8103,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Geshem",
+          "type": "person",
+          "preferred_label": "جَشَمٌ",
+          "confidence": 0.8091,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Middin",
+          "type": "place",
+          "preferred_label": "مِدِّين",
+          "confidence": 0.808,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133987,
+    "content_id": "133987",
     "reference_id": 108185,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مجموعات السبعة",
     "media_type": "Text",
     "index_reference": "مجموعات السبعة",
@@ -311,13 +1057,14 @@
     "content": "<p>في رؤيا يوحنا، رأى دينونة الله تحدث في مجموعات من سبعة أشياء. كانت هناك سبعة أختام وسبعة أبواق وسبعة جامات. في نهاية كل مجموعة كان هناك برق ورعد وزلزلة. في الكتاب المقدس، سبعة هو الرقم الذي يدل على اكتمال الأشياء.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133835,
+    "content_id": "133835",
     "reference_id": 108033,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مَجُوسٌ",
     "media_type": "Text",
     "index_reference": "مَجُوسٌ",
@@ -326,13 +1073,603 @@
     "content": "<p>رجال مهمون من الأراضي الواقعة شرق أورشليم. درسوا نجوم السماء. سجدوا ليسوع بعد ولادته كملك العالم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Shittim",
+          "type": "place",
+          "preferred_label": "شِطِّيمَ",
+          "confidence": 0.8954,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matri",
+          "type": "person",
+          "preferred_label": "مَطْرِي",
+          "confidence": 0.8941,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Magadan",
+          "type": "place",
+          "preferred_label": "مَجْدَلَ",
+          "confidence": 0.8757,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Migdol",
+          "type": "place",
+          "preferred_label": "مَجْدَلَ",
+          "confidence": 0.8757,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8743,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.2",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8743,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.3",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8743,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.4",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8743,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.5",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8743,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mishal",
+          "type": "place",
+          "preferred_label": "مِشْآلَ",
+          "confidence": 0.8708,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Methuselah",
+          "type": "person",
+          "preferred_label": "مَتوشَالَحَ",
+          "confidence": 0.8692,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibzar",
+          "type": "person",
+          "preferred_label": "مِبْصَارَ",
+          "confidence": 0.8585,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahath.2",
+          "type": "person",
+          "preferred_label": "مَحَث",
+          "confidence": 0.8552,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahath.3",
+          "type": "person",
+          "preferred_label": "مَحَث",
+          "confidence": 0.8552,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahli",
+          "type": "person",
+          "preferred_label": "مَحْلِي",
+          "confidence": 0.8538,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahli.2",
+          "type": "person",
+          "preferred_label": "مَحْلِي",
+          "confidence": 0.8538,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Geshem",
+          "type": "person",
+          "preferred_label": "جَشَمٌ",
+          "confidence": 0.8537,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Corban",
+          "type": "place",
+          "preferred_label": "هَدِيَّةٌ",
+          "confidence": 0.8533,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jakeh",
+          "type": "person",
+          "preferred_label": "متَّقِيَةِ",
+          "confidence": 0.853,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Megiddo",
+          "type": "place",
+          "preferred_label": "مَجِدّو",
+          "confidence": 0.8512,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "مَرْقسَ",
+          "confidence": 0.8503,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Zior",
+          "type": "place",
+          "preferred_label": "صِيعور",
+          "confidence": 0.8486,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8482,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.2",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8482,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.3",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8482,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.4",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8482,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shema",
+          "type": "place",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8482,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mortar",
+          "type": "place",
+          "preferred_label": "مَكْتِيشَ",
+          "confidence": 0.8461,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maoch",
+          "type": "person",
+          "preferred_label": "مَعوكَ",
+          "confidence": 0.8414,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahseiah",
+          "type": "person",
+          "preferred_label": "مَحْسِيَا",
+          "confidence": 0.8399,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matred",
+          "type": "person",
+          "preferred_label": "مَطْرِدَ",
+          "confidence": 0.8399,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Magbish",
+          "type": "place",
+          "preferred_label": "مَغْبِيشَ",
+          "confidence": 0.8396,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchus",
+          "type": "person",
+          "preferred_label": "مَلْخسَ",
+          "confidence": 0.8354,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Adummim",
+          "type": "place",
+          "preferred_label": "أَدمِّيمَ",
+          "confidence": 0.8351,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gallim",
+          "type": "place",
+          "preferred_label": "جَلِّيمَ",
+          "confidence": 0.8332,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikneiah",
+          "type": "person",
+          "preferred_label": "مَقَنْيَا",
+          "confidence": 0.8331,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shepho",
+          "type": "person",
+          "preferred_label": "شَفْوٌ",
+          "confidence": 0.8327,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikloth",
+          "type": "person",
+          "preferred_label": "مَقْلوث",
+          "confidence": 0.827,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikloth.2",
+          "type": "person",
+          "preferred_label": "مَقْلوث",
+          "confidence": 0.827,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Waheb",
+          "type": "place",
+          "preferred_label": "وَاهِبٌ",
+          "confidence": 0.8253,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zecher",
+          "type": "person",
+          "preferred_label": "زَاكِر",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gadi",
+          "type": "person",
+          "preferred_label": "جَادِي",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bariah",
+          "type": "person",
+          "preferred_label": "بَارِيح",
+          "confidence": 0.8212,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shebarim",
+          "type": "place",
+          "preferred_label": "شَبَارِيمَ",
+          "confidence": 0.8209,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mahanaim",
+          "type": "place",
+          "preferred_label": "مَحَنَايِمَ",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Makkedah",
+          "type": "place",
+          "preferred_label": "مَقِّيدَةَ",
+          "confidence": 0.8173,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Habakkuk",
+          "type": "person",
+          "preferred_label": "حَبَقّوق",
+          "confidence": 0.815,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Melchi",
+          "type": "person",
+          "preferred_label": "مَلْكِي",
+          "confidence": 0.8135,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Melchi.2",
+          "type": "person",
+          "preferred_label": "مَلْكِي",
+          "confidence": 0.8135,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Melchizedek",
+          "type": "person",
+          "preferred_label": "مَلْكِي",
+          "confidence": 0.8135,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha",
+          "type": "person",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha.2",
+          "type": "person",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mesha",
+          "type": "place",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mehir",
+          "type": "person",
+          "preferred_label": "مَحِيرَ",
+          "confidence": 0.8114,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gahar",
+          "type": "person",
+          "preferred_label": "جَاحَرَ",
+          "confidence": 0.8105,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meshelemiah",
+          "type": "person",
+          "preferred_label": "مَشَلْمِيَا",
+          "confidence": 0.8105,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Ashtoreth",
+          "type": "deity",
+          "preferred_label": "عَشْتورَثَ",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mallothi",
+          "type": "person",
+          "preferred_label": "مَلوثِي",
+          "confidence": 0.807,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah.2",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah.3",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah.4",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8061,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meres",
+          "type": "person",
+          "preferred_label": "مَرَسَ",
+          "confidence": 0.806,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mehida",
+          "type": "person",
+          "preferred_label": "مَحِيدَا",
+          "confidence": 0.8056,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Er",
+          "type": "person",
+          "preferred_label": "عِيرٌ",
+          "confidence": 0.8053,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Er.2",
+          "type": "person",
+          "preferred_label": "عِيرٌ",
+          "confidence": 0.8053,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Er.3",
+          "type": "person",
+          "preferred_label": "عِيرٌ",
+          "confidence": 0.8053,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Misham",
+          "type": "person",
+          "preferred_label": "مِشْعَام",
+          "confidence": 0.8045,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Pau",
+          "type": "place",
+          "preferred_label": "فَاعوَ",
+          "confidence": 0.8034,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eder",
+          "type": "person",
+          "preferred_label": "عَادِر",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eder.2",
+          "type": "person",
+          "preferred_label": "عَادِر",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Eder",
+          "type": "place",
+          "preferred_label": "عَادِر",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Telem",
+          "type": "person",
+          "preferred_label": "طَالَم",
+          "confidence": 0.8007,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Telem",
+          "type": "place",
+          "preferred_label": "طَالَم",
+          "confidence": 0.8007,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Calah",
+          "type": "place",
+          "preferred_label": "كَالَحَ",
+          "confidence": 0.8006,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.2",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.3",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.4",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.5",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.6",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.7",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.8",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Maacah",
+          "type": "place",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.8003,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134157,
+    "content_id": "134157",
     "reference_id": 108355,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "محبة الله",
     "media_type": "Text",
     "index_reference": "محبة الله",
@@ -341,13 +1678,22 @@
     "content": "<p>خلق الله البشر ليستقبلوا محبته وليحبوه. محبة الله تغيّر الناس وتجعلهم قادرين على محبته. محبة الله هي شعور واختيار يتصرف الناس في ضوءه، أي يطيعوه. محبة الله تظهر من خلال طاعة وصاياه. هذا ما تعلّمه شريعة موسى في العهد القديم ويسوع في العهد الجديد.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:LovingGod",
+          "type": "keyterm",
+          "preferred_label": "Loving God",
+          "confidence": 0.8803,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134212,
+    "content_id": "134212",
     "reference_id": 108410,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مُدن الملجأ",
     "media_type": "Text",
     "index_reference": "مُدن الملجأ",
@@ -356,13 +1702,14 @@
     "content": "<p>ست مدن عاش فيها اللاويون. ثلاث منها كانت على الجانب الشرقي من نهر الأردن. وثلاث كانت على الجانب الغربي. كان بإمكان الأشخاص الذين قتلوا شخصًا ما عن طريق الخطأ الذهاب إلى هناك، ليكونوا آمنين وألا يقتلهم أقرب أقرباء القتيل من الذكور. كان بإمكانهم العيش هناك إلى أن يموت رئيس الكهنة. ثم يمكنهم العودة إلى المكان الذي كانوا يعيشون فيه من قبل.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134105,
+    "content_id": "134105",
     "reference_id": 108303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مِدْيَانَيين",
     "media_type": "Text",
     "index_reference": "مِدْيَانَيين",
@@ -371,13 +1718,57 @@
     "content": "<p>كان مِدْيَانَ ابنًا لإبراهيم وزوجته قطورة. وقد انحدرت العشيرة المسماة المديانيين من نسله. وكان اسم الأرض التي كانوا يعيشون فيها يسمى أيضاً مِدْيَانَ. كانت شرق مصر وجنوب كنعان. ظهر الله لموسى في أرض مديان. في العهد القديم، ساعد المديانيون بني إسرائيل في بعض الأحيان. وفي أحيان أخرى كانوا يؤذونهم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mijamin",
+          "type": "person",
+          "preferred_label": "مِيَّامِين",
+          "confidence": 0.8283,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mijamin.2",
+          "type": "person",
+          "preferred_label": "مِيَّامِين",
+          "confidence": 0.8283,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mijamin.3",
+          "type": "person",
+          "preferred_label": "مِيَّامِين",
+          "confidence": 0.8283,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Midian",
+          "type": "person",
+          "preferred_label": "مِدْيَانَ",
+          "confidence": 0.8281,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Midian",
+          "type": "place",
+          "preferred_label": "مِدْيَانَ",
+          "confidence": 0.8281,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Dinaite",
+          "type": "person",
+          "preferred_label": "ٱلدِّينِيِّينَ",
+          "confidence": 0.8173,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134087,
+    "content_id": "134087",
     "reference_id": 108285,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مذبح",
     "media_type": "Text",
     "index_reference": "مذبح",
@@ -386,13 +1777,14 @@
     "content": "<p>شيء بناه الناس لتكريم الله. كانوا يعبدون بتقديم الذبائح على المذبح. غالبًا ما كان الناس يبنون المذابح للتعرف على طريقة خاصة قالها الله أو فعلها. ساعدتهم المذابح على تذكر ما قاله الله أو فعله. أظهرت المذابح أيضًا أن الناس كانوا ملتزمين بعبادة الله وطاعته. أعطى الله تعليمات دقيقة حول بناء المذابح في خيمة الاجتماع والهيكل. بنى الناس أيضًا مذابح لعبادة الآلهة الكاذبة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133984,
+    "content_id": "133984",
     "reference_id": 108182,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مَذْبَحِ الذهَب",
     "media_type": "Text",
     "index_reference": "مَذْبَحِ الذهَب",
@@ -409,13 +1801,14 @@
           "label": "مذبح",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134301,
+    "content_id": "134301",
     "reference_id": 108499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مُرتَفَعات",
     "media_type": "Text",
     "index_reference": "مُرتَفَعات",
@@ -424,13 +1817,29 @@
     "content": "<p>مكان للعبادة على تل أو جبل أو مكان مرتفع. كان الناس يحرقون البخور ويقدمون الذبائح هناك. كانت بعض الأماكن المرتفعة تستخدم لعبادة الإله الحقيقي. حدث هذا غالبًا قبل بناء الهيكل. واستخدمت أماكن مرتفعة أخرى لعبادة الآلهة الكاذبة. حتى أن الناس كانوا يضحون بالأطفال عليها لتكريم الآلهة الكاذبة. كان هناك العديد من هذه المرتفعات عندما دخل بنو إسرائيل كنعان لأول مرة. كان من المفترض أن يدمر بنو إسرائيل جميع الأماكن المرتفعة المستخدمة لعبادة الآلهة الباطلة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Arpachshad",
+          "type": "person",
+          "preferred_label": "أَرْفَكْشَاد",
+          "confidence": 0.8201,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahuzzath",
+          "type": "person",
+          "preferred_label": "أَحزَّات",
+          "confidence": 0.8138,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134322,
+    "content_id": "134322",
     "reference_id": 108520,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مُرْدَخَاي",
     "media_type": "Text",
     "index_reference": "مُرْدَخَاي",
@@ -439,13 +1848,617 @@
     "content": "<p>يهودي عاش في مملكة فارس في عهد أحشويروش. كان مردخاي ابن يائير من سبط بنيامين. تَبَنَى ابنة عمه أستير عندما توفي والداها. خدم في حكومة فارس عند بوابة القصر في شوشن. بعد مقتل هامان، أصبح مردخاي مستشاراً لأحشويروش. كان مردخاي قائدًا مهمًا ذا سُلطة في مملكة فارس.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Methuselah",
+          "type": "person",
+          "preferred_label": "مَتوشَالَحَ",
+          "confidence": 0.9092,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.9058,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.2",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.9058,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.3",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.9058,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.4",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.9058,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.5",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.9058,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "مَرْقسَ",
+          "confidence": 0.8907,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibzar",
+          "type": "person",
+          "preferred_label": "مِبْصَارَ",
+          "confidence": 0.8808,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mordecai",
+          "type": "person",
+          "preferred_label": "مرْدَخَاي",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mordecai.2",
+          "type": "person",
+          "preferred_label": "مرْدَخَاي",
+          "confidence": 0.8796,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Merodach",
+          "type": "deity",
+          "preferred_label": "مَرودَخ",
+          "confidence": 0.877,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mortar",
+          "type": "place",
+          "preferred_label": "مَكْتِيشَ",
+          "confidence": 0.8763,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malachi",
+          "type": "person",
+          "preferred_label": "مَلَاخِي",
+          "confidence": 0.8736,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matred",
+          "type": "person",
+          "preferred_label": "مَطْرِدَ",
+          "confidence": 0.8716,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchus",
+          "type": "person",
+          "preferred_label": "مَلْخسَ",
+          "confidence": 0.8707,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mahanaim",
+          "type": "place",
+          "preferred_label": "مَحَنَايِمَ",
+          "confidence": 0.8701,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matri",
+          "type": "person",
+          "preferred_label": "مَطْرِي",
+          "confidence": 0.8699,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Magadan",
+          "type": "place",
+          "preferred_label": "مَجْدَلَ",
+          "confidence": 0.8691,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Migdol",
+          "type": "place",
+          "preferred_label": "مَجْدَلَ",
+          "confidence": 0.8691,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Megiddo",
+          "type": "place",
+          "preferred_label": "مَجِدّو",
+          "confidence": 0.8655,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahath.2",
+          "type": "person",
+          "preferred_label": "مَحَث",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahath.3",
+          "type": "person",
+          "preferred_label": "مَحَث",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meres",
+          "type": "person",
+          "preferred_label": "مَرَسَ",
+          "confidence": 0.8645,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maoch",
+          "type": "person",
+          "preferred_label": "مَعوكَ",
+          "confidence": 0.8622,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mehida",
+          "type": "person",
+          "preferred_label": "مَحِيدَا",
+          "confidence": 0.862,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mishal",
+          "type": "place",
+          "preferred_label": "مِشْآلَ",
+          "confidence": 0.8608,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikloth",
+          "type": "person",
+          "preferred_label": "مَقْلوث",
+          "confidence": 0.8601,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikloth.2",
+          "type": "person",
+          "preferred_label": "مَقْلوث",
+          "confidence": 0.8601,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mehir",
+          "type": "person",
+          "preferred_label": "مَحِيرَ",
+          "confidence": 0.8559,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Merari",
+          "type": "person",
+          "preferred_label": "مَرَارِي",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Magbish",
+          "type": "place",
+          "preferred_label": "مَغْبِيشَ",
+          "confidence": 0.8546,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Middin",
+          "type": "place",
+          "preferred_label": "مِدِّين",
+          "confidence": 0.8518,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mallothi",
+          "type": "person",
+          "preferred_label": "مَلوثِي",
+          "confidence": 0.8513,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Macedonia",
+          "type": "place",
+          "preferred_label": "مَكِدونِيٌّ",
+          "confidence": 0.8506,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mephibosheth",
+          "type": "person",
+          "preferred_label": "مَفِيبوشَثَ",
+          "confidence": 0.8478,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mephibosheth.2",
+          "type": "person",
+          "preferred_label": "مَفِيبوشَثَ",
+          "confidence": 0.8478,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahazioth",
+          "type": "person",
+          "preferred_label": "مَحْزِيوث",
+          "confidence": 0.8463,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Madmenah",
+          "type": "place",
+          "preferred_label": "مَدْمِينَة",
+          "confidence": 0.8411,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha",
+          "type": "person",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8404,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha.2",
+          "type": "person",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8404,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mesha",
+          "type": "place",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8404,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattenai",
+          "type": "person",
+          "preferred_label": "مَتَّنَاي",
+          "confidence": 0.8361,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattenai.2",
+          "type": "person",
+          "preferred_label": "مَتَّنَاي",
+          "confidence": 0.8361,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattenai.3",
+          "type": "person",
+          "preferred_label": "مَتَّنَاي",
+          "confidence": 0.8361,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Makkedah",
+          "type": "place",
+          "preferred_label": "مَقِّيدَةَ",
+          "confidence": 0.8342,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahli",
+          "type": "person",
+          "preferred_label": "مَحْلِي",
+          "confidence": 0.8317,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahli.2",
+          "type": "person",
+          "preferred_label": "مَحْلِي",
+          "confidence": 0.8317,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibhar",
+          "type": "person",
+          "preferred_label": "مَبْحَار",
+          "confidence": 0.8315,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8306,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah.2",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8306,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah.3",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8306,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mattithiah.4",
+          "type": "person",
+          "preferred_label": "مَتَّثْيَا",
+          "confidence": 0.8306,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Adummim",
+          "type": "place",
+          "preferred_label": "أَدمِّيمَ",
+          "confidence": 0.8301,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikneiah",
+          "type": "person",
+          "preferred_label": "مَقَنْيَا",
+          "confidence": 0.8293,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shittim",
+          "type": "place",
+          "preferred_label": "شِطِّيمَ",
+          "confidence": 0.829,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Machnadebai",
+          "type": "person",
+          "preferred_label": "مَكْنَدْبَاي",
+          "confidence": 0.8264,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meshobab",
+          "type": "person",
+          "preferred_label": "مَشوبَاب",
+          "confidence": 0.8259,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahseiah",
+          "type": "person",
+          "preferred_label": "مَحْسِيَا",
+          "confidence": 0.8245,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maath",
+          "type": "person",
+          "preferred_label": "مَآثَ",
+          "confidence": 0.8201,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Huri",
+          "type": "person",
+          "preferred_label": "حورِيَ",
+          "confidence": 0.8141,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.2",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.3",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.4",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shema",
+          "type": "place",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matthias",
+          "type": "person",
+          "preferred_label": "مَتِّيَاسَ",
+          "confidence": 0.8119,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jakeh",
+          "type": "person",
+          "preferred_label": "متَّقِيَةِ",
+          "confidence": 0.8072,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meshelemiah",
+          "type": "person",
+          "preferred_label": "مَشَلْمِيَا",
+          "confidence": 0.8065,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mehetabel",
+          "type": "person",
+          "preferred_label": "مَهِيطَبْئِيلَ",
+          "confidence": 0.805,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mehetabel.2",
+          "type": "person",
+          "preferred_label": "مَهِيطَبْئِيلَ",
+          "confidence": 0.805,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.2",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.3",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.4",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.5",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.6",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.7",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maacah.8",
+          "type": "person",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Maacah",
+          "type": "place",
+          "preferred_label": "مَعْكَة",
+          "confidence": 0.804,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Ashtoreth",
+          "type": "deity",
+          "preferred_label": "عَشْتورَثَ",
+          "confidence": 0.8039,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Habakkuk",
+          "type": "person",
+          "preferred_label": "حَبَقّوق",
+          "confidence": 0.8033,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Muppim",
+          "type": "person",
+          "preferred_label": "مفِّيم",
+          "confidence": 0.8032,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Aroer",
+          "type": "place",
+          "preferred_label": "عَروعِيرَ",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Aroer.2",
+          "type": "place",
+          "preferred_label": "عَروعِيرَ",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Aroer.3",
+          "type": "place",
+          "preferred_label": "عَروعِيرَ",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Magdiel",
+          "type": "person",
+          "preferred_label": "مَجْدِيئِيلَ",
+          "confidence": 0.8009,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133871,
+    "content_id": "133871",
     "reference_id": 108069,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مرقس",
     "media_type": "Text",
     "index_reference": "مرقس",
@@ -454,13 +2467,29 @@
     "content": "<p>كاتب إنجيل مرقس، ويُدعى أيضًا يوحنا مرقس. كان بيت أمه مكانًا للصلاة للمسيحيين في أورشليم، وكان تلميذًا لبطرس وابن عم برنابا. سافر مرقس مع بولس وبرنابا في رحلتهم الأولى لكنهما تركا ورحلا مبكرًا. فيما بعد كان مساعدًا لبولس في عمله مرة أخرى.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mordecai",
+          "type": "person",
+          "preferred_label": "مرْدَخَاي",
+          "confidence": 0.8069,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mordecai.2",
+          "type": "person",
+          "preferred_label": "مرْدَخَاي",
+          "confidence": 0.8069,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134196,
+    "content_id": "134196",
     "reference_id": 108394,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مريبة",
     "media_type": "Text",
     "index_reference": "مريبة",
@@ -469,13 +2498,14 @@
     "content": "<p>في اللغة العبرية، تعني كلمة &quot;مريبة&quot; خصام. هناك مكانان يسميان مريبة في الكتاب المقدس. في كلا المكانين تجادل بنو إسرائيل مع الله وموسى لأنهم لم يكن لديهم ماء. كان أحد المكانين يسمى مسة ومريبة. والمكان الآخر كان يسمى مريبة قادش وكان بالقرب من قَادَش بَرْنِيع.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134124,
+    "content_id": "134124",
     "reference_id": 108322,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مَرْيَمَ",
     "media_type": "Text",
     "index_reference": "مَرْيَمَ",
@@ -484,13 +2514,99 @@
     "content": "<p>ابنة عَمْرَامَ ويُوكَابَدُ من سبط لاوي. كان وَمُوسَى وهَارُونَ أخويها. ساعدت موسى في قيادة شعب إسرائيل أثناء الخروج. كانت نبية.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Miriam",
+          "type": "person",
+          "preferred_label": "بِمَرْيَمَ",
+          "confidence": 0.9108,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Miriam.2",
+          "type": "person",
+          "preferred_label": "بِمَرْيَمَ",
+          "confidence": 0.9108,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary",
+          "type": "person",
+          "preferred_label": "مَرْيَم",
+          "confidence": 0.8903,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary.2",
+          "type": "person",
+          "preferred_label": "مَرْيَم",
+          "confidence": 0.8903,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "مَرْيَم",
+          "confidence": 0.8903,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary.4",
+          "type": "person",
+          "preferred_label": "مَرْيَم",
+          "confidence": 0.8903,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary.5",
+          "type": "person",
+          "preferred_label": "مَرْيَم",
+          "confidence": 0.8903,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mary.6",
+          "type": "person",
+          "preferred_label": "مَرْيَم",
+          "confidence": 0.8903,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Marymagdalene",
+          "type": "person",
+          "preferred_label": "مَرْيَم",
+          "confidence": 0.8903,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:MoriahMount",
+          "type": "place",
+          "preferred_label": "ٱلْمرِيَّا",
+          "confidence": 0.8274,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mirmah",
+          "type": "person",
+          "preferred_label": "مِرْمَةَ",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maharai",
+          "type": "person",
+          "preferred_label": "مَهْرَاي",
+          "confidence": 0.8014,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134256,
+    "content_id": "134256",
     "reference_id": 108454,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مريم العذراء (الناصرية)",
     "media_type": "Text",
     "index_reference": "مريم العذراء (الناصرية)",
@@ -499,13 +2615,14 @@
     "content": "<p>شابة من الناصرة كانت تخدم الله بأمانة. كانت قد وعُدت بالزواج من رجل اسمه يوسف الناصري. حبلت على الرغم من أنها لم تكن تعرف رجلًا. قوة الروح القدس جعلت ذلك ممكنًا. كانت الأم البشرية ليسوع المسيح.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133870,
+    "content_id": "133870",
     "reference_id": 108068,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مريم المجدلية",
     "media_type": "Text",
     "index_reference": "مريم المجدلية",
@@ -514,13 +2631,14 @@
     "content": "<p>امرأة كانت من أتباع يسوع المخلصين. يُعتقد أنها كانت من بلدة مجدل في الجليل. وقد أخرج يسوع منها سبعة شياطين.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133885,
+    "content_id": "133885",
     "reference_id": 108083,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مريم، مرثا ولعازر",
     "media_type": "Text",
     "index_reference": "مريم، مرثا ولعازر",
@@ -529,13 +2647,14 @@
     "content": "<p>أختان وأخ كانا صديقين مقربين ليسوع. كانوا يعيشون خارج أورشليم في بيت عنيا. كان يسوع يقيم في بيتهم. بعد دفن لعازر لمدة أربعة أيام، أعاده يسوع إلى الحياة. سكبت مريم طيبًا كثير الثمن على رأس يسوع لإظهار حبها العميق له.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133900,
+    "content_id": "133900",
     "reference_id": 108098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مسيح",
     "media_type": "Text",
     "index_reference": "مسيح",
@@ -559,13 +2678,36 @@
           "label": "المسيّا",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Paseah",
+          "type": "person",
+          "preferred_label": "فَاسِيحَ",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Paseah.2",
+          "type": "person",
+          "preferred_label": "فَاسِيحَ",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Paseah.3",
+          "type": "person",
+          "preferred_label": "فَاسِيحَ",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 134053,
+    "content_id": "134053",
     "reference_id": 108251,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مصر",
     "media_type": "Text",
     "index_reference": "مصر",
@@ -574,13 +2716,14 @@
     "content": "<p>مملكة قوية في شمال أفريقيا. كان بنو إسرائيل عبيداً هناك لسنوات عديدة. تم تحريرهم من العبودية في مصر في سفر الخروج. كان ملوك مصر يسمون الفراعنة. في الكتاب المقدس، كان المصريون يؤذون شعب الله أحيانًا ويساعدونهم أحيانًا أخرى.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134107,
+    "content_id": "134107",
     "reference_id": 108305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "معجزات",
     "media_type": "Text",
     "index_reference": "معجزات",
@@ -589,13 +2732,14 @@
     "content": "<p>الأعمال العظيمة لله. وتسمى هذه أيضًا آيات وعجائب وأمورًا مدهشة وأعمالاً عظيمة. إنها تُظهر أن الله هو الإله الحقيقي. إنها تظهر أن لديه قوة وسلطانًا أكثر من أي شيء موجود. يعطي الله بعض الناس القدرة على صنع المعجزات. إنهم يفعلونها لمساعدة الآخرين على الإيمان بأن الله هو من يقول إنه هو. قام يسوع بأعمال الله العظيمة عندما كان على الأرض. أعطى أتباعه القدرة على صنع الآيات والعجائب أيضًا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133839,
+    "content_id": "133839",
     "reference_id": 108037,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "معمودية",
     "media_type": "Text",
     "index_reference": "معمودية",
@@ -604,13 +2748,14 @@
     "content": "<p>ممارسة بين اليهود. كانت المعمودية علامة خارجية لشيء حدث في داخل الناس. كانوا يدخلون إلى الماء ويتغطون به. ثم يخرجون من الماء. كان الناس يفعلون ذلك لكي يتطهروا وفقًا للشريعة اليهودية. كان الأمم يعمدون لإظهار أنهم قد قبلوا الإيمان اليهودي. كان اليهود يعمدون كعلامة على أنهم أطاعوا الله. وأظهروا أنهم ابتعدوا عن الخطية. يعمد المسيحيون لإظهار أنهم ابتعدوا عن الخطية وآمنوا بيسوع. يظهر أنهم ملتزمون باتباع يسوع وكونهم جزءًا من شعب الله.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134269,
+    "content_id": "134269",
     "reference_id": 108467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مفيبوشث",
     "media_type": "Text",
     "index_reference": "مفيبوشث",
@@ -619,13 +2764,14 @@
     "content": "<p>ابن يوناثان وحفيد شاول. كان من سبط بنيامين. أصيبت قدماه في حادث يوم وفاة يوناثان. عندما أصبح داود ملكًا، عامل مفيبوشيث معاملة حسنة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133927,
+    "content_id": "133927",
     "reference_id": 108125,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مكدونية",
     "media_type": "Text",
     "index_reference": "مكدونية",
@@ -642,13 +2788,14 @@
           "label": "يونان",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134380,
+    "content_id": "134380",
     "reference_id": 108578,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ملاخي",
     "media_type": "Text",
     "index_reference": "ملاخي",
@@ -657,13 +2804,22 @@
     "content": "<p>نبي بعد عودة اليهود إلى أورشليم بعد أن أجبروا على العيش في بابل. وقد سُجلت نبواته في سفر ملاخي.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mallothi",
+          "type": "person",
+          "preferred_label": "مَلوثِي",
+          "confidence": 0.8088,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134115,
+    "content_id": "134115",
     "reference_id": 108313,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ملاك",
     "media_type": "Text",
     "index_reference": "ملاك",
@@ -680,13 +2836,14 @@
           "label": "كائنات روحية",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134230,
+    "content_id": "134230",
     "reference_id": 108428,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ملاك الرب",
     "media_type": "Text",
     "index_reference": "ملاك الرب",
@@ -695,13 +2852,14 @@
     "content": "<p>ملاك يوصف دائمًا باسم الرب في العهد القديم. كان هذا الكائن الروحي يأتي أحيانًا برسالة من الله. وفي أحيان أخرى وصف العهد القديم الملاك بأنه الله نفسه. كان هذا الملاك إحدى الطرق التي عرف الله بها نفسه على الأرض قبل ميلاد يسوع.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134132,
+    "content_id": "134132",
     "reference_id": 108330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ملك",
     "media_type": "Text",
     "index_reference": "ملك",
@@ -710,13 +2868,14 @@
     "content": "<p>هو الحاكم الذي يتمتع بأعلى سلطة بين الشعب أو جماعة معينة من الناس. لقد كان الله هو الملك علي شعب إسرائيل. وكان من المفترض أن يقود الملوك الأرضيون شعب إسرائيل بالطريقة التي قادهم بها الله. وكان ذلك مختلفًا تمامًا عن طريقة حكم الملوك في الشعوب الأخرى . فكان يحب علي ملوك إسرائيل معرفة شريعة الله وطاعتها. كما كان عليهم حث الناس على البقاء أمُناء نحو عهد الله. ومن بين أدوار الملوك في إسرائيل حماية الضعفاء والمحتاجين. كما كان يُفترض بالملوك أن لا يُكثّروا من الزوجات أو يسعوا لجمع الثروات وزيادة الغني. وكان ينبغي أن يكونوا متواضعين. فلا ينبغي أن يعاملوا شعبهم كالعبيد. كذلك لم يكن مفترضًا أن يضعوا ثقتهم في قوة أسلحتهم أو قوة الخيل لتحقيق الإنتصارات في المعارك. في المقابل، كان يجب علي ملوك إسرائيل أن يثقوا في الله ويخدموه وحده.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134363,
+    "content_id": "134363",
     "reference_id": 108561,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ملكوت الله",
     "media_type": "Text",
     "index_reference": "ملكوت الله",
@@ -733,13 +2892,14 @@
           "label": "سماء",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134054,
+    "content_id": "134054",
     "reference_id": 108252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ملكي صادق",
     "media_type": "Text",
     "index_reference": "ملكي صادق",
@@ -748,13 +2908,14 @@
     "content": "<p>كاهن الله الذي كان ملك شاليم. كان شاليم اسمًا لأورشليم في زمن إبراهيم. بارك ملكي صادق إبراهيم بعد أن أنقذ إبراهيم لوطًا. أكرمه إبراهيم بإعطائه عُشر كل ما ربحه في إحدى المعارك.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134162,
+    "content_id": "134162",
     "reference_id": 108360,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ممسوح",
     "media_type": "Text",
     "index_reference": "ممسوح",
@@ -771,13 +2932,239 @@
           "label": "شجرة الزيتون",
           "language": "arb"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Malluch",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8593,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.2",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8593,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.3",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8593,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.4",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8593,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malluch.5",
+          "type": "person",
+          "preferred_label": "مَلّوخ",
+          "confidence": 0.8593,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Methuselah",
+          "type": "person",
+          "preferred_label": "مَتوشَالَحَ",
+          "confidence": 0.8478,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Magbish",
+          "type": "place",
+          "preferred_label": "مَغْبِيشَ",
+          "confidence": 0.8416,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matri",
+          "type": "person",
+          "preferred_label": "مَطْرِي",
+          "confidence": 0.8356,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibzar",
+          "type": "person",
+          "preferred_label": "مِبْصَارَ",
+          "confidence": 0.8327,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahath.2",
+          "type": "person",
+          "preferred_label": "مَحَث",
+          "confidence": 0.8298,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahath.3",
+          "type": "person",
+          "preferred_label": "مَحَث",
+          "confidence": 0.8298,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Muppim",
+          "type": "person",
+          "preferred_label": "مفِّيم",
+          "confidence": 0.8273,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meres",
+          "type": "person",
+          "preferred_label": "مَرَسَ",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "مَرْقسَ",
+          "confidence": 0.824,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mortar",
+          "type": "place",
+          "preferred_label": "مَكْتِيشَ",
+          "confidence": 0.8231,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malchus",
+          "type": "person",
+          "preferred_label": "مَلْخسَ",
+          "confidence": 0.8228,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Matred",
+          "type": "person",
+          "preferred_label": "مَطْرِدَ",
+          "confidence": 0.8228,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meshobab",
+          "type": "person",
+          "preferred_label": "مَشوبَاب",
+          "confidence": 0.8216,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maoch",
+          "type": "person",
+          "preferred_label": "مَعوكَ",
+          "confidence": 0.8208,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mallothi",
+          "type": "person",
+          "preferred_label": "مَلوثِي",
+          "confidence": 0.8185,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8185,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.2",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8185,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.3",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8185,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.4",
+          "type": "person",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8185,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shema",
+          "type": "place",
+          "preferred_label": "شَامِعَ",
+          "confidence": 0.8185,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha",
+          "type": "person",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8177,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha.2",
+          "type": "person",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8177,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mesha",
+          "type": "place",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8177,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahazioth",
+          "type": "person",
+          "preferred_label": "مَحْزِيوث",
+          "confidence": 0.8156,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikloth",
+          "type": "person",
+          "preferred_label": "مَقْلوث",
+          "confidence": 0.8117,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mikloth.2",
+          "type": "person",
+          "preferred_label": "مَقْلوث",
+          "confidence": 0.8117,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malachi",
+          "type": "person",
+          "preferred_label": "مَلَاخِي",
+          "confidence": 0.8011,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 134139,
+    "content_id": "134139",
     "reference_id": 108337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مملكة كهنة",
     "media_type": "Text",
     "index_reference": "مملكة كهنة",
@@ -786,13 +3173,14 @@
     "content": "<p>لقد أراد الله من شعب إسرائيل أن يكونوا مملكة كهنة وأمة مقدسة. كان مُفترضًا أن يكونوا كذلك إذا كانوا أمناء لعهد جبل سيناء. مثل باقي الشعوب الأخرى، كانوا سيصيرون مملكة وأمة. ولكن الله لم يرغب في أن يعيشوا مثل باقي الشعوب الأخرى. بل أرادهم أن يكونوا نوعًا مختلفًا من الممالك والشعوب. فكان كل واحد من شعب إسرائيل سيعرف الله عن قرب ويخدمه. وبهذه الطريقة سيكونون مثل الكهنة. كان من المفترض أن جميعهم يطيعون الله ويعاملون الآخرين بالطريقة التي علمهم الله إياها. وهذا كان سيظهر مدى اختلافهم عن الأمم الأخرى. وبهذه الطريقة سيكونون مُفرزين وقديسين كما أن الله قدوس. وهكذا سيكون شعب إسرائيل أمة مقدسة.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134125,
+    "content_id": "134125",
     "reference_id": 108323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مَنّ",
     "media_type": "Text",
     "index_reference": "مَنّ",
@@ -801,13 +3189,14 @@
     "content": "<p>الخبز من السماء الذي قدمه الله لبني إسرائيل في الصحراء بعد الخروج. كان الله يُرسله لهم ستة أيام في الأسبوع. كان الطعام الذي أكله بنو إسرائيل حتى دخلوا كنعان. كان هناك جرة مليئة بالمنّ محفوظة داخل تابوت العهد. كان هذا تذكيرًا للشعب بكيفية إمداد الله لهم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134101,
+    "content_id": "134101",
     "reference_id": 108299,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مَنَسَّى",
     "media_type": "Text",
     "index_reference": "مَنَسَّى",
@@ -816,13 +3205,57 @@
     "content": "<p>الابن الأكبر ليوسف وأَسْنَات. في اللغة العبرية، يعني منسى &quot;مَنْ ينسى&quot;. تبناه يعقوب كأحد أبنائه. أصبح نسل منسّى سبط من أسباط بني إسرائيل. عاش نصف السبط شرق نهر الأردن، وعاش النصف الآخر غرب نهر الأردن في كنعان.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Manasseh",
+          "type": "group",
+          "preferred_label": "مَنَسَّى",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Manasseh",
+          "type": "person",
+          "preferred_label": "مَنَسَّى",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Manasseh.2",
+          "type": "person",
+          "preferred_label": "مَنَسَّى",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Manasseh.3",
+          "type": "person",
+          "preferred_label": "مَنَسَّى",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Manasseh.4",
+          "type": "person",
+          "preferred_label": "مَنَسَّى",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mnason",
+          "type": "person",
+          "preferred_label": "مَنَاسونَ",
+          "confidence": 0.8268,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134199,
+    "content_id": "134199",
     "reference_id": 108397,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "موآبيين",
     "media_type": "Text",
     "index_reference": "موآبيين",
@@ -831,13 +3264,14 @@
     "content": "<p>مجموعة من الناس الذين عاشوا شرق نهر الأردن. كانوا من نسل لوط. الأرض التي كانوا يعيشون فيها كانت تسمى أيضاً موآب. كانوا يعبدون آلهة كاذبة تدعى بعل وكموش. أحيانًا كان الموآبيون يؤذون شعب الله وأحيانًا أخرى يساعدونهم.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133929,
+    "content_id": "133929",
     "reference_id": 108127,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مواطن روماني",
     "media_type": "Text",
     "index_reference": "مواطن روماني",
@@ -846,13 +3280,14 @@
     "content": "<p>كونك مواطنًا في روما يمنح الناس حقوقًا معينة. فقد كان يحميهم من المعاملة السيئة بطرق معينة. كان على الحكام الرومان اتباع القوانين الرومانية الخاصة بالمواطنين. معظم الناس في الأراضي التي تسيطر عليها الحكومة الرومانية لم يكونوا مواطنين رومانيين. كان كونك مواطنًا رومانيًا أمرًا مميزًا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133958,
+    "content_id": "133958",
     "reference_id": 108156,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مواطني السماء",
     "media_type": "Text",
     "index_reference": "مواطني السماء",
@@ -869,13 +3304,14 @@
           "label": "ملكوت الله",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133951,
+    "content_id": "133951",
     "reference_id": 108149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مواهب الروح القدس",
     "media_type": "Text",
     "index_reference": "مواهب الروح القدس",
@@ -884,13 +3320,14 @@
     "content": "<p>الروح القدس يمنح الناس القدرة على القيام بأشياء معينة على أكمل وجه. هذه المواهب ليست شيئًا ماديًا، إنما هي مواهب روحية. بعض المواهب هي التعليم وخدمة الآخرين وشفاء المرضى. يستخدم أتباع يسوع مواهبهم لتشجيع الكنيسة وتقويتها.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 134102,
+    "content_id": "134102",
     "reference_id": 108300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "موسى",
     "media_type": "Text",
     "index_reference": "موسى",
@@ -907,13 +3344,14 @@
           "label": "شريعة موسي",
           "language": "arb"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 134378,
+    "content_id": "134378",
     "reference_id": 108576,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "مِيخَا",
     "media_type": "Text",
     "index_reference": "مِيخَا",
@@ -922,13 +3360,211 @@
     "content": "<p>نبي من المملكة الجنوبية في عهد يوثام وآحاز وحزقيا. كانت رسائله لمملكة الشمال ومملكة الجنوب. نبواته مسجلة في سفر ميخا.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mica",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mica.2",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mica.3",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.2",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.3",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.4",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.5",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.6",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.3",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.4",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.5",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.6",
+          "type": "person",
+          "preferred_label": "مِيخَا",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:QueenOfSheba",
+          "type": "person",
+          "preferred_label": "مَلِكَة",
+          "confidence": 0.8393,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha",
+          "type": "person",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8375,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha.2",
+          "type": "person",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8375,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mesha",
+          "type": "place",
+          "preferred_label": "مِيشَع",
+          "confidence": 0.8375,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.10",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.11",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.2",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.3",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.4",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.5",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.6",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.7",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.8",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.9",
+          "type": "person",
+          "preferred_label": "مِيخَائِيلَ",
+          "confidence": 0.8178,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Malachi",
+          "type": "person",
+          "preferred_label": "مَلَاخِي",
+          "confidence": 0.8026,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 134367,
+    "content_id": "134367",
     "reference_id": 108565,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "ميخائيل",
     "media_type": "Text",
     "index_reference": "ميخائيل",
@@ -937,7 +3573,8 @@
     "content": "<p>رئيس الملائكة الذين يخدمون الله. أعطاه الله السلطة في العالم السماوي. وصفه دانيال في الإصحاحين 10 و12 ميخائيل بأنه يخدم شعب إسرائيل ويحرسه. في سفر الرؤيا، وصف يوحنا معركة خاضها ميخائيل ضد التنين. وروى يهوذا قصة عن ميخائيل استنادًا إلى كتابة يهودية من عصره.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

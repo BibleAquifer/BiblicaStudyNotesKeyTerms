@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 145624,
+    "content_id": "145624",
     "reference_id": 108115,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Icônio",
     "media_type": "Text",
     "index_reference": "icônio",
@@ -11,13 +11,22 @@
     "content": "<p>Uma cidade no território romano da Galácia na Ásia Menor. Paulo a visitou em três de suas viagens para compartilhar as boas novas sobre Jesus. Pensa-se que a carta de Paulo aos Gálatas foi lida na igreja lá.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Iconium",
+          "type": "place",
+          "preferred_label": "Icônio",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145605,
+    "content_id": "145605",
     "reference_id": 108096,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Igreja",
     "media_type": "Text",
     "index_reference": "igreja",
@@ -26,13 +35,29 @@
     "content": "<p>A comunidade de pessoas que seguem Jesus. A igreja começou com discípulos em Jerusalém que eram da linhagem da família de Abraão. A igreja cresceu para incluir pessoas de qualquer família, lugar e nação. Eles são unidos através da crença em Jesus e na crença de que ele é o Messias. O reino de Deus se espalha na terra quando a igreja segue Jesus fielmente. A igreja também é chamada de corpo de Cristo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "igreja",
+          "confidence": 0.9416,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:GenericChurch",
+          "type": "group",
+          "preferred_label": "The Church",
+          "confidence": 0.9141,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145615,
+    "content_id": "145615",
     "reference_id": 108106,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Imposição de mãos",
     "media_type": "Text",
     "index_reference": "imposição de mãos",
@@ -41,13 +66,14 @@
     "content": "<p>Muitas vezes Jesus curou e abençoou pessoas impondo suas mãos sobre elas. Os crentes seguiram seu exemplo. Impôr as mãos nas pessoas tornou-se uma prática comum por razões específicas. Uma dessas razões incluía orar para que novos crentes recebessem o Espírito Santo. Incluía orar para que os crentes recebessem um dom do Espírito Santo. Incluía curar pessoas e separá-las para servir como líderes. Impôr as mãos em alguém era uma maneira de mostrar o amor e o cuidado de Deus por elas. Nada mágico acontecia ao colocar as mãos em alguém. As bênçãos que vinham eram do Espírito Santo trabalhando através dos crentes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 146086,
+    "content_id": "146086",
     "reference_id": 108577,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Impostos",
     "media_type": "Text",
     "index_reference": "impostos",
@@ -56,13 +82,14 @@
     "content": "<p>Dinheiro que um governo exige que as pessoas paguem. Aqueles que vivem sob a autoridade desse governo precisam pagar esse dinheiro. Os líderes devem usar o dinheiro para cuidar de seu povo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145880,
+    "content_id": "145880",
     "reference_id": 108371,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Incenso",
     "media_type": "Text",
     "index_reference": "incenso",
@@ -71,13 +98,22 @@
     "content": "<p>Algo que é queimado para fazer fumaça que cheira bem. Muitos grupos de pessoas ao longo da história usaram incenso em suas práticas de adoração. Deus deu instruções aos sacerdotes em Israel sobre como queimá-lo. Eles usavam copos rasos para queimá-lo em um altar. Era uma oferta para honrar a Deus. O incenso tinha um cheiro doce e isso lembrava ao povo de Deus que Deus lhes dava coisas boas. A fumaça do incenso também era um sinal de orações sendo feitas a Deus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Incense",
+          "type": "realia",
+          "preferred_label": "Incense",
+          "confidence": 0.8245,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145583,
+    "content_id": "145583",
     "reference_id": 108074,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Inferno",
     "media_type": "Text",
     "index_reference": "inferno",
@@ -86,13 +122,14 @@
     "content": "<p>Um lugar de ruína total para aqueles que se recusam a fazer parte do reino de Deus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145845,
+    "content_id": "145845",
     "reference_id": 108336,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Intermediário",
     "media_type": "Text",
     "index_reference": "intermediário",
@@ -101,13 +138,14 @@
     "content": "<p>Alguém que ajuda pessoas ou grupos a conversarem entre si e chegarem a um acordo. Isso também é chamado de mediador. Moisés fez isso entre o povo de Israel e Deus no Monte Sinai. O povo não podia se aproximar de Deus. Eles tinham medo dele. Estar perto da santidade de Deus os teria prejudicado. Então Moisés disse ao povo o que Deus queria dizer a eles. Depois ele disse a Deus o que o povo queria lhe dizer. Dessa forma, ele ajudou a estabelecer a aliança do Monte Sinai. Mais tarde, Jesus se tornou o mediador entre Deus e todos os seres humanos. Como os seres humanos cometem pecado, eles não conseguem viver em paz com Deus. Jesus é totalmente humano e totalmente Deus. Jesus lidou com o problema do pecado quando morreu na cruz. Assim, os humanos podem agora ser perdoados pelo pecado e viver em paz com Deus. Dessa forma, Jesus é o intermediário da nova aliança.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 146009,
+    "content_id": "146009",
     "reference_id": 108500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ira de Deus",
     "media_type": "Text",
     "index_reference": "ira de deus",
@@ -116,13 +154,14 @@
     "content": "<p>A Bíblia descreve Deus como irado com o pecado e o mal. Ele mostra sua ira trazendo julgamento contra aqueles que se recusam a parar de fazer o mal. Ele traz julgamento contra aqueles que se recusam a se arrepender e se afastar do pecado. Escritores na Bíblia descreveram a ira de Deus como um lagar. Em um lagar, as uvas são esmagadas para fazer vinho. Escritores na Bíblia também descreveram a ira de Deus como uma taça de vinho. Aqueles que se recusavam a parar de pecar e fazer atos maus tinham que bebê-la. Estas eram imagens do julgamento de Deus. Elas eram imagens de como Deus impede aqueles que fazem o mal e os pune. Pessoas que acreditam em Jesus são libertas do poder do pecado e do mal. Por causa disso, elas são salvas da ira de Deus contra o pecado e o mal. Em Apocalipse, a ira de Deus e a ira do Cordeiro são a mesma coisa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 145590,
+    "content_id": "145590",
     "reference_id": 108081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isabel",
     "media_type": "Text",
     "index_reference": "isabel",
@@ -131,13 +170,14 @@
     "content": "<p>A mãe de João Batista. Ela era da tribo de Levi e da linhagem de Aarão. Zacarias era seu marido e Maria de Nazaré era sua parente. Quando Isabel já era muito velha, Deus fez com que ela tivesse um filho. Isabel reconheceu que Maria estava grávida do Messias.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 146006,
+    "content_id": "146006",
     "reference_id": 108497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaías",
     "media_type": "Text",
     "index_reference": "isaías",
@@ -146,13 +186,155 @@
     "content": "<p>Um profeta no reino do sul de Judá durante o tempo de Ezequias e outros reis. No idioma hebraico, seu nome significa o Senhor salvará ou o Senhor é salvação. Histórias sobre ele estão em 2 Reis e 2 Crônicas. Suas profecias estão registradas no livro de Isaías.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaías",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshohaiah",
+          "type": "person",
+          "preferred_label": "Jesoaías",
+          "confidence": 0.8271,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua",
+          "type": "person",
+          "preferred_label": "Jesua",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.2",
+          "type": "person",
+          "preferred_label": "Jesua",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.3",
+          "type": "person",
+          "preferred_label": "Jesua",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.4",
+          "type": "person",
+          "preferred_label": "Jesua",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.5",
+          "type": "person",
+          "preferred_label": "Jesua",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.6",
+          "type": "person",
+          "preferred_label": "Jesua",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.7",
+          "type": "person",
+          "preferred_label": "Jesua",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jeshua",
+          "type": "place",
+          "preferred_label": "Jesua",
+          "confidence": 0.8149,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah",
+          "type": "person",
+          "preferred_label": "Issias",
+          "confidence": 0.8105,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah.2",
+          "type": "person",
+          "preferred_label": "Issias",
+          "confidence": 0.8105,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah.3",
+          "type": "person",
+          "preferred_label": "Issias",
+          "confidence": 0.8105,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshiah.4",
+          "type": "person",
+          "preferred_label": "Issias",
+          "confidence": 0.8105,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Isshijah",
+          "type": "person",
+          "preferred_label": "Issias",
+          "confidence": 0.8105,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.2",
+          "type": "person",
+          "preferred_label": "Jesaías",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.3",
+          "type": "person",
+          "preferred_label": "Jesaías",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.4",
+          "type": "person",
+          "preferred_label": "Jesaías",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.5",
+          "type": "person",
+          "preferred_label": "Jesaías",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshaiah.6",
+          "type": "person",
+          "preferred_label": "Jesaías",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145770,
+    "content_id": "145770",
     "reference_id": 108261,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaque",
     "media_type": "Text",
     "index_reference": "isaque",
@@ -161,13 +343,22 @@
     "content": "<p>O filho que Deus prometeu a Abraão que ele teria com sua esposa Sara. Isaque se casou com Rebeca e foi o pai de Jacó e Esaú. No idioma hebraico, Isaque significa &quot;ele ri&quot;. Deus continuou sua aliança com Abraão através de Isaque.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaac",
+          "type": "person",
+          "preferred_label": "Isaque",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145771,
+    "content_id": "145771",
     "reference_id": 108262,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ismael",
     "media_type": "Text",
     "index_reference": "ismael",
@@ -176,13 +367,57 @@
     "content": "<p>O filho que Abraão teve com a escrava de Sara, Agar. Ismael não era o filho que Deus havia prometido dar a Abraão. Mas Deus cuidou de Ismael e ele também se tornou o pai de 12 tribos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ishmael",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.2",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.3",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.4",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.5",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishmael.6",
+          "type": "person",
+          "preferred_label": "Ismael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 145789,
+    "content_id": "145789",
     "reference_id": 108280,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Israel",
     "media_type": "Text",
     "index_reference": "israel",
@@ -198,6 +433,29 @@
           "resource_code": "BiblicaStudyNotesKeyTerms",
           "label": "Aliança do Monte Sinai",
           "language": "por"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Israel",
+          "type": "person",
+          "preferred_label": "Israel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Israel",
+          "type": "place",
+          "preferred_label": "Israel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Israel",
+          "type": "group",
+          "preferred_label": "Israelites",
+          "confidence": 0.8467,
+          "match_method": "embedding"
         }
       ]
     }

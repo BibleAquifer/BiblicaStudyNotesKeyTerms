@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 775286,
+    "content_id": "775286",
     "reference_id": 108563,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gabriël",
     "media_type": "Text",
     "index_reference": "gabriël",
@@ -11,13 +11,22 @@
     "content": "<p>Een engel die belangrijke boodschappen overbracht aan Zacharias, Maria en Jozef in het Nieuwe Testament. Hij gaf ook belangrijke boodschappen door aan Daniël in het Oude Testament.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Gabriel",
+          "type": "deity",
+          "preferred_label": "Gabriel",
+          "confidence": 0.8953,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775287,
+    "content_id": "775287",
     "reference_id": 108408,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gad",
     "media_type": "Text",
     "index_reference": "gad",
@@ -26,13 +35,43 @@
     "content": "<p>Gad was de oudste zoon van Jakob en Zilpa. In het Hebreeuws betekent Gad &quot;goed fortuin&quot; of &quot;groep soldaten&quot;. Zijn nakomelingen vormden een stam van Israël.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "Gad",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gad.2",
+          "type": "person",
+          "preferred_label": "Gad",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gadi",
+          "type": "person",
+          "preferred_label": "Gadi",
+          "confidence": 0.8583,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gaddi",
+          "type": "person",
+          "preferred_label": "Gaddi",
+          "confidence": 0.813,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775288,
+    "content_id": "775288",
     "reference_id": 108122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Galatië",
     "media_type": "Text",
     "index_reference": "galatië",
@@ -41,13 +80,29 @@
     "content": "<p>Een gebied binnen het Romeinse territorium van Klein-Azië, gelegen in het huidige Turkije. Paulus bezocht verschillende steden in Galatië en hielp daar bij het stichten van diverse kerken. Zijn brief, genaamd Galaten, was gericht aan deze kerken.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galatia",
+          "type": "place",
+          "preferred_label": "Galatia",
+          "confidence": 0.9825,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Galatia",
+          "type": "group",
+          "preferred_label": "Galatians",
+          "confidence": 0.8652,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775289,
+    "content_id": "775289",
     "reference_id": 108036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Galilea",
     "media_type": "Text",
     "index_reference": "galilea",
@@ -56,13 +111,36 @@
     "content": "<p>Het noordelijke gebied van het land dat God aan het nageslacht van Abraham had beloofd. Het omvatte land dat deel uitmaakte van het noordelijke koninkrijk van Israël. In de tijd van Jezus werd het geregeerd door Herodes Antipas. Jezus groeide op in Galilea. Het Meer van Galilea was een groot meer in dat gebied. De rivier de Jordaan stroomt er zuidwaarts vandaan. Veel verhalen uit het leven van Jezus speelden zich af in Galilea en rond het Meer van Galilea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Galilee",
+          "confidence": 0.9423,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Galilee",
+          "type": "group",
+          "preferred_label": "Galileans",
+          "confidence": 0.828,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:GalileeSea",
+          "type": "place",
+          "preferred_label": "Sea of Galilee",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775290,
+    "content_id": "775290",
     "reference_id": 108099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gamaliël",
     "media_type": "Text",
     "index_reference": "gamaliël",
@@ -71,13 +149,29 @@
     "content": "<p>Een Farizeeër en rabbi die een wijze en gerespecteerde lid van het Sanhedrin was. De apostel Paulus bestudeerde de Joodse wet bij Gamaliël voordat hij Jezus ging volgen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gamaliel",
+          "type": "person",
+          "preferred_label": "Gamaliel",
+          "confidence": 0.966,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gamaliel.2",
+          "type": "person",
+          "preferred_label": "Gamaliel",
+          "confidence": 0.966,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775295,
+    "content_id": "775295",
     "reference_id": 108149,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gaven van de Geest",
     "media_type": "Text",
     "index_reference": "gaven van de geest",
@@ -86,13 +180,14 @@
     "content": "<p>De Heilige Geest geeft mensen het vermogen om bepaalde dingen goed te doen. Deze gaven zijn niet tastbaar, maar geestelijk van aard. Enkele van deze gaven zijn onderwijzen, zorgen voor anderen en zieken genezen. Volgelingen van Jezus gebruiken hun gaven om de kerk te bemoedigen en te versterken.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775206,
+    "content_id": "775206",
     "reference_id": 108232,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Geloof",
     "media_type": "Text",
     "index_reference": "geloof",
@@ -101,13 +196,14 @@
     "content": "<p>In de Bijbel heeft geloof verschillende betekenissen. De eerste betekenis betreft de overtuigingen die mensen over God hebben. God wil dat iedereen gelooft in de waarheid over Hem. Dit zijn de dingen die God over zichzelf heeft geopenbaard en de manieren waarop Hij heeft gehandeld. In het Nieuwe Testament omvatten deze zaken de boodschap van het goede nieuws over Jezus. De tweede betekenis van geloof is het vertrouwen zelf dat mensen in God hebben. Dit vertrouwen is gebaseerd op hun hoop dat God zijn beloften zal vervullen. De mate van iemands geloof toont aan hoeveel vertrouwen ze in God hebben. Hun geloof groeit naarmate ze God beter leren kennen. De derde betekenis van geloof betreft de manier waarop mensen leven op basis van hun overtuigingen. Gods volk moet de wegen van God voor het leven volgen. Jezus toonde de mensen hoe ze dit moesten doen. Geloof in Jezus houdt in dat men zijn voorbeeld voor het leven volgt.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769206,
+    "content_id": "769206",
     "reference_id": 108255,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Geloven",
     "media_type": "Text",
     "index_reference": "geloven",
@@ -116,13 +212,29 @@
     "content": "<p>In het Oude Testament liet God zien dat Hij wilde dat mensen in Hem geloofden. Dit hield in dat ze erop vertrouwden dat God is wie Hij zegt dat Hij is en dat Hij zal doen wat Hij beloofd heeft. Dit leidde tot gehoorzaamheid aan God en het aanbidden van alleen Hem. Geloven in God was de manier waarop mensen rechtvaardig werden voor God. In het Nieuwe Testament liet God zien dat Hij ook wilde dat mensen in Jezus geloofden. Dit hield in dat ze erop vertrouwden dat Jezus is wie Hij zegt dat Hij is en dat Hij zal doen wat Hij beloofd heeft. Iedereen die in Jezus gelooft, wordt gered van de macht van zonde, dood en kwaad. Jezus geeft hen eeuwig leven. Mensen die in Hem geloven, gehoorzamen Hem en volgen zijn levenswijze. (<span data-bnType=\"resourceReference\" data-resourceId=\"108196\" data-resourceType=\"BiblicaStudyNotesKeyTerms\">Redding</span>)</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "Believe",
+          "confidence": 0.8856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:BelieveIn",
+          "type": "keyterm",
+          "preferred_label": "Believe In",
+          "confidence": 0.8267,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769207,
+    "content_id": "769207",
     "reference_id": 108077,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gelovige",
     "media_type": "Text",
     "index_reference": "gelovige",
@@ -131,13 +243,29 @@
     "content": "<p>Iemand die in Jezus Christus gelooft en Hem volgt, wordt in het Nieuwe Testament ook een christen genoemd. Zij geloven dat Jezus van Nazareth de Zoon van God is en dat Hij uit de dood is opgestaan. Gelovigen aanbidden Jezus als God en dienen Hem als Messias en Koning. In Antiochië in Syrië werden gelovigen voor het eerst christenen genoemd. Ze worden naar Christus genoemd omdat ze zijn levenswijze volgen. Gelovigen blijven deel uitmaken van hun gemeenschap en bevolkingsgroep terwijl ze Jezus volgen. Ze blijven de wetten en gebruiken van hun bevolkingsgroep volgen, tenzij deze in strijd zijn met wat Jezus leerde. Dit geldt zowel voor Joodse als voor heidense gelovigen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:GenericBelievers",
+          "type": "group",
+          "preferred_label": "Believers",
+          "confidence": 0.8441,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Believe",
+          "type": "keyterm",
+          "preferred_label": "Believe",
+          "confidence": 0.8319,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775313,
+    "content_id": "775313",
     "reference_id": 108235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Genade",
     "media_type": "Text",
     "index_reference": "genade",
@@ -146,13 +274,14 @@
     "content": "<p>Gods diepe liefde voor zijn schepselen en zijn verlangen om goed voor hen te zorgen. Hij biedt zijn liefde aan omdat Hij het beste wil voor alles wat Hij heeft geschapen. Gods liefde en genade zijn niet verdiend; God schenkt ze vrijelijk.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775292,
+    "content_id": "775292",
     "reference_id": 108547,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gentile",
     "media_type": "Text",
     "index_reference": "gentile",
@@ -169,13 +298,22 @@
           "label": "Wet van Mozes",
           "language": "nld"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "Gentiles",
+          "confidence": 0.9002,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 775293,
+    "content_id": "775293",
     "reference_id": 108082,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gerasenen",
     "media_type": "Text",
     "index_reference": "gerasenen",
@@ -184,13 +322,14 @@
     "content": "<p>Een gemeenschap die aan de oostelijke oever van het Meer van Galilea woonde, wilde niet dat Jezus wonderen in hun stad verrichtte. Markus en Lucas noemden deze gemeenschap de Gerasenen, terwijl Matteüs hen de Gadarenen noemde.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775209,
+    "content_id": "775209",
     "reference_id": 108220,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Geslachtslijn",
     "media_type": "Text",
     "index_reference": "geslachtslijn",
@@ -199,13 +338,14 @@
     "content": "<p>Een lijst van opvolgende mensen binnen een familie was erg belangrijk in de tijden en plaatsen van de Bijbel. Deze lijsten, ook wel genealogieën genoemd, omvatten bepaalde familieleden, maar niet iedereen. Meestal bevatten ze alleen mannen. Het woord &apos;zoon&apos; werd gebruikt om te verwijzen naar zonen, kleinzonen of achterkleinzonen. Soms bevatten de lijsten extra informatie of verhalen over specifieke personen. Oudere generaties vertelden de namen en verhalen aan jongere generaties, zodat iedereen de geslachtslijn leerde kennen. Veel van deze familielijnen zijn vastgelegd in de Bijbel. Ze gaven aan van welke stam een Israëliet of Jood afkomstig was en of iemand priester kon zijn of uit een koninklijke familie kwam.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775294,
+    "content_id": "775294",
     "reference_id": 108437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gideon",
     "media_type": "Text",
     "index_reference": "gideon",
@@ -214,13 +354,29 @@
     "content": "<p>Gideon was een van de twaalf rechters van Israël. Hij kwam uit de stam van Manasse en zijn vader was Joas. Gideon had veel vrouwen en zonen. God gebruikte Gideon om Israël te bevrijden van de onderdrukking door de Midianieten. Hij werd ook Jerub-Baäl genoemd, wat in het Hebreeuws betekent: &quot;Laat Baäl vechten.&quot;</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "Gideon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gideoni",
+          "type": "person",
+          "preferred_label": "Gideoni",
+          "confidence": 0.9073,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775296,
+    "content_id": "775296",
     "reference_id": 108441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gilead",
     "media_type": "Text",
     "index_reference": "gilead",
@@ -229,13 +385,50 @@
     "content": "<p>Het heuvelachtige land ten oosten van de rivier de Jordaan maakte deels deel uit van het koninkrijk van Sihon en deels van het koninkrijk van Og, voordat de Israëlieten de veldslagen tegen hen wonnen. Het gebied werd genoemd naar Gilead, die uit de familielijn van Manasse stamde. Het had vruchtbare grond en was geschikt voor veeteelt. Hoewel het geen deel uitmaakte van het land dat God aan het nageslacht van Abraham had beloofd, stond God toe dat sommige stammen daar woonden. Dit waren de stammen van Ruben en Gad, en de helft van de stam van Manasse.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gilead",
+          "type": "person",
+          "preferred_label": "Gilead",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilead.2",
+          "type": "person",
+          "preferred_label": "Gilead",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilead.3",
+          "type": "person",
+          "preferred_label": "Gilead",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilead",
+          "type": "place",
+          "preferred_label": "Gilead",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Gilead",
+          "type": "group",
+          "preferred_label": "Gileadites",
+          "confidence": 0.8812,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775297,
+    "content_id": "775297",
     "reference_id": 108422,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gilgal",
     "media_type": "Text",
     "index_reference": "gilgal",
@@ -244,13 +437,36 @@
     "content": "<p>Een Kanaänitische stad ten westen van de rivier de Jordaan, nabij Jericho. Het werd een belangrijke locatie voor Israëlische leiders, koningen en profeten. De stenen die uit de rivier de Jordaan waren verzameld, werden daar neergelegd. Dit herinnerde de Israëlieten eraan hoe God hen naar Kanaän had geleid.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Gilgal.2",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilgal.3",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilgal.4",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775298,
+    "content_id": "775298",
     "reference_id": 108348,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Glorie",
     "media_type": "Text",
     "index_reference": "glorie",
@@ -259,13 +475,14 @@
     "content": "<p>De prachtige schoonheid, majesteit, goedheid en aanwezigheid van God. Het beschrijft wie God is en hoe puur en heilig Hij is. Alleen de Schepper bezit deze glorie. Hij kiest ervoor om deze glorie te delen met degenen die Hij heeft geschapen. Geschapen wezens tonen Gods glorie wanneer zij Zijn plannen voor de schepping uitvoeren.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775300,
+    "content_id": "775300",
     "reference_id": 108199,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God",
     "media_type": "Text",
     "index_reference": "god",
@@ -289,13 +506,22 @@
           "label": "Heer - Heerser",
           "language": "nld"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Divine",
+          "type": "keyterm",
+          "preferred_label": "Divine",
+          "confidence": 0.8249,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 775301,
+    "content_id": "775301",
     "reference_id": 108229,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "God verkiest",
     "media_type": "Text",
     "index_reference": "god verkiest",
@@ -304,13 +530,14 @@
     "content": "<p>God heeft de vrijheid om te doen wat Hij wil. De verhalen in de Bijbel beschrijven enkele keuzes die God maakte, zoals het sluiten van een verbond met Abraham en zijn nageslacht. Hoewel de verhalen niet volledig uitleggen waarom God deze keuzes maakte, maken ze wel duidelijk dat God goed en betrouwbaar is. Hij maakt keuzes op basis van zijn kennis en liefde. Mensen begrijpen niet alle keuzes van God, maar ze kunnen erop vertrouwen dat God liefdevol, wijs en goed is.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775303,
+    "content_id": "775303",
     "reference_id": 108045,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gods familie",
     "media_type": "Text",
     "index_reference": "gods familie",
@@ -319,13 +546,14 @@
     "content": "<p>De relatie die God met alle mensen wil, verschilt van menselijke families. Gods familie is anders dan menselijke families. In de tijden en plaatsen van de Bijbel werden families meestal geleid door oudere mannen. Families omvatten oudere vrouwen, jongere mannen en vrouwen, en kinderen. Slaven maakten ook deel uit van het huishouden. De mannen hadden autoriteit over vrouwen en kinderen, en slaveneigenaren hadden autoriteit over slaven. Dit systeem vormde de basis van de naties en bevolkingsgroepen van die tijd. De evangeliën, de brieven van Paulus en de brieven van Petrus leggen uit hoe Gods familie is. Mensen die Jezus volgen, behoren allemaal tot de familie van God. God adopteert hen als zijn kinderen. Elk familielid wordt door God geliefd en geaccepteerd, en daarom moeten ze elkaar met respect en liefde behandelen. Sommige gelovigen hebben autoriteit over anderen. Zij moeten deze gebruiken om anderen te zegenen en te dienen. Andere gelovigen hebben geen autoriteit over anderen. Zij moeten alles wat ze doen, doen alsof ze Jezus dienen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775304,
+    "content_id": "775304",
     "reference_id": 108302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gods volk",
     "media_type": "Text",
     "index_reference": "gods volk",
@@ -342,13 +570,14 @@
           "label": "Israël",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 775306,
+    "content_id": "775306",
     "reference_id": 108415,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gods werktuig",
     "media_type": "Text",
     "index_reference": "gods werktuig",
@@ -357,13 +586,14 @@
     "content": "<p>In de hele Bijbel gebruikt God mensen, groepen en naties als zijn instrument om oordeel te vellen. Door hen spreekt Hij oordeel uit over mensen, groepen of naties die slechte dingen doen. Dit is een manier waarop Hij het kwaad stopt en de vrede herstelt. God bepaalt wanneer en hoe Hij oordeel velt. Degenen die God als instrument gebruikt, zijn niet beter dan degenen die worden geoordeeld. Elke persoon, groep en natie is verantwoordelijk voor het dienen en gehoorzamen van God. Ze zullen allemaal worden beoordeeld op de slechte dingen die ze doen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775302,
+    "content_id": "775302",
     "reference_id": 108500,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gods woede",
     "media_type": "Text",
     "index_reference": "gods woede",
@@ -372,13 +602,14 @@
     "content": "<p>De Bijbel beschrijft God als boos op zonde en kwaad. Hij toont zijn woede door oordeel te vellen over degenen die weigeren te stoppen met kwaad doen. Hij oordeelt over degenen die zich niet willen bekeren en zich niet willen afkeren van zonde. Schrijvers in de Bijbel vergeleken Gods woede met een wijnpers, waarin druiven worden geperst om wijn te maken. Ze beschreven Gods woede ook als een beker wijn die degenen die bleven zondigen en slechte daden verrichten, moesten drinken. Dit waren symbolen van Gods oordeel, het illustreert hoe God degenen die kwaad doen stopt en straft. Mensen die in Jezus geloven, worden bevrijd van de macht van zonde en kwaad, en daardoor gered van Gods woede tegen zonde en kwaad. In Openbaring zijn Gods woede en de woede van het Lam hetzelfde.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775309,
+    "content_id": "775309",
     "reference_id": 108043,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Goed nieuws",
     "media_type": "Text",
     "index_reference": "goed nieuws",
@@ -395,13 +626,22 @@
           "label": "Evangelie",
           "language": "nld"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:GoodNews",
+          "type": "keyterm",
+          "preferred_label": "Good News",
+          "confidence": 0.9294,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 775310,
+    "content_id": "775310",
     "reference_id": 108060,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Goede werken",
     "media_type": "Text",
     "index_reference": "goede werken",
@@ -410,13 +650,14 @@
     "content": "<p>Dingen die mensen doen die God behagen. Gelovigen verrichten geen goede werken om Gods liefde en genade te verdienen; ze doen dit vanwege Gods liefde en genade in hun leven. De Heilige Geest geeft gelovigen de kracht om goede werken te verrichten. Wanneer mensen Jezus&apos; voorbeeld in denken, spreken en handelen volgen, verrichten ze goede werken. Goede werken omvatten het zorgen voor Gods schepping en het dienen van anderen. Goede werken brengen zegeningen voor anderen en eer aan God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775311,
+    "content_id": "775311",
     "reference_id": 108297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Goshen",
     "media_type": "Text",
     "index_reference": "goshen",
@@ -425,13 +666,29 @@
     "content": "<p>Het gebied in Egypte waar de familie van Jakob woonde en werkte als herders, wordt verondersteld in het noordoosten van Egypte te liggen, nabij Kanaän en de rivier de Nijl.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Goshen",
+          "type": "place",
+          "preferred_label": "Goshen",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Goshen.2",
+          "type": "place",
+          "preferred_label": "Goshen",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775308,
+    "content_id": "775308",
     "reference_id": 108182,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gouden altaar",
     "media_type": "Text",
     "index_reference": "gouden altaar",
@@ -448,13 +705,14 @@
           "label": "Altaar",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 775314,
+    "content_id": "775314",
     "reference_id": 108351,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Graanoffers",
     "media_type": "Text",
     "index_reference": "graanoffers",
@@ -463,13 +721,14 @@
     "content": "<p>Offers van brood en meel werden door mensen gekozen om te maken. Ze werden aangeboden samen met olie, wierook, zout en soms wijn. De priesters aten een deel van de graanoffers, terwijl de rest werd verbrand.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775315,
+    "content_id": "775315",
     "reference_id": 108194,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Griekenland",
     "media_type": "Text",
     "index_reference": "griekenland",
@@ -478,13 +737,22 @@
     "content": "<p>Een koninkrijk dat zeer machtig was in de periode tussen het Oude en Nieuwe Testament. Griekse heersers hadden de controle over Israël en Jeruzalem gedurende een bepaalde tijd. Daarna namen Romeinse legers de controle over de gebieden die door de Grieken werden geregeerd. Toch bleef de Griekse manier van denken en handelen bestaan, zelfs tijdens de Romeinse heerschappij. De Griekse taal werd gesproken door mensen in de gebieden rondom de Middellandse Zee. Het Nieuwe Testament werd in het Grieks geschreven.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Greece",
+          "type": "place",
+          "preferred_label": "Greece",
+          "confidence": 0.9719,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 775316,
+    "content_id": "775316",
     "reference_id": 108185,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Groep van zeven",
     "media_type": "Text",
     "index_reference": "groep van zeven",
@@ -493,13 +761,14 @@
     "content": "<p>In de visioenen van Johannes zag hij dat Gods oordeel plaatsvond in groepen van zeven. Er waren zeven zegels, zeven trompetten en zeven schalen. Aan het einde van elke groep waren er bliksem, donder en een aardbeving. In de Bijbel staat het getal zeven voor compleetheid.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769752,
+    "content_id": "769752",
     "reference_id": 108366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Grote Verzoendag",
     "media_type": "Text",
     "index_reference": "grote verzoendag",
@@ -516,7 +785,8 @@
           "label": "Verzoenen",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 368054,
+    "content_id": "368054",
     "reference_id": 108563,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gabrieli",
     "media_type": "Text",
     "index_reference": "gabrieli",
@@ -11,13 +11,22 @@
     "content": "<p>Malaika ndiye aliyewaletea Zakaria, Maria, na Yosefu ujumbe muhimu katika Agano Jipya. Pia, alimletea Danieli ujumbe muhimu katika Agano la Kale.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Gabriel",
+          "type": "deity",
+          "preferred_label": "Gabrieli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367899,
+    "content_id": "367899",
     "reference_id": 108408,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gadi",
     "media_type": "Text",
     "index_reference": "gadi",
@@ -26,13 +35,43 @@
     "content": "<p>Mwana mkubwa wa Yakobo na Zilpa. Jina Gadi, katika lugha ya Kiebrania, linamaanisha bahati njema au kundi la wanajeshi. Ukoo wake ukawa kabila la Israeli.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gad",
+          "type": "person",
+          "preferred_label": "Gadi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gad.2",
+          "type": "person",
+          "preferred_label": "Gadi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gaddi",
+          "type": "person",
+          "preferred_label": "Gadi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gadi",
+          "type": "person",
+          "preferred_label": "Gadi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367613,
+    "content_id": "367613",
     "reference_id": 108122,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Galatia",
     "media_type": "Text",
     "index_reference": "galatia",
@@ -41,13 +80,29 @@
     "content": "<p>Eneo lililokuwa sehemu ya Kirumi katika Asia Ndogo ambayo sasa inaitwa Uturuki. Paulo alitembelea miji kadhaa huko Galatia na kusaidia kuanzisha makanisa mengi. Barua yake iitwayo Wagalatia ilikuwa kwa makanisa hayo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galatia",
+          "type": "place",
+          "preferred_label": "Galatia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Galatia",
+          "type": "group",
+          "preferred_label": "Galatians",
+          "confidence": 0.892,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367527,
+    "content_id": "367527",
     "reference_id": 108036,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Galilaya",
     "media_type": "Text",
     "index_reference": "galilaya",
@@ -56,13 +111,43 @@
     "content": "<p>Eneo la kaskazini mwa ardhi ambayo Mungu alikuwa ameahidi kumpa ukoo wa Abrahamu. Ilijumuisha sehemu ya ufalme wa kaskazini wa Israeli. Ilitawaliwa na Herode Antipa katika wakati wa Yesu. Yesu alikulia Galilaya. Bahari ya Galilaya ilikuwa ziwa maarufu katika eneo hilo. Mto Yordani unatiririka kuelekea kusini kutoka humo. Hadithi nyingi kutoka maisha ya Yesu zilitokea Galilaya na karibu na Bahari ya Galilaya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Galilee",
+          "type": "place",
+          "preferred_label": "Galilaya",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Galal",
+          "type": "person",
+          "preferred_label": "Galali",
+          "confidence": 0.8239,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Galal.2",
+          "type": "person",
+          "preferred_label": "Galali",
+          "confidence": 0.8239,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilalai",
+          "type": "person",
+          "preferred_label": "Gilalai",
+          "confidence": 0.8237,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367590,
+    "content_id": "367590",
     "reference_id": 108099,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gamalieli",
     "media_type": "Text",
     "index_reference": "gamalieli",
@@ -71,13 +156,64 @@
     "content": "<p>Mfarisayo na Rabi ambaye alikuwa mwanachama mwenye hekima na kuheshimiwa wa Sanhedrini. Mtume Paulo alisoma sheria ya Kiyahudi na Gamalieli kabla ya kumfuata Yesu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gamaliel",
+          "type": "person",
+          "preferred_label": "Gamalieli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gamaliel.2",
+          "type": "person",
+          "preferred_label": "Gamalieli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gemalli",
+          "type": "person",
+          "preferred_label": "Gemali",
+          "confidence": 0.8206,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gamul",
+          "type": "person",
+          "preferred_label": "Gamuli",
+          "confidence": 0.8154,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilalai",
+          "type": "person",
+          "preferred_label": "Gilalai",
+          "confidence": 0.807,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Galal",
+          "type": "person",
+          "preferred_label": "Galali",
+          "confidence": 0.8019,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Galal.2",
+          "type": "person",
+          "preferred_label": "Galali",
+          "confidence": 0.8019,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367928,
+    "content_id": "367928",
     "reference_id": 108437,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gideoni",
     "media_type": "Text",
     "index_reference": "gideoni",
@@ -86,13 +222,29 @@
     "content": "<p>Mmoja wa majaji 12 wa Israeli. Alikuwa kutoka kabila la Manase, na baba yake alikuwa Yoashi. Gideoni alikuwa na wake wengi na wana. Mungu alimtumia Gideoni kuikomboa Israeli kutoka kwa unyanyasaji wa Wamidiani na pia aliitwa Yerubaali. Katika lugha ya Kiebrania, jina hili linamaanisha acheni Baali apigane.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gideon",
+          "type": "person",
+          "preferred_label": "Gideoni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gideoni",
+          "type": "person",
+          "preferred_label": "Gideoni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367932,
+    "content_id": "367932",
     "reference_id": 108441,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gileadi",
     "media_type": "Text",
     "index_reference": "gileadi",
@@ -101,13 +253,57 @@
     "content": "<p>Mlima mashariki mwa Mto Yordani. Sehemu yake ilikuwa ya ufalme wa Sihoni na ilikuwa ya ufalme wa Ogu. Hiyo ilikuwa kabla ya Waisraeli kushinda vita dhidi ya Sihoni na Ogu. Iliitwa jina la Gileadi ambaye alikuwa kutoka ukoo wa Manase. Ilikuwa na udongo wenye rutuba na ilikuwa nzuri kwa kufuga mifugo. Haikuwa sehemu ya nchi ambayo Mungu alikuwa ameahidi kutoa kwa ukoo wa Abrahamu. Lakini Mungu aliruhusu baadhi ya makabila kuishi huko. Haya yalikuwa makabila ya Reubeni na Gadi na nusu ya kabila la Manase.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Gilead",
+          "type": "person",
+          "preferred_label": "Gileadi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilead.2",
+          "type": "person",
+          "preferred_label": "Gileadi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilead.3",
+          "type": "person",
+          "preferred_label": "Gileadi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:GilboaMount",
+          "type": "place",
+          "preferred_label": "Gileadi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilead",
+          "type": "place",
+          "preferred_label": "Gileadi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Gilead",
+          "type": "group",
+          "preferred_label": "Gileadites",
+          "confidence": 0.9182,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367913,
+    "content_id": "367913",
     "reference_id": 108422,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gilgali",
     "media_type": "Text",
     "index_reference": "gilgali",
@@ -116,13 +312,43 @@
     "content": "<p>Mji wa Kanaani magharibi mwa Mto Yordani karibu na Yeriko, ukawa mahali muhimu kwa viongozi wa Israeli, wafalme na manabii. Mawe yaliyokusanywa kutoka Mto Yordani yaliwekwa hapo. Hii iliwaonyesha Waisraeli jinsi Mungu alivyowaongoza kuingia Kanaani.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Gilgal.2",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.9025,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilgal.3",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.9025,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gilgal.4",
+          "type": "place",
+          "preferred_label": "Gilgal",
+          "confidence": 0.9025,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gilalai",
+          "type": "person",
+          "preferred_label": "Gilalai",
+          "confidence": 0.8086,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367530,
+    "content_id": "367530",
     "reference_id": 108039,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Giza",
     "media_type": "Text",
     "index_reference": "giza",
@@ -139,13 +365,22 @@
           "label": "Pepo wachafu",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Gaza",
+          "type": "place",
+          "preferred_label": "Gaza",
+          "confidence": 0.8076,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 367788,
+    "content_id": "367788",
     "reference_id": 108297,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Gosheni",
     "media_type": "Text",
     "index_reference": "gosheni",
@@ -154,7 +389,23 @@
     "content": "<p>Eneo la Misri ambapo familia ya Yakobo iliishi na kufanya kazi kama wachungaji. Inadhaniwa kuwa iko kaskazini-mashariki mwa Misri karibu na Kanaani na Mto Nile.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Goshen",
+          "type": "place",
+          "preferred_label": "Gosheni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Goshen.2",
+          "type": "place",
+          "preferred_label": "Gosheni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

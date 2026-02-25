@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 233111,
+    "content_id": "233111",
     "reference_id": 108510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "哈該",
     "media_type": "Text",
     "index_reference": "哈該",
@@ -11,13 +11,43 @@
     "content": "<p>猶大的一位先知，在波斯掌權的時期。他鼓勵約書亞和所羅巴伯重建聖殿。他的預言記錄在哈該書中。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hadad",
+          "type": "person",
+          "preferred_label": "Hadad",
+          "confidence": 0.8157,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad.2",
+          "type": "person",
+          "preferred_label": "Hadad",
+          "confidence": 0.8157,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad.3",
+          "type": "person",
+          "preferred_label": "Hadad",
+          "confidence": 0.8157,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hadad.4",
+          "type": "person",
+          "preferred_label": "Hadad",
+          "confidence": 0.8157,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 233122,
+    "content_id": "233122",
     "reference_id": 108521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "哈曼",
     "media_type": "Text",
     "index_reference": "哈曼",
@@ -26,13 +56,22 @@
     "content": "<p>在亞哈隨魯（又名「薛西〔Xerxes〕」）時期波斯政府中的一位領袖。他是亞瑪力人亞甲的後裔。這意味著哈曼來自一個曾經惡待以色列人的群體。哈曼計劃滅絕波斯王國中所有的猶太人。亞哈隨魯處死了他。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haman",
+          "type": "person",
+          "preferred_label": "Haman",
+          "confidence": 0.8746,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 233051,
+    "content_id": "233051",
     "reference_id": 108450,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "哈拿",
     "media_type": "Text",
     "index_reference": "哈拿",
@@ -41,7 +80,86 @@
     "content": "<p>先知撒母耳的母親。以利加拿是她的丈夫。她長期以來無法生育。後來神讓她懷孕。她滿懷感恩，以一篇美麗的禱文禱告，講述神看顧祂的子民。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hanan",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8626,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.2",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8626,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.3",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8626,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.4",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8626,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.5",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8626,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.6",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8626,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.7",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8626,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.8",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8626,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hanan.9",
+          "type": "person",
+          "preferred_label": "Hanan",
+          "confidence": 0.8626,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hannah",
+          "type": "person",
+          "preferred_label": "Hannah",
+          "confidence": 0.8541,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hena",
+          "type": "place",
+          "preferred_label": "Hena",
+          "confidence": 0.8055,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

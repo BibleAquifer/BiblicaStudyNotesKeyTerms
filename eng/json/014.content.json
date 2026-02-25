@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132071,
+    "content_id": "132071",
     "reference_id": 108125,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Macedonia",
     "media_type": "Text",
     "index_reference": "macedonia",
@@ -19,13 +19,22 @@
           "label": "Greece",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Macedonia",
+          "type": "place",
+          "preferred_label": "Macedonia",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132256,
+    "content_id": "132256",
     "reference_id": 108310,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Magic",
     "media_type": "Text",
     "index_reference": "magic",
@@ -34,13 +43,29 @@
     "content": "<p>The use of spiritual power that doesn’t come from God. People use this power to try to control things or other people. They use this power to try to harm others. They use it to try and protect themselves from harm. They also use it to try to make changes in the world. Often these changes seem to be miracles. In the times and places of the Bible many people used magic. They believed that this spiritual power came from gods and goddesses. They believed that the spirits of dead family members could help them use this power. They believed that this power could also be found in the natural world. Many people still believe these things. They seek the help of gods, spiritual beings or things in the natural world.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Magic",
+          "type": "keyterm",
+          "preferred_label": "Magic",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Magi",
+          "type": "group",
+          "preferred_label": "Magi",
+          "confidence": 0.861,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132524,
+    "content_id": "132524",
     "reference_id": 108578,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Malachi",
     "media_type": "Text",
     "index_reference": "malachi",
@@ -49,13 +74,22 @@
     "content": "<p>A prophet after the Jews returned to Jerusalem after being forced to live in Babylonia. His prophecies are recorded in the book of Malachi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Malachi",
+          "type": "person",
+          "preferred_label": "Malachi",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132510,
+    "content_id": "132510",
     "reference_id": 108564,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Man of sin",
     "media_type": "Text",
     "index_reference": "man of sin",
@@ -64,13 +98,14 @@
     "content": "<p>Someone who will completely oppose God. In 2 Thessalonians 2:1–12, Paul described him as someone who will do evil things. But Jesus will stop the man of sin. Paul may have been talking about a certain person. Or he may have been describing the powers of sin and evil. Paul described the man of sin in ways like Daniel described certain kings. Daniel’s visions about these kings were recorded in Daniel chapters 7 and 11. These kings opposed God, spoke against him and treated God’s people badly.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132245,
+    "content_id": "132245",
     "reference_id": 108299,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Manasseh",
     "media_type": "Text",
     "index_reference": "manasseh",
@@ -79,13 +114,43 @@
     "content": "<p>The eldest son of Joseph and Asenath. In the Hebrew language, Manasseh means causing to forget. Jacob adopted him as one of his own sons. Manasseh’s family line became a tribe of Israel. Half of the tribe lived east of the River Jordan. The other half lived west of the River Jordan in Canaan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Manasseh.2",
+          "type": "person",
+          "preferred_label": "Manasseh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Manasseh.3",
+          "type": "person",
+          "preferred_label": "Manasseh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Manasseh.4",
+          "type": "person",
+          "preferred_label": "Manasseh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Manasseh",
+          "type": "person",
+          "preferred_label": "Manasseh",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132269,
+    "content_id": "132269",
     "reference_id": 108323,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Manna",
     "media_type": "Text",
     "index_reference": "manna",
@@ -94,13 +159,14 @@
     "content": "<p>The bread from heaven that God provided for the Israelites in the desert after the exodus. God sent it to them six days a week. It was the food the Israelites ate until they entered Canaan. A jar full of manna was kept in the ark of the covenant. This was a reminder to the people of how God had provided for them.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132015,
+    "content_id": "132015",
     "reference_id": 108069,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mark",
     "media_type": "Text",
     "index_reference": "mark",
@@ -109,13 +175,22 @@
     "content": "<p>The writer of the Gospel of Mark. He was also called John Mark. His mother’s house was a place of prayer for Christians in Jerusalem. He was a disciple of Peter and Barnabas was his cousin. Mark travelled with Paul and Barnabas on their first journey but quit and left early. Later he was helpful to Paul in his work again.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mark",
+          "type": "person",
+          "preferred_label": "Mark",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132152,
+    "content_id": "132152",
     "reference_id": 108206,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Marriage",
     "media_type": "Text",
     "index_reference": "marriage",
@@ -124,13 +199,14 @@
     "content": "<p>The practice in the Bible that allowed a man and a woman to come together. It allowed them to be a family. This is how human beings obeyed God’s instruction to have children and fill the earth. The Law of Moses included many rules about marriage among the Israelites. The main rule was that husbands and wives were to always be faithful to one another. They were to have sex only with one another. Song of Songs gave an example of joy, respect and kindness in marriage. Old Testament prophets used marriage as a picture. It described something about the relationship between the people of Israel and God. God was like the husband and Israel was like the wife. God loved Israel and was always faithful to his people. New Testament writers also used marriage as a picture. Jesus was like the groom and the church was like the bride. This shows how much Jesus loves his followers.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132014,
+    "content_id": "132014",
     "reference_id": 108068,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mary Magdalene",
     "media_type": "Text",
     "index_reference": "mary magdalene",
@@ -139,13 +215,22 @@
     "content": "<p>A woman who was a faithful follower of Jesus. It’s thought that she was from the town of Magdala in Galilee. Jesus drove seven demons out of her.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Marymagdalene",
+          "type": "person",
+          "preferred_label": "Mary Magdalene",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132400,
+    "content_id": "132400",
     "reference_id": 108454,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mary of Nazareth",
     "media_type": "Text",
     "index_reference": "mary of nazareth",
@@ -154,13 +239,22 @@
     "content": "<p>A young woman from Nazareth who served God faithfully. She had promised to marry a man named Joseph of Nazareth. She became pregnant even though she hadn’t had sex with a man. The power of the Holy Spirit made this possible. She was the human mother of Jesus the Messiah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mary",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132029,
+    "content_id": "132029",
     "reference_id": 108083,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mary, Martha and Lazarus",
     "media_type": "Text",
     "index_reference": "mary, martha and lazarus",
@@ -169,13 +263,78 @@
     "content": "<p>Two sisters and a brother who were close friends of Jesus. They lived outside of Jerusalem in Bethany. Jesus would stay at their house. After Lazarus had been buried for four days, Jesus brought him back to life. Mary poured expensive perfume on Jesus’ head to show her deep love for him.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lazarus.2",
+          "type": "person",
+          "preferred_label": "Lazarus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Lazarus",
+          "type": "person",
+          "preferred_label": "Lazarus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Martha",
+          "type": "person",
+          "preferred_label": "Martha",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Mary.2",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Mary.3",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Mary.4",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Mary.5",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Mary.6",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Mary",
+          "type": "person",
+          "preferred_label": "Mary",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132485,
+    "content_id": "132485",
     "reference_id": 108539,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Matthew",
     "media_type": "Text",
     "index_reference": "matthew",
@@ -184,13 +343,22 @@
     "content": "<p>The writer of the first gospel in the New Testament. He was one of Jesus’ 12 disciples. He was also called Levi. He was a tax collector.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Matthew",
+          "type": "person",
+          "preferred_label": "Matthew",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132521,
+    "content_id": "132521",
     "reference_id": 108575,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mediterranean Sea",
     "media_type": "Text",
     "index_reference": "mediterranean sea",
@@ -199,13 +367,22 @@
     "content": "<p>A huge body of water that connects Africa, Asia and Europe. It was the western border of the land God promised to give the Israelites.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:GreatSea",
+          "type": "place",
+          "preferred_label": "Mediterranean Sea",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132407,
+    "content_id": "132407",
     "reference_id": 108461,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Medium",
     "media_type": "Text",
     "index_reference": "medium",
@@ -214,13 +391,22 @@
     "content": "<p>Someone who talks to the spirits of dead people to receive messages. This was a common practice among the people groups around the Israelites. God didn’t allow his people to do that. Instead they were to pray to him. They were to be guided by God’s word and God’s Spirit.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Midheaven",
+          "type": "keyterm",
+          "preferred_label": "Midheaven",
+          "confidence": 0.8931,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132198,
+    "content_id": "132198",
     "reference_id": 108252,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Melchizedek",
     "media_type": "Text",
     "index_reference": "melchizedek",
@@ -229,13 +415,22 @@
     "content": "<p>A priest of God who was the king of Salem. Salem was a name for Jerusalem in Abraham’s time. Melchizedek blessed Abraham after Abraham rescued Lot. Abraham honoured him by giving him a tenth of everything he won in a battle.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Melchizedek",
+          "type": "person",
+          "preferred_label": "Melchizedek",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132413,
+    "content_id": "132413",
     "reference_id": 108467,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mephibosheth",
     "media_type": "Text",
     "index_reference": "mephibosheth",
@@ -244,13 +439,29 @@
     "content": "<p>A son of Jonathan and grandson of Saul. He was from the tribe of Benjamin. His feet were hurt in an accident the day Jonathan died. Once David became king, he always treated Mephibosheth well.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mephibosheth.2",
+          "type": "person",
+          "preferred_label": "Mephibosheth",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Mephibosheth",
+          "type": "person",
+          "preferred_label": "Mephibosheth",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132288,
+    "content_id": "132288",
     "reference_id": 108342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mercy",
     "media_type": "Text",
     "index_reference": "mercy",
@@ -259,13 +470,29 @@
     "content": "<p>Tender love or kindness toward someone who is struggling in some way. God is full of mercy toward people and shows his kindness in many ways. One of the biggest examples of his mercy is how he forgives people’s sin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Mercy",
+          "type": "keyterm",
+          "preferred_label": "Mercy",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Kindness",
+          "type": "keyterm",
+          "preferred_label": "Kindness",
+          "confidence": 0.8603,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132340,
+    "content_id": "132340",
     "reference_id": 108394,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Meribah",
     "media_type": "Text",
     "index_reference": "meribah",
@@ -274,13 +501,29 @@
     "content": "<p>In the Hebrew language, the word Meribah means to argue. There are two places called Meribah in the Bible. At both places the Israelites argued with God and Moses because they didn’t have water. One place was called Massah and Meribah. The other place was called Meribah Kadesh and was near Kadesh Barnea.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Meribah.2",
+          "type": "place",
+          "preferred_label": "Meribah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Meribah",
+          "type": "place",
+          "preferred_label": "Meribah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132190,
+    "content_id": "132190",
     "reference_id": 108244,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mesopotamia",
     "media_type": "Text",
     "index_reference": "mesopotamia",
@@ -289,13 +532,22 @@
     "content": "<p>The area around the River Tigris and the River Euphrates. It was where parts of the countries now called Iran, Syria, Kuwait and Turkey are.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Mesopotamia",
+          "type": "place",
+          "preferred_label": "Mesopotamia",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132480,
+    "content_id": "132480",
     "reference_id": 108534,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Messages of judgement",
     "media_type": "Text",
     "index_reference": "messages of judgement",
@@ -304,13 +556,14 @@
     "content": "<p>Messages God sent to people through a prophet about judgement that he would bring. The messages warned the people to stop doing evil things. God warned them to turn away from their sin and to repent. God warned them because he wanted them to change their ways. If they didn’t change, God would bring judgement against them. If they did change, God wouldn’t bring judgement against them. Giving people these warnings showed that God was full of mercy.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132473,
+    "content_id": "132473",
     "reference_id": 108527,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Messiah",
     "media_type": "Text",
     "index_reference": "messiah",
@@ -319,13 +572,22 @@
     "content": "<p>The saviour that God promised to send to rescue God’s people from all their enemies. In the Hebrew language the word messiah means anointed one or chosen one. Many prophecies and promises recorded in the Old Testament talk about this rescuer. Many Jews came to understand that these prophecies and promises talked about a king. He would be from David’s family line. He would be chosen by God to bring peace that lasted for ever. When Jesus lived on earth, many Jews came to believe that he is the Messiah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132287,
+    "content_id": "132287",
     "reference_id": 108341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Metal calf",
     "media_type": "Text",
     "index_reference": "metal calf",
@@ -342,13 +604,14 @@
           "label": "False gods",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132522,
+    "content_id": "132522",
     "reference_id": 108576,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Micah",
     "media_type": "Text",
     "index_reference": "micah",
@@ -357,13 +620,64 @@
     "content": "<p>A prophet from the southern kingdom during the time of Jotham, Ahaz and Hezekiah. His messages were for the northern kingdom and the southern kingdom. His prophecies are recorded in the book of Micah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Micah.2",
+          "type": "person",
+          "preferred_label": "Micah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Micah.3",
+          "type": "person",
+          "preferred_label": "Micah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Micah.4",
+          "type": "person",
+          "preferred_label": "Micah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Micah.5",
+          "type": "person",
+          "preferred_label": "Micah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Micah.6",
+          "type": "person",
+          "preferred_label": "Micah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Micaiah.3",
+          "type": "person",
+          "preferred_label": "Micaiah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Mica",
+          "type": "person",
+          "preferred_label": "Mica",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132511,
+    "content_id": "132511",
     "reference_id": 108565,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Michael",
     "media_type": "Text",
     "index_reference": "michael",
@@ -372,13 +686,92 @@
     "content": "<p>A leader among the angels who serve God. God gave him authority in the heavenly world. Daniel chapters 10 and 12 described Michael as serving and guarding the people of Israel. In Revelation, John described a battle that Michael fought against the dragon. Jude told a story about Michael based on a Jewish writing from his time.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Michael.10",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Michael.11",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Michael.2",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Michael.3",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Michael.4",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Michael.5",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Michael.6",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Michael.7",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Michael.8",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Michael.9",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Michael",
+          "type": "person",
+          "preferred_label": "Michael",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132249,
+    "content_id": "132249",
     "reference_id": 108303,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Midianites",
     "media_type": "Text",
     "index_reference": "midianites",
@@ -387,13 +780,22 @@
     "content": "<p>Midian was a son of Abraham and his wife Keturah. The people group called the Midianites came from his family line. The name of the land where they lived was also called Midian. It was east of Egypt and south of Canaan. God appeared to Moses in the land of Midian. In the Old Testament, the Midianites sometimes helped the Israelites. Other times they harmed them.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Midian",
+          "type": "group",
+          "preferred_label": "Midianites",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132251,
+    "content_id": "132251",
     "reference_id": 108305,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miracles",
     "media_type": "Text",
     "index_reference": "miracles",
@@ -402,13 +804,14 @@
     "content": "<p>Mighty works from God. These are also called signs and wonders, amazing things and mighty acts. They show that God is the true God. They show that he has more power and authority than anything that exists. God gives certain people the power to perform miracles. They do them to help others believe that God is who he says he is. Jesus performed God’s mighty works when he was on earth. He gave his followers the power to do signs and wonders also.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132268,
+    "content_id": "132268",
     "reference_id": 108322,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Miriam",
     "media_type": "Text",
     "index_reference": "miriam",
@@ -417,13 +820,29 @@
     "content": "<p>A daughter of Amram and Jochebed from the tribe of Levi. Moses and Aaron were her brothers. She helped Moses lead the people of Israel during the exodus. She was a prophet.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Miriam.2",
+          "type": "person",
+          "preferred_label": "Miriam",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Miriam",
+          "type": "person",
+          "preferred_label": "Miriam",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132343,
+    "content_id": "132343",
     "reference_id": 108397,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moab",
     "media_type": "Text",
     "index_reference": "moab",
@@ -432,13 +851,29 @@
     "content": "<p>A people group who lived east of the River Jordan. They were from the family line of Lot. The land where they lived was also called Moab. They worshipped false gods called Baal and Chemosh. Sometimes the Moabites harmed God’s people and other times helped them.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Moab",
+          "type": "person",
+          "preferred_label": "Moab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Moab",
+          "type": "place",
+          "preferred_label": "Moab",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132466,
+    "content_id": "132466",
     "reference_id": 108520,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mordecai",
     "media_type": "Text",
     "index_reference": "mordecai",
@@ -447,13 +882,29 @@
     "content": "<p>A Jew who lived in the Persian kingdom during the time of Xerxes. Mordecai was the son of Jair and was from the tribe of Benjamin. He adopted his cousin Esther when her parents died. He served in the Persian government at the palace gate in Susa. After Haman was killed, Mordecai became an advisor to Xerxes. Mordecai was an important leader with authority in the Persian kingdom.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Mordecai.2",
+          "type": "person",
+          "preferred_label": "Mordecai",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Mordecai",
+          "type": "person",
+          "preferred_label": "Mordecai",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132246,
+    "content_id": "132246",
     "reference_id": 108300,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Moses",
     "media_type": "Text",
     "index_reference": "moses",
@@ -470,13 +921,22 @@
           "label": "Law of Moses",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Moses",
+          "type": "person",
+          "preferred_label": "Moses",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
       ]
     }
   },
   {
-    "content_id": 132311,
+    "content_id": "132311",
     "reference_id": 108365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Most Holy Room",
     "media_type": "Text",
     "index_reference": "most holy room",
@@ -493,13 +953,14 @@
           "label": "Ark of the covenant",
           "language": "eng"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 132451,
+    "content_id": "132451",
     "reference_id": 108505,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mount Moriah",
     "media_type": "Text",
     "index_reference": "mount moriah",
@@ -508,13 +969,22 @@
     "content": "<p>A rocky hilltop in Jerusalem. It was also called Mount Zion. It was north of the part of Jerusalem that David used for his government. In the Hebrew language Moriah means the place where the Lord provides and appears. It’s where God tested Abraham by asking him to sacrifice Isaac. Then God provided the ram to be sacrificed instead of Isaac. Many years later the angel of the Lord appeared on Mount Moriah. The angel brought a plague to destroy Jerusalem. God accepted the offering on the altar David built. David built that altar on a Jebusite’s threshing floor on Mount Moriah. Then God stopped the plague. That is why Solomon had the first temple built on Mount Moriah. The second temple was also built there.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:MoriahMount",
+          "type": "place",
+          "preferred_label": "Mount Moriah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132009,
+    "content_id": "132009",
     "reference_id": 108063,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mount of Olives",
     "media_type": "Text",
     "index_reference": "mount of olives",
@@ -523,13 +993,22 @@
     "content": "<p>A group of three peaks on the east side of Jerusalem. It’s separated from Jerusalem by the Kidron Valley. There was an olive garden there where Jesus often went.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:OlivesMount",
+          "type": "place",
+          "preferred_label": "Mount of Olives",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132273,
+    "content_id": "132273",
     "reference_id": 108327,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mount Sinai",
     "media_type": "Text",
     "index_reference": "mount sinai",
@@ -538,13 +1017,22 @@
     "content": "<p>A mountain outside of Egypt. It was also called Mount Horeb. God appeared there to Moses in the bush that didn’t burn up. After the people of Israel left Egypt, God met with Moses there again. It’s where God established his covenant with the people of Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:SinaiMount",
+          "type": "place",
+          "preferred_label": "Mount Sinai",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   },
   {
-    "content_id": 132274,
+    "content_id": "132274",
     "reference_id": 108328,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mount Sinai covenant",
     "media_type": "Text",
     "index_reference": "mount sinai covenant",
@@ -553,13 +1041,22 @@
     "content": "<p>God chose to work through the people of Israel in his plan for saving the world. God showed this by making a covenant with Jacob’s family line. The covenant was with those whom God had saved from being slaves in Egypt. It was also with all Israelites who would be born after them. The people were to obey the Ten Commandments and the other laws that God gave Moses. God would give them health, safety, peace and many children while they lived in Canaan. He would give them enough to eat and drink. He would make them a kingdom of priests and a holy nation. Circumcision and the Sabbath day were the signs of the covenant. God made this covenant with his people on Mount Sinai. Moses was the go-between for the covenant.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:SinaiMount",
+          "type": "place",
+          "preferred_label": "Mount Sinai",
+          "confidence": 0.805,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 132169,
+    "content_id": "132169",
     "reference_id": 108223,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Murder",
     "media_type": "Text",
     "index_reference": "murder",
@@ -568,13 +1065,14 @@
     "content": "<p>Killing someone on purpose and without permission from God. This is what murder was in the Old Testament. It was wrong and wasn’t allowed. God’s covenant with Noah and the Ten Commandments made this clear. Murder was described as spilling someone’s blood on the ground. That blood made the ground impure. It cried out to God. This meant that the blood was a witness against the murderer. It showed that justice needed to be done. The murderer had to be put to death. That brought justice back to the people and to the land. In the New Testament, Jesus taught that murder meant more than killing someone. Hating someone was as serious a sin as committing murder.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132091,
+    "content_id": "132091",
     "reference_id": 108145,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Mystery of Christ",
     "media_type": "Text",
     "index_reference": "mystery of christ",
@@ -583,7 +1081,8 @@
     "content": "<p>The truth about how God accomplishes his plan for the world through Jesus Christ. In the New Testament, a mystery is usually something that hasn’t been made known to people. Old Testament prophets had said that God would save his people. But Jews didn’t know exactly how or when God would do this. They weren’t sure who or what they would be saved from. They didn’t know exactly who would be saved. Paul explained this mystery in his letters. God’s plan was to save all people who trust in Jesus. Jesus is a human being and is God’s Son. God saves his people from the power of sin, evil and death. He saves them through what Jesus did when he sacrificed himself on the cross.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

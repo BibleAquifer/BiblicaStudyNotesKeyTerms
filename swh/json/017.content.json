@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 367662,
+    "content_id": "367662",
     "reference_id": 108171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Patmos",
     "media_type": "Text",
     "index_reference": "patmos",
@@ -11,13 +11,22 @@
     "content": "<p>Kisiwa kidogo cha Kigiriki ambacho watu wachache tu waliishi. Kiko katika Bahari ya Aegean karibu na Bahari ya Mediterania. Serikali ya Kirumi ilidhibiti kisiwa hicho na kutuma wafungwa huko.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Patmos",
+          "type": "place",
+          "preferred_label": "Patmo",
+          "confidence": 0.8983,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367778,
+    "content_id": "367778",
     "reference_id": 108287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Patriarki",
     "media_type": "Text",
     "index_reference": "patriarki",
@@ -26,13 +35,14 @@
     "content": "<p>Kiongozi wa kiume mwenye mamlaka zaidi katika kikundi. Kawaida hii ilikuwa mwanaume mzee zaidi katika familia. Miongoni mwa watu wa Israeli, viongozi muhimu na wafalme waliitwa wazee. Walichukuliwa kuwa waanzilishi wa taifa la Israeli. Hii ilijumuisha Abrahamu, Isaka, Yakobo na wanawe, Musa na Mfalme Daudi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367593,
+    "content_id": "367593",
     "reference_id": 108102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paulo",
     "media_type": "Text",
     "index_reference": "paulo",
@@ -41,13 +51,22 @@
     "content": "<p>Muumini Myahudi kutoka kabila la Benyamini ambaye alikuwa kutoka mji wa Tarso. Kwa lugha ya Kiebrania aliitwa Sauli. Kwa lugha ya Kigiriki aliitwa Paulo. Alikuwa raia wa Kirumi. Ili kupata pesa, alitengeneza mahema. Kwa miaka mingi alikuwa Farisayo aliyejitolea. Alijaribu kuzuia kanisa lisikue. Baada ya Yesu kumtokea, alianza kueneza habari njema kuhusu Yesu. Paulo alikuwa mtume. Agano Jipya linajumuisha barua nyingi alizoandika.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paulo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367866,
+    "content_id": "367866",
     "reference_id": 108375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pentekoste",
     "media_type": "Text",
     "index_reference": "pentekoste",
@@ -56,13 +75,14 @@
     "content": "<p>Sikukuu ya Kiyahudi, siku hamsini baada ya sikukuu ya mavuno ya kwanza. Iliitwa Sikukuu ya Majuma au Pentekoste. Watu walitoa dhabihu kwa Mungu na kumshukuru kwa mavuno. Wanaume wa Israeli walihitajika kusafiri kwenda kwenye hema takatifu au hekalu kwa ajili ya sikukuu hii. Pia ni sikukuu ambapo Roho Mtakatifu alikuja kwa mara ya kwanza kwa wafuasi wa Yesu. Hii ilitokea siku hamsini baada ya ufufuo wa Yesu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367709,
+    "content_id": "367709",
     "reference_id": 108218,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pepo wachafu",
     "media_type": "Text",
     "index_reference": "pepo wachafu",
@@ -79,13 +99,14 @@
           "label": "Ibilisi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367667,
+    "content_id": "367667",
     "reference_id": 108176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pergamum",
     "media_type": "Text",
     "index_reference": "pergamum",
@@ -94,13 +115,22 @@
     "content": "<p>Mji muhimu katika eneo la Kirumi la Asia karibu na Bahari ya Aegean. Ilikuwa kituo cha kuabudu mtawala wa Kirumi Kaisari na miungu ya uongo ya Kirumi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Pergamum",
+          "type": "place",
+          "preferred_label": "Pergamo",
+          "confidence": 0.8837,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368063,
+    "content_id": "368063",
     "reference_id": 108572,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Petro",
     "media_type": "Text",
     "index_reference": "petro",
@@ -109,13 +139,22 @@
     "content": "<p>Mvuvi kutoka Bethsaida ambaye aliishi Kapernaumu. Andrea alikuwa kaka yake. Petro alikua mmoja wa wanafunzi 12 wa Yesu na alikuwa mmoja wa wafuasi wa karibu zaidi wa Yesu. Pia aliitwa Simoni, Simoni Petro na Kefa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "Petro",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367671,
+    "content_id": "367671",
     "reference_id": 108180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philadelphia",
     "media_type": "Text",
     "index_reference": "philadelphia",
@@ -124,13 +163,22 @@
     "content": "<p>Mji muhimu katika eneo la Kirumi la Asia. Ni mji wa Alaşehir katika nchi inayojulikana sasa kama Uturuki.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philadelphia",
+          "type": "place",
+          "preferred_label": "Filadelfia",
+          "confidence": 0.9549,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367895,
+    "content_id": "367895",
     "reference_id": 108404,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Piga kura",
     "media_type": "Text",
     "index_reference": "piga kura",
@@ -139,13 +187,14 @@
     "content": "<p>Mchakato wa kusaidia watu kufanya maamuzi kuhusu jambo fulani. Ulikuwa wa kawaida sana miongoni mwa makundi ya watu waliokuwa wakiishi karibu na Waisraeli. Mungu aliwaruhusu watu wake kutumia desturi hii. Haijulikani hasa watu walifanya nini walipokuwa wakipiga kura. Waisraeli waliamini kwamba, Mungu aliwaongoza kufanya maamuzi ya busara kwa kupiga kura.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367703,
+    "content_id": "367703",
     "reference_id": 108212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pumziko",
     "media_type": "Text",
     "index_reference": "pumziko",
@@ -154,7 +203,8 @@
     "content": "<p>Katika  Biblia kuna maana nyingi za neno pumzika. Maana ya kwanza inazungumziwa katika Mwanzo sura ya 2. Baada ya Mungu kumaliza kazi yake ya kuumba dunia, alipumzika. Kulikuwa na amani kati ya Mungu na kile alichokiumba. Kila kitu kilichokuwepo kilikuwa na kile kilichohitaji kuishi kama Mungu alivyotaka. Maana nyingine inazungumziwa katika Amri Kumi. Ni pumziko la Sabato. Katika siku ya saba ya juma, Waisraeli walipaswa kupumzika badala ya kufanya kazi. Maana nyingine inazungumziwa katika Zaburi 95. Ni pumziko ambalo Waisraeli walikuwa nalo baada ya kukombolewa kutoka utumwani. Mungu aliwaleta kwenye nchi aliyowaahidi kuwapa. Maana kamili inazungumziwa katika Waebrania sura ya 3 na 4. Yesu analeta pumziko la kweli kwa wale wanaomwamini. Wanaanza kufurahia pumziko la Yesu wanapoanza kumfuata. Watafurahia kikamilifu atakapokuwa akitawala kabisa kama Mfalme.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

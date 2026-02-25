@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 778816,
+    "content_id": "778816",
     "reference_id": 108536,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Laatste dagen",
     "media_type": "Text",
     "index_reference": "laatste dagen",
@@ -11,13 +11,14 @@
     "content": "<p>Een manier om over een toekomstige tijd te spreken. Sommige profeten in de Bijbel beschreven het als een periode waarin God zou ingrijpen om ervoor te zorgen dat alle mensen Hem eerden. Andere schrijvers in de Bijbel beschreven het als een tijd van lijden, een periode voordat God de wereld zou oordelen. In die tijd zouden mensen veel slechte dingen doen. Sommige schrijvers van het Nieuwe Testament beschreven de periode na Jezus&apos; opstanding als de laatste dagen. Dit werd beschouwd als de tijd waarin de kerk leeft totdat Jezus terugkeert naar de aarde.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778813,
+    "content_id": "778813",
     "reference_id": 108274,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Laban",
     "media_type": "Text",
     "index_reference": "laban",
@@ -26,13 +27,29 @@
     "content": "<p>Hij was de zoon van Bethuël en de broer van Rebekka uit Mesopotamië. Hij was de vader van Rachel en Lea. Hij bedroog Jakob en maakte jarenlang misbruik van hem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Laban",
+          "type": "person",
+          "preferred_label": "Laban",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Laban",
+          "type": "place",
+          "preferred_label": "Laban",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778814,
+    "content_id": "778814",
     "reference_id": 108086,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lam van God",
     "media_type": "Text",
     "index_reference": "lam van god",
@@ -41,13 +58,14 @@
     "content": "<p>Een titel voor Jezus die beschrijft hoe Hij zichzelf opofferde. Tijdens het eerste Pascha werden lammeren geofferd. Door hun bloed werden de Israëlieten gered van vernietiging. Later werden lammeren in de Joodse eredienst gebruikt als offer voor zonden. Jezus offerde zichzelf door zijn leven op te geven aan het kruis. Zijn offer redt mensen van vernietiging door zonde, dood en kwaad. Op deze manier is Hij vergelijkbaar met de lammeren die door de Israëlieten werden geofferd. In Openbaring verscheen Jezus aan de profeet Johannes als een Lam dat was gedood, maar toch levend was. Dit komt omdat Jezus uit de dood werd opgewekt nadat Hij aan het kruis was gestorven.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778815,
+    "content_id": "778815",
     "reference_id": 108162,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Laodicea",
     "media_type": "Text",
     "index_reference": "laodicea",
@@ -56,13 +74,29 @@
     "content": "<p>Een stad in het Romeinse gebied van Klein-Azië, in het huidige Turkije. Het lag in de buurt van Kolosse. Epafras bracht daar de boodschap over Jezus en hielp bij het stichten van een kerk. Paulus schreef een brief aan de Laodiceïsche kerk. De kerk in Laodicea is een van de zeven kerken die in Openbaring worden genoemd.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Laodicea",
+          "type": "place",
+          "preferred_label": "Laodicea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Laodicea",
+          "type": "group",
+          "preferred_label": "Laodiceans",
+          "confidence": 0.866,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778820,
+    "content_id": "778820",
     "reference_id": 108275,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Leah",
     "media_type": "Text",
     "index_reference": "leah",
@@ -71,13 +105,22 @@
     "content": "<p>Lea was de oudste dochter van Laban en de eerste vrouw van Jakob. Rachel was haar zus en Zilpa was haar dienares. Ze was de moeder van Ruben, Simeon, Levi, Juda, Issachar, Zebulon en Dina.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Leah",
+          "type": "person",
+          "preferred_label": "Leah",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778819,
+    "content_id": "778819",
     "reference_id": 108059,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Leider die dient",
     "media_type": "Text",
     "index_reference": "leider die dient",
@@ -86,13 +129,14 @@
     "content": "<p>Jezus is het voorbeeld van hoe iedereen anderen zou moeten behandelen, inclusief mensen met autoriteit, macht en eer. Dit geldt voor leiders van elke groep mensen. Jezus is de Koning van alles wat God heeft geschapen. Hij kwam naar de aarde om mensen te dienen, zodat ze Gods liefde voor hen zouden begrijpen. Hij gebruikte zijn macht en autoriteit niet om mensen te dwingen te doen wat Hij wilde, noch zorgde Hij ervoor dat mensen Hem behandelden alsof Hij belangrijker was dan wie dan ook. In plaats daarvan was Hij nederig en toonde Hij diepe zorg voor alle mensen. Hij gaf zijn leven om mensen Gods liefde te tonen. Alle gelovigen moeten Jezus&apos; voorbeeld volgen in het liefhebben en dienen van anderen. De Heilige Geest geeft Jezus&apos; volgelingen verschillende gaven en vaardigheden om te gebruiken bij het dienen van anderen. Wanneer gelovigen anderen dienen, dienen ze ook Jezus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778826,
+    "content_id": "778826",
     "reference_id": 108559,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Levend water",
     "media_type": "Text",
     "index_reference": "levend water",
@@ -101,13 +145,14 @@
     "content": "<p>Een manier om te spreken over hoe God voorziet in alles wat mensen nodig hebben om te leven. In de Bijbel wordt dit ook wel het water dat leven geeft en het water des levens genoemd. Water is levend wanneer het vers en stromend is. Mensen drinken het om te overleven, en planten en dieren kunnen erin leven. Profeten beschreven God als een bron van water die leven geeft aan zijn volk. Ze beschreven Hem als een herder die zijn volk naar waterbronnen leidde. Ze beschreven ook hoe water uit Jeruzalem zou stromen en leven zou geven aan de hele wereld. In het Nieuwe Testament beschreef Jezus de Heilige Geest als levend water. Jezus geeft levend water aan mensen die in Hem geloven, wat betekent dat Hij de Heilige Geest met hen deelt. De Geest voorziet in wat hun geest nodig heeft, net zoals water voorziet in wat hun lichaam nodig heeft. De Geest helpt hen anderen te dienen. Dit is hoe het levende water van binnenuit mensen stroomt. In Openbaring biedt God het water des levens vrijelijk aan iedereen die in Hem gelooft.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778822,
+    "content_id": "778822",
     "reference_id": 108383,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Levi",
     "media_type": "Text",
     "index_reference": "levi",
@@ -116,13 +161,36 @@
     "content": "<p>Levi was een zoon van Jakob en Lea. In het Hebreeuws betekent Levi &quot;gehecht&quot;. Zijn nakomelingen vormden een stam van Israël. Alle priesters in Israël kwamen voort uit het nageslacht van Levi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Levi",
+          "type": "person",
+          "preferred_label": "Levi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.2",
+          "type": "person",
+          "preferred_label": "Levi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.3",
+          "type": "person",
+          "preferred_label": "Levi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778823,
+    "content_id": "778823",
     "reference_id": 108343,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Levieten",
     "media_type": "Text",
     "index_reference": "levieten",
@@ -131,13 +199,22 @@
     "content": "<p>Mensen uit het nageslacht van Jakobs zoon Levi hadden een speciale taak. Alle mannen in de stam van Levi hadden specifieke verantwoordelijkheden. Zij zorgden voor de heilige tent en later voor de tempel. Levieten uit het nageslacht van Aäron dienden als priesters (<span data-bnType=\"resourceReference\" data-resourceId=\"108306\" data-resourceType=\"BiblicaStudyNotesKeyTerms\">Aäron</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"108333\" data-resourceType=\"BiblicaStudyNotesKeyTerms\">Priester</span>). De Levieten ontvingen geen land toen het volk van Israël zich in Kanaän vestigde. God voorzag in hun behoeften door middel van wat de andere stammen hadden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "fauna:GiantCroccodile",
+          "type": "fauna",
+          "preferred_label": "Leviathan",
+          "confidence": 0.8087,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769217,
+    "content_id": "769217",
     "reference_id": 108143,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lichaam van Christus",
     "media_type": "Text",
     "index_reference": "lichaam van christus",
@@ -146,13 +223,14 @@
     "content": "<p>Een manier om de gemeenschap van Jezus&apos; volgelingen te beschrijven is als een beeld dat laat zien hoe iedereen in de kerk elkaar liefheeft en dient. Christus&apos; lichaam bestaat uit veel verschillende mensen die als één worden samengebracht. Het vertrouwen op Jezus en het gehoorzamen van Hem is wat hen verenigt. Door hun verschillende gaven te gebruiken, blijven ze samen het werk van Jezus op aarde voortzetten.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778824,
+    "content_id": "778824",
     "reference_id": 108546,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Licht",
     "media_type": "Text",
     "index_reference": "licht",
@@ -176,13 +254,22 @@
           "label": "Kwaadaardige geestelijke wezens",
           "language": "nld"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Luz.2",
+          "type": "place",
+          "preferred_label": "Luz",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 778825,
+    "content_id": "778825",
     "reference_id": 108545,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Licht voor de heidenen",
     "media_type": "Text",
     "index_reference": "licht voor de heidenen",
@@ -191,13 +278,14 @@
     "content": "<p>Woorden die het werk van Gods dienaar beschrijven (Jesaja 42:6 en Jesaja 49:6). De dienaar zou ervoor zorgen dat Gods verbond en redding alle bevolkingsgroepen zouden bereiken. In het Nieuwe Testament begreep Simeon dat Jezus dit werk zou vervullen (Lucas 2:30–32). Paulus en Barnabas realiseerden zich dat zij ook een licht voor de heidenen moesten zijn (Handelingen 13:47). Ze deden dit door de boodschap over Jezus met de heidenen te delen. In Handelingen 26:23 predikte Paulus over hoe Jezus de boodschap van Gods licht bracht. Dit is de boodschap van redding van de macht van zonde en dood. Jezus bracht dit licht naar zowel Joden als heidenen. Jezus&apos; volgelingen moeten Jezus&apos; licht en redding met de hele wereld delen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778833,
+    "content_id": "778833",
     "reference_id": 108355,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Liefde voor God",
     "media_type": "Text",
     "index_reference": "liefde voor god",
@@ -206,13 +294,22 @@
     "content": "<p>God schiep mensen om zijn liefde te ontvangen en om Hem lief te hebben. Gods liefde verandert mensen en stelt hen in staat om Hem lief te hebben. Liefde voor God is zowel een gevoel als een bewuste keuze waar mensen naar handelen. De actie die ze ondernemen is Hem gehoorzamen. Liefde voor God wordt getoond door zijn geboden te gehoorzamen. De Wet van Mozes in het Oude Testament en Jezus in het Nieuwe Testament leren dit.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:LovingGod",
+          "type": "keyterm",
+          "preferred_label": "Loving God",
+          "confidence": 0.8767,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769755,
+    "content_id": "769755",
     "reference_id": 108087,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "lieve vrouw",
     "media_type": "Text",
     "index_reference": "lieve vrouw",
@@ -221,13 +318,14 @@
     "content": "<p>Jezus sprak op een respectvolle manier tot vrouwen. Hij noemde sommige vrouwen die hij genas &quot;lieve vrouw&quot;. Andere keren noemde hij zijn moeder Maria &quot;lieve vrouw&quot;. Dit toonde zijn vriendelijkheid en zorg.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775214,
+    "content_id": "775214",
     "reference_id": 108377,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Loofhuttenfeest",
     "media_type": "Text",
     "index_reference": "loofhuttenfeest",
@@ -236,13 +334,14 @@
     "content": "<p>Het Joodse feest dat vijf dagen na de dag begon waarop zonden werden verzoend, werd gevierd om de oogst en Gods zorg voor hen te herdenken. Israëlische mannen moesten voor dit feest naar de heilige tent of tempel reizen. Tijdens de zeven dagen van het feest sliepen ze in hutten, als herinnering aan hoe ze in hutten of tenten in de woestijn hadden geleefd. Elke zeven jaar moest de verbondswet tijdens dit feest hardop worden voorgelezen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775210,
+    "content_id": "775210",
     "reference_id": 108448,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Losser",
     "media_type": "Text",
     "index_reference": "losser",
@@ -251,13 +350,14 @@
     "content": "<p>Een naaste mannelijke verwant die verantwoordelijk was voor het helpen van familieleden in nood werd ook wel een losser genoemd. Deze familiebeschermer kon de schulden van arme familieleden aflossen. Hij kon eigendommen terugkopen die zij hadden verkocht en betalen om hen of hun kinderen vrij te laten van het werken als dienaren. De familiebeschermer kon ook de zwagerplicht vervullen voor de weduwe van zijn broer. Hij was een symbool van hoe God voor Israël zorgde, vergelijkbaar met hoe God de Israëlieten redde in tijden van nood. De familiebeschermer is ook een symbool van wat Jezus doet. Hij is als de familiebeschermer die zondaars redt die in nood verkeren. Hij verlost allen die op Hem vertrouwen en koopt hen terug van de macht van zonde, dood en kwaad.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778832,
+    "content_id": "778832",
     "reference_id": 108248,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lot",
     "media_type": "Text",
     "index_reference": "lot",
@@ -266,13 +366,36 @@
     "content": "<p>Hij was de kleinzoon van Terach en de neef van Abraham. Hij reisde met Abraham en Sara mee naar Kanaän om zich daar te vestigen. Hij koos ervoor om in de vallei van de rivier de Jordaan, nabij Sodom, te wonen. Zijn vrouw overleed toen God Sodom en Gomorra vernietigde. De Moabieten en Ammonieten zijn afstammelingen van Lot.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Lot",
+          "type": "keyterm",
+          "preferred_label": "Lot",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Lot",
+          "type": "person",
+          "preferred_label": "Lot",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Lot",
+          "type": "realia",
+          "preferred_label": "Lot",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769667,
+    "content_id": "769667",
     "reference_id": 108404,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lot werpen",
     "media_type": "Text",
     "index_reference": "lot werpen",
@@ -281,13 +404,14 @@
     "content": "<p>Een proces om mensen te helpen beslissingen te nemen over iets. Het was heel gebruikelijk onder de bevolkingsgroepen die rond de Israëlieten leefden. God stond zijn volk toe deze praktijk te gebruiken. Het is niet precies bekend wat mensen deden wanneer ze het lot wierpen. De Israëlieten vertrouwden erop dat God hen leidde om verstandige keuzes te maken door het lot te werpen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778834,
+    "content_id": "778834",
     "reference_id": 108078,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lucas",
     "media_type": "Text",
     "index_reference": "lucas",
@@ -296,13 +420,22 @@
     "content": "<p>De auteur van het Evangelie van Lucas en het boek Handelingen was een arts die met Paulus meereisde en samenwerkte.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Luke",
+          "type": "person",
+          "preferred_label": "Luke",
+          "confidence": 0.8473,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778835,
+    "content_id": "778835",
     "reference_id": 108116,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lystra",
     "media_type": "Text",
     "index_reference": "lystra",
@@ -311,7 +444,16 @@
     "content": "<p>Een stad in de Romeinse provincie Galatië in Klein-Azië. Paulus bezocht deze stad tijdens drie van zijn reizen om het goede nieuws over Jezus te verspreiden. Paulus&apos; vriend Timotheüs, die met hem samenwerkte, kwam uit Lystra. Men vermoedt dat Paulus&apos; brief aan de Galaten daar in de kerk werd voorgelezen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Lystra",
+          "type": "place",
+          "preferred_label": "Lystra",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232373,
+    "content_id": "232373",
     "reference_id": 108404,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Echar suertes",
     "media_type": "Text",
     "index_reference": "echar suertes",
@@ -11,13 +11,14 @@
     "content": "<p>Un proceso para ayudar a las personas a decidir sobre algo. Era muy común entre los pueblos que vivían alrededor de los israelitas y Dios permitió que su pueblo usara esta práctica. No se sabe exactamente qué hacían las personas cuando echaban suertes. Los israelitas confiaban en que Dios los guiaba a tomar decisiones sabias al echar suertes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232380,
+    "content_id": "232380",
     "reference_id": 108411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Edom",
     "media_type": "Text",
     "index_reference": "edom",
@@ -26,13 +27,29 @@
     "content": "<p>La tierra al sur y al este de Judá donde vivía el linaje familiar de Esaú. Esaú también fue llamado Edom. Sus hijos se convirtieron en una nación fuerte llamada Edom. Los edomitas y los israelitas no vivían en paz entre ellos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Edom",
+          "type": "group",
+          "preferred_label": "Edom",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Edom",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232104,
+    "content_id": "232104",
     "reference_id": 108135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Éfeso",
     "media_type": "Text",
     "index_reference": "éfeso",
@@ -41,13 +58,29 @@
     "content": "<p>La ciudad capital del territorio romano de Asia. La religión principal en Éfeso era el culto a la diosa Artemisa. Pablo visitó la ciudad en su segundo y tercer viaje y se quedó allí ayudando a la iglesia durante dos años.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Ephesus",
+          "type": "group",
+          "preferred_label": "Efesio",
+          "confidence": 0.8913,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "Efesios",
+          "confidence": 0.8704,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232267,
+    "content_id": "232267",
     "reference_id": 108298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efraín",
     "media_type": "Text",
     "index_reference": "efraín",
@@ -56,13 +89,22 @@
     "content": "<p>El segundo hijo de José y Asenat. En el idioma hebreo, Efraín significa doble fruto. Jacob lo adoptó como uno de sus propios hijos. Jacob le dio la bendición del padre aunque no era el hijo mayor. El linaje familiar de Efraín se convirtió en una tribu de Israel. Fueron una tribu importante del reino del norte de Israel. La capital del reino del norte estaba en la tierra de Efraín y, a veces, el reino del norte se llama Efraín en la Biblia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Ephron.2",
+          "type": "place",
+          "preferred_label": "Ephrain",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232220,
+    "content_id": "232220",
     "reference_id": 108251,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Egipto",
     "media_type": "Text",
     "index_reference": "egipto",
@@ -71,13 +113,64 @@
     "content": "<p>Un poderoso reino en el norte de África. Los israelitas fueron esclavos allí durante muchos años y fueron liberados de la esclavitud en el éxodo. Los reyes de Egipto eran llamados Faraones. En la Biblia, los egipcios a veces causaban daño al pueblo de Dios y otras veces le ayudaban.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Egypt",
+          "type": "group",
+          "preferred_label": "Egipto",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Egypt",
+          "type": "person",
+          "preferred_label": "Egipto",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Egypt",
+          "type": "place",
+          "preferred_label": "Egipto",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:EgyptSea",
+          "type": "place",
+          "preferred_label": "Egipto",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Cush",
+          "type": "person",
+          "preferred_label": "Etiopía",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Cush.2",
+          "type": "person",
+          "preferred_label": "Etiopía",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Cush",
+          "type": "place",
+          "preferred_label": "Etiopía",
+          "confidence": 0.8027,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232278,
+    "content_id": "232278",
     "reference_id": 108309,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "El bastón de Aaron",
     "media_type": "Text",
     "index_reference": "el bastón de aaron",
@@ -86,13 +179,14 @@
     "content": "<p>El bastón que Aarón usó cuando Dios hizo señales y maravillas a través de él. Más tarde, Dios hizo que brotara, floreciera y diera almendras. Esto mostró que Dios había elegido la línea familiar de Aarón para servirle como sacerdotes. El bastón de Aarón se guardó en el arca del pacto.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232262,
+    "content_id": "232262",
     "reference_id": 108293,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "El deber del cuñado",
     "media_type": "Text",
     "index_reference": "el deber del cuñado",
@@ -101,13 +195,14 @@
     "content": "<p>Una práctica común entre muchos grupos de personas durante cientos de años. Era una manera de cuidar de la viuda y de la línea familiar de un hombre que murió. El hermano del fallecido debería casarse con la viuda y tener un hijo con ella, que sería considerado hijo del hombre que murió. Este hijo recibiría la propiedad y llevaría el nombre del hombre fallecido, además de cuidar de la madre en la vejez.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232334,
+    "content_id": "232334",
     "reference_id": 108365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "El Lugar más sagrado (Santo de los Santos)",
     "media_type": "Text",
     "index_reference": "el lugar más sagrado (santo de los santos)",
@@ -124,13 +219,29 @@
           "label": "Arca de la alianza",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:MostHolyPlace.1",
+          "type": "place",
+          "preferred_label": "Most Holy Place",
+          "confidence": 0.8939,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:MostHolyPlace",
+          "type": "realia",
+          "preferred_label": "Most Holy Place",
+          "confidence": 0.8939,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232271,
+    "content_id": "232271",
     "reference_id": 108302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "El pueblo de Dios",
     "media_type": "Text",
     "index_reference": "el pueblo de dios",
@@ -147,13 +258,14 @@
           "label": "Israel",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232034,
+    "content_id": "232034",
     "reference_id": 108065,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "El regreso de Jesús",
     "media_type": "Text",
     "index_reference": "el regreso de jesús",
@@ -162,13 +274,14 @@
     "content": "<p>Cuando Jesús regrese a la tierra para gobernar completamente como Rey. Después de que resucitó de entre los muertos, fue a gobernar con el Padre en el cielo. Cuando regrese, todas las personas reconocerán que él es Señor y Rey. Jesús detendrá todo el mal en la tierra. Unirá el cielo y la tierra como uno solo en el reino de Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232326,
+    "content_id": "232326",
     "reference_id": 108357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eleazar",
     "media_type": "Text",
     "index_reference": "eleazar",
@@ -177,13 +290,71 @@
     "content": "<p>Un hijo de Aarón y Eliseba de la tribu de Leví. Sus hermanos eran Nadab, Abiú e Itamar. Fue el padre de Finees y se convirtió en el líder principal de los levitas asumiendo el cargo de sumo sacerdote después de la muerte de Aarón. Ayudó a Moisés a guiar al pueblo de Israel en el desierto y asistió a Josué a guiar al pueblo de Israel en Canaán.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eleazar",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.2",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.3",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.4",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.5",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.6",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.7",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.8",
+          "type": "person",
+          "preferred_label": "Eleazar",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232420,
+    "content_id": "232420",
     "reference_id": 108451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eli",
     "media_type": "Text",
     "index_reference": "eli",
@@ -192,13 +363,29 @@
     "content": "<p>El sumo sacerdote cuando Samuel era joven durante la época de los 12 jueces. Sirvió mientras la tienda sagrada estaba en Silo. Eli era el padre de Ofni y Finees. No detuvo a sus hijos de hacer cosas perversas y, debido a esto, el linaje familiar de Eli no continuó sirviendo como sumos sacerdotes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eli",
+          "type": "person",
+          "preferred_label": "Eli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heli",
+          "type": "person",
+          "preferred_label": "Elí",
+          "confidence": 0.869,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232455,
+    "content_id": "232455",
     "reference_id": 108486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elías",
     "media_type": "Text",
     "index_reference": "elías",
@@ -207,13 +394,43 @@
     "content": "<p>Un profeta en el reino del norte de Israel cuando gobernaban Acab y Ocozías. Era de la tierra de Galaad y fue conocido por usar ropa hecha de pelo y un cinturón de cuero. Sus palabras y acciones desafiaron la autoridad de los gobernantes de Israel que adoraban a dioses falsos. Enseñó a muchos otros profetas y dio su autoridad a Eliseo para ser profeta después de él. Elías era como Moisés en muchos aspectos, Dios realizó milagros a través de él y se le apareció en el Monte Horeb. Elías no murió, sino que fue llevado al cielo en un viento fuerte y nadie jamás encontró su cuerpo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "Elías",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.2",
+          "type": "person",
+          "preferred_label": "Elías",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.3",
+          "type": "person",
+          "preferred_label": "Elías",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.4",
+          "type": "person",
+          "preferred_label": "Elías",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232456,
+    "content_id": "232456",
     "reference_id": 108487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eliseo",
     "media_type": "Text",
     "index_reference": "eliseo",
@@ -222,13 +439,29 @@
     "content": "<p>Un profeta en el reino del norte de Israel desde el gobierno de Acab hasta el gobierno de Joás. Fue siervo de Elías. Sus palabras y acciones desafiaron la autoridad de los gobernantes en Israel que adoraban a dioses falsos. Enseñó a muchos otros profetas. Dios realizó muchos milagros a través de Eliseo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Eliseo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishah",
+          "type": "person",
+          "preferred_label": "Elisa",
+          "confidence": 0.8214,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232507,
+    "content_id": "232507",
     "reference_id": 108538,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Emanuel",
     "media_type": "Text",
     "index_reference": "emanuel ",
@@ -237,13 +470,14 @@
     "content": "<p>Un nombre en el idioma hebreo que significa Dios está con nosotros. En la época del rey Acaz, Isaías profetizó sobre un niño llamado Emanuel. Sería una señal de que Dios estaba con el reino del sur. Este niño era una señal de que el reino del sur sería salvado. Serían salvados de los ejércitos enemigos que los atacaban. La profecía de Isaías también tenía un significado para el futuro. Mateo escribió sobre esto en su evangelio. A través de Jesús, Dios estaba con su pueblo en un cuerpo humano. Jesús es el Emanuel que salva al pueblo de Dios de los enemigos del pecado y la muerte.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232042,
+    "content_id": "232042",
     "reference_id": 108073,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "En el nombre de Jesús",
     "media_type": "Text",
     "index_reference": "en el nombre de jesús",
@@ -252,13 +486,14 @@
     "content": "<p>Las personas pueden hacer algo en nombre de otra persona. Cuando hacen esto, significa que lo están haciendo con la autoridad de esa persona. Lo están haciendo como si esa otra persona fuera la que lo estuviera haciendo. Los discípulos oraron, hablaron y actuaron en el nombre de Jesús. Esto mostró que creían que Jesús tiene completa autoridad en el cielo y en la tierra. También mostró que estaban haciendo el trabajo que Jesús les había enseñado a hacer. Las personas fueron bautizadas en el nombre de Jesús. Esto significa que pasaron por el bautismo porque creían en Jesús. Su bautismo mostró que estaban completamente comprometidos a seguir a Jesús.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232197,
+    "content_id": "232197",
     "reference_id": 108228,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Enoc",
     "media_type": "Text",
     "index_reference": "enoc",
@@ -267,13 +502,14 @@
     "content": "<p>El hijo de Jared en el linaje familiar de Set y padre de Matusalén. Fue fiel a Dios. No murió y no fue enterrado como otras personas sino que Dios lo llevó de la tierra.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232287,
+    "content_id": "232287",
     "reference_id": 108318,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Enseñar a sus hijos",
     "media_type": "Text",
     "index_reference": "enseñar a sus hijos",
@@ -282,13 +518,14 @@
     "content": "<p>Se animaba a los niños israelitas a hacer preguntas sobre Dios y sobre las prácticas de adoración. Los padres debían explicar a sus hijos por qué adoraban a Dios de ciertas maneras. De esta manera, los niños aprenderían quién es Dios. Aprenderían sobre las obras poderosas que Dios hace en el mundo. Esto era importante porque Dios había prometido ser su Dios para siempre. Dios quería que todos en la línea familiar de Jacob lo conocieran.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232128,
+    "content_id": "232128",
     "reference_id": 108159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Epafras",
     "media_type": "Text",
     "index_reference": "epafras",
@@ -297,13 +534,22 @@
     "content": "<p>Un creyente griego de Colosas que trabajó con Pablo. Compartió el mensaje acerca de Jesús en Colosas, Laodicea y Hierápolis. Ayudó a fundarr iglesias en esas ciudades y estuvo en prisión con Pablo por un tiempo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphras",
+          "type": "person",
+          "preferred_label": "Epafras",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232127,
+    "content_id": "232127",
     "reference_id": 108158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Epafrodito",
     "media_type": "Text",
     "index_reference": "epafrodito",
@@ -312,13 +558,22 @@
     "content": "<p>Un creyente griego de Filipos que trabajó con Pablo. Cuando Pablo estaba en prisión, Epafrodito le llevó regalos y dinero de los creyentes de Filipos. Llevó la carta de Pablo a los Filipenses cuando regresó a Filipos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphroditus",
+          "type": "person",
+          "preferred_label": "Epafrodito",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232101,
+    "content_id": "232101",
     "reference_id": 108132,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Epicúreos",
     "media_type": "Text",
     "index_reference": "epicúreos",
@@ -327,13 +582,14 @@
     "content": "<p>Un grupo de pensadores que seguían las enseñanzas del pensador griego Epicuro. Creían que el objetivo de la vida era tener paz completa. Podrían tener paz completa cuando tuviesen todo lo que realmente necesitaban y, entonces, no se preocuparían por nada. También creían que no había vida después de la muerte. Pablo compartió la buena nueva sobre Jesús con los epicúreos en Atenas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232238,
+    "content_id": "232238",
     "reference_id": 108269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esaú",
     "media_type": "Text",
     "index_reference": "esaú",
@@ -342,13 +598,29 @@
     "content": "<p>El hijo mayor de Isaac y Rebeca y nieto de Abraham. Era hermano gemelo de Jacob y también se llamaba Edom. Los edomitas eran del linaje familiar de Esaú.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esaú",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:EsauMount",
+          "type": "place",
+          "preferred_label": "Esaú",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232227,
+    "content_id": "232227",
     "reference_id": 108258,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esclavos",
     "media_type": "Text",
     "index_reference": "esclavos",
@@ -357,13 +629,14 @@
     "content": "<p>Muchas personas trabajaron como esclavos en los tiempos y lugares registrados en la Biblia. El modo de vida de muchos grupos de personas dependía del trabajo realizado por esclavos. Los esclavos podían hacer casi todos los trabajos en un hogar. Los escritores de la Biblia no enseñaron a las personas a tener esclavos. Los escritores del Antiguo Testamento enseñaron cómo los esclavos y los amos debían tratarse mutuamente. Esto se basaba en la Ley de Moisés. Todos los esclavos entre el pueblo de Israel podían descansar en el día de reposo. Se les permitía adorar a Dios junto con las personas libres. No estaban obligados a permanecer esclavos hasta su muerte. El pueblo de Dios no debía ser vendido como esclavos. Los escritores del Nuevo Testamento enseñaron que esclavos y amos eran miembros iguales de la familia de Dios. Debían servir a Jesús y servirse unos a otros. También hay un significado espiritual para la esclavitud en la Biblia. Los escritores de la Biblia describieron a los seres humanos como esclavos del pecado. Esto significa que el pecado gobierna sobre todos los seres humanos y los controla. Jesús libera a las personas de ser esclavos del pecado.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232510,
+    "content_id": "232510",
     "reference_id": 108541,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Escritura apocalíptica",
     "media_type": "Text",
     "index_reference": "escritura apocalíptica",
@@ -372,13 +645,14 @@
     "content": "<p>En el idioma griego, la palabra apocalipsis significa revelar o descubrir algo. La escritura apocalíptica era común entre los profetas judíos y cristianos. En la escritura apocalíptica, los profetas usaban signos e imágenes para hablar sobre cosas que sucedían en la tierra. Las señales e imágenes revelaban verdades espirituales sobre esas cosas. Ayudaban a las personas a entender el punto de vista de Dios, mostrando cómo Dios salvaría a su pueblo y juzgaría a sus enemigos. Las señales e imágenes en la escritura apocalíptica son a menudo poderosas y aterradores. Esto era para captar la atención de las personas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232482,
+    "content_id": "232482",
     "reference_id": 108513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esdras",
     "media_type": "Text",
     "index_reference": "esdras",
@@ -387,13 +661,29 @@
     "content": "<p>Un sacerdote que lideró a un grupo de judíos para regresar a Jerusalén desde Babilonia. También era un maestro de la ley. Era hijo de Seraías, del linaje familiar de Aarón en la tribu de Leví. Esdras enseñó a los judíos en Jerusalén la Ley de Moisés, después de que hubiesen vivido en Babilonia durante muchos años.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezra",
+          "type": "person",
+          "preferred_label": "Esdras",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ezra.2",
+          "type": "person",
+          "preferred_label": "Esdras",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232143,
+    "content_id": "232143",
     "reference_id": 108174,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esmirna",
     "media_type": "Text",
     "index_reference": "esmirna",
@@ -402,13 +692,14 @@
     "content": "<p>Una ciudad importante en el territorio romano de Asia. Estaba en la costa del mar Egeo. Es parte de la ciudad de Izmir, en el país ahora conocido como Turquía.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232517,
+    "content_id": "232517",
     "reference_id": 108548,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Espada",
     "media_type": "Text",
     "index_reference": "espada",
@@ -417,13 +708,14 @@
     "content": "<p>Un arma afilada utilizada para luchar. Los escritores de la Biblia dijeron que las palabras que las personas dicen son como espadas. Esto mostró cómo las personas pueden causar daño con sus palabras. Los escritores de la Biblia también dijeron que la palabra de Dios es como una espada. Esto expone que la palabra de Dios revela lo que hay dentro de los corazones de las personas. También demuestra que la palabra de Dios fortalece y protege a los creyentes cuando luchan contra el mal. De una manera especial, las palabras de la boca de Jesús fueron descritas como una espada. Esto fue una imagen de cómo Jesús es la palabra de Dios. Todo lo que Jesús dijo es la verdad de Dios. Hablando la verdad de Dios es cómo Jesús destruyó las mentiras del diablo sobre Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232113,
+    "content_id": "232113",
     "reference_id": 108144,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "España",
     "media_type": "Text",
     "index_reference": "españa",
@@ -432,13 +724,22 @@
     "content": "<p>Un país en el área occidental de las tierras regidas por el gobierno romano. Hoy todavía se llama España. Pablo quería compartir las buenas noticias allí. Es la región más occidental mencionada en la Biblia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Spain",
+          "type": "place",
+          "preferred_label": "España",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232357,
+    "content_id": "232357",
     "reference_id": 108388,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Espíritu Santo",
     "media_type": "Text",
     "index_reference": "espíritu santo",
@@ -447,13 +748,22 @@
     "content": "<p>Dios se muestra a sí mismo como el Espíritu en la creación del mundo. El Espíritu Santo es Dios al igual que el Padre es Dios y Jesús es Dios. Son las tres personas del único y verdadero Dios. El Espíritu Santo trabajó a través de las personas que registraron los libros de la Biblia. En el Antiguo Testamento, el Espíritu Santo hizo posible que las personas profetizaran. El Espíritu también hizo posible que las personas realizaran trabajos hábiles y hechos poderosos. En el Nuevo Testamento, el Espíritu Santo hizo posible que María fuera la madre de Jesús. Jesús envió al Espíritu Santo a sus seguidores en la fiesta de Pentecostés. A través del Espíritu Santo, los creyentes se unen a Jesús. El Espíritu Santo es un Amigo que hace que los seguidores de Jesús puedan continuar haciendo su obra.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:HolySpirit",
+          "type": "deity",
+          "preferred_label": "Espíritu",
+          "confidence": 0.8389,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232431,
+    "content_id": "232431",
     "reference_id": 108462,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Espiritual",
     "media_type": "Text",
     "index_reference": "espiritual",
@@ -462,13 +772,14 @@
     "content": "<p>Algo relacionado con el espíritu de un ser humano o un ser espiritual. A lo largo de la Biblia hay muchos significados para la palabra espíritu. Un significado es el Espíritu de Dios o Espíritu Santo. Otro significado es seres espirituales. Otro significado es el espíritu de una persona. Cuando Dios creó a los seres humanos, les sopló vida. Esta vida de Dios es el espíritu de cada persona. Es la parte de cada persona que existe más allá del cuerpo. Existirá para siempre. Las cosas que le suceden al espíritu de una persona o en su espíritu se describen como espirituales. El espíritu de una persona a menudo se interpreta como su corazón o su alma.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232246,
+    "content_id": "232246",
     "reference_id": 108277,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esposas",
     "media_type": "Text",
     "index_reference": "esposas",
@@ -485,13 +796,14 @@
           "label": "Matrimonio",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232487,
+    "content_id": "232487",
     "reference_id": 108518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ester",
     "media_type": "Text",
     "index_reference": "ester",
@@ -500,13 +812,22 @@
     "content": "<p>Una judía que vivió en el reino persa durante el tiempo de Asuero. Hadasa era su nombre judío y Ester era su nombre persa. Era hija de Abihail y pertenecía a la tribu de Benjamín. Su primo Mardoqueo la adoptó cuando sus padres murieron. Asuero la eligió como reina porque era hermosa y le agradaba. Ester hizo un plan valiente y sabio para ayudar a salvar a los judíos de ser destruidos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esther",
+          "type": "person",
+          "preferred_label": "Esther",
+          "confidence": 0.8753,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232070,
+    "content_id": "232070",
     "reference_id": 108101,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Estevan",
     "media_type": "Text",
     "index_reference": "estevan",
@@ -515,13 +836,14 @@
     "content": "<p>Uno de los siete líderes elegidos por los creyentes en Jerusalén para ser diácono. Se aseguró de que todos los creyentes tuvieran suficiente comida. Muchos judíos estaban enojados porque él predicaba sobre Jesús. Lo mataron arrojándole piedras. Fue el primer seguidor de Jesús en ser asesinado por ser fiel a Jesús.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232100,
+    "content_id": "232100",
     "reference_id": 108131,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Estoicos",
     "media_type": "Text",
     "index_reference": "estoicos",
@@ -530,13 +852,14 @@
     "content": "<p>Un grupo de pensadores que siguieron las enseñanzas del pensador griego Zenón de Citio. Creían que las personas debían vivir de acuerdo con leyes naturales llamadas de logos. El logos se entendía como la fuerza de la razón que hacía que el mundo funcionase. Pablo compartió las nuevas buenas sobre Jesús con los estoicos en Atenas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232174,
+    "content_id": "232174",
     "reference_id": 108205,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eva",
     "media_type": "Text",
     "index_reference": "eva",
@@ -545,13 +868,22 @@
     "content": "<p>El segundo ser humano que Dios creó y la primera mujer. Adán era su esposo. En el idioma hebreo, el nombre Eva significa dadora de vida. Dios hizo a Eva a partir de una de las costillas de Adán. Ella tenía amistad y paz con Dios mientras vivía en el Jardín del Edén. Trabajaba junto con Adán para cuidar el jardín. Fue la madre de Caín, Abel y Set. Cuando Adán y Eva dejaron de obedecer a Dios, tuvieron que salir del Jardín del Edén.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eve",
+          "type": "person",
+          "preferred_label": "Eva",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232000,
+    "content_id": "232000",
     "reference_id": 108031,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Evangelio",
     "media_type": "Text",
     "index_reference": "evangelio",
@@ -568,13 +900,14 @@
           "label": "Buenas noticias",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232548,
+    "content_id": "232548",
     "reference_id": 108579,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Evangelio de la prosperidad",
     "media_type": "Text",
     "index_reference": "evangelio de la prosperidad",
@@ -583,13 +916,14 @@
     "content": "<p>Una enseñanza que va en contra de las buenas nuevas sobre Jesús. Enseña que Dios salva a las personas de todos los problemas y sufrimientos en la tierra. Enseña que Dios da riquezas a todos los que creen en Jesús y tienen fe en él. Enseña que siempre tendrán más de lo que necesitan. También enseña que siempre tendrán cuerpos sanos. Enseña que tendrán todas estas cosas mientras estén vivos en la tierra. Las buenas nuevas sobre Jesús que son verdaderas no enseñan estas cosas. Lo que es verdad es que Jesús salva a las personas del poder del pecado, la muerte y el mal. Esta salvación comienza mientras las personas están vivas en la tierra. Será completa cuando Jesús regrese y gobierne como Rey en la nueva creación. Jesús es el ejemplo para sus seguidores sobre cómo vivir. Su ejemplo enseña a los creyentes cómo servir a los demás y cómo enfrentar el sufrimiento.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232464,
+    "content_id": "232464",
     "reference_id": 108495,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Exilio",
     "media_type": "Text",
     "index_reference": "exilio",
@@ -598,13 +932,14 @@
     "content": "<p>Cuando las personas se ven obligadas a abandonar sus hogares y tierras y vivir en otro lugar. Esto fue una maldición del pacto del Monte Sinaí. Muchos israelitas del reino del norte se exiliaron en Asiria y nunca regresaron a la tierra de Israel. Muchos israelitas del reino del sur se exiliaron en Babilonia y algunos de ellos regresaron a la tierra de Judá.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232285,
+    "content_id": "232285",
     "reference_id": 108316,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Éxodo",
     "media_type": "Text",
     "index_reference": "éxodo",
@@ -613,13 +948,14 @@
     "content": "<p>Cuando Dios usó a Moisés para rescatar a los israelitas de la esclavitud en Egipto. En el idioma griego, la palabra éxodo significa salir o partir. El éxodo fue el momento en que Dios se mostró como el Salvador de Israel, hizo obras poderosas y trajo juicio contra el faraón, Egipto y los falsos dioses de Egipto. El éxodo es una imagen de la salvación que Dios ofrece a todos los seres humanos. La muerte de los corderos es una imagen de la muerte de Jesús muchos años después cuando Jesús fue sacrificado como el Cordero de Dios. La sangre de los corderos se puso en las puertas para salvar a los israelitas, una imagen de cómo la sangre de Jesús salva a aquellos que creen en él. Los israelitas fueron liberados de la esclavitud, una imagen de cómo Dios libera a aquellos que confían en él. Los libera de la esclavitud al poder del pecado, la muerte y el mal.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232336,
+    "content_id": "232336",
     "reference_id": 108367,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Expiar",
     "media_type": "Text",
     "index_reference": "expiar",
@@ -636,13 +972,14 @@
           "label": "Día de la Expiación",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232119,
+    "content_id": "232119",
     "reference_id": 108150,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Explicar otros idiomas",
     "media_type": "Text",
     "index_reference": "explicar otros idiomas",
@@ -659,13 +996,14 @@
           "label": "Hablar otras lenguas ",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232378,
+    "content_id": "232378",
     "reference_id": 108409,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Expulsar",
     "media_type": "Text",
     "index_reference": "expulsar",
@@ -674,13 +1012,14 @@
     "content": "<p>La manera en que Dios planeó traer juicio contra los cananeos por sus malos caminos. Dios había sido paciente con ellos durante cientos de años. Después trajo juicio contra ellos para detener sus malas acciones. Su juicio fue que ya no les permitiría quedarse en su tierra. Usaría a los israelitas como su herramienta para expulsarlos. Pero los israelitas no obedecieron completamente a Dios. No expulsaron a todos los cananeos. En cambio, los israelitas vivieron con los cananeos y siguieron sus malos caminos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232338,
+    "content_id": "232338",
     "reference_id": 108369,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Extranjero",
     "media_type": "Text",
     "index_reference": "extranjero ",
@@ -689,13 +1028,14 @@
     "content": "<p>Cualquiera que no pertenezca a un lugar o grupo. Las personas que vivían en un lugar diferente al de su familia eran consideradas extranjeras. Las personas que se unían a un grupo que no era parte de su familia también eran consideradas extranjeras. Los israelitas consideraban extranjero a cualquiera que no fuera parte de la familia de Jacob. Los extranjeros que vivían con ellos tenían que obedecer ciertas leyes de la Ley de Moisés. Los israelitas que no seguían fielmente la Ley de Moisés a menudo eran tratados como extranjeros. También se les llamaba pecadores. Los israelitas que eran considerados impuros según la Ley de Moisés eran tratados como extranjeros. La mayoría de los extranjeros no podían ser parte completamente de su comunidad. Pero algunos como Rut fueron plenamente aceptados como miembros de la comunidad israelita. Algunos extranjeros también eran conocidos como extraños y forasteros.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232465,
+    "content_id": "232465",
     "reference_id": 108496,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezequías",
     "media_type": "Text",
     "index_reference": "ezequías",
@@ -704,13 +1044,57 @@
     "content": "<p>El hijo de Acaz y Abías. Fue el padre de Manasés y era de la tribu de Judá. Fue el duodécimo rey del reino del sur de Judá. Mientras era rey, Dios hizo un milagro para salvar a Jerusalén de los asirios. Ezequías siguió a Dios fielmente y guió al pueblo a adorar a Dios solamente.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hezekiah",
+          "type": "person",
+          "preferred_label": "Ezechîas",
+          "confidence": 0.9255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.2",
+          "type": "person",
+          "preferred_label": "Ezechîas",
+          "confidence": 0.9255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.3",
+          "type": "person",
+          "preferred_label": "Ezechîas",
+          "confidence": 0.9255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hezekiah.4",
+          "type": "person",
+          "preferred_label": "Ezechîas",
+          "confidence": 0.9255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hizkiah",
+          "type": "person",
+          "preferred_label": "Ezechîas",
+          "confidence": 0.9255,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehizkiah",
+          "type": "person",
+          "preferred_label": "Ezechîas",
+          "confidence": 0.9255,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232524,
+    "content_id": "232524",
     "reference_id": 108555,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezequiel",
     "media_type": "Text",
     "index_reference": "ezequiel",
@@ -719,7 +1103,16 @@
     "content": "<p>Un sacerdote que se convirtió en profeta cuando Babilonia tomó el control del reino del sur. Era hijo de Buzi y provenía de la tribu de Leví. Estaba en el grupo de judíos obligados a vivir en el exilio en Babilonia. Sus visiones y profecías están registradas en el libro de Ezequiel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezekiel",
+          "type": "person",
+          "preferred_label": "Ezequiel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

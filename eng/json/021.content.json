@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 132471,
+    "content_id": "132471",
     "reference_id": 108525,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ungodly people",
     "media_type": "Text",
     "index_reference": "ungodly people",
@@ -11,13 +11,14 @@
     "content": "<p>People who don’t live the way God wants human beings to live. They don’t love, worship and obey God. They worship false gods. They try to get what is best for themselves and don’t serve others. They also try to make others stop being faithful to God and his ways. God wants ungodly people to turn away from sin and be made right with him. God will raise ungodly people from the dead. He will judge them.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 132415,
+    "content_id": "132415",
     "reference_id": 108469,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Uriah",
     "media_type": "Text",
     "index_reference": "uriah",
@@ -26,7 +27,44 @@
     "content": "<p>The husband of Bathsheba and one of David’s 30 chief warriors. He was a Hittite. He was an outsider who was considered part of Israel. David had him murdered in the battle against the Ammonites at Rabbah.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Uriah.2",
+          "type": "person",
+          "preferred_label": "Uriah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Uriah.3",
+          "type": "person",
+          "preferred_label": "Uriah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Uriah.4",
+          "type": "person",
+          "preferred_label": "Uriah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Uriah.5",
+          "type": "person",
+          "preferred_label": "Uriah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "person:Uriah",
+          "type": "person",
+          "preferred_label": "Uriah",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        }
+      ]
     }
   }
 ]

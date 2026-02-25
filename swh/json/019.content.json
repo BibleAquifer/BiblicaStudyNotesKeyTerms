@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 367705,
+    "content_id": "367705",
     "reference_id": 108214,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saba",
     "media_type": "Text",
     "index_reference": "saba",
@@ -11,13 +11,36 @@
     "content": "<p>Nambari inayotumika katika Biblia kuzungumzia mambo ambayo yamekamilika. Inaonyesha kwamba mambo yamekamilika na ni kamilifu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sabtah",
+          "type": "person",
+          "preferred_label": "Sabta",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Seba",
+          "type": "person",
+          "preferred_label": "Seba",
+          "confidence": 0.8127,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Seba",
+          "type": "place",
+          "preferred_label": "Seba",
+          "confidence": 0.8127,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367845,
+    "content_id": "367845",
     "reference_id": 108354,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka za hatia",
     "media_type": "Text",
     "index_reference": "sadaka za hatia",
@@ -26,13 +49,14 @@
     "content": "<p>Dhabihu au sadaka kwa wakati watu walipokuwa wasio waaminifu kwa Mungu na kutenda dhambi bila kukusudia. Pia zilikuwa kwa wakati watu walipotenda dhambi dhidi ya wengine. Mungu aliwataka watu kutoa dhabihu hizi. Wakati watu walipotambua walichokosea, walipaswa kuacha. Walipaswa kumrudia Mungu na kumtumaini awasamehe. Wangeonyesha hili kwa kutoa sadaka ya hatia. Kuchinja kondoo dume ilikuwa njia ya kulipia dhambi aliyotenda mtu. Kisha mtu mwenye hatia alipaswa kurudisha alichochukua. Pia walipaswa kulipa ziada kwa mtu waliyemdhuru. Makuhani walichoma sehemu ya sadaka ya hatia. Sehemu nyingine walikula ndani ya ua wa hema takatifu au hekalu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367844,
+    "content_id": "367844",
     "reference_id": 108353,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka za kutakasa dhambi",
     "media_type": "Text",
     "index_reference": "sadaka za kutakasa dhambi",
@@ -41,13 +65,14 @@
     "content": "<p>Dhabihu au sadaka ambazo Mungu aliwataka watu wake kutoa walipokosa bila kukusudia. Watu walipotambua kuwa wamekosa, walipaswa kuacha. Walipaswa kumrudia Mungu na kumtumaini awasamehe. Wangeonyesha hili kwa kutoa sadaka ya kutakaswa dhambi. Kuchinja mnyama ilikuwa njia ya kulipia dhambi aliyofanya mtu. Sadaka ingeweza kuwa ng&apos;ombe, mbuzi, wana-kondoo, hua, njiwa au unga mzuri. Mungu alihitaji sadaka za kutakasa dhambi zitolewe mara tu dhambi ilipogunduliwa. Pia zilipaswa kutolewa kwa wakati fulani wa mwaka. Sadaka nyingi za dhambi zililiwa na makuhani ndani ya ua wa hema takatifu au hekalu. Sadaka nyingine za kutakasa dhambi zilipaswa kuchomwa kabisa. Sehemu zake zilichomwa kwenye madhabahu. Sehemu nyingine zilichomwa nje ya kambi au mji. Yesu alipojitoa dhabihu msalabani, alilipia dhambi za watu wote. Alikuwa sadaka ya mwisho ya kutakasa dhambi iliyohitajika.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367841,
+    "content_id": "367841",
     "reference_id": 108350,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka za kuteketezwa",
     "media_type": "Text",
     "index_reference": "sadaka za kuteketezwa",
@@ -56,13 +81,14 @@
     "content": "<p>Dhabihu au sadaka za wanyama wa kiume wasafi, au ndege ambazo watu walichagua kutoa. Mnyama mzima isipokuwa ngozi ilichomwa. Hii ilikuwa ishara kwamba, mtu anayetoa dhabihu, alikuwa amejitolea kabisa kwa Mungu. Kulikuwa na nyakati fulani, ambapo dhabihu za kuteketezwa zilihitajika kufanywa. Watu pia wangeweza kutoa dhabihu za kuteketezwa nyakati nyingine walipotaka. Tarumbeta zilipigwa wakati wa dhabihu za kuteketezwa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367842,
+    "content_id": "367842",
     "reference_id": 108351,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka za nafaka",
     "media_type": "Text",
     "index_reference": "sadaka za nafaka",
@@ -71,13 +97,14 @@
     "content": "<p>Dhabihu au sadaka za mikate na unga ambazo watu walichagua kutoa. Zilitolewa pamoja na mafuta, uvumba, chumvi na wakati mwingine divai. Makuhani walikula sehemu ya sadaka za nafaka. Zilizobaki zilichomwa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367843,
+    "content_id": "367843",
     "reference_id": 108352,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sadaka za urafiki",
     "media_type": "Text",
     "index_reference": "sadaka za urafiki",
@@ -86,13 +113,14 @@
     "content": "<p>Dhabihu au sadaka zilizotolewa na watu kuonyesha shukrani yao kwa Mungu.. Sadaka hizi zilionyesha uhusiano wa ndani kati ya Mungu na watu wake. Ndiyo maana sadaka hizo zinaitwa sadaka za urafiki. Pia zilifanywa kama sehemu ya kutimiza ahadi ambayo mtu alikuwa ameitoa. Sadaka hizo zingeweza kuwa kitu chochote ambacho mtu alichotaka kutoa. Vifaa vilivyotolewa na watu kwa ajili ya kujenga hema takatifu na hekalu vilihesabiwa kama sadaka za urafiki. Wanyama walitolewa dhabihu kama sehemu ya sadaka za urafiki. Unga, mafuta na divai pia vilitolewa. Kuhani pamoja na wale waliotoa sadaka hii walikula sehemu yake. Walikula baada ya kutolewa dhabihu. Tarumbeta zilipulizwa wakati wa sadaka za urafiki.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367602,
+    "content_id": "367602",
     "reference_id": 108111,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Safari za Paulo",
     "media_type": "Text",
     "index_reference": "safari za paulo",
@@ -101,13 +129,14 @@
     "content": "<p>Paulo alifanya safari kadhaa ndefu katika ardhi zilizotawaliwa na serikali ya Kirumi. Kila mahali alipoenda, alihubiri habari njema kuhusu Yesu kwa Wayahudi kwanza. Kisha alihubiri kwa Mataifa. Alisaidia kuyaanzisha makanisa miongoni mwa wale waliomwamini Yesu. Alisafiri na Barnaba kwenye safari ya kwanza. Alisafiri na Sila kwenye safari ya pili. Alisafiri na wasaidizi kadhaa kwenye safari ya tatu. Alisafiri kama mfungwa kwenda Roma kwenye safari yake ya nne. Kila safari ilidumu zaidi ya mwaka mmoja.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367854,
+    "content_id": "367854",
     "reference_id": 108363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Safi au chafu",
     "media_type": "Text",
     "index_reference": "safi au chafu",
@@ -124,13 +153,14 @@
           "label": "Safii au najisi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367855,
+    "content_id": "367855",
     "reference_id": 108364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Safii au najisi",
     "media_type": "Text",
     "index_reference": "safii au najisi",
@@ -147,13 +177,14 @@
           "label": "Safi au chafu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367727,
+    "content_id": "367727",
     "reference_id": 108236,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Safina",
     "media_type": "Text",
     "index_reference": "safina",
@@ -162,13 +193,22 @@
     "content": "<p>Ni meli kubwa ambayo Mungu alimpa Noa maagizo ya kujenga. Mungu aliwaweka watu na wanyama salama ndani ya safina wakati wa gharika.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sapphira",
+          "type": "person",
+          "preferred_label": "Safira",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367718,
+    "content_id": "367718",
     "reference_id": 108227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sala",
     "media_type": "Text",
     "index_reference": "sala",
@@ -177,13 +217,29 @@
     "content": "<p>Tabia ya kuzungumza na Mungu na kumsikiliza Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shelah",
+          "type": "person",
+          "preferred_label": "Sala",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shelah.2",
+          "type": "person",
+          "preferred_label": "Sala",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367980,
+    "content_id": "367980",
     "reference_id": 108489,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samaria",
     "media_type": "Text",
     "index_reference": "samaria",
@@ -192,13 +248,57 @@
     "content": "<p>Ni mji mkuu wa ufalme wa kaskazini wa Israeli. Omri alifanya Samaria kuwa kitovu cha serikali ya ufalme wa kaskazini. Ahabu alifanya mji huo kuwa kitovu cha ibada za ufalme wa kaskazini. Waashuri walichukua udhibiti wa mji na eneo linalozunguka mwaka 722 kabla ya Yesu (KK). Walileta makundi mengine ya watu kuishi huko. Makundi haya ya watu yalichanganyika na Waisraeli waliobaki Samaria. Watoto wao walijulikana kama Wasamaria. Katika kipindi cha Warumi, Samaria ilikuwa eneo la Israeli. Ilikuwa kati ya Galilaya kaskazini na Yudea kusini. Katika wakati wa Yesu, Wasamaria walidai kuwa kutoka kwenye ukoo wa Abrahamu. Wayahudi na Wasamaria kwa kawaida walitendeana kama maadui.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Samaria",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Samaria.2",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemariah",
+          "type": "person",
+          "preferred_label": "Shemaria",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemariah.2",
+          "type": "person",
+          "preferred_label": "Shemaria",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemariah.3",
+          "type": "person",
+          "preferred_label": "Shemaria",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemariah.4",
+          "type": "person",
+          "preferred_label": "Shemaria",
+          "confidence": 0.8063,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367772,
+    "content_id": "367772",
     "reference_id": 108281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samehe",
     "media_type": "Text",
     "index_reference": "samehe",
@@ -207,13 +307,197 @@
     "content": "<p>Kuna maneno kadhaa kutoka lugha za Kiebrania na Kigiriki yanatumika katika Biblia kwa neno kusamehe. Maneno haya yanaelezea kwa njia nyingi maana ya kusamehe na kusamehewa. Deni la pesa linaweza kusamehewa. Hii inamaanisha kwamba mtu anayekopa pesa hatalazimika tena  kulipa. Dhambi inaweza kusamehewa. Mungu ndiye anayesamehe dhambi. Hii inamaanisha kwamba Mungu anatambua dhambi iliyofanywa. Mungu anatambua ni mtu gani au kundi gani la watu lina hatia ya dhambi hiyo. Hatia ni kama mzigo mzito ambao Mungu huondoa kwa mtu anapomsamehe. Mungu huondoa hatia ya mtu au kundi. Ni kama Mungu anachukua dhambi na kuiachilia mahali mbali sana. Mungu huchagua kutotoa hukumu dhidi ya mtu au kundi kwa sababu ya dhambi zao. Mungu yuko tayari kila wakati kuwasamehe watu kwa dhambi zao. Hii ni kwa sababu yeye amejawa rehema na upendo. Mungu anataka watu wote na makundi yote ya watu waache dhambi. Anataka wamuombe Mungu  msamaha awasamehe. Mungu pia anataka watu wote na makundi yote ya watu wafuate mfano wake. Anataka wasameheane kwa dhambi zao.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shemaiah",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.10",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.11",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.12",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.13",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.14",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.15",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.16",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.17",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.18",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.19",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.2",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.20",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.21",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.22",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.23",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.24",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.25",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.26",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.3",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.4",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.5",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.6",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.7",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.8",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.9",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8028,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367930,
+    "content_id": "367930",
     "reference_id": 108439,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samsoni",
     "media_type": "Text",
     "index_reference": "samsoni",
@@ -222,13 +506,22 @@
     "content": "<p>Ni mmoja wa majaji 12 wa Israeli. Alikuwa kutoka kabila la Dani, na baba yake alikuwa Manoah. Malaika wa Bwana alimtokea mama yake kutangaza kuzaliwa kwake. Alipaswa kuishi kama Mnadhiri maisha yake yote. Mungu alimtumia Samsoni kuwaokoa Waisraeli kutokana na kutendewa vibaya na Wafilisti.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "Samsoni",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367943,
+    "content_id": "367943",
     "reference_id": 108452,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samweli",
     "media_type": "Text",
     "index_reference": "samweli",
@@ -237,13 +530,22 @@
     "content": "<p>Ni mwisraeli ambaye alihudumia watu wa Mungu kama nabii, kuhani na hakimu. Katika lugha ya Kiebrania jina Samweli linamaanisha kusikilizwa na Mungu. Jina hilo linaweza pia kumaanisha kuazimwa kutoka kwa Mungu. Samweli alikuwa mwaminifu kwa Mungu maisha yake yote. Alikuwa mwana wa Elkana na Hana. Alitoka katika kabila la Lawi kupitia ukoo wa Kora. Wanawe walikuwa Yoeli na Abiya. Samweli alilelewa kama Mnadhiri katika hema takatifu huko Shilo. Alianza kuhudumia Waisraeli kama nabii alipokuwa kijana. Alihudumu kama kuhani baada ya Eli kufa. Alipohudumu kama hakimu Mungu aliwaokoa Waisraeli kutoka kwa Wafilisti. Samweli alimtia mafuta kwanza Sauli na kisha Daudi kuwa mfalme.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "Samweli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367876,
+    "content_id": "367876",
     "reference_id": 108385,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sanduku la agano",
     "media_type": "Text",
     "index_reference": "sanduku la agano",
@@ -260,13 +562,14 @@
           "label": "Chumba Kitakatifu Zaidi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367558,
+    "content_id": "367558",
     "reference_id": 108067,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sanhedrini",
     "media_type": "Text",
     "index_reference": "sanhedrini",
@@ -275,13 +578,22 @@
     "content": "<p>Ni kikundi cha viongozi wa dini 70. Walikuwa na mamlaka makubwa zaidi katika mahakama za Kiyahudi wakati wa Yesu. Sanhedrin pia iliitwa Baraza la Kiyahudi. Walitunza hekalu huko Yerusalemu na kufanya maamuzi muhimu kwa watu wa Kiyahudi. Wafarisayo na Masadukayo wote walihudumu katika Sanhedrin. Baraza hili lilimpinga Yesu. Pia waliwapinga mitume ambao walieneza habari kuhusu Yesu kufufuka kutoka kwa wafu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Sanhedrin",
+          "type": "group",
+          "preferred_label": "Sanhedrin",
+          "confidence": 0.8883,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367738,
+    "content_id": "367738",
     "reference_id": 108247,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sara",
     "media_type": "Text",
     "index_reference": "sara",
@@ -290,13 +602,22 @@
     "content": "<p>Ni mwanamke kutoka Mesopotamia ambaye alikuwa mke wa Abrahamu. Alikuwa binti wa Tera lakini kutoka kwa mama tofauti na Abrahamu. Mungu alibadilisha jina la Sarai kuwa Sara katika Mwanzo sura ya 17. Katika lugha ya Kiebrania, Sarai na Sara majina yote anamaanisha malkia au mwanamke mashuhuri. Kwa miaka mingi hakuweza kupata watoto. Mungu aliahidi kwamba angepata mwana. Alipokuwa mzee sana, alizaa Isaka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367669,
+    "content_id": "367669",
     "reference_id": 108178,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sardis",
     "media_type": "Text",
     "index_reference": "sardis",
@@ -305,13 +626,29 @@
     "content": "<p>Mji muhimu katika eneo la Kirumi la Asia. Kulikuwa na hekalu la mungu wa kike Artemis.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Sardis",
+          "type": "place",
+          "preferred_label": "Sardi",
+          "confidence": 0.8773,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Sarid",
+          "type": "place",
+          "preferred_label": "Saridi",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367946,
+    "content_id": "367946",
     "reference_id": 108455,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sauli",
     "media_type": "Text",
     "index_reference": "sauli",
@@ -320,13 +657,22 @@
     "content": "<p>Ni mfalme wa kwanza wa Israeli. Alikuwa mwana wa Kishi na alitoka katika kabila la Benyamini. Alikuwa mrefu sana na mwenye sura nzuri. Kama mfalme, aliacha kumwamini na kumtii Mungu. Kwa sababu hii, ukoo wake haukuendelea kutawala Israeli. Sauli alitawaliwa na hofu na wivu. Alijaribu sana kumuua Daudi. Alikufa katika vita dhidi ya Wafilisti.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Sauli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367865,
+    "content_id": "367865",
     "reference_id": 108374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sehemu ya kwanza ya mazao",
     "media_type": "Text",
     "index_reference": "sehemu ya kwanza ya mazao",
@@ -335,13 +681,14 @@
     "content": "<p>Waisraeli walipaswa kutoa sadaka ya sehemu ya kwanza ya mazao yao. Walifanya hivi mwanzoni mwa mavuno wakati wa Sikukuu ya Mikate Isiyo na Chachu. Hii iliwakumbusha kwamba ardhi na kile ilichozalisha kilikuwa mali ya Mungu. Iliwakumbusha kwamba Mungu alitoa kila kitu walichohitaji.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367715,
+    "content_id": "367715",
     "reference_id": 108224,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sethi",
     "media_type": "Text",
     "index_reference": "sethi",
@@ -350,13 +697,29 @@
     "content": "<p>Mwana wa Adamu na Hawa. Alikuwa kama Adamu kwa njia ambazo Kaini hakuwa. Sethi alimfuata Mungu, na Mungu alimchagua ili afanye kazi kupitia ukoo wa Sethi katika mpango wake wa kuokoa dunia. Yesu alitoka katika ukoo wa Sethi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Seth",
+          "type": "person",
+          "preferred_label": "Sethi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sethur",
+          "type": "person",
+          "preferred_label": "Sethuri",
+          "confidence": 0.8524,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367695,
+    "content_id": "367695",
     "reference_id": 108204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shairi",
     "media_type": "Text",
     "index_reference": "shairi",
@@ -365,13 +728,50 @@
     "content": "<p>Njia ya kuzungumza au kuandika ambayo inaweza kuwa kama kuimba. Mara nyingi mashairi hayaelezi mambo moja kwa moja. Yanaunda picha na alama kwa maneno. Haya husaidia watu kuelewa kile mzungumzaji au mwandishi anachosema. Mashairi yanaeleza kitu kwa kuelezea jinsi kilivyo kama kitu kingine. Biblia inajumuisha mashairi mengi yaliyoandikwa kwa lugha ya Kiebrania. Mengi ya haya yalizungumzwa na kuandikwa mistari miwili kwa wakati mmoja. Mstari wa kwanza ulishiriki wazo, kisha mstari wa pili ulikamilisha wazo hilo. Ilifanya hivyo kwa kushiriki wazo lile lile tena kwa njia mpya au tofauti. Hii ilisaidia watu kuelewa na kukumbuka kile mzungumzaji au mwandishi alitaka kusema.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sharai",
+          "type": "person",
+          "preferred_label": "Sharai",
+          "confidence": 0.8894,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sachar",
+          "type": "person",
+          "preferred_label": "Sharari",
+          "confidence": 0.866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shamir",
+          "type": "person",
+          "preferred_label": "Shamiri",
+          "confidence": 0.8285,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shamir",
+          "type": "place",
+          "preferred_label": "Shamiri",
+          "confidence": 0.8285,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shamir.2",
+          "type": "place",
+          "preferred_label": "Shamiri",
+          "confidence": 0.8285,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368024,
+    "content_id": "368024",
     "reference_id": 108533,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shairi la Alfabeti",
     "media_type": "Text",
     "index_reference": "shairi la alfabeti",
@@ -388,13 +788,14 @@
           "label": "Shairi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367773,
+    "content_id": "367773",
     "reference_id": 108282,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shekemu",
     "media_type": "Text",
     "index_reference": "shekemu ",
@@ -403,13 +804,50 @@
     "content": "<p>Mji katika Kanaani ambao ulikuwa mji muhimu katika Israeli, Abrahamu na Yakobo walijenga madhabahu kwa Mungu huko. Shekemu pia lilikuwa jina la mtu aliyembaka Dina. Ndugu za Dina walimuua Shekemu na wanaume wa mji huo kwa sababu ya kile alichofanya Shekemu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "Shekemu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem.2",
+          "type": "person",
+          "preferred_label": "Shekemu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem.3",
+          "type": "person",
+          "preferred_label": "Shekemu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "Shekemu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Shemu",
+          "confidence": 0.8485,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367905,
+    "content_id": "367905",
     "reference_id": 108414,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shema",
     "media_type": "Text",
     "index_reference": "shema",
@@ -418,13 +856,246 @@
     "content": "<p>Ombi la Kiyahudi linalojumuisha Kumbukumbu la Torati 6:4. Katika lugha ya Kiebrania, neno la kwanza la Kumbukumbu la Torati 6:4 ni shema. Linamaanisha kusikiliza na kuchukua hatua kulingana na kile kilichosikika. Katika lugha ya Kiebrania, kusikia na kufanya vinaeleweka kuwa kitu kimoja. Shema inaelezea kile ambacho agano la Mungu na Waisraeli lilikuwa kuhusu. Mungu ni mmoja na ndiye Mungu wa kweli pekee. Waisraeli walipaswa kumtii Mungu pekee. Hii ilikuwa kweli kwa kila mtu. Pia ilikuwa kweli kwao kama jamii. Walipaswa kutii Amri Kumi na sheria zote za Mungu. Mambo mengi yangewasaidia kukumbuka Mungu ni nani na aliamuru nini. Walipaswa kuzungumza kuhusu amri zake wakati wote kila mahali na na kila mtu. Walipaswa kuziandika. Walipaswa kuweka vikumbusho kwenye nguo zao, miili yao, nyumba zao na malango yao. Walipaswa kuuliza maswali kuhusu Mungu kwa uhuru na kuzungumza naye na watoto wao. Yesu alitumia maneno ya Shema katika Marko 12:29.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shema",
+          "type": "person",
+          "preferred_label": "Shema",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.2",
+          "type": "person",
+          "preferred_label": "Shema",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.3",
+          "type": "person",
+          "preferred_label": "Shema",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.4",
+          "type": "person",
+          "preferred_label": "Shema",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shema",
+          "type": "place",
+          "preferred_label": "Shema",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaah",
+          "type": "person",
+          "preferred_label": "Shemaa",
+          "confidence": 0.8524,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Shemu",
+          "confidence": 0.8516,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.10",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.11",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.12",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.13",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.14",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.15",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.16",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.17",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.18",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.19",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.2",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.20",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.21",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.22",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.23",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.24",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.25",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.26",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.3",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.4",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.5",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.6",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.7",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.8",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemaiah.9",
+          "type": "person",
+          "preferred_label": "Shemaya",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367732,
+    "content_id": "367732",
     "reference_id": 108241,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shemu",
     "media_type": "Text",
     "index_reference": "shemu",
@@ -433,13 +1104,106 @@
     "content": "<p>Mwana wa pili wa Nuhu; yeye na mke wake waliokolewa kutoka kwenye gharika kwa sababu walikuwa ndani ya safina. Alimheshimu baba yake wakati Nuhu alipolewa baada ya gharika. Shemu alimfuata Mungu. Nuhu alimtambua Shemu kama kiongozi miongoni mwa ndugu zake. Alitamka baraka juu ya familia ya Shemu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Shemu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema",
+          "type": "person",
+          "preferred_label": "Shema",
+          "confidence": 0.8516,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.2",
+          "type": "person",
+          "preferred_label": "Shema",
+          "confidence": 0.8516,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.3",
+          "type": "person",
+          "preferred_label": "Shema",
+          "confidence": 0.8516,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shema.4",
+          "type": "person",
+          "preferred_label": "Shema",
+          "confidence": 0.8516,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shema",
+          "type": "place",
+          "preferred_label": "Shema",
+          "confidence": 0.8516,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "Shekemu",
+          "confidence": 0.8485,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem.2",
+          "type": "person",
+          "preferred_label": "Shekemu",
+          "confidence": 0.8485,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem.3",
+          "type": "person",
+          "preferred_label": "Shekemu",
+          "confidence": 0.8485,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "Shekemu",
+          "confidence": 0.8485,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shepham",
+          "type": "place",
+          "preferred_label": "Shefamu",
+          "confidence": 0.8443,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:RedSea",
+          "type": "place",
+          "preferred_label": "Shamu",
+          "confidence": 0.8404,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shillem",
+          "type": "person",
+          "preferred_label": "Shilemu",
+          "confidence": 0.8,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367873,
+    "content_id": "367873",
     "reference_id": 108382,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shemu ya  Kumi",
     "media_type": "Text",
     "index_reference": "shemu ya  kumi",
@@ -448,13 +1212,14 @@
     "content": "<p>Waisraeli walipaswa kutoa sehemu ya kumi ya kila kitu walichokuwa nacho kwa Mungu. Hii ilijumuisha kila kitu kilichozalishwa na ardhi yao na mifugo yao . Hii ingewasaidia kukumbuka kwamba kila kitu ni mali ya Mungu. Ingewasaidia kukumbuka kwamba kila kitu walichokuwa nacho ni zawadi kutoka kwa Mungu. Ingewasaidia kuwa na furaha tele katika nchi ambayo Mungu aliwapa. Walitoa sehemu ya kumi ya kila kitu kwa Mungu kwa Walitoa sehemu ya kumi ya vitu vyote kwa Mungu kwa kuwagawia makuhani na Walawi. Pia waliwagawia  maskini na wahitaji. Zoezi la kutoa sehemu ya kumi kwa Mungu lilidumu kwa mika mingi. Pia inaitwa kutoa zaka. Wakristo wengi wanatoa zaka kwa kanisa lao. Zaka inaweza kuwa ni sehemu ya mapato yoyote ya kazi yao ikiwemo pesa. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367863,
+    "content_id": "367863",
     "reference_id": 108372,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sherehe",
     "media_type": "Text",
     "index_reference": "sherehe",
@@ -463,13 +1228,14 @@
     "content": "<p>Sherehe ni shughuli zilizowasaidia Waisraeli kumkumbuka Mungu ni nani. Sikukuu ziliwasaidia kukumbuka kwamba Mungu angeendelea kuwalinda na kuwapa mahitaji yao. Sikukuu zilihusisha kupumzika badala ya kufanya kazi zao za kawaida. Zilihusisha kula pamoja. Pia zilihusisha kutoa dhabihu na kumwabudu Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367853,
+    "content_id": "367853",
     "reference_id": 108362,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria katika Kitabu cha Mambo ya Walawi",
     "media_type": "Text",
     "index_reference": "sheria katika kitabu cha mambo ya walawi",
@@ -478,13 +1244,14 @@
     "content": "<p>Mungu aliwapa Musa na Aroni sheria za jinsi Waisraeli walivyopaswa kuishi pamoja. Nyingi zilikuwa sheria za jumla kuhusu mambo ambayo yangeweza kutokea siku hizo. Zilikuwa za kusaidia watu kujifunza kuhusu Mungu ni nani. Sheria ziliwasaidia kufanya maamuzi ya busara kuhusu mambo ya kila siku. Watu wa Mungu walipaswa kufanya maamuzi yao yote kwa msingi wa Mungu ni nani.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367638,
+    "content_id": "367638",
     "reference_id": 108147,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria ya Kristo",
     "media_type": "Text",
     "index_reference": "sheria ya kristo",
@@ -493,13 +1260,14 @@
     "content": "<p>Njia ya kuzungumza kuhusu kufuata mfano wa Yesu wa namna ya kuishi. Yesu aliwaamuru wanafunzi wake kumpenda Bwana Mungu kwa moyo wao wote, roho, nguvu na akili. Aliwaamuru wapende jirani zao kama nafsi zao (Luka 10:27). Alipokuwa akiishi duniani, Yesu aliwaonyesha jinsi ya kufanya hivyo. Yesu alimpenda na kumtii Baba yake. Alijitoa kwa ajili ya manufaa ya wengine. Aliachilia haki zake ili kuokoa ulimwengu. Aliwahudumia wengine kuwaonyesha jinsi Mungu anavyowapenda.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367826,
+    "content_id": "367826",
     "reference_id": 108335,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria ya Musa",
     "media_type": "Text",
     "index_reference": "sheria ya musa",
@@ -523,13 +1291,14 @@
           "label": "Amri Kumi",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367561,
+    "content_id": "367561",
     "reference_id": 108070,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sheria za Kiyahudi",
     "media_type": "Text",
     "index_reference": "sheria za kiyahudi",
@@ -553,13 +1322,14 @@
           "label": "Sheria ya Musa",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367944,
+    "content_id": "367944",
     "reference_id": 108453,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shilo",
     "media_type": "Text",
     "index_reference": "shilo",
@@ -568,13 +1338,29 @@
     "content": "<p>Mji muhimu wa Waisraeli katika nchi ya milima ya Efraimu, ulikuwa kaskazini mwa Yerusalemu. Yoshua aliweka hema takatifu hapo walipoingia Kanaani.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shiloh",
+          "type": "person",
+          "preferred_label": "Shilo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shiloh",
+          "type": "place",
+          "preferred_label": "Shilo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367677,
+    "content_id": "367677",
     "reference_id": 108186,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shimo la kuzimu",
     "media_type": "Text",
     "index_reference": "shimo la kuzimu",
@@ -591,13 +1377,14 @@
           "label": "Pepo wachafu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367886,
+    "content_id": "367886",
     "reference_id": 108395,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sihoni na Ogu",
     "media_type": "Text",
     "index_reference": "sihoni na ogu",
@@ -606,13 +1393,14 @@
     "content": "<p>Wafalme wawili wa Waamori waliokuwa wanaishi mashariki mwa Mto Yordani. Sihoni alikuwa mfalme wa Heshboni na Ogu alikuwa mfalme wa Bashani. Waisraeli waliomba ruhusa ya kusafiri kupitia ardhi zao kwa amani. Sihoni na Ogu waliwashambulia lakini Waisraeli walishinda vita hivyo. Baadhi ya makabila ya Waisraeli walichagua kubaki na kuishi katika ardhi hizo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367831,
+    "content_id": "367831",
     "reference_id": 108340,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku 40",
     "media_type": "Text",
     "index_reference": "siku 40",
@@ -621,13 +1409,14 @@
     "content": "<p>Namna ambayo waandishi wa Biblia walielezea wakati kitu muhimu cha kiroho kilipotokea. Hii inaweza kuwa changamoto ya kiroho. Inaweza kuwa wakati wa kuwa karibu na Mungu au kukutana na Mungu. Inaweza kuwa wakati wa kuacha dhambi na kuwa na imani yenye nguvu kwa Mungu. Inaweza kuwa au inaweza isiwe ilidumu kwa kipindi cha siku 40 na usiku 40. Nambari hizo zilikuwa ishara kuhusu jambo la kiroho lililo wahi kutokea. Ishara hii ilikuwa ya muhimu katika maisha ya manabii wengi na katika maisha ya Yesu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367663,
+    "content_id": "367663",
     "reference_id": 108172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku ya Bwana",
     "media_type": "Text",
     "index_reference": "siku ya bwana",
@@ -636,13 +1425,14 @@
     "content": "<p> Ni ile ambayo Yohana mwandishi wa Ufunuo aliita Jumapili, au siku baada ya siku ya Sabato. Ni siku ya juma ambapo Yesu alifufuka kutoka kwa wafu. Kwa sababu hii, makanisa yalianza kukusanyika kuabudu Mungu siku za Jumapili.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 368062,
+    "content_id": "368062",
     "reference_id": 108571,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku ya Bwana",
     "media_type": "Text",
     "index_reference": "siku ya bwana",
@@ -666,13 +1456,14 @@
           "label": "Kurudi kwa Yesu",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367546,
+    "content_id": "367546",
     "reference_id": 108055,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku ya hukumu",
     "media_type": "Text",
     "index_reference": "siku ya hukumu",
@@ -689,13 +1480,14 @@
           "label": "Siku ya Bwana",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367704,
+    "content_id": "367704",
     "reference_id": 108213,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku ya Sabato",
     "media_type": "Text",
     "index_reference": "siku ya sabato",
@@ -704,13 +1496,29 @@
     "content": "<p>Ni siku ya saba ya juma kwa Waisraeli na Wayahudi. Ilikuwa siku takatifu walipopumzika na hawakufanya kazi. Hii ilijumuisha mifugo yao, watumishi wao na wageni waliokuwa wakiishi nao. Ilikuwa siku ya kuheshimu jinsi Mungu alivyo pumzika baada ya kuumba ulimwengu. Pia iliheshimu pumziko ambalo Mungu aliwaahidi Waisraeli baada ya kuwaokoa kutoka utumwani Misri. Siku ya Sabato ilikuwa ishara ya agano la Mungu na Waisraeli kwenye Mlima Sinai. Siku hiyo ilikuwa ukumbusho kwamba Mungu ni mwema na anatoa kile ambacho watu wake wanahitaji. Baadaye, viongozi wa kidini wa Kiyahudi walitunga sheria nyingi kuhusu kile kilichoruhusiwa siku ya Sabato. Sheria hizi hazikuwasaidia watu kumheshimu Mungu kila wakati. Yesu aliwafundisha watu jinsi ya kumheshimu Mungu siku ya Sabato. Ingawa viongozi walimpinga, alifanya miujiza siku ya Sabato.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Lahad",
+          "type": "person",
+          "preferred_label": "Lahadi",
+          "confidence": 0.8807,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Sabbath",
+          "type": "keyterm",
+          "preferred_label": "Sabbath",
+          "confidence": 0.8079,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367857,
+    "content_id": "367857",
     "reference_id": 108366,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku ya Upatanisho",
     "media_type": "Text",
     "index_reference": "siku ya upatanisho",
@@ -727,13 +1535,14 @@
           "label": "Fidia",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 368027,
+    "content_id": "368027",
     "reference_id": 108536,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siku za mwisho",
     "media_type": "Text",
     "index_reference": "siku za mwisho",
@@ -742,13 +1551,14 @@
     "content": "<p>Njia ya kuzungumza kuhusu wakati ujao. Manabii wengine katika Biblia waliuelezea kama wakati ambapo Mungu angechukua hatua. Angechukua hatua kuhakikisha kwamba watu wote wanamheshimu. Waandishi wengine katika Biblia waliuelezea kama wakati wa mateso. Ingekuwa wakati kabla ya Mungu kuhukumu ulimwengu. Watu wangefanya mambo mengi maovu wakati huo. Waandishi wengine wa Agano Jipya waliuelezea wakati baada ya ufufuo wa Yesu kama siku za mwisho. Ilizingatiwa kama wakati ambao kanisa linaishi hadi Yesu atakaporudi duniani.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367864,
+    "content_id": "367864",
     "reference_id": 108373,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sikukuu ya Mikate Isiyotiwa Chachu",
     "media_type": "Text",
     "index_reference": "sikukuu ya mikate isiyotiwa chachu",
@@ -757,13 +1567,14 @@
     "content": "<p>Ni sikukuu ya Kiyahudi iliyodumu kwa siku saba baada ya Pasaka. Wakati huo, mkate ambao Waisraeli walikula haukuwa na chachu ndani yake. Hii ilikuwa kuwakumbusha kuhusu kutoka. Wakati Mungu aliwaokoa kutoka utumwani, waliondoka Misri haraka. Hawakuwa na muda wa kutumia chachu katika mkate wao. Wanaume wa Kiyahudi walitakiwa kusafiri kwenda kwenye hema takatifu au hekalu kwa ajili ya sikukuu hii.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367808,
+    "content_id": "367808",
     "reference_id": 108317,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sikukuu ya Pasaka",
     "media_type": "Text",
     "index_reference": "sikukuu ya pasaka",
@@ -772,13 +1583,22 @@
     "content": "<p>Wakati ambapo Wayahudi husherehekea jinsi Mungu alivyowaokoa kutoka utumwani Misri. Ni mwanzo wa Sikukuu ya Mikate Isiyotiwa Chachu. Jina Pasaka linatokana na kitu kilichotokea kabla ya kutoka Misri. Mungu alipita juu ya nyumba za Waisraeli wakati wa pigo la kumi. Ndiyo maana wazaliwa wao wa kwanza hawakuuawa wakati wa pigo hilo. Baada ya pigo hilo, Farao aliwaruhusu Waisraeli kuondoka Misri. Mungu aliwapa Waisraeli maagizo kuhusu jinsi ya kusherehekea Pasaka kila mwaka. Ilijumuisha mlo maalum na vyakula fulani. Miaka mingi baadaye, Yesu aliuawa wakati wa Pasaka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Passover",
+          "type": "keyterm",
+          "preferred_label": "Passover",
+          "confidence": 0.8264,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368014,
+    "content_id": "368014",
     "reference_id": 108523,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sikukuu ya Purimu",
     "media_type": "Text",
     "index_reference": "sikukuu ya purimu",
@@ -787,13 +1607,14 @@
     "content": "<p>Ni sikukuu ya Kiyahudi ya kusherehekea kuokolewa kutoka kwa mpango wa Hamani wa kuwaangamiza Wayahudi wote. Sio mojawapo ya sikukuu zilizoelezwa katika Sheria ya Musa. Wayahudi walianza kuisherehekea wakati serikali ya Uajemi ilikuwa madarakani. Waliisherehekea tarehe 14 na 15 za mwezi wa 12. Iliitwa Purimu kwa sababu Hamani alipiga kura kuamua ni lini kuwaangamiza Wayahudi. Katika lugha ya Kiebrania neno Pur linamaanisha kura. Amri ya Esta na Mordekai iliwaokoa Wayahudi kutoka kwa mipango ya Hamani. Sikukuu ilikuwa wakati wa furaha ya chakula kizuri na kutoa zawadi kwa maskini. Kusoma kitabu cha Esta kwa sauti kulikuwa desturi ya kawaida wakati wa Sikukuu ya Purimu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367867,
+    "content_id": "367867",
     "reference_id": 108376,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sikukuu ya Tarumbeta",
     "media_type": "Text",
     "index_reference": "sikukuu ya tarumbeta",
@@ -802,13 +1623,14 @@
     "content": "<p>Siku ya kwanza ya mwezi wa saba. Tarumbeta za kondoo zilipulizwa kama tarumbeta. Ilikuwa ni siku tisa kabla ya siku ambayo deni ya dhambi ililipwa. Waisraeli walitumia siku hizo kupumzika na kutafakari,  na kukiri dhambi zao. Walizitumia kujiandaa kwa Siku ya Upatanisho. Sikukuu hii sasa inaitwa <em>Rosh Hashanah</em>. Sasa inachukuliwa kuwa siku ya kwanza ya mwaka mpya kwa Wayahudi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367868,
+    "content_id": "367868",
     "reference_id": 108377,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sikukuu ya Vibanda",
     "media_type": "Text",
     "index_reference": "sikukuu ya vibanda",
@@ -817,13 +1639,14 @@
     "content": "<p>Siku kuu ya vibanda ni sikukuu ya Kiyahudi iliyoanza siku tano baada ya siku ambayo dhambi zililipiwa. Watu walisherehekea mavuno na jinsi Mungu alivyowapa. Wanaume wa Israeli walitakiwa kusafiri kwenda kwenye hema  au hekalu  takatifu kwa ajili ya sikukuu hii. Katika siku saba za sikukuu, walilala kwenye vibanda. Hii ilikuwa kukumbuka jinsi walivyoishi kwenye vibanda au mahema jangwani. Kila baada ya miaka saba, sheria ya agano ilipaswa kusomwa kwa sauti wakati wa sikukuu hii.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367612,
+    "content_id": "367612",
     "reference_id": 108121,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sila",
     "media_type": "Text",
     "index_reference": "sila",
@@ -832,13 +1655,36 @@
     "content": "<p>Kiongozi kati ya waumini huko Yerusalemu alifanya kazi na Paulo, Barnaba na Petro. Alikuwa nabii na raia wa Kirumi. Alisaidia kuchukua barua muhimu kutoka kanisa la Yerusalemu kwenda makanisa ya mataifa. Pia alisaidia Paulo na Petro kuandika barua kwa makanisa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Silas",
+          "type": "person",
+          "preferred_label": "Sila",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zillah",
+          "type": "person",
+          "preferred_label": "Sila",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Silla",
+          "type": "place",
+          "preferred_label": "Sila",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367648,
+    "content_id": "367648",
     "reference_id": 108157,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Silaha ya kiroho",
     "media_type": "Text",
     "index_reference": "silaha ya kiroho",
@@ -847,13 +1693,14 @@
     "content": "<p>Vifaa ambavyo Mungu huwapa watu wake ili kuwalinda dhidi ya uovu. Vifaa hivi haviwezi kushikiliwa mikononi mwa watu. Ni vya kiroho. Vinaelezewa kama silaha au zana kwa sababu waumini wanazitumia katika mapambano ya kiroho. Kweli, utakatifu, amani, imani, wokovu, neno la Mungu na maombi ni aina za silaha za kiroho. Vifaa hivi husaidia waumini kuwa na nguvu katika imani yao. Vina wasaidia kumfuata Yesu kwa uaminifu na kuukataa uovu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367575,
+    "content_id": "367575",
     "reference_id": 108084,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siloamu",
     "media_type": "Text",
     "index_reference": "siloamu",
@@ -862,13 +1709,22 @@
     "content": "<p>Mahali ndani ya kuta za Yerusalemu ambapo kulikuwa na bwawa la maji safi. Siloamu inamaanisha kutumwa. Bwawa la kwanza lilijengwa na Mfalme Hezekia. Wababeli walilibomoa lakini lilijengwa upya wakati wa Nehemia. Maji kutoka kwenye bwawa yalikuwa yanamwagwa kwenye madhabahu wakati wa Sikukuu ya Vibanda. Maji ya bwawa yalitoka kwenye chemchemi ya Gihoni. Kulikuwa pia na mnara pale ambao ulianguka wakati wa Yesu na kuua watu 18.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Siloam",
+          "type": "place",
+          "preferred_label": "Siloam",
+          "confidence": 0.9206,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367576,
+    "content_id": "367576",
     "reference_id": 108085,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simoni Mkirene",
     "media_type": "Text",
     "index_reference": "simoni mkirene",
@@ -877,13 +1733,71 @@
     "content": "<p>Mme atokaye Kirene aliyebeba sehemu ya msalaba wa Yesu. Askari wa Kirumi walimlazimisha kufanya hivyo. Kirene ilikuwa katika nchi inayoitwa sasa Libya barani Afrika. Wayahudi wengi waliokuwa wakizungumza lugha ya Kigiriki waliishi huko. Wangesafiri kwenda Yerusalemu kwa ajili ya sikukuu za Kiyahudi. Wana wa Simoni waliitwa Aleksanda na Rufo. Rufo huyu huenda ndiye yule Rufo ambaye Paulo alizungumza kuhusu katika Warumi 16:13.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Simon.2",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.8373,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simon.3",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.8373,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simon.4",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.8373,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simon.5",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.8373,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simon.6",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.8373,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simon.7",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.8373,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simon.8",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.8373,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Simon.9",
+          "type": "person",
+          "preferred_label": "Simoni",
+          "confidence": 0.8373,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367542,
+    "content_id": "367542",
     "reference_id": 108051,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinagogi",
     "media_type": "Text",
     "index_reference": "sinagogi",
@@ -892,13 +1806,22 @@
     "content": "<p>Maeneo ambapo Wayahudi katika nyakati za Agano Jipya wangekusanyika kumwabudu Mungu. Wangesoma kwa sauti kutoka kwa Sheria ya Musa na Manabii. Kisha walimu wa Kiyahudi waliitwa marabi wangefundisha watu. Hii ingefanyika siku ya Sabato. Kulikuwa na masinagogi katika ardhi zote zilizodhibitiwa na serikali ya Kirumi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Synagogue",
+          "type": "realia",
+          "preferred_label": "Synagogue",
+          "confidence": 0.8738,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367665,
+    "content_id": "367665",
     "reference_id": 108174,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Smirna",
     "media_type": "Text",
     "index_reference": "smirna",
@@ -907,13 +1830,22 @@
     "content": "<p>Mji muhimu katika ngome ya Kirumi ya Asia. Ulikuwa kwenye pwani ya Bahari ya Aegea. Ni sehemu ya mji wa Izmiri katika nchi inayojulikana sasa kama Uturuki.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Smyrna",
+          "type": "place",
+          "preferred_label": "Smirna",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367740,
+    "content_id": "367740",
     "reference_id": 108249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sodoma na Gomora",
     "media_type": "Text",
     "index_reference": "sodoma na gomora",
@@ -922,13 +1854,22 @@
     "content": "<p>Miji miwili katika Kanaani. Watu waliokuwa wakiishi huko walijulikana kwa kufanya mambo maovu. Mpwa wa Abrahamu, Lutu, aliishi Sodoma. Mungu aliharibu Sodoma na Gomora lakini alimuokoa Loti. Mungu aliharibu miji hii kwa sababu ya njia zao za uovu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Sodom",
+          "type": "place",
+          "preferred_label": "Sodoma",
+          "confidence": 0.8049,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367592,
+    "content_id": "367592",
     "reference_id": 108101,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Stefano",
     "media_type": "Text",
     "index_reference": "stefano",
@@ -937,13 +1878,29 @@
     "content": "<p>Mmoja wa viongozi saba waliochaguliwa na waumini huko Yerusalemu kuwa shemasi. Alihakikisha waumini wote wanapata chakula cha kutosha. Wayahudi wengi walikasirika kwamba alihubiri kuhusu Yesu. Walimuua kwa kumpiga mawe. Alikuwa wa kwanza kati ya wafuasi wa Yesu kuuawa kwa kuwa mwaminifu kwa Yesu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Stephen",
+          "type": "person",
+          "preferred_label": "Stefano",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Stephanas",
+          "type": "person",
+          "preferred_label": "Stefana",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367964,
+    "content_id": "367964",
     "reference_id": 108473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sulemani",
     "media_type": "Text",
     "index_reference": "sulemani",
@@ -952,13 +1909,22 @@
     "content": "<p>Mwana wa Daudi na Bathsheba ambaye alikua mfalme wa Israeli. Mungu alimpa jina Jedidia. Katika lugha ya Kiebrania Jedidia maana yake ni aliyependwa wa Bwana. Jina hili lilionyesha kuwa Mungu alikuwa amemchagua Sulemani kuwa mfalme baada ya Daudi. Sulemani alikuwa mfalme wakati hekalu lilijengwa Yerusalemu. Alikuwa na hekima sana na tajiri sana. Aliandika methali nyingi na nyimbo. Baadaye katika utawala wake Sulemani aliacha kuwa mwaminifu kwa Mungu. Hii ilisababisha taifa la Israeli kugawanyika kuwa falme mbili.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Sulemani",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368008,
+    "content_id": "368008",
     "reference_id": 108517,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Susa",
     "media_type": "Text",
     "index_reference": "susa",
@@ -967,7 +1933,8 @@
     "content": "<p>Mojawapo ya miji mikuu ya serikali ya Kiajemi. Ilikuwa iko mashariki mwa Mto Tigris katika nchi inayojulikana sasa kama Iran.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

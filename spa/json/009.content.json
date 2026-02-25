@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232066,
+    "content_id": "232066",
     "reference_id": 108097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hablar otras lenguas",
     "media_type": "Text",
     "index_reference": "hablar otras lenguas ",
@@ -19,13 +19,14 @@
           "label": "Explicar otros idiomas",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232479,
+    "content_id": "232479",
     "reference_id": 108510,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hageo",
     "media_type": "Text",
     "index_reference": "hageo",
@@ -34,13 +35,14 @@
     "content": "<p>Un profeta en Judá cuando el gobierno persa estaba en control. Animó a Josué y Zorobabel a reconstruir el templo. Sus profecías están registradas en el libro de Hageo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232394,
+    "content_id": "232394",
     "reference_id": 108425,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hai",
     "media_type": "Text",
     "index_reference": "hai",
@@ -49,13 +51,29 @@
     "content": "<p>Una ciudad de Canaán donde Abraham construyó un altar. Los israelitas perdieron su primera batalla contra Hai. Ganaron la segunda batalla y destruyeron la ciudad. En el idioma hebreo, Hai significa ruina.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Ai",
+          "type": "place",
+          "preferred_label": "Hai",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ai.2",
+          "type": "place",
+          "preferred_label": "Hai",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232501,
+    "content_id": "232501",
     "reference_id": 108532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hebreo",
     "media_type": "Text",
     "index_reference": "hebreo",
@@ -79,13 +97,43 @@
           "label": "Judío",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "group:Hebrews",
+          "type": "group",
+          "preferred_label": "Hebrews",
+          "confidence": 0.8673,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hebron",
+          "type": "person",
+          "preferred_label": "Hebrón",
+          "confidence": 0.8612,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hebron.2",
+          "type": "person",
+          "preferred_label": "Hebrón",
+          "confidence": 0.8612,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hebron",
+          "type": "place",
+          "preferred_label": "Hebrón",
+          "confidence": 0.8612,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 232079,
+    "content_id": "232079",
     "reference_id": 108110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Agripa I",
     "media_type": "Text",
     "index_reference": "herodes agripa i",
@@ -94,13 +142,14 @@
     "content": "<p>El rey Herodes de Hechos capítulo 12. Era nieto de Herodes el Grande. También era sobrino de Herodes Antipas. Era el padre de Herodes Agripa II. Dos de sus hijas eran Berenice y Drusila.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232108,
+    "content_id": "232108",
     "reference_id": 108139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Agripa II",
     "media_type": "Text",
     "index_reference": "herodes agripa ii",
@@ -109,13 +158,14 @@
     "content": "<p>El rey Agripa de los capítulos 25 y 26 de Hechos. Era el hijo de Herodes Agripa I. Se cree que su hermana Berenice vivía con él como esposa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232026,
+    "content_id": "232026",
     "reference_id": 108057,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes Antipas",
     "media_type": "Text",
     "index_reference": "herodes antipas",
@@ -124,13 +174,14 @@
     "content": "<p>El Herodes de Mateo capítulo 14, Marcos capítulo 6 y Lucas capítulos 3, 9 y 23. Era hijo de Herodes el Grande. Gobernó en Galilea y Perea durante la época de Jesús. Perea estaba al este del río Jordán. Herodes se casó con la esposa de su hermano Felipe. Su nombre era Herodías. Herodes Antipas mandó ejecutar a Juan el Bautista.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232527,
+    "content_id": "232527",
     "reference_id": 108558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodes el Grande",
     "media_type": "Text",
     "index_reference": "herodes el grande",
@@ -139,13 +190,36 @@
     "content": "<p>El Rey Herodes de Mateo 2 y Lucas 1. Fue un gobernante designado por los romanos con el título de Rey de los Judíos. Gobernó como rey desde alrededor del 36 a.C. hasta el 4 a.C. Gobernó sobre Judea y todas las tierras de Israel. Era de la línea familiar de Esaú pero se le consideraba judío. Ordenó la realización de muchos proyectos de construcción. Esto incluyó la ciudad de Cesarea y el templo en Jerusalén. Ordenó que el templo fuera más grande y grandioso de lo que jamás había sido.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.8533,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.8533,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "Herodes",
+          "confidence": 0.8533,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232031,
+    "content_id": "232031",
     "reference_id": 108062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Herodianos",
     "media_type": "Text",
     "index_reference": "herodianos",
@@ -154,13 +228,29 @@
     "content": "<p>Partidarios de los gobernantes de la línea familiar de Herodes el Grande.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "Herodías",
+          "confidence": 0.9155,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herodion",
+          "type": "person",
+          "preferred_label": "Herodión",
+          "confidence": 0.8297,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232396,
+    "content_id": "232396",
     "reference_id": 108427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Heveos",
     "media_type": "Text",
     "index_reference": "heveos",
@@ -169,13 +259,14 @@
     "content": "<p>Un grupo de personas que vivía en Canaán. Eran de la línea familiar del hijo de Cam, Canaán. Dios les dijo a los israelitas que los expulsaran de Canaán como juicio de Dios contra ellos. Josué fue engañado para hacer un pacto de paz con los heveos que vivían en Gibeón.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232021,
+    "content_id": "232021",
     "reference_id": 108052,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hijo de David",
     "media_type": "Text",
     "index_reference": "hijo de david",
@@ -192,13 +283,14 @@
           "label": "David",
           "language": "spa"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 232495,
+    "content_id": "232495",
     "reference_id": 108526,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hijo de Dios",
     "media_type": "Text",
     "index_reference": "hijo de dios",
@@ -207,13 +299,14 @@
     "content": "<p>Una forma en que en el Salmo 2 describía a los reyes de Israel. Mostraba que eran elegidos por Dios para gobernar y eran dignos de honor. Mostraba que debían seguir el ejemplo de Dios para gobernar. En tiempos del Nuevo Testamento, los emperadores romanos eran llamados hijo de dios. Esto se debía a que creían que los dioses romanos le daban a César su poder. Este nombre se usó de una manera especial para hablar de Jesús. Significa que el único, verdadero y poderoso Dios es el Padre de Jesús. Usar este nombre para Jesús enfurecía a los judíos que no lo aceptaban. También enfurecía al gobierno romano porque desafiaba la autoridad de César.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232526,
+    "content_id": "232526",
     "reference_id": 108557,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hijo del Hombre",
     "media_type": "Text",
     "index_reference": "hijo del hombre",
@@ -222,13 +315,14 @@
     "content": "<p>Una manera de hablar de una persona o ser humano. También es el nombre de alguien en una visión que tuvo Daniel (Dn 7:13–14). En la visión, el hijo del hombre salvó a Israel de sus enemigos. Jesús se llamó a sí mismo el Hijo del Hombre. Esta era una manera de hablar sobre cómo él es humano y tiene la autoridad de Dios. Jesús explicó que como el Hijo del Hombre sufriría. Luego ganaría la victoria sobre los enemigos de Dios. Esos enemigos son el pecado, la muerte y el mal. Jesús haría esto por todos los seres humanos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232200,
+    "content_id": "232200",
     "reference_id": 108231,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hijos de Dios",
     "media_type": "Text",
     "index_reference": "hijos de dios",
@@ -237,13 +331,14 @@
     "content": "<p>No se sabe con certeza quiénes eran los hijos de Dios. Se cree que eran seres espirituales que se rebelaron contra Dios. Se piensa que vinieron a la tierra con cuerpos humanos y se casaron con las mujeres humanas. Esto iba en contra del plan de Dios de que los seres humanos se casaran solo con seres humanos.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232167,
+    "content_id": "232167",
     "reference_id": 108198,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Historias",
     "media_type": "Text",
     "index_reference": "historias",
@@ -252,13 +347,14 @@
     "content": "<p>Era muy importante para los israelitas recordar historias y enseñanzas. Hacía mucho tiempo que contaban historias de lo que sucedió entre su gente. Contaban historias sobre las obras poderosas de Dios. También contaban historias sobre las leyes y las enseñanzas que habían recibido de Dios. Las personas mayores contaban estas cosas a las personas más jóvenes. De esta manera, todos aprendían las historias y las enseñanzas que eran importantes para la comunidad.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232356,
+    "content_id": "232356",
     "reference_id": 108387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hobab",
     "media_type": "Text",
     "index_reference": "hobab",
@@ -267,13 +363,64 @@
     "content": "<p>El cuñado de Moisés. Era el hijo de Reuel, quien también era llamado Jetro. Hobab era el hermano de la esposa de Moisés, Séfora. Era parte del grupo de personas ceneos. Se quedó con los israelitas mientras viajaban desde el Monte Sinaí hasta Canaán. Fue su guía en el desierto.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hobab",
+          "type": "person",
+          "preferred_label": "Hobab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hobah",
+          "type": "place",
+          "preferred_label": "Hobah",
+          "confidence": 0.8914,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.2",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.3",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.4",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.5",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 232533,
+    "content_id": "232533",
     "reference_id": 108564,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hombre de pecado",
     "media_type": "Text",
     "index_reference": "hombre de pecado",
@@ -282,13 +429,14 @@
     "content": "<p>Alguien que se opondrá completamente a Dios. En segundo Tesalonicenses 2:1–12, Pablo lo describió como alguien que hará cosas perversas. Pero Jesús detendrá al hombre de pecado. Pablo pudo haber estado hablando de una persona en particular. O pudo haber estado describiendo los poderes del pecado y el mal. Pablo describió al hombre de pecado de maneras similares a como Daniel describió a ciertos reyes. Las visiones de Daniel sobre estos reyes se registraron en los capítulos 7 y 11 de Daniel. Estos reyes se opusieron a Dios, hablaron en su contra y trataron mal al pueblo de Dios.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232002,
+    "content_id": "232002",
     "reference_id": 108033,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hombres sabios",
     "media_type": "Text",
     "index_reference": "hombres sabios",
@@ -297,7 +445,8 @@
     "content": "<p>Hombres importantes de las tierras al este de Jerusalén. Estudiaron las estrellas en el cielo. Después de que Jesús nació, lo adoraron como el Rey del mundo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

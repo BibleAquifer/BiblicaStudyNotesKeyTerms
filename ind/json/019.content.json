@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203181,
+    "content_id": "203181",
     "reference_id": 108046,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rabi",
     "media_type": "Text",
     "index_reference": "rabi",
@@ -11,13 +11,14 @@
     "content": "<p>Seorang guru Yahudi laki-laki. Para rabi biasanya mempelajari Perjanjian Lama dan tulisan-tulisan Yahudi lainnya di sekolah. Mereka biasanya dilatih oleh para rabi lainnya. Orang-orang yang ingin belajar dari mereka dan menjadi seperti mereka akan menjadi murid mereka. Biasanya hanya anak laki-laki dan laki-laki dewasa yang menjadi murid atau siswa. Yesus adalah seorang rabi meskipun ia tidak dilatih seperti rabi pada zamannya. Dia menerima perempuan dan laki-laki sebagai murid-muridnya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203556,
+    "content_id": "203556",
     "reference_id": 108421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahab",
     "media_type": "Text",
     "index_reference": "rahab",
@@ -26,13 +27,36 @@
     "content": "<p>Seorang wanita dari kota Yerikho di Kanaan. Dia bekerja sebagai seorang pelacur. Dia menyembunyikan mata-mata yang dikirim oleh Yosua dan menjaga mereka tetap aman. Ketika bangsa Israel menghancurkan Yerikho, mereka menyelamatkan Rahab dan keluarganya. Dia menjadi bagian dari umat Allah. Daud dan Yesus berasal dari garis keturunannya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "Rahab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rabbah.2",
+          "type": "place",
+          "preferred_label": "Rabbah",
+          "confidence": 0.8205,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raham",
+          "type": "person",
+          "preferred_label": "Raham",
+          "confidence": 0.8185,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203411,
+    "content_id": "203411",
     "reference_id": 108276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahel",
     "media_type": "Text",
     "index_reference": "rahel",
@@ -41,13 +65,22 @@
     "content": "<p>Putri kedua Laban dan istri kedua Yakub. Lea adalah saudara perempuannya dan Bilha adalah pelayannya. Dia adalah seorang gembala. Yakub mencintainya lebih dari cintanya kepada Lea. Dia menjadi ibu dari Yusuf dan Benyamin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Rahel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203477,
+    "content_id": "203477",
     "reference_id": 108342,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahmat",
     "media_type": "Text",
     "index_reference": "rahmat",
@@ -56,13 +89,22 @@
     "content": "<p>Kasih yang lembut atau kebaikan kepada seseorang yang sedang berjuang dalam suatu hal. Allah penuh dengan rahmat terhadap manusia dan menunjukkan kebaikan-Nya dalam berbagai cara. Salah satu contoh terbesar dari rahmat-Nya adalah bagaimana Dia mengampuni dosa manusia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Affection",
+          "type": "keyterm",
+          "preferred_label": "rahmat",
+          "confidence": 0.8674,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203465,
+    "content_id": "203465",
     "reference_id": 108330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Raja",
     "media_type": "Text",
     "index_reference": "raja",
@@ -71,13 +113,36 @@
     "content": "<p>Penguasa dengan otoritas tertinggi di antara kelompok-kelompok masyarakat tertentu. Allah seharusnya menjadi Raja atas bangsa Israel. Raja-raja manusia di Israel seharusnya memimpin umat sebagaimana Allah memimpin mereka. Hal ini sangat berbeda dengan cara raja-raja dari kelompok bangsa lain memimpin. Raja-raja Israel harus mempelajari hukum-hukum Allah dan menaatinya. Mereka harus membantu rakyat untuk tetap setia kepada perjanjian Allah. Raja-raja Israel harus melindungi orang-orang yang lemah dan miskin. Mereka tidak boleh memiliki banyak istri atau menjadi sangat kaya. Mereka harus rendah hati. Mereka tidak boleh memperlakukan rakyatnya sebagai budak. Mereka tidak boleh mengandalkan senjata dan kuda untuk memenangkan peperangan. Raja-raja Israel harus percaya kepada Allah dan hanya melayani Dia saja.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hammelech",
+          "type": "person",
+          "preferred_label": "raja",
+          "confidence": 0.893,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoiachin",
+          "type": "person",
+          "preferred_label": "raja",
+          "confidence": 0.893,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:KingsValley",
+          "type": "place",
+          "preferred_label": "raja",
+          "confidence": 0.893,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203600,
+    "content_id": "203600",
     "reference_id": 108465,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rasa malu dan kehormatan",
     "media_type": "Text",
     "index_reference": "rasa malu dan kehormatan",
@@ -86,13 +151,14 @@
     "content": "<p>Pada zaman dan tempat dalam Alkitab, rasa malu dan kehormatan sangatlah penting. Orang-orang ingin menghindari membawa aib kepada keluarga, komunitas, dan kelompok masyarakat mereka. Setiap orang dalam suatu komunitas memahami cara berbicara dan bertindak yang dianggap pantas. Melanggar cara-cara itu sama saja dengan mengatakan tidak pada hubungan mereka dengan komunitas mereka. Hal ini membawa rasa malu. Maka orang tersebut tidak dihormati. Mereka akan sering melarikan diri atau bersembunyi. Seseorang yang memiliki otoritas lebih besar dapat membawa orang tersebut kembali ke dalam komunitas. Ini adalah bagaimana rasa malu dihilangkan. Sebaliknya, orang ingin membawa kehormatan bagi keluarga, komunitas dan kelompok mereka. Kehormatan datang dengan melakukan hal-hal yang dianggap pantas dan layak dihormati. Semakin terhormat seseorang, semakin besar pula otoritasnya di masyarakat.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203177,
+    "content_id": "203177",
     "reference_id": 108042,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rasul Yakobus",
     "media_type": "Text",
     "index_reference": "rasul yakobus",
@@ -101,13 +167,43 @@
     "content": "<p>Salah satu dari ke-12 murid Yesus dan salah satu dari tiga pengikut terdekat-Nya. Saudaranya adalah Yohanes dan ayah mereka adalah Zebedeus. Yesus memanggil Yakobus dan Yohanes anak-anak guruh. Yakobus adalah rasul pertama yang dihukum mati karena setia kepada Yesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:James",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.821,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.2",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.821,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.3",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.821,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:James.4",
+          "type": "person",
+          "preferred_label": "Yakobus",
+          "confidence": 0.821,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203288,
+    "content_id": "203288",
     "reference_id": 108153,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rasul-palsu/Pengajar-palsu",
     "media_type": "Text",
     "index_reference": "rasul-palsu/pengajar-palsu",
@@ -116,13 +212,14 @@
     "content": "<p>Apa yang Paulus sebut sebagai pemimpin-pemimpin Yahudi tertentu. Para pemimpin ini menentang pekerjaannya di jemaat - jemaat yang pernah ia bantu untuk dirintis. Dibandingkan dengan Paulus, mereka tampak kuat, sukses, sehat dan kaya. Mereka berbohong tentang Paulus dan mengatakan bahwa ia selalu membuat masalah. Mereka mengambil keuntungan dari orang-orang yang baru percaya dan yang tidak melayani orang-orang dengan kasih. Mereka berpura-pura melayani Allah tetapi sebenarnya melayani Iblis dengan melakukan kejahatan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203188,
+    "content_id": "203188",
     "reference_id": 108053,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rasul-rasul",
     "media_type": "Text",
     "index_reference": "rasul-rasul",
@@ -131,13 +228,29 @@
     "content": "<p>12 murid Yesus dan pengikut setia lainnya yang telah menjadi pemimpin di gereja mula-mula. Para rasul mengajarkan orang-orang mengenai Yesus dan menyebarkan kabar baik tentang Dia. Rasul adalah sebuah kata dari bahasa Yunani yang berarti seseorang yang diutus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:GenericProphets",
+          "type": "group",
+          "preferred_label": "Prophets",
+          "confidence": 0.8792,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Messengers",
+          "type": "group",
+          "preferred_label": "Messengers",
+          "confidence": 0.8587,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203613,
+    "content_id": "203613",
     "reference_id": 108478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rehabeam",
     "media_type": "Text",
     "index_reference": "rehabeam",
@@ -146,13 +259,22 @@
     "content": "<p>Putra Salomo dan seorang wanita Amon bernama Naama. Ketika Rehabeam menjadi raja, bangsa Israel terbagi menjadi dua kerajaan. Rehabeam memerintah atas kerajaan Yehuda di bagian selatan. Dia adalah seorang pemimpin yang bodoh yang melakukan hal-hal jahat dan menyembah ilah-ilah palsu. Dia tidak memiliki kekayaan atau kekuasaan seperti Salomo.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Rehabeam",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203401,
+    "content_id": "203401",
     "reference_id": 108266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ribka",
     "media_type": "Text",
     "index_reference": "ribka",
@@ -161,13 +283,36 @@
     "content": "<p>Putri Betuel dan saudara perempuan Laban dari Mesopotamia. Ia menikah dengan Ishak dan menjadi ibu dari Yakub dan Esau.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Ribka",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Riblah",
+          "type": "place",
+          "preferred_label": "Ribla",
+          "confidence": 0.8515,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Riblah.2",
+          "type": "place",
+          "preferred_label": "Ribla",
+          "confidence": 0.8515,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203523,
+    "content_id": "203523",
     "reference_id": 108388,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roh Kudus",
     "media_type": "Text",
     "index_reference": "roh kudus",
@@ -176,13 +321,14 @@
     "content": "<p>Allah menunjukkan diri-Nya sebagai Roh pada penciptaan dunia. Roh Kudus adalah Allah sama seperti Bapa adalah Allah dan Yesus adalah Allah. Mereka adalah tiga pribadi dari Allah yang esa. Roh Kudus bekerja melalui orang-orang yang menulis kitab-kitab dalam Alkitab. Dalam Perjanjian Lama, Roh Kudus memungkinkan orang untuk bernubuat. Roh juga memungkinkan orang untuk melakukan pekerjaan yang terampil dan perbuatan-perbuatan besar. Dalam Perjanjian Baru, Roh Kudus membuat Maria mampu untuk menjadi ibu Yesus. Yesus mengutus Roh Kudus kepada para pengikut-Nya pada Hari Raya Pentakosta. Melalui Roh Kudus, orang percaya dipersatukan dengan Yesus. Roh Kudus adalah sahabat yang membuat para pengikut Yesus mampu untuk terus melanjutkan pekerjaan-Nya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203597,
+    "content_id": "203597",
     "reference_id": 108462,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rohani",
     "media_type": "Text",
     "index_reference": "rohani",
@@ -191,13 +337,14 @@
     "content": "<p>Sesuatu yang berkaitan dengan roh manusia atau makhluk rohani. Di dalam Alkitab terdapat banyak arti untuk kata roh. Salah satu maknanya adalah Roh Allah atau Roh Kudus. Arti lainnya adalah makhluk spiritual. Arti lainnya adalah roh seseorang. Ketika Allah menciptakan manusia, Dia menghembuskan kehidupan ke dalam diri mereka. Kehidupan dari Allah ini adalah roh setiap orang. Ini adalah bagian dari setiap orang yang ada lebih dari sekadar tubuh. Roh itu akan ada selamanya. Hal-hal yang terjadi di dalam roh seseorang atau pada roh mereka digambarkan sebagai spiritual. Roh seseorang sering dipahami sebagai hati atau jiwa mereka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203182,
+    "content_id": "203182",
     "reference_id": 108047,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roma",
     "media_type": "Text",
     "index_reference": "roma",
@@ -206,13 +353,22 @@
     "content": "<p>Sebuah kerajaan di daerah sekitar Laut Mediterania yang bertahan selama ratusan tahun. Ibu kotanya juga disebut Roma. Kerajaan ini menjadi pemerintahan yang kuat yang memerintah banyak bangsa dan kelompok masyarakat lainnya. Kerajaan ini memerintah Israel selama masa Perjanjian Baru. Selama bertahun-tahun kota ini dipimpin oleh kaisar-kaisar yang berkuasa. Pemerintah Romawi memperlakukan banyak pengikut Yesus dengan buruk.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Roma",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203500,
+    "content_id": "203500",
     "reference_id": 108365,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruang Mahakudus",
     "media_type": "Text",
     "index_reference": "ruang mahakudus",
@@ -229,13 +385,14 @@
           "label": "Tabut perjanjian",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203542,
+    "content_id": "203542",
     "reference_id": 108407,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruben",
     "media_type": "Text",
     "index_reference": "ruben",
@@ -244,13 +401,29 @@
     "content": "<p>Putra sulung Yakub dan Lea. Dalam bahasa Ibrani, nama Ruben berarti lihatlah seorang anak laki-laki. Kedengarannya seperti kata yang berarti dia telah melihat penderitaanku. Ruben pernah berhubungan seks dengan gundik ayahnya, Bilha. Karena itu, dia tidak diizinkan untuk memiliki hak sebagai putra sulung Yakub. Garis keturunannya menjadi suku Israel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Reuben",
+          "type": "group",
+          "preferred_label": "Ruben",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Reuben",
+          "type": "person",
+          "preferred_label": "Ruben",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203582,
+    "content_id": "203582",
     "reference_id": 108447,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruth",
     "media_type": "Text",
     "index_reference": "ruth",
@@ -259,7 +432,16 @@
     "content": "<p>Seorang wanita dari Moab dan menantu perempuan Naomi. Ketika suaminya wafat, ia meninggalkan Moab dan pergi ke Israel bersama Naomi. Dia menikah dengan seorang Israel bernama Boas dan menjadi nenek buyut dari Daud.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Rut",
+          "confidence": 0.8929,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

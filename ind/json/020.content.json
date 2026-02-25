@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 203301,
+    "content_id": "203301",
     "reference_id": 108166,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saksi-saksi bagaikan awan",
     "media_type": "Text",
     "index_reference": "saksi-saksi bagaikan awan",
@@ -11,13 +11,14 @@
     "content": "<p>Sebuah cara untuk menggambarkan orang-orang yang percaya pada Allah dan yang melayani-Nya sebelum mereka mati. Mereka adalah saksi-saksi mengenai siapa Allah ketika mereka masih hidup di bumi. Awan merupakan cara untuk menggambarkan mereka bersama-sama sebagai suatu kelompok. Orang-orang ini telah mati. Teladan dari iman mereka kepada Allah mendorong orang-orang percaya yang masih hidup. Roh-roh mereka menunggu saat dimana Allah akan membangkitkan umat-Nya dari kematian. Orang-orang yang disebutkan dalam Ibrani pasal 11 termasuk diantara saksi-saksi ini.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203665,
+    "content_id": "203665",
     "reference_id": 108530,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salib",
     "media_type": "Text",
     "index_reference": "salib",
@@ -26,13 +27,14 @@
     "content": "<p>Dua potong kayu yang disatukan sehingga seseorang dapat dipaku di atasnya. Orang Romawi membunuh para penjahat, pemberontak, dan budak dengan cara ini. Proses ini disebut penyaliban. Ini dilakukan di depan umum untuk mempermalukan para tahanan. Ini juga dilakukan untuk membuat orang-orang takut jika tidak mematuhi hukum Romawi. Mati di atas kayu salib adalah sangat menyakitkan dan terjadi secara perlahan-lahan. Tentara Romawi dapat membuat kematian seseorang lebih cepat dengan mematahkan kaki dari para penjahat. Salib merupakan sebuah tanda dari teror dan kematian. Yesus berbicara tentang salib untuk menunjukkan bahwa para pengikut-Nya harus rela untuk menderita. </p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203608,
+    "content_id": "203608",
     "reference_id": 108473,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Salomo",
     "media_type": "Text",
     "index_reference": "salomo",
@@ -41,13 +43,22 @@
     "content": "<p>Anak Daud dan Batsyeba yang menjadi raja Israel. Tuhan memberinya nama Yedidia. Dalam bahasa Ibrani, Yedidia berarti yang dikasihi Tuhan. Nama ini menunjukkan bahwa Allah telah memilih Salomo untuk menjadi raja setelah Daud. Salomo menjadi raja ketika bait suci dibangun di Yerusalem. Dia sangat bijaksana dan sangat kaya. Dia menulis banyak amsal dan nyanyian. Kemudian di akhir pemerintahannya, Salomo tidak lagi setia kepada Allah. Hal ini menyebabkan bangsa Israel terpecah menjadi dua kerajaan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Solomon",
+          "type": "person",
+          "preferred_label": "Salomo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203624,
+    "content_id": "203624",
     "reference_id": 108489,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samaria",
     "media_type": "Text",
     "index_reference": "samaria",
@@ -56,13 +67,29 @@
     "content": "<p>Ibu kota kerajaan utara Israel. Omri menjadikan Samaria sebagai pusat pemerintahan kerajaan utara. Ahab menjadikannya pusat ibadah kerajaan utara. Bangsa Asyur menguasai kota ini dan daerah sekitarnya pada tahun 722 SM. Mereka membawa kelompok-kelompok orang lain untuk tinggal di sana. Kelompok-kelompok orang ini bercampur dengan orang Israel yang tersisa di Samaria. Anak-anak mereka kemudian dikenal sebagai orang Samaria. Pada zaman Romawi, Samaria adalah sebuah daerah di Israel. Letaknya di antara Galilea di utara dan Yudea di selatan. Pada zaman Yesus, orang Samaria mengaku berasal dari garis keturunan Abraham. Orang Yahudi dan orang Samaria biasanya memperlakukan satu sama lain seperti musuh.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Samaria",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Samaria.2",
+          "type": "place",
+          "preferred_label": "Samaria",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203587,
+    "content_id": "203587",
     "reference_id": 108452,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Samuel",
     "media_type": "Text",
     "index_reference": "samuel",
@@ -71,13 +98,36 @@
     "content": "<p>Seorang Israel yang melayani umat Allah sebagai seorang nabi, imam dan hakim. Dalam bahasa Ibrani, nama Samuel berarti didengar oleh Allah. Nama ini juga dapat berarti dipinjam dari Allah. Samuel setia kepada Allah sepanjang hidupnya. Dia adalah anak dari Elkana dan Hana. Dia berasal dari suku Lewi melalui garis keturunan Korah. Anak-anaknya adalah Yoel dan Abia. Samuel dibesarkan sebagai seorang nazir di kemah suci di Silo. Dia mulai melayani bangsa Israel sebagai seorang nabi ketika dia masih muda. Dia melayani sebagai imam setelah Eli meninggal. Ketika dia melayani sebagai hakim, Allah membebaskan bangsa Israel dari bangsa Filistin. Samuel mengurapi Saul dan kemudian Daud sebagai raja.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samuel",
+          "type": "person",
+          "preferred_label": "Samuel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemuel",
+          "type": "person",
+          "preferred_label": "Samuel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemuel.2",
+          "type": "person",
+          "preferred_label": "Samuel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203521,
+    "content_id": "203521",
     "reference_id": 108386,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sangkakala",
     "media_type": "Text",
     "index_reference": "sangkakala",
@@ -86,13 +136,14 @@
     "content": "<p>Dalam Alkitab, Sangkakala digunakan untuk berbagai tujuan. Sangkakala digunakan dalam kebaktian dan pesta serta dalam pertempuran. Sangkakala digunakan untuk membuat pengumuman penting dan sebagai tanda bahaya. Sebelum bangsa Israel mencapai Kanaan, tiupan sangkakala memberi tahu ke-12 suku kapan mereka harus mulai berbaris. Dalam Perjanjian Baru, Yesus dan Paulus berbicara tentang sangkakala yang ditiup. Sangkakala akan mengumumkan saat Allah mengumpulkan umat-Nya dan membangkitkan mereka dari kematian. Dalam kitab Wahyu, para malaikat meniup sangkakala untuk mengumumkan bagian dari penghakiman Allah terhadap kejahatan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203382,
+    "content_id": "203382",
     "reference_id": 108247,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sara",
     "media_type": "Text",
     "index_reference": "sara",
@@ -101,13 +152,29 @@
     "content": "<p>Seorang wanita dari Mesopotamia yang merupakan istri Abraham. Dia adalah anak perempuan Terah tetapi dari ibu yang berbeda dengan Abraham. Allah mengubah nama Sarai menjadi Sara dalam kejadian pasal 17. Dalam bahasa Ibrani, Sarai dan Sara sama-sama berarti putri atau wanita bangsawan. Selama bertahun-tahun dia tidak dapat memiliki anak. Alllah berjanji bahwa ia akan memiliki seorang anak laki-laki. Ketika ia sudah sangat tua, ia melahirkan Ishak.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sarah",
+          "type": "person",
+          "preferred_label": "Sara",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sharar",
+          "type": "person",
+          "preferred_label": "Sarar",
+          "confidence": 0.8435,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203313,
+    "content_id": "203313",
     "reference_id": 108178,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sardis",
     "media_type": "Text",
     "index_reference": "sardis",
@@ -116,13 +183,29 @@
     "content": "<p>Sebuah kota penting di wilayah Romawi di Asia. Di sana terdapat kuil dewi Artemis.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Sardis",
+          "type": "place",
+          "preferred_label": "Sardis",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Sarid",
+          "type": "place",
+          "preferred_label": "Sarid",
+          "confidence": 0.8176,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203590,
+    "content_id": "203590",
     "reference_id": 108455,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Saul",
     "media_type": "Text",
     "index_reference": "saul",
@@ -131,13 +214,43 @@
     "content": "<p>Raja pertama Israel. Dia adalah putra dari Kish dan berasal dari suku Benyamin. Dia sangat tinggi dan tampan. Sebagai raja, dia berhenti percaya dan menaati Allah. Karena itu, garis keturunannya tidak melanjutkan kekuasaannya di Israel. Saul dikendalikan oleh rasa takut dan iri hati. Dia berusaha keras untuk membunuh Daud. Dia mati dalam sebuah pertempuran melawan orang Filistin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Saul.2",
+          "type": "person",
+          "preferred_label": "Saul",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaul",
+          "type": "person",
+          "preferred_label": "Saul",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaul.2",
+          "type": "person",
+          "preferred_label": "Saul",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shaul.3",
+          "type": "person",
+          "preferred_label": "Saul",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203657,
+    "content_id": "203657",
     "reference_id": 108522,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Seal",
     "media_type": "Text",
     "index_reference": "seal",
@@ -146,13 +259,29 @@
     "content": "<p>Ada beberapa arti kata meterai dalam Alkitab. Arti pertama adalah menutup sesuatu atau menguncinya. Arti kedua adalah memberlakukan suatu perjanjian atau kesepakatan. Arti ketiga adalah sepotong lilin yang lengket. Orang akan meletakkan lilin pada gulungan atau kertas penting untuk menutupnya. Hanya orang yang memiliki izin yang boleh membuka meterai dan membuka kertas-kertas tersebut. Makna terakhir adalah tanda resmi atau tanda kerajaan yang menunjukkan siapa seseorang. Meterai yang ditekan pada kertas atau benda lain meninggalkan bekasnya. Hal ini menunjukkan bahwa orang tersebut telah menyetujui sesuatu atau bahwa itu adalah miliknya.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Sheal",
+          "type": "person",
+          "preferred_label": "Seal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Seal",
+          "type": "realia",
+          "preferred_label": "Seal",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203376,
+    "content_id": "203376",
     "reference_id": 108241,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sem",
     "media_type": "Text",
     "index_reference": "sem",
@@ -161,13 +290,22 @@
     "content": "<p>Putra kedua dari Nuh. Dia dan istrinya diselamatkan dari air bah karena berada di dalam bahtera. Dia memperlakukan ayahnya dengan hormat ketika Nuh mabuk setelah air bah. Sem mengikuti Allah. Nuh mengakui Sem sebagai pemimpin di antara saudara-saudaranya. Ia mengucapkan berkat atas keluarga Sem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shem",
+          "type": "person",
+          "preferred_label": "Sem",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203300,
+    "content_id": "203300",
     "reference_id": 108165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sempurna",
     "media_type": "Text",
     "index_reference": "sempurna",
@@ -176,13 +314,14 @@
     "content": "<p>Kata sempurna dalam bahasa Yunani berarti lengkap atau selesai. Ini berarti tidak ada yang kurang dan sesuatu telah mencapai pertumbuhan penuh.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203517,
+    "content_id": "203517",
     "reference_id": 108382,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sepersepuluh",
     "media_type": "Text",
     "index_reference": "sepersepuluh",
@@ -191,13 +330,14 @@
     "content": "<p>Orang Israel harus mempersembahkan sepersepuluh dari segala sesuatu yang mereka miliki kepada Allah. Ini termasuk semua yang dihasilkan oleh tanah dan ternak mereka. Hal ini akan membantu mereka mengingat bahwa segala sesuatu adalah milik Allah. Ini akan membantu mereka mengingat bahwa segala sesuatu yang mereka miliki adalah anugerah dari Allah. Hal ini akan membantu mereka untuk bersukacita atas tanah yang Allah berikan kepada mereka. Mereka memberikan sepersepuluh dari segala sesuatu kepada Allah dengan membaginya dengan para imam dan orang Lewi. Mereka juga membaginya dengan orang-orang miskin dan yang membutuhkan. Praktik memberikan sepersepuluh dari segala sesuatu kepada Allah berlangsung selama ratusan tahun. Hal ini disebut juga dengan memberikan persepuluhan. Banyak orang Kristen memberikan persepuluhan kepada gereja mereka. Persepuluhan dapat berupa apa saja yang dihasilkan dari pekerjaan mereka termasuk uang.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203466,
+    "content_id": "203466",
     "reference_id": 108331,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sepuluh Perintah Allah",
     "media_type": "Text",
     "index_reference": "sepuluh perintah allah",
@@ -214,13 +354,14 @@
           "label": "Hukum Musa",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203443,
+    "content_id": "203443",
     "reference_id": 108308,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sepuluh tulah",
     "media_type": "Text",
     "index_reference": "sepuluh tulah",
@@ -229,13 +370,14 @@
     "content": "<p>Sepuluh cara Allah menjatuhkan penghakiman terhadap Firaun, Mesir, dan ilah-ilah palsu Mesir. Semua itu adalah tanda-tanda ajaib yang dilakukan Allah melalui Musa dan Harun. Tanda-tanda ini menunjukkan kepada Firaun, bangsa Israel, dan bumi tentang otoritas dan kuasa Allah atas segala sesuatu. Tanda-tanda ini menunjukkan bahwa Allah menggunakan otoritas dan kuasa-Nya untuk menolong umat-Nya. Tulah-tulah tersebut adalah bagian dari cara Allah menyelamatkan umat-Nya dari perbudakan di Mesir. Tuhan mengirimkan satu tulah setiap kali Firaun menolak untuk membiarkan bangsa Israel meninggalkan Mesir. Tulah-tulah itu termasuk air yang berubah menjadi darah, katak, agas, dan lalat. Tulah-tulah itu termasuk hewan ternak yang mati dan bisul-bisul pada kulit hewan dan manusia. Tulah-tulah itu termasuk hujan es, belalang dan kegelapan. Selama tulah terakhir, anak laki-laki tertua di setiap keluarga Mesir dibunuh. Allah menyelamatkan bangsa Israel dari penderitaan yang ditimbulkan oleh tulah-tulah itu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203505,
+    "content_id": "203505",
     "reference_id": 108370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sesama",
     "media_type": "Text",
     "index_reference": "sesama",
@@ -252,13 +394,14 @@
           "label": "Orang luar",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203359,
+    "content_id": "203359",
     "reference_id": 108224,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Set",
     "media_type": "Text",
     "index_reference": "set",
@@ -267,13 +410,29 @@
     "content": "<p>Seorang anak dari Adam dan Hawa. Dia seperti Adam dalam beberapa hal yang tidak dimiliki Kain. Dia mengikuti Allah. Allah memilih untuk bekerja melalui garis keturunan Set dalam rencana-Nya untuk menyelamatkan dunia. Yesus berasal dari garis keturunan Set.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Seth",
+          "type": "person",
+          "preferred_label": "Set",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Sethur",
+          "type": "person",
+          "preferred_label": "Setur",
+          "confidence": 0.9515,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203549,
+    "content_id": "203549",
     "reference_id": 108414,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Shema",
     "media_type": "Text",
     "index_reference": "shema",
@@ -282,13 +441,14 @@
     "content": "<p>Sebuah doa Yahudi yang mencakup Ulangan 6:4. Dalam bahasa Ibrani, kata pertama dari Ulangan 6:4 adalah shema. Artinya adalah mendengar dan melakukan tindakan berdasarkan apa yang didengar. Dalam bahasa Ibrani, mendengar dan melakukan dipahami sebagai hal yang sama. Shema menjelaskan tentang perjanjian Allah dengan bangsa Israel. Allah adalah satu-satunya Allah yang benar. Bangsa Israel harus menaati hanya Allah. Hal ini berlaku untuk setiap orang. Hal ini juga berlaku bagi mereka sebagai sebuah komunitas. Mereka harus menaati Sepuluh Perintah Allah dan semua hukum Allah. Banyak hal yang dapat membantu mereka mengingat siapa Allah dan apa yang diperintahkan-Nya. Mereka harus membicarakan perintah-perintah-Nya setiap saat di mana saja dan dengan siapa saja. Mereka harus menuliskannya. Mereka harus memasang pengingat di pakaian, tubuh, rumah, dan pintu gerbang mereka. Mereka harus mengajukan pertanyaan tentang Allah dengan bebas dan berbicara tentang Dia dengan anak-anak mereka. Yesus menggunakan kata-kata dari Shema dalam Markus 12:29.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203239,
+    "content_id": "203239",
     "reference_id": 108104,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sida-sida dari Etiopia",
     "media_type": "Text",
     "index_reference": "sida-sida dari etiopia",
@@ -297,13 +457,14 @@
     "content": "<p>Seorang pejabat pemerintah yang penting di wilayah Etiopia di Afrika. Ia mengelola keuangan ratu. Tidak diketahui apakah ia seorang Yahudi. Ia menyembah Allah Israel dan menjadi pengikut Yesus. Diperkirakan bahwa ia adalah orang percaya pertama yang memberitakan kabar baik mengenai Yesus di Afrika.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203445,
+    "content_id": "203445",
     "reference_id": 108310,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sihir",
     "media_type": "Text",
     "index_reference": "sihir",
@@ -312,13 +473,14 @@
     "content": "<p>Penggunaan kekuatan spiritual yang tidak berasal dari Allah. Orang-orang menggunakan kekuatan ini untuk mencoba mengendalikan sesuatu atau orang lain. Mereka menggunakan kekuatan ini untuk mencoba mencelakai orang lain. Mereka menggunakannya untuk mencoba melindungi diri mereka sendiri dari bahaya. Mereka juga menggunakannya untuk mencoba membuat perubahan di dunia. Seringkali perubahan-perubahan ini tampak seperti mukjizat. Pada zaman dan tempat dalam Alkitab, banyak orang menggunakan sihir. Mereka percaya bahwa kekuatan spiritual ini berasal dari para dewa dan dewi. Mereka percaya bahwa roh-roh anggota keluarga yang telah meninggal dapat membantu mereka menggunakan kekuatan ini. Mereka percaya bahwa kekuatan ini juga dapat ditemukan di dunia alami. Banyak orang yang masih mempercayai hal ini. Mereka mencari bantuan dewa, makhluk spiritual atau hal-hal di dunia alami.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203530,
+    "content_id": "203530",
     "reference_id": 108395,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sihon dan Og",
     "media_type": "Text",
     "index_reference": "sihon dan og",
@@ -327,13 +489,14 @@
     "content": "<p>Dua raja Amori yang tinggal di sebelah timur Sungai Yordan. Sihon adalah raja Hesybon dan Og adalah raja Basan. Orang Israel meminta izin untuk melakukan perjalanan melalui tanah mereka dengan damai. Sihon dan Og menyerang mereka, tetapi orang Israel memenangkan pertempuran. Beberapa suku Israel memilih untuk tetap tinggal dan hidup di tanah tersebut.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203417,
+    "content_id": "203417",
     "reference_id": 108282,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sikhem",
     "media_type": "Text",
     "index_reference": "sikhem",
@@ -342,13 +505,43 @@
     "content": "<p>Sebuah kota di Kanaan yang menjadi kota penting di Israel. Abraham dan Yakub membangun mezbah untuk Tuhan di sana. Sikhem juga merupakan nama pria yang memperkosa Dina. Saudara-saudara Dina membunuh Sikhem dan orang-orang di kota itu karena perbuatan Sikhem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shechem",
+          "type": "person",
+          "preferred_label": "Sekhem",
+          "confidence": 0.8276,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem.2",
+          "type": "person",
+          "preferred_label": "Sekhem",
+          "confidence": 0.8276,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shechem.3",
+          "type": "person",
+          "preferred_label": "Sekhem",
+          "confidence": 0.8276,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shechem",
+          "type": "place",
+          "preferred_label": "Sekhem",
+          "confidence": 0.8276,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203256,
+    "content_id": "203256",
     "reference_id": 108121,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Silas",
     "media_type": "Text",
     "index_reference": "silas",
@@ -357,13 +550,22 @@
     "content": "<p>Seorang pemimpin di antara orang-orang percaya di Yerusalem. Dia bekerja bersama Paulus, Barnabas dan Petrus. Ia adalah seorang nabi dan warga negara Romawi. Ia membantu membawa surat penting dari gereja Yerusalem kepada gereja-gereja bukan Yahudi. Ia juga membantu Paulus dan Petrus menulis surat kepada jemaat-jemaat.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Silas",
+          "type": "person",
+          "preferred_label": "Silas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203588,
+    "content_id": "203588",
     "reference_id": 108453,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Silo",
     "media_type": "Text",
     "index_reference": "silo",
@@ -372,13 +574,29 @@
     "content": "<p>Sebuah kota penting Israel di daerah perbukitan Efraim. Letaknya di sebelah utara Yerusalem. Yosua mendirikan kemah suci di sana ketika bangsa Israel memasuki Kanaan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Shiloh",
+          "type": "person",
+          "preferred_label": "Silo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shiloh",
+          "type": "place",
+          "preferred_label": "Silo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203219,
+    "content_id": "203219",
     "reference_id": 108084,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siloam",
     "media_type": "Text",
     "index_reference": "siloam",
@@ -387,13 +605,22 @@
     "content": "<p>Sebuah tempat di dalam tembok Yerusalem di mana terdapat sebuah kolam air tawar. Siloam berarti dikirim/diutus. Kolam pertama di sana dibangun oleh Raja Hizkia. Bangsa Babilonia menghancurkannya, tetapi dibangun kembali pada masa Nehemia. Air dari kolam tersebut dituangkan ke atas mezbah pada Hari Raya Pondok Daun. Air kolam itu berasal dari mata air Gihon. Di sana juga terdapat sebuah menara yang jatuh pada masa Yesus dan menewaskan 18 orang.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Siloam",
+          "type": "place",
+          "preferred_label": "Siloam",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203220,
+    "content_id": "203220",
     "reference_id": 108085,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simon dari Kirene",
     "media_type": "Text",
     "index_reference": "simon dari kirene",
@@ -402,13 +629,14 @@
     "content": "<p>Seorang pria dari Kirene yang mendapat bagian untuk memikul  salib Yesus. Tentara Romawi menyuruhnya melakukan hal ini. Kirene berada di negara yang sekarang disebut Libia di Afrika. Banyak orang Yahudi yang berbicara dalam bahasa Yunani tinggal di sana. Mereka akan pergi ke Yerusalem untuk merayakan hari raya Yahudi. Anak-anak Simon bernama Aleksander dan Rufus. Rufus ini mungkin adalah Rufus yang sama dengan yang dibicarakan Paulus dalam Roma 16:13.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203574,
+    "content_id": "203574",
     "reference_id": 108439,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Simson",
     "media_type": "Text",
     "index_reference": "simson",
@@ -417,13 +645,22 @@
     "content": "<p>Salah satu dari 12 hakim Israel. Dia berasal dari suku Dan dan ayahnya bernama Manoah. Malaikat Tuhan menampakkan diri kepada ibunya untuk memberitahukan kelahirannya. Dia harus hidup sebagai seorang nazir sepanjang hidupnya. Allah memakai Simson untuk membebaskan bangsa Israel dari perlakuan buruk orang Filistin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Samson",
+          "type": "person",
+          "preferred_label": "Simson",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203186,
+    "content_id": "203186",
     "reference_id": 108051,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sinagoga",
     "media_type": "Text",
     "index_reference": "sinagoga",
@@ -432,13 +669,22 @@
     "content": "<p>Tempat di mana orang-orang Yahudi pada masa Perjanjian Baru berkumpul untuk menyembah Tuhan. Mereka akan membacakan dengan lantang Hukum Musa dan para Nabi. Kemudian para guru Yahudi yang disebut rabi akan mengajar orang-orang. Hal ini dilakukan pada hari Sabat. Ada banyak sinagoga di seluruh wilayah yang dikuasai oleh pemerintah Romawi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Synagogue",
+          "type": "realia",
+          "preferred_label": "Synagogue",
+          "confidence": 0.8477,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203247,
+    "content_id": "203247",
     "reference_id": 108112,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Siprus",
     "media_type": "Text",
     "index_reference": "siprus",
@@ -447,13 +693,22 @@
     "content": "<p>Sebuah pulau besar di Laut Mediterania sebelah barat dari Siria dan selatan Turki. Para Nabi dalam Perjanjian Lama menyebutkan Siprus. Pulau ini sangat penting dalam perjalanan pertama Paulus dalam memberitakan kabar baik. Orang-orang percaya seperti Barnabas dan Manason berasal dari Siprus. </p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Cyprus",
+          "type": "place",
+          "preferred_label": "Siprus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203629,
+    "content_id": "203629",
     "reference_id": 108494,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "SM (Sebelum Masehi)",
     "media_type": "Text",
     "index_reference": "sm (sebelum masehi)",
@@ -462,13 +717,14 @@
     "content": "<p>Sebuah cara untuk menggambarkan tahun-tahun sebelum Yesus lahir. SM (Sebelum Masehi) berarti sebelum Kristus. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203309,
+    "content_id": "203309",
     "reference_id": 108174,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Smirna",
     "media_type": "Text",
     "index_reference": "smirna",
@@ -477,13 +733,22 @@
     "content": "<p>Sebuah kota penting di wilayah Romawi di Asia. Letaknya di pesisir Laut Aegea. Kota ini merupakan bagian dari kota Izmir di negara yang sekarang dikenal sebagai Turki.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Smyrna",
+          "type": "place",
+          "preferred_label": "Smirna",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203384,
+    "content_id": "203384",
     "reference_id": 108249,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sodom and Gomora",
     "media_type": "Text",
     "index_reference": "sodom and gomora",
@@ -492,13 +757,14 @@
     "content": "<p>Dua kota di Kanaan. Orang-orang yang tinggal di sana dikenal karena melakukan hal-hal yang jahat. Keponakan Abraham, Lot, tinggal di Sodom. Allah menghancurkan Sodom dan Gomora tetapi menyelamatkan Lot. Allah menghancurkan kota-kota ini karena kejahatan mereka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203279,
+    "content_id": "203279",
     "reference_id": 108144,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Spanyol",
     "media_type": "Text",
     "index_reference": "spanyol",
@@ -507,13 +773,22 @@
     "content": "<p>Sebuah negara di wilayah barat yang dikuasai oleh pemerintah Romawi. Saat ini negara itu masih disebut Spanyol. Paulus ingin membagikan kabar baik di sana. Ini adalah daerah terjauh di sebelah barat yang disebutkan dalam Alkitab.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Spain",
+          "type": "place",
+          "preferred_label": "Spanyol",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203236,
+    "content_id": "203236",
     "reference_id": 108101,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Stefanus",
     "media_type": "Text",
     "index_reference": "stefanus",
@@ -522,13 +797,29 @@
     "content": "<p>Salah satu dari tujuh pemimpin yang dipilih oleh orang-orang percaya di Yerusalem untuk menjadi diaken. Dia memastikan semua orang percaya memiliki cukup makanan. Banyak orang Yahudi yang marah karena ia berkhotbah tentang Yesus. Mereka membunuhnya dengan melempari dia dengan batu. Dia adalah pengikut Yesus yang pertama yang dibunuh karena setia kepada Yesus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Stephanas",
+          "type": "person",
+          "preferred_label": "Stefanus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Stephen",
+          "type": "person",
+          "preferred_label": "Stefanus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203266,
+    "content_id": "203266",
     "reference_id": 108131,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Stoa",
     "media_type": "Text",
     "index_reference": "stoa",
@@ -537,13 +828,14 @@
     "content": "<p>Sekelompok pemikir yang mengikuti ajaran pemikir Yunani, Zeno dari Citium. Mereka percaya bahwa manusia harus hidup sesuai dengan hukum alam yang disebut logos. Logos dipahami sebagai kekuatan akal budi yang membuat dunia ini bekerja. Paulus membagikan kabar baik tentang Yesus kepada kaum Stoa di Athena.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203392,
+    "content_id": "203392",
     "reference_id": 108257,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sunat",
     "media_type": "Text",
     "index_reference": "sunat",
@@ -552,13 +844,14 @@
     "content": "<p>Sebuah praktik diantara beberapa kelompok orang pada waktu dan tempat yang tercatat dalam Alkitab. Kulit khatan dari organ intim laki-laki dipotong. Bagi bangsa Israel, sunat merupakan sebuah tanda. Ini menunjukkan bahwa mereka adalah bagian dari umat yang telah terikat perjanjian dengan Allah. Bangsa Israel mempraktikan sunat hanya pada laki-laki yang berusia di atas 8 hari.</p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203689,
+    "content_id": "203689",
     "reference_id": 108554,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sungai Efrat",
     "media_type": "Text",
     "index_reference": "sungai efrat",
@@ -567,13 +860,14 @@
     "content": "<p>Sungai yang mengalir melalui negara-negara yang sekarang disebut Turki, Suriah dan Irak. Sungai ini merupakan sungai yang penting bagi kerajaan Babylonia dan Persia. Pada zaman Yesus, Sungai Efrat menjadi salah satu perbatasan wilayah pemerintahan Romawi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203436,
+    "content_id": "203436",
     "reference_id": 108301,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sungai Nil",
     "media_type": "Text",
     "index_reference": "sungai nil",
@@ -582,13 +876,14 @@
     "content": "<p>Sungai terpanjang di Afrika. Mengalir melalui bagian timur laut Afrika ke Laut Mediterania. Tanah di sekitar Sungai Nil sangat subur dan baik untuk pertanian.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203541,
+    "content_id": "203541",
     "reference_id": 108406,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Sungai Yordan",
     "media_type": "Text",
     "index_reference": "sungai yordan",
@@ -597,13 +892,22 @@
     "content": "<p>Sungai terbesar di tanah Israel. Mengalir dari utara ke selatan dari Laut Galilea ke Laut Mati.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jordan",
+          "type": "place",
+          "preferred_label": "Yordan",
+          "confidence": 0.8065,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203308,
+    "content_id": "203308",
     "reference_id": 108173,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Surat kepada jemaat - jemaat",
     "media_type": "Text",
     "index_reference": "surat kepada jemaat - jemaat",
@@ -612,13 +916,14 @@
     "content": "<p>Yesus memerintahkan Yohanes untuk menulis surat yang berisi pesan kepada tujuh jemaat. Setiap surat dimulai dengan menjelaskan tentang Yesus dengan cara yang berbeda. Dalam sebagian besar surat, Yesus menyebutkan cara-cara jemaat hidup dengan setia. Di sebagian besar surat, Ia juga menyebutkan cara-cara jemaat tidak setia kepada-Nya. Yesus mendorong orang-orang percaya di setiap gereja untuk mendengarkan Roh Kudus. Yesus mengakhiri setiap surat dengan sebuah janji. Janji itu ditujukan bagi mereka yang ikut ambil bagian dalam kemenangan-Nya atas kuasa dosa.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 203255,
+    "content_id": "203255",
     "reference_id": 108120,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Surat-surat Paulus",
     "media_type": "Text",
     "index_reference": "surat-surat paulus",
@@ -627,13 +932,22 @@
     "content": "<p>Paulus menulis surat kepada banyak orang percaya dan gereja. Tiga belas dari surat-surat tersebut terdapat dalam Perjanjian Baru. Surat-surat tersebut meliputi kitab Roma, 1 Korintus, 2 Korintus, Galatia, Efesus, Filipi, dan Kolose. Surat-surat tersebut juga mencakup kitab 1 Tesalonika, 2 Tesalonika, 1 Timotius, 2 Timotius, Titus dan Filemon. Adalah hal yang umum bagi Paulus untuk berbicara dengan lantang tentang apa yang ingin ia sampaikan dalam surat-suratnya. Seorang pembantunya menuliskan kata-katanya. Kemudian Paulus menambahkan pesan terakhir dengan tulisan tangannya sendiri. Hal ini membantu orang-orang yakin bahwa surat-surat itu benar-benar berasal darinya. Pembantu-pembantu Paulus membawa surat-surat dari Paulus kepada jemaat-jemaat atau orang-orang lain. Jemaat membacakan surat-surat itu dengan suara keras dan kemudian membagikannya kepada jemaat-jemaat lain di daerah itu. Paulus menulis beberapa suratnya ketika ia berada di dalam penjara.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paulus",
+          "confidence": 0.8573,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 203336,
+    "content_id": "203336",
     "reference_id": 108201,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Surga",
     "media_type": "Text",
     "index_reference": "surga",
@@ -657,13 +971,14 @@
           "label": "Kerajaan Allah",
           "language": "ind"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 203652,
+    "content_id": "203652",
     "reference_id": 108517,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Susan",
     "media_type": "Text",
     "index_reference": "susan",
@@ -672,7 +987,23 @@
     "content": "<p>Salah satu ibu kota pemerintahan Persia. Terletak di sebelah timur Sungai Tigris di negara yang sekarang disebut Iran.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Susa",
+          "type": "place",
+          "preferred_label": "Susan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Susanna",
+          "type": "person",
+          "preferred_label": "Susana",
+          "confidence": 0.8647,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

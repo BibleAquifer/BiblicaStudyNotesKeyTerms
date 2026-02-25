@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 778830,
+    "content_id": "778830",
     "reference_id": 108172,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dag des Heren",
     "media_type": "Text",
     "index_reference": "dag des heren",
@@ -11,13 +11,14 @@
     "content": "<p>Johannes, de schrijver van Openbaring, verwees naar zondag als de dag na de sabbat. Het is de dag van de week waarop Jezus uit de dood is opgestaan. Daarom begonnen kerken op zondag samen te komen om God te aanbidden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769753,
+    "content_id": "769753",
     "reference_id": 108571,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dag van de Heer",
     "media_type": "Text",
     "index_reference": "dag van de heer",
@@ -41,13 +42,14 @@
           "label": "Jezus' wederkomst",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 778807,
+    "content_id": "778807",
     "reference_id": 108055,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dag van het Oordeel",
     "media_type": "Text",
     "index_reference": "dag van het oordeel",
@@ -64,13 +66,14 @@
           "label": "Dag van de Heer",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 769745,
+    "content_id": "769745",
     "reference_id": 108446,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dagon",
     "media_type": "Text",
     "index_reference": "dagon",
@@ -79,13 +82,22 @@
     "content": "<p>Een valse god die werd aanbeden door bevolkingsgroepen in en rond Kanaän. In het Hebreeuws betekent het woord Dagon &apos;graan&apos;. Dagon werd beschouwd als de vader van Baäl.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "deity:Dagon",
+          "type": "deity",
+          "preferred_label": "Dagon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769746,
+    "content_id": "769746",
     "reference_id": 108540,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Damascus",
     "media_type": "Text",
     "index_reference": "damascus",
@@ -94,13 +106,22 @@
     "content": "<p>De hoofdstad van het koninkrijk ten noorden van Israël ligt in het gebied dat nu Syrië heet. Gedurende vele jaren was het een stad van de Arameeërs. Het bevindt zich ongeveer 300 km ten noorden van Jeruzalem.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Damascus",
+          "type": "place",
+          "preferred_label": "Damascus",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769747,
+    "content_id": "769747",
     "reference_id": 108444,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dan",
     "media_type": "Text",
     "index_reference": "dan",
@@ -109,13 +130,29 @@
     "content": "<p>Dan was de oudste zoon van Jakob en Bilha. In het Hebreeuws betekent de naam Dan &quot;hij oordeelde&quot;. Zijn nakomelingen vormden de stam van Dan, een van de stammen van Israël. Dan was ook de naam van de belangrijkste stad van deze stam. Deze stad lag in de buurt van de berg Hermon en was een van de meest noordelijke gebieden van Israël.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Dan",
+          "type": "person",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Dan",
+          "type": "place",
+          "preferred_label": "Dan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769748,
+    "content_id": "769748",
     "reference_id": 108560,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daniël",
     "media_type": "Text",
     "index_reference": "daniël",
@@ -124,13 +161,29 @@
     "content": "<p>Een jonge man uit het zuidelijke koninkrijk tijdens de regering van koning Jojakim. Hij werd uit Juda meegenomen om in Babylon te wonen. Hij diende verschillende Babylonische en Perzische koningen als wijze man en regeringsleider. Hij stond ook bekend als Beltsazar. Hij was een profeet en God gaf hem visioenen en boodschappen, die zijn vastgelegd in het boek Daniël.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Daniel.2",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 0.9237,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Daniel.3",
+          "type": "person",
+          "preferred_label": "Daniel",
+          "confidence": 0.9237,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769749,
+    "content_id": "769749",
     "reference_id": 108512,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Darius",
     "media_type": "Text",
     "index_reference": "darius",
@@ -139,13 +192,36 @@
     "content": "<p>Een koning van Perzië, bekend als Darius de Grote of Darius I. God gebruikte hem als een instrument. Darius stond de Joden toe de tempel te herbouwen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Darius",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Darius.2",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Darius.3",
+          "type": "person",
+          "preferred_label": "Darius",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769751,
+    "content_id": "769751",
     "reference_id": 108449,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "David",
     "media_type": "Text",
     "index_reference": "david",
@@ -162,13 +238,22 @@
           "label": "Verbond met David",
           "language": "nld"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:David",
+          "type": "person",
+          "preferred_label": "David",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 769757,
+    "content_id": "769757",
     "reference_id": 108433,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Debora",
     "media_type": "Text",
     "index_reference": "debora",
@@ -177,13 +262,29 @@
     "content": "<p>Een van de twaalf rechters van Israël. Ze was een profetes in het heuvelgebied van Efraïm. Ze hielp de Israëlieten door moeilijke zaken voor hen op te lossen. Ze benoemde Barak als leider van de aanval tegen het leger van Sisera. Haar lied over hun overwinning is vastgelegd in Richteren, hoofdstuk 5.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Deborah",
+          "type": "person",
+          "preferred_label": "Deborah",
+          "confidence": 0.9435,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Deborah.2",
+          "type": "person",
+          "preferred_label": "Deborah",
+          "confidence": 0.9435,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769758,
+    "content_id": "769758",
     "reference_id": 108445,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Delila",
     "media_type": "Text",
     "index_reference": "delila",
@@ -192,13 +293,22 @@
     "content": "<p>Een Filistijnse vrouw op wie Simson verliefd was. De Filistijnse leiders gebruikten haar om het geheim van Simsons verbazingwekkende kracht te ontdekken. Simson loog drie keer tegen haar hierover, maar Delila smeekte hem totdat hij haar uiteindelijk de waarheid vertelde. Ze ontving geld voor het verraden van Simson aan de leiders.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Delilah",
+          "type": "person",
+          "preferred_label": "Delilah",
+          "confidence": 0.9461,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769759,
+    "content_id": "769759",
     "reference_id": 108117,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Derbe",
     "media_type": "Text",
     "index_reference": "derbe",
@@ -207,13 +317,22 @@
     "content": "<p>Een stad in de Romeinse provincie Galatië in Klein-Azië. Paulus bezocht deze stad tijdens drie van zijn reizen om het goede nieuws over Jezus te verspreiden. Men denkt dat Paulus&apos; brief aan de Galaten daar in de kerk werd voorgelezen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Derbe",
+          "type": "place",
+          "preferred_label": "Derbe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769754,
+    "content_id": "769754",
     "reference_id": 108100,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Diakens",
     "media_type": "Text",
     "index_reference": "diakens",
@@ -222,13 +341,14 @@
     "content": "<p>Volgelingen van Jezus die als kerkleiders dienen, waren diakenen. Zij werkten hard om te helpen voldoen aan de behoeften van de gelovigen in de kerk. Het werk van de eerste diakenen wordt beschreven in Handelingen 6:1–7.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 775305,
+    "content_id": "775305",
     "reference_id": 108544,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dienaar van God",
     "media_type": "Text",
     "index_reference": "dienaar van god",
@@ -237,13 +357,14 @@
     "content": "<p>De Dienaar die God beloofde te sturen om Zijn volk te helpen. Het boek Jesaja bevat verschillende profetieën over deze dienaar. God koos deze dienaar om Zijn leer met het volk te delen en stelde hem apart om hen met rechtvaardigheid te leiden. Hij zou lijden tijdens zijn dienst. De dienaar wordt soms beschreven als het volk van Israël, en soms als een profeet of iemand anders die Gods volk hielp. Andere keren wordt de dienaar beschreven als een redder die in de toekomst zou komen. In Handelingen hoofdstuk 3 legde Petrus uit hoe de dienaar die in Jesaja wordt beschreven ook de Joodse Messias was. Petrus toonde vervolgens aan dat Jezus deze Dienaar en Messias is.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769762,
+    "content_id": "769762",
     "reference_id": 108283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dinah",
     "media_type": "Text",
     "index_reference": "dinah",
@@ -252,13 +373,22 @@
     "content": "<p>De dochter van Jakob en Lea. Haar broers Levi en Simeon doodden Sichem nadat hij haar had verkracht.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Dinah",
+          "type": "person",
+          "preferred_label": "Dinah",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 769763,
+    "content_id": "769763",
     "reference_id": 108040,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Discipel",
     "media_type": "Text",
     "index_reference": "discipel",
@@ -282,13 +412,14 @@
           "label": "12 stammen",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 769765,
+    "content_id": "769765",
     "reference_id": 108167,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Docetisme",
     "media_type": "Text",
     "index_reference": "docetisme",
@@ -297,13 +428,14 @@
     "content": "<p>Een geloof dat Jezus geen menselijk lichaam had en niet volledig mens was, was gebaseerd op een Grieks idee. Dit idee stelde dat lichamen slecht waren en dat alleen geestelijke zaken die eeuwig duren, goed waren. Docetisme werd onderdeel van een denkwijze genaamd Gnosticisme. Gnosticisme legde uit dat de wereld problemen had omdat mensen lichamen hadden. Gnostici geloofden dat mensen gered werden door geheime kennis te bezitten.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769756,
+    "content_id": "769756",
     "reference_id": 108190,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dood en Hel",
     "media_type": "Text",
     "index_reference": "dood en hel",
@@ -312,13 +444,14 @@
     "content": "<p>In Openbaring beschreef Johannes de dood en de hel als kwade machten die door God worden geoordeeld. Dit betekent dat God de dood en de hel voor altijd beëindigt. Hierdoor zullen mensen in Gods koninkrijk op aarde nooit sterven. Mensen die weigeren zich bij Gods koninkrijk aan te sluiten, zullen voor altijd van God gescheiden blijven.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769199,
+    "content_id": "769199",
     "reference_id": 108037,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dopen",
     "media_type": "Text",
     "index_reference": "dopen",
@@ -327,13 +460,14 @@
     "content": "<p>Een gebruik onder Joden. De doop was een uiterlijk teken van iets dat innerlijk in mensen was gebeurd. Ze gingen het water in en werden ermee bedekt. Daarna kwamen ze weer uit het water. Mensen deden dit om volgens de Joodse wetten rein te worden. Heidenen werden gedoopt om te laten zien dat ze het Joodse geloof hadden aangenomen. Joden werden gedoopt als een teken van gehoorzaamheid aan God. Het toonde aan dat ze zich van zonde hadden afgekeerd. Christenen worden gedoopt om te laten zien dat ze zich van zonde hebben afgekeerd en in Jezus geloven. Het toont aan dat ze toegewijd zijn aan het volgen van Jezus en deel uitmaken van Gods volk.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769766,
+    "content_id": "769766",
     "reference_id": 108273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Dromen",
     "media_type": "Text",
     "index_reference": "dromen",
@@ -342,13 +476,14 @@
     "content": "<p>Een manier waarop God zichzelf en zijn plannen aan mensen bekendmaakt, is via dromen. Soms is Gods boodschap in een droom heel duidelijk voor mensen, terwijl het andere keren misschien niet duidelijk is. God geeft sommige mensen het vermogen om de dromen van anderen te begrijpen, zodat zij anderen kunnen helpen de boodschap van God te begrijpen. Niet alle dromen zijn boodschappen van God. Dromen van God worden niet door mensen veroorzaakt; ze zijn een geschenk van God.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 769750,
+    "content_id": "769750",
     "reference_id": 108039,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Duisternis",
     "media_type": "Text",
     "index_reference": "duisternis",
@@ -365,13 +500,14 @@
           "label": "Kwaadaardige geestelijke wezens",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 769761,
+    "content_id": "769761",
     "reference_id": 108216,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Duivel",
     "media_type": "Text",
     "index_reference": "duivel",
@@ -388,7 +524,8 @@
           "label": "Kwaadaardige geestelijke wezens",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

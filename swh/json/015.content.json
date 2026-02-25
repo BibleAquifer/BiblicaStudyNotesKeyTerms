@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 367979,
+    "content_id": "367979",
     "reference_id": 108488,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Naamani",
     "media_type": "Text",
     "index_reference": "naamani",
@@ -11,13 +11,78 @@
     "content": "<p>Kamanda muhimu wa jeshi la Aramu. Msichana mdogo Mwisraeli alikuwa mtumishi katika nyumba yake. Alifuata ushauri wake wa kumwomba Elisha amponye ugonjwa wake wa ngozi. Mwanzoni Naamani alikataa kufuata maagizo ya Elisha. Lakini alipojinyenyekeza na kutii, aliponywa. Kisha akamawini Mungu na aliporudi Aramu, aliabudu Mungu pekee.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Naaman",
+          "type": "person",
+          "preferred_label": "Naamani",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.2",
+          "type": "person",
+          "preferred_label": "Naamani",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.3",
+          "type": "person",
+          "preferred_label": "Naamani",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naaman.4",
+          "type": "person",
+          "preferred_label": "Naamani",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Naamah.2",
+          "type": "place",
+          "preferred_label": "Naamah",
+          "confidence": 0.85,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naamah",
+          "type": "person",
+          "preferred_label": "Naama",
+          "confidence": 0.8473,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Naamah.2",
+          "type": "person",
+          "preferred_label": "Naama",
+          "confidence": 0.8473,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Naamah",
+          "type": "place",
+          "preferred_label": "Naama",
+          "confidence": 0.8473,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nahamani",
+          "type": "person",
+          "preferred_label": "Nahamani",
+          "confidence": 0.8301,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367907,
+    "content_id": "367907",
     "reference_id": 108416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nabii",
     "media_type": "Text",
     "index_reference": "nabii",
@@ -34,13 +99,14 @@
           "label": "Nabii wa uongo",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 368041,
+    "content_id": "368041",
     "reference_id": 108550,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nabii wa uongo",
     "media_type": "Text",
     "index_reference": "nabii wa uongo",
@@ -57,13 +123,14 @@
           "label": "Nabii",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367847,
+    "content_id": "367847",
     "reference_id": 108356,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nadabu na Abihu",
     "media_type": "Text",
     "index_reference": "nadabu na abihu",
@@ -72,13 +139,14 @@
     "content": "<p>Wana wakubwa wa Aroni na Elisheba kutoka kabila la Lawi. Ndugu zao walikuwa Eleazari na Ithamari. Walikuwa kwenye Mlima Sinai na Musa na Haruni wakati Mungu alipoanzisha agano. Walitengwa kama makuhani. Walimwasi Mungu katika njia walivyoongoza watu katika ibada. Walikufa kwa sababu ya hii.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367674,
+    "content_id": "367674",
     "reference_id": 108183,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nambari",
     "media_type": "Text",
     "index_reference": "nambari",
@@ -87,13 +155,14 @@
     "content": "<p>Kwenye kitabu cha Ufunuo, nambari zina maana maalum. Hazimaanishi kila mara idadi kamili iliyotajwa. Ni ishara za kitu cha kiroho.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367961,
+    "content_id": "367961",
     "reference_id": 108470,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nathan",
     "media_type": "Text",
     "index_reference": "nathan",
@@ -102,13 +171,57 @@
     "content": "<p> Alikuwa nabii wakati wa utawala wa Mfalme Daudi. Alikuwa mshauri wa karibu wa Daudi. Alimpa Daudi ujumbe kuhusu ahadi za Mungu kwa ukoo wa Daudi. Alimkemea Daudi alipofanya mambo mabaya. Nathani alimsaidia Sulemani kuwa mfalme baada ya Daudi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nathan",
+          "type": "person",
+          "preferred_label": "Nathani",
+          "confidence": 0.8576,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.2",
+          "type": "person",
+          "preferred_label": "Nathani",
+          "confidence": 0.8576,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.3",
+          "type": "person",
+          "preferred_label": "Nathani",
+          "confidence": 0.8576,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.4",
+          "type": "person",
+          "preferred_label": "Nathani",
+          "confidence": 0.8576,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.5",
+          "type": "person",
+          "preferred_label": "Nathani",
+          "confidence": 0.8576,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan.6",
+          "type": "person",
+          "preferred_label": "Nathani",
+          "confidence": 0.8576,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367562,
+    "content_id": "367562",
     "reference_id": 108071,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nazareti",
     "media_type": "Text",
     "index_reference": "nazareti",
@@ -117,13 +230,22 @@
     "content": "<p>Ni mji mdogo ambapo Yesu alikulia katika sehemu ya kusini ya Galilaya. Nazareti iko kati ya Bahari ya Galilaya na Bahari ya Mediterania.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Nazareth",
+          "type": "place",
+          "preferred_label": "Nazareti",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367832,
+    "content_id": "367832",
     "reference_id": 108341,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ndama wa chuma",
     "media_type": "Text",
     "index_reference": "ndama wa chuma",
@@ -140,13 +262,14 @@
           "label": "Miungu wa uongo",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367697,
+    "content_id": "367697",
     "reference_id": 108206,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ndoa",
     "media_type": "Text",
     "index_reference": "ndoa",
@@ -155,13 +278,14 @@
     "content": "<p>Desturi katika Biblia iliyoruhusu mwanaume na mwanamke kuungana. Iliwaruhusu kuwa familia. Hivi ndivyo wanadamu walivyotii maagizo ya Mungu ya kupata watoto na kuijaza dunia. Sheria ya Musa ilijumuisha sheria nyingi kuhusu ndoa miongoni mwa Waisraeli. Sheria kuu ilikuwa kwamba waume na wake walipaswa kuwa waaminifu kwa kila mmoja. Walipaswa kufanya ngono na kila mmoja tu. Wimbo wa Sulemani ulitoa mfano wa furaha, heshima na wema katika ndoa. Manabii wa Agano la Kale walitumia ndoa kama picha. Ilielezea kitu kuhusu uhusiano kati ya watu wa Israeli na Mungu. Mungu alikuwa kama mume na Israeli alikuwa kama mke. Mungu aliipenda Israeli na alikuwa mwaminifu kwa watu wake. Waandishi wa Agano Jipya pia walitumia ndoa kama picha. Yesu alikuwa kama bwana harusi na kanisa lilikuwa kama bibi harusi. Hii inaonyesha jinsi Yesu anavyowapenda wafuasi wake.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367764,
+    "content_id": "367764",
     "reference_id": 108273,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ndoto",
     "media_type": "Text",
     "index_reference": "ndoto",
@@ -170,13 +294,14 @@
     "content": "<p>Njia moja ambayo Mungu hujidhihirisha na mipango yake kwa watu. Wakati mwingine ujumbe wa Mungu kupitia ndoto ni wazi sana kwa watu. Wakati mwingine inaweza kuwa haieleweki kwao. Mungu huwapa watu wengine uwezo wa kuelewa ndoto za watu wengine. Wanawasaidia wengine kuelewa ujumbe kutoka kwa Mungu. Sio ndoto zote ni ujumbe kutoka kwa Mungu. Watu hawafanyi ndoto kutoka kwa Mungu kutokea. Ni zawadi kutoka kwa Mungu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367992,
+    "content_id": "367992",
     "reference_id": 108501,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nebukadneza",
     "media_type": "Text",
     "index_reference": "nebukadneza",
@@ -185,13 +310,22 @@
     "content": "<p>Mfalme wa Babeli kutoka kundi la watu wa Wakaldayo. Mungu alimtumia kama chombo cha kuleta hukumu dhidi ya ufalme wa kusini. Katika mwaka wa 586 kabla ya Yesu (KK) majeshi yake yaliharibu Yerusalemu na hekalu. Nabii Danieli alifafanua baadhi ya ndoto za Nebukadneza kwake. Nebukadneza aliabudu miungu ya uongo lakini alitambua kwamba Mungu wa Wayahudi alikuwa na mamlaka.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nebuchadnezzar",
+          "type": "person",
+          "preferred_label": "Nebukadneza",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367726,
+    "content_id": "367726",
     "reference_id": 108235,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neema",
     "media_type": "Text",
     "index_reference": "neema",
@@ -200,13 +334,14 @@
     "content": "<p>Upendo wa kina wa Mungu kwa viumbe vyake na kusudi lake la kuwafanyia mema. Anatoa upendo wake kwa sababu anataka mambo mazuri kwa kila kitu alichoumba. Upendo na neema ya Mungu havipatikani kwa juhudi. Mungu anavitoa bure.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 368006,
+    "content_id": "368006",
     "reference_id": 108515,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nehemia",
     "media_type": "Text",
     "index_reference": "nehemia",
@@ -215,13 +350,36 @@
     "content": "<p>Ni myahudi aliyerudi Yerusalemu kutoka Susa. Alikuwa mwana wa Hakalia na Hanani alikuwa kaka yake. Alikuwa afisa anayeaminika katika serikali ya Uajemi. Alikuwa mtayari wa divai wa Artashasta. Hii ilimaanisha kwamba alihakikisha chakula na divai ya mfalme havijatiwa sumu. Alihudumu mara mbili kama gavana wa Yerusalemu. Aliwaongoza Wayahudi kujenga upya ukuta wa Yerusalemu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nehemiah",
+          "type": "person",
+          "preferred_label": "Nehemia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.2",
+          "type": "person",
+          "preferred_label": "Nehemia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nehemiah.3",
+          "type": "person",
+          "preferred_label": "Nehemia",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367691,
+    "content_id": "367691",
     "reference_id": 108200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Neno la Mungu",
     "media_type": "Text",
     "index_reference": "neno la mungu",
@@ -238,13 +396,22 @@
           "label": "Bibilia",
           "language": "swh"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:WordOfTheLord",
+          "type": "keyterm",
+          "preferred_label": "Word of the Lord",
+          "confidence": 0.8218,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 367579,
+    "content_id": "367579",
     "reference_id": 108088,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nikodemo",
     "media_type": "Text",
     "index_reference": "nikodemo",
@@ -253,13 +420,22 @@
     "content": "<p>Mtawala Myahudi na Farisayo ambaye aliamini katika Yesu na kumfuata kwa siri. Alikuwa na mazungumzo muhimu na Yesu usiku mmoja. Yesu alipokufa, Nikodemo alisaidia kuandaa mwili wake kwa mazishi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nicodemus",
+          "type": "person",
+          "preferred_label": "Nikodemo",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368065,
+    "content_id": "368065",
     "reference_id": 108574,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nineve",
     "media_type": "Text",
     "index_reference": "nineve",
@@ -268,13 +444,14 @@
     "content": "<p> Ni mji mkuu wa serikali ya Ashuru. Ulikuwa kwenye Mto Tigris katika nchi inayoitwa sasa Iraq. Watu waliokuwa wakiishi huko walijulikana kwa kufanya mambo ya vurugu na maovu. Serikali ya Babeli ilichukua udhibiti wa Ninawi na serikali ya Ashuru mwaka 612 kabla ya Yesu (KK).</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367596,
+    "content_id": "367596",
     "reference_id": 108105,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Njia ya Yesu",
     "media_type": "Text",
     "index_reference": "njia ya yesu",
@@ -283,13 +460,14 @@
     "content": "<p>Jina la desturi ya kumfuata Yesu. Jina hili lilitumika katika Matendo kuelezea jinsi jamii ya waumini walivyoishi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 367721,
+    "content_id": "367721",
     "reference_id": 108230,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nohu",
     "media_type": "Text",
     "index_reference": "nohu",
@@ -298,13 +476,22 @@
     "content": "<p>Mwana wa Lameki katika ukoo wa Sethi. Alikuwa baba wa Shemu, Hamu na Yafethi, na alimfuata Mungu kwa uaminifu. Mungu alimwokoa Nuhu na familia yake wakati Mungu alipoharibu dunia kwa gharika. Mungu alifanya agano na Nuhu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Nogah",
+          "type": "person",
+          "preferred_label": "Noga",
+          "confidence": 0.8123,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367872,
+    "content_id": "367872",
     "reference_id": 108381,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nunua tena",
     "media_type": "Text",
     "index_reference": "nunua tena",
@@ -313,13 +500,14 @@
     "content": "<p>Kurudisha kitu au mtu ambaye amepeanwa au kuuzwa. Hii inafanyika kwa kulipa bei ya kitu au mtu huyo. Neno lingine kwa hili ni kukomboa. Yule anayenunua ili kurudisha kitu au mtu huyo anaitwa mkombozi. Mungu aliwakomboa Waisraeli walipokuwa watumwa huko Misri. Hii ilionyesha kwamba, Alikuwa mkombozi wao. Yesu alipokufa msalabani, alilipa bei ya kuwakomboa wenye dhambi wote. Anawakomboa wote wanaomwamini. Anawakomboa kutoka kwa nguvu za dhambi, kifo na uovu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 368036,
+    "content_id": "368036",
     "reference_id": 108545,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Nuru kwa Mataifa",
     "media_type": "Text",
     "index_reference": "nuru kwa mataifa",
@@ -328,7 +516,8 @@
     "content": "<p>Maneno yaliyoelezea kazi ya mtumishi wa Mungu (Isaya 42:6 na Isaya 49:6). Mtumishi angehakikisha kuwa agano na wokovu wa Mungu vinawafikia makundi yote ya watu. Katika Agano Jipya, Simioni alielewa kwamba Yesu angefanya kazi hii (Luka 2:30–32). Paulo na Barnaba walielewa kwamba walipaswa kuwa nuru kwa Mataifa pia (Matendo ya Mitume 13:47). Walifanya hivi kwa kushiriki ujumbe kuhusu Yesu kwa Mataifa. Katika Matendo ya Mitume 26:23 Paulo alihubiri kuhusu namna Yesu alivyoleta ujumbe wa nuru ya Mungu. Huu ni ujumbe wa wokovu kutoka kwa nguvu za dhambi na kifo. Yesu alileta nuru hii kwa Wayahudi na Mataifa. Wafuasi wa Yesu wanapaswa kushiriki nuru na wokovu wa Yesu na ulimwengu mzima.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

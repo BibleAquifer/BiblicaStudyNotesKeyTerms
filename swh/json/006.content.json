@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 367902,
+    "content_id": "367902",
     "reference_id": 108411,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Edomu",
     "media_type": "Text",
     "index_reference": "edomu",
@@ -11,13 +11,29 @@
     "content": "<p>Nchi ya kusini na mashariki mwa Yuda ambapo ukoo wa Esau uliishi. Esau pia aliitwa Edomu. Watoto wake wakawa taifa lenye nguvu linaloitwa Edomu. Waedomu na Waisraeli hawakuishi kwa amani kati yao.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Edom",
+          "type": "place",
+          "preferred_label": "Edomu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Edom",
+          "type": "group",
+          "preferred_label": "Edomites",
+          "confidence": 0.8522,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367626,
+    "content_id": "367626",
     "reference_id": 108135,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efeso",
     "media_type": "Text",
     "index_reference": "efeso",
@@ -26,13 +42,29 @@
     "content": "<p>Mji mkuu wa eneo la Kirumi la Asia. Kuabudu mungu wa kike Artemi ilikuwa dini kuu huko Efeso. Paulo alitembelea mji huo katika safari zake za pili na za tatu. Alikaa huko akisaidia kanisa kwa miaka miwili.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Ephesus",
+          "type": "place",
+          "preferred_label": "Efeso",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Ephesus",
+          "type": "group",
+          "preferred_label": "Ephesians",
+          "confidence": 0.8407,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367789,
+    "content_id": "367789",
     "reference_id": 108298,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Efraimu",
     "media_type": "Text",
     "index_reference": "efraimu",
@@ -41,13 +73,50 @@
     "content": "<p>Mwana wa pili wa Yusufu na Asenathi. Katika lugha ya Kiebrania, Efraimu inamaanisha matunda maradufu. Yakobo alimchukua kama mmoja wa wanawe. Yakobo alimpa baraka ya baba ingawa hakuwa mzaliwa wa kwanza. Ukoo wa Efraimu ukawa kabila la Israeli. Walikuwa kabila muhimu katika ufalme wa kaskazini wa Israeli. Mji mkuu wa ufalme wa kaskazini ulikuwa katika ardhi ya Efraimu. Ufalme wa kaskazini wakati mwingine huitwa Efraimu katika Biblia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Ephraim",
+          "type": "group",
+          "preferred_label": "Efraimu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephraim",
+          "type": "person",
+          "preferred_label": "Efraimu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim",
+          "type": "place",
+          "preferred_label": "Efraimu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:EphraimGate",
+          "type": "place",
+          "preferred_label": "Efraimu",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim.2",
+          "type": "place",
+          "preferred_label": "Ephraim",
+          "confidence": 0.9299,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367923,
+    "content_id": "367923",
     "reference_id": 108432,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ehudi",
     "media_type": "Text",
     "index_reference": "ehudi",
@@ -56,13 +125,29 @@
     "content": "<p>Mmoja wa waamuzi 12 wa Israeli. Alitoka katika kabila la Benjamini na alitumia mkono wa kushoto. Alitumia uhalisia huu kama sehemu ya mpango wake wa kumuua mfalme wa Moabu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ehud",
+          "type": "person",
+          "preferred_label": "Ehudi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ehud.2",
+          "type": "person",
+          "preferred_label": "Ehudi",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367848,
+    "content_id": "367848",
     "reference_id": 108357,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eleazari",
     "media_type": "Text",
     "index_reference": "eleazari",
@@ -71,13 +156,148 @@
     "content": "<p>Mwana wa Aroni na Elisheba kutoka kabila la Lawi. Ndugu zake walikuwa Nadabu, Abihu na Ithamari. Alikuwa baba wa Finehasi na akawa kiongozi mkuu wa Walawi. Alikuwa kuhani mkuu baada ya Aroni kufa. Alimsaidia Musa kuwaongoza watu wa Israeli jangwani. Alimsaidia Yoshua kuwaongoza watu wa Israeli Kanaani.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eleazar",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.2",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.3",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.4",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.5",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.6",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.7",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eleazar.8",
+          "type": "person",
+          "preferred_label": "Eleazari",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.10",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.11",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.2",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.3",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.4",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.5",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.6",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.7",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.8",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliezer.9",
+          "type": "person",
+          "preferred_label": "Eliezeri",
+          "confidence": 0.8323,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367641,
+    "content_id": "367641",
     "reference_id": 108150,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eleza lugha zingine",
     "media_type": "Text",
     "index_reference": "eleza lugha zingine",
@@ -94,13 +314,14 @@
           "label": "Kuzungumza lugha nyingine",
           "language": "swh"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 367942,
+    "content_id": "367942",
     "reference_id": 108451,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Eli",
     "media_type": "Text",
     "index_reference": "eli",
@@ -109,13 +330,57 @@
     "content": "<p>Kuhani mkuu wakati Samweli alipokuwa mchanga wakati wa waamuzi 12. Alihudumu wakati hema takatifu lilipokuwa Shilo. Eli alikuwa baba wa Hofni na Finehasi. Hakuwazuia wanawe kufanya mambo maovu. Kwa sababu hii, ukoo wa Eli haukuendelea kuhudumu kama makuhani wakuu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Eli",
+          "type": "person",
+          "preferred_label": "Eli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heli",
+          "type": "person",
+          "preferred_label": "Eli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.2",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.3",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.4",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.8022,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367977,
+    "content_id": "367977",
     "reference_id": 108486,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elia",
     "media_type": "Text",
     "index_reference": "elia",
@@ -124,13 +389,64 @@
     "content": "<p>Nabii katika ufalme wa kaskazini wa Israeli wakati Ahabu na Ahazia walitawala. Alikuwa kutoka nchi ya Gileadi. Alijulikana kuvaa nguo zilizotengenezwa kwa nywele na mkanda wa ngozi. Maneno na matendo yake yalipinga mamlaka ya watawala wa Israeli waliokuwa wakiabudu miungu ya uongo. Aliwafundisha manabii wengine wengi. Alimpa Elisha mamlaka yake kuwa nabii baada yake. Elia alikuwa kama Musa kwa njia nyingi. Mungu alitenda miujiza kupitia kwake na alimtokea kwenye Mlima Horebu. Elia hakufa bali alichukuliwa mbinguni kwa upepo wa kisulisuli. Hakuna mtu aliyewahi kuupata mwili wake.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elijah",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.9449,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.2",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.9449,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.3",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.9449,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elijah.4",
+          "type": "person",
+          "preferred_label": "Eliya",
+          "confidence": 0.9449,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliada",
+          "type": "person",
+          "preferred_label": "Eliada",
+          "confidence": 0.82,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliada.2",
+          "type": "person",
+          "preferred_label": "Eliada",
+          "confidence": 0.82,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Eliada.3",
+          "type": "person",
+          "preferred_label": "Eliada",
+          "confidence": 0.82,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367978,
+    "content_id": "367978",
     "reference_id": 108487,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elisha",
     "media_type": "Text",
     "index_reference": "elisha",
@@ -139,13 +455,29 @@
     "content": "<p>Nabii katika ufalme wa kaskazini wa Israeli kutoka utawala wa Ahabu hadi utawala wa Yehoashi. Alikuwa mtumishi wa Elia. Maneno na matendo yake yalipinga mamlaka ya watawala wa Israeli waliomwabudu miungu ya uongo. Aliwafundisha manabii wengi wengine. Mungu alifanya miujiza mingi kupitia Elisha.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elisha",
+          "type": "person",
+          "preferred_label": "Elisha",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Elishah",
+          "type": "person",
+          "preferred_label": "Elisha",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367572,
+    "content_id": "367572",
     "reference_id": 108081,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Elizabeti",
     "media_type": "Text",
     "index_reference": "elizabeti",
@@ -154,13 +486,22 @@
     "content": "<p>Mama yake Yohana Mbatizaji. Alikuwa kutoka kabila la Lawi na kutoka ukoo wa Aroni. Zakaria alikuwa mume wake na Maria wa Nazareti alikuwa jamaa yake. Wakati Elizabeti alikuwa mzee sana, Mungu alimwezesha kupata mwana. Elizabeti alitambua kwamba Maria alikuwa mjamzito wa Masihi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Elizabeth",
+          "type": "person",
+          "preferred_label": "Elisabeti",
+          "confidence": 0.9048,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367650,
+    "content_id": "367650",
     "reference_id": 108159,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Epafra",
     "media_type": "Text",
     "index_reference": "epafra",
@@ -169,13 +510,22 @@
     "content": "<p>Muumini wa Kigiriki kutoka Kolosai ambaye alifanya kazi na Paulo. Alihubiri kuhusu Yesu huko Kolosai, Laodikia na Hierapoli. Alisaidia kuanzisha makanisa katika miji hiyo. Alikuwa gerezani na Paulo kwa muda.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphras",
+          "type": "person",
+          "preferred_label": "Epafra",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367649,
+    "content_id": "367649",
     "reference_id": 108158,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Epafrodito",
     "media_type": "Text",
     "index_reference": "epafrodito",
@@ -184,13 +534,22 @@
     "content": "<p>Muumini wa Kigiriki kutoka Filipi ambaye alifanya kazi na Paulo. Paulo alipokuwa gerezani, Epafrodito alimletea zawadi na pesa kutoka kwa waumini wa Filipi. Alibeba barua ya Paulo kwa Wafilipi aliporudi Filipi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Epaphroditus",
+          "type": "person",
+          "preferred_label": "Epafrodito",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 367760,
+    "content_id": "367760",
     "reference_id": 108269,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esau",
     "media_type": "Text",
     "index_reference": "esau",
@@ -199,13 +558,29 @@
     "content": "<p>Mwana mzaliwa wa kwanza wa Isaka na Rebeka na mjukuu wa Ibrahimu. Alikuwa pacha wa Yakobo na pia aliitwa Edomu. Waedomu walitokana na ukoo wa Esau.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Esau",
+          "type": "person",
+          "preferred_label": "Esau",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:EsauMount",
+          "type": "place",
+          "preferred_label": "Esau",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368009,
+    "content_id": "368009",
     "reference_id": 108518,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esta",
     "media_type": "Text",
     "index_reference": "esta",
@@ -214,13 +589,14 @@
     "content": "<p>Mwisraeli aliyeishi katika ufalme wa Uajemi wakati wa Artashasta. Hadasa lilikuwa jina lake la Kiyahudi na Esta lilikuwa jina lake la Kiajemi. Alikuwa binti wa Abihaili na alitoka katika kabila la Benjamini. Binamu yake Mordekai alimlea baada ya wazazi wake kufa. Artashasta alimchagua kuwa malkia kwa sababu alikuwa mrembo na alimfurahisha. Esta alifanya mpango wa ujasiri na busara kusaidia kuwaokoa Wayahudi wasiangamizwe.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 368046,
+    "content_id": "368046",
     "reference_id": 108555,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezekieli",
     "media_type": "Text",
     "index_reference": "ezekieli",
@@ -229,13 +605,29 @@
     "content": "<p>Ezekieli ni kuhani ambaye alikua nabii wakati Babeli ilipochukua udhibiti wa ufalme wa kusini. Alikuwa mwana wa Buzi, na alitoka katika kabila la Lawi. Alikuwa katika kundi la Wayahudi waliolazimishwa kuishi uhamishoni kule Babeli. Maono na unabii wake yameandikwa katika kitabu cha Ezekieli.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezekiel",
+          "type": "person",
+          "preferred_label": "Ezekieli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehezkel",
+          "type": "person",
+          "preferred_label": "Ezekieli",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 368004,
+    "content_id": "368004",
     "reference_id": 108513,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ezra",
     "media_type": "Text",
     "index_reference": "ezra",
@@ -244,7 +636,30 @@
     "content": "<p>Ezra ni kuhani aliyeongoza kundi la Wayahudi kurudi Yerusalemu kutoka Babeli. Alikuwa pia mwalimu wa sheria. Alikuwa mwana wa Seraia. Alitoka katika ukoo wa Aroni katika kabila la Lawi. Ezra aliwafundisha wayahudi huko Yerusalemu  Sheria ya Musa, . Hii ilikuwa baada ya kuishi Babeli kwa miaka mingi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ezra",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ezra.2",
+          "type": "person",
+          "preferred_label": "Ezra",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ezrah",
+          "type": "person",
+          "preferred_label": "Ezrahi",
+          "confidence": 0.8394,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232675,
+    "content_id": "232675",
     "reference_id": 108074,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "地獄",
     "media_type": "Text",
     "index_reference": "地獄",
@@ -11,13 +11,22 @@
     "content": "<p>對於那些拒絕成為神國成員的人來說，這是一個完全毀滅的地方。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Hell",
+          "type": "place",
+          "preferred_label": "Hell",
+          "confidence": 0.9329,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 233176,
+    "content_id": "233176",
     "reference_id": 108575,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "地中海",
     "media_type": "Text",
     "index_reference": "地中海",
@@ -26,13 +35,22 @@
     "content": "<p>連接非洲、亞洲和歐洲的廣大水域。這是神應許賜給以色列人的土地的西部邊界。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:GreatSea",
+          "type": "place",
+          "preferred_label": "Mediterranean Sea",
+          "confidence": 0.8838,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 233034,
+    "content_id": "233034",
     "reference_id": 108433,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "底波拉",
     "media_type": "Text",
     "index_reference": "底波拉",
@@ -41,13 +59,14 @@
     "content": "<p>以色列的十二位士師之一。她是以法蓮山地的一位先知。她透過解決困難的問題來服事以色列人。她任命巴拉為攻擊西西拉軍隊的領袖。她所創作關於他們勝利之歌記錄在士師記第5章。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232884,
+    "content_id": "232884",
     "reference_id": 108283,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "底拿",
     "media_type": "Text",
     "index_reference": "底拿",
@@ -56,13 +75,14 @@
     "content": "<p>雅各和利亞的女兒。她的兄弟利未和西緬殺了強姦她的示劍。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 232776,
+    "content_id": "232776",
     "reference_id": 108175,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "第二次死",
     "media_type": "Text",
     "index_reference": "第二次死",
@@ -71,7 +91,8 @@
     "content": "<p>這是一種神對那些拒絕跟隨祂的人進行最終審判的描述。他們被毀滅，永遠與神分離。約翰將第二次死亡發生的地方描述為火湖，也被稱為燃燒硫磺的湖。那些被扔進去的人將無法在神地上的國度中有任何份。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 232949,
+    "content_id": "232949",
     "reference_id": 108348,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "榮耀",
     "media_type": "Text",
     "index_reference": "榮耀",
@@ -11,7 +11,16 @@
     "content": "<p>神奇妙的榮美、威嚴、良善和同在。這是一種談論神是誰以及祂是多麼純潔和聖潔的表達方式。只有造物主擁有這種榮耀。祂選擇與祂所創造的那些人分享這榮耀。受造之物在執行祂對創造的計劃時顯示出神的榮耀。</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Glory",
+          "type": "keyterm",
+          "preferred_label": "Glory",
+          "confidence": 0.8911,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

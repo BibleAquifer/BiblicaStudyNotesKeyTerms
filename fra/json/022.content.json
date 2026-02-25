@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133721,
+    "content_id": "133721",
     "reference_id": 108469,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Urie",
     "media_type": "Text",
     "index_reference": "urie",
@@ -11,7 +11,86 @@
     "content": "<p>Le mari de Bethsabée et l&apos;un des 30 chefs principaux de David. Même s&apos;il était hittite, c&apos;est-à-dire étranger, il était considéré comme faisant partie d&apos;Israël. David l&apos;a fait assassiner lors de la bataille contre les Ammonites à Rabba.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Uriah",
+          "type": "person",
+          "preferred_label": "Urie",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.2",
+          "type": "person",
+          "preferred_label": "Urie",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.3",
+          "type": "person",
+          "preferred_label": "Urie",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.4",
+          "type": "person",
+          "preferred_label": "Urie",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriah.5",
+          "type": "person",
+          "preferred_label": "Urie",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uri",
+          "type": "person",
+          "preferred_label": "Uri",
+          "confidence": 0.8901,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uri.2",
+          "type": "person",
+          "preferred_label": "Uri",
+          "confidence": 0.8901,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uri.3",
+          "type": "person",
+          "preferred_label": "Uri",
+          "confidence": 0.8901,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriel",
+          "type": "person",
+          "preferred_label": "Uriel",
+          "confidence": 0.8403,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriel.2",
+          "type": "person",
+          "preferred_label": "Uriel",
+          "confidence": 0.8403,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Uriel.3",
+          "type": "person",
+          "preferred_label": "Uriel",
+          "confidence": 0.8403,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

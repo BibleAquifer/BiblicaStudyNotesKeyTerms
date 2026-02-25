@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133298,
+    "content_id": "133298",
     "reference_id": 108046,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rabbi",
     "media_type": "Text",
     "index_reference": "rabbi",
@@ -11,13 +11,14 @@
     "content": "<p>Le titre Rabbi désignait les hommes qui étaient rabbins, des enseignants juifs. Les rabbins étudiaient généralement l&apos;Ancien Testament et d&apos;autres écrits juifs dans les écoles. Normalement, ils étaient formés par d&apos;autres rabbins. Les personnes qui voulaient apprendre d&apos;eux et leur ressembler devenaient leurs disciples. En général, seuls les garçons et les hommes étaient des disciples ou des étudiants. Jésus était un rabbin, même s&apos;il n&apos;avait pas reçu la même formation que les rabbins de son époque. Parmi ses étudiants, il accueillait à la fois les femmes et les hommes.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133528,
+    "content_id": "133528",
     "reference_id": 108276,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rachel",
     "media_type": "Text",
     "index_reference": "rachel",
@@ -26,13 +27,22 @@
     "content": "<p>Rachel était la deuxième fille de Laban et la deuxième femme de Jacob. Léa était sa sœur et Bila sa servante. Rachel était bergère. Jacob l&apos;aimait plus qu&apos;il n&apos;aimait Léa. Elle a donné naissance à Joseph et Benjamin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rachel",
+          "type": "person",
+          "preferred_label": "Rachel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133633,
+    "content_id": "133633",
     "reference_id": 108381,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Racheter",
     "media_type": "Text",
     "index_reference": "racheter",
@@ -41,13 +51,14 @@
     "content": "<p>Récupérer quelque chose ou quelqu&apos;un ayant été donné ou vendu en payant le prix de la chose ou de la personne. On peut aussi parler de rédemption. Celui qui rachète la chose ou la personne est appelé le rédempteur. Dieu a racheté les Israélites lorsqu&apos;ils étaient esclaves en Égypte : il était leur rédempteur. Lorsque Jésus est mort sur la croix, il a payé le prix pour racheter tous les pécheurs. Il assure la rédemption de tous ceux qui placent leur confiance en lui. Il les délivre du pouvoir du péché, de la mort et du mal.</p><p></p><p></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133673,
+    "content_id": "133673",
     "reference_id": 108421,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rahab",
     "media_type": "Text",
     "index_reference": "rahab",
@@ -56,13 +67,29 @@
     "content": "<p>Une femme de la ville de Jéricho en Canaan. Elle travaillait comme prostituée. Elle a caché et protégé les espions envoyés par Josué. Lorsque les Israélites ont détruit Jéricho, ils ont épargné Rahab et sa famille. Elle est devenue membre du peuple de Dieu. David et Jésus sont issus de sa lignée.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rahab",
+          "type": "person",
+          "preferred_label": "Rahab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rabbah.2",
+          "type": "place",
+          "preferred_label": "Rabbah",
+          "confidence": 0.8205,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133518,
+    "content_id": "133518",
     "reference_id": 108266,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rébecca",
     "media_type": "Text",
     "index_reference": "rébecca",
@@ -71,13 +98,22 @@
     "content": "<p>Rébecca était la fille de Betouel et la sœur de Laban de Mésopotamie. Elle a épousé Isaac et a donné naissance à Jacob et Ésaü.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rebekah",
+          "type": "person",
+          "preferred_label": "Rebecca",
+          "confidence": 0.8435,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133464,
+    "content_id": "133464",
     "reference_id": 108212,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Repos",
     "media_type": "Text",
     "index_reference": "repos",
@@ -86,13 +122,14 @@
     "content": "<p>Dans la Bible, le mot repos a plusieurs significations. La première signification est mentionnée dans le chapitre 2 de la Genèse. Après avoir terminé son travail de création du monde, Dieu s&apos;est reposé. La paix régnait entre lui et ce qu&apos;il avait créé. L&apos;univers entier avait tout le nécessaire pour vivre en conformité avec la volonté de Dieu. Une autre signification est mentionnée dans les Dix Commandements. C&apos;est le repos du Sabbat. Le septième jour de la semaine, les Israélites devaient se reposer au lieu de travailler. Une troisième signification se trouve dans le Psaume 95, où il est question du repos que les Israélites ont connus après avoir été libérés de l&apos;esclavage. Dieu les a conduits dans le pays qu&apos;il leur avait promis de leur donner. Enfin, les chapitres 3 et 4 de l&apos;épître aux Hébreux décrivent la pleine signification du repos selon la Bible. Jésus apporte le vrai repos à ceux qui croient en lui. Ils commencent à jouir du repos de Jésus lorsqu&apos;ils se mettent à le suivre. Ils en profiteront pleinement lorsqu&apos;il régnera complètement en tant que roi.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133730,
+    "content_id": "133730",
     "reference_id": 108478,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roboam",
     "media_type": "Text",
     "index_reference": "roboam",
@@ -101,13 +138,22 @@
     "content": "<p>Le fils de Salomon et d&apos;une femme ammonite nommée Naama. Pendant le règne de Roboam, la nation d&apos;Israël s&apos;est divisée en deux royaumes. Roboam régnait sur le royaume du sud, le royaume de Juda. C&apos;était un dirigeant mal-avisé et sans intelligence. Ses actes étaient malfaisants et il adorait de faux dieux. Il n&apos;avait ni la richesse ni la puissance de Salomon.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Rehoboam",
+          "type": "person",
+          "preferred_label": "Roboam",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133582,
+    "content_id": "133582",
     "reference_id": 108330,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Roi",
     "media_type": "Text",
     "index_reference": "roi",
@@ -116,13 +162,14 @@
     "content": "<p>Le souverain ayant la plus haute autorité parmi certains peuples. Dieu devait être le Roi des Israélites. Les rois humains en Israël étaient censés guider le peuple de la même manière que Dieu les guidait. C&apos;était très différent de la manière dont les rois des autres peuples dirigeaient. Les rois israélites devaient étudier les lois de Dieu et y obéir. Ils devaient aider le peuple à rester fidèle à l&apos;alliance de Dieu. Les rois israélites devaient protéger les personnes faibles et dans le besoin. Ils ne devaient pas avoir beaucoup de femmes ni devenir très riches. Ils devaient être humbles. Ils ne devaient pas traiter leur peuple comme des esclaves. Ils ne devaient pas se fier aux armes et aux chevaux pour remporter des batailles. Les rois israélites devaient faire confiance à Dieu et ne servir que lui.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133299,
+    "content_id": "133299",
     "reference_id": 108047,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Rome",
     "media_type": "Text",
     "index_reference": "rome",
@@ -131,13 +178,22 @@
     "content": "<p>Un royaume dans la région autour de la mer Méditerranée qui a existé pendant des centaines d&apos;années. La capitale était également appelée Rome. C&apos;est devenu un gouvernement puissant qui a régné sur de nombreuses autres nations et groupes de personnes. Il a régné sur Israël à l&apos;époque du Nouveau Testament. Durant de nombreuses années, il a été dirigé par de puissants empereurs. Le gouvernement romain a maltraité de nombreux disciples de Jésus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Rome",
+          "type": "place",
+          "preferred_label": "Rome",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133813,
+    "content_id": "133813",
     "reference_id": 108561,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Royaume de Dieu",
     "media_type": "Text",
     "index_reference": "royaume de dieu",
@@ -154,13 +210,14 @@
           "label": "Ciel",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133589,
+    "content_id": "133589",
     "reference_id": 108337,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Royaume de prêtres",
     "media_type": "Text",
     "index_reference": "royaume de prêtres",
@@ -169,13 +226,14 @@
     "content": "<p>Dieu voulait que les Israélites soient un royaume de prêtres et une nation sainte. Ils deviendraient cela s&apos;ils étaient fidèles à l&apos;alliance du mont Sinaï. Comme d&apos;autres peuples, ils deviendraient un royaume et une nation. Mais Dieu ne voulait pas qu&apos;ils vivent comme les autres peuples. Il voulait qu&apos;ils soient un type différent de royaume et de nation. Chaque israélite devait connaître intimement Dieu et le servir. De cette manière, ils ressembleraient à des prêtres. Tous ensemble, ils obéiraient à Dieu et traiteraient les autres comme Dieu le leur avait enseigné. Cela montrerait à quel point ils étaient différents des autres nations. De cette manière, ils seraient mis à part ou saints comme Dieu était saint.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133731,
+    "content_id": "133731",
     "reference_id": 108479,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Royaume du Nord",
     "media_type": "Text",
     "index_reference": "royaume du nord",
@@ -184,13 +242,14 @@
     "content": "<p>Le royaume du Nord était composé des pays et des tribus d&apos;Israël gouvernés par des rois qui n&apos;étaient pas de la lignée de David. Dans la Bible, le royaume du Nord a aussi été appelé Israël ou Ephraïm. Les villes importantes du royaume du Nord étaient Dan, Béthel et Samarie. La ville de Samarie en est devenue la capitale. Le royaume du Nord a été fondé lorsque Jéroboam a conduit de nombreux Israélites à se révolter contre Roboam. Il a été vaincu en 722 av J.-C., puis est disparu lorsque l&apos;Assyrie a pris le contrôle de Samarie. Les habitants du royaume du Nord ne sont jamais revenus de leur exil. Parmi les prophètes du royaume du Nord, citons Achija, Jéhu, Michée, Élie, Élisée, Amos, Jonas, Osée et Michée. Ses rois étaient Jéroboam, Nabad, Baasha, Elah, Zimri, Omri, Achab, Achazia, Joram, Jéhu, Jehoahaz, Jehoash, Jéroboam le second, Zacharie, Shallum, Menahem, Pekahiah, Pekah et Hoshea. Aucun de ces rois n&apos;a été fidèle à l&apos;alliance avec Dieu établi au mont Sinaï.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133659,
+    "content_id": "133659",
     "reference_id": 108407,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruben",
     "media_type": "Text",
     "index_reference": "ruben",
@@ -199,13 +258,29 @@
     "content": "<p>Le fils aîné de Jacob et Léa. En hébreu, le nom de Ruben signifie &quot;regarde, un fils&quot;. Cela ressemble au terme pour &quot;il a vu ma souffrance&quot;. Ruben a eu des relations sexuelles avec la concubine de son père, Bila. De ce fait, il a perdu les droits liés à son statut de fils aîné de Jacob. Sa lignée est devenue une tribu d&apos;Israël.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Reuben",
+          "type": "group",
+          "preferred_label": "Ruben",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Reuben",
+          "type": "person",
+          "preferred_label": "Ruben",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133699,
+    "content_id": "133699",
     "reference_id": 108447,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ruth",
     "media_type": "Text",
     "index_reference": "ruth",
@@ -214,7 +289,16 @@
     "content": "<p>Une femme originaire de Moab et la belle-fille de Naomi. À la suite du décès de son mari, elle a quitté Moab et est allée en Israël avec Naomi. Elle a épousé un Israélite nommé Boaz et est devenue l&apos;arrière-arrière-grand-mère de David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Ruth",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

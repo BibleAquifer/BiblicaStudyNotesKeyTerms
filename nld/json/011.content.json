@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 778768,
+    "content_id": "778768",
     "reference_id": 108268,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jacob",
     "media_type": "Text",
     "index_reference": "jacob",
@@ -19,13 +19,29 @@
           "label": "12 stammen",
           "language": "nld"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "Jacob",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaakobah",
+          "type": "person",
+          "preferred_label": "Jaakobah",
+          "confidence": 0.8641,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 778770,
+    "content_id": "778770",
     "reference_id": 108436,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jael",
     "media_type": "Text",
     "index_reference": "jael",
@@ -34,13 +50,92 @@
     "content": "<p>Een vrouw uit de Kenitische bevolkingsgroep die onder de Israëlieten woonde, was Jaël. Haar echtgenoot was Heber, en zij kwam uit de familie van Mozes&apos; zwager Hobab. Ze doodde een Kanaänitische militaire leider genaamd Sisera. Jaël speelde een belangrijke rol in het lied dat Deborah zong over de overwinning van de Israëlieten in Richteren hoofdstuk 5.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jael",
+          "type": "person",
+          "preferred_label": "Jael",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.2",
+          "type": "person",
+          "preferred_label": "Jeiel",
+          "confidence": 0.8303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.3",
+          "type": "person",
+          "preferred_label": "Jeiel",
+          "confidence": 0.8303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.4",
+          "type": "person",
+          "preferred_label": "Jeiel",
+          "confidence": 0.8303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.5",
+          "type": "person",
+          "preferred_label": "Jeiel",
+          "confidence": 0.8303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.6",
+          "type": "person",
+          "preferred_label": "Jeiel",
+          "confidence": 0.8303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.7",
+          "type": "person",
+          "preferred_label": "Jeiel",
+          "confidence": 0.8303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeiel.8",
+          "type": "person",
+          "preferred_label": "Jeiel",
+          "confidence": 0.8303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jahleel",
+          "type": "person",
+          "preferred_label": "Jahleel",
+          "confidence": 0.8134,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaasiel",
+          "type": "person",
+          "preferred_label": "Jaasiel",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaasiel.2",
+          "type": "person",
+          "preferred_label": "Jaasiel",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778773,
+    "content_id": "778773",
     "reference_id": 108240,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jafet",
     "media_type": "Text",
     "index_reference": "jafet",
@@ -49,13 +144,14 @@
     "content": "<p>De oudste zoon van Noach. Hij en zijn vrouw werden gered van de zondvloed omdat ze in de ark waren. Hij behandelde zijn vader met respect toen Noach dronken werd na de zondvloed. Noach sprak een zegen uit over het nageslacht van Jafet.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778769,
+    "content_id": "778769",
     "reference_id": 108279,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jakob worstelde",
     "media_type": "Text",
     "index_reference": "jakob worstelde",
@@ -64,13 +160,14 @@
     "content": "<p>Jakob worstelde met de man die hem zegende op zijn reis naar Kanaän. Dit gebeurde vlak voordat Jakob Ezau ontmoette. Een profetie in Hosea 12:4 verklaarde dat de man als een engel werd gezien. Hij gaf Jakob de naam Israël. Jakob realiseerde zich dat hij met God had geworsteld.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778771,
+    "content_id": "778771",
     "reference_id": 108119,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jakobus",
     "media_type": "Text",
     "index_reference": "jakobus",
@@ -79,13 +176,29 @@
     "content": "<p>Een van de broers van Jezus. Aanvankelijk geloofde hij niet dat Jezus de Messias was. Nadat Jezus uit de dood was opgestaan, verscheen hij aan Jakobus. Jakobus kreeg vertrouwen in Jezus en werd een leider in de kerk in Jeruzalem. Het Nieuwe Testament bevat een brief die hij heeft geschreven. Dit is een andere Jakobus dan Jakobus de apostel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jacob.2",
+          "type": "person",
+          "preferred_label": "Jacob",
+          "confidence": 0.9138,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaakobah",
+          "type": "person",
+          "preferred_label": "Jaakobah",
+          "confidence": 0.8385,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778772,
+    "content_id": "778772",
     "reference_id": 108042,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jakobus de apostel",
     "media_type": "Text",
     "index_reference": "jakobus de apostel",
@@ -94,13 +207,14 @@
     "content": "<p>Jakobus was een van de 12 discipelen van Jezus en behoorde tot zijn drie naaste volgelingen. Zijn broer was Johannes en hun vader heette Zebedeüs. Jezus noemde Jakobus en Johannes de zonen van de donder. Jakobus was de eerste apostel die werd geëxecuteerd vanwege zijn trouw aan Jezus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778774,
+    "content_id": "778774",
     "reference_id": 108345,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jaloers",
     "media_type": "Text",
     "index_reference": "jaloers",
@@ -109,13 +223,14 @@
     "content": "<p>Een manier waarop God zichzelf beschrijft, is dat Hij niet jaloers is op de zondige manier waarop mensen jaloers kunnen zijn. Mensen kunnen jaloers zijn op anderen die iets hebben wat zij nodig hebben of willen. God is jaloers wanneer mensen valse goden aanbidden, omdat Hij de enige ware God is. Hij is de enige die het waard is om aanbeden te worden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778775,
+    "content_id": "778775",
     "reference_id": 108504,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jebusieten",
     "media_type": "Text",
     "index_reference": "jebusieten",
@@ -124,13 +239,22 @@
     "content": "<p>Een volk dat in Kanaän leefde, afkomstig uit de familielijn van Kanaän, de zoon van Cham. God droeg de Israëlieten op om hen uit het land te verdrijven als onderdeel van zijn oordeel over hen. Ze woonden in de stad Jeruzalem voordat David de controle over de stad overnam.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Jebusites",
+          "type": "group",
+          "preferred_label": "Jebusites",
+          "confidence": 0.8271,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778778,
+    "content_id": "778778",
     "reference_id": 108438,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jefta",
     "media_type": "Text",
     "index_reference": "jefta",
@@ -139,13 +263,22 @@
     "content": "<p>Een van de twaalf rechters van Israël in Gilead. Men vermoedt dat hij uit de stam van Manasse kwam. Hij was de zoon van een man genaamd Gilead en een prostituee. Na het behalen van een belangrijke overwinning offerde hij zijn dochter.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jephthah",
+          "type": "person",
+          "preferred_label": "Jephthah",
+          "confidence": 0.81,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778779,
+    "content_id": "778779",
     "reference_id": 108507,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jeremia",
     "media_type": "Text",
     "index_reference": "jeremia",
@@ -154,13 +287,78 @@
     "content": "<p>Een profeet in het zuidelijke koninkrijk Juda, zoon van Hilkia en priester in de stad Anatot. Hij profeteerde vanaf de tijd van Josia tot na de verwoesting van Jeruzalem door de Babylonische legers. Zijn profetieën zijn vastgelegd in het boek Jeremia.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeremiah",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 0.9651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.2",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 0.9651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.3",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 0.9651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.4",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 0.9651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.5",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 0.9651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.6",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 0.9651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.7",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 0.9651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremiah.8",
+          "type": "person",
+          "preferred_label": "Jeremiah",
+          "confidence": 0.9651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremai",
+          "type": "person",
+          "preferred_label": "Jeremai",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778780,
+    "content_id": "778780",
     "reference_id": 108424,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jericho",
     "media_type": "Text",
     "index_reference": "jericho",
@@ -169,13 +367,29 @@
     "content": "<p>Een stad ten westen van de rivier de Jordaan en ten oosten van Jeruzalem, ook wel bekend als de Stad van de Palmbomen. De stad had vruchtbare grond en veel water. God vernietigde de stad toen de Israëlieten eromheen marcheerden. Vele jaren later werd het een belangrijke stad in Israël. Zacheüs kwam uit Jericho.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jericho",
+          "type": "place",
+          "preferred_label": "Jericho",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jericho.2",
+          "type": "place",
+          "preferred_label": "Jericho",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778781,
+    "content_id": "778781",
     "reference_id": 108476,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jerobeam",
     "media_type": "Text",
     "index_reference": "jerobeam",
@@ -184,13 +398,78 @@
     "content": "<p>De zoon van Nebat en Zerua was een ambtenaar in de regering van Salomo. Hij kwam uit de stam van Efraïm en werd de eerste koning van het noordelijke koninkrijk Israël. God beloofde zijn heerschappij veilig te stellen als Jerobeam Hem trouw zou dienen. Echter, Jerobeam weerhield de Israëlieten ervan God te aanbidden op de manier die God hen had opgedragen. Hij stelde mensen aan die geen Levieten waren om als priesters te dienen en leidde het volk om gouden beelden van kalveren te aanbidden. Deze handelingen werden bekend als de zonden van Jerobeam. Vanwege deze zonden werd de familielijn van Jerobeam vernietigd.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jeroboam",
+          "type": "person",
+          "preferred_label": "Jeroboam",
+          "confidence": 0.9718,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroboam.2",
+          "type": "person",
+          "preferred_label": "Jeroboam",
+          "confidence": 0.9718,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham",
+          "type": "person",
+          "preferred_label": "Jeroham",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.2",
+          "type": "person",
+          "preferred_label": "Jeroham",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.3",
+          "type": "person",
+          "preferred_label": "Jeroham",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.4",
+          "type": "person",
+          "preferred_label": "Jeroham",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.5",
+          "type": "person",
+          "preferred_label": "Jeroham",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.6",
+          "type": "person",
+          "preferred_label": "Jeroham",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeroham.7",
+          "type": "person",
+          "preferred_label": "Jeroham",
+          "confidence": 0.8101,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778782,
+    "content_id": "778782",
     "reference_id": 108464,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jeruzalem",
     "media_type": "Text",
     "index_reference": "jeruzalem",
@@ -199,13 +478,22 @@
     "content": "<p>Jeruzalem was de hoofdstad van de Israëlieten tijdens de heerschappij van David en Salomo. Later werd het de hoofdstad van het land Juda en Judea. Oorspronkelijk was het een Jebusitische stad in het gebied van de stam van Benjamin. David veroverde de stad en maakte het tot het centrum van Israëls regering en religieuze praktijken. De tempel werd gebouwd op een heuveltop in Jeruzalem, bekend als de berg Moria of de berg Sion. Sion werd een benaming voor heel Jeruzalem. De stad werd ook wel de Stad van David genoemd. In 586 v.Chr. werd Jeruzalem door de Babyloniërs verwoest. Later herbouwden de Joden de stad, en Jeruzalem bleef het centrum voor de Joodse regering en de aanbidding van God. Tegenwoordig is het de hoofdstad van de natie Israël. Jeruzalem ligt tussen de Middellandse Zee en de rivier de Jordaan.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 0.9558,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778765,
+    "content_id": "778765",
     "reference_id": 108497,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jesaja",
     "media_type": "Text",
     "index_reference": "jesaja",
@@ -214,13 +502,22 @@
     "content": "<p>Een profeet in het zuidelijke koninkrijk Juda tijdens de regeerperiode van Hizkia en andere koningen. In het Hebreeuws betekent zijn naam &quot;De Heer zal redden&quot; of &quot;De Heer is redding&quot;. Verhalen over hem zijn te vinden in 2 Koningen en 2 Kronieken. Zijn profetieën zijn vastgelegd in het boek Jesaja.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Isaiah",
+          "type": "person",
+          "preferred_label": "Isaiah",
+          "confidence": 0.9467,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778785,
+    "content_id": "778785",
     "reference_id": 108326,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jethro",
     "media_type": "Text",
     "index_reference": "jethro",
@@ -229,13 +526,22 @@
     "content": "<p>Mozes&apos; schoonvader en een priester in Midian, ook bekend als Reüel, behoorde tot de Kenitische bevolkingsgroep. Hij verwelkomde Mozes toen deze uit Egypte vluchtte. Zijn dochter Zippora werd Mozes&apos; vrouw. Hij reisde met de Israëlieten mee van de berg Sinaï naar Kanaän.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jethro",
+          "type": "person",
+          "preferred_label": "Jethro",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778788,
+    "content_id": "778788",
     "reference_id": 108485,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jezebel",
     "media_type": "Text",
     "index_reference": "jezebel",
@@ -244,13 +550,36 @@
     "content": "<p>De dochter van de koning van Sidon trouwde met Achab en regeerde als koningin van het noordelijke koninkrijk Israël. Ze was geen Israëliet en beging veel slechte daden. Ze doodde veel profeten van God, maar steunde veel profeten van Baäl (1 Koningen 16:29–21:29). Izebel was ook de naam die werd gegeven aan een valse profeet in de kerk in Thyatira (Openbaring 2:20). Deze persoon leidde veel gelovigen tot zonde en beweerde speciale kennis over de duivel te hebben. Er kan een vrouw genaamd Izebel zijn geweest die deze dingen deed, of Jezus kan de naam hebben gebruikt om aan te geven hoe deze persoon leek op koningin Izebel. Deze valse profeet leidde mensen om valse goden te aanbidden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jezebel",
+          "type": "person",
+          "preferred_label": "Jezebel",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jekabzeel",
+          "type": "place",
+          "preferred_label": "Jekabzeel",
+          "confidence": 0.8203,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehezkel",
+          "type": "person",
+          "preferred_label": "Jehezkel",
+          "confidence": 0.8019,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778783,
+    "content_id": "778783",
     "reference_id": 108219,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jezus",
     "media_type": "Text",
     "index_reference": "jezus",
@@ -259,13 +588,22 @@
     "content": "<p>De Zoon van God werd mens. Hij is de Redder van de wereld. Jezus is God, net zoals de Vader God is en de Heilige Geest God is. Zij vormen de drie personen van de ene ware God. In het Hebreeuws betekent Jezus &quot;de Heer redt&quot;. Jezus leefde op aarde van ongeveer 4 v.Chr. tot ongeveer 30 n.Chr. Hij woonde in het land Israël, terwijl de Romeinen de macht hadden. Tijdens zijn leven op aarde was Maria de moeder van Jezus. Zij werd zwanger van Jezus zonder seksuele gemeenschap te hebben gehad. De Heilige Geest maakte dit mogelijk. Jozef was de menselijke vader die Jezus opvoedde in zijn jeugd. Jezus stamde af van de familielijnen van Abraham, Juda en David. Hij groeide op in Nazareth met broers en zussen. Hij werd ter dood gebracht aan een kruis, maar God wekte Hem op uit de dood. Hij overwon zonde, dood en alle kwade geestelijke wezens. Hij is de Messias en Koning die God had beloofd te zenden. Nu regeert Jezus als Koning in de hemel en zal Hij terugkeren naar de aarde om te regeren over alles wat God heeft geschapen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 0.97,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778784,
+    "content_id": "778784",
     "reference_id": 108065,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jezus' wederkomst",
     "media_type": "Text",
     "index_reference": "jezus' wederkomst",
@@ -274,13 +612,14 @@
     "content": "<p>Wanneer Jezus terugkeert naar de aarde om volledig als Koning te regeren, zullen alle mensen erkennen dat Hij Heer en Koning is. Nadat Hij uit de dood was opgestaan, begon Hij te regeren met de Vader in de hemel. Bij zijn terugkeer zal Jezus alle kwaad op aarde stoppen en hemel en aarde verenigen als één in Gods koninkrijk.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778789,
+    "content_id": "778789",
     "reference_id": 108463,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joab",
     "media_type": "Text",
     "index_reference": "joab",
@@ -289,13 +628,85 @@
     "content": "<p>Een neef van David, die een machtige strijder was, werd de bevelhebber van Israëls legers onder David. Hij was jarenlang trouw aan David, maar keerde zich tegen hem door Abner en Amasa te vermoorden. Ook ging hij tegen David in door Absalom te doden. Hij steunde Salomo niet als koning na David. Vanwege deze daden gaf David Salomo de opdracht om Joab te laten doden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joab",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joab.2",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joab.3",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joab.4",
+          "type": "person",
+          "preferred_label": "Joab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.9051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.2",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.9051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.3",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.9051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.4",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.9051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.5",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.9051,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Zobah",
+          "type": "place",
+          "preferred_label": "Zobah",
+          "confidence": 0.8387,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778790,
+    "content_id": "778790",
     "reference_id": 108491,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joas",
     "media_type": "Text",
     "index_reference": "joas",
@@ -304,13 +715,127 @@
     "content": "<p>Joas was de zoon van Ahazia en Zibia en kwam uit de stam van Juda. Hij was de vader van Amazia en de zevende koning van het zuidelijke koninkrijk. Zijn grootmoeder Athalia probeerde hem te vermoorden, maar zijn tante Joseba redde hem. Joas groeide op in de tempel onder de hoede van Jojada. Hij werd koning op zevenjarige leeftijd en zorgde ervoor dat de tempel werd gerepareerd. Hij volgde God trouw en leidde het volk om alleen God te aanbidden, zolang Jojada leefde. Na de dood van Jojada begon Joas echter slechte dingen te doen en valse goden te aanbidden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joah",
+          "type": "person",
+          "preferred_label": "Joah",
+          "confidence": 0.8479,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah.2",
+          "type": "person",
+          "preferred_label": "Joah",
+          "confidence": 0.8479,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah.3",
+          "type": "person",
+          "preferred_label": "Joah",
+          "confidence": 0.8479,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah.4",
+          "type": "person",
+          "preferred_label": "Joah",
+          "confidence": 0.8479,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah.5",
+          "type": "person",
+          "preferred_label": "Joah",
+          "confidence": 0.8479,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joah.6",
+          "type": "person",
+          "preferred_label": "Joah",
+          "confidence": 0.8479,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joha",
+          "type": "person",
+          "preferred_label": "Joha",
+          "confidence": 0.8072,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joha.2",
+          "type": "person",
+          "preferred_label": "Joha",
+          "confidence": 0.8072,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.2",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.3",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.4",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.5",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.6",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.7",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joash.8",
+          "type": "person",
+          "preferred_label": "Joash",
+          "confidence": 0.8017,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778793,
+    "content_id": "778793",
     "reference_id": 108580,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Johannes de Doper",
     "media_type": "Text",
     "index_reference": "johannes de doper",
@@ -327,13 +852,14 @@
           "label": "Elia",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 778792,
+    "content_id": "778792",
     "reference_id": 108542,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "John",
     "media_type": "Text",
     "index_reference": "john",
@@ -342,13 +868,43 @@
     "content": "<p>De schrijver van het Evangelie van Johannes is ook verantwoordelijk voor de brieven 1, 2 en 3 Johannes. Men vermoedt dat hij eveneens het boek Openbaring heeft geschreven. Johannes was een van de twaalf discipelen van Jezus en behoorde tot zijn drie naaste volgelingen. In het Evangelie van Johannes wordt hij aangeduid als de discipel die Jezus liefhad. Zijn broer was Jakobus en hun vader was Zebedeüs. Jezus noemde Jakobus en Johannes de zonen van de donder.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.3",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778776,
+    "content_id": "778776",
     "reference_id": 108492,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jojada",
     "media_type": "Text",
     "index_reference": "jojada",
@@ -357,13 +913,29 @@
     "content": "<p>Jojada was een belangrijke priester tijdens de regering van koningin Athalia en later onder koning Joas. Zijn vrouw was Joseba. Jojada was de vader van Zacharia en de oom van Joas. Hij onderwees Joas om trouw te blijven aan het verbond van de berg Sinaï. Jojada leidde de inwoners van Jeruzalem om Athalia niet langer te volgen en om haar te laten doden. Vervolgens hielp hij hen om Joas tot koning te maken en het verbond met God te volgen. Toen Jojada stierf, eerden de mensen hem door hem te begraven bij de koningen van Juda. Later liet Joas Jojada&apos;s zoon Zacharia ter dood brengen.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joiada",
+          "type": "person",
+          "preferred_label": "Joiada",
+          "confidence": 0.8623,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joiada.2",
+          "type": "person",
+          "preferred_label": "Joiada",
+          "confidence": 0.8623,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778794,
+    "content_id": "778794",
     "reference_id": 108573,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jona",
     "media_type": "Text",
     "index_reference": "jona",
@@ -372,13 +944,57 @@
     "content": "<p>Een profeet uit het noordelijke koninkrijk Israël, zoon van Amittai, profeteerde over de grenzen van dit koninkrijk. Deze profetie werd vervuld tijdens de regering van koning Jerobeam II. Het verhaal van Jona is opgetekend in het boek Jona.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jonah.2",
+          "type": "person",
+          "preferred_label": "Jonah",
+          "confidence": 0.9398,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.8476,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.2",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.8476,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.3",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.8476,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:John.4",
+          "type": "person",
+          "preferred_label": "John",
+          "confidence": 0.8476,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joanna",
+          "type": "person",
+          "preferred_label": "Joanna",
+          "confidence": 0.8144,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778795,
+    "content_id": "778795",
     "reference_id": 108457,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jonathan",
     "media_type": "Text",
     "index_reference": "jonathan",
@@ -387,13 +1003,113 @@
     "content": "<p>Jonathan was een zoon van Saul en Ahinoam en kwam uit de stam van Benjamin. Hij steunde Gods plan om David koning te maken in plaats van zichzelf. Jonathan sloot een vriendschapsverbond met David. Vanwege hun vriendschap behandelde David Jonathans zoon Mefiboset goed.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jonathan.10",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.11",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.12",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.13",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.2",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.3",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.4",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.5",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.6",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.7",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.8",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jonathan.9",
+          "type": "person",
+          "preferred_label": "Jonathan",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehonathan",
+          "type": "person",
+          "preferred_label": "Jehonathan",
+          "confidence": 0.8646,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehonathan.2",
+          "type": "person",
+          "preferred_label": "Jehonathan",
+          "confidence": 0.8646,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778786,
+    "content_id": "778786",
     "reference_id": 108503,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jood",
     "media_type": "Text",
     "index_reference": "jood",
@@ -417,13 +1133,92 @@
           "label": "Hebreeërs",
           "language": "nld"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Joda",
+          "type": "person",
+          "preferred_label": "Joda",
+          "confidence": 0.8328,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "Jude",
+          "confidence": 0.8212,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehudi",
+          "type": "person",
+          "preferred_label": "Jehudi",
+          "confidence": 0.8211,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.8129,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.8129,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.8129,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.8129,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.8129,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.8129,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea.2",
+          "type": "place",
+          "preferred_label": "Judah",
+          "confidence": 0.8129,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joed",
+          "type": "person",
+          "preferred_label": "Joed",
+          "confidence": 0.8098,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 778787,
+    "content_id": "778787",
     "reference_id": 108070,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joodse wetten",
     "media_type": "Text",
     "index_reference": "joodse wetten",
@@ -440,13 +1235,14 @@
           "label": "Wet van Mozes",
           "language": "nld"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 778777,
+    "content_id": "778777",
     "reference_id": 108483,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Josafat",
     "media_type": "Text",
     "index_reference": "josafat",
@@ -455,13 +1251,43 @@
     "content": "<p>De zoon van Asa en Azuba was de vader van Joram en kwam uit de stam van Juda. Hij was de vierde koning van het zuidelijke koninkrijk Juda. Hij volgde God trouw en leidde het volk om uitsluitend God te aanbidden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Jehoshaphat",
+          "type": "person",
+          "preferred_label": "Jehoshaphat",
+          "confidence": 0.845,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.2",
+          "type": "person",
+          "preferred_label": "Jehoshaphat",
+          "confidence": 0.845,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.3",
+          "type": "person",
+          "preferred_label": "Jehoshaphat",
+          "confidence": 0.845,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoshaphat.4",
+          "type": "person",
+          "preferred_label": "Jehoshaphat",
+          "confidence": 0.845,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778798,
+    "content_id": "778798",
     "reference_id": 108389,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joshua",
     "media_type": "Text",
     "index_reference": "joshua",
@@ -470,13 +1296,127 @@
     "content": "<p>Een man die als Hebreeuwse slaaf in Egypte werd geboren. Hij hielp Mozes bij het leiden van Gods volk tijdens de uittocht. Hij was de zoon van Nun en kwam uit de stam van Efraïm. Mozes veranderde zijn naam van Hosea in Jozua. Hij was een van de spionnen die het land Kanaän verkenden en bracht een positief verslag uit. Na de dood van Mozes werd hij de leider van de Israëlieten. Jozua leidde de Israëlieten naar het land dat God aan Abraham had beloofd.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joshua",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.3",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.4",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "Joshua",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshah",
+          "type": "person",
+          "preferred_label": "Joshah",
+          "confidence": 0.8395,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Josiah",
+          "type": "person",
+          "preferred_label": "Josiah",
+          "confidence": 0.8217,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Josiah.2",
+          "type": "person",
+          "preferred_label": "Josiah",
+          "confidence": 0.8217,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua",
+          "type": "person",
+          "preferred_label": "Jeshua",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.2",
+          "type": "person",
+          "preferred_label": "Jeshua",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.3",
+          "type": "person",
+          "preferred_label": "Jeshua",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.4",
+          "type": "person",
+          "preferred_label": "Jeshua",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.5",
+          "type": "person",
+          "preferred_label": "Jeshua",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.6",
+          "type": "person",
+          "preferred_label": "Jeshua",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeshua.7",
+          "type": "person",
+          "preferred_label": "Jeshua",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Jeshua",
+          "type": "place",
+          "preferred_label": "Jeshua",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778799,
+    "content_id": "778799",
     "reference_id": 108508,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Joshua en Zerubbabel",
     "media_type": "Text",
     "index_reference": "joshua en zerubbabel",
@@ -485,13 +1425,14 @@
     "content": "<p>Joodse leiders keerden terug naar Juda na de ballingschap in Babylon. Zij leidden Gods volk bij de herbouw van de tempel in Jeruzalem. Jozua, de zoon van Jozadak, diende als hogepriester in de tweede tempel. Dit is een andere Jozua dan degene die de Israëlieten na Mozes leidde. Zerubbabel was gouverneur van Juda onder de Perzische heerschappij. Hij was de zoon van Sealtiël en behoorde tot de familielijn van David. Jezus stamt af van Zerubbabel.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778796,
+    "content_id": "778796",
     "reference_id": 108288,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jozef",
     "media_type": "Text",
     "index_reference": "jozef",
@@ -500,13 +1441,99 @@
     "content": "<p>Jozef was de oudste zoon van Jakob en Rachel en Jakobs favoriete zoon. In het Hebreeuws betekent Jozef &quot;moge hij toevoegen.&quot; Rachel gaf hem deze naam omdat ze meer kinderen wilde. Enkele van zijn broers verkochten hem als slaaf naar Egypte. Later werd hij een heerser in Egypte en redde hij veel mensen van de hongerdood. Zijn vrouw was Asnath. De afstammelingen van zijn zonen Manasse en Efraïm werden stammen van Israël.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Joseph.10",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.11",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.12",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.13",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.14",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.3",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.4",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.5",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.6",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.7",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.8",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joseph.9",
+          "type": "person",
+          "preferred_label": "Joseph",
+          "confidence": 0.9303,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778797,
+    "content_id": "778797",
     "reference_id": 108032,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jozef van Nazareth",
     "media_type": "Text",
     "index_reference": "jozef van nazareth",
@@ -515,13 +1542,14 @@
     "content": "<p>De echtgenoot van Maria van Nazareth kwam uit de familielijn van David en diende God trouw. Hij was een timmerman, bedreven in het werken met hout, stenen en metaal. Hoewel hij niet de biologische vader van Jezus was, adopteerde hij Jezus als zijn zoon. Hij zorgde voor en beschermde Jezus in zijn jeugd.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778800,
+    "content_id": "778800",
     "reference_id": 108291,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Juda",
     "media_type": "Text",
     "index_reference": "juda",
@@ -530,13 +1558,127 @@
     "content": "<p>Juda was een zoon van Jakob en Lea. In het Hebreeuws betekent zijn naam lof of dankzegging. Juda had een relatie met zijn schoondochter Tamar, waardoor hij de vader werd van Perez en Zerah. Jakobs zegen over hem bevatte een profetie dat er koningen uit zijn familie zouden voortkomen. Zowel Koning David als Jezus de Messias kwamen uit Juda&apos;s familie. Juda&apos;s familielijn werd een belangrijke stam in Israël. De stam van Juda werd de voornaamste stam van het zuidelijke koninkrijk. Het zuidelijke koninkrijk van de natie Israël werd bekend als Juda. Dit bleef zo toen de Babylonische regering de controle over het zuidelijke koninkrijk overnam. Het land stond ook bekend als Juda onder de heerschappij van de Perzische regering.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.961,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.961,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.961,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.961,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.961,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.961,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea.2",
+          "type": "place",
+          "preferred_label": "Judah",
+          "confidence": 0.961,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judea",
+          "confidence": 0.9264,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.8929,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.8929,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.8929,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.8929,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.8929,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "Jude",
+          "confidence": 0.8905,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Judea",
+          "type": "group",
+          "preferred_label": "Judeans",
+          "confidence": 0.8137,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joda",
+          "type": "person",
+          "preferred_label": "Joda",
+          "confidence": 0.8134,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778801,
+    "content_id": "778801",
     "reference_id": 108094,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judas",
     "media_type": "Text",
     "index_reference": "judas",
@@ -545,13 +1687,120 @@
     "content": "<p>Een van de twaalf discipelen van Jezus. Zijn vader was Jakobus. Matteüs en Marcus noemden deze discipel Thaddeüs, terwijl Lucas en Johannes hem Judas noemden. Hij was niet de Judas die Jezus verraadde om gedood te worden.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea.2",
+          "type": "place",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "Jude",
+          "confidence": 0.9027,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judea",
+          "confidence": 0.8645,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Judea",
+          "type": "group",
+          "preferred_label": "Judeans",
+          "confidence": 0.8132,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778803,
+    "content_id": "778803",
     "reference_id": 108168,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judas",
     "media_type": "Text",
     "index_reference": "judas",
@@ -560,13 +1809,120 @@
     "content": "<p>Een van de broers van Jezus. In het begin geloofde hij niet dat Jezus de Messias was. Later vertrouwde hij Jezus en werd hij een leider binnen de kerken. Het Nieuwe Testament bevat een brief die hij heeft geschreven.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea.2",
+          "type": "place",
+          "preferred_label": "Judah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "Jude",
+          "confidence": 0.9027,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judea",
+          "confidence": 0.8645,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Judea",
+          "type": "group",
+          "preferred_label": "Judeans",
+          "confidence": 0.8132,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 778802,
+    "content_id": "778802",
     "reference_id": 108066,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judas Iskariot",
     "media_type": "Text",
     "index_reference": "judas iskariot",
@@ -575,13 +1931,14 @@
     "content": "<p>Een van de twaalf discipelen van Jezus. Hij beheerde het geld van de discipelen, maar stal ervan. Hij verraadde Jezus aan de Joodse leiders die Hem wilden doden. Later pleegde hij zelfmoord.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 778804,
+    "content_id": "778804",
     "reference_id": 108035,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Judea",
     "media_type": "Text",
     "index_reference": "judea",
@@ -590,7 +1947,114 @@
     "content": "<p>Het zuidelijke gebied van het land dat God had beloofd aan de afstammelingen van Abraham. Dit gebied omvatte het land dat later bekend werd als het zuidelijke koninkrijk Juda. Na de terugkeer van een deel van Gods volk uit ballingschap in Babylon, werd het Judea genoemd. De stam van Juda woonde in Judea, en Jeruzalem was de belangrijkste stad in dit gebied.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Judea",
+          "type": "place",
+          "preferred_label": "Judea",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.3",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9535,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.4",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9535,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.5",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9535,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.6",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9535,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.7",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9535,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judah.8",
+          "type": "person",
+          "preferred_label": "Judah",
+          "confidence": 0.9535,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Judea.2",
+          "type": "place",
+          "preferred_label": "Judah",
+          "confidence": 0.9535,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.8645,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.2",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.8645,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.3",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.8645,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.4",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.8645,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Judas.5",
+          "type": "person",
+          "preferred_label": "Judas",
+          "confidence": 0.8645,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Judea",
+          "type": "group",
+          "preferred_label": "Judeans",
+          "confidence": 0.8588,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jude",
+          "type": "person",
+          "preferred_label": "Jude",
+          "confidence": 0.8453,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]

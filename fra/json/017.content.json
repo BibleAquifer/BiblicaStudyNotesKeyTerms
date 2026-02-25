@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133799,
+    "content_id": "133799",
     "reference_id": 108547,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Païen",
     "media_type": "Text",
     "index_reference": "païen",
@@ -19,13 +19,14 @@
           "label": "Loi de Moïse",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133463,
+    "content_id": "133463",
     "reference_id": 108211,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paix",
     "media_type": "Text",
     "index_reference": "paix",
@@ -34,13 +35,14 @@
     "content": "<p>En hébreu, le mot paix est &quot;shalom&quot;. Il ne signifie pas seulement l&apos;absence de combats ou de guerres. Il signifie l&apos;assurance de la sécurité, de la santé et de la justice. Il signifie que chacun dispose de ce dont il a besoin en quantité suffisante. La paix shalom implique que les relations entre personnes sont intègres et saines. Elles sont telles que Dieu veut qu&apos;elles soient. Cela signifie que chaque personne est en paix avec Dieu. La paix shalom comprend également les relations entre les personnes et avec tout le reste de ce que Dieu a créé.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133308,
+    "content_id": "133308",
     "reference_id": 108056,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paraboles",
     "media_type": "Text",
     "index_reference": "paraboles",
@@ -49,13 +51,22 @@
     "content": "<p>Les paraboles sont des histoires que Jésus racontait pour aider les gens à comprendre les voies de Dieu et son royaume. Ces histoires utilisaient des événements, des lieux et des actions de la vie réelle des gens. Elles avaient généralement un but principal spécifique.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Parable",
+          "type": "keyterm",
+          "preferred_label": "parabole",
+          "confidence": 0.8415,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133533,
+    "content_id": "133533",
     "reference_id": 108281,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pardonner",
     "media_type": "Text",
     "index_reference": "pardonner",
@@ -64,13 +75,22 @@
     "content": "<p>Plusieurs mots des langues hébraïque et grecque sont utilisés dans la Bible pour désigner le fait de pardonner. Une dette d&apos;argent peut être &quot;pardonnée&quot; : cela signifie que la personne qui doit de l&apos;argent ne doit plus la rembourser. Le péché peut être &quot;pardonné&quot; : c&apos;est Dieu qui pardonne les péchés. Cela signifie que Dieu reconnaît quel péché a été commis. Dieu reconnaît quelle personne ou quelle nation est coupable de ce péché. La culpabilité est comme un poids lourd que Dieu enlève à quelqu&apos;un lorsqu&apos;il pardonne. Dieu enlève la culpabilité de la personne ou du groupe. C&apos;est comme si Dieu prenait le péché et le relâchait quelque part au loin. Dieu choisit de ne pas porter de jugement contre la personne ou le groupe à cause de son péché. Dieu est toujours prêt à pardonner leur péché aux gens parce qu&apos;il est plein de miséricorde et d&apos;amour. Dieu veut que toutes les personnes et toutes les nations se détournent du péché. Il veut qu&apos;ils lui demandent de les pardonner. Dieu veut aussi que tous les gens et toutes les nations suivent son exemple. Il veut qu&apos;ils se pardonnent mutuellement leurs péchés.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Forgive",
+          "type": "keyterm",
+          "preferred_label": "pardonner",
+          "confidence": 0.8795,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133417,
+    "content_id": "133417",
     "reference_id": 108165,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Parfait",
     "media_type": "Text",
     "index_reference": "parfait",
@@ -79,13 +99,14 @@
     "content": "<p>Le mot pour &quot;parfait&quot; dans la langue grecque équivaut à &quot;complet&quot; ou &quot;achevé&quot;. Il signifie que rien ne manque ou qu&apos;une chose a atteint sa pleine croissance.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133349,
+    "content_id": "133349",
     "reference_id": 108097,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Parler en d'autres langues",
     "media_type": "Text",
     "index_reference": "parler en d'autres langues",
@@ -102,13 +123,14 @@
           "label": "Expliquer d'autres langues",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133452,
+    "content_id": "133452",
     "reference_id": 108200,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Parole de Dieu",
     "media_type": "Text",
     "index_reference": "parole de dieu",
@@ -125,13 +147,14 @@
           "label": "Bible",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133423,
+    "content_id": "133423",
     "reference_id": 108171,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Patmos",
     "media_type": "Text",
     "index_reference": "patmos",
@@ -140,13 +163,22 @@
     "content": "<p>Une petite île grecque peu habitée. Elle se trouve dans la mer Égée près de la mer Méditerranée. Le gouvernement romain administrait l&apos;île et y envoyait des prisonniers en exil.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Patmos",
+          "type": "place",
+          "preferred_label": "Patmos",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133539,
+    "content_id": "133539",
     "reference_id": 108287,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Patriarche",
     "media_type": "Text",
     "index_reference": "patriarche",
@@ -155,13 +187,14 @@
     "content": "<p>Le patriarche était un chef masculin avec une autorité particulière dans un groupe. Il s&apos;agissait en général de l&apos;homme le plus âgé de la famille. Au sein du peuple d&apos;Israël, les dirigeants et les rois importants sont appelés patriarches. Ils sont considérés comme les fondateurs de la nation d&apos;Israël. Parmi eux figurent Abraham, Isaac, Jacob et ses fils, ainsi que Moïse et le roi David.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133354,
+    "content_id": "133354",
     "reference_id": 108102,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Paul",
     "media_type": "Text",
     "index_reference": "paul",
@@ -170,13 +203,22 @@
     "content": "<p>Paul était un chrétien d&apos;origine juive de la tribu de Benjamin, originaire de la ville de Tarse. En hébreu, on l&apos;appelait Saul. En grec, il s&apos;appelait Paul. Il était citoyen romain. Pour gagner sa vie, il fabriquait des tentes. Pendant de nombreuses années, il a été un pharisien engagé. Pendant cette période, il essayait d&apos;empêcher l&apos;<span>Église chrétienne </span>de croître. Mais une fois que Jésus lui est apparu, il a commencé à répandre la bonne nouvelle de l&apos;Évangile chrétien. Paul était un apôtre. Dans la Bible, le Nouveau Testament inclut de nombreuses lettres de sa plume.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Paul",
+          "type": "person",
+          "preferred_label": "Paul",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133447,
+    "content_id": "133447",
     "reference_id": 108195,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Péché",
     "media_type": "Text",
     "index_reference": "péché",
@@ -185,13 +227,14 @@
     "content": "<p>Sont qualifiés de péchés les pensées, paroles, actions ou désirs contraires à la volonté de Dieu. Ils nuisent à la personne, aux autres et au reste de la création. Le péché est entré dans le monde lorsque Adam et Ève ont désobéi à Dieu. Le péché a détruit la paix entre Dieu et les êtres humains. Il a détruit la paix entre les êtres humains et au sein de toute la création de Dieu. Le péché apporte la mort. Il maintient les êtres humains séparés de Dieu. La Bible décrit le péché comme un maître et les êtres humains comme ses esclaves. Le péché est un mal. Jésus est le seul à pouvoir détruire le pouvoir du péché. Seul Jésus peut en libérer les êtres humains.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133627,
+    "content_id": "133627",
     "reference_id": 108375,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pentecôte",
     "media_type": "Text",
     "index_reference": "pentecôte",
@@ -200,13 +243,14 @@
     "content": "<p>La Pentecôte est une fête que les juifs célébraient 50 jours après la fête des prémices de la récolte. On l&apos;appelait la fête des Semaines ou la Pentecôte. Les gens offraient des sacrifices à Dieu et le remerciaient pour la récolte. Les Israélites de sexe masculin devaient se rendre à la tente sainte ou au temple pour cette fête. C&apos;est aussi la fête lors de laquelle le Saint-Esprit est apparu pour la première fois aux disciples de Jésus. Cela s&apos;est produit 50 jours après la résurrection de Jésus.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133564,
+    "content_id": "133564",
     "reference_id": 108312,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Père",
     "media_type": "Text",
     "index_reference": "père",
@@ -215,13 +259,29 @@
     "content": "<p>Un nom pour Dieu. Le Père est Dieu, tout comme Jésus est Dieu et le Saint-Esprit est Dieu. Ils forment les trois personnes du seul et unique Dieu. Dieu s&apos;est révélé être le Père d&apos;Israël pendant l&apos;exode et a appelé Israël son fils. Plus tard, Dieu s&apos;est révélé être le Père de Jésus. Jésus révèle que Dieu est le Père de tous ceux qui font partie de la famille de Dieu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:GenericFather",
+          "type": "person",
+          "preferred_label": "A Father",
+          "confidence": 0.8532,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Medad",
+          "type": "person",
+          "preferred_label": "Médad",
+          "confidence": 0.8339,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133428,
+    "content_id": "133428",
     "reference_id": 108176,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pergame",
     "media_type": "Text",
     "index_reference": "pergame",
@@ -230,13 +290,22 @@
     "content": "<p>Une ville importante du territoire romain d&apos;Asie, près de la mer Égée. C&apos;était un centre cultuel en l&apos;honneur de l&apos;empereur romain César et des fausses divinités romaines.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Pergamum",
+          "type": "place",
+          "preferred_label": "Pergame",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133761,
+    "content_id": "133761",
     "reference_id": 108509,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Perse",
     "media_type": "Text",
     "index_reference": "perse",
@@ -245,13 +314,29 @@
     "content": "<p>La Perse était un royaume situé dans la région aujourd&apos;hui connue sous le nom d&apos;Iran. La Perse est devenue une grande puissance qui a régné sur de nombreuses autres nations et éthnies. Beaucoup de Perses étaient issus d&apos;un peuple appelé les Mèdes. Suse était l&apos;une de leurs capitales. Cyrus, Darius, Xerxès et Artaxerxès étaient des empereurs de Perse. Le gouvernement grec a pris le contrôle du gouvernement perse en 333 av. J.-C.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Persia",
+          "type": "group",
+          "preferred_label": "Perse",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "Perse",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133306,
+    "content_id": "133306",
     "reference_id": 108054,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Persécutés",
     "media_type": "Text",
     "index_reference": "persécutés",
@@ -268,13 +353,14 @@
           "label": "Rome",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133670,
+    "content_id": "133670",
     "reference_id": 108418,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Personnes dans le besoin",
     "media_type": "Text",
     "index_reference": "personnes dans le besoin",
@@ -283,13 +369,14 @@
     "content": "<p>Dans l&apos;Ancien Testament, les personnes dans le besoin étaient celles qui ne possédaient pas de terres à cultiver. Sans terres, elles ne pouvaient ni cultiver des récoltes ni élever du bétail. Les étrangers et les veuves étaient des personnes dans le besoin. Il en était de même pour les enfants dont le père était décédé. Les gens étaient également dans le besoin s&apos;ils avaient des terres mais ne réussissaient pas à les cultiver. Dans le Nouveau Testament, toute personne pauvre ou ayant besoin d&apos;aide était considérée comme étant dans le besoin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133554,
+    "content_id": "133554",
     "reference_id": 108302,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Peuple de Dieu",
     "media_type": "Text",
     "index_reference": "peuple de dieu",
@@ -306,13 +393,14 @@
           "label": "Israël",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133502,
+    "content_id": "133502",
     "reference_id": 108250,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pharaon",
     "media_type": "Text",
     "index_reference": "pharaon",
@@ -321,13 +409,71 @@
     "content": "<p>Le titre du souverain ayant le plus d&apos;autorité en Égypte. La Bible mentionne de nombreux pharaons différents.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Pharaoh.10",
+          "type": "person",
+          "preferred_label": "Pharaon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.3",
+          "type": "person",
+          "preferred_label": "Pharaon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.4",
+          "type": "person",
+          "preferred_label": "Pharaon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.5",
+          "type": "person",
+          "preferred_label": "Pharaon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.6",
+          "type": "person",
+          "preferred_label": "Pharaon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.7",
+          "type": "person",
+          "preferred_label": "Pharaon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.8",
+          "type": "person",
+          "preferred_label": "Pharaon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pharaoh.9",
+          "type": "person",
+          "preferred_label": "Pharaon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133302,
+    "content_id": "133302",
     "reference_id": 108050,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pharisiens",
     "media_type": "Text",
     "index_reference": "pharisiens",
@@ -336,13 +482,22 @@
     "content": "<p>Un groupe de dirigeants religieux juifs à l&apos;époque du Nouveau Testament. Ils exhortaient les juifs à travailler très dur pour obéir à toutes les lois de l&apos;Ancien Testament. Ils ne croyaient pas que Jésus était le Messie envoyé par Dieu selon ses promesses. La plupart des pharisiens s&apos;opposaient à Jésus et à ses enseignements.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Pharisee",
+          "type": "group",
+          "preferred_label": "Pharisien",
+          "confidence": 0.9623,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133432,
+    "content_id": "133432",
     "reference_id": 108180,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philadelphie",
     "media_type": "Text",
     "index_reference": "philadelphie",
@@ -351,13 +506,22 @@
     "content": "<p>Une ville importante dans le territoire romain d&apos;Asie. Il s&apos;agit de la ville d&apos;Alaşehir dans le pays aujourd&apos;hui connu sous le nom de Turquie.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philadelphia",
+          "type": "place",
+          "preferred_label": "Philadelphie",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133416,
+    "content_id": "133416",
     "reference_id": 108164,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philémon",
     "media_type": "Text",
     "index_reference": "philémon",
@@ -366,13 +530,22 @@
     "content": "<p>Un chrétien riche de la ville de Colosses qui était ami avec Paul et travaillait avec lui. On pense qu&apos;Apphia était la femme de Philémon et qu&apos;Archippe était leur fils. Une <span>É</span>glise se réunissait chez lui. Philémon possédait un esclave nommé Onésime. La lettre que Paul lui a écrite au sujet d&apos;Onésime s&apos;appelle la lettre à Philémon.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philemon",
+          "type": "person",
+          "preferred_label": "Philémon",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133355,
+    "content_id": "133355",
     "reference_id": 108103,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philippe",
     "media_type": "Text",
     "index_reference": "philippe",
@@ -381,13 +554,50 @@
     "content": "<p>Philippe était un des sept responsables choisis par les croyants de Jérusalem pour être diacre. Il veillait à ce que tous aient suffisamment de nourriture. Il ne faut pas le confondre avec un autre Philippe qui était un des 12 disciples de Jésus. Il a diffusé le message de Jésus à de nombreuses personnes et dans de nombreux endroits. Ses quatre filles étaient des prophétesses.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Philippe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Philippe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Philippe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Philippe",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Philippes",
+          "confidence": 0.9032,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133378,
+    "content_id": "133378",
     "reference_id": 108126,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philippes",
     "media_type": "Text",
     "index_reference": "philippes ",
@@ -396,13 +606,50 @@
     "content": "<p>Une ville grecque située dans le territoire romain de la Macédoine. Elle se trouvait dans la région qui constitue aujourd&apos;hui le nord de la Grèce. Paul s&apos;y est rendu lors de son deuxième voyage. C&apos;est la première ville en Europe où la bonne nouvelle de Jésus a été partagée. La lettre de Paul aux Philippiens était destinée à l&apos;<span>É</span>glise de cette ville.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Philippi",
+          "type": "place",
+          "preferred_label": "Philippes",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip",
+          "type": "person",
+          "preferred_label": "Philippe",
+          "confidence": 0.9032,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.2",
+          "type": "person",
+          "preferred_label": "Philippe",
+          "confidence": 0.9032,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.3",
+          "type": "person",
+          "preferred_label": "Philippe",
+          "confidence": 0.9032,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philip.4",
+          "type": "person",
+          "preferred_label": "Philippe",
+          "confidence": 0.9032,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133519,
+    "content_id": "133519",
     "reference_id": 108267,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philistins",
     "media_type": "Text",
     "index_reference": "philistins",
@@ -411,13 +658,36 @@
     "content": "<p>Les Philistins étaient un peuple issu de la lignée de Cham. Ils vivaient dans le sud de Canaan, le long de la côte de la mer Méditerranée. Parfois, ils collaboraient avec la lignée de la famille d&apos;Abraham. La plupart du temps, ils étaient en guerre contre la nation d&apos;Israël.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Philistine",
+          "type": "group",
+          "preferred_label": "Philistins",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Philistine",
+          "type": "person",
+          "preferred_label": "Philistin",
+          "confidence": 0.9845,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Philistine",
+          "type": "place",
+          "preferred_label": "Philistia",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133375,
+    "content_id": "133375",
     "reference_id": 108123,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Phrygie",
     "media_type": "Text",
     "index_reference": "phrygie",
@@ -426,13 +696,22 @@
     "content": "<p>Une région du territoire romain de l&apos;Asie Mineure près de la Galatie.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "place:Phrygia",
+          "type": "place",
+          "preferred_label": "Phrygie",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133824,
+    "content_id": "133824",
     "reference_id": 108572,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pierre",
     "media_type": "Text",
     "index_reference": "pierre",
@@ -441,13 +720,22 @@
     "content": "<p>Pierre était un pêcheur originaire de Bethsaïda qui vivait à Capharnaüm. André était son frère. Pierre est devenu l&apos;un des 12 disciples de Jésus et était l&apos;un de ses trois compagnons les plus proches. Il était également appelé Simon, Simon Pierre et Céphas.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "Pierre",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133655,
+    "content_id": "133655",
     "reference_id": 108403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pinhas",
     "media_type": "Text",
     "index_reference": "pinhas",
@@ -456,13 +744,14 @@
     "content": "<p>Pinhas était fils d&apos;Élazar et petit-fils d&apos;Aaron. Il a tué un Israélite qui était infidèle à Dieu. Quand il a fait cela, Dieu a arrêté la peste à Baal-Péor. Dieu a fait une alliance de paix avec Pinhas et sa descendance.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133343,
+    "content_id": "133343",
     "reference_id": 108091,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Piscine de Béthesda",
     "media_type": "Text",
     "index_reference": "piscine de béthesda",
@@ -471,13 +760,14 @@
     "content": "<p>Une piscine à Jérusalem. En araméen, Béthesda signifie &quot;maison de la miséricorde&quot;. L&apos;eau de ce bassin était utilisée dans le temple. Beaucoup croyaient que cette eau guérissait les maladies.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133785,
+    "content_id": "133785",
     "reference_id": 108533,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Poème alphabétique",
     "media_type": "Text",
     "index_reference": "poème alphabétique",
@@ -494,13 +784,14 @@
           "label": "Poèmes",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133456,
+    "content_id": "133456",
     "reference_id": 108204,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Poèmes",
     "media_type": "Text",
     "index_reference": "poèmes",
@@ -509,13 +800,14 @@
     "content": "<p>Une manière de parler ou d&apos;écrire qui peut ressembler à un chant. Souvent, les poèmes contiennent des descriptions et des évocations indirectes. Ils suscitent des images et des représentations avec des mots. Ceux-ci aident les gens à comprendre ce que l&apos;orateur ou l&apos;écrivain veut dire. Les descriptions poétiques utilisent beaucoup l&apos;analogie et la comparaison. La Bible inclut de nombreux poèmes écrits en hébreu. Beaucoup d&apos;entre eux étaient prononcés et écrits deux lignes à la fois. La première ligne exprime une idée. La deuxième ligne complète cette idée. Pour ce faire, elle reprend la même idée d&apos;une manière nouvelle ou différente. Cela aide les gens à comprendre et à se souvenir de ce que l&apos;orateur ou l&apos;écrivain voulait dire.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133626,
+    "content_id": "133626",
     "reference_id": 108374,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prémices des récoltes",
     "media_type": "Text",
     "index_reference": "prémices des récoltes",
@@ -524,13 +816,14 @@
     "content": "<p>Les Israélites devaient présenter en offrande la première part de leurs récoltes, aussi appelée les prémices. Ils le faisaient au début de la récolte, pendant la fête des pains sans levain. Cela leur rappelait que la terre et ce qu&apos;elle produisait appartenaient à Dieu. Cela leur rappelait que Dieu leur fournissait tout ce dont ils avaient besoin.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133585,
+    "content_id": "133585",
     "reference_id": 108333,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prêtre",
     "media_type": "Text",
     "index_reference": "prêtre",
@@ -554,13 +847,22 @@
           "label": "Lévites",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:GenericPriest",
+          "type": "person",
+          "preferred_label": "A Priest",
+          "confidence": 0.8117,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 133479,
+    "content_id": "133479",
     "reference_id": 108227,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prière",
     "media_type": "Text",
     "index_reference": "prière",
@@ -569,13 +871,14 @@
     "content": "<p>La pratique de parler avec Dieu et d&apos;écouter Dieu.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133622,
+    "content_id": "133622",
     "reference_id": 108370,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prochain",
     "media_type": "Text",
     "index_reference": "prochain",
@@ -592,13 +895,14 @@
           "label": "Les personnes du dehors",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133668,
+    "content_id": "133668",
     "reference_id": 108416,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prophète",
     "media_type": "Text",
     "index_reference": "prophète",
@@ -615,13 +919,29 @@
           "label": "Faux prophète",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:GenericProphet",
+          "type": "person",
+          "preferred_label": "A Prophet",
+          "confidence": 0.8356,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:GenericProphets",
+          "type": "group",
+          "preferred_label": "Prophets",
+          "confidence": 0.8012,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 133651,
+    "content_id": "133651",
     "reference_id": 108399,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prophétie",
     "media_type": "Text",
     "index_reference": "prophétie",
@@ -630,13 +950,14 @@
     "content": "<p>Une annonce à propos de la volonté de Dieu ou concernant des évenements à venir. Ces messages proviennent de Dieu ou de la Parole de Dieu. Ils sont prononcés par des prophètes et cela s&apos;appelle &quot;prophétiser&quot;. De nombreuses prophéties d&apos;avant l&apos;époque de Jésus ont été consignées par écrit et se trouvent dans l&apos;Ancien Testament. Ensemble, elles forment un recueil appelé &quot;les Prophètes&quot;. Le Saint-Esprit rend certaines personnes capables de prophétiser. Les messages doivent être partagés de manière ordonnée pour que les gens puissent comprendre. Ils ont pour objectif d&apos;aider les personnes qui ne connaissent pas Dieu à se tourner vers lui. Ils sont partagés pour encourager les personnes qui suivent déjà Dieu et pour les aider à comprendre comment lui obéir fidèlement.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133652,
+    "content_id": "133652",
     "reference_id": 108400,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prophéties au sujet de Jésus",
     "media_type": "Text",
     "index_reference": "prophéties au sujet de jésus",
@@ -653,13 +974,14 @@
           "label": "Le Sauveur",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133787,
+    "content_id": "133787",
     "reference_id": 108535,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Prostituée",
     "media_type": "Text",
     "index_reference": "prostituée",
@@ -668,13 +990,29 @@
     "content": "<p>Une personne qui a des relations sexuelles avec d&apos;autres en échange d&apos;un paiement quelconque. Certaines personnes se prostituent parce qu&apos;elles n&apos;ont pas d&apos;autre choix. C&apos;est le cas des esclaves ou des personnes qui vivent sous le contrôle de quelqu&apos;un d&apos;autre. Certaines personnes choisissent de se prostituer. C&apos;est ainsi qu&apos;elles gagnent de l&apos;argent. Les auteurs bibliques parlent des personnes qui choisissent de se prostituer. Elles sont un symbole des individus ou des groupes qui essaient d&apos;inciter d&apos;autres personnes à pécher. Elles sont aussi le signe d&apos;un manque de fidélité à l&apos;adoration de Dieu seul. La vie du couple marié est l&apos;une des façons dont la Bible décrit la relation de Dieu avec son peuple. Quand son peuple servait d&apos;autres dieux, c&apos;était comme s&apos;il n&apos;était pas fidèle dans le mariage. Cela revient à se prostituer avec de faux dieux. Dieu ne veut pas que les êtres humains se prostituent avec leurs corps. Il ne veut pas non plus qu&apos;ils adorent quoi que ce soit ou qui que ce soit d&apos;autre que lui.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:FirstProstitute",
+          "type": "person",
+          "preferred_label": "Prostitute",
+          "confidence": 0.8144,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:SecondProstitute",
+          "type": "person",
+          "preferred_label": "Prostitute",
+          "confidence": 0.8144,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133700,
+    "content_id": "133700",
     "reference_id": 108448,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Protecteur de la famille",
     "media_type": "Text",
     "index_reference": "protecteur de la famille",
@@ -683,13 +1021,14 @@
     "content": "<p>Parent proche de sexe masculin qui était chargé d&apos;aider les membres de la famille dans le besoin. On l&apos;appelle aussi rédempteur. Le protecteur de la famille pouvait payer les dettes des membres pauvres de la famille. Il pouvait racheter les biens qu&apos;ils avaient vendus. Il pouvait payer pour que ces personnes ou leurs enfants soient libérés du travail de serviteur. Le protecteur de la famille pouvait aussi accomplir le devoir du beau-frère. Il pouvait le faire pour la veuve de son frère. Le protecteur de la famille illustrait la manière dont Dieu prenait soin d&apos;Israël. Dieu était comme le protecteur de la famille qui sauvait les Israélites lorsqu&apos;ils étaient dans le besoin. La famille protectrice est aussi une image de ce que Jésus accomplit. Il est comme le protecteur de la famille qui sauve les pécheurs dans le besoin. Il rachète tous ceux qui lui font confiance. Il les rachète au pouvoir du péché, de la mort et du mal.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133783,
+    "content_id": "133783",
     "reference_id": 108531,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Proverbe",
     "media_type": "Text",
     "index_reference": "proverbe",
@@ -698,13 +1037,22 @@
     "content": "<p>Un dicton court et plein de sagesse. Les proverbes proviennent des observations de la vie dans ce monde par des individus ou des communautés. Une observation attentive permet de tirer des leçons et des schémas qui se rapportent au fonctionnement de l&apos;existence. La personne ou la communauté exprime ces leçons et ces schémas avec des mots, comme dans un court poème. Les proverbes sont transmis au sein des familles et des communautés pendant des centaines d&apos;années. Un proverbe n&apos;est pas une promesse que la vie fonctionnera toujours selon le schéma décrit.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Saying",
+          "type": "keyterm",
+          "preferred_label": "proverbe",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133616,
+    "content_id": "133616",
     "reference_id": 108364,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pur et impur",
     "media_type": "Text",
     "index_reference": "pur et impur",
@@ -721,13 +1069,14 @@
           "label": "Pur ou impur",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   },
   {
-    "content_id": 133615,
+    "content_id": "133615",
     "reference_id": 108363,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Pur ou impur",
     "media_type": "Text",
     "index_reference": "pur ou impur",
@@ -744,7 +1093,8 @@
           "label": "Pur et impur",
           "language": "fra"
         }
-      ]
+      ],
+      "acai": []
     }
   }
 ]

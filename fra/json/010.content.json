@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 133773,
+    "content_id": "133773",
     "reference_id": 108521,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Haman",
     "media_type": "Text",
     "index_reference": "haman",
@@ -11,13 +11,50 @@
     "content": "<p>Un chef du gouvernement perse à l&apos;époque de Xerxès. Il était de la lignée d&apos;Agag l&apos;Amalécite. Cela signifie qu&apos;Haman était issu d&apos;un peuple qui avait maltraité les Israélites. Haman avait l&apos;intention de détruire tous les juifs du royaume perse. Xerxès l&apos;a fait condamner à mort.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Haman",
+          "type": "person",
+          "preferred_label": "Haman",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman",
+          "type": "person",
+          "preferred_label": "Héman",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman.2",
+          "type": "person",
+          "preferred_label": "Héman",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heman.3",
+          "type": "person",
+          "preferred_label": "Héman",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hammon.2",
+          "type": "place",
+          "preferred_label": "Hammon",
+          "confidence": 0.8011,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133751,
+    "content_id": "133751",
     "reference_id": 108499,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hauts lieux",
     "media_type": "Text",
     "index_reference": "hauts lieux",
@@ -26,13 +63,14 @@
     "content": "<p>Lieux de culte situés sur une colline, une montagne ou un endroit élevé. Les gens y brûlaient de l&apos;encens et y faisaient des sacrifices. Certains hauts lieux étaient utilisés pour adorer le vrai Dieu. C&apos;était souvent le cas avant la construction du temple. D&apos;autres hauts lieux étaient utilisés pour adorer de faux dieux. Les gens y sacrifiaient même des enfants pour les honorer. Il y avait de nombreux hauts lieux de ce genre lorsque les Israélites sont entrés pour la première fois en Canaan. Les Israélites étaient censés détruire tous les hauts lieux utilisés pour adorer de faux dieux.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133784,
+    "content_id": "133784",
     "reference_id": 108532,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hébreu",
     "media_type": "Text",
     "index_reference": "hébreu",
@@ -56,13 +94,50 @@
           "label": "Juif",
           "language": "fra"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Heber",
+          "type": "person",
+          "preferred_label": "Héber",
+          "confidence": 0.8777,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heber.2",
+          "type": "person",
+          "preferred_label": "Héber",
+          "confidence": 0.8777,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heber.3",
+          "type": "person",
+          "preferred_label": "Héber",
+          "confidence": 0.8777,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heber.4",
+          "type": "person",
+          "preferred_label": "Héber",
+          "confidence": 0.8777,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Hebrews",
+          "type": "group",
+          "preferred_label": "Hebrews",
+          "confidence": 0.8344,
+          "match_method": "embedding"
+        }
       ]
     }
   },
   {
-    "content_id": 133362,
+    "content_id": "133362",
     "reference_id": 108110,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hérode Agrippa I",
     "media_type": "Text",
     "index_reference": "hérode agrippa i",
@@ -71,13 +146,14 @@
     "content": "<p>Le roi Hérode du chapitre 12 des Actes des Apôtres. Il était le petit-fils d&apos;Hérode le Grand. Il était aussi le neveu d&apos;Hérode Antipas. Il était le père d&apos;Hérode Agrippa II. Deux de ses filles s&apos;appelaient Bérénice et Drusilla.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133391,
+    "content_id": "133391",
     "reference_id": 108139,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hérode Agrippa II",
     "media_type": "Text",
     "index_reference": "hérode agrippa ii",
@@ -86,13 +162,14 @@
     "content": "<p>Le roi Agrippa des chapitres 25 et 26 des Actes des Apôtres. Il était le fils d&apos;Hérode Agrippa I. On pense que sa sœur Bérénice vivait avec lui en tant qu&apos;épouse.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133309,
+    "content_id": "133309",
     "reference_id": 108057,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hérode Antipas",
     "media_type": "Text",
     "index_reference": "hérode antipas",
@@ -101,13 +178,22 @@
     "content": "<p>Celui dont on parle au chapitre 14 de Matthieu, au chapitre 6 de Marc et dans les chapitres 3, 9 et 23 de Luc. Il était l&apos;un des fils d&apos;Hérode le Grand. Il régnait en Galilée et en Pérée à l&apos;époque de Jésus. La Pérée se trouvait à l&apos;est du Jourdain. Il a épousé la femme de son frère Philippe. Elle s&apos;appelait Hérodiade. Hérode Antipas a fait mettre à mort Jean-Baptiste.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herod.2",
+          "type": "person",
+          "preferred_label": "Hérode Antipas",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133810,
+    "content_id": "133810",
     "reference_id": 108558,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hérode le Grand",
     "media_type": "Text",
     "index_reference": "hérode le grand",
@@ -116,13 +202,14 @@
     "content": "<p>Le roi Hérode de Matthieu 2 et Luc 1. C&apos;était un dirigeant mandaté par les Romains avec le titre de roi des Juifs. Il a régné de 36 av. J.-C. à 4 av. J.-C. sur la Judée et sur toutes les terres d&apos;Israël. Il était issu de la lignée d&apos;Ésaü mais était considéré comme un juif. Il a ordonné la réalisation de nombreux projets de construction, dont la ville de Césarée et le temple de Jérusalem. Il a ordonné que le temple soit plus grand et plus grandiose qu&apos;il ne l&apos;avait jamais été.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133314,
+    "content_id": "133314",
     "reference_id": 108062,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hérodiens",
     "media_type": "Text",
     "index_reference": "hérodiens",
@@ -131,13 +218,43 @@
     "content": "<p>Les partisans des dirigeants issus de la lignée familiale d&apos;Hérode le Grand.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Herodias",
+          "type": "person",
+          "preferred_label": "Hérodias",
+          "confidence": 0.9321,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herodion",
+          "type": "person",
+          "preferred_label": "Hérodion",
+          "confidence": 0.911,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herod",
+          "type": "person",
+          "preferred_label": "Hérode",
+          "confidence": 0.8233,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Herod.3",
+          "type": "person",
+          "preferred_label": "Hérode",
+          "confidence": 0.8233,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133450,
+    "content_id": "133450",
     "reference_id": 108198,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Histoires",
     "media_type": "Text",
     "index_reference": "histoires",
@@ -146,13 +263,14 @@
     "content": "<p>Il était très important pour les Israélites de se souvenir des histoires et des enseignements du passé. Ils racontaient les épisodes de leur histoire commune. Ils se rappelaient ainsi les interventions puissantes de Dieu. Ils parlaient aussi des lois et des enseignements qu&apos;ils avaient reçus de Dieu. Les personnes âgées racontaient ces choses aux plus jeunes. De cette manière, tout le monde apprenait les histoires et les enseignements qui étaient importants pour la communauté.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133679,
+    "content_id": "133679",
     "reference_id": 108427,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hivites",
     "media_type": "Text",
     "index_reference": "hivites",
@@ -161,13 +279,22 @@
     "content": "<p>Un groupe de personnes qui vivait à Canaan. Ils étaient issus de la lignée du fils de Cham, Canaan. Dieu a dit aux Israélites de les chasser de Canaan, conformément à son jugement contre eux. Josué a été amené par la ruse à conclure une alliance de paix avec les Hivites vivant à Gabaon.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Hivites",
+          "type": "group",
+          "preferred_label": "Hivites",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133639,
+    "content_id": "133639",
     "reference_id": 108387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hobab",
     "media_type": "Text",
     "index_reference": "hobab",
@@ -176,13 +303,57 @@
     "content": "<p>Beau-frère de Moïse. Il était le fils de Réuel, également appelé Jéthro. Hobab était le frère de Séphora, la femme de Moïse. Il faisait partie du peuple kénite. Il est resté avec les Israélites lors de leur voyage du mont Sinaï à Canaan. Il était leur guide dans le désert.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hobab",
+          "type": "person",
+          "preferred_label": "Hobab",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.2",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.3",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.4",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jobab.5",
+          "type": "person",
+          "preferred_label": "Jobab",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 133602,
+    "content_id": "133602",
     "reference_id": 108350,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Holocaustes",
     "media_type": "Text",
     "index_reference": "holocaustes",
@@ -191,13 +362,14 @@
     "content": "<p>Sacrifices ou offrandes d&apos;animaux ou d&apos;oiseaux mâles purs que les gens choisissaient d&apos;accomplir. L&apos;animal entier, à l&apos;exception de la peau, était brûlé. C&apos;était le signe que la personne qui faisait le sacrifice était entièrement dévouée à Dieu. Les holocaustes devaient être réalisés à certaines périodes de l&apos;année. Les gens pouvaient aussi en faire à d&apos;autres moments, s&apos;ils le souhaitaient. On sonnait des trompettes à ces occasions.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 133816,
+    "content_id": "133816",
     "reference_id": 108564,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Homme de péché",
     "media_type": "Text",
     "index_reference": "homme de péché",
@@ -206,7 +378,8 @@
     "content": "<p>Un homme qui s&apos;opposera complètement à Dieu. Dans 2 Thessaloniciens 2.1–12, Paul le décrit comme quelqu&apos;un dont les actes seront maléfiques. Mais Jésus arrêtera l&apos;homme de péché. Paul parle peut-être d&apos;une personne en particulier. Ou il décrit peut-être les pouvoirs du péché et du mal. La description de l&apos;homme de péché par Paul est similaire à la description de certains rois par Daniel. Les visions de Daniel concernant ces rois se trouvent dans les chapitres 7 et 11 du livre de Daniel. Ces rois étaient opposés à Dieu, parlaient contre lui et maltraitaient son peuple.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

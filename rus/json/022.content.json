@@ -1,8 +1,8 @@
 [
   {
-    "content_id": 193472,
+    "content_id": "193472",
     "reference_id": 108390,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Халев",
     "media_type": "Text",
     "index_reference": "халев",
@@ -11,13 +11,50 @@
     "content": "<p>Человек, рождённый во время пребывания евреев в рабстве в Египте. Он вошёл в землю Ханаан с израильтянами. Халев не был прямым потомком Иакова, но был избран из колена Иуды в число 12 разведчиков. Когда 12 разведчиков вернулись, он был одним из тех, кто хорошо отзывался о земле Ханаан. Халев был полностью послушен Богу.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Caleb",
+          "type": "person",
+          "preferred_label": "Халев",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Caleb.2",
+          "type": "person",
+          "preferred_label": "Халев",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heleb",
+          "type": "person",
+          "preferred_label": "Хелев",
+          "confidence": 0.861,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Chelub",
+          "type": "person",
+          "preferred_label": "Хелув",
+          "confidence": 0.8547,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Chelub.2",
+          "type": "person",
+          "preferred_label": "Хелув",
+          "confidence": 0.8547,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193324,
+    "content_id": "193324",
     "reference_id": 108242,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Хам",
     "media_type": "Text",
     "index_reference": "хам",
@@ -26,13 +63,64 @@
     "content": "<p>Хам был младшим сыном Ноя. Вместе со своей женой Хам был спасён во время потопа, потому что они были в ковчеге. Хам не проявил уважения к Ною, когда тот напился вина после потопа. Поэтому Ной не смог благословить Хама и проклял его потомков. </p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Ham",
+          "type": "person",
+          "preferred_label": "Хам",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ham.2",
+          "type": "place",
+          "preferred_label": "Хам",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gaham",
+          "type": "person",
+          "preferred_label": "Гахам",
+          "confidence": 0.8591,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Amam",
+          "type": "place",
+          "preferred_label": "Амам",
+          "confidence": 0.8078,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hashum",
+          "type": "person",
+          "preferred_label": "Хашум",
+          "confidence": 0.8042,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hashum.2",
+          "type": "person",
+          "preferred_label": "Хашум",
+          "confidence": 0.8042,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hashum.3",
+          "type": "person",
+          "preferred_label": "Хашум",
+          "confidence": 0.8042,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193433,
+    "content_id": "193433",
     "reference_id": 108351,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Хлебное приношение",
     "media_type": "Text",
     "index_reference": "хлебное приношение",
@@ -41,13 +129,14 @@
     "content": "<p>Жертвы или приношения из хлеба и муки, которые люди выбирали сами. Хлебное приношение подносили вместе с оливковым маслом, благовониями, солью и иногда вином. Священники съедали часть хлебных приношений, а остальное сжигали.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   },
   {
-    "content_id": 193469,
+    "content_id": "193469",
     "reference_id": 108387,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Ховав",
     "media_type": "Text",
     "index_reference": "ховав",
@@ -56,13 +145,22 @@
     "content": "<p>Ховав был шурином Моисея и сыном Рагуила (которого также называли Иофором). Ховав был братом Сепфоры, жены Моисея. Хотя Ховав происходил из народа кенеев, он оставался с еврейским народом в период его странствования от горы Синай до Ханаана. Ховав был проводником израильтян в пустыне.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "person:Hobab",
+          "type": "person",
+          "preferred_label": "Ховав",
+          "confidence": 1.0,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193499,
+    "content_id": "193499",
     "reference_id": 108417,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Храм",
     "media_type": "Text",
     "index_reference": "храм",
@@ -71,13 +169,36 @@
     "content": "<p><span>Здание в Иерусалиме, куда люди могли приходить для поклонения Богу. Храм также называли домом Господним или Божьей обителью. Самый первый Храм был построен при царе Соломоне. Бог сошёл на него и, таким образом, пребывал среди Своего народа. Вавилоняне разрушили первый Храм в 586 году до н.э. Спустя долгое время евреи построили второй Храм. Но после того, как он был разрушен римлянами в 70 году н.э., Храма в Израиле больше никогда не существовало. Иисус говорил, что Храм — это дом Его Отца. Он также учил, что Его Тело является новым храмом, поскольку Сам Бог в Иисусе присутствовал среди Своего народа. Бог продолжает присутствовать на этой земле, живя в тех людях, которые верят в Христа. Такие люди наполнены Святым Духом, и поэтому их называют новым храмом.</span></p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "realia:Temple",
+          "type": "realia",
+          "preferred_label": "Temple",
+          "confidence": 0.9202,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Church",
+          "type": "keyterm",
+          "preferred_label": "Church",
+          "confidence": 0.852,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:GenericChurch",
+          "type": "group",
+          "preferred_label": "The Church",
+          "confidence": 0.812,
+          "match_method": "embedding"
+        }
+      ]
     }
   },
   {
-    "content_id": 193180,
+    "content_id": "193180",
     "reference_id": 108098,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Христос",
     "media_type": "Text",
     "index_reference": "христос",
@@ -100,6 +221,57 @@
           "resource_code": "BiblicaStudyNotesKeyTerms",
           "label": "Мессия",
           "language": "rus"
+        }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Иисус",
+          "confidence": 0.8199,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua",
+          "type": "person",
+          "preferred_label": "Иисус",
+          "confidence": 0.8199,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.2",
+          "type": "person",
+          "preferred_label": "Иисус",
+          "confidence": 0.8199,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.3",
+          "type": "person",
+          "preferred_label": "Иисус",
+          "confidence": 0.8199,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.4",
+          "type": "person",
+          "preferred_label": "Иисус",
+          "confidence": 0.8199,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Joshua.5",
+          "type": "person",
+          "preferred_label": "Иисус",
+          "confidence": 0.8199,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:InChrist",
+          "type": "keyterm",
+          "preferred_label": "In Christ",
+          "confidence": 0.8062,
+          "match_method": "embedding"
         }
       ]
     }
