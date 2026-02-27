@@ -12,7 +12,232 @@
     "associations": {
       "passage": [],
       "resource": [],
-      "acai": []
+      "acai": [
+        {
+          "id": "person:Shamsherai",
+          "type": "person",
+          "preferred_label": "Shamsherai",
+          "confidence": 0.9708,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shitrai",
+          "type": "person",
+          "preferred_label": "Shitrai",
+          "confidence": 0.9518,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-nimrah",
+          "type": "place",
+          "preferred_label": "Beth-nimrah",
+          "confidence": 0.9342,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeatherai",
+          "type": "person",
+          "preferred_label": "Jeatherai",
+          "confidence": 0.9285,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ira",
+          "type": "person",
+          "preferred_label": "Ira",
+          "confidence": 0.9171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ira.2",
+          "type": "person",
+          "preferred_label": "Ira",
+          "confidence": 0.9171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ira.3",
+          "type": "person",
+          "preferred_label": "Ira",
+          "confidence": 0.9171,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah",
+          "type": "person",
+          "preferred_label": "Nethaniah",
+          "confidence": 0.9152,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah.2",
+          "type": "person",
+          "preferred_label": "Nethaniah",
+          "confidence": 0.9152,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah.3",
+          "type": "person",
+          "preferred_label": "Nethaniah",
+          "confidence": 0.9152,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah.4",
+          "type": "person",
+          "preferred_label": "Nethaniah",
+          "confidence": 0.9152,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-pazzez",
+          "type": "place",
+          "preferred_label": "Beth-pazzez",
+          "confidence": 0.9,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:EphraimGate",
+          "type": "place",
+          "preferred_label": "Ephraim Gate",
+          "confidence": 0.8894,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephraim",
+          "type": "person",
+          "preferred_label": "Ephraim",
+          "confidence": 0.8843,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim",
+          "type": "place",
+          "preferred_label": "Ephraim",
+          "confidence": 0.8843,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim.2",
+          "type": "place",
+          "preferred_label": "Ephraim",
+          "confidence": 0.8843,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kir-hareseth",
+          "type": "place",
+          "preferred_label": "Kir-hareseth",
+          "confidence": 0.8829,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Migdal-gad",
+          "type": "place",
+          "preferred_label": "Migdal-gad",
+          "confidence": 0.8813,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amminadib",
+          "type": "person",
+          "preferred_label": "Amminadib",
+          "confidence": 0.8603,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-diblathaim",
+          "type": "place",
+          "preferred_label": "Beth-diblathaim",
+          "confidence": 0.8516,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:PerazimMount",
+          "type": "place",
+          "preferred_label": "Mount Perazim",
+          "confidence": 0.8506,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Methushael",
+          "type": "person",
+          "preferred_label": "Methushael",
+          "confidence": 0.8449,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Amad",
+          "type": "place",
+          "preferred_label": "Amad",
+          "confidence": 0.8448,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heth",
+          "type": "person",
+          "preferred_label": "Heth",
+          "confidence": 0.8289,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hophra",
+          "type": "person",
+          "preferred_label": "Hophra",
+          "confidence": 0.8219,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-anath",
+          "type": "place",
+          "preferred_label": "Beth-anath",
+          "confidence": 0.8203,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amnon",
+          "type": "person",
+          "preferred_label": "Amnon",
+          "confidence": 0.8157,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amnon.2",
+          "type": "person",
+          "preferred_label": "Amnon",
+          "confidence": 0.8157,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zethan",
+          "type": "person",
+          "preferred_label": "Zethan",
+          "confidence": 0.8076,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibsam",
+          "type": "person",
+          "preferred_label": "Mibsam",
+          "confidence": 0.8048,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibsam.2",
+          "type": "person",
+          "preferred_label": "Mibsam",
+          "confidence": 0.8048,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:TerritoryOfEphraim",
+          "type": "place",
+          "preferred_label": "Territory of Ephraim",
+          "confidence": 0.803,
+          "match_method": "embedding"
+        }
+      ]
     }
   }
 ]
