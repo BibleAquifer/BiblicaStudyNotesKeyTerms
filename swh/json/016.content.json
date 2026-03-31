@@ -2,7 +2,7 @@
 {
 "content_id": "367652",
 "reference_id": 108161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Onesimo",
 "media_type": "Text",
 "index_reference": "onesimo",
@@ -16,9 +16,9 @@
 {
 "id": "person:Onesimus",
 "type": "person",
-"preferred_label": "Onesimo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Onesimo"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "367922",
 "reference_id": 108431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Othnieli",
 "media_type": "Text",
 "index_reference": "othnieli",
@@ -40,9 +40,9 @@
 {
 "id": "person:Othniel",
 "type": "person",
-"preferred_label": "Othnieli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Othnieli"
 }
 ]
 }

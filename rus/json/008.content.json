@@ -2,7 +2,7 @@
 {
 "content_id": "193391",
 "reference_id": 108309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Жезл Аарона",
 "media_type": "Text",
 "index_reference": "жезл аарона",
@@ -18,7 +18,7 @@
 {
 "content_id": "193169",
 "reference_id": 108087,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Жено",
 "media_type": "Text",
 "index_reference": "жено",
@@ -34,7 +34,7 @@
 {
 "content_id": "193436",
 "reference_id": 108354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Жертва повинности",
 "media_type": "Text",
 "index_reference": "жертва повинности",
@@ -50,7 +50,7 @@
 {
 "content_id": "193367",
 "reference_id": 108285,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Жертвенник",
 "media_type": "Text",
 "index_reference": "жертвенник",
@@ -60,13 +60,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Altar"
+}
+]
 }
 },
 {
 "content_id": "193338",
 "reference_id": 108256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Жертвоприношение",
 "media_type": "Text",
 "index_reference": "жертвоприношение",
@@ -82,7 +90,7 @@
 {
 "content_id": "193346",
 "reference_id": 108264,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Жертвоприношение детей",
 "media_type": "Text",
 "index_reference": "жертвоприношение детей",
@@ -98,7 +106,7 @@
 {
 "content_id": "193420",
 "reference_id": 108338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Жертвоприношение животных",
 "media_type": "Text",
 "index_reference": "жертвоприношение животных",
@@ -114,7 +122,7 @@
 {
 "content_id": "193435",
 "reference_id": 108353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Жертвы за грех",
 "media_type": "Text",
 "index_reference": "жертвы за грех",
@@ -130,7 +138,7 @@
 {
 "content_id": "193641",
 "reference_id": 108559,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Живая вода",
 "media_type": "Text",
 "index_reference": "живая вода",

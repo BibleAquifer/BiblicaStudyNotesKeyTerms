@@ -2,7 +2,7 @@
 {
 "content_id": "203623",
 "reference_id": 108488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Naaman",
 "media_type": "Text",
 "index_reference": "naaman",
@@ -14,39 +14,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Naaman",
-"type": "person",
-"preferred_label": "Naaman",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Naaman.2",
 "type": "person",
-"preferred_label": "Naaman",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Naaman"
 },
 {
 "id": "person:Naaman.3",
 "type": "person",
-"preferred_label": "Naaman",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Naaman"
 },
 {
 "id": "person:Naaman.4",
 "type": "person",
-"preferred_label": "Naaman",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Naaman"
 },
 {
-"id": "place:Naamah.2",
-"type": "place",
-"preferred_label": "Naamah",
-"confidence": 0.8795,
-"match_method": "embedding"
+"id": "person:Naaman",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naaman"
 }
 ]
 }
@@ -54,7 +47,7 @@
 {
 "content_id": "203551",
 "reference_id": 108416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nabi",
 "media_type": "Text",
 "index_reference": "nabi",
@@ -78,7 +71,7 @@
 {
 "content_id": "203685",
 "reference_id": 108550,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nabi palsu",
 "media_type": "Text",
 "index_reference": "nabi palsu",
@@ -102,7 +95,7 @@
 {
 "content_id": "203491",
 "reference_id": 108356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nadab and Abihu",
 "media_type": "Text",
 "index_reference": "nadab and abihu",
@@ -112,13 +105,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abihu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abihu"
+},
+{
+"id": "person:Nadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+},
+{
+"id": "person:Nadab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+},
+{
+"id": "person:Nadab.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+},
+{
+"id": "person:Nadab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+}
+]
 }
 },
 {
 "content_id": "203360",
 "reference_id": 108225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nama",
 "media_type": "Text",
 "index_reference": "nama",
@@ -130,18 +159,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Naam",
-"type": "person",
-"preferred_label": "Naam",
-"confidence": 0.9699,
-"match_method": "embedding"
-},
-{
 "id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "nama",
-"confidence": 0.8828,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "nama"
+},
+{
+"id": "person:Naam",
+"type": "person",
+"confidence": 0.964,
+"match_method": "embedding",
+"preferred_label": "Naam"
 }
 ]
 }
@@ -149,7 +178,7 @@
 {
 "content_id": "203605",
 "reference_id": 108470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Natan",
 "media_type": "Text",
 "index_reference": "natan",
@@ -161,46 +190,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nathan",
-"type": "person",
-"preferred_label": "Natan",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Nathan.2",
 "type": "person",
-"preferred_label": "Natan",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Natan"
 },
 {
 "id": "person:Nathan.3",
 "type": "person",
-"preferred_label": "Natan",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Natan"
 },
 {
 "id": "person:Nathan.4",
 "type": "person",
-"preferred_label": "Natan",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Natan"
 },
 {
 "id": "person:Nathan.5",
 "type": "person",
-"preferred_label": "Natan",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Natan"
 },
 {
 "id": "person:Nathan.6",
 "type": "person",
-"preferred_label": "Natan",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Natan"
+},
+{
+"id": "person:Nathan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Natan"
 }
 ]
 }
@@ -208,7 +237,7 @@
 {
 "content_id": "203206",
 "reference_id": 108071,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nazaret",
 "media_type": "Text",
 "index_reference": "nazaret",
@@ -222,9 +251,9 @@
 {
 "id": "place:Nazareth",
 "type": "place",
-"preferred_label": "Nazaret",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nazaret"
 }
 ]
 }
@@ -232,7 +261,7 @@
 {
 "content_id": "203519",
 "reference_id": 108384,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nazir",
 "media_type": "Text",
 "index_reference": "nazir",
@@ -242,13 +271,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazirites"
+}
+]
 }
 },
 {
 "content_id": "203636",
 "reference_id": 108501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nebukadnezar",
 "media_type": "Text",
 "index_reference": "nebukadnezar",
@@ -262,9 +299,9 @@
 {
 "id": "person:Nebuchadnezzar",
 "type": "person",
-"preferred_label": "Nebukadnezar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nebukadnezar"
 }
 ]
 }
@@ -272,7 +309,7 @@
 {
 "content_id": "203650",
 "reference_id": 108515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nehemia",
 "media_type": "Text",
 "index_reference": "nehemia",
@@ -284,25 +321,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nehemiah",
-"type": "person",
-"preferred_label": "Nehemia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Nehemiah.2",
 "type": "person",
-"preferred_label": "Nehemia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nehemia"
 },
 {
 "id": "person:Nehemiah.3",
 "type": "person",
-"preferred_label": "Nehemia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nehemia"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nehemia"
 }
 ]
 }
@@ -310,7 +347,7 @@
 {
 "content_id": "203209",
 "reference_id": 108074,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Neraka",
 "media_type": "Text",
 "index_reference": "neraka",
@@ -320,13 +357,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "203223",
 "reference_id": 108088,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nikodemus",
 "media_type": "Text",
 "index_reference": "nikodemus",
@@ -340,9 +385,9 @@
 {
 "id": "person:Nicodemus",
 "type": "person",
-"preferred_label": "Nikodemus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nikodemus"
 }
 ]
 }
@@ -350,7 +395,7 @@
 {
 "content_id": "203709",
 "reference_id": 108574,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Niniwe",
 "media_type": "Text",
 "index_reference": "niniwe",
@@ -362,18 +407,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Nineveh",
-"type": "group",
-"preferred_label": "Niniwe",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Nineveh",
 "type": "place",
-"preferred_label": "Niniwe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Niniwe"
 }
 ]
 }
@@ -381,7 +419,7 @@
 {
 "content_id": "203534",
 "reference_id": 108399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nubuat",
 "media_type": "Text",
 "index_reference": "nubuat",
@@ -397,7 +435,7 @@
 {
 "content_id": "203535",
 "reference_id": 108400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nubuat tentang Yesus",
 "media_type": "Text",
 "index_reference": "nubuat tentang yesus",
@@ -421,7 +459,7 @@
 {
 "content_id": "203365",
 "reference_id": 108230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nuh",
 "media_type": "Text",
 "index_reference": "nuh",
@@ -431,7 +469,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nuh"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nuh"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "203356",
 "reference_id": 108221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Habel",
 "media_type": "Text",
 "index_reference": "habel",
@@ -16,16 +16,16 @@
 {
 "id": "person:Abel",
 "type": "person",
-"preferred_label": "Habel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Habel"
 },
 {
 "id": "place:Abel",
 "type": "place",
-"preferred_label": "Habel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Habel"
 }
 ]
 }
@@ -33,7 +33,7 @@
 {
 "content_id": "203645",
 "reference_id": 108510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hagai",
 "media_type": "Text",
 "index_reference": "hagai",
@@ -47,16 +47,9 @@
 {
 "id": "person:Haggai",
 "type": "person",
-"preferred_label": "Hagai",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hegai",
-"type": "person",
-"preferred_label": "Hegai",
-"confidence": 0.8386,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hagai"
 }
 ]
 }
@@ -64,7 +57,7 @@
 {
 "content_id": "203394",
 "reference_id": 108259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hagar",
 "media_type": "Text",
 "index_reference": "hagar",
@@ -78,16 +71,9 @@
 {
 "id": "person:Hagar",
 "type": "person",
-"preferred_label": "Hagar",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Gahar",
-"type": "person",
-"preferred_label": "Gahar",
-"confidence": 0.8773,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hagar"
 }
 ]
 }
@@ -95,7 +81,7 @@
 {
 "content_id": "203222",
 "reference_id": 108087,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hai perempuan",
 "media_type": "Text",
 "index_reference": "hai perempuan",
@@ -111,7 +97,7 @@
 {
 "content_id": "203405",
 "reference_id": 108270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hak anak sulung",
 "media_type": "Text",
 "index_reference": "hak anak sulung",
@@ -127,7 +113,7 @@
 {
 "content_id": "203555",
 "reference_id": 108420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hakim",
 "media_type": "Text",
 "index_reference": "hakim",
@@ -141,9 +127,9 @@
 {
 "id": "keyterm:Judge",
 "type": "keyterm",
-"preferred_label": "hakim",
-"confidence": 0.8729,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "hakim"
 }
 ]
 }
@@ -151,7 +137,7 @@
 {
 "content_id": "203377",
 "reference_id": 108242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ham",
 "media_type": "Text",
 "index_reference": "ham",
@@ -161,13 +147,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ham"
+},
+{
+"id": "place:Ham.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ham"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amon"
+}
+]
 }
 },
 {
 "content_id": "203656",
 "reference_id": 108521,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haman",
 "media_type": "Text",
 "index_reference": "haman",
@@ -181,58 +189,9 @@
 {
 "id": "person:Haman",
 "type": "person",
-"preferred_label": "Haman",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman",
-"type": "person",
-"preferred_label": "Heman",
-"confidence": 0.8115,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.2",
-"type": "person",
-"preferred_label": "Heman",
-"confidence": 0.8115,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.3",
-"type": "person",
-"preferred_label": "Heman",
-"confidence": 0.8115,
-"match_method": "embedding"
-},
-{
-"id": "person:Hammath",
-"type": "person",
-"preferred_label": "Hamat",
-"confidence": 0.8049,
-"match_method": "embedding"
-},
-{
-"id": "place:Calneh",
-"type": "place",
-"preferred_label": "Hamat",
-"confidence": 0.8049,
-"match_method": "embedding"
-},
-{
-"id": "place:Hamath",
-"type": "place",
-"preferred_label": "Hamat",
-"confidence": 0.8049,
-"match_method": "embedding"
-},
-{
-"id": "place:Hammath",
-"type": "place",
-"preferred_label": "Hamat",
-"confidence": 0.8049,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Haman"
 }
 ]
 }
@@ -240,7 +199,7 @@
 {
 "content_id": "203679",
 "reference_id": 108544,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hamba Allah",
 "media_type": "Text",
 "index_reference": "hamba allah",
@@ -256,7 +215,7 @@
 {
 "content_id": "203585",
 "reference_id": 108450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hana",
 "media_type": "Text",
 "index_reference": "hana",
@@ -268,25 +227,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Anna",
-"type": "person",
-"preferred_label": "Hana",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Hannah",
 "type": "person",
-"preferred_label": "Hana",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Hena",
-"type": "place",
-"preferred_label": "Hena",
-"confidence": 0.8227,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hana"
 }
 ]
 }
@@ -294,7 +239,7 @@
 {
 "content_id": "203501",
 "reference_id": 108366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari Pendamaian",
 "media_type": "Text",
 "index_reference": "hari pendamaian",
@@ -318,7 +263,7 @@
 {
 "content_id": "203190",
 "reference_id": 108055,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari Penghakiman",
 "media_type": "Text",
 "index_reference": "hari penghakiman",
@@ -342,7 +287,7 @@
 {
 "content_id": "203512",
 "reference_id": 108377,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari Raya Pondok Daun",
 "media_type": "Text",
 "index_reference": "hari raya pondok daun",
@@ -358,7 +303,7 @@
 {
 "content_id": "203658",
 "reference_id": 108523,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari Raya Purim",
 "media_type": "Text",
 "index_reference": "hari raya purim",
@@ -374,7 +319,7 @@
 {
 "content_id": "203508",
 "reference_id": 108373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari Raya Roti Tidak Beragi",
 "media_type": "Text",
 "index_reference": "hari raya roti tidak beragi",
@@ -390,7 +335,7 @@
 {
 "content_id": "203511",
 "reference_id": 108376,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari Raya Sangkakala",
 "media_type": "Text",
 "index_reference": "hari raya sangkakala",
@@ -406,7 +351,7 @@
 {
 "content_id": "203348",
 "reference_id": 108213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari Sabat",
 "media_type": "Text",
 "index_reference": "hari sabat",
@@ -422,7 +367,7 @@
 {
 "content_id": "203307",
 "reference_id": 108172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari Tuhan",
 "media_type": "Text",
 "index_reference": "hari tuhan",
@@ -438,7 +383,7 @@
 {
 "content_id": "203706",
 "reference_id": 108571,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari Tuhan",
 "media_type": "Text",
 "index_reference": "hari tuhan",
@@ -469,10 +414,10 @@
 {
 "content_id": "203671",
 "reference_id": 108536,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hari-hari terakhir",
 "media_type": "Text",
-"index_reference": "hari-hari terakhir",
+"index_reference": "harihari terakhir",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Suatu cara untuk berbicara tentang suatu masa di masa depan. Beberapa nabi dalam Alkitab menggambarkannya sebagai waktu ketika Allah akan bertindak. Dia akan mengambil tindakan untuk memastikan bahwa semua orang menghormati-Nya. Penulis-penulis lain di dalam Alkitab menggambarkannya sebagai masa penderitaan. Itu akan menjadi waktu sebelum Allah menghakimi dunia. Orang-orang akan melakukan banyak hal jahat pada masa itu. Beberapa penulis Perjanjian Baru menggambarkan masa setelah kebangkitan Yesus sebagai hari-hari terakhir. Masa itu dianggap sebagai masa di mana gereja tetap ada sampai Yesus datang kembali ke bumi.</p>",
@@ -485,7 +430,7 @@
 {
 "content_id": "203441",
 "reference_id": 108306,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Harun",
 "media_type": "Text",
 "index_reference": "harun",
@@ -514,9 +459,9 @@
 {
 "id": "person:Aaron",
 "type": "person",
-"preferred_label": "Harun",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Harun"
 }
 ]
 }
@@ -524,7 +469,7 @@
 {
 "content_id": "203509",
 "reference_id": 108374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hasil panen pertama",
 "media_type": "Text",
 "index_reference": "hasil panen pertama ",
@@ -540,7 +485,7 @@
 {
 "content_id": "203554",
 "reference_id": 108419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hati",
 "media_type": "Text",
 "index_reference": "hati",
@@ -554,9 +499,9 @@
 {
 "id": "keyterm:Heart",
 "type": "keyterm",
-"preferred_label": "hati",
-"confidence": 0.8737,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "hati"
 }
 ]
 }
@@ -564,7 +509,7 @@
 {
 "content_id": "203340",
 "reference_id": 108205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hawa",
 "media_type": "Text",
 "index_reference": "hawa",
@@ -578,9 +523,9 @@
 {
 "id": "person:Eve",
 "type": "person",
-"preferred_label": "Hawa",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hawa"
 }
 ]
 }
@@ -588,7 +533,7 @@
 {
 "content_id": "203363",
 "reference_id": 108228,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Henokh",
 "media_type": "Text",
 "index_reference": "henokh",
@@ -600,32 +545,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Enoch",
-"type": "person",
-"preferred_label": "Henokh",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Enoch.2",
 "type": "person",
-"preferred_label": "Henokh",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Henokh"
 },
 {
-"id": "person:Hanoch",
+"id": "person:Enoch",
 "type": "person",
-"preferred_label": "Henokh",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanoch.2",
-"type": "person",
-"preferred_label": "Henokh",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Henokh"
 }
 ]
 }
@@ -633,7 +564,7 @@
 {
 "content_id": "203245",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Agripa I",
 "media_type": "Text",
 "index_reference": "herodes agripa i",
@@ -643,13 +574,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Agripa"
+}
+]
 }
 },
 {
 "content_id": "203274",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Agripa II",
 "media_type": "Text",
 "index_reference": "herodes agripa ii",
@@ -659,13 +598,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodes"
+}
+]
 }
 },
 {
 "content_id": "203693",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Agung",
 "media_type": "Text",
 "index_reference": "herodes agung",
@@ -675,13 +622,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodes"
+}
+]
 }
 },
 {
 "content_id": "203192",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Antipas",
 "media_type": "Text",
 "index_reference": "herodes antipas",
@@ -691,13 +646,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodes"
+}
+]
 }
 },
 {
 "content_id": "203197",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodian",
 "media_type": "Text",
 "index_reference": "herodian",
@@ -709,25 +672,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Herodion",
-"type": "person",
-"preferred_label": "Herodion",
-"confidence": 0.9091,
-"match_method": "embedding"
-},
-{
-"id": "person:Herodias",
-"type": "person",
-"preferred_label": "Herodias",
-"confidence": 0.8661,
-"match_method": "embedding"
-},
-{
 "id": "group:Herodian",
 "type": "group",
-"preferred_label": "Herodians",
-"confidence": 0.8174,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodians"
 }
 ]
 }
@@ -735,7 +684,7 @@
 {
 "content_id": "203179",
 "reference_id": 108044,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hidup kudus",
 "media_type": "Text",
 "index_reference": "hidup kudus",
@@ -751,7 +700,7 @@
 {
 "content_id": "203704",
 "reference_id": 108569,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hidup yang kekal",
 "media_type": "Text",
 "index_reference": "hidup yang kekal",
@@ -767,7 +716,7 @@
 {
 "content_id": "203460",
 "reference_id": 108325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hikmat",
 "media_type": "Text",
 "index_reference": "hikmat",
@@ -779,11 +728,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:SoundWisdom",
-"type": "keyterm",
-"preferred_label": "hikmat",
-"confidence": 0.8419,
-"match_method": "embedding"
+"id": "person:Wisdom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
 }
 ]
 }
@@ -791,7 +740,7 @@
 {
 "content_id": "203631",
 "reference_id": 108496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hizkia",
 "media_type": "Text",
 "index_reference": "hizkia",
@@ -803,39 +752,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hezekiah",
-"type": "person",
-"preferred_label": "Hizkia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Hezekiah.2",
 "type": "person",
-"preferred_label": "Hizkia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hizkia"
 },
 {
 "id": "person:Hezekiah.3",
 "type": "person",
-"preferred_label": "Hizkia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hizkia"
 },
 {
 "id": "person:Hezekiah.4",
 "type": "person",
-"preferred_label": "Hizkia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hizkia"
 },
 {
-"id": "person:Hizkiah",
+"id": "person:Hezekiah",
 "type": "person",
-"preferred_label": "Hizkia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hizkia"
 }
 ]
 }
@@ -843,7 +785,7 @@
 {
 "content_id": "203522",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hobab",
 "media_type": "Text",
 "index_reference": "hobab",
@@ -857,9 +799,9 @@
 {
 "id": "person:Hobab",
 "type": "person",
-"preferred_label": "Hobab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hobab"
 }
 ]
 }
@@ -867,7 +809,7 @@
 {
 "content_id": "203705",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hosea",
 "media_type": "Text",
 "index_reference": "hosea",
@@ -881,30 +823,9 @@
 {
 "id": "person:Hosea",
 "type": "person",
-"preferred_label": "Hosea",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hoshea",
-"type": "person",
-"preferred_label": "Hosea",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hoshea.2",
-"type": "person",
-"preferred_label": "Hosea",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hoshea.3",
-"type": "person",
-"preferred_label": "Hosea",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hosea"
 }
 ]
 }
@@ -912,7 +833,7 @@
 {
 "content_id": "203282",
 "reference_id": 108147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hukum Kristus",
 "media_type": "Text",
 "index_reference": "hukum kristus",
@@ -928,7 +849,7 @@
 {
 "content_id": "203470",
 "reference_id": 108335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hukum Musa",
 "media_type": "Text",
 "index_reference": "hukum musa",
@@ -959,7 +880,7 @@
 {
 "content_id": "203205",
 "reference_id": 108070,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hukum Yahudi",
 "media_type": "Text",
 "index_reference": "hukum yahudi",
@@ -990,10 +911,10 @@
 {
 "content_id": "203497",
 "reference_id": 108362,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hukum-hukum dalam Imamat",
 "media_type": "Text",
-"index_reference": "hukum-hukum dalam imamat",
+"index_reference": "hukumhukum dalam imamat",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Allah memberikan hukum kepada Musa dan Harun tentang bagaimana orang Israel harus hidup bersama. Banyak di antaranya merupakan aturan umum tentang hal-hal yang mungkin terjadi pada masa itu. Hukum-hukum tersebut membantu umat belajar tentang siapa Allah. Hukum-hukum tersebut membantu mereka untuk membuat keputusan yang bijaksana tentang hal-hal sehari-hari. Umat Allah harus membuat semua keputusan mereka berdasarkan siapa Allah itu.</p>",

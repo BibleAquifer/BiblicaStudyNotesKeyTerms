@@ -1,24 +1,8 @@
 [
 {
-"content_id": "769204",
-"reference_id": 108494,
-"version": "1.0.2",
-"title": "v.Chr.",
-"media_type": "Text",
-"index_reference": "v.chr.",
-"language": "nld",
-"review_level": "None",
-"content": "<p>Een manier om alle jaren te beschrijven voordat Jezus werd geboren is door v.Chr. te gebruiken, wat &quot;voor Christus&quot; betekent.</p>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
-}
-},
-{
 "content_id": "775212",
 "reference_id": 108312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vader",
 "media_type": "Text",
 "index_reference": "vader",
@@ -28,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "775213",
 "reference_id": 108271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vaderlijke zegen",
 "media_type": "Text",
 "index_reference": "vaderlijke zegen",
@@ -50,7 +42,7 @@
 {
 "content_id": "775207",
 "reference_id": 108284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Valse goden",
 "media_type": "Text",
 "index_reference": "valse goden",
@@ -66,7 +58,7 @@
 {
 "content_id": "775208",
 "reference_id": 108550,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Valse profeet",
 "media_type": "Text",
 "index_reference": "valse profeet",
@@ -82,7 +74,7 @@
 {
 "content_id": "775211",
 "reference_id": 108456,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vasten",
 "media_type": "Text",
 "index_reference": "vasten",
@@ -96,9 +88,25 @@
 }
 },
 {
+"content_id": "769204",
+"reference_id": 108494,
+"version": "1.0.4",
+"title": "v.Chr.",
+"media_type": "Text",
+"index_reference": "vchr",
+"language": "nld",
+"review_level": "None",
+"content": "<p>Een manier om alle jaren te beschrijven voordat Jezus werd geboren is door v.Chr. te gebruiken, wat &quot;voor Christus&quot; betekent.</p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
 "content_id": "769681",
 "reference_id": 108237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Verbond",
 "media_type": "Text",
 "index_reference": "verbond",
@@ -108,13 +116,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Covenant"
+}
+]
 }
 },
 {
 "content_id": "769684",
 "reference_id": 108253,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Verbond met Abraham",
 "media_type": "Text",
 "index_reference": "verbond met abraham",
@@ -130,7 +146,7 @@
 {
 "content_id": "769685",
 "reference_id": 108466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Verbond met David",
 "media_type": "Text",
 "index_reference": "verbond met david",
@@ -154,7 +170,7 @@
 {
 "content_id": "769686",
 "reference_id": 108238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Verbond met Noach",
 "media_type": "Text",
 "index_reference": "verbond met noach",
@@ -170,7 +186,7 @@
 {
 "content_id": "769683",
 "reference_id": 108380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Verbondsvloeken",
 "media_type": "Text",
 "index_reference": "verbondsvloeken",
@@ -186,7 +202,7 @@
 {
 "content_id": "769682",
 "reference_id": 108379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Verbondszegen",
 "media_type": "Text",
 "index_reference": "verbondszegen",
@@ -202,7 +218,7 @@
 {
 "content_id": "775221",
 "reference_id": 108281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vergeven",
 "media_type": "Text",
 "index_reference": "vergeven",
@@ -212,13 +228,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Forgive"
+}
+]
 }
 },
 {
 "content_id": "769223",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Verlossen",
 "media_type": "Text",
 "index_reference": "verlossen",
@@ -234,7 +258,7 @@
 {
 "content_id": "769760",
 "reference_id": 108314,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vernietigende engel",
 "media_type": "Text",
 "index_reference": "vernietigende engel",
@@ -250,7 +274,7 @@
 {
 "content_id": "761344",
 "reference_id": 108367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Verzoenen",
 "media_type": "Text",
 "index_reference": "verzoenen",
@@ -274,7 +298,7 @@
 {
 "content_id": "775222",
 "reference_id": 108556,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vier levende wezens",
 "media_type": "Text",
 "index_reference": "vier levende wezens",
@@ -290,7 +314,7 @@
 {
 "content_id": "775223",
 "reference_id": 108352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vriendschapsoffers",
 "media_type": "Text",
 "index_reference": "vriendschapsoffers",
@@ -306,7 +330,7 @@
 {
 "content_id": "775224",
 "reference_id": 108154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vrucht van de Heilige Geest",
 "media_type": "Text",
 "index_reference": "vrucht van de heilige geest",

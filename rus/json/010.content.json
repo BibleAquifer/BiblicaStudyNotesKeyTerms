@@ -2,7 +2,7 @@
 {
 "content_id": "193518",
 "reference_id": 108436,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иаиль",
 "media_type": "Text",
 "index_reference": "иаиль",
@@ -16,184 +16,33 @@
 {
 "id": "person:Jael",
 "type": "person",
-"preferred_label": "Иаили",
-"confidence": 0.9302,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иаили"
+}
+]
+}
 },
 {
-"id": "person:Joel",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
+"content_id": "193124",
+"reference_id": 108042,
+"version": "1.0.4",
+"title": "Иаков, апостол",
+"media_type": "Text",
+"index_reference": "иаков апостол",
+"language": "rus",
+"review_level": "None",
+"content": "<p>Один из двенадцати апостолов Иисуса Христа, а также один из трёх Его самых близких учеников. У Иакова был брат по имени Иоанн, и их отцом был Зеведей. Иисус называл Иакова и Иоанна <span>«сынами грома»</span>. Иаков был первым апостолом, казнённым за веру в Иисуса.</p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": [
 {
-"id": "person:Joel.10",
+"id": "person:James",
 "type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.11",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.12",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.13",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.14",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.2",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.3",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.4",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.5",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.6",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.7",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.8",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Joel.9",
-"type": "person",
-"preferred_label": "Иоиль",
-"confidence": 0.9142,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeiel.2",
-"type": "person",
-"preferred_label": "Иеиел",
-"confidence": 0.9013,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeiel.3",
-"type": "person",
-"preferred_label": "Иеиел",
-"confidence": 0.9013,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeiel.4",
-"type": "person",
-"preferred_label": "Иеиел",
-"confidence": 0.9013,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeiel.5",
-"type": "person",
-"preferred_label": "Иеиел",
-"confidence": 0.9013,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeiel.6",
-"type": "person",
-"preferred_label": "Иеиел",
-"confidence": 0.9013,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeiel.7",
-"type": "person",
-"preferred_label": "Иеиел",
-"confidence": 0.9013,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeiel.8",
-"type": "person",
-"preferred_label": "Иеиел",
-"confidence": 0.9013,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeuel",
-"type": "person",
-"preferred_label": "Иеиел",
-"confidence": 0.9013,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeuel.2",
-"type": "person",
-"preferred_label": "Иеиел",
-"confidence": 0.9013,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeuel.3",
-"type": "person",
-"preferred_label": "Иеиел",
-"confidence": 0.9013,
-"match_method": "embedding"
-},
-{
-"id": "person:Jaalah",
-"type": "person",
-"preferred_label": "Иаала",
-"confidence": 0.8385,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иаков"
 }
 ]
 }
@@ -201,7 +50,7 @@
 {
 "content_id": "193361",
 "reference_id": 108279,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иаков боролся",
 "media_type": "Text",
 "index_reference": "иаков боролся",
@@ -215,44 +64,64 @@
 }
 },
 {
-"content_id": "193124",
-"reference_id": 108042,
-"version": "1.0.2",
-"title": "Иаков, апостол",
-"media_type": "Text",
-"index_reference": "иаков, апостол",
-"language": "rus",
-"review_level": "None",
-"content": "<p>Один из двенадцати апостолов Иисуса Христа, а также один из трёх Его самых близких учеников. У Иакова был брат по имени Иоанн, и их отцом был Зеведей. Иисус называл Иакова и Иоанна <span>«сынами грома»</span>. Иаков был первым апостолом, казнённым за веру в Иисуса.</p>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
-}
-},
-{
 "content_id": "193201",
 "reference_id": 108119,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иаков, брат Господа",
 "media_type": "Text",
-"index_reference": "иаков, брат господа",
+"index_reference": "иаков брат господа",
 "language": "rus",
 "review_level": "None",
 "content": "<p><span>Один из братьев Иисуса. Сначала он не верил, что Иисус был Мессией. После того как Иисус воскрес из мёртвых, Он явился Иакову. Иаков уверовал в Иисуса и стал главой церкви в Иерусалиме. Иаков является автором одного из новозаветных посланий. Его не следует путать с Иаковом, учеником Иисуса, который впоследствии стал апостолом.</span></p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иаков"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иаков"
+},
+{
+"id": "person:James.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иаков"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иоанн"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иаков"
+}
+]
 }
 },
 {
 "content_id": "193350",
 "reference_id": 108268,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иаков, патриарх",
 "media_type": "Text",
-"index_reference": "иаков, патриарх",
+"index_reference": "иаков патриарх",
 "language": "rus",
 "review_level": "None",
 "content": "<p><span>Младший сын Исаака и Ревекки, а также внук Авраама. Иаков был братом-близнецом Исава. Впоследствии он получил имя Израиль. Двенадцать</span> колен Израиля были названы в честь его сыновей и внуков (<span data-bnType=\"resourceReference\" data-resourceId=\"108286\" data-resourceType=\"BiblicaStudyNotesKeyTerms\">12 колен</span>).</p>",
@@ -267,13 +136,28 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Jacob.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иаков"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Израиль"
+}
+]
 }
 },
 {
 "content_id": "193322",
 "reference_id": 108240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иафет",
 "media_type": "Text",
 "index_reference": "иафет",
@@ -287,16 +171,9 @@
 {
 "id": "person:Japheth",
 "type": "person",
-"preferred_label": "Иафет",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jetheth",
-"type": "person",
-"preferred_label": "Иетеф",
-"confidence": 0.888,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иафет"
 }
 ]
 }
@@ -304,7 +181,7 @@
 {
 "content_id": "193366",
 "reference_id": 108284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Идолы",
 "media_type": "Text",
 "index_reference": "идолы",
@@ -320,7 +197,7 @@
 {
 "content_id": "193586",
 "reference_id": 108504,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иевусеи",
 "media_type": "Text",
 "index_reference": "иевусеи",
@@ -330,13 +207,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jebusites"
+}
+]
 }
 },
 {
 "content_id": "193567",
 "reference_id": 108485,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иезавель",
 "media_type": "Text",
 "index_reference": "иезавель",
@@ -350,9 +235,9 @@
 {
 "id": "person:Jezebel",
 "type": "person",
-"preferred_label": "Иезавель",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иезавель"
 }
 ]
 }
@@ -360,7 +245,7 @@
 {
 "content_id": "193637",
 "reference_id": 108555,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иезекииль",
 "media_type": "Text",
 "index_reference": "иезекииль",
@@ -374,23 +259,9 @@
 {
 "id": "person:Ezekiel",
 "type": "person",
-"preferred_label": "Иезекииль",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehezkel",
-"type": "person",
-"preferred_label": "Иезекииль",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Jekabzeel",
-"type": "place",
-"preferred_label": "Иекавцеил",
-"confidence": 0.8168,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иезекииль"
 }
 ]
 }
@@ -398,7 +269,7 @@
 {
 "content_id": "193589",
 "reference_id": 108507,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иеремия",
 "media_type": "Text",
 "index_reference": "иеремия",
@@ -410,60 +281,60 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jeremiah",
-"type": "person",
-"preferred_label": "Иеремия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Jeremiah.2",
 "type": "person",
-"preferred_label": "Иеремия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иеремия"
 },
 {
 "id": "person:Jeremiah.3",
 "type": "person",
-"preferred_label": "Иеремия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иеремия"
 },
 {
 "id": "person:Jeremiah.4",
 "type": "person",
-"preferred_label": "Иеремия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иеремия"
 },
 {
 "id": "person:Jeremiah.5",
 "type": "person",
-"preferred_label": "Иеремия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иеремия"
 },
 {
 "id": "person:Jeremiah.6",
 "type": "person",
-"preferred_label": "Иеремия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иеремия"
 },
 {
 "id": "person:Jeremiah.7",
 "type": "person",
-"preferred_label": "Иеремия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иеремия"
 },
 {
 "id": "person:Jeremiah.8",
 "type": "person",
-"preferred_label": "Иеремия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иеремия"
+},
+{
+"id": "person:Jeremiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иеремия"
 }
 ]
 }
@@ -471,7 +342,7 @@
 {
 "content_id": "193506",
 "reference_id": 108424,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иерихон",
 "media_type": "Text",
 "index_reference": "иерихон",
@@ -483,11 +354,18 @@
 "resource": [],
 "acai": [
 {
+"id": "place:Jericho.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jericho"
+},
+{
 "id": "place:Jericho",
 "type": "place",
-"preferred_label": "Иерихон",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иерихон"
 }
 ]
 }
@@ -495,7 +373,7 @@
 {
 "content_id": "193558",
 "reference_id": 108476,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иеровоам",
 "media_type": "Text",
 "index_reference": "иеровоам",
@@ -507,18 +385,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jeroboam",
-"type": "person",
-"preferred_label": "Иеровоам",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Jeroboam.2",
 "type": "person",
-"preferred_label": "Иеровоам",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иеровоам"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иеровоам"
 }
 ]
 }
@@ -526,7 +404,7 @@
 {
 "content_id": "193546",
 "reference_id": 108464,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иерусалим",
 "media_type": "Text",
 "index_reference": "иерусалим",
@@ -540,9 +418,9 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Иерусалим",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иерусалим"
 }
 ]
 }
@@ -550,7 +428,7 @@
 {
 "content_id": "193520",
 "reference_id": 108438,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иеффай",
 "media_type": "Text",
 "index_reference": "иеффай",
@@ -564,23 +442,9 @@
 {
 "id": "person:Jephthah",
 "type": "person",
-"preferred_label": "Иеффай",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Iphtah",
-"type": "place",
-"preferred_label": "Иеффай",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Ephrathah",
-"type": "person",
-"preferred_label": "Ефрафа",
-"confidence": 0.8025,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иеффай"
 }
 ]
 }
@@ -588,7 +452,7 @@
 {
 "content_id": "193491",
 "reference_id": 108409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Изгнание",
 "media_type": "Text",
 "index_reference": "изгнание",
@@ -604,7 +468,7 @@
 {
 "content_id": "193344",
 "reference_id": 108262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Измаил",
 "media_type": "Text",
 "index_reference": "измаил",
@@ -616,53 +480,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ishmael",
-"type": "person",
-"preferred_label": "Исмаил",
-"confidence": 0.8651,
-"match_method": "embedding"
-},
-{
 "id": "person:Ishmael.2",
 "type": "person",
-"preferred_label": "Исмаил",
-"confidence": 0.8651,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Исмаил"
 },
 {
 "id": "person:Ishmael.3",
 "type": "person",
-"preferred_label": "Исмаил",
-"confidence": 0.8651,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Исмаил"
 },
 {
 "id": "person:Ishmael.4",
 "type": "person",
-"preferred_label": "Исмаил",
-"confidence": 0.8651,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Исмаил"
 },
 {
 "id": "person:Ishmael.5",
 "type": "person",
-"preferred_label": "Исмаил",
-"confidence": 0.8651,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Исмаил"
 },
 {
 "id": "person:Ishmael.6",
 "type": "person",
-"preferred_label": "Исмаил",
-"confidence": 0.8651,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Исмаил"
 },
 {
-"id": "person:Jemuel",
+"id": "person:Ishmael",
 "type": "person",
-"preferred_label": "Иемуил",
-"confidence": 0.8086,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Исмаил"
 }
 ]
 }
@@ -670,7 +527,7 @@
 {
 "content_id": "193362",
 "reference_id": 108280,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Израиль",
 "media_type": "Text",
 "index_reference": "израиль",
@@ -692,16 +549,16 @@
 {
 "id": "person:Israel",
 "type": "person",
-"preferred_label": "Израиль",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Израиль"
 },
 {
 "id": "place:Israel",
 "type": "place",
-"preferred_label": "Israel",
-"confidence": 0.8299,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
 }
 ]
 }
@@ -709,7 +566,7 @@
 {
 "content_id": "193301",
 "reference_id": 108219,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иисус",
 "media_type": "Text",
 "index_reference": "иисус",
@@ -723,44 +580,23 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "Иисус",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иисус"
 },
 {
-"id": "person:Joshua",
+"id": "person:Justus.3",
 "type": "person",
-"preferred_label": "Иисус",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иуст"
 },
 {
-"id": "person:Joshua.2",
+"id": "person:Barabbas",
 "type": "person",
-"preferred_label": "Иисус",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Joshua.3",
-"type": "person",
-"preferred_label": "Иисус",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Joshua.4",
-"type": "person",
-"preferred_label": "Иисус",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Joshua.5",
-"type": "person",
-"preferred_label": "Иисус",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Варавва"
 }
 ]
 }
@@ -768,7 +604,7 @@
 {
 "content_id": "193590",
 "reference_id": 108508,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иисус и Зоровавель",
 "media_type": "Text",
 "index_reference": "иисус и зоровавель",
@@ -778,13 +614,63 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+},
+{
+"id": "person:Joshua.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+},
+{
+"id": "person:Joshua.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+},
+{
+"id": "person:Joshua.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+},
+{
+"id": "person:Joshua",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+},
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Зоровавель"
+},
+{
+"id": "person:Zerubbabel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Зоровавель"
+}
+]
 }
 },
 {
 "content_id": "193471",
 "reference_id": 108389,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иисус Навин",
 "media_type": "Text",
 "index_reference": "иисус навин",
@@ -794,13 +680,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+},
+{
+"id": "person:Joshua.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+},
+{
+"id": "person:Joshua.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+},
+{
+"id": "person:Joshua.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+},
+{
+"id": "person:Joshua",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+}
+]
 }
 },
 {
 "content_id": "193197",
 "reference_id": 108115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Икония",
 "media_type": "Text",
 "index_reference": "икония",
@@ -814,9 +736,9 @@
 {
 "id": "place:Iconium",
 "type": "place",
-"preferred_label": "Икония",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Икония"
 }
 ]
 }
@@ -824,7 +746,7 @@
 {
 "content_id": "193533",
 "reference_id": 108451,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Илий",
 "media_type": "Text",
 "index_reference": "илий",
@@ -838,16 +760,16 @@
 {
 "id": "person:Eli",
 "type": "person",
-"preferred_label": "Илий",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Илий"
 },
 {
-"id": "person:Heli",
-"type": "person",
-"preferred_label": "Илия",
-"confidence": 0.8239,
-"match_method": "embedding"
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -855,7 +777,7 @@
 {
 "content_id": "193568",
 "reference_id": 108486,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Илия",
 "media_type": "Text",
 "index_reference": "илия",
@@ -867,46 +789,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Heli",
-"type": "person",
-"preferred_label": "Илия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Elijah",
-"type": "person",
-"preferred_label": "Елия",
-"confidence": 0.8272,
-"match_method": "embedding"
-},
-{
 "id": "person:Elijah.2",
 "type": "person",
-"preferred_label": "Елия",
-"confidence": 0.8272,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Елия"
 },
 {
 "id": "person:Elijah.3",
 "type": "person",
-"preferred_label": "Елия",
-"confidence": 0.8272,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Елия"
 },
 {
 "id": "person:Elijah.4",
 "type": "person",
-"preferred_label": "Елия",
-"confidence": 0.8272,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Елия"
 },
 {
-"id": "person:Eli",
+"id": "person:Elijah",
 "type": "person",
-"preferred_label": "Илий",
-"confidence": 0.8239,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Елия"
 }
 ]
 }
@@ -914,7 +822,7 @@
 {
 "content_id": "193307",
 "reference_id": 108225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Имя",
 "media_type": "Text",
 "index_reference": "имя",
@@ -924,13 +832,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Name"
+},
+{
+"id": "person:Naam",
+"type": "person",
+"confidence": 0.964,
+"match_method": "embedding",
+"preferred_label": "Наам"
+}
+]
 }
 },
 {
 "content_id": "193545",
 "reference_id": 108463,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иоав",
 "media_type": "Text",
 "index_reference": "иоав",
@@ -942,130 +865,84 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Joab",
-"type": "person",
-"preferred_label": "Иоав",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Joab.2",
 "type": "person",
-"preferred_label": "Иоав",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иоав"
 },
 {
 "id": "person:Joab.3",
 "type": "person",
-"preferred_label": "Иоав",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иоав"
 },
 {
 "id": "person:Joab.4",
 "type": "person",
-"preferred_label": "Иоав",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иоав"
 },
 {
-"id": "person:Joah",
+"id": "person:Joab",
 "type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8951,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иоав"
+}
+]
+}
 },
 {
-"id": "person:Joah.2",
+"content_id": "193624",
+"reference_id": 108542,
+"version": "1.0.4",
+"title": "Иоанн, апостол",
+"media_type": "Text",
+"index_reference": "иоанн апостол",
+"language": "rus",
+"review_level": "None",
+"content": "<p><span>Иоанн является автором </span>Евангелия от Иоанна<span>, а также Первого, Второго и Третьего п</span>осланий Иоанна<span>. Он также написал книгу </span>Откровение<span>. Иоанн был одним из двенадцати апостолов Иисуса Христа, а также одним из трёх Его самых близких учеников. В Евангелии от Иоанна о нём говорится как об ученике, которого любил Иисус. Его братом был Иаков, и их отцом — Зеведей. Иисус назвал Иакова и Иоанна </span>«<span>сынами грома</span>»<span>.</span></p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": [
+{
+"id": "person:John.2",
 "type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8951,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иоанн"
 },
 {
-"id": "person:Joah.3",
+"id": "person:John.3",
 "type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8951,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иоанн"
 },
 {
-"id": "person:Joah.4",
+"id": "person:John.4",
 "type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8951,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иоанн"
 },
 {
-"id": "person:Joah.5",
+"id": "person:Mark",
 "type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8951,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Марк"
 },
 {
-"id": "person:Joah.6",
+"id": "person:John",
 "type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8951,
-"match_method": "embedding"
-},
-{
-"id": "person:Joash",
-"type": "person",
-"preferred_label": "Иоас",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Joash.2",
-"type": "person",
-"preferred_label": "Иоас",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Joash.3",
-"type": "person",
-"preferred_label": "Иоас",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Joash.4",
-"type": "person",
-"preferred_label": "Иоас",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Joash.5",
-"type": "person",
-"preferred_label": "Иоас",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Joash.6",
-"type": "person",
-"preferred_label": "Иоас",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Joash.7",
-"type": "person",
-"preferred_label": "Иоас",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Joash.8",
-"type": "person",
-"preferred_label": "Иоас",
-"confidence": 0.8327,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иоанн"
 }
 ]
 }
@@ -1073,7 +950,7 @@
 {
 "content_id": "193662",
 "reference_id": 108580,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иоанн Креститель",
 "media_type": "Text",
 "index_reference": "иоанн креститель",
@@ -1091,29 +968,21 @@
 "language": "rus"
 }
 ],
-"acai": []
-}
-},
+"acai": [
 {
-"content_id": "193624",
-"reference_id": 108542,
-"version": "1.0.2",
-"title": "Иоанн, апостол",
-"media_type": "Text",
-"index_reference": "иоанн, апостол",
-"language": "rus",
-"review_level": "None",
-"content": "<p><span>Иоанн является автором </span>Евангелия от Иоанна<span>, а также Первого, Второго и Третьего п</span>осланий Иоанна<span>. Он также написал книгу </span>Откровение<span>. Иоанн был одним из двенадцати апостолов Иисуса Христа, а также одним из трёх Его самых близких учеников. В Евангелии от Иоанна о нём говорится как об ученике, которого любил Иисус. Его братом был Иаков, и их отцом — Зеведей. Иисус назвал Иакова и Иоанна </span>«<span>сынами грома</span>»<span>.</span></p>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
+"id": "person:John",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иоанн"
+}
+]
 }
 },
 {
 "content_id": "193573",
 "reference_id": 108491,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иоас",
 "media_type": "Text",
 "index_reference": "иоас",
@@ -1125,165 +994,60 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Joash",
-"type": "person",
-"preferred_label": "Иоас",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Joash.2",
 "type": "person",
-"preferred_label": "Иоас",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иоас"
 },
 {
 "id": "person:Joash.3",
 "type": "person",
-"preferred_label": "Иоас",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иоас"
 },
 {
 "id": "person:Joash.4",
 "type": "person",
-"preferred_label": "Иоас",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иоас"
 },
 {
 "id": "person:Joash.5",
 "type": "person",
-"preferred_label": "Иоас",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иоас"
 },
 {
 "id": "person:Joash.6",
 "type": "person",
-"preferred_label": "Иоас",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иоас"
 },
 {
 "id": "person:Joash.7",
 "type": "person",
-"preferred_label": "Иоас",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иоас"
 },
 {
 "id": "person:Joash.8",
 "type": "person",
-"preferred_label": "Иоас",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иоас"
 },
 {
-"id": "person:Joah",
+"id": "person:Joash",
 "type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8787,
-"match_method": "embedding"
-},
-{
-"id": "person:Joah.2",
-"type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8787,
-"match_method": "embedding"
-},
-{
-"id": "person:Joah.3",
-"type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8787,
-"match_method": "embedding"
-},
-{
-"id": "person:Joah.4",
-"type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8787,
-"match_method": "embedding"
-},
-{
-"id": "person:Joah.5",
-"type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8787,
-"match_method": "embedding"
-},
-{
-"id": "person:Joah.6",
-"type": "person",
-"preferred_label": "Иоах",
-"confidence": 0.8787,
-"match_method": "embedding"
-},
-{
-"id": "person:Joab",
-"type": "person",
-"preferred_label": "Иоав",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Joab.2",
-"type": "person",
-"preferred_label": "Иоав",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Joab.3",
-"type": "person",
-"preferred_label": "Иоав",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Joab.4",
-"type": "person",
-"preferred_label": "Иоав",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeush",
-"type": "person",
-"preferred_label": "Иеуш",
-"confidence": 0.8108,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeush.2",
-"type": "person",
-"preferred_label": "Иеуш",
-"confidence": 0.8108,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeush.3",
-"type": "person",
-"preferred_label": "Иеуш",
-"confidence": 0.8108,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeush.4",
-"type": "person",
-"preferred_label": "Иеуш",
-"confidence": 0.8108,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeush.5",
-"type": "person",
-"preferred_label": "Иеуш",
-"confidence": 0.8108,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иоас"
 }
 ]
 }
@@ -1291,7 +1055,7 @@
 {
 "content_id": "193606",
 "reference_id": 108524,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иов",
 "media_type": "Text",
 "index_reference": "иов",
@@ -1301,13 +1065,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Job",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иов"
+}
+]
 }
 },
 {
 "content_id": "193574",
 "reference_id": 108492,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иодай",
 "media_type": "Text",
 "index_reference": "иодай",
@@ -1319,46 +1091,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jehoiada",
-"type": "person",
-"preferred_label": "Иодай",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Jehoiada.2",
 "type": "person",
-"preferred_label": "Иодай",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иодай"
 },
 {
 "id": "person:Jehoiada.3",
 "type": "person",
-"preferred_label": "Иодай",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иодай"
 },
 {
 "id": "person:Jehoiada.4",
 "type": "person",
-"preferred_label": "Иодай",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иодай"
 },
 {
-"id": "person:Hiddai",
+"id": "person:Jehoiada",
 "type": "person",
-"preferred_label": "Иддай",
-"confidence": 0.8481,
-"match_method": "embedding"
-},
-{
-"id": "person:Jahdo",
-"type": "person",
-"preferred_label": "Иахдо",
-"confidence": 0.8064,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иодай"
 }
 ]
 }
@@ -1366,7 +1124,7 @@
 {
 "content_id": "193655",
 "reference_id": 108573,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иона",
 "media_type": "Text",
 "index_reference": "иона",
@@ -1380,16 +1138,16 @@
 {
 "id": "person:Jonah.2",
 "type": "person",
-"preferred_label": "Иона",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иона"
 },
 {
-"id": "place:Ijon",
-"type": "place",
-"preferred_label": "Ijon",
-"confidence": 0.8044,
-"match_method": "embedding"
+"id": "person:John.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иоанн"
 }
 ]
 }
@@ -1397,7 +1155,7 @@
 {
 "content_id": "193539",
 "reference_id": 108457,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ионафан",
 "media_type": "Text",
 "index_reference": "ионафан",
@@ -1409,221 +1167,95 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jehonathan",
-"type": "person",
-"preferred_label": "Ионафан",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehonathan.2",
-"type": "person",
-"preferred_label": "Ионафан",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Jonathan.10",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.11",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.12",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.13",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.2",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.3",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.4",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.5",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.6",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.7",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.8",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
 "id": "person:Jonathan.9",
 "type": "person",
-"preferred_label": "Ионафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ионафан"
 },
 {
-"id": "person:Jonam",
+"id": "person:Jonadab.2",
 "type": "person",
-"preferred_label": "Ионанов",
-"confidence": 0.824,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehohanan",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehohanan.2",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehohanan.3",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehohanan.4",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehohanan.5",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehohanan.6",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehohanan.7",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehohanan.8",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Johanan.2",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Johanan.3",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Johanan.4",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Johanan.5",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Johanan.6",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Johanan.7",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Johanan.8",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Johanan.9",
-"type": "person",
-"preferred_label": "Иоханан",
-"confidence": 0.8222,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ионадав"
 }
 ]
 }
@@ -1631,7 +1263,7 @@
 {
 "content_id": "193565",
 "reference_id": 108483,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иосафат",
 "media_type": "Text",
 "index_reference": "иосафат",
@@ -1643,53 +1275,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jehoshaphat",
-"type": "person",
-"preferred_label": "Иосафат",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Jehoshaphat.2",
 "type": "person",
-"preferred_label": "Иосафат",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосафат"
 },
 {
 "id": "person:Jehoshaphat.3",
 "type": "person",
-"preferred_label": "Иосафат",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосафат"
 },
 {
 "id": "person:Jehoshaphat.4",
 "type": "person",
-"preferred_label": "Иосафат",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосафат"
 },
 {
-"id": "person:Joshaphat",
+"id": "person:Jehoshaphat",
 "type": "person",
-"preferred_label": "Иосафат",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Joshaphat.2",
-"type": "person",
-"preferred_label": "Иосафат",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehosheba",
-"type": "person",
-"preferred_label": "Иосавеф",
-"confidence": 0.807,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосафат"
 }
 ]
 }
@@ -1697,7 +1308,7 @@
 {
 "content_id": "193370",
 "reference_id": 108288,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иосиф",
 "media_type": "Text",
 "index_reference": "иосиф",
@@ -1711,86 +1322,100 @@
 {
 "id": "person:Joseph.10",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
 },
 {
 "id": "person:Joseph.11",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
 },
 {
 "id": "person:Joseph.12",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
 },
 {
 "id": "person:Joseph.13",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
 },
 {
 "id": "person:Joseph.14",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
+},
+{
+"id": "person:Josech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josech"
 },
 {
 "id": "person:Joseph.3",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
 },
 {
 "id": "person:Joseph.4",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
 },
 {
 "id": "person:Joseph.5",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
 },
 {
 "id": "person:Joseph.6",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
 },
 {
 "id": "person:Joseph.7",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
 },
 {
 "id": "person:Joseph.8",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
 },
 {
 "id": "person:Joseph.9",
 "type": "person",
-"preferred_label": "Иосиф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иосиф"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Варнава"
 }
 ]
 }
@@ -1798,7 +1423,7 @@
 {
 "content_id": "193114",
 "reference_id": 108032,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иосиф из Назарета",
 "media_type": "Text",
 "index_reference": "иосиф из назарета",
@@ -1808,13 +1433,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иосиф"
+}
+]
 }
 },
 {
 "content_id": "193408",
 "reference_id": 108326,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иофор",
 "media_type": "Text",
 "index_reference": "иофор",
@@ -1828,37 +1461,9 @@
 {
 "id": "person:Jethro",
 "type": "person",
-"preferred_label": "Иофор",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jether.2",
-"type": "person",
-"preferred_label": "Иефер",
-"confidence": 0.8149,
-"match_method": "embedding"
-},
-{
-"id": "person:Jether.3",
-"type": "person",
-"preferred_label": "Иефер",
-"confidence": 0.8149,
-"match_method": "embedding"
-},
-{
-"id": "person:Jether.4",
-"type": "person",
-"preferred_label": "Иефер",
-"confidence": 0.8149,
-"match_method": "embedding"
-},
-{
-"id": "person:Jether.5",
-"type": "person",
-"preferred_label": "Иефер",
-"confidence": 0.8149,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иофор"
 }
 ]
 }
@@ -1866,7 +1471,7 @@
 {
 "content_id": "193192",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ирод Агриппа I",
 "media_type": "Text",
 "index_reference": "ирод агриппа i",
@@ -1876,13 +1481,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Агриппа"
+}
+]
 }
 },
 {
 "content_id": "193221",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ирод Агриппа II",
 "media_type": "Text",
 "index_reference": "ирод агриппа ii",
@@ -1892,13 +1505,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ирод"
+}
+]
 }
 },
 {
 "content_id": "193139",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ирод Антипа",
 "media_type": "Text",
 "index_reference": "ирод антипа",
@@ -1912,9 +1533,9 @@
 {
 "id": "person:Herod.2",
 "type": "person",
-"preferred_label": "Ирод Антипа",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ирод Антипа"
 }
 ]
 }
@@ -1922,7 +1543,7 @@
 {
 "content_id": "193640",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ирод Великий",
 "media_type": "Text",
 "index_reference": "ирод великий",
@@ -1932,13 +1553,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ирод"
+}
+]
 }
 },
 {
 "content_id": "193144",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иродиане",
 "media_type": "Text",
 "index_reference": "иродиане",
@@ -1950,18 +1579,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Herodias",
-"type": "person",
-"preferred_label": "Иродиада",
-"confidence": 0.8973,
-"match_method": "embedding"
-},
-{
-"id": "person:Herodion",
-"type": "person",
-"preferred_label": "Иродион",
-"confidence": 0.83,
-"match_method": "embedding"
+"id": "group:Herodian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodians"
 }
 ]
 }
@@ -1969,7 +1591,7 @@
 {
 "content_id": "193343",
 "reference_id": 108261,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Исаак",
 "media_type": "Text",
 "index_reference": "исаак",
@@ -1983,51 +1605,9 @@
 {
 "id": "person:Isaac",
 "type": "person",
-"preferred_label": "Исаак",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Isaiah",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 0.8177,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.2",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 0.8177,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.3",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 0.8177,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.4",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 0.8177,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.5",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 0.8177,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.6",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 0.8177,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Исаак"
 }
 ]
 }
@@ -2035,7 +1615,7 @@
 {
 "content_id": "193351",
 "reference_id": 108269,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Исав",
 "media_type": "Text",
 "index_reference": "исав",
@@ -2049,9 +1629,9 @@
 {
 "id": "person:Esau",
 "type": "person",
-"preferred_label": "Исав",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Исав"
 }
 ]
 }
@@ -2059,7 +1639,7 @@
 {
 "content_id": "193579",
 "reference_id": 108497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Исаия",
 "media_type": "Text",
 "index_reference": "исаия",
@@ -2073,79 +1653,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"preferred_label": "Исаия",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.2",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.3",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.4",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.5",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.6",
-"type": "person",
-"preferred_label": "Исаия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Joshah",
-"type": "person",
-"preferred_label": "Иосия",
-"confidence": 0.8795,
-"match_method": "embedding"
-},
-{
-"id": "person:Josiah",
-"type": "person",
-"preferred_label": "Иосия",
-"confidence": 0.8795,
-"match_method": "embedding"
-},
-{
-"id": "person:Josiah.2",
-"type": "person",
-"preferred_label": "Иосия",
-"confidence": 0.8795,
-"match_method": "embedding"
-},
-{
-"id": "person:Isaac",
-"type": "person",
-"preferred_label": "Исаак",
-"confidence": 0.8177,
-"match_method": "embedding"
-},
-{
-"id": "person:Isshijah",
-"type": "person",
-"preferred_label": "Ишшия",
-"confidence": 0.8012,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Исаия"
 }
 ]
 }
@@ -2153,7 +1663,7 @@
 {
 "content_id": "193449",
 "reference_id": 108367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Искупить",
 "media_type": "Text",
 "index_reference": "искупить",
@@ -2177,7 +1687,7 @@
 {
 "content_id": "193226",
 "reference_id": 108144,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Испания",
 "media_type": "Text",
 "index_reference": "испания",
@@ -2191,9 +1701,9 @@
 {
 "id": "place:Spain",
 "type": "place",
-"preferred_label": "Испания",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Испания"
 }
 ]
 }
@@ -2201,7 +1711,7 @@
 {
 "content_id": "193345",
 "reference_id": 108263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Испытания",
 "media_type": "Text",
 "index_reference": "испытания",
@@ -2217,7 +1727,7 @@
 {
 "content_id": "193232",
 "reference_id": 108150,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Истолкование иных языков",
 "media_type": "Text",
 "index_reference": "истолкование иных языков",
@@ -2241,7 +1751,7 @@
 {
 "content_id": "193280",
 "reference_id": 108198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Истории",
 "media_type": "Text",
 "index_reference": "истории",
@@ -2257,7 +1767,7 @@
 {
 "content_id": "193398",
 "reference_id": 108316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Исход",
 "media_type": "Text",
 "index_reference": "исход",
@@ -2271,9 +1781,92 @@
 }
 },
 {
+"content_id": "193176",
+"reference_id": 108094,
+"version": "1.0.4",
+"title": "Иуда, апостол",
+"media_type": "Text",
+"index_reference": "иуда апостол",
+"language": "rus",
+"review_level": "None",
+"content": "<p>Один из двенадцати учеников Иисуса Христа. Его отцом был Иаков. Матфей и Марк называли его Фаддеем, а Лука и Иоанн <span>—</span> Иудой, сыном Иакова. Его не следует путать с Иудой Искариотом, который предал Иисуса.</p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": [
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Judas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Judas.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Jude",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+}
+]
+}
+},
+{
+"content_id": "193250",
+"reference_id": 108168,
+"version": "1.0.4",
+"title": "Иуда, брат Иисуса",
+"media_type": "Text",
+"index_reference": "иуда брат иисуса",
+"language": "rus",
+"review_level": "None",
+"content": "<p>Один из братьев Иисуса Христа. Сначала он не верил, что Иисус — Христос. Однако потом он уверовал в Иисуса и стал известным руководителем среди христианских церквей. Считается, что <span>Иуда является автором Послания </span>Иуды. </p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": [
+{
+"id": "person:Jude",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+}
+]
+}
+},
+{
 "content_id": "193148",
 "reference_id": 108066,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иуда Искариот",
 "media_type": "Text",
 "index_reference": "иуда искариот",
@@ -2283,61 +1876,101 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
-}
-},
+"acai": [
 {
-"content_id": "193176",
-"reference_id": 108094,
-"version": "1.0.2",
-"title": "Иуда, апостол",
-"media_type": "Text",
-"index_reference": "иуда, апостол",
-"language": "rus",
-"review_level": "None",
-"content": "<p>Один из двенадцати учеников Иисуса Христа. Его отцом был Иаков. Матфей и Марк называли его Фаддеем, а Лука и Иоанн <span>—</span> Иудой, сыном Иакова. Его не следует путать с Иудой Искариотом, который предал Иисуса.</p>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
 }
-},
-{
-"content_id": "193250",
-"reference_id": 108168,
-"version": "1.0.2",
-"title": "Иуда, брат Иисуса",
-"media_type": "Text",
-"index_reference": "иуда, брат иисуса",
-"language": "rus",
-"review_level": "None",
-"content": "<p>Один из братьев Иисуса Христа. Сначала он не верил, что Иисус — Христос. Однако потом он уверовал в Иисуса и стал известным руководителем среди христианских церквей. Считается, что <span>Иуда является автором Послания </span>Иуды. </p>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
+]
 }
 },
 {
 "content_id": "193373",
 "reference_id": 108291,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иуда, патриарх",
 "media_type": "Text",
-"index_reference": "иуда, патриарх",
+"index_reference": "иуда патриарх",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Сын Иакова и Лии. С древнееврейского языка его имя переводится как <span>«хвала или благодарность»</span>. Иуда спал со своей невесткой Фамарью и стал отцом Фареса и Зары. Когда Иаков произносил своё благословение над Иудой, он сказал, что из рода Иуды произойдут великие цари. Царь Давид и Иисус Христос произошли от колена Иуды. Род Иуды стал очень важным коленом в Израиле. Он стал главным в Южном Царстве, также называемое Иудея или Иудейское царство. Колено Иуды не исчезло даже тогда, когда Иудея была захвачена вавилонянами. <span>Эта территория всегда была известна как Иудея, даже когда она находилась под контролем Персии.</span></p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hodiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Годия"
+},
+{
+"id": "person:Judah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Judah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Judah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Judah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Judah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
+"id": "person:Hodaviah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Годавия"
+},
+{
+"id": "place:Judea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+}
+]
 }
 },
 {
 "content_id": "193585",
 "reference_id": 108503,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иудей",
 "media_type": "Text",
 "index_reference": "иудей",
@@ -2364,11 +1997,11 @@
 ],
 "acai": [
 {
-"id": "place:Judea",
-"type": "place",
-"preferred_label": "Иудея",
-"confidence": 0.9399,
-"match_method": "embedding"
+"id": "group:Jews",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jews"
 }
 ]
 }
@@ -2376,7 +2009,7 @@
 {
 "content_id": "193152",
 "reference_id": 108070,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иудейские законы",
 "media_type": "Text",
 "index_reference": "иудейские законы",
@@ -2407,7 +2040,7 @@
 {
 "content_id": "193117",
 "reference_id": 108035,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Иудея",
 "media_type": "Text",
 "index_reference": "иудея",
@@ -2421,23 +2054,9 @@
 {
 "id": "place:Judea",
 "type": "place",
-"preferred_label": "Иудея",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Judea.2",
-"type": "place",
-"preferred_label": "Judah",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehudijah",
-"type": "person",
-"preferred_label": "Иудия",
-"confidence": 0.8236,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Иудея"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "132250",
 "reference_id": 108304,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "I am",
 "media_type": "Text",
 "index_reference": "i am",
@@ -18,7 +18,7 @@
 {
 "content_id": "132039",
 "reference_id": 108093,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "I am statements",
 "media_type": "Text",
 "index_reference": "i am statements",
@@ -34,7 +34,7 @@
 {
 "content_id": "132061",
 "reference_id": 108115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Iconium",
 "media_type": "Text",
 "index_reference": "iconium",
@@ -48,9 +48,9 @@
 {
 "id": "place:Iconium",
 "type": "place",
-"preferred_label": "Iconium",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Iconium"
 }
 ]
 }
@@ -58,7 +58,7 @@
 {
 "content_id": "132484",
 "reference_id": 108538,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Immanuel",
 "media_type": "Text",
 "index_reference": "immanuel",
@@ -72,9 +72,9 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "Jesus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Jesus"
 }
 ]
 }
@@ -82,10 +82,10 @@
 {
 "content_id": "132019",
 "reference_id": 108073,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "In Jesus’ name",
 "media_type": "Text",
-"index_reference": "in jesus’ name",
+"index_reference": "in jesus name",
 "language": "eng",
 "review_level": "None",
 "content": "<p>People can do something in the name of someone else. When they do this, it means they are doing it with that person’s authority. They are doing it as if that other person were the one doing it. The disciples prayed, spoke and acted in Jesus’ name. This showed that they believed Jesus has complete authority in heaven and on earth. It also showed that they were doing the work Jesus had taught them to do. People were baptised in Jesus’ name. This means that they went through baptism because they believed in Jesus. Their baptism showed that they were completely committed to following Jesus.</p>",
@@ -98,7 +98,7 @@
 {
 "content_id": "132317",
 "reference_id": 108371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Incense",
 "media_type": "Text",
 "index_reference": "incense",
@@ -112,9 +112,9 @@
 {
 "id": "realia:Incense",
 "type": "realia",
-"preferred_label": "Incense",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Incense"
 }
 ]
 }
@@ -122,7 +122,7 @@
 {
 "content_id": "132207",
 "reference_id": 108261,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaac",
 "media_type": "Text",
 "index_reference": "isaac",
@@ -136,9 +136,9 @@
 {
 "id": "person:Isaac",
 "type": "person",
-"preferred_label": "Isaac",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Isaac"
 }
 ]
 }
@@ -146,7 +146,7 @@
 {
 "content_id": "132443",
 "reference_id": 108497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaiah",
 "media_type": "Text",
 "index_reference": "isaiah",
@@ -160,9 +160,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"preferred_label": "Isaiah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Isaiah"
 }
 ]
 }
@@ -170,7 +170,7 @@
 {
 "content_id": "132208",
 "reference_id": 108262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ishmael",
 "media_type": "Text",
 "index_reference": "ishmael",
@@ -184,44 +184,44 @@
 {
 "id": "person:Ishmael.2",
 "type": "person",
-"preferred_label": "Ishmael",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ishmael"
 },
 {
 "id": "person:Ishmael.3",
 "type": "person",
-"preferred_label": "Ishmael",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ishmael"
 },
 {
 "id": "person:Ishmael.4",
 "type": "person",
-"preferred_label": "Ishmael",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ishmael"
 },
 {
 "id": "person:Ishmael.5",
 "type": "person",
-"preferred_label": "Ishmael",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ishmael"
 },
 {
 "id": "person:Ishmael.6",
 "type": "person",
-"preferred_label": "Ishmael",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ishmael"
 },
 {
 "id": "person:Ishmael",
 "type": "person",
-"preferred_label": "Ishmael",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ishmael"
 }
 ]
 }
@@ -229,7 +229,7 @@
 {
 "content_id": "132226",
 "reference_id": 108280,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Israel",
 "media_type": "Text",
 "index_reference": "israel",
@@ -251,16 +251,16 @@
 {
 "id": "person:Israel",
 "type": "person",
-"preferred_label": "Israel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Israel"
 },
 {
 "id": "place:Israel",
 "type": "place",
-"preferred_label": "Israel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Israel"
 }
 ]
 }

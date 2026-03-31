@@ -2,7 +2,7 @@
 {
 "content_id": "183114",
 "reference_id": 108220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वंशावली",
 "media_type": "Text",
 "index_reference": "वंशावली",
@@ -18,7 +18,7 @@
 {
 "content_id": "183427",
 "reference_id": 108533,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वर्णमाला कविता",
 "media_type": "Text",
 "index_reference": "वर्णमाला कविता",
@@ -42,7 +42,7 @@
 {
 "content_id": "183131",
 "reference_id": 108237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वाचा",
 "media_type": "Text",
 "index_reference": "वाचा",
@@ -52,13 +52,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Covenant"
+}
+]
 }
 },
 {
 "content_id": "183279",
 "reference_id": 108385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वाचा का सन्दूक",
 "media_type": "Text",
 "index_reference": "वाचा का सन्दूक",
@@ -76,13 +84,21 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ark of the Covenant"
+}
+]
 }
 },
 {
 "content_id": "183273",
 "reference_id": 108379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वाचा कि आशीषें",
 "media_type": "Text",
 "index_reference": "वाचा कि आशीषें",
@@ -98,7 +114,7 @@
 {
 "content_id": "183274",
 "reference_id": 108380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वाचा के श्राप",
 "media_type": "Text",
 "index_reference": "वाचा के श्राप",
@@ -114,7 +130,7 @@
 {
 "content_id": "183275",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वापस खरीदना",
 "media_type": "Text",
 "index_reference": "वापस खरीदना",
@@ -130,7 +146,7 @@
 {
 "content_id": "183208",
 "reference_id": 108314,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विनाश का दूत",
 "media_type": "Text",
 "index_reference": "विनाश का दूत",
@@ -146,7 +162,7 @@
 {
 "content_id": "183100",
 "reference_id": 108206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विवाह",
 "media_type": "Text",
 "index_reference": "विवाह",
@@ -162,7 +178,7 @@
 {
 "content_id": "183253",
 "reference_id": 108359,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विशेष पानी",
 "media_type": "Text",
 "index_reference": "विशेष पानी",
@@ -178,7 +194,7 @@
 {
 "content_id": "183252",
 "reference_id": 108358,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विशेष रूप से अलग किया गया",
 "media_type": "Text",
 "index_reference": "विशेष रूप से अलग किया गया",
@@ -194,7 +210,7 @@
 {
 "content_id": "183106",
 "reference_id": 108212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विश्राम",
 "media_type": "Text",
 "index_reference": "विश्राम",
@@ -210,7 +226,7 @@
 {
 "content_id": "183126",
 "reference_id": 108232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विश्वास",
 "media_type": "Text",
 "index_reference": "विश्वास",
@@ -222,11 +238,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Believe",
+"id": "keyterm:LeanOn",
 "type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.8295,
-"match_method": "embedding"
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "Trust"
 }
 ]
 }
@@ -234,7 +250,7 @@
 {
 "content_id": "183149",
 "reference_id": 108255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विश्वास करो",
 "media_type": "Text",
 "index_reference": "विश्वास करो",
@@ -252,13 +268,21 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.9789,
+"match_method": "embedding",
+"preferred_label": "Believe In"
+}
+]
 }
 },
 {
 "content_id": "182971",
 "reference_id": 108077,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "विश्वासी",
 "media_type": "Text",
 "index_reference": "विश्वासी",
@@ -274,7 +298,7 @@
 {
 "content_id": "183179",
 "reference_id": 108285,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वेदी",
 "media_type": "Text",
 "index_reference": "वेदी",
@@ -284,13 +308,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Altar"
+}
+]
 }
 },
 {
 "content_id": "183429",
 "reference_id": 108535,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "वेश्या",
 "media_type": "Text",
 "index_reference": "वेश्या",
@@ -300,7 +332,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:FirstProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+},
+{
+"id": "person:SecondProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+}
+]
 }
 }
 ]

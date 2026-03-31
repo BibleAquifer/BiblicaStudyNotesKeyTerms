@@ -2,7 +2,7 @@
 {
 "content_id": "203712",
 "reference_id": 108577,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pajak",
 "media_type": "Text",
 "index_reference": "pajak",
@@ -12,28 +12,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:PollTax",
-"type": "keyterm",
-"preferred_label": "pajak",
-"confidence": 0.8715,
-"match_method": "embedding"
-},
-{
-"id": "keyterm:TributeTax",
-"type": "keyterm",
-"preferred_label": "pajak",
-"confidence": 0.8715,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "203484",
 "reference_id": 108349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pakaian Imam",
 "media_type": "Text",
 "index_reference": "pakaian imam",
@@ -49,7 +34,7 @@
 {
 "content_id": "203513",
 "reference_id": 108378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Para Pelayan",
 "media_type": "Text",
 "index_reference": "para pelayan",
@@ -59,13 +44,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericServants",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Servants"
+}
+]
 }
 },
 {
 "content_id": "203306",
 "reference_id": 108171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Patmos",
 "media_type": "Text",
 "index_reference": "patmos",
@@ -79,9 +72,9 @@
 {
 "id": "place:Patmos",
 "type": "place",
-"preferred_label": "Patmos",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Patmos"
 }
 ]
 }
@@ -89,7 +82,7 @@
 {
 "content_id": "203476",
 "reference_id": 108341,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Patung anak lembu dari logam",
 "media_type": "Text",
 "index_reference": "patung anak lembu dari logam",
@@ -113,7 +106,7 @@
 {
 "content_id": "203237",
 "reference_id": 108102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Paulus",
 "media_type": "Text",
 "index_reference": "paulus",
@@ -127,9 +120,9 @@
 {
 "id": "person:Paul",
 "type": "person",
-"preferred_label": "Paulus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Paulus"
 }
 ]
 }
@@ -137,7 +130,7 @@
 {
 "content_id": "203683",
 "reference_id": 108548,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pedang",
 "media_type": "Text",
 "index_reference": "pedang",
@@ -147,13 +140,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
+]
 }
 },
 {
 "content_id": "203343",
 "reference_id": 108208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pekerjaan",
 "media_type": "Text",
 "index_reference": "pekerjaan",
@@ -171,13 +172,21 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "bekerja"
+}
+]
 }
 },
 {
 "content_id": "203670",
 "reference_id": 108535,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pelacur",
 "media_type": "Text",
 "index_reference": "pelacur",
@@ -187,13 +196,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:FirstProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+},
+{
+"id": "person:SecondProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+}
+]
 }
 },
 {
 "content_id": "203583",
 "reference_id": 108448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pelindung keluarga",
 "media_type": "Text",
 "index_reference": "pelindung keluarga",
@@ -209,7 +233,7 @@
 {
 "content_id": "203630",
 "reference_id": 108495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pembuangan",
 "media_type": "Text",
 "index_reference": "pembuangan ",
@@ -225,7 +249,7 @@
 {
 "content_id": "203358",
 "reference_id": 108223,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pembunuhan",
 "media_type": "Text",
 "index_reference": "pembunuhan",
@@ -241,7 +265,7 @@
 {
 "content_id": "203194",
 "reference_id": 108059,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pemimpin yang melayani",
 "media_type": "Text",
 "index_reference": "pemimpin yang melayani",
@@ -257,7 +281,7 @@
 {
 "content_id": "203184",
 "reference_id": 108049,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pemungut cukai",
 "media_type": "Text",
 "index_reference": "pemungut cukai",
@@ -279,16 +303,16 @@
 {
 "id": "keyterm:TaxCollector",
 "type": "keyterm",
-"preferred_label": "pemungut cukai",
-"confidence": 0.8795,
-"match_method": "embedding"
+"confidence": 0.986,
+"match_method": "embedding",
+"preferred_label": "pemungut cukai"
 },
 {
 "id": "group:TaxCollectors",
 "type": "group",
-"preferred_label": "Tax Collectors",
-"confidence": 0.8715,
-"match_method": "embedding"
+"confidence": 0.8299,
+"match_method": "embedding",
+"preferred_label": "Tax Collectors"
 }
 ]
 }
@@ -296,7 +320,7 @@
 {
 "content_id": "203442",
 "reference_id": 108307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Penatua",
 "media_type": "Text",
 "index_reference": "penatua",
@@ -306,13 +330,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericElders",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Elders"
+}
+]
 }
 },
 {
 "content_id": "203253",
 "reference_id": 108118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Penatua Gereja",
 "media_type": "Text",
 "index_reference": "penatua gereja",
@@ -328,7 +360,7 @@
 {
 "content_id": "203332",
 "reference_id": 108197,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Penciptaan",
 "media_type": "Text",
 "index_reference": "penciptaan",
@@ -352,7 +384,7 @@
 {
 "content_id": "203368",
 "reference_id": 108233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Penghakiman",
 "media_type": "Text",
 "index_reference": "penghakiman",
@@ -366,9 +398,9 @@
 {
 "id": "keyterm:Judgment",
 "type": "keyterm",
-"preferred_label": "penghakiman",
-"confidence": 0.8737,
-"match_method": "embedding"
+"confidence": 0.8663,
+"match_method": "embedding",
+"preferred_label": "penghakiman"
 }
 ]
 }
@@ -376,7 +408,7 @@
 {
 "content_id": "203431",
 "reference_id": 108296,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Penglihatan",
 "media_type": "Text",
 "index_reference": "penglihatan",
@@ -398,9 +430,9 @@
 {
 "id": "keyterm:Vision",
 "type": "keyterm",
-"preferred_label": "penglihatan",
-"confidence": 0.8758,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "penglihatan"
 }
 ]
 }
@@ -408,7 +440,7 @@
 {
 "content_id": "203391",
 "reference_id": 108256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pengorbanan",
 "media_type": "Text",
 "index_reference": "pengorbanan",
@@ -418,37 +450,37 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Slaughtering",
-"type": "keyterm",
-"preferred_label": "pengorbanan",
-"confidence": 0.8312,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "203344",
 "reference_id": 108209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Penguasa- penguasa",
 "media_type": "Text",
-"index_reference": "penguasa- penguasa",
+"index_reference": "penguasa penguasa",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Allah ingin segala sesuatu yang diciptakan-Nya hidup dan bekerja sama dalam damai dan sukacita. Manusia harus memastikan hal ini terjadi. Allah adalah penguasa atas segala ciptaan. Dia menempatkan manusia sebagai penguasa atas tumbuhan, hewan, daratan dan lautan. Ini adalah salah satu cara Tuhan menciptakan manusia untuk menjadi seperti diri-Nya. Sebagai penguasa, manusia harus memenuhi bumi dan mengendalikannya. Ini tidak berarti bahwa manusia dapat menggunakan bumi Allah sesuka hati mereka. Ini berarti bahwa mereka harus mengurus segala sesuatu di bumi. Mereka harus membantu agar segala sesuatu menjadi seperti yang Tuhan inginkan. Manusia melakukan hal ini dengan mengikuti teladan Allah dalam memerintah. Allah menunjukkan diri-Nya sebagai penguasa yang memberkati, menghormati, dan melindungi apa yang telah Ia ciptakan. Yesus menunjukkan bahwa Allah adalah penguasa yang memberikan segalanya untuk melayani dan memberkati orang lain. Ketika manusia tidak mengikuti aturan Allah dalam memerintah, bumi akan menderita.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericRulers",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Rulers"
+}
+]
 }
 },
 {
 "content_id": "203510",
 "reference_id": 108375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pentakosta",
 "media_type": "Text",
 "index_reference": "pentakosta",
@@ -464,7 +496,7 @@
 {
 "content_id": "203676",
 "reference_id": 108541,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Penulisan apokaliptik",
 "media_type": "Text",
 "index_reference": "penulisan apokaliptik",
@@ -480,7 +512,7 @@
 {
 "content_id": "203701",
 "reference_id": 108566,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Peperangan rohani",
 "media_type": "Text",
 "index_reference": "peperangan rohani",
@@ -496,7 +528,7 @@
 {
 "content_id": "203471",
 "reference_id": 108336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perantara",
 "media_type": "Text",
 "index_reference": "perantara",
@@ -512,7 +544,7 @@
 {
 "content_id": "203596",
 "reference_id": 108461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perantara",
 "media_type": "Text",
 "index_reference": "perantara",
@@ -528,7 +560,7 @@
 {
 "content_id": "203452",
 "reference_id": 108317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perayaan Paskah",
 "media_type": "Text",
 "index_reference": "perayaan paskah",
@@ -544,10 +576,10 @@
 {
 "content_id": "203507",
 "reference_id": 108372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perayaan-Perayaan",
 "media_type": "Text",
-"index_reference": "perayaan-perayaan",
+"index_reference": "perayaanperayaan",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Kegiatan yang membantu bangsa Israel untuk mengingat siapa Allah itu. Perayaan-perayaan membantu mereka mengingat bahwa Allah akan terus melindungi dan memenuhi kebutuhan mereka. Perayaan-perayaan ini termasuk beristirahat dan tidak melakukan pekerjaan yang biasanya mereka lakukan. Perayaan-perayaan ini juga mencakup kegiatan makan bersama. Termasuk juga melakukan pengorbanan dan menyembah Allah.</p>",
@@ -560,7 +592,7 @@
 {
 "content_id": "203195",
 "reference_id": 108060,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perbuatan baik",
 "media_type": "Text",
 "index_reference": "perbuatan baik",
@@ -576,7 +608,7 @@
 {
 "content_id": "203390",
 "reference_id": 108255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Percaya pada",
 "media_type": "Text",
 "index_reference": "percaya pada",
@@ -598,9 +630,9 @@
 {
 "id": "keyterm:BelieveIn",
 "type": "keyterm",
-"preferred_label": "percaya pada",
-"confidence": 0.9231,
-"match_method": "embedding"
+"confidence": 0.9789,
+"match_method": "embedding",
+"preferred_label": "percaya pada"
 }
 ]
 }
@@ -608,7 +640,7 @@
 {
 "content_id": "203649",
 "reference_id": 108514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perceraian",
 "media_type": "Text",
 "index_reference": "perceraian",
@@ -632,7 +664,7 @@
 {
 "content_id": "203311",
 "reference_id": 108176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pergamus",
 "media_type": "Text",
 "index_reference": "pergamus",
@@ -646,9 +678,9 @@
 {
 "id": "place:Pergamum",
 "type": "place",
-"preferred_label": "Pergamus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pergamus"
 }
 ]
 }
@@ -656,23 +688,31 @@
 {
 "content_id": "203666",
 "reference_id": 108531,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Peribahasa/Amsal",
 "media_type": "Text",
-"index_reference": "peribahasa/amsal",
+"index_reference": "peribahasaamsal",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Pepatah yang singkat dan bijak. Peribahasa muncul ketika seseorang atau sebuah komunitas mempelajari kehidupan di dunia. Ketika mereka mempelajarinya, mereka mempelajari pelajaran dan melihat pola-pola. Pola-pola ini adalah tentang bagaimana kehidupan di dunia ini bekerja. Orang atau komunitas tersebut menuangkan pelajaran dan pola-pola ini ke dalam kata-kata seperti puisi pendek. Peribahasa diwariskan dalam keluarga dan komunitas selama ratusan tahun. Peribahasa bukanlah sebuah janji bahwa kehidupan selalu berjalan sesuai dengan pola yang digambarkan.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "pengucapan"
+}
+]
 }
 },
 {
 "content_id": "203246",
 "reference_id": 108111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perjalanan Paulus",
 "media_type": "Text",
 "index_reference": "perjalanan paulus",
@@ -688,7 +728,7 @@
 {
 "content_id": "203283",
 "reference_id": 108148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perjamuan Tuhan",
 "media_type": "Text",
 "index_reference": "perjamuan tuhan",
@@ -704,7 +744,7 @@
 {
 "content_id": "203372",
 "reference_id": 108237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perjanjian",
 "media_type": "Text",
 "index_reference": "perjanjian",
@@ -718,9 +758,9 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "perjanjian",
-"confidence": 0.9016,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "perjanjian"
 }
 ]
 }
@@ -728,7 +768,7 @@
 {
 "content_id": "203663",
 "reference_id": 108528,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perjanjian Baru",
 "media_type": "Text",
 "index_reference": "perjanjian baru",
@@ -744,7 +784,7 @@
 {
 "content_id": "203688",
 "reference_id": 108553,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perjanjian baru",
 "media_type": "Text",
 "index_reference": "perjanjian baru",
@@ -760,7 +800,7 @@
 {
 "content_id": "203388",
 "reference_id": 108253,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perjanjian dengan Abraham",
 "media_type": "Text",
 "index_reference": "perjanjian dengan abraham",
@@ -776,7 +816,7 @@
 {
 "content_id": "203601",
 "reference_id": 108466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perjanjian dengan Daud",
 "media_type": "Text",
 "index_reference": "perjanjian dengan daud",
@@ -800,7 +840,7 @@
 {
 "content_id": "203373",
 "reference_id": 108238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perjanjian dengan Nuh",
 "media_type": "Text",
 "index_reference": "perjanjian dengan nuh ",
@@ -816,7 +856,7 @@
 {
 "content_id": "203463",
 "reference_id": 108328,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perjanjian Gunung Sinai",
 "media_type": "Text",
 "index_reference": "perjanjian gunung sinai",
@@ -832,7 +872,7 @@
 {
 "content_id": "203327",
 "reference_id": 108192,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perjanjian Lama",
 "media_type": "Text",
 "index_reference": "perjanjian lama",
@@ -848,7 +888,7 @@
 {
 "content_id": "203292",
 "reference_id": 108157,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perlengkapan rohani",
 "media_type": "Text",
 "index_reference": "perlengkapan rohani",
@@ -864,7 +904,7 @@
 {
 "content_id": "203341",
 "reference_id": 108206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pernikahan",
 "media_type": "Text",
 "index_reference": "pernikahan",
@@ -880,10 +920,10 @@
 {
 "content_id": "203228",
 "reference_id": 108093,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pernyataan-pernyataan Aku adalah",
 "media_type": "Text",
-"index_reference": "pernyataan-pernyataan aku adalah",
+"index_reference": "pernyataanpernyataan aku adalah",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Sebuah cara yang Yesus gunakan untuk memberi tahu orang-orang siapa Dia. Dalam Injil Yohanes, Yesus menggunakan kata Aku adalah dengan cara istimewa sebanyak tujuh kali. Dengan kata ini Ia menggambarkan diri-Nya dan pekerjaan yang dilakukan-Nya di muka bumi. Allah menggunakan kata Aku adalah ketika Ia memberi tahu Musa nama-Nya dalam Keluaran 3:14.</p>",
@@ -896,10 +936,10 @@
 {
 "content_id": "203486",
 "reference_id": 108351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Persembahan biji-bijian",
 "media_type": "Text",
-"index_reference": "persembahan biji-bijian",
+"index_reference": "persembahan bijibijian",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Korban atau persembahan dari roti dan tepung yang dipilih orang untuk dipersembahkan. Mereka dipersembahkan bersama dengan minyak, ukupan, garam, dan terkadang dengan minuman anggur. Para imam memakan sebagian dari persembahan biji-bijian/gandum. Sisanya kemudian dibakar.</p>",
@@ -912,7 +952,7 @@
 {
 "content_id": "203488",
 "reference_id": 108353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Persembahan dosa",
 "media_type": "Text",
 "index_reference": "persembahan dosa",
@@ -928,7 +968,7 @@
 {
 "content_id": "203644",
 "reference_id": 108509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Persia",
 "media_type": "Text",
 "index_reference": "persia",
@@ -942,9 +982,9 @@
 {
 "id": "place:Persia",
 "type": "place",
-"preferred_label": "Persia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Persia"
 }
 ]
 }
@@ -952,7 +992,7 @@
 {
 "content_id": "203191",
 "reference_id": 108056,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perumpamaan",
 "media_type": "Text",
 "index_reference": "perumpamaan",
@@ -968,7 +1008,7 @@
 {
 "content_id": "203707",
 "reference_id": 108572,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Petrus",
 "media_type": "Text",
 "index_reference": "petrus",
@@ -982,9 +1022,9 @@
 {
 "id": "person:Peter",
 "type": "person",
-"preferred_label": "Petrus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Petrus"
 }
 ]
 }
@@ -992,7 +1032,7 @@
 {
 "content_id": "203364",
 "reference_id": 108229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pilihan Allah",
 "media_type": "Text",
 "index_reference": "pilihan allah",
@@ -1008,7 +1048,7 @@
 {
 "content_id": "203538",
 "reference_id": 108403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pinehas",
 "media_type": "Text",
 "index_reference": "pinehas",
@@ -1020,25 +1060,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Phinehas",
-"type": "person",
-"preferred_label": "Pinehas",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Phinehas.2",
 "type": "person",
-"preferred_label": "Pinehas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pinehas"
 },
 {
 "id": "person:Phinehas.3",
 "type": "person",
-"preferred_label": "Pinehas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pinehas"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pinehas"
 }
 ]
 }
@@ -1046,7 +1086,7 @@
 {
 "content_id": "203352",
 "reference_id": 108217,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pohon kehidupan",
 "media_type": "Text",
 "index_reference": "pohon kehidupan",
@@ -1062,7 +1102,7 @@
 {
 "content_id": "203345",
 "reference_id": 108210,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pohon pengetahuan",
 "media_type": "Text",
 "index_reference": "pohon pengetahuan",
@@ -1078,7 +1118,7 @@
 {
 "content_id": "203277",
 "reference_id": 108142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pohon zaitun",
 "media_type": "Text",
 "index_reference": "pohon zaitun",
@@ -1088,13 +1128,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+}
+]
 }
 },
 {
 "content_id": "203591",
 "reference_id": 108456,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Puasa",
 "media_type": "Text",
 "index_reference": "puasa",
@@ -1110,7 +1158,7 @@
 {
 "content_id": "203339",
 "reference_id": 108204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Puisi",
 "media_type": "Text",
 "index_reference": "puisi",
@@ -1126,7 +1174,7 @@
 {
 "content_id": "203668",
 "reference_id": 108533,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Puisi abjad",
 "media_type": "Text",
 "index_reference": "puisi abjad",
@@ -1150,17 +1198,53 @@
 {
 "content_id": "203540",
 "reference_id": 108405,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Putri-putri Zelafehad",
 "media_type": "Text",
-"index_reference": "putri-putri zelafehad",
+"index_reference": "putriputri zelafehad",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Mahlah, Nuh, Hogla, Milka dan Tirza berasal dari suku Manasye. Ayah mereka, Zelafehad, meninggal di padang gurun setelah bangsa Israel menolak untuk memasuki Kanaan. Anak-anak perempuannya menerima tanah untuk garis keturunan Zelafehad karena dia tidak memiliki anak laki-laki. Mereka menikah dengan sepupu dalam kelompok keluarga mereka. Dengan demikian, tanah mereka akan selalu menjadi milik suku Manasye.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hoglah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hogla"
+},
+{
+"id": "person:Mahlah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mahla"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Milka"
+},
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nuh"
+},
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirza"
+}
+]
 }
 }
 ]

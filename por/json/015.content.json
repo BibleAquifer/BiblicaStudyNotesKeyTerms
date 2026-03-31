@@ -2,7 +2,7 @@
 {
 "content_id": "145811",
 "reference_id": 108302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "O povo de Deus",
 "media_type": "Text",
 "index_reference": "o povo de deus",
@@ -20,13 +20,21 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
+}
+]
 }
 },
 {
 "content_id": "145860",
 "reference_id": 108351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ofertas de cereais",
 "media_type": "Text",
 "index_reference": "ofertas de cereais",
@@ -42,7 +50,7 @@
 {
 "content_id": "145863",
 "reference_id": 108354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ofertas de culpa",
 "media_type": "Text",
 "index_reference": "ofertas de culpa",
@@ -58,7 +66,7 @@
 {
 "content_id": "145861",
 "reference_id": 108352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ofertas de paz",
 "media_type": "Text",
 "index_reference": "ofertas de paz",
@@ -74,7 +82,7 @@
 {
 "content_id": "145862",
 "reference_id": 108353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ofertas pelo pecado",
 "media_type": "Text",
 "index_reference": "ofertas pelo pecado",
@@ -90,7 +98,7 @@
 {
 "content_id": "145859",
 "reference_id": 108350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ofertas queimadas",
 "media_type": "Text",
 "index_reference": "ofertas queimadas",
@@ -106,7 +114,7 @@
 {
 "content_id": "145613",
 "reference_id": 108104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oficial etíope",
 "media_type": "Text",
 "index_reference": "oficial etíope",
@@ -122,7 +130,7 @@
 {
 "content_id": "145651",
 "reference_id": 108142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oliveira",
 "media_type": "Text",
 "index_reference": "oliveira",
@@ -132,13 +140,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+}
+]
 }
 },
 {
 "content_id": "145670",
 "reference_id": 108161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Onésimo",
 "media_type": "Text",
 "index_reference": "onésimo",
@@ -152,9 +168,9 @@
 {
 "id": "person:Onesimus",
 "type": "person",
-"preferred_label": "Onésimo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Onésimo"
 }
 ]
 }
@@ -162,7 +178,7 @@
 {
 "content_id": "145736",
 "reference_id": 108227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oração",
 "media_type": "Text",
 "index_reference": "oração",
@@ -178,7 +194,7 @@
 {
 "content_id": "146079",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oseias",
 "media_type": "Text",
 "index_reference": "oseias",
@@ -192,9 +208,9 @@
 {
 "id": "person:Hosea",
 "type": "person",
-"preferred_label": "Oseias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Oseias"
 }
 ]
 }
@@ -202,7 +218,7 @@
 {
 "content_id": "145940",
 "reference_id": 108431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Otniel",
 "media_type": "Text",
 "index_reference": "otniel",
@@ -216,9 +232,9 @@
 {
 "id": "person:Othniel",
 "type": "person",
-"preferred_label": "Otniel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Otniel"
 }
 ]
 }

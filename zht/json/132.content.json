@@ -2,7 +2,7 @@
 {
 "content_id": "232745",
 "reference_id": 108144,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "西班牙",
 "media_type": "Text",
 "index_reference": "西班牙",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Spain",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Spain"
+}
+]
 }
 },
 {
 "content_id": "233044",
 "reference_id": 108443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "西布倫",
 "media_type": "Text",
 "index_reference": "西布倫",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zebulun"
+}
+]
 }
 },
 {
 "content_id": "232996",
 "reference_id": 108395,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "西宏與噩",
 "media_type": "Text",
 "index_reference": "西宏與噩",
@@ -44,13 +60,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Og",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Og"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sihon"
+}
+]
 }
 },
 {
 "content_id": "232722",
 "reference_id": 108121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "西拉",
 "media_type": "Text",
 "index_reference": "西拉",
@@ -60,13 +91,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Silas"
+}
+]
 }
 },
 {
 "content_id": "233006",
 "reference_id": 108405,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "西羅非哈的女兒",
 "media_type": "Text",
 "index_reference": "西羅非哈的女兒",
@@ -76,13 +115,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hoglah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hoglah"
+},
+{
+"id": "person:Mahlah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mahlah"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Milcah"
+},
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noah"
+},
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirzah"
+}
+]
 }
 },
 {
 "content_id": "232685",
 "reference_id": 108084,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "西羅亞",
 "media_type": "Text",
 "index_reference": "西羅亞",
@@ -92,13 +167,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Siloam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Siloam"
+}
+]
 }
 },
 {
 "content_id": "232928",
 "reference_id": 108327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "西奈山",
 "media_type": "Text",
 "index_reference": "西奈山",
@@ -108,13 +191,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:SinaiMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount Sinai"
+}
+]
 }
 },
 {
 "content_id": "232929",
 "reference_id": 108328,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "西奈山之約",
 "media_type": "Text",
 "index_reference": "西奈山之約",
@@ -130,7 +221,7 @@
 {
 "content_id": "233133",
 "reference_id": 108532,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "希伯來",
 "media_type": "Text",
 "index_reference": "希伯來",
@@ -161,7 +252,7 @@
 {
 "content_id": "232795",
 "reference_id": 108194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "希臘",
 "media_type": "Text",
 "index_reference": "希臘",
@@ -171,13 +262,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Greece"
+}
+]
 }
 },
 {
 "content_id": "232658",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "希律安提帕",
 "media_type": "Text",
 "index_reference": "希律安提帕",
@@ -187,13 +286,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod Antipas"
+}
+]
 }
 },
 {
 "content_id": "232663",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "希律黨人",
 "media_type": "Text",
 "index_reference": "希律黨人",
@@ -203,13 +310,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Herodian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodians"
+}
+]
 }
 },
 {
 "content_id": "232740",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "希律亞基帕二世",
 "media_type": "Text",
 "index_reference": "希律亞基帕二世",
@@ -219,13 +334,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod"
+}
+]
 }
 },
 {
 "content_id": "232711",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "希律亞基帕一世",
 "media_type": "Text",
 "index_reference": "希律亞基帕一世",
@@ -235,13 +358,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Agrippa"
+}
+]
 }
 },
 {
 "content_id": "233028",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "希未人",
 "media_type": "Text",
 "index_reference": "希未人",
@@ -251,13 +382,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
+}
+]
 }
 },
 {
 "content_id": "233097",
 "reference_id": 108496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "希西家",
 "media_type": "Text",
 "index_reference": "希西家",
@@ -267,13 +406,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hezekiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "person:Hezekiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "person:Hezekiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "person:Hezekiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+}
+]
 }
 },
 {
 "content_id": "232891",
 "reference_id": 108290,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "悉帕",
 "media_type": "Text",
 "index_reference": "悉帕",
@@ -291,13 +459,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Zilpah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zilpah"
+}
+]
 }
 },
 {
 "content_id": "232638",
 "reference_id": 108037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "洗禮",
 "media_type": "Text",
 "index_reference": "洗禮",
@@ -307,7 +483,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Baptism"
+}
+]
 }
 }
 ]

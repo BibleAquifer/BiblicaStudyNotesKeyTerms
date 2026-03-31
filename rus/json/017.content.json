@@ -2,7 +2,7 @@
 {
 "content_id": "193503",
 "reference_id": 108421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Раав",
 "media_type": "Text",
 "index_reference": "раав",
@@ -16,16 +16,16 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "Раав",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Раав"
 },
 {
-"id": "person:Rapha",
-"type": "person",
-"preferred_label": "Рафа",
-"confidence": 0.8034,
-"match_method": "embedding"
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Египет"
 }
 ]
 }
@@ -33,7 +33,7 @@
 {
 "content_id": "193340",
 "reference_id": 108258,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Рабство",
 "media_type": "Text",
 "index_reference": "рабство",
@@ -43,40 +43,40 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"preferred_label": "Kingdom",
-"confidence": 0.8398,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "193460",
 "reference_id": 108378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Рабы (слуги)",
 "media_type": "Text",
-"index_reference": "рабы (слуги)",
+"index_reference": "рабы слуги",
 "language": "rus",
 "review_level": "None",
 "content": "<p><span>Израильтянам разрешалось работать в качестве рабов на других израильтян (Исх.21:1–11). Такой труд мог помочь им расплатиться с долгами. После шести лет работы рабам предоставлялся выбор. Они могли получить свободу или остаться со своими хозяевами и работать на них всю свою оставшуюся жизнь. Если раб выбирал свободу, ему давали еду и домашний скот. С такими рабами нельзя было плохо обращаться, потому что Бог освободил весь Свой народ от рабства в Египте. Израильтяне больше никогда не должны были становиться рабами. Возвращение в рабство было одним из проклятий завета.</span></p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericServants",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Servants"
+}
+]
 }
 },
 {
 "content_id": "193128",
 "reference_id": 108046,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Равви (раввуни)",
 "media_type": "Text",
-"index_reference": "равви (раввуни)",
+"index_reference": "равви раввуни",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Иудейский учитель мужского пола. <span>Раввины обычно изучали Ветхий Завет и другие еврейские писания и обучали им в своих школах. Люди, которые хотели учиться у раввинов и быть похожими на них, становились их учениками.</span> Учениками в те времена могли быть только мальчики или взрослые мужчины. Иисус тоже был Раввином, хотя мы не знаем, где и у кого Он получил подобное образование. Когда Сам Иисус стал Раввином (т.е. Учителем), Его учениками могли быть не только мужчины, но также и женщины. </p>",
@@ -89,7 +89,7 @@
 {
 "content_id": "193596",
 "reference_id": 108514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Развод",
 "media_type": "Text",
 "index_reference": "развод",
@@ -113,7 +113,7 @@
 {
 "content_id": "193358",
 "reference_id": 108276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Рахиль",
 "media_type": "Text",
 "index_reference": "рахиль",
@@ -127,9 +127,9 @@
 {
 "id": "person:Rachel",
 "type": "person",
-"preferred_label": "Рахиль",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Рахиль"
 }
 ]
 }
@@ -137,7 +137,7 @@
 {
 "content_id": "193348",
 "reference_id": 108266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ревекка",
 "media_type": "Text",
 "index_reference": "ревекка",
@@ -151,9 +151,9 @@
 {
 "id": "person:Rebekah",
 "type": "person",
-"preferred_label": "Ревекка",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ревекка"
 }
 ]
 }
@@ -161,7 +161,7 @@
 {
 "content_id": "193427",
 "reference_id": 108345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ревнитель",
 "media_type": "Text",
 "index_reference": "ревнитель",
@@ -171,13 +171,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "193636",
 "reference_id": 108554,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Река Евфрат",
 "media_type": "Text",
 "index_reference": "река евфрат",
@@ -187,13 +195,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Евфрат"
+}
+]
 }
 },
 {
 "content_id": "193488",
 "reference_id": 108406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Река Иордан",
 "media_type": "Text",
 "index_reference": "река иордан",
@@ -207,9 +223,9 @@
 {
 "id": "place:Jordan",
 "type": "place",
-"preferred_label": "Jordan River",
-"confidence": 0.8124,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jordan River"
 }
 ]
 }
@@ -217,7 +233,7 @@
 {
 "content_id": "193383",
 "reference_id": 108301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Река Нил",
 "media_type": "Text",
 "index_reference": "река нил",
@@ -227,13 +243,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нил"
+}
+]
 }
 },
 {
 "content_id": "193129",
 "reference_id": 108047,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Рим",
 "media_type": "Text",
 "index_reference": "рим",
@@ -243,13 +267,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Римлянин"
+}
+]
 }
 },
 {
 "content_id": "193209",
 "reference_id": 108127,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Римское гражданство",
 "media_type": "Text",
 "index_reference": "римское гражданство",
@@ -265,7 +297,7 @@
 {
 "content_id": "193560",
 "reference_id": 108478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ровоам",
 "media_type": "Text",
 "index_reference": "ровоам",
@@ -279,9 +311,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "Ровоам",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ровоам"
 }
 ]
 }
@@ -289,7 +321,7 @@
 {
 "content_id": "193302",
 "reference_id": 108220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Родословие",
 "media_type": "Text",
 "index_reference": "родословие ",
@@ -305,7 +337,7 @@
 {
 "content_id": "193171",
 "reference_id": 108089,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Рождение свыше",
 "media_type": "Text",
 "index_reference": "рождение свыше",
@@ -321,7 +353,7 @@
 {
 "content_id": "193489",
 "reference_id": 108407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Рувим",
 "media_type": "Text",
 "index_reference": "рувим",
@@ -333,18 +365,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Reuben",
-"type": "group",
-"preferred_label": "Рувим",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Reuben",
 "type": "person",
-"preferred_label": "Рувим",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Рувим"
 }
 ]
 }
@@ -352,7 +377,7 @@
 {
 "content_id": "193529",
 "reference_id": 108447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Руфь",
 "media_type": "Text",
 "index_reference": "руфь",
@@ -366,9 +391,9 @@
 {
 "id": "person:Ruth",
 "type": "person",
-"preferred_label": "Руфь",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Руфь"
 }
 ]
 }

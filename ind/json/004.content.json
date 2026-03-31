@@ -2,7 +2,7 @@
 {
 "content_id": "203536",
 "reference_id": 108401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baal",
 "media_type": "Text",
 "index_reference": "baal",
@@ -14,32 +14,39 @@
 "resource": [],
 "acai": [
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
+"id": "person:Baal.2",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "deity:Baal-berith",
-"type": "deity",
-"preferred_label": "Baal",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baal"
 },
 {
 "id": "person:Baal",
 "type": "person",
-"preferred_label": "Baal",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baal"
 },
 {
-"id": "person:Baal.2",
-"type": "person",
-"preferred_label": "Baal",
+"id": "place:Baalath-beer",
+"type": "place",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
 }
 ]
 }
@@ -47,7 +54,7 @@
 {
 "content_id": "203537",
 "reference_id": 108402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baal Peor",
 "media_type": "Text",
 "index_reference": "baal peor",
@@ -57,13 +64,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Peor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Peor"
+}
+]
 }
 },
 {
 "content_id": "203374",
 "reference_id": 108239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babel",
 "media_type": "Text",
 "index_reference": "babel",
@@ -73,21 +88,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babel",
-"confidence": 1.0,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "203633",
 "reference_id": 108498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babilon",
 "media_type": "Text",
 "index_reference": "babilon",
@@ -101,9 +108,16 @@
 {
 "id": "place:Babylon.2",
 "type": "place",
-"preferred_label": "Babylon",
-"confidence": 0.9366,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babel"
 }
 ]
 }
@@ -111,7 +125,7 @@
 {
 "content_id": "203371",
 "reference_id": 108236,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bahtera",
 "media_type": "Text",
 "index_reference": "bahtera",
@@ -127,7 +141,7 @@
 {
 "content_id": "203552",
 "reference_id": 108417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bait Allah",
 "media_type": "Text",
 "index_reference": "bait allah",
@@ -137,13 +151,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+}
+]
 }
 },
 {
 "content_id": "203531",
 "reference_id": 108396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balak",
 "media_type": "Text",
 "index_reference": "balak",
@@ -157,9 +179,9 @@
 {
 "id": "person:Balak",
 "type": "person",
-"preferred_label": "Balak",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Balak"
 }
 ]
 }
@@ -167,7 +189,7 @@
 {
 "content_id": "203447",
 "reference_id": 108312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bapa",
 "media_type": "Text",
 "index_reference": "bapa",
@@ -179,11 +201,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Beth-gader",
-"type": "place",
-"preferred_label": "bapa",
-"confidence": 0.9202,
-"match_method": "embedding"
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
 }
 ]
 }
@@ -191,7 +213,7 @@
 {
 "content_id": "203422",
 "reference_id": 108287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bapa leluhur",
 "media_type": "Text",
 "index_reference": "bapa leluhur",
@@ -207,7 +229,7 @@
 {
 "content_id": "203172",
 "reference_id": 108037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baptisan",
 "media_type": "Text",
 "index_reference": "baptisan",
@@ -221,9 +243,9 @@
 {
 "id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "baptisan",
-"confidence": 0.8097,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "baptisan"
 }
 ]
 }
@@ -231,7 +253,7 @@
 {
 "content_id": "203211",
 "reference_id": 108076,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barabbas",
 "media_type": "Text",
 "index_reference": "barabbas",
@@ -245,9 +267,9 @@
 {
 "id": "person:Barabbas",
 "type": "person",
-"preferred_label": "Barabas",
-"confidence": 0.8281,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barabas"
 }
 ]
 }
@@ -255,7 +277,7 @@
 {
 "content_id": "203570",
 "reference_id": 108435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barak",
 "media_type": "Text",
 "index_reference": "barak",
@@ -269,9 +291,9 @@
 {
 "id": "person:Barak",
 "type": "person",
-"preferred_label": "Barak",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Barak"
 }
 ]
 }
@@ -279,7 +301,7 @@
 {
 "content_id": "203242",
 "reference_id": 108107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barnabas",
 "media_type": "Text",
 "index_reference": "barnabas",
@@ -293,9 +315,9 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "Barnabas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Barnabas"
 }
 ]
 }
@@ -303,7 +325,7 @@
 {
 "content_id": "203603",
 "reference_id": 108468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Batsyeba",
 "media_type": "Text",
 "index_reference": "batsyeba",
@@ -317,16 +339,9 @@
 {
 "id": "person:Bathsheba",
 "type": "person",
-"preferred_label": "Batsyeba",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Beersheba",
-"type": "place",
-"preferred_label": "Bersyeba",
-"confidence": 0.8375,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Batsyeba"
 }
 ]
 }
@@ -334,7 +349,7 @@
 {
 "content_id": "203516",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Beli kembali",
 "media_type": "Text",
 "index_reference": "beli kembali",
@@ -350,7 +365,7 @@
 {
 "content_id": "203389",
 "reference_id": 108254,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Benar di hadapan Tuhan",
 "media_type": "Text",
 "index_reference": "benar di hadapan tuhan",
@@ -366,7 +381,7 @@
 {
 "content_id": "203429",
 "reference_id": 108294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Benyamin",
 "media_type": "Text",
 "index_reference": "benyamin",
@@ -378,67 +393,39 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Benyamin",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benyamin",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Benjamin.2",
 "type": "person",
-"preferred_label": "Benyamin",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benyamin"
 },
 {
 "id": "person:Benjamin.3",
 "type": "person",
-"preferred_label": "Benyamin",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benyamin"
 },
 {
 "id": "person:Benjamin.4",
 "type": "person",
-"preferred_label": "Benyamin",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benyamin"
 },
 {
 "id": "person:Benjamin.5",
 "type": "person",
-"preferred_label": "Benyamin",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benyamin"
 },
 {
-"id": "place:BenjaminGate",
-"type": "place",
-"preferred_label": "Benyamin",
+"id": "person:Benjamin",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Miniamin.2",
-"type": "person",
-"preferred_label": "Minyamin",
-"confidence": 0.8199,
-"match_method": "embedding"
-},
-{
-"id": "person:Miniamin.3",
-"type": "person",
-"preferred_label": "Minyamin",
-"confidence": 0.8199,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benyamin"
 }
 ]
 }
@@ -446,7 +433,7 @@
 {
 "content_id": "203232",
 "reference_id": 108097,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berbicara bahasa lain",
 "media_type": "Text",
 "index_reference": "berbicara bahasa lain",
@@ -470,7 +457,7 @@
 {
 "content_id": "203264",
 "reference_id": 108129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berea",
 "media_type": "Text",
 "index_reference": "berea",
@@ -484,51 +471,9 @@
 {
 "id": "place:Berea",
 "type": "place",
-"preferred_label": "Berea",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Beera",
-"type": "person",
-"preferred_label": "Beera",
-"confidence": 0.8611,
-"match_method": "embedding"
-},
-{
-"id": "person:Beerah",
-"type": "person",
-"preferred_label": "Beera",
-"confidence": 0.8611,
-"match_method": "embedding"
-},
-{
-"id": "person:Beriah",
-"type": "person",
-"preferred_label": "Beria",
-"confidence": 0.8396,
-"match_method": "embedding"
-},
-{
-"id": "person:Beriah.2",
-"type": "person",
-"preferred_label": "Beria",
-"confidence": 0.8396,
-"match_method": "embedding"
-},
-{
-"id": "person:Beriah.3",
-"type": "person",
-"preferred_label": "Beria",
-"confidence": 0.8396,
-"match_method": "embedding"
-},
-{
-"id": "person:Beriah.4",
-"type": "person",
-"preferred_label": "Beria",
-"confidence": 0.8396,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Berea"
 }
 ]
 }
@@ -536,10 +481,10 @@
 {
 "content_id": "203419",
 "reference_id": 108284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berhala-berhala",
 "media_type": "Text",
-"index_reference": "berhala-berhala",
+"index_reference": "berhalaberhala",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Apapun yang disembah orang yang lebih penting bagi mereka dibandingkan Allah yang sejati. Orang-orang menyembah sesuatu karena mereka percaya hal itu memiliki kekuatan. Iblis menggunakan penyembahan mereka akan hal-hal ini untuk menjebak orang-orang dan mengendalikan mereka. Sekelompok orang dalam Alkitab membuat gambar atau patung dari beberapa hal ini. Gambar atau patung berhala-berhala adalah benda yang tidak memiliki kekuatan.</p>",
@@ -552,7 +497,7 @@
 {
 "content_id": "203669",
 "reference_id": 108534,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berita Penghakiman",
 "media_type": "Text",
 "index_reference": "berita penghakiman",
@@ -568,7 +513,7 @@
 {
 "content_id": "203406",
 "reference_id": 108271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berkat dari bapa",
 "media_type": "Text",
 "index_reference": "berkat dari bapa",
@@ -584,10 +529,10 @@
 {
 "content_id": "203514",
 "reference_id": 108379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berkat-berkat perjanjian",
 "media_type": "Text",
-"index_reference": "berkat-berkat perjanjian",
+"index_reference": "berkatberkat perjanjian",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Hal-hal yang baik akan terjadi ketika orang-orang setia pada sebuah perjanjian. Dalam perjanjian dengan Allah, menjadi setia berarti hidup menurut cara Allah. Ini membawa kepada berkat-berkat yang telah Allah sediakan. Hal ini biasanya berkaitan dengan tanah, anak-anak, dan kehadiran Allah. </p>",
@@ -600,10 +545,10 @@
 {
 "content_id": "203290",
 "reference_id": 108155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berkat-berkat rohani",
 "media_type": "Text",
-"index_reference": "berkat-berkat rohani",
+"index_reference": "berkatberkat rohani",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Cara-cara Allah memberkati umat-Nya secara rohani. Berkat-berkat ini bukanlah sesuatu yang dapat dipegang oleh manusia. Berkat-berkat ini adalah kekayaan di surga yang dibicarakan oleh Yesus (Matius 6:19–21). Ada banyak jenis berkat rohani. Hikmat, pengertian, kasih karunia, pengharapan dan kasih adalah berkat-berkat rohani. Diampuni dari dosa dan memiliki hidup yang kekal juga merupakan berkat rohani. Manusia tidak mendapatkan berkat-berkat rohani dengan usahanya sendiri. Allah memberikannya secara cuma-cuma.</p>",
@@ -616,7 +561,7 @@
 {
 "content_id": "203314",
 "reference_id": 108179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berpakaian putih",
 "media_type": "Text",
 "index_reference": "berpakaian putih",
@@ -632,7 +577,7 @@
 {
 "content_id": "203430",
 "reference_id": 108295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bersyeba",
 "media_type": "Text",
 "index_reference": "bersyeba",
@@ -646,16 +591,9 @@
 {
 "id": "place:Beersheba",
 "type": "place",
-"preferred_label": "Bersyeba",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Bathsheba",
-"type": "person",
-"preferred_label": "Batsyeba",
-"confidence": 0.8375,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bersyeba"
 }
 ]
 }
@@ -663,7 +601,7 @@
 {
 "content_id": "203481",
 "reference_id": 108346,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bertobat",
 "media_type": "Text",
 "index_reference": "bertobat",
@@ -681,13 +619,21 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "bertobat"
+}
+]
 }
 },
 {
 "content_id": "203210",
 "reference_id": 108075,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Betania",
 "media_type": "Text",
 "index_reference": "betania",
@@ -699,32 +645,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethany",
-"type": "place",
-"preferred_label": "Betania",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethany.2",
 "type": "place",
-"preferred_label": "Betania",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Betania"
 },
 {
-"id": "place:Batanea",
+"id": "place:Bethany",
 "type": "place",
-"preferred_label": "Batanea",
-"confidence": 0.8715,
-"match_method": "embedding"
-},
-{
-"id": "place:Bithynia",
-"type": "place",
-"preferred_label": "Bitinia",
-"confidence": 0.8344,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betania"
 }
 ]
 }
@@ -732,7 +664,7 @@
 {
 "content_id": "203407",
 "reference_id": 108272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Betel",
 "media_type": "Text",
 "index_reference": "betel",
@@ -744,25 +676,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Betel",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethel.2",
 "type": "place",
-"preferred_label": "Betel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Betel"
 },
 {
-"id": "place:Beten",
+"id": "place:Bethel",
 "type": "place",
-"preferred_label": "Beten",
-"confidence": 0.8368,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betel"
 }
 ]
 }
@@ -770,7 +695,7 @@
 {
 "content_id": "203577",
 "reference_id": 108442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Betlehem",
 "media_type": "Text",
 "index_reference": "betlehem",
@@ -782,32 +707,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hareph",
-"type": "person",
-"preferred_label": "Betlehem",
+"id": "place:Bethlehem.2",
+"type": "place",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Betlehem"
 },
 {
 "id": "place:Bethlehem",
 "type": "place",
-"preferred_label": "Betlehem",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Bethlehem.2",
-"type": "place",
-"preferred_label": "Betlehem",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:GeruthChimham",
-"type": "place",
-"preferred_label": "Betlehem",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Betlehem"
 }
 ]
 }
@@ -815,7 +726,7 @@
 {
 "content_id": "203533",
 "reference_id": 108398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bileam",
 "media_type": "Text",
 "index_reference": "bileam",
@@ -829,9 +740,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "Bileam",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bileam"
 }
 ]
 }
@@ -839,7 +750,7 @@
 {
 "content_id": "203424",
 "reference_id": 108289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bilha",
 "media_type": "Text",
 "index_reference": "bilha",
@@ -861,30 +772,16 @@
 {
 "id": "person:Bilhah",
 "type": "person",
-"preferred_label": "Bilha",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bilha"
 },
 {
 "id": "place:Bilhah",
 "type": "place",
-"preferred_label": "Bilha",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Bilgah",
-"type": "person",
-"preferred_label": "Bilga",
-"confidence": 0.8952,
-"match_method": "embedding"
-},
-{
-"id": "person:Bilgah.2",
-"type": "person",
-"preferred_label": "Bilga",
-"confidence": 0.8952,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bilha"
 }
 ]
 }
@@ -892,7 +789,7 @@
 {
 "content_id": "203289",
 "reference_id": 108154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Buah Roh",
 "media_type": "Text",
 "index_reference": "buah roh",
@@ -908,7 +805,7 @@
 {
 "content_id": "203393",
 "reference_id": 108258,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Budak",
 "media_type": "Text",
 "index_reference": "budak",
@@ -924,7 +821,7 @@
 {
 "content_id": "203198",
 "reference_id": 108063,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bukit Zaitun",
 "media_type": "Text",
 "index_reference": "bukit zaitun",
@@ -934,16 +831,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zaitun"
+}
+]
 }
 },
 {
 "content_id": "203634",
 "reference_id": 108499,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bukit-bukit pengorbanan",
 "media_type": "Text",
-"index_reference": "bukit-bukit pengorbanan",
+"index_reference": "bukitbukit pengorbanan",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Sebuah tempat ibadah di atas bukit, gunung, atau tempat di dataran tinggi. Orang-orang membakar ukupan dan membuat pengorbanan di sana. Beberapa bukit pengorbanan digunakan untuk menyembah Allah yang sejati. Ini sering terjadi sebelum bait suci dibangun. Bukit pengorbanan lainnya digunakan untuk menyembah berhala. Orang-orang bahkan akan mengorbankan anak-anak mereka untuk menghormati berhala-berhala. Ada banyak bukit pengorbanan seperti ini ketika bangsa Israel pertama kali memasuki Kanaan. Bangsa Israel seharusnya menghancurkan semua bukit pengorbanan yang digunakan untuk menyembah para berhala.</p>",

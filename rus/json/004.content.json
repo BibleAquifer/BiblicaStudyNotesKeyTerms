@@ -2,7 +2,7 @@
 {
 "content_id": "193483",
 "reference_id": 108401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ваал",
 "media_type": "Text",
 "index_reference": "ваал",
@@ -14,39 +14,39 @@
 "resource": [],
 "acai": [
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Ваал",
+"id": "person:Baal.2",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ваал"
 },
 {
 "id": "person:Baal",
 "type": "person",
-"preferred_label": "Ваал",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ваал"
 },
 {
-"id": "person:Baal.2",
-"type": "person",
-"preferred_label": "Ваал",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Baalah",
+"id": "place:Baalath-beer",
 "type": "place",
-"preferred_label": "Ваал",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
 },
 {
-"id": "place:Balah",
-"type": "place",
-"preferred_label": "Вала",
-"confidence": 0.8937,
-"match_method": "embedding"
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ваал"
 }
 ]
 }
@@ -54,10 +54,10 @@
 {
 "content_id": "193484",
 "reference_id": 108402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ваал-Фегор",
 "media_type": "Text",
-"index_reference": "ваал-фегор",
+"index_reference": "ваалфегор",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Фегор <span>был </span>местом на территории Моава. Именно там израильтяне нарушили свой завет с Богом, начав поклоняться божеству Ваалу, но за это тысячи израильтян были истреблены. </p>",
@@ -68,9 +68,9 @@
 {
 "id": "place:Peor",
 "type": "place",
-"preferred_label": "Ваал-Фегор",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ваал-Фегор"
 }
 ]
 }
@@ -78,7 +78,7 @@
 {
 "content_id": "193321",
 "reference_id": 108239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вавилон",
 "media_type": "Text",
 "index_reference": "вавилон",
@@ -88,21 +88,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Вавилон",
-"confidence": 1.0,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "193580",
 "reference_id": 108498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вавилон",
 "media_type": "Text",
 "index_reference": "вавилон",
@@ -114,11 +106,18 @@
 "resource": [],
 "acai": [
 {
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
 "id": "place:Babylon",
 "type": "place",
-"preferred_label": "Вавилон",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Вавилон"
 }
 ]
 }
@@ -126,7 +125,7 @@
 {
 "content_id": "193480",
 "reference_id": 108398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Валаам",
 "media_type": "Text",
 "index_reference": "валаам",
@@ -140,9 +139,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "Валаам",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Валаам"
 }
 ]
 }
@@ -150,7 +149,7 @@
 {
 "content_id": "193478",
 "reference_id": 108396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Валак",
 "media_type": "Text",
 "index_reference": "валак",
@@ -164,9 +163,9 @@
 {
 "id": "person:Balak",
 "type": "person",
-"preferred_label": "Валак",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Валак"
 }
 ]
 }
@@ -174,7 +173,7 @@
 {
 "content_id": "193371",
 "reference_id": 108289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Валла",
 "media_type": "Text",
 "index_reference": "валла",
@@ -196,16 +195,16 @@
 {
 "id": "person:Bilhah",
 "type": "person",
-"preferred_label": "Валла",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Валла"
 },
 {
 "id": "place:Bilhah",
 "type": "place",
-"preferred_label": "Валла",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Валла"
 }
 ]
 }
@@ -213,7 +212,7 @@
 {
 "content_id": "193158",
 "reference_id": 108076,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Варавва",
 "media_type": "Text",
 "index_reference": "варавва",
@@ -227,16 +226,9 @@
 {
 "id": "person:Barabbas",
 "type": "person",
-"preferred_label": "Варавва",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Barnabas",
-"type": "person",
-"preferred_label": "Варнава",
-"confidence": 0.8067,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Варавва"
 }
 ]
 }
@@ -244,7 +236,7 @@
 {
 "content_id": "193517",
 "reference_id": 108435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Варак",
 "media_type": "Text",
 "index_reference": "варак",
@@ -258,9 +250,9 @@
 {
 "id": "person:Barak",
 "type": "person",
-"preferred_label": "Варак",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Варак"
 }
 ]
 }
@@ -268,7 +260,7 @@
 {
 "content_id": "193189",
 "reference_id": 108107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Варнава",
 "media_type": "Text",
 "index_reference": "варнава",
@@ -282,16 +274,9 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "Варнава",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Barabbas",
-"type": "person",
-"preferred_label": "Варавва",
-"confidence": 0.8067,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Варнава"
 }
 ]
 }
@@ -299,7 +284,7 @@
 {
 "content_id": "193376",
 "reference_id": 108294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вениамин",
 "media_type": "Text",
 "index_reference": "вениамин",
@@ -311,46 +296,39 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Вениамин",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Вениамин",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Benjamin.2",
 "type": "person",
-"preferred_label": "Вениамин",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Вениамин"
 },
 {
 "id": "person:Benjamin.3",
 "type": "person",
-"preferred_label": "Вениамин",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Вениамин"
 },
 {
 "id": "person:Benjamin.4",
 "type": "person",
-"preferred_label": "Вениамин",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Вениамин"
 },
 {
 "id": "person:Benjamin.5",
 "type": "person",
-"preferred_label": "Вениамин",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Вениамин"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Вениамин"
 }
 ]
 }
@@ -358,7 +336,7 @@
 {
 "content_id": "193314",
 "reference_id": 108232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вера",
 "media_type": "Text",
 "index_reference": "вера",
@@ -368,13 +346,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "Trust"
+}
+]
 }
 },
 {
 "content_id": "193337",
 "reference_id": 108255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Верить",
 "media_type": "Text",
 "index_reference": "верить ",
@@ -394,11 +380,11 @@
 ],
 "acai": [
 {
-"id": "keyterm:Believe",
+"id": "keyterm:BelieveIn",
 "type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.8217,
-"match_method": "embedding"
+"confidence": 0.9789,
+"match_method": "embedding",
+"preferred_label": "Believe In"
 }
 ]
 }
@@ -406,7 +392,7 @@
 {
 "content_id": "193211",
 "reference_id": 108129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Верия",
 "media_type": "Text",
 "index_reference": "верия",
@@ -416,13 +402,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Верию"
+}
+]
 }
 },
 {
 "content_id": "193159",
 "reference_id": 108077,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Верующий",
 "media_type": "Text",
 "index_reference": "верующий",
@@ -438,7 +432,7 @@
 {
 "content_id": "193274",
 "reference_id": 108192,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ветхий Завет",
 "media_type": "Text",
 "index_reference": "ветхий завет",
@@ -454,7 +448,7 @@
 {
 "content_id": "193354",
 "reference_id": 108272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вефиль",
 "media_type": "Text",
 "index_reference": "вефиль",
@@ -464,13 +458,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+}
+]
 }
 },
 {
 "content_id": "193230",
 "reference_id": 108148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вечеря Господня",
 "media_type": "Text",
 "index_reference": "вечеря господня",
@@ -486,7 +495,7 @@
 {
 "content_id": "193651",
 "reference_id": 108569,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вечная жизнь",
 "media_type": "Text",
 "index_reference": "вечная жизнь",
@@ -502,7 +511,7 @@
 {
 "content_id": "193649",
 "reference_id": 108567,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вечный Бог",
 "media_type": "Text",
 "index_reference": "вечный бог",
@@ -512,13 +521,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "193378",
 "reference_id": 108296,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Видение",
 "media_type": "Text",
 "index_reference": "видение",
@@ -536,13 +553,21 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Vision"
+}
+]
 }
 },
 {
 "content_id": "193377",
 "reference_id": 108295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вирсавия",
 "media_type": "Text",
 "index_reference": "вирсавия",
@@ -552,13 +577,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beersheba"
+}
+]
 }
 },
 {
 "content_id": "193550",
 "reference_id": 108468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вирсавия",
 "media_type": "Text",
 "index_reference": "вирсавия",
@@ -568,13 +601,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bathsheba"
+}
+]
 }
 },
 {
 "content_id": "193157",
 "reference_id": 108075,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вифания",
 "media_type": "Text",
 "index_reference": "вифания",
@@ -586,25 +627,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethany",
-"type": "place",
-"preferred_label": "Вифания",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethany.2",
 "type": "place",
-"preferred_label": "Вифания",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Вифания"
 },
 {
-"id": "place:Bithynia",
+"id": "place:Bethany",
 "type": "place",
-"preferred_label": "Вифиния",
-"confidence": 0.9451,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Вифания"
 }
 ]
 }
@@ -612,7 +646,7 @@
 {
 "content_id": "193524",
 "reference_id": 108442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вифлеем",
 "media_type": "Text",
 "index_reference": "вифлеем",
@@ -624,18 +658,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Вифлеем",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethlehem.2",
 "type": "place",
-"preferred_label": "Вифлеем",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Вифлеем"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Вифлеем"
 }
 ]
 }
@@ -643,7 +677,7 @@
 {
 "content_id": "193155",
 "reference_id": 108073,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Во имя Иисуса",
 "media_type": "Text",
 "index_reference": "во имя иисуса",
@@ -659,7 +693,7 @@
 {
 "content_id": "193441",
 "reference_id": 108359,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вода",
 "media_type": "Text",
 "index_reference": "вода",
@@ -675,7 +709,7 @@
 {
 "content_id": "193188",
 "reference_id": 108106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Возложение рук",
 "media_type": "Text",
 "index_reference": "возложение рук",
@@ -691,7 +725,7 @@
 {
 "content_id": "193650",
 "reference_id": 108568,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Воскресение",
 "media_type": "Text",
 "index_reference": "воскресение",
@@ -701,13 +735,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
 "content_id": "193432",
 "reference_id": 108350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Всесожжение",
 "media_type": "Text",
 "index_reference": "всесожжение",
@@ -723,7 +765,7 @@
 {
 "content_id": "193257",
 "reference_id": 108175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вторая смерть",
 "media_type": "Text",
 "index_reference": "вторая смерть",
@@ -739,7 +781,7 @@
 {
 "content_id": "193147",
 "reference_id": 108065,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Второе пришествие Иисуса",
 "media_type": "Text",
 "index_reference": "второе пришествие иисуса",
@@ -755,7 +797,7 @@
 {
 "content_id": "193543",
 "reference_id": 108461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Вызывающий мёртвых",
 "media_type": "Text",
 "index_reference": "вызывающий мёртвых",
@@ -771,7 +813,7 @@
 {
 "content_id": "193463",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Выкупить",
 "media_type": "Text",
 "index_reference": "выкупить",
@@ -787,10 +829,10 @@
 {
 "content_id": "193175",
 "reference_id": 108093,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Выражения «Я есмь»",
 "media_type": "Text",
-"index_reference": "выражения «я есмь»",
+"index_reference": "выражения я есмь",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Способ, который использовал Иисус, чтобы рассказать людям о том, кто Он такой. В Евангелии от Иоанна Иисус произносит эти слова 7 раз, чтобы раскрыть Свою сущность и дать откровение о Своём служении на земле. Впервые Бог использовал это имя в разговоре с Моисеем в Книге Исход 3:14.</p>",
@@ -803,7 +845,7 @@
 {
 "content_id": "193581",
 "reference_id": 108499,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Высоты",
 "media_type": "Text",
 "index_reference": "высоты",
@@ -813,21 +855,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Height",
-"type": "keyterm",
-"preferred_label": "Height",
-"confidence": 0.877,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "193235",
 "reference_id": 108153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Высшие апостолы",
 "media_type": "Text",
 "index_reference": "высшие апостолы",

@@ -2,7 +2,7 @@
 {
 "content_id": "232148",
 "reference_id": 108179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vestido de blanco",
 "media_type": "Text",
 "index_reference": "vestido de blanco",
@@ -18,7 +18,7 @@
 {
 "content_id": "232318",
 "reference_id": 108349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vestiduras sacerdotales",
 "media_type": "Text",
 "index_reference": "vestiduras sacerdotales",
@@ -34,7 +34,7 @@
 {
 "content_id": "232538",
 "reference_id": 108569,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vida eterna",
 "media_type": "Text",
 "index_reference": "vida eterna",
@@ -50,7 +50,7 @@
 {
 "content_id": "232013",
 "reference_id": 108044,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vida santa",
 "media_type": "Text",
 "index_reference": "vida santa",
@@ -66,7 +66,7 @@
 {
 "content_id": "232265",
 "reference_id": 108296,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Visión",
 "media_type": "Text",
 "index_reference": "visión",
@@ -88,9 +88,9 @@
 {
 "id": "keyterm:Vision",
 "type": "keyterm",
-"preferred_label": "visión",
-"confidence": 0.8771,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "visión"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "145930",
 "reference_id": 108421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raabe",
 "media_type": "Text",
 "index_reference": "raabe",
@@ -16,9 +16,16 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "Raabe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Raabe"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egito"
 }
 ]
 }
@@ -26,7 +33,7 @@
 {
 "content_id": "145555",
 "reference_id": 108046,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rabino",
 "media_type": "Text",
 "index_reference": "rabino",
@@ -42,7 +49,7 @@
 {
 "content_id": "145785",
 "reference_id": 108276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raquel",
 "media_type": "Text",
 "index_reference": "raquel",
@@ -56,9 +63,9 @@
 {
 "id": "person:Rachel",
 "type": "person",
-"preferred_label": "Raquel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Raquel"
 }
 ]
 }
@@ -66,7 +73,7 @@
 {
 "content_id": "145775",
 "reference_id": 108266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rebeca",
 "media_type": "Text",
 "index_reference": "rebeca",
@@ -80,9 +87,9 @@
 {
 "id": "person:Rebekah",
 "type": "person",
-"preferred_label": "Rebeca",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rebeca"
 }
 ]
 }
@@ -90,7 +97,7 @@
 {
 "content_id": "145890",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Recomprar",
 "media_type": "Text",
 "index_reference": "recomprar",
@@ -106,7 +113,7 @@
 {
 "content_id": "145839",
 "reference_id": 108330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rei",
 "media_type": "Text",
 "index_reference": "rei",
@@ -122,7 +129,7 @@
 {
 "content_id": "146070",
 "reference_id": 108561,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reino de Deus",
 "media_type": "Text",
 "index_reference": "reino de deus",
@@ -146,7 +153,7 @@
 {
 "content_id": "145846",
 "reference_id": 108337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reino de sacerdotes",
 "media_type": "Text",
 "index_reference": "reino de sacerdotes",
@@ -162,7 +169,7 @@
 {
 "content_id": "145988",
 "reference_id": 108479,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reino do Norte",
 "media_type": "Text",
 "index_reference": "reino do norte",
@@ -178,7 +185,7 @@
 {
 "content_id": "145989",
 "reference_id": 108480,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reino do Sul",
 "media_type": "Text",
 "index_reference": "reino do sul",
@@ -188,13 +195,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judeia"
+}
+]
 }
 },
 {
 "content_id": "146077",
 "reference_id": 108568,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ressurreição",
 "media_type": "Text",
 "index_reference": "ressurreição",
@@ -204,16 +219,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "levantamento"
+}
+]
 }
 },
 {
 "content_id": "145574",
 "reference_id": 108065,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Retorno de Jesus, O",
 "media_type": "Text",
-"index_reference": "retorno de jesus, o",
+"index_reference": "retorno de jesus o",
 "language": "por",
 "review_level": "None",
 "content": "<p>Quando Jesus retornar à terra para governar completamente como Rei. Depois que ele ressuscitou dos mortos, ele foi governar com o Pai no céu. Quando ele retornar, todas as pessoas reconhecerão que ele é Senhor e Rei. Jesus acabará com todo o mal na terra. Ele unirá o céu e a terra como um só no reino de Deus.</p>",
@@ -226,7 +249,7 @@
 {
 "content_id": "146063",
 "reference_id": 108554,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rio Eufrates",
 "media_type": "Text",
 "index_reference": "rio eufrates",
@@ -240,9 +263,9 @@
 {
 "id": "place:Euphrates",
 "type": "place",
-"preferred_label": "Rio Eufrates",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rio Eufrates"
 }
 ]
 }
@@ -250,7 +273,7 @@
 {
 "content_id": "145915",
 "reference_id": 108406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rio Jordão",
 "media_type": "Text",
 "index_reference": "rio jordão",
@@ -260,13 +283,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jordan River"
+}
+]
 }
 },
 {
 "content_id": "145810",
 "reference_id": 108301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rio Nilo",
 "media_type": "Text",
 "index_reference": "rio nilo",
@@ -280,9 +311,9 @@
 {
 "id": "place:Nile",
 "type": "place",
-"preferred_label": "Rio Nilo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rio Nilo"
 }
 ]
 }
@@ -290,7 +321,7 @@
 {
 "content_id": "145987",
 "reference_id": 108478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roboão",
 "media_type": "Text",
 "index_reference": "roboão",
@@ -304,9 +335,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "Roboão",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Roboão"
 }
 ]
 }
@@ -314,7 +345,7 @@
 {
 "content_id": "145556",
 "reference_id": 108047,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roma",
 "media_type": "Text",
 "index_reference": "roma",
@@ -328,9 +359,9 @@
 {
 "id": "place:Rome",
 "type": "place",
-"preferred_label": "Roma",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Roma"
 }
 ]
 }
@@ -338,7 +369,7 @@
 {
 "content_id": "145916",
 "reference_id": 108407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rúben",
 "media_type": "Text",
 "index_reference": "rúben",
@@ -350,18 +381,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Reuben",
-"type": "group",
-"preferred_label": "Rúben",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Reuben",
 "type": "person",
-"preferred_label": "Rúben",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rúben"
 }
 ]
 }
@@ -369,7 +393,7 @@
 {
 "content_id": "145956",
 "reference_id": 108447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rute",
 "media_type": "Text",
 "index_reference": "rute",
@@ -383,9 +407,9 @@
 {
 "id": "person:Ruth",
 "type": "person",
-"preferred_label": "Rute",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rute"
 }
 ]
 }

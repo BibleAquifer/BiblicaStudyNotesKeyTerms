@@ -2,7 +2,7 @@
 {
 "content_id": "133860",
 "reference_id": 108058,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صَدُّوقيون",
 "media_type": "Text",
 "index_reference": "صَدُّوقيون",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sadducees"
+}
+]
 }
 },
 {
 "content_id": "134081",
 "reference_id": 108279,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صِراع يعقوب",
 "media_type": "Text",
 "index_reference": "صِراع يعقوب",
@@ -34,7 +42,7 @@
 {
 "content_id": "134029",
 "reference_id": 108227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صلاة",
 "media_type": "Text",
 "index_reference": "صلاة",
@@ -50,7 +58,7 @@
 {
 "content_id": "134332",
 "reference_id": 108530,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صَليب",
 "media_type": "Text",
 "index_reference": "صَليب",
@@ -62,11 +70,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Zophah",
-"type": "person",
-"preferred_label": "صوفَح",
-"confidence": 0.8081,
-"match_method": "embedding"
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
 }
 ]
 }
@@ -74,7 +82,7 @@
 {
 "content_id": "134254",
 "reference_id": 108452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صموئيل",
 "media_type": "Text",
 "index_reference": "صموئيل",
@@ -84,13 +92,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "صَموئِيلَ"
+}
+]
 }
 },
 {
 "content_id": "134277",
 "reference_id": 108475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صُورَ وَصَيْدَاءَ",
 "media_type": "Text",
 "index_reference": "صُورَ وَصَيْدَاءَ",
@@ -100,13 +116,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Sidon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "صِيْدونَ"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "صِيْدونَ"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "صورَ"
+}
+]
 }
 },
 {
 "content_id": "134258",
 "reference_id": 108456,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "صوم",
 "media_type": "Text",
 "index_reference": "صوم",

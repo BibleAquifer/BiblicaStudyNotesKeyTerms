@@ -2,7 +2,7 @@
 {
 "content_id": "203181",
 "reference_id": 108046,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rabi",
 "media_type": "Text",
 "index_reference": "rabi",
@@ -18,7 +18,7 @@
 {
 "content_id": "203556",
 "reference_id": 108421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rahab",
 "media_type": "Text",
 "index_reference": "rahab",
@@ -32,16 +32,16 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "Rahab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rahab"
 },
 {
-"id": "person:Raham",
-"type": "person",
-"preferred_label": "Raham",
-"confidence": 0.8185,
-"match_method": "embedding"
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesir"
 }
 ]
 }
@@ -49,7 +49,7 @@
 {
 "content_id": "203411",
 "reference_id": 108276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rahel",
 "media_type": "Text",
 "index_reference": "rahel",
@@ -63,9 +63,9 @@
 {
 "id": "person:Rachel",
 "type": "person",
-"preferred_label": "Rahel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rahel"
 }
 ]
 }
@@ -73,7 +73,7 @@
 {
 "content_id": "203477",
 "reference_id": 108342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rahmat",
 "media_type": "Text",
 "index_reference": "rahmat",
@@ -85,11 +85,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Affection",
+"id": "keyterm:Mercy",
 "type": "keyterm",
-"preferred_label": "rahmat",
-"confidence": 0.8674,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "belas kasihan"
 }
 ]
 }
@@ -97,7 +97,7 @@
 {
 "content_id": "203465",
 "reference_id": 108330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raja",
 "media_type": "Text",
 "index_reference": "raja",
@@ -107,35 +107,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Hammelech",
-"type": "person",
-"preferred_label": "raja",
-"confidence": 0.893,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehoiachin",
-"type": "person",
-"preferred_label": "raja",
-"confidence": 0.893,
-"match_method": "embedding"
-},
-{
-"id": "place:KingsValley",
-"type": "place",
-"preferred_label": "raja",
-"confidence": 0.893,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "203600",
 "reference_id": 108465,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rasa malu dan kehormatan",
 "media_type": "Text",
 "index_reference": "rasa malu dan kehormatan",
@@ -151,7 +129,7 @@
 {
 "content_id": "203177",
 "reference_id": 108042,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rasul Yakobus",
 "media_type": "Text",
 "index_reference": "rasul yakobus",
@@ -161,16 +139,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:James",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yakobus"
+}
+]
 }
 },
 {
 "content_id": "203288",
 "reference_id": 108153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rasul-palsu/Pengajar-palsu",
 "media_type": "Text",
-"index_reference": "rasul-palsu/pengajar-palsu",
+"index_reference": "rasulpalsupengajarpalsu",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Apa yang Paulus sebut sebagai pemimpin-pemimpin Yahudi tertentu. Para pemimpin ini menentang pekerjaannya di jemaat - jemaat yang pernah ia bantu untuk dirintis. Dibandingkan dengan Paulus, mereka tampak kuat, sukses, sehat dan kaya. Mereka berbohong tentang Paulus dan mengatakan bahwa ia selalu membuat masalah. Mereka mengambil keuntungan dari orang-orang yang baru percaya dan yang tidak melayani orang-orang dengan kasih. Mereka berpura-pura melayani Allah tetapi sebenarnya melayani Iblis dengan melakukan kejahatan.</p>",
@@ -183,10 +169,10 @@
 {
 "content_id": "203188",
 "reference_id": 108053,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rasul-rasul",
 "media_type": "Text",
-"index_reference": "rasul-rasul",
+"index_reference": "rasulrasul",
 "language": "ind",
 "review_level": "None",
 "content": "<p>12 murid Yesus dan pengikut setia lainnya yang telah menjadi pemimpin di gereja mula-mula. Para rasul mengajarkan orang-orang mengenai Yesus dan menyebarkan kabar baik tentang Dia. Rasul adalah sebuah kata dari bahasa Yunani yang berarti seseorang yang diutus.</p>",
@@ -199,7 +185,7 @@
 {
 "content_id": "203613",
 "reference_id": 108478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rehabeam",
 "media_type": "Text",
 "index_reference": "rehabeam",
@@ -213,9 +199,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "Rehabeam",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rehabeam"
 }
 ]
 }
@@ -223,7 +209,7 @@
 {
 "content_id": "203401",
 "reference_id": 108266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ribka",
 "media_type": "Text",
 "index_reference": "ribka",
@@ -237,23 +223,9 @@
 {
 "id": "person:Rebekah",
 "type": "person",
-"preferred_label": "Ribka",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Riblah",
-"type": "place",
-"preferred_label": "Ribla",
-"confidence": 0.8515,
-"match_method": "embedding"
-},
-{
-"id": "place:Riblah.2",
-"type": "place",
-"preferred_label": "Ribla",
-"confidence": 0.8515,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ribka"
 }
 ]
 }
@@ -261,7 +233,7 @@
 {
 "content_id": "203523",
 "reference_id": 108388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roh Kudus",
 "media_type": "Text",
 "index_reference": "roh kudus",
@@ -271,13 +243,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Roh"
+}
+]
 }
 },
 {
 "content_id": "203597",
 "reference_id": 108462,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rohani",
 "media_type": "Text",
 "index_reference": "rohani",
@@ -293,7 +273,7 @@
 {
 "content_id": "203182",
 "reference_id": 108047,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roma",
 "media_type": "Text",
 "index_reference": "roma",
@@ -307,9 +287,9 @@
 {
 "id": "place:Rome",
 "type": "place",
-"preferred_label": "Roma",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Roma"
 }
 ]
 }
@@ -317,7 +297,7 @@
 {
 "content_id": "203500",
 "reference_id": 108365,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruang Mahakudus",
 "media_type": "Text",
 "index_reference": "ruang mahakudus",
@@ -341,7 +321,7 @@
 {
 "content_id": "203542",
 "reference_id": 108407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruben",
 "media_type": "Text",
 "index_reference": "ruben",
@@ -353,18 +333,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Reuben",
-"type": "group",
-"preferred_label": "Ruben",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Reuben",
 "type": "person",
-"preferred_label": "Ruben",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ruben"
 }
 ]
 }
@@ -372,7 +345,7 @@
 {
 "content_id": "203582",
 "reference_id": 108447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruth",
 "media_type": "Text",
 "index_reference": "ruth",
@@ -382,7 +355,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rut"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "183140",
 "reference_id": 108246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कनान",
 "media_type": "Text",
 "index_reference": "कनान",
@@ -16,23 +16,16 @@
 {
 "id": "person:Canaan",
 "type": "person",
-"preferred_label": "कनान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "कनान"
 },
 {
 "id": "place:Canaan",
 "type": "place",
-"preferred_label": "कनान",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Cana",
-"type": "place",
-"preferred_label": "काना",
-"confidence": 0.8298,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "कनान"
 }
 ]
 }
@@ -40,7 +33,7 @@
 {
 "content_id": "182986",
 "reference_id": 108092,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कफरनहूम",
 "media_type": "Text",
 "index_reference": "कफरनहूम",
@@ -54,9 +47,9 @@
 {
 "id": "place:Capernaum",
 "type": "place",
-"preferred_label": "कफरनहूम",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "कफरनहूम"
 }
 ]
 }
@@ -64,7 +57,7 @@
 {
 "content_id": "183471",
 "reference_id": 108577,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कर",
 "media_type": "Text",
 "index_reference": "कर",
@@ -80,7 +73,7 @@
 {
 "content_id": "182990",
 "reference_id": 108096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कलीसिया",
 "media_type": "Text",
 "index_reference": "कलीसिया",
@@ -90,13 +83,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Church"
+}
+]
 }
 },
 {
 "content_id": "183012",
 "reference_id": 108118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कलीसिया के प्राचीन",
 "media_type": "Text",
 "index_reference": "कलीसिया के प्राचीन",
@@ -112,7 +113,7 @@
 {
 "content_id": "183067",
 "reference_id": 108173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कलीसियाओं को पत्र",
 "media_type": "Text",
 "index_reference": "कलीसियाओं को पत्र",
@@ -128,7 +129,7 @@
 {
 "content_id": "183098",
 "reference_id": 108204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कविता",
 "media_type": "Text",
 "index_reference": "कविता",
@@ -144,7 +145,7 @@
 {
 "content_id": "183092",
 "reference_id": 108198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कहानियाँ",
 "media_type": "Text",
 "index_reference": "कहानियाँ",
@@ -160,7 +161,7 @@
 {
 "content_id": "183285",
 "reference_id": 108391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कादेशबर्ने",
 "media_type": "Text",
 "index_reference": "कादेशबर्ने",
@@ -170,13 +171,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kadesh-barnea"
+}
+]
 }
 },
 {
 "content_id": "182984",
 "reference_id": 108090,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "काना",
 "media_type": "Text",
 "index_reference": "काना",
@@ -190,23 +199,9 @@
 {
 "id": "place:Cana",
 "type": "place",
-"preferred_label": "काना",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Canaan",
-"type": "person",
-"preferred_label": "कनान",
-"confidence": 0.8298,
-"match_method": "embedding"
-},
-{
-"id": "place:Canaan",
-"type": "place",
-"preferred_label": "कनान",
-"confidence": 0.8298,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "काना"
 }
 ]
 }
@@ -214,7 +209,7 @@
 {
 "content_id": "183102",
 "reference_id": 108208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "काम",
 "media_type": "Text",
 "index_reference": "काम",
@@ -232,13 +227,21 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Work"
+}
+]
 }
 },
 {
 "content_id": "183284",
 "reference_id": 108390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कालेब",
 "media_type": "Text",
 "index_reference": "कालेब",
@@ -250,18 +253,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Caleb",
-"type": "person",
-"preferred_label": "कालेब",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Caleb.2",
 "type": "person",
-"preferred_label": "कालेब",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "कालेब"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "कालेब"
 }
 ]
 }
@@ -269,7 +272,7 @@
 {
 "content_id": "183002",
 "reference_id": 108108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कुरनेलियुस",
 "media_type": "Text",
 "index_reference": "कुरनेलियुस",
@@ -283,9 +286,9 @@
 {
 "id": "person:Cornelius",
 "type": "person",
-"preferred_label": "कुरनेलियुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "कुरनेलियुस"
 }
 ]
 }
@@ -293,7 +296,7 @@
 {
 "content_id": "183027",
 "reference_id": 108133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कुरिन्थ",
 "media_type": "Text",
 "index_reference": "कुरिन्थ",
@@ -303,13 +306,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "कुरिन्थुस"
+}
+]
 }
 },
 {
 "content_id": "182979",
 "reference_id": 108085,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कुरेने का शमौन",
 "media_type": "Text",
 "index_reference": "कुरेने का शमौन",
@@ -319,13 +330,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Simon.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "शमौन"
+}
+]
 }
 },
 {
 "content_id": "183181",
 "reference_id": 108287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कुलपिता",
 "media_type": "Text",
 "index_reference": "कुलपिता",
@@ -341,7 +360,7 @@
 {
 "content_id": "183054",
 "reference_id": 108160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कुलुस्से",
 "media_type": "Text",
 "index_reference": "कुलुस्से",
@@ -355,9 +374,9 @@
 {
 "id": "place:Colossae",
 "type": "place",
-"preferred_label": "कुलुस्से",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "कुलुस्से"
 }
 ]
 }
@@ -365,7 +384,7 @@
 {
 "content_id": "182998",
 "reference_id": 108104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कुश देश का अधिकारी",
 "media_type": "Text",
 "index_reference": "कुश देश का अधिकारी",
@@ -381,7 +400,7 @@
 {
 "content_id": "183396",
 "reference_id": 108502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कुस्रू",
 "media_type": "Text",
 "index_reference": "कुस्रू",
@@ -395,9 +414,9 @@
 {
 "id": "person:Cyrus",
 "type": "person",
-"preferred_label": "कुस्रू",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "कुस्रू"
 }
 ]
 }
@@ -405,7 +424,7 @@
 {
 "content_id": "183226",
 "reference_id": 108332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "केवल परमेश्वर की आराधना करो",
 "media_type": "Text",
 "index_reference": "केवल परमेश्वर की आराधना करो",
@@ -421,7 +440,7 @@
 {
 "content_id": "182928",
 "reference_id": 108034,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "केसर",
 "media_type": "Text",
 "index_reference": "केसर",
@@ -431,13 +450,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "क्लौदियुस"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तिबिरियुस"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "औगुस्तुस"
+}
+]
 }
 },
 {
 "content_id": "183116",
 "reference_id": 108222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कै़न",
 "media_type": "Text",
 "index_reference": "कै़न",
@@ -449,25 +497,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Canaan",
+"id": "person:Cain",
 "type": "person",
-"preferred_label": "कनान",
-"confidence": 0.866,
-"match_method": "embedding"
-},
-{
-"id": "place:Canaan",
-"type": "place",
-"preferred_label": "कनान",
-"confidence": 0.866,
-"match_method": "embedding"
-},
-{
-"id": "person:Cheran",
-"type": "person",
-"preferred_label": "करान",
-"confidence": 0.8021,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "कैन"
 }
 ]
 }
@@ -475,7 +509,7 @@
 {
 "content_id": "183032",
 "reference_id": 108138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कैसरिया",
 "media_type": "Text",
 "index_reference": "कैसरिया",
@@ -487,11 +521,18 @@
 "resource": [],
 "acai": [
 {
+"id": "place:Caesarea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
 "id": "place:Caesarea",
 "type": "place",
-"preferred_label": "कैसरिया",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "कैसरिया"
 }
 ]
 }
@@ -499,7 +540,7 @@
 {
 "content_id": "183287",
 "reference_id": 108393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "कोराह",
 "media_type": "Text",
 "index_reference": "कोराह",
@@ -509,7 +550,36 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Korah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "कोरह"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "कोरह"
+},
+{
+"id": "person:Korah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "कोरह"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "कोरह"
+}
+]
 }
 }
 ]

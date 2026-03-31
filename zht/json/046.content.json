@@ -2,7 +2,7 @@
 {
 "content_id": "232988",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "何巴",
 "media_type": "Text",
 "index_reference": "何巴",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hobab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hobab"
+}
+]
 }
 },
 {
 "content_id": "233171",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "何西阿",
 "media_type": "Text",
 "index_reference": "何西阿",
@@ -28,7 +36,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hosea",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hosea"
+}
+]
 }
 }
 ]

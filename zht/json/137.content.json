@@ -2,7 +2,7 @@
 {
 "content_id": "232819",
 "reference_id": 108218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "邪靈",
 "media_type": "Text",
 "index_reference": "邪靈",
@@ -26,7 +26,7 @@
 {
 "content_id": "232911",
 "reference_id": 108310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "邪術",
 "media_type": "Text",
 "index_reference": "邪術",
@@ -36,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Magic"
+}
+]
 }
 },
 {
 "content_id": "232774",
 "reference_id": 108173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "寫給教會的信",
 "media_type": "Text",
 "index_reference": "寫給教會的信",

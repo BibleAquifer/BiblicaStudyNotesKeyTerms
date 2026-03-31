@@ -2,7 +2,7 @@
 {
 "content_id": "775286",
 "reference_id": 108563,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gabriël",
 "media_type": "Text",
 "index_reference": "gabriël",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Gabriel",
 "type": "deity",
-"preferred_label": "Gabriel",
-"confidence": 0.8953,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabriel"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "775287",
 "reference_id": 108408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gad",
 "media_type": "Text",
 "index_reference": "gad",
@@ -36,13 +36,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+}
+]
 }
 },
 {
 "content_id": "775288",
 "reference_id": 108122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galatië",
 "media_type": "Text",
 "index_reference": "galatië",
@@ -56,9 +71,9 @@
 {
 "id": "place:Galatia",
 "type": "place",
-"preferred_label": "Galatia",
-"confidence": 0.9825,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galatia"
 }
 ]
 }
@@ -66,7 +81,7 @@
 {
 "content_id": "775289",
 "reference_id": 108036,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galilea",
 "media_type": "Text",
 "index_reference": "galilea",
@@ -80,9 +95,9 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"preferred_label": "Galilee",
-"confidence": 0.9423,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
 }
 ]
 }
@@ -90,7 +105,7 @@
 {
 "content_id": "775290",
 "reference_id": 108099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gamaliël",
 "media_type": "Text",
 "index_reference": "gamaliël",
@@ -102,18 +117,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gamaliel",
-"type": "person",
-"preferred_label": "Gamaliel",
-"confidence": 0.966,
-"match_method": "embedding"
-},
-{
 "id": "person:Gamaliel.2",
 "type": "person",
-"preferred_label": "Gamaliel",
-"confidence": 0.966,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
+},
+{
+"id": "person:Gamaliel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
 }
 ]
 }
@@ -121,7 +136,7 @@
 {
 "content_id": "775295",
 "reference_id": 108149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gaven van de Geest",
 "media_type": "Text",
 "index_reference": "gaven van de geest",
@@ -137,7 +152,7 @@
 {
 "content_id": "775206",
 "reference_id": 108232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Geloof",
 "media_type": "Text",
 "index_reference": "geloof",
@@ -147,13 +162,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "Trust"
+}
+]
 }
 },
 {
 "content_id": "769206",
 "reference_id": 108255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Geloven",
 "media_type": "Text",
 "index_reference": "geloven",
@@ -165,11 +188,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Believe",
+"id": "keyterm:BelieveIn",
 "type": "keyterm",
-"preferred_label": "Believe",
-"confidence": 0.8856,
-"match_method": "embedding"
+"confidence": 0.9789,
+"match_method": "embedding",
+"preferred_label": "Believe In"
 }
 ]
 }
@@ -177,7 +200,7 @@
 {
 "content_id": "769207",
 "reference_id": 108077,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gelovige",
 "media_type": "Text",
 "index_reference": "gelovige",
@@ -193,7 +216,7 @@
 {
 "content_id": "775313",
 "reference_id": 108235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Genade",
 "media_type": "Text",
 "index_reference": "genade",
@@ -209,7 +232,7 @@
 {
 "content_id": "775292",
 "reference_id": 108547,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gentile",
 "media_type": "Text",
 "index_reference": "gentile",
@@ -227,13 +250,21 @@
 "language": "nld"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
 "content_id": "775293",
 "reference_id": 108082,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gerasenen",
 "media_type": "Text",
 "index_reference": "gerasenen",
@@ -249,7 +280,7 @@
 {
 "content_id": "775209",
 "reference_id": 108220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Geslachtslijn",
 "media_type": "Text",
 "index_reference": "geslachtslijn",
@@ -265,7 +296,7 @@
 {
 "content_id": "775294",
 "reference_id": 108437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gideon",
 "media_type": "Text",
 "index_reference": "gideon",
@@ -279,9 +310,9 @@
 {
 "id": "person:Gideon",
 "type": "person",
-"preferred_label": "Gideon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gideon"
 }
 ]
 }
@@ -289,7 +320,7 @@
 {
 "content_id": "775296",
 "reference_id": 108441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilead",
 "media_type": "Text",
 "index_reference": "gilead",
@@ -301,32 +332,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gilead",
-"type": "person",
-"preferred_label": "Gilead",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gilead.2",
 "type": "person",
-"preferred_label": "Gilead",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gilead"
 },
 {
 "id": "person:Gilead.3",
 "type": "person",
-"preferred_label": "Gilead",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gilead"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
 },
 {
 "id": "place:Gilead",
 "type": "place",
-"preferred_label": "Gilead",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gilead"
 }
 ]
 }
@@ -334,7 +365,7 @@
 {
 "content_id": "775297",
 "reference_id": 108422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilgal",
 "media_type": "Text",
 "index_reference": "gilgal",
@@ -346,25 +377,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Gilgal.3",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Gilgal.4",
 "type": "place",
-"preferred_label": "Gilgal",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
 }
 ]
 }
@@ -372,7 +396,7 @@
 {
 "content_id": "775298",
 "reference_id": 108348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Glorie",
 "media_type": "Text",
 "index_reference": "glorie",
@@ -382,13 +406,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Glory"
+}
+]
 }
 },
 {
 "content_id": "775300",
 "reference_id": 108199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God",
 "media_type": "Text",
 "index_reference": "god",
@@ -413,13 +445,21 @@
 "language": "nld"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "775301",
 "reference_id": 108229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God verkiest",
 "media_type": "Text",
 "index_reference": "god verkiest",
@@ -435,7 +475,7 @@
 {
 "content_id": "775303",
 "reference_id": 108045,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gods familie",
 "media_type": "Text",
 "index_reference": "gods familie",
@@ -451,7 +491,7 @@
 {
 "content_id": "775304",
 "reference_id": 108302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gods volk",
 "media_type": "Text",
 "index_reference": "gods volk",
@@ -469,13 +509,21 @@
 "language": "nld"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
+}
+]
 }
 },
 {
 "content_id": "775306",
 "reference_id": 108415,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gods werktuig",
 "media_type": "Text",
 "index_reference": "gods werktuig",
@@ -491,7 +539,7 @@
 {
 "content_id": "775302",
 "reference_id": 108500,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gods woede",
 "media_type": "Text",
 "index_reference": "gods woede",
@@ -507,7 +555,7 @@
 {
 "content_id": "775309",
 "reference_id": 108043,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Goed nieuws",
 "media_type": "Text",
 "index_reference": "goed nieuws",
@@ -525,13 +573,21 @@
 "language": "nld"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9692,
+"match_method": "embedding",
+"preferred_label": "Good News"
+}
+]
 }
 },
 {
 "content_id": "775310",
 "reference_id": 108060,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Goede werken",
 "media_type": "Text",
 "index_reference": "goede werken",
@@ -547,7 +603,7 @@
 {
 "content_id": "775311",
 "reference_id": 108297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Goshen",
 "media_type": "Text",
 "index_reference": "goshen",
@@ -559,18 +615,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Goshen",
-"type": "place",
-"preferred_label": "Goshen",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Goshen.2",
 "type": "place",
-"preferred_label": "Goshen",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Goshen"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goshen"
 }
 ]
 }
@@ -578,7 +634,7 @@
 {
 "content_id": "775308",
 "reference_id": 108182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gouden altaar",
 "media_type": "Text",
 "index_reference": "gouden altaar",
@@ -602,7 +658,7 @@
 {
 "content_id": "775314",
 "reference_id": 108351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Graanoffers",
 "media_type": "Text",
 "index_reference": "graanoffers",
@@ -618,7 +674,7 @@
 {
 "content_id": "775315",
 "reference_id": 108194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Griekenland",
 "media_type": "Text",
 "index_reference": "griekenland",
@@ -628,13 +684,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Greece"
+}
+]
 }
 },
 {
 "content_id": "775316",
 "reference_id": 108185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Groep van zeven",
 "media_type": "Text",
 "index_reference": "groep van zeven",
@@ -650,7 +714,7 @@
 {
 "content_id": "769752",
 "reference_id": 108366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grote Verzoendag",
 "media_type": "Text",
 "index_reference": "grote verzoendag",

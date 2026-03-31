@@ -2,23 +2,31 @@
 {
 "content_id": "367882",
 "reference_id": 108391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kadesh-Barnea",
 "media_type": "Text",
-"index_reference": "kadesh-barnea",
+"index_reference": "kadeshbarnea",
 "language": "swh",
 "review_level": "None",
 "content": "<p>Eneo kusini magharibi mwa Bahari ya Chumvi katika Jangwa la Zini. Waisraeli walipiga kambi hapo walipokuwa wakisafiri kutoka Misri kwenda Kanaani. Kutoka hapo Waisraeli walikataa kuingia Kanaani. Kadeshi ni mahali ambapo Miriam alikufa. Pia ni mahali ambapo Musa alimkosea Mungu kwa kupiga jiwe ili kupata maji.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kadeshi"
+}
+]
 }
 },
 {
 "content_id": "368026",
 "reference_id": 108535,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kahaba",
 "media_type": "Text",
 "index_reference": "kahaba",
@@ -28,13 +36,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:FirstProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+},
+{
+"id": "person:SecondProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+}
+]
 }
 },
 {
 "content_id": "367713",
 "reference_id": 108222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kaini",
 "media_type": "Text",
 "index_reference": "kaini",
@@ -48,9 +71,9 @@
 {
 "id": "person:Cain",
 "type": "person",
-"preferred_label": "Kaini",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kaini"
 }
 ]
 }
@@ -58,7 +81,7 @@
 {
 "content_id": "367629",
 "reference_id": 108138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kaisarea",
 "media_type": "Text",
 "index_reference": "kaisarea",
@@ -70,18 +93,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Caesarea",
-"type": "place",
-"preferred_label": "Kaisaria",
-"confidence": 0.9777,
-"match_method": "embedding"
-},
-{
 "id": "place:Caesarea.2",
 "type": "place",
-"preferred_label": "Caesarea",
-"confidence": 0.9336,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kaisaria"
 }
 ]
 }
@@ -89,7 +112,7 @@
 {
 "content_id": "367525",
 "reference_id": 108034,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kaisari",
 "media_type": "Text",
 "index_reference": "kaisari",
@@ -99,13 +122,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Klaudio"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiberio"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Augusto"
+}
+]
 }
 },
 {
 "content_id": "367881",
 "reference_id": 108390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kalebu",
 "media_type": "Text",
 "index_reference": "kalebu",
@@ -117,18 +169,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Caleb",
-"type": "person",
-"preferred_label": "Kalebu",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Caleb.2",
 "type": "person",
-"preferred_label": "Kalebu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kalebu"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kalebu"
 }
 ]
 }
@@ -136,7 +188,7 @@
 {
 "content_id": "367656",
 "reference_id": 108165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kamili",
 "media_type": "Text",
 "index_reference": "kamili",
@@ -152,7 +204,7 @@
 {
 "content_id": "367581",
 "reference_id": 108090,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kana",
 "media_type": "Text",
 "index_reference": "kana",
@@ -166,9 +218,9 @@
 {
 "id": "place:Cana",
 "type": "place",
-"preferred_label": "Kana",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kana"
 }
 ]
 }
@@ -176,7 +228,7 @@
 {
 "content_id": "367737",
 "reference_id": 108246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kanaani",
 "media_type": "Text",
 "index_reference": "kanaani",
@@ -188,18 +240,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Chenaanah",
+"id": "person:Canaan",
 "type": "person",
-"preferred_label": "Kenaana",
-"confidence": 0.8096,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wakanaani"
 },
 {
-"id": "person:Chenaanah.2",
-"type": "person",
-"preferred_label": "Kenaana",
-"confidence": 0.8096,
-"match_method": "embedding"
+"id": "place:Canaan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wakanaani"
 }
 ]
 }
@@ -207,7 +259,7 @@
 {
 "content_id": "367587",
 "reference_id": 108096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kanisa",
 "media_type": "Text",
 "index_reference": "kanisa",
@@ -221,9 +273,9 @@
 {
 "id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "Church",
-"confidence": 0.9536,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Church"
 }
 ]
 }
@@ -231,7 +283,7 @@
 {
 "content_id": "367583",
 "reference_id": 108092,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kapernaumu",
 "media_type": "Text",
 "index_reference": "kapernaumu",
@@ -245,9 +297,9 @@
 {
 "id": "place:Capernaum",
 "type": "place",
-"preferred_label": "Kapernaumu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kapernaumu"
 }
 ]
 }
@@ -255,7 +307,7 @@
 {
 "content_id": "367640",
 "reference_id": 108149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Karama za Roho",
 "media_type": "Text",
 "index_reference": "karama za roho",
@@ -271,7 +323,7 @@
 {
 "content_id": "367639",
 "reference_id": 108148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Karamu ya Bwana",
 "media_type": "Text",
 "index_reference": "karamu ya bwana",
@@ -287,7 +339,7 @@
 {
 "content_id": "367699",
 "reference_id": 108208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kazi",
 "media_type": "Text",
 "index_reference": "kazi",
@@ -309,9 +361,9 @@
 {
 "id": "keyterm:Work",
 "type": "keyterm",
-"preferred_label": "Work",
-"confidence": 0.8567,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Work"
 }
 ]
 }
@@ -319,7 +371,7 @@
 {
 "content_id": "367666",
 "reference_id": 108175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kifo cha pili",
 "media_type": "Text",
 "index_reference": "kifo cha pili",
@@ -335,7 +387,7 @@
 {
 "content_id": "367681",
 "reference_id": 108190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kifo na Kuzimu",
 "media_type": "Text",
 "index_reference": "kifo na kuzimu",
@@ -345,13 +397,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "367550",
 "reference_id": 108059,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kiongozi  anaetumikia",
 "media_type": "Text",
 "index_reference": "kiongozi  anaetumikia",
@@ -367,7 +427,7 @@
 {
 "content_id": "367953",
 "reference_id": 108462,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kiroho",
 "media_type": "Text",
 "index_reference": "kiroho",
@@ -383,7 +443,7 @@
 {
 "content_id": "367835",
 "reference_id": 108344,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kitabu cha  uzima",
 "media_type": "Text",
 "index_reference": "kitabu cha  uzima",
@@ -399,7 +459,7 @@
 {
 "content_id": "367660",
 "reference_id": 108169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kitabu cha Henoki",
 "media_type": "Text",
 "index_reference": "kitabu cha henoki",
@@ -415,7 +475,7 @@
 {
 "content_id": "368028",
 "reference_id": 108537,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kitendo cha unabii",
 "media_type": "Text",
 "index_reference": "kitendo cha unabii",
@@ -431,7 +491,7 @@
 {
 "content_id": "367985",
 "reference_id": 108494,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "KK",
 "media_type": "Text",
 "index_reference": "kk",
@@ -447,7 +507,7 @@
 {
 "content_id": "367651",
 "reference_id": 108160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kolosai",
 "media_type": "Text",
 "index_reference": "kolosai",
@@ -461,9 +521,9 @@
 {
 "id": "place:Colossae",
 "type": "place",
-"preferred_label": "Kolosai",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kolosai"
 }
 ]
 }
@@ -471,7 +531,7 @@
 {
 "content_id": "367884",
 "reference_id": 108393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kora",
 "media_type": "Text",
 "index_reference": "kora",
@@ -483,32 +543,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Korah",
-"type": "person",
-"preferred_label": "Kora",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Korah.2",
 "type": "person",
-"preferred_label": "Kora",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kora"
 },
 {
 "id": "person:Korah.3",
 "type": "person",
-"preferred_label": "Kora",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kora"
 },
 {
 "id": "person:Korah.4",
 "type": "person",
-"preferred_label": "Kora",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kora"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kora"
 }
 ]
 }
@@ -516,7 +576,7 @@
 {
 "content_id": "367993",
 "reference_id": 108502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Koreshi",
 "media_type": "Text",
 "index_reference": "koreshi",
@@ -530,9 +590,9 @@
 {
 "id": "person:Cyrus",
 "type": "person",
-"preferred_label": "Koreshi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Koreshi"
 }
 ]
 }
@@ -540,7 +600,7 @@
 {
 "content_id": "367624",
 "reference_id": 108133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Korintho",
 "media_type": "Text",
 "index_reference": "korintho",
@@ -554,9 +614,9 @@
 {
 "id": "place:Corinth",
 "type": "place",
-"preferred_label": "Korintho",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Korintho"
 }
 ]
 }
@@ -564,7 +624,7 @@
 {
 "content_id": "367599",
 "reference_id": 108108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kornelio",
 "media_type": "Text",
 "index_reference": "kornelio",
@@ -578,9 +638,9 @@
 {
 "id": "person:Cornelius",
 "type": "person",
-"preferred_label": "Kornelio",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kornelio"
 }
 ]
 }
@@ -588,7 +648,7 @@
 {
 "content_id": "367654",
 "reference_id": 108163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Krete",
 "media_type": "Text",
 "index_reference": "krete",
@@ -602,9 +662,9 @@
 {
 "id": "place:Crete",
 "type": "place",
-"preferred_label": "Krete",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Krete"
 }
 ]
 }
@@ -612,7 +672,7 @@
 {
 "content_id": "367589",
 "reference_id": 108098,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kristo",
 "media_type": "Text",
 "index_reference": "kristo",
@@ -637,13 +697,21 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yesu"
+}
+]
 }
 },
 {
 "content_id": "367823",
 "reference_id": 108332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuabudu Mungu pekee",
 "media_type": "Text",
 "index_reference": "kuabudu mungu pekee",
@@ -659,7 +727,7 @@
 {
 "content_id": "367947",
 "reference_id": 108456,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kufunga",
 "media_type": "Text",
 "index_reference": "kufunga",
@@ -675,7 +743,7 @@
 {
 "content_id": "367824",
 "reference_id": 108333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuhani",
 "media_type": "Text",
 "index_reference": "kuhani",
@@ -706,7 +774,7 @@
 {
 "content_id": "367859",
 "reference_id": 108368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuhani mkuu",
 "media_type": "Text",
 "index_reference": "kuhani mkuu",
@@ -722,7 +790,7 @@
 {
 "content_id": "367900",
 "reference_id": 108409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuondoa",
 "media_type": "Text",
 "index_reference": "kuondoa",
@@ -738,7 +806,7 @@
 {
 "content_id": "367603",
 "reference_id": 108112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kupro",
 "media_type": "Text",
 "index_reference": "kupro",
@@ -748,13 +816,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kipro"
+}
+]
 }
 },
 {
 "content_id": "367556",
 "reference_id": 108065,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kurudi kwa Yesu",
 "media_type": "Text",
 "index_reference": "kurudi kwa yesu",
@@ -770,7 +846,7 @@
 {
 "content_id": "367545",
 "reference_id": 108054,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kutendewa vibaya",
 "media_type": "Text",
 "index_reference": "kutendewa vibaya",
@@ -794,7 +870,7 @@
 {
 "content_id": "367755",
 "reference_id": 108264,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kutoa sadaka  watoto",
 "media_type": "Text",
 "index_reference": "kutoa sadaka  watoto",
@@ -810,7 +886,7 @@
 {
 "content_id": "367807",
 "reference_id": 108316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kutoka",
 "media_type": "Text",
 "index_reference": "kutoka",
@@ -826,7 +902,7 @@
 {
 "content_id": "367837",
 "reference_id": 108346,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kutubu",
 "media_type": "Text",
 "index_reference": "kutubu",
@@ -844,13 +920,21 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Repent"
+}
+]
 }
 },
 {
 "content_id": "367670",
 "reference_id": 108179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuvaa mavazi nyeupe",
 "media_type": "Text",
 "index_reference": "kuvaa mavazi nyeupe",
@@ -866,7 +950,7 @@
 {
 "content_id": "367809",
 "reference_id": 108318,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuwafundisha watoto wao",
 "media_type": "Text",
 "index_reference": "kuwafundisha watoto wao",
@@ -882,7 +966,7 @@
 {
 "content_id": "367849",
 "reference_id": 108358,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuwekwa kando",
 "media_type": "Text",
 "index_reference": "kuwekwa kando",
@@ -898,7 +982,7 @@
 {
 "content_id": "367580",
 "reference_id": 108089,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuzaliwa mara ya pili",
 "media_type": "Text",
 "index_reference": "kuzaliwa mara ya pili",
@@ -914,7 +998,7 @@
 {
 "content_id": "367588",
 "reference_id": 108097,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kuzungumza lugha nyingine",
 "media_type": "Text",
 "index_reference": "kuzungumza lugha nyingine",
@@ -938,7 +1022,7 @@
 {
 "content_id": "367564",
 "reference_id": 108073,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kwa jina la Yesu",
 "media_type": "Text",
 "index_reference": "kwa jina la yesu",

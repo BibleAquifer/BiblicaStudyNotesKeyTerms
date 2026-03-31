@@ -2,7 +2,7 @@
 {
 "content_id": "134353",
 "reference_id": 108551,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "605 قبل الميلاد",
 "media_type": "Text",
 "index_reference": "605 قبل الميلاد",
@@ -18,7 +18,7 @@
 {
 "content_id": "133861",
 "reference_id": 108059,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القائد الخادم",
 "media_type": "Text",
 "index_reference": "القائد الخادم",
@@ -34,7 +34,7 @@
 {
 "content_id": "134000",
 "reference_id": 108198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "القصص",
 "media_type": "Text",
 "index_reference": "القصص",
@@ -50,7 +50,7 @@
 {
 "content_id": "134193",
 "reference_id": 108391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قَادَشَ بَرْنِيع",
 "media_type": "Text",
 "index_reference": "قَادَشَ بَرْنِيع",
@@ -60,13 +60,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَادَشَ"
+}
+]
 }
 },
 {
 "content_id": "134222",
 "reference_id": 108420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قاضي",
 "media_type": "Text",
 "index_reference": "قاضي",
@@ -76,13 +84,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Judge"
+}
+]
 }
 },
 {
 "content_id": "133892",
 "reference_id": 108090,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قانا الجليل",
 "media_type": "Text",
 "index_reference": "قانا الجليل",
@@ -92,13 +108,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَانَا"
+}
+]
 }
 },
 {
 "content_id": "134024",
 "reference_id": 108222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قايين",
 "media_type": "Text",
 "index_reference": "قايين",
@@ -108,13 +132,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Cain",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَايِينَ"
+}
+]
 }
 },
 {
 "content_id": "133914",
 "reference_id": 108112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قُبرص",
 "media_type": "Text",
 "index_reference": "قُبرص",
@@ -124,13 +156,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كِتِّيمَ"
+}
+]
 }
 },
 {
 "content_id": "134296",
 "reference_id": 108494,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قبل الميلاد",
 "media_type": "Text",
 "index_reference": "قبل الميلاد",
@@ -146,7 +186,7 @@
 {
 "content_id": "134025",
 "reference_id": 108223,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قتل",
 "media_type": "Text",
 "index_reference": "قتل",
@@ -162,7 +202,7 @@
 {
 "content_id": "134167",
 "reference_id": 108365,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قُدس الأقداس",
 "media_type": "Text",
 "index_reference": "قُدس الأقداس",
@@ -186,23 +226,31 @@
 {
 "content_id": "134163",
 "reference_id": 108361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قُدس/ قداسة",
 "media_type": "Text",
-"index_reference": "قُدس/ قداسة",
+"index_reference": "قُدس قداسة",
 "language": "arb",
 "review_level": "None",
 "content": "<p>أن نكون منفصلين عن بعضنا البعض. الله قدوس. هذا يعني أنه مختلف عن كل شيء آخر موجود. في الكتاب المقدس كانت بعض الأماكن مقدسة. كان هذا لأن الناس كانوا يدركون أن الله موجود هناك. كانت بعض الأشياء مقدسة. هذا يعني أنها كانت تستخدم بطرق خاصة لعبادة الله. عكس المقدس هو غير مقدس أو شرير. الأشياء غير المقدسة لا يمكن أن تكون في حضرة الله.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Holy"
+}
+]
 }
 },
 {
 "content_id": "134206",
 "reference_id": 108404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قُرعة",
 "media_type": "Text",
 "index_reference": "قُرعة",
@@ -218,7 +266,7 @@
 {
 "content_id": "134172",
 "reference_id": 108370,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قَرِيب",
 "media_type": "Text",
 "index_reference": "قَرِيب",
@@ -240,25 +288,9 @@
 }
 },
 {
-"content_id": "134006",
-"reference_id": 108204,
-"version": "1.0.2",
-"title": "قصيدة (شعر)",
-"media_type": "Text",
-"index_reference": "قصيدة (شعر)",
-"language": "arb",
-"review_level": "None",
-"content": "<p>إنها طريقة للتحدث أو الكتابة يمكن أن تكون مثل الغناء. وغالبًا لا تصف القصائد الأشياء بشكل مباشر. بل إنها ترسم صورًا وإشارات بالكلمات. وهي بدورها تساعد الناس على فهم ما يقوله المتحدث أو الكاتب. تصف القصائد شيئًا من خلال شرح كيف يشبه شيئًا آخر. يشمل الكتاب المقدس العديد من القصائد المكتوبة باللغة العبرية. العديد من هذه القصائد كانت تُقال وتُكتب سطرين في كل مرة. كان السطر الأول يشارك فكرة ما. ثم يكمل السطر الثاني تلك الفكرة. وقد كان يفعل ذلك من خلال مشاركة نفس الفكرة مرة أخرى ولكن بطريقة جديدة أو مختلفة. وكان ذلك يساعد الناس على فهم وتذكر ما يريد المتحدث أو الكاتب قوله.</p>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
-}
-},
-{
 "content_id": "134335",
 "reference_id": 108533,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قصيدة أبجدية",
 "media_type": "Text",
 "index_reference": "قصيدة أبجدية",
@@ -280,9 +312,25 @@
 }
 },
 {
+"content_id": "134006",
+"reference_id": 108204,
+"version": "1.0.4",
+"title": "قصيدة (شعر)",
+"media_type": "Text",
+"index_reference": "قصيدة شعر",
+"language": "arb",
+"review_level": "None",
+"content": "<p>إنها طريقة للتحدث أو الكتابة يمكن أن تكون مثل الغناء. وغالبًا لا تصف القصائد الأشياء بشكل مباشر. بل إنها ترسم صورًا وإشارات بالكلمات. وهي بدورها تساعد الناس على فهم ما يقوله المتحدث أو الكاتب. تصف القصائد شيئًا من خلال شرح كيف يشبه شيئًا آخر. يشمل الكتاب المقدس العديد من القصائد المكتوبة باللغة العبرية. العديد من هذه القصائد كانت تُقال وتُكتب سطرين في كل مرة. كان السطر الأول يشارك فكرة ما. ثم يكمل السطر الثاني تلك الفكرة. وقد كان يفعل ذلك من خلال مشاركة نفس الفكرة مرة أخرى ولكن بطريقة جديدة أو مختلفة. وكان ذلك يساعد الناس على فهم وتذكر ما يريد المتحدث أو الكاتب قوله.</p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
 "content_id": "134232",
 "reference_id": 108430,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قضاة إسرائيل الاثني عشر",
 "media_type": "Text",
 "index_reference": "قضاة إسرائيل الاثني عشر",
@@ -298,7 +346,7 @@
 {
 "content_id": "134221",
 "reference_id": 108419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قلب",
 "media_type": "Text",
 "index_reference": "قلب",
@@ -308,13 +356,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Heart"
+}
+]
 }
 },
 {
 "content_id": "134195",
 "reference_id": 108393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قُورَح",
 "media_type": "Text",
 "index_reference": "قُورَح",
@@ -324,13 +380,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Korah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قورَحَ"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قورَحَ"
+},
+{
+"id": "person:Korah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قورَحَ"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قورَحَ"
+}
+]
 }
 },
 {
 "content_id": "134370",
 "reference_id": 108568,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قيامة",
 "media_type": "Text",
 "index_reference": "قيامة",
@@ -340,13 +425,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
 "content_id": "133836",
 "reference_id": 108034,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قَيصَر",
 "media_type": "Text",
 "index_reference": "قَيصَر",
@@ -358,116 +451,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Zaccur",
+"id": "person:Claudius",
 "type": "person",
-"preferred_label": "زَكّور",
-"confidence": 0.8084,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كلودِيوس"
 },
 {
-"id": "person:Zaccur.2",
+"id": "person:Nero",
 "type": "person",
-"preferred_label": "زَكّور",
-"confidence": 0.8084,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
 },
 {
-"id": "person:Zaccur.3",
+"id": "person:Tiberius",
 "type": "person",
-"preferred_label": "زَكّور",
-"confidence": 0.8084,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "طِيبَارِيوسَ"
 },
 {
-"id": "person:Zaccur.4",
+"id": "person:Augustus",
 "type": "person",
-"preferred_label": "زَكّور",
-"confidence": 0.8084,
-"match_method": "embedding"
-},
-{
-"id": "person:Zaccur.5",
-"type": "person",
-"preferred_label": "زَكّور",
-"confidence": 0.8084,
-"match_method": "embedding"
-},
-{
-"id": "person:Zaccur.6",
-"type": "person",
-"preferred_label": "زَكّور",
-"confidence": 0.8084,
-"match_method": "embedding"
-},
-{
-"id": "person:Zaccur.7",
-"type": "person",
-"preferred_label": "زَكّور",
-"confidence": 0.8084,
-"match_method": "embedding"
-},
-{
-"id": "person:Zaccur.8",
-"type": "person",
-"preferred_label": "زَكّور",
-"confidence": 0.8084,
-"match_method": "embedding"
-},
-{
-"id": "person:Bezer",
-"type": "person",
-"preferred_label": "بَاصِر",
-"confidence": 0.8039,
-"match_method": "embedding"
-},
-{
-"id": "place:Bezer",
-"type": "place",
-"preferred_label": "بَاصِر",
-"confidence": 0.8039,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8033,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer.2",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8033,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer.3",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8033,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer.4",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8033,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer.5",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8033,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer.6",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8033,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "أوغسْطسَ"
 }
 ]
 }
@@ -475,7 +484,7 @@
 {
 "content_id": "133940",
 "reference_id": 108138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "قَيْصَرِيَّةِ",
 "media_type": "Text",
 "index_reference": "قَيْصَرِيَّةِ",
@@ -487,18 +496,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:CaesareaPhilippi",
+"id": "place:Caesarea.2",
 "type": "place",
-"preferred_label": "قَيْصَرِيَّةِ",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Caesarea"
 },
 {
 "id": "place:Caesarea",
 "type": "place",
-"preferred_label": "قَيْصَرِيَّةَ",
-"confidence": 0.9357,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "قَيْصَرِيَّةَ"
 }
 ]
 }

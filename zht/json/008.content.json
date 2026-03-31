@@ -2,7 +2,7 @@
 {
 "content_id": "232895",
 "reference_id": 108294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "便雅憫",
 "media_type": "Text",
 "index_reference": "便雅憫",
@@ -12,7 +12,43 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Benjamin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "778806",
 "reference_id": 108233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oordeel",
 "media_type": "Text",
 "index_reference": "oordeel",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.8663,
+"match_method": "embedding",
+"preferred_label": "Judgment"
+}
+]
 }
 },
 {
 "content_id": "769220",
 "reference_id": 108089,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Opnieuw geboren",
 "media_type": "Text",
 "index_reference": "opnieuw geboren",
@@ -34,7 +42,7 @@
 {
 "content_id": "772765",
 "reference_id": 108307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oudsten",
 "media_type": "Text",
 "index_reference": "oudsten",
@@ -44,7 +52,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericElders",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Elders"
+}
+]
 }
 }
 ]

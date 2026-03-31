@@ -2,7 +2,7 @@
 {
 "content_id": "134248",
 "reference_id": 108446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "داجون",
 "media_type": "Text",
 "index_reference": "داجون",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Dagon",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "لِدَاجونَ"
+}
+]
 }
 },
 {
 "content_id": "134314",
 "reference_id": 108512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دَارِيُّوس",
 "media_type": "Text",
 "index_reference": "دَارِيُّوس",
@@ -28,13 +36,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَارِيوسَ"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَارِيوسَ"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَارِيوسَ"
+}
+]
 }
 },
 {
 "content_id": "134246",
 "reference_id": 108444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دَان",
 "media_type": "Text",
 "index_reference": "دَان",
@@ -46,11 +76,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Vedan",
-"type": "place",
-"preferred_label": "دَان",
+"id": "person:Dan",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "دَانَ"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَانَ"
 }
 ]
 }
@@ -58,7 +95,7 @@
 {
 "content_id": "134362",
 "reference_id": 108560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دَانِيَال",
 "media_type": "Text",
 "index_reference": "دَانِيَال",
@@ -72,16 +109,23 @@
 {
 "id": "person:Daniel.2",
 "type": "person",
-"preferred_label": "دَانِيآل",
-"confidence": 0.8373,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَانِيآل"
 },
 {
 "id": "person:Daniel.3",
 "type": "person",
-"preferred_label": "دَانِيآل",
-"confidence": 0.8373,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَانِيآل"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كِيلآبَ"
 }
 ]
 }
@@ -89,7 +133,7 @@
 {
 "content_id": "134251",
 "reference_id": 108449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دَاوُد",
 "media_type": "Text",
 "index_reference": "دَاوُد",
@@ -107,13 +151,28 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَهوذَا"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَاودَ"
+}
+]
 }
 },
 {
 "content_id": "134235",
 "reference_id": 108433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دَبُورَة",
 "media_type": "Text",
 "index_reference": "دَبُورَة",
@@ -125,39 +184,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Derbe",
-"type": "place",
-"preferred_label": "دَرْبَةَ",
-"confidence": 0.8487,
-"match_method": "embedding"
-},
-{
-"id": "person:Zebidah",
+"id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "زَبِيدَة",
-"confidence": 0.8258,
-"match_method": "embedding"
-},
-{
-"id": "place:Damascus",
-"type": "place",
-"preferred_label": "دِمَشْقَ",
-"confidence": 0.8251,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَبورَة"
 },
 {
 "id": "person:Deborah",
 "type": "person",
-"preferred_label": "دَبورَة",
-"confidence": 0.8174,
-"match_method": "embedding"
-},
-{
-"id": "person:Deborah.2",
-"type": "person",
-"preferred_label": "دَبورَة",
-"confidence": 0.8174,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَبورَة"
 }
 ]
 }
@@ -165,7 +203,7 @@
 {
 "content_id": "133919",
 "reference_id": 108117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دَرْبة",
 "media_type": "Text",
 "index_reference": "دَرْبة",
@@ -177,39 +215,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Dara",
-"type": "person",
-"preferred_label": "دَارَع",
-"confidence": 0.8729,
-"match_method": "embedding"
-},
-{
-"id": "place:Dannah",
+"id": "place:Derbe",
 "type": "place",
-"preferred_label": "دَنَّة",
-"confidence": 0.8168,
-"match_method": "embedding"
-},
-{
-"id": "person:Hirah",
-"type": "person",
-"preferred_label": "حِيرَة",
-"confidence": 0.805,
-"match_method": "embedding"
-},
-{
-"id": "person:Taphath",
-"type": "person",
-"preferred_label": "طَافَة",
-"confidence": 0.8032,
-"match_method": "embedding"
-},
-{
-"id": "person:Orpah",
-"type": "person",
-"preferred_label": "عرْفَة",
-"confidence": 0.8022,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَرْبَةَ"
 }
 ]
 }
@@ -217,7 +227,7 @@
 {
 "content_id": "134247",
 "reference_id": 108445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دَليلة",
 "media_type": "Text",
 "index_reference": "دَليلة",
@@ -227,13 +237,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دَلِيلَة"
+}
+]
 }
 },
 {
 "content_id": "134117",
 "reference_id": 108315,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دم",
 "media_type": "Text",
 "index_reference": "دم",
@@ -243,13 +261,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Bleed",
+"type": "keyterm",
+"confidence": 0.8277,
+"match_method": "embedding",
+"preferred_label": "Bleed"
+}
+]
 }
 },
 {
 "content_id": "134342",
 "reference_id": 108540,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دمشق",
 "media_type": "Text",
 "index_reference": "دمشق",
@@ -259,13 +292,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دِمَشْقَ"
+}
+]
 }
 },
 {
 "content_id": "133969",
 "reference_id": 108167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دوسيتية",
 "media_type": "Text",
 "index_reference": "دوسيتية",
@@ -281,7 +322,7 @@
 {
 "content_id": "134085",
 "reference_id": 108283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دِينَة",
 "media_type": "Text",
 "index_reference": "دِينَة",
@@ -295,9 +336,9 @@
 {
 "id": "person:Dinah",
 "type": "person",
-"preferred_label": "دِينَةَ",
-"confidence": 0.8023,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "دِينَةَ"
 }
 ]
 }
@@ -305,7 +346,7 @@
 {
 "content_id": "134035",
 "reference_id": 108233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "دينونة",
 "media_type": "Text",
 "index_reference": "دينونة",
@@ -315,7 +356,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.8663,
+"match_method": "embedding",
+"preferred_label": "Judgment"
+}
+]
 }
 }
 ]

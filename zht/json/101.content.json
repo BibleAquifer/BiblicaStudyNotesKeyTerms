@@ -2,7 +2,7 @@
 {
 "content_id": "232779",
 "reference_id": 108178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒狄",
 "media_type": "Text",
 "index_reference": "撒狄",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Sardis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sardis"
+}
+]
 }
 },
 {
 "content_id": "232659",
 "reference_id": 108058,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒都該人",
 "media_type": "Text",
 "index_reference": "撒都該人",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sadducees"
+}
+]
 }
 },
 {
 "content_id": "233112",
 "reference_id": 108511,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒迦利亞",
 "media_type": "Text",
 "index_reference": "撒迦利亞",
@@ -44,29 +60,248 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Zechariah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.16",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.18",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.19",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.20",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.21",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.22",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.23",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.24",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.25",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.26",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.27",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.28",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.29",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zecher",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zecher"
+},
+{
+"id": "person:Zechariah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+},
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+}
+]
 }
 },
 {
 "content_id": "232681",
 "reference_id": 108080,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒迦利亞 - 新約",
 "media_type": "Text",
-"index_reference": "撒迦利亞 - 新約",
+"index_reference": "撒迦利亞  新約",
 "language": "zht",
 "review_level": "None",
 "content": "<p>施洗約翰的父親，他的妻子是<span>伊</span>利莎白。他是來自利未支派和亞倫家族的祭司。約翰出生時，撒迦利亞說了一個美麗的預言。</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zechariah"
+}
+]
 }
 },
 {
 "content_id": "232848",
 "reference_id": 108247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒拉",
 "media_type": "Text",
 "index_reference": "撒拉",
@@ -76,13 +311,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sarah"
+}
+]
 }
 },
 {
 "content_id": "233090",
 "reference_id": 108489,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒馬利亞",
 "media_type": "Text",
 "index_reference": "撒馬利亞",
@@ -92,13 +335,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Samaria.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samaria"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samaria"
+}
+]
 }
 },
 {
 "content_id": "233053",
 "reference_id": 108452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "撒母耳",
 "media_type": "Text",
 "index_reference": "撒母耳",
@@ -108,7 +366,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samuel"
+}
+]
 }
 }
 ]

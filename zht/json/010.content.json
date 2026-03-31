@@ -2,7 +2,7 @@
 {
 "content_id": "233110",
 "reference_id": 108509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "波斯",
 "media_type": "Text",
 "index_reference": "波斯",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Persia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Persia"
+}
+]
 }
 },
 {
 "content_id": "232676",
 "reference_id": 108075,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "伯大尼",
 "media_type": "Text",
 "index_reference": "伯大尼",
@@ -28,13 +36,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Bethany.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethany"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethany"
+}
+]
 }
 },
 {
 "content_id": "233043",
 "reference_id": 108442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "伯利恆",
 "media_type": "Text",
 "index_reference": "伯利恆",
@@ -44,13 +67,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Bethlehem.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehem"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehem"
+}
+]
 }
 },
 {
 "content_id": "232873",
 "reference_id": 108272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "伯特利",
 "media_type": "Text",
 "index_reference": "伯特利",
@@ -60,13 +98,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+}
+]
 }
 },
 {
 "content_id": "232634",
 "reference_id": 108033,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "博士",
 "media_type": "Text",
 "index_reference": "博士",

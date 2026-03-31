@@ -2,7 +2,7 @@
 {
 "content_id": "367536",
 "reference_id": 108045,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Familia ya Mungu",
 "media_type": "Text",
 "index_reference": "familia ya mungu",
@@ -18,7 +18,7 @@
 {
 "content_id": "367741",
 "reference_id": 108250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Farao",
 "media_type": "Text",
 "index_reference": "farao",
@@ -32,58 +32,72 @@
 {
 "id": "person:Pharaoh.10",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Farao"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Neko"
 },
 {
 "id": "person:Pharaoh.3",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Farao"
 },
 {
 "id": "person:Pharaoh.4",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Farao"
 },
 {
 "id": "person:Pharaoh.5",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Farao"
 },
 {
 "id": "person:Pharaoh.6",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Farao"
 },
 {
 "id": "person:Pharaoh.7",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Farao"
 },
 {
 "id": "person:Pharaoh.8",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Farao"
 },
 {
 "id": "person:Pharaoh.9",
 "type": "person",
-"preferred_label": "Farao",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Farao"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hofra"
 }
 ]
 }
@@ -91,7 +105,7 @@
 {
 "content_id": "367858",
 "reference_id": 108367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fidia",
 "media_type": "Text",
 "index_reference": "fidia",
@@ -115,7 +129,7 @@
 {
 "content_id": "367655",
 "reference_id": 108164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filemoni",
 "media_type": "Text",
 "index_reference": "filemoni",
@@ -129,9 +143,9 @@
 {
 "id": "person:Philemon",
 "type": "person",
-"preferred_label": "Filemoni",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filemoni"
 }
 ]
 }
@@ -139,7 +153,7 @@
 {
 "content_id": "367617",
 "reference_id": 108126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filipi",
 "media_type": "Text",
 "index_reference": "filipi",
@@ -153,9 +167,9 @@
 {
 "id": "place:Philippi",
 "type": "place",
-"preferred_label": "Filipi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filipi"
 }
 ]
 }
@@ -163,7 +177,7 @@
 {
 "content_id": "367594",
 "reference_id": 108103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filipo",
 "media_type": "Text",
 "index_reference": "filipo",
@@ -175,32 +189,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Philip",
-"type": "person",
-"preferred_label": "Filipo",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Philip.2",
 "type": "person",
-"preferred_label": "Filipo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filipo"
 },
 {
 "id": "person:Philip.3",
 "type": "person",
-"preferred_label": "Filipo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filipo"
 },
 {
 "id": "person:Philip.4",
 "type": "person",
-"preferred_label": "Filipo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filipo"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipo"
 }
 ]
 }
@@ -208,7 +222,7 @@
 {
 "content_id": "367800",
 "reference_id": 108309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fimbo ya kutembea ya Aroni",
 "media_type": "Text",
 "index_reference": "fimbo ya kutembea ya aroni                                      ",
@@ -224,7 +238,7 @@
 {
 "content_id": "367894",
 "reference_id": 108403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Finehasi",
 "media_type": "Text",
 "index_reference": "finehasi",
@@ -236,25 +250,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Phinehas",
-"type": "person",
-"preferred_label": "Finehasi",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Phinehas.2",
 "type": "person",
-"preferred_label": "Finehasi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Finehasi"
 },
 {
 "id": "person:Phinehas.3",
 "type": "person",
-"preferred_label": "Finehasi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Finehasi"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Finehasi"
 }
 ]
 }
@@ -262,7 +276,7 @@
 {
 "content_id": "367614",
 "reference_id": 108123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Frigia",
 "media_type": "Text",
 "index_reference": "frigia",
@@ -276,9 +290,9 @@
 {
 "id": "place:Phrygia",
 "type": "place",
-"preferred_label": "Frigia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Frigia"
 }
 ]
 }
@@ -286,7 +300,7 @@
 {
 "content_id": "367636",
 "reference_id": 108145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fumbo la Kristo",
 "media_type": "Text",
 "index_reference": "fumbo la kristo",

@@ -2,7 +2,7 @@
 {
 "content_id": "134368",
 "reference_id": 108566,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحرب الروحية",
 "media_type": "Text",
 "index_reference": "الحرب الروحية",
@@ -18,7 +18,7 @@
 {
 "content_id": "133846",
 "reference_id": 108044,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الحياة المُقدّسة",
 "media_type": "Text",
 "index_reference": "الحياة المُقدّسة",
@@ -34,7 +34,7 @@
 {
 "content_id": "134044",
 "reference_id": 108242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَام",
 "media_type": "Text",
 "index_reference": "حَام",
@@ -44,13 +44,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَامًا"
+},
+{
+"id": "place:Ham.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَامًا"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْعَمّونِيِّينَ"
+}
+]
 }
 },
 {
 "content_id": "134307",
 "reference_id": 108505,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حبل المُريّا",
 "media_type": "Text",
 "index_reference": "حبل المُريّا",
@@ -60,13 +82,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:MoriahMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْمرِيَّا"
+}
+]
 }
 },
 {
 "content_id": "134229",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حِثّيين",
 "media_type": "Text",
 "index_reference": "حِثّيين",
@@ -76,13 +106,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
+}
+]
 }
 },
 {
 "content_id": "134312",
 "reference_id": 108510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَجَّي",
 "media_type": "Text",
 "index_reference": "حَجَّي",
@@ -94,88 +132,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Haggi",
-"type": "person",
-"preferred_label": "حَجِّي",
-"confidence": 0.9122,
-"match_method": "embedding"
-},
-{
-"id": "person:Gadi",
-"type": "person",
-"preferred_label": "جَادِي",
-"confidence": 0.8405,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8346,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.2",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8346,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.3",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8346,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.4",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8346,
-"match_method": "embedding"
-},
-{
 "id": "person:Haggai",
 "type": "person",
-"preferred_label": "حَجَّيِ",
-"confidence": 0.8313,
-"match_method": "embedding"
-},
-{
-"id": "person:Heber",
-"type": "person",
-"preferred_label": "حَابِر",
-"confidence": 0.8108,
-"match_method": "embedding"
-},
-{
-"id": "person:Heber.2",
-"type": "person",
-"preferred_label": "حَابِر",
-"confidence": 0.8108,
-"match_method": "embedding"
-},
-{
-"id": "person:Heber.3",
-"type": "person",
-"preferred_label": "حَابِر",
-"confidence": 0.8108,
-"match_method": "embedding"
-},
-{
-"id": "person:Heber.4",
-"type": "person",
-"preferred_label": "حَابِر",
-"confidence": 0.8108,
-"match_method": "embedding"
-},
-{
-"id": "person:Huri",
-"type": "person",
-"preferred_label": "حورِيَ",
-"confidence": 0.8036,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَجَّيِ"
 }
 ]
 }
@@ -183,7 +144,7 @@
 {
 "content_id": "134298",
 "reference_id": 108496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَزَقِيَّا",
 "media_type": "Text",
 "index_reference": "حَزَقِيَّا",
@@ -195,102 +156,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hezekiah",
-"type": "person",
-"preferred_label": "حَزَقِيَّا",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Hezekiah.2",
 "type": "person",
-"preferred_label": "حَزَقِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "حَزَقِيَّا"
 },
 {
 "id": "person:Hezekiah.3",
 "type": "person",
-"preferred_label": "حَزَقِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "حَزَقِيَّا"
 },
 {
 "id": "person:Hezekiah.4",
 "type": "person",
-"preferred_label": "حَزَقِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "حَزَقِيَّا"
 },
 {
-"id": "person:Hizkiah",
+"id": "person:Hezekiah",
 "type": "person",
-"preferred_label": "حَزَقِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hilkiah",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.8853,
-"match_method": "embedding"
-},
-{
-"id": "person:Hilkiah.2",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.8853,
-"match_method": "embedding"
-},
-{
-"id": "person:Hilkiah.3",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.8853,
-"match_method": "embedding"
-},
-{
-"id": "person:Hilkiah.4",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.8853,
-"match_method": "embedding"
-},
-{
-"id": "person:Hilkiah.5",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.8853,
-"match_method": "embedding"
-},
-{
-"id": "person:Hilkiah.6",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.8853,
-"match_method": "embedding"
-},
-{
-"id": "person:Hilkiah.7",
-"type": "person",
-"preferred_label": "حِلْقِيَّا",
-"confidence": 0.8853,
-"match_method": "embedding"
-},
-{
-"id": "person:Harhaiah",
-"type": "person",
-"preferred_label": "حَرْهَايَا",
-"confidence": 0.8278,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezekiel",
-"type": "person",
-"preferred_label": "حِزْقِيَالَ",
-"confidence": 0.8102,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "حَزَقِيَّا"
 }
 ]
 }
@@ -298,7 +189,7 @@
 {
 "content_id": "134357",
 "reference_id": 108555,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حزقيال",
 "media_type": "Text",
 "index_reference": "حزقيال",
@@ -308,13 +199,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حِزْقِيَالَ"
+}
+]
 }
 },
 {
 "content_id": "134072",
 "reference_id": 108270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حُقوق الإبن البِكر",
 "media_type": "Text",
 "index_reference": "حُقوق الإبن البِكر",
@@ -330,7 +229,7 @@
 {
 "content_id": "134011",
 "reference_id": 108209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حُكّام",
 "media_type": "Text",
 "index_reference": "حُكّام",
@@ -342,158 +241,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hasshub",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.874,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.2",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.874,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.3",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.874,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.4",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.874,
-"match_method": "embedding"
-},
-{
-"id": "place:Sebam",
-"type": "place",
-"preferred_label": "شَبَام",
-"confidence": 0.8136,
-"match_method": "embedding"
-},
-{
-"id": "place:Humtah",
-"type": "place",
-"preferred_label": "حمْطَة",
-"confidence": 0.8093,
-"match_method": "embedding"
-},
-{
-"id": "person:Hamor",
-"type": "person",
-"preferred_label": "حَمورَ",
-"confidence": 0.8092,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.10",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.11",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.12",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.13",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.14",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.15",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.2",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.3",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.4",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.5",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.6",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.7",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.8",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shallum.9",
-"type": "person",
-"preferred_label": "شَلّوم",
-"confidence": 0.8029,
-"match_method": "embedding"
-},
-{
-"id": "person:Shashak",
-"type": "person",
-"preferred_label": "شَاشَق",
-"confidence": 0.8009,
-"match_method": "embedding"
+"id": "group:GenericRulers",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Rulers"
 }
 ]
 }
@@ -501,7 +253,7 @@
 {
 "content_id": "134127",
 "reference_id": 108325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حكمة",
 "media_type": "Text",
 "index_reference": "حكمة",
@@ -511,13 +263,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Wisdom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
+}
+]
 }
 },
 {
 "content_id": "133888",
 "reference_id": 108086,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حمل الله",
 "media_type": "Text",
 "index_reference": "حمل الله",
@@ -533,7 +293,7 @@
 {
 "content_id": "134252",
 "reference_id": 108450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَنَّة",
 "media_type": "Text",
 "index_reference": "حَنَّة",
@@ -545,151 +305,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Anna",
-"type": "person",
-"preferred_label": "حَنَّة",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Hannah",
 "type": "person",
-"preferred_label": "حَنَّة",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Humtah",
-"type": "place",
-"preferred_label": "حمْطَة",
-"confidence": 0.8959,
-"match_method": "embedding"
-},
-{
-"id": "place:Dannah",
-"type": "place",
-"preferred_label": "دَنَّة",
-"confidence": 0.8941,
-"match_method": "embedding"
-},
-{
-"id": "person:Helah",
-"type": "person",
-"preferred_label": "حَلَاة",
-"confidence": 0.8617,
-"match_method": "embedding"
-},
-{
-"id": "person:Hirah",
-"type": "person",
-"preferred_label": "حِيرَة",
-"confidence": 0.8515,
-"match_method": "embedding"
-},
-{
-"id": "person:Shammah",
-"type": "person",
-"preferred_label": "شَمَّة",
-"confidence": 0.8427,
-"match_method": "embedding"
-},
-{
-"id": "person:Shammah.2",
-"type": "person",
-"preferred_label": "شَمَّة",
-"confidence": 0.8427,
-"match_method": "embedding"
-},
-{
-"id": "person:Shammah.3",
-"type": "person",
-"preferred_label": "شَمَّة",
-"confidence": 0.8427,
-"match_method": "embedding"
-},
-{
-"id": "person:Shammah.4",
-"type": "person",
-"preferred_label": "شَمَّة",
-"confidence": 0.8427,
-"match_method": "embedding"
-},
-{
-"id": "person:Hathath",
-"type": "person",
-"preferred_label": "حَثَاث",
-"confidence": 0.8351,
-"match_method": "embedding"
-},
-{
-"id": "place:Hobah",
-"type": "place",
-"preferred_label": "حوبَةَ",
-"confidence": 0.8342,
-"match_method": "embedding"
-},
-{
-"id": "person:Rinnah",
-"type": "person",
-"preferred_label": "رِنَّة",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "person:Mizzah",
-"type": "person",
-"preferred_label": "مِزَّة",
-"confidence": 0.8145,
-"match_method": "embedding"
-},
-{
-"id": "person:Zillah",
-"type": "person",
-"preferred_label": "صِلَّة",
-"confidence": 0.8062,
-"match_method": "embedding"
-},
-{
-"id": "person:Rohgah",
-"type": "person",
-"preferred_label": "رهْجَة",
-"confidence": 0.8046,
-"match_method": "embedding"
-},
-{
-"id": "place:Balah",
-"type": "place",
-"preferred_label": "بَالَة",
-"confidence": 0.8045,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8044,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.2",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8044,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.3",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8044,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.4",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8044,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "حَنَّة"
 }
 ]
 }
@@ -697,7 +317,7 @@
 {
 "content_id": "134007",
 "reference_id": 108205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حَوَاء",
 "media_type": "Text",
 "index_reference": "حَوَاء",
@@ -709,60 +329,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hasshub",
+"id": "person:Eve",
 "type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8407,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.2",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8407,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.3",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8407,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.4",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8407,
-"match_method": "embedding"
-},
-{
-"id": "person:Haggi",
-"type": "person",
-"preferred_label": "حَجِّي",
-"confidence": 0.8242,
-"match_method": "embedding"
-},
-{
-"id": "person:Anna",
-"type": "person",
-"preferred_label": "حَنَّة",
-"confidence": 0.8143,
-"match_method": "embedding"
-},
-{
-"id": "person:Hannah",
-"type": "person",
-"preferred_label": "حَنَّة",
-"confidence": 0.8143,
-"match_method": "embedding"
-},
-{
-"id": "person:Helah",
-"type": "person",
-"preferred_label": "حَلَاة",
-"confidence": 0.8066,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَوَّاءَ"
 }
 ]
 }
@@ -770,7 +341,7 @@
 {
 "content_id": "134189",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حُوبَابَ",
 "media_type": "Text",
 "index_reference": "حُوبَابَ",
@@ -780,13 +351,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hobab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "لِحوبَابَ"
+}
+]
 }
 },
 {
 "content_id": "134371",
 "reference_id": 108569,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "حياة أبدية",
 "media_type": "Text",
 "index_reference": "حياة أبدية",

@@ -2,7 +2,7 @@
 {
 "content_id": "775318",
 "reference_id": 108259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hagar",
 "media_type": "Text",
 "index_reference": "hagar",
@@ -16,16 +16,9 @@
 {
 "id": "person:Hagar",
 "type": "person",
-"preferred_label": "Hagar",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Gahar",
-"type": "person",
-"preferred_label": "Gahar",
-"confidence": 0.8773,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hagar"
 }
 ]
 }
@@ -33,7 +26,7 @@
 {
 "content_id": "775571",
 "reference_id": 108510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haggaï",
 "media_type": "Text",
 "index_reference": "haggaï",
@@ -47,9 +40,9 @@
 {
 "id": "person:Haggai",
 "type": "person",
-"preferred_label": "Haggai",
-"confidence": 0.9581,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haggai"
 }
 ]
 }
@@ -57,7 +50,7 @@
 {
 "content_id": "775573",
 "reference_id": 108521,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haman",
 "media_type": "Text",
 "index_reference": "haman",
@@ -71,30 +64,9 @@
 {
 "id": "person:Haman",
 "type": "person",
-"preferred_label": "Haman",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman",
-"type": "person",
-"preferred_label": "Heman",
-"confidence": 0.8115,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.2",
-"type": "person",
-"preferred_label": "Heman",
-"confidence": 0.8115,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.3",
-"type": "person",
-"preferred_label": "Heman",
-"confidence": 0.8115,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Haman"
 }
 ]
 }
@@ -102,7 +74,7 @@
 {
 "content_id": "775574",
 "reference_id": 108450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hanna",
 "media_type": "Text",
 "index_reference": "hanna",
@@ -112,13 +84,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hannah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hannah"
+}
+]
 }
 },
 {
 "content_id": "775575",
 "reference_id": 108419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hart",
 "media_type": "Text",
 "index_reference": "hart",
@@ -128,13 +108,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Heart"
+}
+]
 }
 },
 {
 "content_id": "778514",
 "reference_id": 108532,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hebreeërs",
 "media_type": "Text",
 "index_reference": "hebreeërs",
@@ -159,21 +147,13 @@
 "language": "nld"
 }
 ],
-"acai": [
-{
-"id": "group:Heber",
-"type": "group",
-"preferred_label": "Heberites",
-"confidence": 0.8422,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "778827",
 "reference_id": 108226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "HEER",
 "media_type": "Text",
 "index_reference": "heer",
@@ -183,16 +163,31 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "778828",
 "reference_id": 108329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heer - Heerser",
 "media_type": "Text",
-"index_reference": "heer - heerser",
+"index_reference": "heer  heerser",
 "language": "nld",
 "review_level": "None",
 "content": "<p>Een titel voor een heerser, leider of meester. Het wordt gebruikt als een titel voor God in de Bijbel en betekent dat God gezag heeft over alles en iedereen. In de tijd van het Nieuwe Testament werd &apos;heer&apos; gebruikt als een titel voor de Romeinse keizer, wat betekende dat Caesar overal gezag had waar de Romeinse regering de controle had. De volgelingen van Jezus noemden Jezus &apos;Heer&apos;, waarmee ze erkenden dat Jezus God is en volledige autoriteit heeft over alles en iedereen. Door Jezus &apos;Heer&apos; te noemen, daagden de volgelingen van Jezus het gezag van Caesar uit.</p>",
@@ -205,7 +200,7 @@
 {
 "content_id": "778829",
 "reference_id": 108146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heer Jezus Christus",
 "media_type": "Text",
 "index_reference": "heer jezus christus",
@@ -215,13 +210,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+}
+]
 }
 },
 {
 "content_id": "778526",
 "reference_id": 108361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heilig",
 "media_type": "Text",
 "index_reference": "heilig",
@@ -231,13 +234,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Holy"
+}
+]
 }
 },
 {
 "content_id": "778527",
 "reference_id": 108044,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heilig leven",
 "media_type": "Text",
 "index_reference": "heilig leven",
@@ -253,7 +264,7 @@
 {
 "content_id": "778528",
 "reference_id": 108388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heilige Geest",
 "media_type": "Text",
 "index_reference": "heilige geest",
@@ -267,9 +278,9 @@
 {
 "id": "deity:HolySpirit",
 "type": "deity",
-"preferred_label": "Holy Spirit",
-"confidence": 0.8055,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Spirit"
 }
 ]
 }
@@ -277,7 +288,7 @@
 {
 "content_id": "778529",
 "reference_id": 108334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heilige tent",
 "media_type": "Text",
 "index_reference": "heilige tent",
@@ -287,13 +298,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
 "content_id": "778515",
 "reference_id": 108074,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hel",
 "media_type": "Text",
 "index_reference": "hel",
@@ -303,13 +322,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "775576",
 "reference_id": 108201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hemel",
 "media_type": "Text",
 "index_reference": "hemel",
@@ -333,7 +360,7 @@
 {
 "content_id": "769673",
 "reference_id": 108156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hemelburgers",
 "media_type": "Text",
 "index_reference": "hemelburgers",
@@ -357,7 +384,7 @@
 {
 "content_id": "778513",
 "reference_id": 108529,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hemelse gewesten",
 "media_type": "Text",
 "index_reference": "hemelse gewesten",
@@ -381,7 +408,7 @@
 {
 "content_id": "772772",
 "reference_id": 108228,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Henoch",
 "media_type": "Text",
 "index_reference": "henoch",
@@ -393,18 +420,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hanoch",
+"id": "person:Enoch.2",
 "type": "person",
-"preferred_label": "Hanoch",
-"confidence": 0.8524,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Enoch"
 },
 {
-"id": "person:Hanoch.2",
+"id": "person:Enoch",
 "type": "person",
-"preferred_label": "Hanoch",
-"confidence": 0.8524,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Enoch"
 }
 ]
 }
@@ -412,7 +439,7 @@
 {
 "content_id": "778516",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Agrippa I",
 "media_type": "Text",
 "index_reference": "herodes agrippa i",
@@ -422,13 +449,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Agrippa"
+}
+]
 }
 },
 {
 "content_id": "778517",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Agrippa II",
 "media_type": "Text",
 "index_reference": "herodes agrippa ii",
@@ -438,13 +473,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod"
+}
+]
 }
 },
 {
 "content_id": "778518",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Antipas",
 "media_type": "Text",
 "index_reference": "herodes antipas",
@@ -458,9 +501,9 @@
 {
 "id": "person:Herod.2",
 "type": "person",
-"preferred_label": "Herod Antipas",
-"confidence": 0.8076,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod Antipas"
 }
 ]
 }
@@ -468,7 +511,7 @@
 {
 "content_id": "778519",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes de Grote",
 "media_type": "Text",
 "index_reference": "herodes de grote",
@@ -478,13 +521,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod"
+}
+]
 }
 },
 {
 "content_id": "778520",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodianen",
 "media_type": "Text",
 "index_reference": "herodianen",
@@ -498,9 +549,9 @@
 {
 "id": "group:Herodian",
 "type": "group",
-"preferred_label": "Herodians",
-"confidence": 0.8474,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodians"
 }
 ]
 }
@@ -508,7 +559,7 @@
 {
 "content_id": "778524",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hevieten",
 "media_type": "Text",
 "index_reference": "hevieten",
@@ -518,13 +569,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
+}
+]
 }
 },
 {
 "content_id": "778521",
 "reference_id": 108496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hizkia",
 "media_type": "Text",
 "index_reference": "hizkia",
@@ -534,13 +593,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hezekiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "person:Hezekiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "person:Hezekiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+},
+{
+"id": "person:Hezekiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
+}
+]
 }
 },
 {
 "content_id": "778525",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hobab",
 "media_type": "Text",
 "index_reference": "hobab",
@@ -554,51 +642,9 @@
 {
 "id": "person:Hobab",
 "type": "person",
-"preferred_label": "Hobab",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Hobah",
-"type": "place",
-"preferred_label": "Hobah",
-"confidence": 0.8914,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.2",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.3",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.4",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.5",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hobab"
 }
 ]
 }
@@ -606,7 +652,7 @@
 {
 "content_id": "778523",
 "reference_id": 108368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hogepriester",
 "media_type": "Text",
 "index_reference": "hogepriester",
@@ -622,7 +668,7 @@
 {
 "content_id": "778522",
 "reference_id": 108499,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hoogten",
 "media_type": "Text",
 "index_reference": "hoogten",
@@ -638,7 +684,7 @@
 {
 "content_id": "778530",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hosea",
 "media_type": "Text",
 "index_reference": "hosea",
@@ -652,9 +698,9 @@
 {
 "id": "person:Hosea",
 "type": "person",
-"preferred_label": "Hosea",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hosea"
 }
 ]
 }

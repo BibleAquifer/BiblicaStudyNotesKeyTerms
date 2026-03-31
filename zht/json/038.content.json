@@ -2,7 +2,7 @@
 {
 "content_id": "232809",
 "reference_id": 108208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "工作",
 "media_type": "Text",
 "index_reference": "工作",
@@ -20,13 +20,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Work"
+}
+]
 }
 },
 {
 "content_id": "232668",
 "reference_id": 108067,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "公會",
 "media_type": "Text",
 "index_reference": "公會",
@@ -36,13 +44,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sanhedrin",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Sanhedrin"
+}
+]
 }
 },
 {
 "content_id": "232662",
 "reference_id": 108061,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "公元70年",
 "media_type": "Text",
 "index_reference": "公元70年",
@@ -58,7 +74,7 @@
 {
 "content_id": "233152",
 "reference_id": 108551,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "公元前605年",
 "media_type": "Text",
 "index_reference": "公元前605年",

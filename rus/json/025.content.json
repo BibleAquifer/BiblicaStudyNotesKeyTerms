@@ -2,7 +2,7 @@
 {
 "content_id": "193496",
 "reference_id": 108414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Шма",
 "media_type": "Text",
 "index_reference": "шма",
@@ -12,7 +12,43 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shema.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Шема"
+},
+{
+"id": "person:Shema.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Шема"
+},
+{
+"id": "person:Shema.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Шема"
+},
+{
+"id": "person:Shema",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Шема"
+},
+{
+"id": "place:Shema",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Шема"
+}
+]
 }
 }
 ]

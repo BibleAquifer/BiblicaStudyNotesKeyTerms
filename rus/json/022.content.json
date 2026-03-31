@@ -2,7 +2,7 @@
 {
 "content_id": "193472",
 "reference_id": 108390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Халев",
 "media_type": "Text",
 "index_reference": "халев",
@@ -14,39 +14,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Caleb",
-"type": "person",
-"preferred_label": "Халев",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Caleb.2",
 "type": "person",
-"preferred_label": "Халев",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Халев"
 },
 {
-"id": "person:Heleb",
+"id": "person:Caleb",
 "type": "person",
-"preferred_label": "Хелев",
-"confidence": 0.861,
-"match_method": "embedding"
-},
-{
-"id": "person:Chelub",
-"type": "person",
-"preferred_label": "Хелув",
-"confidence": 0.8547,
-"match_method": "embedding"
-},
-{
-"id": "person:Chelub.2",
-"type": "person",
-"preferred_label": "Хелув",
-"confidence": 0.8547,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Халев"
 }
 ]
 }
@@ -54,7 +33,7 @@
 {
 "content_id": "193324",
 "reference_id": 108242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Хам",
 "media_type": "Text",
 "index_reference": "хам",
@@ -64,13 +43,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Хам"
+},
+{
+"id": "place:Ham.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Хам"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Аммон"
+}
+]
 }
 },
 {
 "content_id": "193433",
 "reference_id": 108351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Хлебное приношение",
 "media_type": "Text",
 "index_reference": "хлебное приношение",
@@ -86,7 +87,7 @@
 {
 "content_id": "193469",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ховав",
 "media_type": "Text",
 "index_reference": "ховав",
@@ -100,9 +101,9 @@
 {
 "id": "person:Hobab",
 "type": "person",
-"preferred_label": "Ховав",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ховав"
 }
 ]
 }
@@ -110,7 +111,7 @@
 {
 "content_id": "193499",
 "reference_id": 108417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Храм",
 "media_type": "Text",
 "index_reference": "храм",
@@ -120,13 +121,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+}
+]
 }
 },
 {
 "content_id": "193180",
 "reference_id": 108098,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Христос",
 "media_type": "Text",
 "index_reference": "христос",
@@ -151,7 +160,15 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+}
+]
 }
 }
 ]

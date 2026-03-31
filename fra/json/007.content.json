@@ -2,7 +2,7 @@
 {
 "content_id": "133611",
 "reference_id": 108359,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Eau spéciale",
 "media_type": "Text",
 "index_reference": "eau spéciale",
@@ -18,7 +18,7 @@
 {
 "content_id": "133793",
 "reference_id": 108541,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Écrits apocalyptiques",
 "media_type": "Text",
 "index_reference": "écrits apocalyptiques",
@@ -34,7 +34,7 @@
 {
 "content_id": "133663",
 "reference_id": 108411,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Édom",
 "media_type": "Text",
 "index_reference": "édom",
@@ -46,18 +46,18 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Edom",
-"type": "group",
-"preferred_label": "Édom",
+"id": "person:Esau",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ésaü"
 },
 {
 "id": "place:Edom",
 "type": "place",
-"preferred_label": "Édom",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Édom"
 }
 ]
 }
@@ -65,7 +65,7 @@
 {
 "content_id": "133348",
 "reference_id": 108096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Église",
 "media_type": "Text",
 "index_reference": "église",
@@ -79,9 +79,9 @@
 {
 "id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "église",
-"confidence": 0.9562,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "église"
 }
 ]
 }
@@ -89,7 +89,7 @@
 {
 "content_id": "133503",
 "reference_id": 108251,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Égypte",
 "media_type": "Text",
 "index_reference": "égypte",
@@ -103,16 +103,16 @@
 {
 "id": "person:Egypt",
 "type": "person",
-"preferred_label": "Égypte",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Égypte"
 },
 {
 "id": "place:Egypt",
 "type": "place",
-"preferred_label": "Égypte",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Égypte"
 }
 ]
 }
@@ -120,7 +120,7 @@
 {
 "content_id": "133684",
 "reference_id": 108432,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Éhoud",
 "media_type": "Text",
 "index_reference": "éhoud",
@@ -130,13 +130,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ehud.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éhud"
+},
+{
+"id": "person:Ehud",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éhud"
+}
+]
 }
 },
 {
 "content_id": "133609",
 "reference_id": 108357,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Éléazar",
 "media_type": "Text",
 "index_reference": "éléazar",
@@ -148,137 +163,60 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Eleazar",
-"type": "person",
-"preferred_label": "Éléazar",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Eleazar.2",
 "type": "person",
-"preferred_label": "Éléazar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Éléazar"
 },
 {
 "id": "person:Eleazar.3",
 "type": "person",
-"preferred_label": "Éléazar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Éléazar"
 },
 {
 "id": "person:Eleazar.4",
 "type": "person",
-"preferred_label": "Éléazar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Éléazar"
 },
 {
 "id": "person:Eleazar.5",
 "type": "person",
-"preferred_label": "Éléazar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Éléazar"
 },
 {
 "id": "person:Eleazar.6",
 "type": "person",
-"preferred_label": "Éléazar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Éléazar"
 },
 {
 "id": "person:Eleazar.7",
 "type": "person",
-"preferred_label": "Éléazar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Éléazar"
 },
 {
 "id": "person:Eleazar.8",
 "type": "person",
-"preferred_label": "Éléazar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Éléazar"
 },
 {
-"id": "person:Eliezer",
+"id": "person:Eleazar",
 "type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.10",
-"type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.11",
-"type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.2",
-"type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.3",
-"type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.4",
-"type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.5",
-"type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.6",
-"type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.7",
-"type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.8",
-"type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.9",
-"type": "person",
-"preferred_label": "Éliézer",
-"confidence": 0.8404,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éléazar"
 }
 ]
 }
@@ -286,7 +224,7 @@
 {
 "content_id": "133703",
 "reference_id": 108451,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Éli",
 "media_type": "Text",
 "index_reference": "éli ",
@@ -296,13 +234,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Eli",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éli"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
 "content_id": "133738",
 "reference_id": 108486,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Élie",
 "media_type": "Text",
 "index_reference": "élie",
@@ -314,32 +267,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Elijah",
-"type": "person",
-"preferred_label": "Élie",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Elijah.2",
 "type": "person",
-"preferred_label": "Élie",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Élie"
 },
 {
 "id": "person:Elijah.3",
 "type": "person",
-"preferred_label": "Élie",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Élie"
 },
 {
 "id": "person:Elijah.4",
 "type": "person",
-"preferred_label": "Élie",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Élie"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Élie"
 }
 ]
 }
@@ -347,7 +300,7 @@
 {
 "content_id": "133739",
 "reference_id": 108487,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Élisée",
 "media_type": "Text",
 "index_reference": "élisée",
@@ -361,9 +314,9 @@
 {
 "id": "person:Elisha",
 "type": "person",
-"preferred_label": "Élisée",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Élisée"
 }
 ]
 }
@@ -371,7 +324,7 @@
 {
 "content_id": "133790",
 "reference_id": 108538,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Emmanuel",
 "media_type": "Text",
 "index_reference": "emmanuel",
@@ -381,13 +334,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jésus"
+}
+]
 }
 },
 {
 "content_id": "133623",
 "reference_id": 108371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Encens",
 "media_type": "Text",
 "index_reference": "encens",
@@ -397,13 +358,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
+}
+]
 }
 },
 {
 "content_id": "133326",
 "reference_id": 108074,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Enfer",
 "media_type": "Text",
 "index_reference": "enfer",
@@ -413,13 +382,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "133480",
 "reference_id": 108228,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Énoch",
 "media_type": "Text",
 "index_reference": "énoch",
@@ -429,13 +406,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Enoch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hénoc"
+},
+{
+"id": "person:Enoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hénoc"
+}
+]
 }
 },
 {
 "content_id": "133570",
 "reference_id": 108318,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Enseigner à leurs enfants",
 "media_type": "Text",
 "index_reference": "enseigner à leurs enfants",
@@ -451,7 +443,7 @@
 {
 "content_id": "133411",
 "reference_id": 108159,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Épaphras",
 "media_type": "Text",
 "index_reference": "épaphras",
@@ -465,9 +457,9 @@
 {
 "id": "person:Epaphras",
 "type": "person",
-"preferred_label": "Épaphras",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Épaphras"
 }
 ]
 }
@@ -475,7 +467,7 @@
 {
 "content_id": "133410",
 "reference_id": 108158,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Épaphrodite",
 "media_type": "Text",
 "index_reference": "épaphrodite",
@@ -489,9 +481,9 @@
 {
 "id": "person:Epaphroditus",
 "type": "person",
-"preferred_label": "Épaphrodite",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Épaphrodite"
 }
 ]
 }
@@ -499,7 +491,7 @@
 {
 "content_id": "133800",
 "reference_id": 108548,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Épée",
 "media_type": "Text",
 "index_reference": "épée",
@@ -509,13 +501,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
+]
 }
 },
 {
 "content_id": "133387",
 "reference_id": 108135,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Éphèse",
 "media_type": "Text",
 "index_reference": "éphèse",
@@ -529,9 +529,9 @@
 {
 "id": "place:Ephesus",
 "type": "place",
-"preferred_label": "Éphèse",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Éphèse"
 }
 ]
 }
@@ -539,7 +539,7 @@
 {
 "content_id": "133550",
 "reference_id": 108298,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Éphraïm",
 "media_type": "Text",
 "index_reference": "éphraïm",
@@ -551,32 +551,25 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Éphraïm",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Éphraïm",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Ephraim",
-"type": "place",
-"preferred_label": "Éphraïm",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Éphraïm"
 },
 {
 "id": "place:Ephraim.2",
 "type": "place",
-"preferred_label": "Ephraim",
-"confidence": 0.912,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éphraïm"
 }
 ]
 }
@@ -584,7 +577,7 @@
 {
 "content_id": "133384",
 "reference_id": 108132,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Épicuriens",
 "media_type": "Text",
 "index_reference": "épicuriens",
@@ -594,13 +587,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Epicurean",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Épicurien; disciple d'Épicure"
+}
+]
 }
 },
 {
 "content_id": "133515",
 "reference_id": 108263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Épreuve",
 "media_type": "Text",
 "index_reference": "épreuve",
@@ -616,7 +617,7 @@
 {
 "content_id": "133749",
 "reference_id": 108497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ésaïe",
 "media_type": "Text",
 "index_reference": "ésaïe",
@@ -630,44 +631,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"preferred_label": "Ésaïe",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.2",
-"type": "person",
-"preferred_label": "Ésaïe",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.3",
-"type": "person",
-"preferred_label": "Ésaïe",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.4",
-"type": "person",
-"preferred_label": "Ésaïe",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.5",
-"type": "person",
-"preferred_label": "Ésaïe",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshaiah.6",
-"type": "person",
-"preferred_label": "Ésaïe",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ésaïe"
 }
 ]
 }
@@ -675,7 +641,7 @@
 {
 "content_id": "133521",
 "reference_id": 108269,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ésaü",
 "media_type": "Text",
 "index_reference": "ésaü",
@@ -689,9 +655,9 @@
 {
 "id": "person:Esau",
 "type": "person",
-"preferred_label": "Ésaü",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ésaü"
 }
 ]
 }
@@ -699,7 +665,7 @@
 {
 "content_id": "133510",
 "reference_id": 108258,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Esclaves",
 "media_type": "Text",
 "index_reference": "esclaves",
@@ -715,7 +681,7 @@
 {
 "content_id": "133765",
 "reference_id": 108513,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Esdras",
 "media_type": "Text",
 "index_reference": "esdras",
@@ -727,25 +693,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ezra",
-"type": "person",
-"preferred_label": "Esdras",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ezra.2",
 "type": "person",
-"preferred_label": "Esdras",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Esdras"
 },
 {
-"id": "person:Ezrah",
+"id": "person:Ezra",
 "type": "person",
-"preferred_label": "Esdras",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Esdras"
 }
 ]
 }
@@ -753,7 +712,7 @@
 {
 "content_id": "133396",
 "reference_id": 108144,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Espagne",
 "media_type": "Text",
 "index_reference": "espagne",
@@ -767,9 +726,9 @@
 {
 "id": "place:Spain",
 "type": "place",
-"preferred_label": "Espagne",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Espagne"
 }
 ]
 }
@@ -777,7 +736,7 @@
 {
 "content_id": "133770",
 "reference_id": 108518,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Esther",
 "media_type": "Text",
 "index_reference": "esther",
@@ -791,9 +750,9 @@
 {
 "id": "person:Esther",
 "type": "person",
-"preferred_label": "Esther",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Esther"
 }
 ]
 }
@@ -801,10 +760,10 @@
 {
 "content_id": "133819",
 "reference_id": 108567,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Éternel (Dieu)",
 "media_type": "Text",
-"index_reference": "éternel (dieu)",
+"index_reference": "éternel dieu",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Une façon de parler de Dieu comme existant depuis toujours et pour toujours. Il s&apos;agit du nom de Dieu utilisé dans une vision de Daniel. De nombreuses années plus tard, Jean a eu une vision de Jésus. Jésus s&apos;est tourné vers Jean comme le Dieu éternel s&apos;était tourné vers Daniel.</p><p></p>",
@@ -815,9 +774,9 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "Éternel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Éternel"
 }
 ]
 }
@@ -825,7 +784,7 @@
 {
 "content_id": "133353",
 "reference_id": 108101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Étienne",
 "media_type": "Text",
 "index_reference": "étienne",
@@ -839,9 +798,9 @@
 {
 "id": "person:Stephen",
 "type": "person",
-"preferred_label": "Étienne",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Étienne"
 }
 ]
 }
@@ -849,7 +808,7 @@
 {
 "content_id": "133675",
 "reference_id": 108423,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Êtres spirituels",
 "media_type": "Text",
 "index_reference": "êtres spirituels",
@@ -873,7 +832,7 @@
 {
 "content_id": "133470",
 "reference_id": 108218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Êtres spirituels maléfiques",
 "media_type": "Text",
 "index_reference": "êtres spirituels maléfiques",
@@ -897,7 +856,7 @@
 {
 "content_id": "133283",
 "reference_id": 108031,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Évangile",
 "media_type": "Text",
 "index_reference": "évangile",
@@ -921,7 +880,7 @@
 {
 "content_id": "133831",
 "reference_id": 108579,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Évangile de la prospérité",
 "media_type": "Text",
 "index_reference": "évangile de la prospérité",
@@ -937,7 +896,7 @@
 {
 "content_id": "133457",
 "reference_id": 108205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ève",
 "media_type": "Text",
 "index_reference": "ève",
@@ -947,13 +906,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Eve",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ève"
+}
+]
 }
 },
 {
 "content_id": "133747",
 "reference_id": 108495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Exil",
 "media_type": "Text",
 "index_reference": "exil",
@@ -969,7 +936,7 @@
 {
 "content_id": "133568",
 "reference_id": 108316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Exode",
 "media_type": "Text",
 "index_reference": "exode",
@@ -985,7 +952,7 @@
 {
 "content_id": "133619",
 "reference_id": 108367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Expier",
 "media_type": "Text",
 "index_reference": "expier",
@@ -1009,10 +976,10 @@
 {
 "content_id": "133402",
 "reference_id": 108150,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Expliquer d'autres langues",
 "media_type": "Text",
-"index_reference": "expliquer d'autres langues",
+"index_reference": "expliquer dautres langues",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Lorsque des personnes expliquent le sens d&apos;un message exprimé dans une langue qu&apos;elles ne connaissaient pas auparavant. Le Saint-Esprit a donné à certains croyants la capacité de le faire. Ils expliquent ce qui est dit à ceux qui ne connaissent pas la langue. Cela aide ces personnes à comprendre le message et à en apprendre davantage sur Dieu (<span data-bnType=\"resourceReference\" data-resourceId=\"108097\" data-resourceType=\"BiblicaStudyNotesKeyTerms\">Parler d&apos;autres langues</span>).</p>",
@@ -1033,7 +1000,7 @@
 {
 "content_id": "133748",
 "reference_id": 108496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ézéchias",
 "media_type": "Text",
 "index_reference": "ézéchias",
@@ -1045,46 +1012,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hezekiah",
-"type": "person",
-"preferred_label": "Ézéchias",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Hezekiah.2",
 "type": "person",
-"preferred_label": "Ézéchias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ézéchias"
 },
 {
 "id": "person:Hezekiah.3",
 "type": "person",
-"preferred_label": "Ézéchias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ézéchias"
 },
 {
 "id": "person:Hezekiah.4",
 "type": "person",
-"preferred_label": "Ézéchias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ézéchias"
 },
 {
-"id": "person:Hizkiah",
+"id": "person:Hezekiah",
 "type": "person",
-"preferred_label": "Ézéchias",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehizkiah",
-"type": "person",
-"preferred_label": "Ézéchias",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ézéchias"
 }
 ]
 }
@@ -1092,7 +1045,7 @@
 {
 "content_id": "133807",
 "reference_id": 108555,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ézéchiel",
 "media_type": "Text",
 "index_reference": "ézéchiel",
@@ -1106,16 +1059,9 @@
 {
 "id": "person:Ezekiel",
 "type": "person",
-"preferred_label": "Ézéchiel",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehezkel",
-"type": "person",
-"preferred_label": "Ézéchiel",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ézéchiel"
 }
 ]
 }

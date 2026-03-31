@@ -2,7 +2,7 @@
 {
 "content_id": "146045",
 "reference_id": 108536,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Últimos dias",
 "media_type": "Text",
 "index_reference": "últimos dias",
@@ -18,7 +18,7 @@
 {
 "content_id": "145869",
 "reference_id": 108360,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ungido",
 "media_type": "Text",
 "index_reference": "ungido",
@@ -36,13 +36,21 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "anointed"
+}
+]
 }
 },
 {
 "content_id": "145978",
 "reference_id": 108469,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Urias",
 "media_type": "Text",
 "index_reference": "urias",
@@ -54,39 +62,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Uriah",
-"type": "person",
-"preferred_label": "Urias",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Uriah.2",
 "type": "person",
-"preferred_label": "Urias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Urias"
 },
 {
 "id": "person:Uriah.3",
 "type": "person",
-"preferred_label": "Urias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Urias"
 },
 {
 "id": "person:Uriah.4",
 "type": "person",
-"preferred_label": "Urias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Urias"
 },
 {
 "id": "person:Uriah.5",
 "type": "person",
-"preferred_label": "Urias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Urias"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Urias"
 }
 ]
 }

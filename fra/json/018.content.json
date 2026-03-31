@@ -2,7 +2,7 @@
 {
 "content_id": "133643",
 "reference_id": 108391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Qadesh Barnéa",
 "media_type": "Text",
 "index_reference": "qadesh barnéa",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kadès-Barnéa"
+}
+]
 }
 },
 {
 "content_id": "133645",
 "reference_id": 108393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Qoré",
 "media_type": "Text",
 "index_reference": "qoré",
@@ -28,13 +36,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Korah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Koré"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Koré"
+},
+{
+"id": "person:Korah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Koré"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Koré"
+}
+]
 }
 },
 {
 "content_id": "133808",
 "reference_id": 108556,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Quatre êtres vivants",
 "media_type": "Text",
 "index_reference": "quatre êtres vivants",

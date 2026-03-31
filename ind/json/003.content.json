@@ -2,7 +2,7 @@
 {
 "content_id": "203276",
 "reference_id": 108141,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abba",
 "media_type": "Text",
 "index_reference": "abba",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
 "content_id": "203616",
 "reference_id": 108481,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abia",
 "media_type": "Text",
 "index_reference": "abia",
@@ -32,44 +40,51 @@
 {
 "id": "person:Abijah.2",
 "type": "person",
-"preferred_label": "Abia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abia"
 },
 {
 "id": "person:Abijah.3",
 "type": "person",
-"preferred_label": "Abia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abia"
 },
 {
 "id": "person:Abijah.4",
 "type": "person",
-"preferred_label": "Abia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abia"
 },
 {
 "id": "person:Abijah.5",
 "type": "person",
-"preferred_label": "Abia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abia"
 },
 {
 "id": "person:Abijah.6",
 "type": "person",
-"preferred_label": "Abia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abia"
 },
 {
 "id": "person:Abijah.7",
 "type": "person",
-"preferred_label": "Abia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abia"
+},
+{
+"id": "person:Abi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abi"
 }
 ]
 }
@@ -77,7 +92,7 @@
 {
 "content_id": "203595",
 "reference_id": 108460,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abigail",
 "media_type": "Text",
 "index_reference": "abigail",
@@ -89,18 +104,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Abigail",
-"type": "person",
-"preferred_label": "Abigail",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Abigail.2",
 "type": "person",
-"preferred_label": "Abigail",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abigail"
+},
+{
+"id": "person:Abigail",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abigail"
 }
 ]
 }
@@ -108,7 +123,7 @@
 {
 "content_id": "203575",
 "reference_id": 108440,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abimelekh",
 "media_type": "Text",
 "index_reference": "abimelekh",
@@ -120,46 +135,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Abimelech",
-"type": "person",
-"preferred_label": "Abimelekh",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Abimelech.2",
 "type": "person",
-"preferred_label": "Abimelekh",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abimelekh"
 },
 {
-"id": "person:Ahimelech",
+"id": "person:Achish",
 "type": "person",
-"preferred_label": "Ahimelekh",
-"confidence": 0.8629,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Akhis"
 },
 {
-"id": "person:Ahimelech.2",
+"id": "person:Abimelech",
 "type": "person",
-"preferred_label": "Ahimelekh",
-"confidence": 0.8629,
-"match_method": "embedding"
-},
-{
-"id": "person:Ahimelech.3",
-"type": "person",
-"preferred_label": "Ahimelekh",
-"confidence": 0.8629,
-"match_method": "embedding"
-},
-{
-"id": "person:Elimelech",
-"type": "person",
-"preferred_label": "Elimelekh",
-"confidence": 0.8482,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abimelekh"
 }
 ]
 }
@@ -167,7 +161,7 @@
 {
 "content_id": "203378",
 "reference_id": 108243,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abraham",
 "media_type": "Text",
 "index_reference": "abraham",
@@ -189,9 +183,9 @@
 {
 "id": "person:Abraham",
 "type": "person",
-"preferred_label": "Abraham",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abraham"
 }
 ]
 }
@@ -199,7 +193,7 @@
 {
 "content_id": "203607",
 "reference_id": 108472,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Absalom",
 "media_type": "Text",
 "index_reference": "absalom",
@@ -213,9 +207,9 @@
 {
 "id": "person:Absalom",
 "type": "person",
-"preferred_label": "Absalom",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Absalom"
 }
 ]
 }
@@ -223,7 +217,7 @@
 {
 "content_id": "203594",
 "reference_id": 108459,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abyatar",
 "media_type": "Text",
 "index_reference": "abyatar",
@@ -237,9 +231,9 @@
 {
 "id": "person:Abiathar",
 "type": "person",
-"preferred_label": "Abyatar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abyatar"
 }
 ]
 }
@@ -247,7 +241,7 @@
 {
 "content_id": "203338",
 "reference_id": 108203,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adam",
 "media_type": "Text",
 "index_reference": "adam",
@@ -257,13 +251,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Adam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manusia"
+},
+{
+"id": "place:Adam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manusia"
+}
+]
 }
 },
 {
 "content_id": "203609",
 "reference_id": 108474,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adonia",
 "media_type": "Text",
 "index_reference": "adonia",
@@ -275,25 +284,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Adonijah",
-"type": "person",
-"preferred_label": "Adonia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Adonijah.2",
 "type": "person",
-"preferred_label": "Adonia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Adonia"
 },
 {
 "id": "person:Adonijah.3",
 "type": "person",
-"preferred_label": "Adonia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Adonia"
+},
+{
+"id": "person:Adonijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Adonia"
 }
 ]
 }
@@ -301,7 +310,7 @@
 {
 "content_id": "203619",
 "reference_id": 108484,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahab",
 "media_type": "Text",
 "index_reference": "ahab",
@@ -313,18 +322,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ahab",
-"type": "person",
-"preferred_label": "Ahab",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ahab.2",
 "type": "person",
-"preferred_label": "Ahab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ahab"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahab"
 }
 ]
 }
@@ -332,7 +341,7 @@
 {
 "content_id": "203612",
 "reference_id": 108477,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahia",
 "media_type": "Text",
 "index_reference": "ahia",
@@ -344,60 +353,60 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ahiah",
-"type": "person",
-"preferred_label": "Ahia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Ahijah",
-"type": "person",
-"preferred_label": "Ahia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ahijah.2",
 "type": "person",
-"preferred_label": "Ahia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ahia"
 },
 {
 "id": "person:Ahijah.3",
 "type": "person",
-"preferred_label": "Ahia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ahia"
 },
 {
 "id": "person:Ahijah.4",
 "type": "person",
-"preferred_label": "Ahia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ahia"
 },
 {
 "id": "person:Ahijah.5",
 "type": "person",
-"preferred_label": "Ahia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ahia"
 },
 {
 "id": "person:Ahijah.6",
 "type": "person",
-"preferred_label": "Ahia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ahia"
 },
 {
 "id": "person:Ahijah.7",
 "type": "person",
-"preferred_label": "Ahia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ahia"
+},
+{
+"id": "person:Ahimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahimelekh"
+},
+{
+"id": "person:Ahijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahia"
 }
 ]
 }
@@ -405,7 +414,7 @@
 {
 "content_id": "203593",
 "reference_id": 108458,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahimelekh",
 "media_type": "Text",
 "index_reference": "ahimelekh",
@@ -417,67 +426,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ahimelech",
-"type": "person",
-"preferred_label": "Ahimelekh",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ahimelech.2",
 "type": "person",
-"preferred_label": "Ahimelekh",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ahimelekh"
 },
 {
 "id": "person:Ahimelech.3",
 "type": "person",
-"preferred_label": "Ahimelekh",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ahimelekh"
 },
 {
-"id": "person:Elimelech",
+"id": "person:Ahimelech",
 "type": "person",
-"preferred_label": "Elimelekh",
-"confidence": 0.8774,
-"match_method": "embedding"
-},
-{
-"id": "person:Abimelech",
-"type": "person",
-"preferred_label": "Abimelekh",
-"confidence": 0.8629,
-"match_method": "embedding"
-},
-{
-"id": "person:Abimelech.2",
-"type": "person",
-"preferred_label": "Abimelekh",
-"confidence": 0.8629,
-"match_method": "embedding"
-},
-{
-"id": "place:Allammelech",
-"type": "place",
-"preferred_label": "Alamelekh",
-"confidence": 0.8282,
-"match_method": "embedding"
-},
-{
-"id": "person:Anammelech",
-"type": "person",
-"preferred_label": "Anamelekh",
-"confidence": 0.8078,
-"match_method": "embedding"
-},
-{
-"id": "person:Ahisamach",
-"type": "person",
-"preferred_label": "Ahisamakh",
-"confidence": 0.8001,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahimelekh"
 }
 ]
 }
@@ -485,10 +452,10 @@
 {
 "content_id": "203183",
 "reference_id": 108048,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahli-ahli Taurat",
 "media_type": "Text",
-"index_reference": "ahli-ahli taurat",
+"index_reference": "ahliahli taurat",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Orang-orang Yahudi yang telah mempelajari Perjanjian Lama dan tulisan-tulisan Yahudi lainnya. Orang-orang ini mengajarkan apa yang telah mereka pelajari kepada orang-orang. Orang-orang biasanya sangat menghargai para guru ini dan memperlakukan mereka dengan hormat. Kebanyakan ahli-ahli Taurat menentang Yesus dan pekerjaan-Nya.</p>",
@@ -501,7 +468,7 @@
 {
 "content_id": "203560",
 "reference_id": 108425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ai",
 "media_type": "Text",
 "index_reference": "ai",
@@ -511,13 +478,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Ai.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "hai"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "hai"
+}
+]
 }
 },
 {
 "content_id": "203369",
 "reference_id": 108234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Air bah",
 "media_type": "Text",
 "index_reference": "air bah",
@@ -541,7 +523,7 @@
 {
 "content_id": "203694",
 "reference_id": 108559,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Air Hidup",
 "media_type": "Text",
 "index_reference": "air hidup",
@@ -557,7 +539,7 @@
 {
 "content_id": "203494",
 "reference_id": 108359,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Air khusus",
 "media_type": "Text",
 "index_reference": "air khusus",
@@ -573,7 +555,7 @@
 {
 "content_id": "203561",
 "reference_id": 108426,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Akhan",
 "media_type": "Text",
 "index_reference": "akhan",
@@ -587,16 +569,9 @@
 {
 "id": "person:Achan",
 "type": "person",
-"preferred_label": "Akhan",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Ahian",
-"type": "person",
-"preferred_label": "Ahyan",
-"confidence": 0.8014,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Akhan"
 }
 ]
 }
@@ -604,7 +579,7 @@
 {
 "content_id": "203286",
 "reference_id": 108151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Akhaya",
 "media_type": "Text",
 "index_reference": "akhaya ",
@@ -618,9 +593,9 @@
 {
 "id": "place:Achaia",
 "type": "place",
-"preferred_label": "Akhaya",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Akhaya"
 }
 ]
 }
@@ -628,10 +603,10 @@
 {
 "content_id": "203439",
 "reference_id": 108304,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aku (adalah)",
 "media_type": "Text",
-"index_reference": "aku (adalah)",
+"index_reference": "aku adalah",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Nama yang digunakan Allah untuk menggambarkan diri-Nya kepada Musa dalam Keluaran 3:14. Nama ini terdiri dari huruf Ibrani YHWH. Tidak ada satupun yang tahu persis apa arti dari nama ini. Huruf YHWH terdengar seperti kata Ibrani untuk Aku adalah Aku. Allah adalah Dia dan Dia menentukan apa yang Dia lakukan. Tidak ada satupun dan tidak ada yang menjadikan Allah ada atau melakukan apapun. Yesus menggunakan kata-kata yang sama untuk menggambarkan siapa diri-Nya di dalam kitab Yohanes.</p>",
@@ -644,7 +619,7 @@
 {
 "content_id": "203269",
 "reference_id": 108134,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Akwila dan Priskila",
 "media_type": "Text",
 "index_reference": "akwila dan priskila",
@@ -654,13 +629,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Aquila",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Akwila"
+},
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Priskila"
+}
+]
 }
 },
 {
 "content_id": "203550",
 "reference_id": 108415,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Alat Allah",
 "media_type": "Text",
 "index_reference": "alat allah",
@@ -676,7 +666,7 @@
 {
 "content_id": "203305",
 "reference_id": 108170,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Alfa dan Omega",
 "media_type": "Text",
 "index_reference": "alfa dan omega",
@@ -692,7 +682,7 @@
 {
 "content_id": "203328",
 "reference_id": 108193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Alkitab",
 "media_type": "Text",
 "index_reference": "alkitab",
@@ -716,7 +706,7 @@
 {
 "content_id": "203334",
 "reference_id": 108199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Allah",
 "media_type": "Text",
 "index_reference": "allah",
@@ -745,9 +735,9 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "Tuhan",
-"confidence": 0.8183,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
 }
 ]
 }
@@ -755,7 +745,7 @@
 {
 "content_id": "203702",
 "reference_id": 108567,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Allah yang Kekal",
 "media_type": "Text",
 "index_reference": "allah yang kekal",
@@ -765,13 +755,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
 "content_id": "203326",
 "reference_id": 108191,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amin",
 "media_type": "Text",
 "index_reference": "amin",
@@ -781,13 +779,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Amon",
+"type": "deity",
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "Amon"
+},
+{
+"id": "person:Amon.2",
+"type": "person",
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "Amon"
+},
+{
+"id": "person:Amon.3",
+"type": "person",
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "Amon"
+}
+]
 }
 },
 {
 "content_id": "203697",
 "reference_id": 108562,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amos",
 "media_type": "Text",
 "index_reference": "amos",
@@ -801,23 +821,23 @@
 {
 "id": "person:Amos.2",
 "type": "person",
-"preferred_label": "Amos",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Amos"
 },
 {
 "id": "person:Amos.3",
 "type": "person",
-"preferred_label": "Amos",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Amos"
 },
 {
-"id": "person:Amoz",
+"id": "person:Amon.3",
 "type": "person",
-"preferred_label": "Amos",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Amon"
 }
 ]
 }
@@ -825,7 +845,7 @@
 {
 "content_id": "203661",
 "reference_id": 108526,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anak Allah",
 "media_type": "Text",
 "index_reference": "anak allah",
@@ -841,7 +861,7 @@
 {
 "content_id": "203187",
 "reference_id": 108052,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anak Daud",
 "media_type": "Text",
 "index_reference": "anak daud",
@@ -865,7 +885,7 @@
 {
 "content_id": "203221",
 "reference_id": 108086,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anak Domba Allah",
 "media_type": "Text",
 "index_reference": "anak domba allah",
@@ -881,7 +901,7 @@
 {
 "content_id": "203692",
 "reference_id": 108557,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anak Manusia",
 "media_type": "Text",
 "index_reference": "anak manusia",
@@ -897,10 +917,10 @@
 {
 "content_id": "203366",
 "reference_id": 108231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anak-anak Allah",
 "media_type": "Text",
-"index_reference": "anak-anak allah",
+"index_reference": "anakanak allah",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Tidak diketahui dengan pasti siapa anak-anak Allah itu. Diperkirakan bahwa mereka adalah makhluk rohani yang berbalik melawan Allah. Diperkirakan bahwa mereka datang ke bumi dengan membawa tubuh dan menikahi wanita manusia. Hal ini bertentangan dengan rencana Allah agar manusia hanya menikahi manusia.</p>",
@@ -913,7 +933,7 @@
 {
 "content_id": "203176",
 "reference_id": 108041,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Andrew",
 "media_type": "Text",
 "index_reference": "andrew",
@@ -923,16 +943,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Andreas"
+}
+]
 }
 },
 {
 "content_id": "203318",
 "reference_id": 108183,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Angka-angka",
 "media_type": "Text",
-"index_reference": "angka-angka",
+"index_reference": "angkaangka",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Dalam kitab Wahyu, angka-angka memiliki arti khusus. Angka-angka tersebut tidak selalu berarti angka yang disebutkan. Angka-angka tersebut adalah tanda-tanda dari sesuatu yang bersifat spiritual.</p>",
@@ -945,7 +973,7 @@
 {
 "content_id": "203249",
 "reference_id": 108114,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antiokhia di Pisidia",
 "media_type": "Text",
 "index_reference": "antiokhia di pisidia",
@@ -955,13 +983,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Antiokhia"
+}
+]
 }
 },
 {
 "content_id": "203244",
 "reference_id": 108109,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antiokhia di Siria",
 "media_type": "Text",
 "index_reference": "antiokhia di siria",
@@ -971,13 +1007,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Antiokhia"
+}
+]
 }
 },
 {
 "content_id": "203370",
 "reference_id": 108235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anugerah",
 "media_type": "Text",
 "index_reference": "anugerah",
@@ -993,7 +1037,7 @@
 {
 "content_id": "203271",
 "reference_id": 108136,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apolos",
 "media_type": "Text",
 "index_reference": "apolos",
@@ -1007,9 +1051,9 @@
 {
 "id": "person:Apollos",
 "type": "person",
-"preferred_label": "Apolos",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Apolos"
 }
 ]
 }
@@ -1017,7 +1061,7 @@
 {
 "content_id": "203569",
 "reference_id": 108434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aram",
 "media_type": "Text",
 "index_reference": "aram",
@@ -1029,39 +1073,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Aram",
-"type": "person",
-"preferred_label": "Aram",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Aram.2",
 "type": "person",
-"preferred_label": "Aram",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Aram"
 },
 {
 "id": "person:Aram.3",
 "type": "person",
-"preferred_label": "Aram",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Aram"
 },
 {
-"id": "person:Aramitess",
+"id": "person:Aram",
 "type": "person",
-"preferred_label": "Aram",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Aram"
 },
 {
 "id": "place:Paddan-aram",
 "type": "place",
-"preferred_label": "Aram",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Aram"
 }
 ]
 }
@@ -1069,7 +1106,7 @@
 {
 "content_id": "203651",
 "reference_id": 108516,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Artahsasta",
 "media_type": "Text",
 "index_reference": "artahsasta",
@@ -1081,18 +1118,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Artaxerxes",
-"type": "person",
-"preferred_label": "Artahsasta",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Artaxerxes.2",
 "type": "person",
-"preferred_label": "Artahsasta",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Artahsasta"
+},
+{
+"id": "person:Artaxerxes",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Artahsasta"
 }
 ]
 }
@@ -1100,7 +1137,7 @@
 {
 "content_id": "203272",
 "reference_id": 108137,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Artemis",
 "media_type": "Text",
 "index_reference": "artemis",
@@ -1114,16 +1151,9 @@
 {
 "id": "deity:Artemis",
 "type": "deity",
-"preferred_label": "Artemis",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Artemas",
-"type": "person",
-"preferred_label": "Artemas",
-"confidence": 0.8115,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Artemis"
 }
 ]
 }
@@ -1131,7 +1161,7 @@
 {
 "content_id": "203617",
 "reference_id": 108482,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asa",
 "media_type": "Text",
 "index_reference": "asa",
@@ -1141,13 +1171,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Asa.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asa"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asa"
+}
+]
 }
 },
 {
 "content_id": "203641",
 "reference_id": 108506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asaf",
 "media_type": "Text",
 "index_reference": "asaf",
@@ -1159,32 +1204,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Asaph",
-"type": "person",
-"preferred_label": "Asaf",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Asaph.2",
 "type": "person",
-"preferred_label": "Asaf",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Asaf"
 },
 {
 "id": "person:Asaph.3",
 "type": "person",
-"preferred_label": "Asaf",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Asaf"
 },
 {
 "id": "person:Asaph.4",
 "type": "person",
-"preferred_label": "Asaf",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Asaf"
+},
+{
+"id": "person:Ebiasaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ebyasaf"
+},
+{
+"id": "person:Asaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asaf"
 }
 ]
 }
@@ -1192,7 +1244,7 @@
 {
 "content_id": "203248",
 "reference_id": 108113,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asia Kecil",
 "media_type": "Text",
 "index_reference": "asia kecil",
@@ -1206,9 +1258,9 @@
 {
 "id": "place:AsiaMinor",
 "type": "place",
-"preferred_label": "Asia Minor",
-"confidence": 0.8744,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asia Minor"
 }
 ]
 }
@@ -1216,7 +1268,7 @@
 {
 "content_id": "203564",
 "reference_id": 108429,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asytoret",
 "media_type": "Text",
 "index_reference": "asytoret",
@@ -1230,23 +1282,9 @@
 {
 "id": "deity:Ashtoreth",
 "type": "deity",
-"preferred_label": "Asytoret",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Ashtaroth",
-"type": "place",
-"preferred_label": "Asytoret",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Beth-ashtoreth",
-"type": "place",
-"preferred_label": "Asytoret",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Asytoret"
 }
 ]
 }
@@ -1254,7 +1292,7 @@
 {
 "content_id": "203628",
 "reference_id": 108493,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asyur",
 "media_type": "Text",
 "index_reference": "asyur",
@@ -1266,25 +1304,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Asshur",
-"type": "person",
-"preferred_label": "Asyur",
+"id": "place:Assyria",
+"type": "place",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "group:Asher",
-"type": "group",
-"preferred_label": "Asyer",
-"confidence": 0.9031,
-"match_method": "embedding"
-},
-{
-"id": "person:Asher",
-"type": "person",
-"preferred_label": "Asyer",
-"confidence": 0.9031,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Assyria"
 }
 ]
 }
@@ -1292,7 +1316,7 @@
 {
 "content_id": "203625",
 "reference_id": 108490,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Atalya",
 "media_type": "Text",
 "index_reference": "atalya",
@@ -1304,32 +1328,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Athaliah",
-"type": "person",
-"preferred_label": "Atalya",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Athaliah.2",
 "type": "person",
-"preferred_label": "Atalya",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Atalya"
 },
 {
 "id": "person:Athaliah.3",
 "type": "person",
-"preferred_label": "Atalya",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Atalya"
 },
 {
-"id": "place:Attalia",
-"type": "place",
-"preferred_label": "Atalia",
-"confidence": 0.9322,
-"match_method": "embedding"
+"id": "person:Athaliah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Atalya"
 }
 ]
 }
@@ -1337,7 +1354,7 @@
 {
 "content_id": "203265",
 "reference_id": 108130,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Athena",
 "media_type": "Text",
 "index_reference": "athena",
@@ -1347,13 +1364,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Athens",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Atena"
+}
+]
 }
 },
 {
 "content_id": "203456",
 "reference_id": 108321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Awan",
 "media_type": "Text",
 "index_reference": "awan",
@@ -1369,7 +1394,7 @@
 {
 "content_id": "203659",
 "reference_id": 108524,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ayub",
 "media_type": "Text",
 "index_reference": "ayub",
@@ -1383,9 +1408,9 @@
 {
 "id": "person:Job",
 "type": "person",
-"preferred_label": "Ayub",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ayub"
 }
 ]
 }

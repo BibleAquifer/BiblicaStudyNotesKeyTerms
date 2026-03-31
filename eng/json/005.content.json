@@ -2,7 +2,7 @@
 {
 "content_id": "132392",
 "reference_id": 108446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dagon",
 "media_type": "Text",
 "index_reference": "dagon",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Dagon",
 "type": "deity",
-"preferred_label": "Dagon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Dagon"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "132486",
 "reference_id": 108540,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Damascus",
 "media_type": "Text",
 "index_reference": "damascus",
@@ -40,9 +40,9 @@
 {
 "id": "place:Damascus",
 "type": "place",
-"preferred_label": "Damascus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Damascus"
 }
 ]
 }
@@ -50,7 +50,7 @@
 {
 "content_id": "132390",
 "reference_id": 108444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dan",
 "media_type": "Text",
 "index_reference": "dan",
@@ -64,16 +64,16 @@
 {
 "id": "person:Dan",
 "type": "person",
-"preferred_label": "Dan",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Dan"
 },
 {
 "id": "place:Dan",
 "type": "place",
-"preferred_label": "Dan",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Dan"
 }
 ]
 }
@@ -81,7 +81,7 @@
 {
 "content_id": "132506",
 "reference_id": 108560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Daniel",
 "media_type": "Text",
 "index_reference": "daniel",
@@ -95,23 +95,23 @@
 {
 "id": "person:Daniel.2",
 "type": "person",
-"preferred_label": "Daniel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Daniel"
 },
 {
 "id": "person:Daniel.3",
 "type": "person",
-"preferred_label": "Daniel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Daniel"
 },
 {
 "id": "person:Chileab",
 "type": "person",
-"preferred_label": "Chileab",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Chileab"
 }
 ]
 }
@@ -119,7 +119,7 @@
 {
 "content_id": "132458",
 "reference_id": 108512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Darius",
 "media_type": "Text",
 "index_reference": "darius",
@@ -133,23 +133,23 @@
 {
 "id": "person:Darius.2",
 "type": "person",
-"preferred_label": "Darius",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Darius"
 },
 {
 "id": "person:Darius.3",
 "type": "person",
-"preferred_label": "Darius",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Darius"
 },
 {
 "id": "person:Darius",
 "type": "person",
-"preferred_label": "Darius",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Darius"
 }
 ]
 }
@@ -157,7 +157,7 @@
 {
 "content_id": "131985",
 "reference_id": 108039,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Darkness",
 "media_type": "Text",
 "index_reference": "darkness",
@@ -181,7 +181,7 @@
 {
 "content_id": "132395",
 "reference_id": 108449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "David",
 "media_type": "Text",
 "index_reference": "david",
@@ -203,16 +203,16 @@
 {
 "id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Judah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Judah"
 },
 {
 "id": "person:David",
 "type": "person",
-"preferred_label": "David",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "David"
 }
 ]
 }
@@ -220,7 +220,7 @@
 {
 "content_id": "132312",
 "reference_id": 108366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Day of Atonement",
 "media_type": "Text",
 "index_reference": "day of atonement",
@@ -244,7 +244,7 @@
 {
 "content_id": "132517",
 "reference_id": 108571,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Day of the Lord",
 "media_type": "Text",
 "index_reference": "day of the lord",
@@ -275,7 +275,7 @@
 {
 "content_id": "132046",
 "reference_id": 108100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Deacons",
 "media_type": "Text",
 "index_reference": "deacons",
@@ -291,7 +291,7 @@
 {
 "content_id": "132033",
 "reference_id": 108087,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dear woman",
 "media_type": "Text",
 "index_reference": "dear woman",
@@ -307,7 +307,7 @@
 {
 "content_id": "132136",
 "reference_id": 108190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Death and Hell",
 "media_type": "Text",
 "index_reference": "death and hell",
@@ -321,9 +321,9 @@
 {
 "id": "place:Hell",
 "type": "place",
-"preferred_label": "Hell",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hell"
 }
 ]
 }
@@ -331,7 +331,7 @@
 {
 "content_id": "132379",
 "reference_id": 108433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Deborah",
 "media_type": "Text",
 "index_reference": "deborah",
@@ -345,16 +345,16 @@
 {
 "id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "Deborah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Deborah"
 },
 {
 "id": "person:Deborah",
 "type": "person",
-"preferred_label": "Deborah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Deborah"
 }
 ]
 }
@@ -362,7 +362,7 @@
 {
 "content_id": "132391",
 "reference_id": 108445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Delilah",
 "media_type": "Text",
 "index_reference": "delilah",
@@ -376,9 +376,9 @@
 {
 "id": "person:Delilah",
 "type": "person",
-"preferred_label": "Delilah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Delilah"
 }
 ]
 }
@@ -386,7 +386,7 @@
 {
 "content_id": "132063",
 "reference_id": 108117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Derbe",
 "media_type": "Text",
 "index_reference": "derbe",
@@ -400,9 +400,9 @@
 {
 "id": "place:Derbe",
 "type": "place",
-"preferred_label": "Derbe",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Derbe"
 }
 ]
 }
@@ -410,7 +410,7 @@
 {
 "content_id": "132260",
 "reference_id": 108314,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Destroying angel",
 "media_type": "Text",
 "index_reference": "destroying angel",
@@ -426,7 +426,7 @@
 {
 "content_id": "132162",
 "reference_id": 108216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Devil",
 "media_type": "Text",
 "index_reference": "devil",
@@ -448,9 +448,9 @@
 {
 "id": "deity:Satan",
 "type": "deity",
-"preferred_label": "Satan",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Satan"
 }
 ]
 }
@@ -458,7 +458,7 @@
 {
 "content_id": "132229",
 "reference_id": 108283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dinah",
 "media_type": "Text",
 "index_reference": "dinah",
@@ -472,9 +472,9 @@
 {
 "id": "person:Dinah",
 "type": "person",
-"preferred_label": "Dinah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Dinah"
 }
 ]
 }
@@ -482,7 +482,7 @@
 {
 "content_id": "131986",
 "reference_id": 108040,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Disciple",
 "media_type": "Text",
 "index_reference": "disciple",
@@ -513,7 +513,7 @@
 {
 "content_id": "132460",
 "reference_id": 108514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Divorce",
 "media_type": "Text",
 "index_reference": "divorce",
@@ -537,7 +537,7 @@
 {
 "content_id": "132113",
 "reference_id": 108167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Docetism",
 "media_type": "Text",
 "index_reference": "docetism",
@@ -553,7 +553,7 @@
 {
 "content_id": "132219",
 "reference_id": 108273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dreams",
 "media_type": "Text",
 "index_reference": "dreams",
@@ -569,7 +569,7 @@
 {
 "content_id": "132125",
 "reference_id": 108179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dressed in white",
 "media_type": "Text",
 "index_reference": "dressed in white",
@@ -585,7 +585,7 @@
 {
 "content_id": "132355",
 "reference_id": 108409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Drive out",
 "media_type": "Text",
 "index_reference": "drive out",

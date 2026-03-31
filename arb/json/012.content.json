@@ -2,7 +2,7 @@
 {
 "content_id": "134080",
 "reference_id": 108278,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الراعي",
 "media_type": "Text",
 "index_reference": "الراعي",
@@ -18,7 +18,7 @@
 {
 "content_id": "134028",
 "reference_id": 108226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الرب",
 "media_type": "Text",
 "index_reference": "الرب",
@@ -28,16 +28,31 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَسوع"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
 "content_id": "134131",
 "reference_id": 108329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الرب - الملك",
 "media_type": "Text",
-"index_reference": "الرب - الملك",
+"index_reference": "الرب  الملك",
 "language": "arb",
 "review_level": "None",
 "content": "<p>لقب لحاكم أو قائد أو سيد. يُستخدم كلقب لله في الكتاب المقدس. وهو يعني أن الله له سلطان على كل شيء وكل شخص. في زمن العهد الجديد، استُخدِمت كلمة رب كلقب للإمبراطور الروماني. كان يعني أن للقيصر سلطة في كل مكان تسيطر عليه الحكومة الرومانية. دعا أتباع يسوعُ المسيحُ إياه ربًا. كان هذا يعني أنهم أدركوا أن يسوع هو الله. لقد أدركوا أن ليسوع سُلطة كاملة على كل شيء وكل شخص. تحدى أتباع يسوعَ المسيحُ سُلطةَ قيصر عندما دعوا يسوعَ ربًا.</p>",
@@ -50,7 +65,7 @@
 {
 "content_id": "133948",
 "reference_id": 108146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الرب يسوع المسيح",
 "media_type": "Text",
 "index_reference": "الرب يسوع المسيح",
@@ -60,13 +75,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَسوع"
+}
+]
 }
 },
 {
 "content_id": "133933",
 "reference_id": 108131,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الرُواقيُّون",
 "media_type": "Text",
 "index_reference": "الرُواقيُّون",
@@ -76,13 +99,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Stoic",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Stoics"
+}
+]
 }
 },
 {
 "content_id": "134190",
 "reference_id": 108388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الروح القدس",
 "media_type": "Text",
 "index_reference": "الروح القدس",
@@ -92,16 +123,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرّوحِ"
+}
+]
 }
 },
 {
 "content_id": "133848",
 "reference_id": 108046,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رابيّ (ربّان أو حاخام)",
 "media_type": "Text",
-"index_reference": "رابيّ (ربّان أو حاخام)",
+"index_reference": "رابيّ ربّان أو حاخام",
 "language": "arb",
 "review_level": "None",
 "content": "<p>معلم يهودي ذكر. درس الرابيوّن عادةً العهد القديم والكتابات اليهودية الأخرى في المدارس. وعادةً ما كانوا يتدربون على يد معلمين آخرين. كان على الناس الذين يريدون التعلم منهم وأن يصيروا مثلهم أن يصبحوا تلاميذهم. عادة ما كان الفتيان والرجال فقط هم التلاميذ. كان يسوع مُعلّم على الرغم من أنه لم يتدرب مثل حاخامات عصره. كان يرحب بالرجال والنساء على حد سواء كتلاميذ له.</p>",
@@ -114,7 +153,7 @@
 {
 "content_id": "134223",
 "reference_id": 108421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رَاحَاب",
 "media_type": "Text",
 "index_reference": "رَاحَاب",
@@ -128,9 +167,16 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "رَاحَاب",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "رَاحَاب"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "مِصْرَ"
 }
 ]
 }
@@ -138,7 +184,7 @@
 {
 "content_id": "134014",
 "reference_id": 108212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "راحة",
 "media_type": "Text",
 "index_reference": "راحة",
@@ -154,7 +200,7 @@
 {
 "content_id": "134078",
 "reference_id": 108276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رَاحيل",
 "media_type": "Text",
 "index_reference": "رَاحيل",
@@ -164,13 +210,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَاحِيل"
+}
+]
 }
 },
 {
 "content_id": "134249",
 "reference_id": 108447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رِاعوث",
 "media_type": "Text",
 "index_reference": "رِاعوث",
@@ -184,9 +238,9 @@
 {
 "id": "person:Ruth",
 "type": "person",
-"preferred_label": "رَاعوث",
-"confidence": 0.8692,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَاعوث"
 }
 ]
 }
@@ -194,7 +248,7 @@
 {
 "content_id": "134209",
 "reference_id": 108407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رأوبَيْن",
 "media_type": "Text",
 "index_reference": "رأوبَيْن",
@@ -204,13 +258,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Reuben",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَأوبَيْنَ"
+}
+]
 }
 },
 {
 "content_id": "134098",
 "reference_id": 108296,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رؤية",
 "media_type": "Text",
 "index_reference": "رؤية",
@@ -228,13 +290,21 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Vision"
+}
+]
 }
 },
 {
 "content_id": "134170",
 "reference_id": 108368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رئيس الكهنة",
 "media_type": "Text",
 "index_reference": "رئيس الكهنة",
@@ -250,7 +320,7 @@
 {
 "content_id": "134280",
 "reference_id": 108478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رَحُبْعَام",
 "media_type": "Text",
 "index_reference": "رَحُبْعَام",
@@ -264,9 +334,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "رَحبْعَامَ",
-"confidence": 0.8615,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رَحبْعَامَ"
 }
 ]
 }
@@ -274,7 +344,7 @@
 {
 "content_id": "133913",
 "reference_id": 108111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رحلات بولس",
 "media_type": "Text",
 "index_reference": "رحلات بولس",
@@ -290,7 +360,7 @@
 {
 "content_id": "134144",
 "reference_id": 108342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رحمة",
 "media_type": "Text",
 "index_reference": "رحمة",
@@ -300,13 +370,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Mercy"
+}
+]
 }
 },
 {
 "content_id": "133975",
 "reference_id": 108173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رسائل إلى السبع كنائس",
 "media_type": "Text",
 "index_reference": "رسائل إلى السبع كنائس",
@@ -322,7 +400,7 @@
 {
 "content_id": "133922",
 "reference_id": 108120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رسائل بولس",
 "media_type": "Text",
 "index_reference": "رسائل بولس",
@@ -338,7 +416,7 @@
 {
 "content_id": "134336",
 "reference_id": 108534,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رسائل قضائية",
 "media_type": "Text",
 "index_reference": "رسائل قضائية",
@@ -354,7 +432,7 @@
 {
 "content_id": "133855",
 "reference_id": 108053,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رُسُل",
 "media_type": "Text",
 "index_reference": "رُسُل",
@@ -370,7 +448,7 @@
 {
 "content_id": "134068",
 "reference_id": 108266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "رِفقة",
 "media_type": "Text",
 "index_reference": "رِفقة",
@@ -380,13 +458,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "رِفْقَة"
+}
+]
 }
 },
 {
 "content_id": "134264",
 "reference_id": 108462,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "روحي",
 "media_type": "Text",
 "index_reference": "روحي",
@@ -402,7 +488,7 @@
 {
 "content_id": "133849",
 "reference_id": 108047,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "روما",
 "media_type": "Text",
 "index_reference": "روما",
@@ -412,7 +498,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرّومَانِيّونَ"
+}
+]
 }
 }
 ]

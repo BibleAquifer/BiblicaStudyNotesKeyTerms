@@ -2,7 +2,7 @@
 {
 "content_id": "232308",
 "reference_id": 108339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tablas de piedra",
 "media_type": "Text",
 "index_reference": "tablas de piedra",
@@ -18,7 +18,7 @@
 {
 "content_id": "232261",
 "reference_id": 108292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tamar",
 "media_type": "Text",
 "index_reference": "tamar",
@@ -28,29 +28,73 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Tamar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thamar"
+},
+{
+"id": "person:Tamar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thamar"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thamar"
+},
+{
+"id": "place:Tamar.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thamar"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tadmor"
+}
+]
 }
 },
 {
 "content_id": "232440",
 "reference_id": 108471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tamar - David",
 "media_type": "Text",
-"index_reference": "tamar - david",
+"index_reference": "tamar  david",
 "language": "spa",
 "review_level": "None",
 "content": "<p>La hija de David y Makaah. Ella y Absalón tenían los mismos padres. Ella y Amnón tenían el mismo padre. Amnón violó a Tamar cuando ella era virgen. Luego la echó de su casa. En esos días, esto era lo mismo que divorciarse de ella. En su comunidad, ser violada y luego no casarse trajo desonra a Tamar. Significaba que probablemente no se casaría ni tendría una familia propia. Vivió con Absalón después de lo que sucedió.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thamar"
+}
+]
 }
 },
 {
 "content_id": "232386",
 "reference_id": 108417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Templo",
 "media_type": "Text",
 "index_reference": "templo",
@@ -64,9 +108,9 @@
 {
 "id": "realia:Temple",
 "type": "realia",
-"preferred_label": "Temple",
-"confidence": 0.9468,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
 }
 ]
 }
@@ -74,7 +118,7 @@
 {
 "content_id": "232048",
 "reference_id": 108079,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Teófilo",
 "media_type": "Text",
 "index_reference": "teófilo",
@@ -88,9 +132,9 @@
 {
 "id": "person:Theophilus",
 "type": "person",
-"preferred_label": "Teófilo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Teófilo"
 }
 ]
 }
@@ -98,7 +142,7 @@
 {
 "content_id": "232097",
 "reference_id": 108128,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tesalónica",
 "media_type": "Text",
 "index_reference": "tesalónica",
@@ -108,13 +152,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Thessalonica",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tesalonicenses"
+}
+]
 }
 },
 {
 "content_id": "232280",
 "reference_id": 108311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Testarudo",
 "media_type": "Text",
 "index_reference": "testarudo",
@@ -124,13 +176,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Stubborn",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "terco"
+}
+]
 }
 },
 {
 "content_id": "232146",
 "reference_id": 108177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tiatira",
 "media_type": "Text",
 "index_reference": "tiatira",
@@ -144,9 +204,9 @@
 {
 "id": "place:Thyatira",
 "type": "place",
-"preferred_label": "Tiatira",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tiatira"
 }
 ]
 }
@@ -154,7 +214,7 @@
 {
 "content_id": "232316",
 "reference_id": 108347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tienda de reunión",
 "media_type": "Text",
 "index_reference": "tienda de reunión",
@@ -164,13 +224,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
 "content_id": "232093",
 "reference_id": 108124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Timoteo",
 "media_type": "Text",
 "index_reference": "timoteo",
@@ -184,9 +252,9 @@
 {
 "id": "person:Timothy",
 "type": "person",
-"preferred_label": "Timoteo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Timoteo"
 }
 ]
 }
@@ -194,7 +262,7 @@
 {
 "content_id": "232444",
 "reference_id": 108475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tiro y Sidón",
 "media_type": "Text",
 "index_reference": "tiro y sidón",
@@ -204,13 +272,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Sidon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sidón"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sidón"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiro"
+}
+]
 }
 },
 {
 "content_id": "232121",
 "reference_id": 108152,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tito",
 "media_type": "Text",
 "index_reference": "tito",
@@ -224,9 +314,9 @@
 {
 "id": "person:Titus",
 "type": "person",
-"preferred_label": "Tito",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tito"
 }
 ]
 }
@@ -234,7 +324,7 @@
 {
 "content_id": "232064",
 "reference_id": 108095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tomás",
 "media_type": "Text",
 "index_reference": "tomás",
@@ -248,9 +338,9 @@
 {
 "id": "person:Thomas",
 "type": "person",
-"preferred_label": "Tomás",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tomás"
 }
 ]
 }
@@ -258,7 +348,7 @@
 {
 "content_id": "232177",
 "reference_id": 108208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Trabajo",
 "media_type": "Text",
 "index_reference": "trabajo",
@@ -276,13 +366,21 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "servicio"
+}
+]
 }
 },
 {
 "content_id": "232229",
 "reference_id": 108260,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tres hombres",
 "media_type": "Text",
 "index_reference": "tres hombres",
@@ -298,7 +396,7 @@
 {
 "content_id": "232007",
 "reference_id": 108038,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Trinidad",
 "media_type": "Text",
 "index_reference": "trinidad",
@@ -350,7 +448,7 @@
 {
 "content_id": "232355",
 "reference_id": 108386,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Trompetas",
 "media_type": "Text",
 "index_reference": "trompetas",
@@ -360,7 +458,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+}
+]
 }
 }
 ]

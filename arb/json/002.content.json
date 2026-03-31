@@ -2,7 +2,7 @@
 {
 "content_id": "134194",
 "reference_id": 108392,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "40 سنة",
 "media_type": "Text",
 "index_reference": "40 سنة",
@@ -18,7 +18,7 @@
 {
 "content_id": "133869",
 "reference_id": 108067,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "السنهدريم",
 "media_type": "Text",
 "index_reference": "السنهدريم",
@@ -28,13 +28,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sanhedrin",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Sanhedrin"
+}
+]
 }
 },
 {
 "content_id": "134049",
 "reference_id": 108247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سارة",
 "media_type": "Text",
 "index_reference": "سارة",
@@ -44,13 +52,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سَارَة"
+}
+]
 }
 },
 {
 "content_id": "133980",
 "reference_id": 108178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ساردِس",
 "media_type": "Text",
 "index_reference": "ساردِس",
@@ -60,13 +76,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Sardis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سَارْدِسَ"
+}
+]
 }
 },
 {
 "content_id": "134043",
 "reference_id": 108241,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سام",
 "media_type": "Text",
 "index_reference": "سام",
@@ -76,13 +100,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سَامٌ"
+}
+]
 }
 },
 {
 "content_id": "134291",
 "reference_id": 108489,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سامرة",
 "media_type": "Text",
 "index_reference": "سامرة",
@@ -92,13 +124,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Samaria.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samaria"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلسَّامِرَةِ"
+}
+]
 }
 },
 {
 "content_id": "134015",
 "reference_id": 108213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سبت",
 "media_type": "Text",
 "index_reference": "سبت",
@@ -114,7 +161,7 @@
 {
 "content_id": "134016",
 "reference_id": 108214,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سبعة",
 "media_type": "Text",
 "index_reference": "سبعة",
@@ -130,7 +177,7 @@
 {
 "content_id": "134354",
 "reference_id": 108552,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سبعون سنة",
 "media_type": "Text",
 "index_reference": "سبعون سنة",
@@ -146,7 +193,7 @@
 {
 "content_id": "134123",
 "reference_id": 108321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سحابة",
 "media_type": "Text",
 "index_reference": "سحابة",
@@ -162,7 +209,7 @@
 {
 "content_id": "133968",
 "reference_id": 108166,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سحابة من الشهود",
 "media_type": "Text",
 "index_reference": "سحابة من الشهود",
@@ -178,7 +225,7 @@
 {
 "content_id": "134112",
 "reference_id": 108310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سِحر",
 "media_type": "Text",
 "index_reference": "سِحر",
@@ -188,13 +235,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Magic"
+}
+]
 }
 },
 {
 "content_id": "134051",
 "reference_id": 108249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سَدُومَ وعَمُورَة",
 "media_type": "Text",
 "index_reference": "سَدُومَ وعَمُورَة",
@@ -204,13 +259,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَمورَةَ"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سَدومَ"
+}
+]
 }
 },
 {
 "content_id": "134067",
 "reference_id": 108265,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سَراري",
 "media_type": "Text",
 "index_reference": "سَراري",
@@ -226,7 +296,7 @@
 {
 "content_id": "133947",
 "reference_id": 108145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سرّانية المسيح",
 "media_type": "Text",
 "index_reference": "سرّانية المسيح",
@@ -242,7 +312,7 @@
 {
 "content_id": "133971",
 "reference_id": 108169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سفر أخنوخ",
 "media_type": "Text",
 "index_reference": "سفر أخنوخ",
@@ -258,7 +328,7 @@
 {
 "content_id": "134022",
 "reference_id": 108220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سلاسل النسب",
 "media_type": "Text",
 "index_reference": "سلاسل النسب",
@@ -274,7 +344,7 @@
 {
 "content_id": "134013",
 "reference_id": 108211,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سلام",
 "media_type": "Text",
 "index_reference": "سلام",
@@ -284,13 +354,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
 "content_id": "133886",
 "reference_id": 108084,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سِلُوَام",
 "media_type": "Text",
 "index_reference": "سِلُوَام",
@@ -302,32 +380,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Salim",
+"id": "place:Siloam",
 "type": "place",
-"preferred_label": "سَالِيمَ",
-"confidence": 0.8421,
-"match_method": "embedding"
-},
-{
-"id": "person:Salmon",
-"type": "person",
-"preferred_label": "سَلْمونَ",
-"confidence": 0.8337,
-"match_method": "embedding"
-},
-{
-"id": "person:Salome",
-"type": "person",
-"preferred_label": "سَالومَة",
-"confidence": 0.828,
-"match_method": "embedding"
-},
-{
-"id": "person:Salome.2",
-"type": "person",
-"preferred_label": "سَالومَة",
-"confidence": 0.828,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Siloam"
 }
 ]
 }
@@ -335,7 +392,7 @@
 {
 "content_id": "133923",
 "reference_id": 108121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سلوانس",
 "media_type": "Text",
 "index_reference": "سلوانس",
@@ -345,13 +402,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Silas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سِيلَا"
+}
+]
 }
 },
 {
 "content_id": "134275",
 "reference_id": 108473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سُلَيْمَان",
 "media_type": "Text",
 "index_reference": "سُلَيْمَان",
@@ -365,16 +430,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "سلَيْمَانَ",
-"confidence": 0.8296,
-"match_method": "embedding"
-},
-{
-"id": "place:Zalmonah",
-"type": "place",
-"preferred_label": "صَلْمونَةَ",
-"confidence": 0.8046,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سلَيْمَانَ"
 }
 ]
 }
@@ -382,7 +440,7 @@
 {
 "content_id": "134003",
 "reference_id": 108201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سماء",
 "media_type": "Text",
 "index_reference": "سماء",
@@ -413,7 +471,7 @@
 {
 "content_id": "133887",
 "reference_id": 108085,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سِمْعَانُ ٱلْقَيْرَوَانِي",
 "media_type": "Text",
 "index_reference": "سِمْعَانُ ٱلْقَيْرَوَانِي",
@@ -423,13 +481,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Simon.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سِمْعَان"
+}
+]
 }
 },
 {
 "content_id": "133976",
 "reference_id": 108174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سِميْرنَا",
 "media_type": "Text",
 "index_reference": "سِميْرنَا",
@@ -439,13 +505,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Smyrna",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سِمِيرْنَا"
+}
+]
 }
 },
 {
 "content_id": "134197",
 "reference_id": 108395,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سيحون وعوج",
 "media_type": "Text",
 "index_reference": "سيحون وعوج",
@@ -455,13 +529,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Og",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عوج"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سِيحونَ"
+}
+]
 }
 },
 {
 "content_id": "134350",
 "reference_id": 108548,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "سيف",
 "media_type": "Text",
 "index_reference": "سيف",
@@ -471,7 +560,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
+]
 }
 }
 ]

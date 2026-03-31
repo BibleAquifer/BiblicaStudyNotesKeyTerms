@@ -2,7 +2,7 @@
 {
 "content_id": "145624",
 "reference_id": 108115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Icônio",
 "media_type": "Text",
 "index_reference": "icônio",
@@ -16,9 +16,9 @@
 {
 "id": "place:Iconium",
 "type": "place",
-"preferred_label": "Icônio",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Icônio"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "145605",
 "reference_id": 108096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Igreja",
 "media_type": "Text",
 "index_reference": "igreja",
@@ -40,9 +40,9 @@
 {
 "id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "igreja",
-"confidence": 0.9416,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "igreja"
 }
 ]
 }
@@ -50,7 +50,7 @@
 {
 "content_id": "145615",
 "reference_id": 108106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Imposição de mãos",
 "media_type": "Text",
 "index_reference": "imposição de mãos",
@@ -66,7 +66,7 @@
 {
 "content_id": "146086",
 "reference_id": 108577,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Impostos",
 "media_type": "Text",
 "index_reference": "impostos",
@@ -82,7 +82,7 @@
 {
 "content_id": "145880",
 "reference_id": 108371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Incenso",
 "media_type": "Text",
 "index_reference": "incenso",
@@ -96,9 +96,9 @@
 {
 "id": "realia:Incense",
 "type": "realia",
-"preferred_label": "Incense",
-"confidence": 0.8245,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
 }
 ]
 }
@@ -106,7 +106,7 @@
 {
 "content_id": "145583",
 "reference_id": 108074,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Inferno",
 "media_type": "Text",
 "index_reference": "inferno",
@@ -116,13 +116,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "145845",
 "reference_id": 108336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Intermediário",
 "media_type": "Text",
 "index_reference": "intermediário",
@@ -138,7 +146,7 @@
 {
 "content_id": "146009",
 "reference_id": 108500,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ira de Deus",
 "media_type": "Text",
 "index_reference": "ira de deus",
@@ -154,7 +162,7 @@
 {
 "content_id": "145590",
 "reference_id": 108081,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isabel",
 "media_type": "Text",
 "index_reference": "isabel",
@@ -164,13 +172,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Elizabeth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elisabete"
+}
+]
 }
 },
 {
 "content_id": "146006",
 "reference_id": 108497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaías",
 "media_type": "Text",
 "index_reference": "isaías",
@@ -184,44 +200,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"preferred_label": "Isaías",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Isshiah",
-"type": "person",
-"preferred_label": "Issias",
-"confidence": 0.8105,
-"match_method": "embedding"
-},
-{
-"id": "person:Isshiah.2",
-"type": "person",
-"preferred_label": "Issias",
-"confidence": 0.8105,
-"match_method": "embedding"
-},
-{
-"id": "person:Isshiah.3",
-"type": "person",
-"preferred_label": "Issias",
-"confidence": 0.8105,
-"match_method": "embedding"
-},
-{
-"id": "person:Isshiah.4",
-"type": "person",
-"preferred_label": "Issias",
-"confidence": 0.8105,
-"match_method": "embedding"
-},
-{
-"id": "person:Isshijah",
-"type": "person",
-"preferred_label": "Issias",
-"confidence": 0.8105,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Isaías"
 }
 ]
 }
@@ -229,7 +210,7 @@
 {
 "content_id": "145770",
 "reference_id": 108261,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaque",
 "media_type": "Text",
 "index_reference": "isaque",
@@ -243,9 +224,9 @@
 {
 "id": "person:Isaac",
 "type": "person",
-"preferred_label": "Isaque",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Isaque"
 }
 ]
 }
@@ -253,7 +234,7 @@
 {
 "content_id": "145771",
 "reference_id": 108262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ismael",
 "media_type": "Text",
 "index_reference": "ismael",
@@ -265,46 +246,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ishmael",
-"type": "person",
-"preferred_label": "Ismael",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ishmael.2",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ismael"
 },
 {
 "id": "person:Ishmael.3",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ismael"
 },
 {
 "id": "person:Ishmael.4",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ismael"
 },
 {
 "id": "person:Ishmael.5",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ismael"
 },
 {
 "id": "person:Ishmael.6",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
 }
 ]
 }
@@ -312,7 +293,7 @@
 {
 "content_id": "145789",
 "reference_id": 108280,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Israel",
 "media_type": "Text",
 "index_reference": "israel",
@@ -334,16 +315,16 @@
 {
 "id": "person:Israel",
 "type": "person",
-"preferred_label": "Israel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Israel"
 },
 {
 "id": "place:Israel",
 "type": "place",
-"preferred_label": "Israel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Israel"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "232237",
 "reference_id": 108268,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jacob",
 "media_type": "Text",
 "index_reference": "jacob",
@@ -24,9 +24,16 @@
 {
 "id": "person:Jacob.2",
 "type": "person",
-"preferred_label": "Jacob",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jacob"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
 }
 ]
 }
@@ -34,7 +41,7 @@
 {
 "content_id": "232248",
 "reference_id": 108279,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jacob luchó",
 "media_type": "Text",
 "index_reference": "jacob luchó",
@@ -50,7 +57,7 @@
 {
 "content_id": "232405",
 "reference_id": 108436,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jael",
 "media_type": "Text",
 "index_reference": "jael",
@@ -64,9 +71,9 @@
 {
 "id": "person:Jael",
 "type": "person",
-"preferred_label": "Jael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jael"
 }
 ]
 }
@@ -74,7 +81,7 @@
 {
 "content_id": "232209",
 "reference_id": 108240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jafet",
 "media_type": "Text",
 "index_reference": "jafet",
@@ -84,13 +91,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Japheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Japhet"
+}
+]
 }
 },
 {
 "content_id": "232176",
 "reference_id": 108207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jardín del Edén",
 "media_type": "Text",
 "index_reference": "jardín del edén",
@@ -104,9 +119,9 @@
 {
 "id": "place:Eden.2",
 "type": "place",
-"preferred_label": "Garden of Eden",
-"confidence": 0.8359,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Garden of Eden"
 }
 ]
 }
@@ -114,7 +129,7 @@
 {
 "content_id": "232473",
 "reference_id": 108504,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jebuseos",
 "media_type": "Text",
 "index_reference": "jebuseos",
@@ -124,13 +139,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jebusites"
+}
+]
 }
 },
 {
 "content_id": "232407",
 "reference_id": 108438,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jefté",
 "media_type": "Text",
 "index_reference": "jefté",
@@ -140,13 +163,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jephthah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jephté"
+}
+]
 }
 },
 {
 "content_id": "232476",
 "reference_id": 108507,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jeremías",
 "media_type": "Text",
 "index_reference": "jeremías",
@@ -158,60 +189,60 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jeremiah",
-"type": "person",
-"preferred_label": "Jeremías",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Jeremiah.2",
 "type": "person",
-"preferred_label": "Jeremías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jeremías"
 },
 {
 "id": "person:Jeremiah.3",
 "type": "person",
-"preferred_label": "Jeremías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jeremías"
 },
 {
 "id": "person:Jeremiah.4",
 "type": "person",
-"preferred_label": "Jeremías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jeremías"
 },
 {
 "id": "person:Jeremiah.5",
 "type": "person",
-"preferred_label": "Jeremías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jeremías"
 },
 {
 "id": "person:Jeremiah.6",
 "type": "person",
-"preferred_label": "Jeremías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jeremías"
 },
 {
 "id": "person:Jeremiah.7",
 "type": "person",
-"preferred_label": "Jeremías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jeremías"
 },
 {
 "id": "person:Jeremiah.8",
 "type": "person",
-"preferred_label": "Jeremías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jeremías"
+},
+{
+"id": "person:Jeremiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeremías"
 }
 ]
 }
@@ -219,7 +250,7 @@
 {
 "content_id": "232393",
 "reference_id": 108424,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jericó",
 "media_type": "Text",
 "index_reference": "jericó",
@@ -231,11 +262,18 @@
 "resource": [],
 "acai": [
 {
+"id": "place:Jericho.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jericho"
+},
+{
 "id": "place:Jericho",
 "type": "place",
-"preferred_label": "Jericó",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jericó"
 }
 ]
 }
@@ -243,7 +281,7 @@
 {
 "content_id": "232445",
 "reference_id": 108476,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jeroboam",
 "media_type": "Text",
 "index_reference": "jeroboam",
@@ -255,18 +293,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jeroboam",
-"type": "person",
-"preferred_label": "Jeroboam",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Jeroboam.2",
 "type": "person",
-"preferred_label": "Jeroboam",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jeroboam"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeroboam"
 }
 ]
 }
@@ -274,7 +312,7 @@
 {
 "content_id": "232433",
 "reference_id": 108464,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jerusalén",
 "media_type": "Text",
 "index_reference": "jerusalén",
@@ -288,9 +326,9 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"preferred_label": "Jerusalem",
-"confidence": 0.8828,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
 }
 ]
 }
@@ -298,7 +336,7 @@
 {
 "content_id": "232188",
 "reference_id": 108219,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jesús",
 "media_type": "Text",
 "index_reference": "jesús",
@@ -312,65 +350,23 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "Jesús",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jesús"
 },
 {
-"id": "person:Jeshua",
+"id": "person:Justus.3",
 "type": "person",
-"preferred_label": "Jesuá",
-"confidence": 0.8605,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Justo"
 },
 {
-"id": "person:Jeshua.2",
+"id": "person:Barabbas",
 "type": "person",
-"preferred_label": "Jesuá",
-"confidence": 0.8605,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshua.3",
-"type": "person",
-"preferred_label": "Jesuá",
-"confidence": 0.8605,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshua.4",
-"type": "person",
-"preferred_label": "Jesuá",
-"confidence": 0.8605,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshua.5",
-"type": "person",
-"preferred_label": "Jesuá",
-"confidence": 0.8605,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshua.6",
-"type": "person",
-"preferred_label": "Jesuá",
-"confidence": 0.8605,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeshua.7",
-"type": "person",
-"preferred_label": "Jesuá",
-"confidence": 0.8605,
-"match_method": "embedding"
-},
-{
-"id": "place:Jeshua",
-"type": "place",
-"preferred_label": "Jesuá",
-"confidence": 0.8605,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barrabás"
 }
 ]
 }
@@ -378,7 +374,7 @@
 {
 "content_id": "232295",
 "reference_id": 108326,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jetro",
 "media_type": "Text",
 "index_reference": "jetro",
@@ -390,11 +386,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jetur",
+"id": "person:Jethro",
 "type": "person",
-"preferred_label": "Jetur",
-"confidence": 0.8671,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jethro"
 }
 ]
 }
@@ -402,7 +398,7 @@
 {
 "content_id": "232454",
 "reference_id": 108485,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jezabel",
 "media_type": "Text",
 "index_reference": "jezabel",
@@ -416,72 +412,9 @@
 {
 "id": "person:Jezebel",
 "type": "person",
-"preferred_label": "Jezabel",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jahzeel",
-"type": "person",
-"preferred_label": "Jahzeel",
-"confidence": 0.855,
-"match_method": "embedding"
-},
-{
-"id": "group:Jezreel",
-"type": "group",
-"preferred_label": "Jezreel",
-"confidence": 0.817,
-"match_method": "embedding"
-},
-{
-"id": "person:Jezreel",
-"type": "person",
-"preferred_label": "Jezreel",
-"confidence": 0.817,
-"match_method": "embedding"
-},
-{
-"id": "person:Jezreel.2",
-"type": "person",
-"preferred_label": "Jezreel",
-"confidence": 0.817,
-"match_method": "embedding"
-},
-{
-"id": "place:Jezreel",
-"type": "place",
-"preferred_label": "Jezreel",
-"confidence": 0.817,
-"match_method": "embedding"
-},
-{
-"id": "place:Jezreel.2",
-"type": "place",
-"preferred_label": "Jezreel",
-"confidence": 0.817,
-"match_method": "embedding"
-},
-{
-"id": "place:Jezreel.3",
-"type": "place",
-"preferred_label": "Jezreel",
-"confidence": 0.817,
-"match_method": "embedding"
-},
-{
-"id": "place:Jabneel",
-"type": "place",
-"preferred_label": "Jabneel",
-"confidence": 0.8112,
-"match_method": "embedding"
-},
-{
-"id": "place:Jabneel.2",
-"type": "place",
-"preferred_label": "Jabneel",
-"confidence": 0.8112,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jezabel"
 }
 ]
 }
@@ -489,7 +422,7 @@
 {
 "content_id": "232432",
 "reference_id": 108463,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Joab",
 "media_type": "Text",
 "index_reference": "joab",
@@ -501,39 +434,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Joab",
-"type": "person",
-"preferred_label": "Joab",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Joab.2",
 "type": "person",
-"preferred_label": "Joab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Joab"
 },
 {
 "id": "person:Joab.3",
 "type": "person",
-"preferred_label": "Joab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Joab"
 },
 {
 "id": "person:Joab.4",
 "type": "person",
-"preferred_label": "Joab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Joab"
 },
 {
-"id": "place:Atroth-beth-joab",
-"type": "place",
-"preferred_label": "Joab",
+"id": "person:Joab",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Joab"
 }
 ]
 }
@@ -541,7 +467,7 @@
 {
 "content_id": "232460",
 "reference_id": 108491,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Joás",
 "media_type": "Text",
 "index_reference": "joás",
@@ -553,60 +479,60 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Joash",
-"type": "person",
-"preferred_label": "Joas",
-"confidence": 0.8465,
-"match_method": "embedding"
-},
-{
 "id": "person:Joash.2",
 "type": "person",
-"preferred_label": "Joas",
-"confidence": 0.8465,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joas"
 },
 {
 "id": "person:Joash.3",
 "type": "person",
-"preferred_label": "Joas",
-"confidence": 0.8465,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joas"
 },
 {
 "id": "person:Joash.4",
 "type": "person",
-"preferred_label": "Joas",
-"confidence": 0.8465,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joas"
 },
 {
 "id": "person:Joash.5",
 "type": "person",
-"preferred_label": "Joas",
-"confidence": 0.8465,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joas"
 },
 {
 "id": "person:Joash.6",
 "type": "person",
-"preferred_label": "Joas",
-"confidence": 0.8465,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joas"
 },
 {
 "id": "person:Joash.7",
 "type": "person",
-"preferred_label": "Joas",
-"confidence": 0.8465,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joas"
 },
 {
 "id": "person:Joash.8",
 "type": "person",
-"preferred_label": "Joas",
-"confidence": 0.8465,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joas"
+},
+{
+"id": "person:Joash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joas"
 }
 ]
 }
@@ -614,7 +540,7 @@
 {
 "content_id": "232493",
 "reference_id": 108524,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Job",
 "media_type": "Text",
 "index_reference": "job",
@@ -624,13 +550,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Job",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Job"
+}
+]
 }
 },
 {
 "content_id": "232461",
 "reference_id": 108492,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Joiada",
 "media_type": "Text",
 "index_reference": "joiada",
@@ -642,53 +576,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jehoiada",
-"type": "person",
-"preferred_label": "Joiada",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Jehoiada.2",
 "type": "person",
-"preferred_label": "Joiada",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Joiada"
 },
 {
 "id": "person:Jehoiada.3",
 "type": "person",
-"preferred_label": "Joiada",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Joiada"
 },
 {
 "id": "person:Jehoiada.4",
 "type": "person",
-"preferred_label": "Joiada",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Joiada"
 },
 {
-"id": "person:Joiada",
+"id": "person:Jehoiada",
 "type": "person",
-"preferred_label": "Joiada",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Joiada.2",
-"type": "person",
-"preferred_label": "Joiada",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehoaddah",
-"type": "person",
-"preferred_label": "Joadda",
-"confidence": 0.8297,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Joiada"
 }
 ]
 }
@@ -696,7 +609,7 @@
 {
 "content_id": "232542",
 "reference_id": 108573,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jonás",
 "media_type": "Text",
 "index_reference": "jonás",
@@ -710,9 +623,16 @@
 {
 "id": "person:Jonah.2",
 "type": "person",
-"preferred_label": "Jonás",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Jonás"
+},
+{
+"id": "person:John.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Juan"
 }
 ]
 }
@@ -720,7 +640,7 @@
 {
 "content_id": "232426",
 "reference_id": 108457,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jonatán",
 "media_type": "Text",
 "index_reference": "jonatán",
@@ -732,102 +652,95 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jehonathan",
-"type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehonathan.2",
-"type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
-},
-{
 "id": "person:Jonathan.10",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.11",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.12",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.13",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.2",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.3",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.4",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.5",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.6",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.7",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.8",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
 },
 {
 "id": "person:Jonathan.9",
 "type": "person",
-"preferred_label": "Jonathán",
-"confidence": 0.8354,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathán"
+},
+{
+"id": "person:Jonadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonadab"
 }
 ]
 }
@@ -835,7 +748,7 @@
 {
 "content_id": "232452",
 "reference_id": 108483,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josafat",
 "media_type": "Text",
 "index_reference": "josafat",
@@ -845,13 +758,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jehoshaphat.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josaphat"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josaphat"
+},
+{
+"id": "person:Jehoshaphat.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josaphat"
+},
+{
+"id": "person:Jehoshaphat",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josaphat"
+}
+]
 }
 },
 {
 "content_id": "232257",
 "reference_id": 108288,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "José",
 "media_type": "Text",
 "index_reference": "josé",
@@ -865,86 +807,100 @@
 {
 "id": "person:Joseph.10",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
 },
 {
 "id": "person:Joseph.11",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
 },
 {
 "id": "person:Joseph.12",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
 },
 {
 "id": "person:Joseph.13",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
 },
 {
 "id": "person:Joseph.14",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
+},
+{
+"id": "person:Josech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josech"
 },
 {
 "id": "person:Joseph.3",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
 },
 {
 "id": "person:Joseph.4",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
 },
 {
 "id": "person:Joseph.5",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
 },
 {
 "id": "person:Joseph.6",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
 },
 {
 "id": "person:Joseph.7",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
 },
 {
 "id": "person:Joseph.8",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
 },
 {
 "id": "person:Joseph.9",
 "type": "person",
-"preferred_label": "José",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "José"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bernabé"
 }
 ]
 }
@@ -952,7 +908,7 @@
 {
 "content_id": "232001",
 "reference_id": 108032,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "José de Nazaret",
 "media_type": "Text",
 "index_reference": "josé de nazaret",
@@ -962,13 +918,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "José"
+}
+]
 }
 },
 {
 "content_id": "232358",
 "reference_id": 108389,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josué",
 "media_type": "Text",
 "index_reference": "josué",
@@ -980,39 +944,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Joshua",
-"type": "person",
-"preferred_label": "Josué",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Joshua.2",
 "type": "person",
-"preferred_label": "Josué",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Josué"
 },
 {
 "id": "person:Joshua.3",
 "type": "person",
-"preferred_label": "Josué",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Josué"
 },
 {
 "id": "person:Joshua.4",
 "type": "person",
-"preferred_label": "Josué",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Josué"
 },
 {
 "id": "person:Joshua.5",
 "type": "person",
-"preferred_label": "Josué",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Josué"
+},
+{
+"id": "person:Joshua",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josué"
 }
 ]
 }
@@ -1020,7 +984,7 @@
 {
 "content_id": "232477",
 "reference_id": 108508,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Josué y Zorobabel",
 "media_type": "Text",
 "index_reference": "josué y zorobabel",
@@ -1030,13 +994,63 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josué"
+},
+{
+"id": "person:Joshua.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josué"
+},
+{
+"id": "person:Joshua.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josué"
+},
+{
+"id": "person:Joshua.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josué"
+},
+{
+"id": "person:Joshua",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josué"
+},
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zorobabel"
+},
+{
+"id": "person:Zerubbabel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zorobabel"
+}
+]
 }
 },
 {
 "content_id": "232511",
 "reference_id": 108542,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Juan",
 "media_type": "Text",
 "index_reference": "juan",
@@ -1048,32 +1062,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:John",
-"type": "person",
-"preferred_label": "Juan",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:John.2",
 "type": "person",
-"preferred_label": "Juan",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Juan"
 },
 {
 "id": "person:John.3",
 "type": "person",
-"preferred_label": "Juan",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Juan"
 },
 {
 "id": "person:John.4",
 "type": "person",
-"preferred_label": "Juan",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Juan"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marcos"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Juan"
 }
 ]
 }
@@ -1081,7 +1102,7 @@
 {
 "content_id": "232549",
 "reference_id": 108580,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Juan el Bautista",
 "media_type": "Text",
 "index_reference": "juan el bautista",
@@ -1099,13 +1120,21 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:John",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Juan"
+}
+]
 }
 },
 {
 "content_id": "232260",
 "reference_id": 108291,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judá",
 "media_type": "Text",
 "index_reference": "judá",
@@ -1117,53 +1146,67 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Judah",
-"type": "group",
-"preferred_label": "Judá",
+"id": "person:Hodiah.2",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Odías"
 },
 {
 "id": "person:Judah.3",
 "type": "person",
-"preferred_label": "Judá",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Judá"
 },
 {
 "id": "person:Judah.4",
 "type": "person",
-"preferred_label": "Judá",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Judá"
 },
 {
 "id": "person:Judah.5",
 "type": "person",
-"preferred_label": "Judá",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Judá"
 },
 {
 "id": "person:Judah.6",
 "type": "person",
-"preferred_label": "Judá",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Judá"
 },
 {
 "id": "person:Judah.7",
 "type": "person",
-"preferred_label": "Judá",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Judá"
 },
 {
 "id": "person:Judah.8",
 "type": "person",
-"preferred_label": "Judá",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Judá"
+},
+{
+"id": "person:Hodaviah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Odavia"
+},
+{
+"id": "place:Judea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
 }
 ]
 }
@@ -1171,7 +1214,7 @@
 {
 "content_id": "232063",
 "reference_id": 108094,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judas",
 "media_type": "Text",
 "index_reference": "judas",
@@ -1183,46 +1226,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Judas",
-"type": "person",
-"preferred_label": "Judas",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Judas.2",
 "type": "person",
-"preferred_label": "Judas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Judas"
 },
 {
 "id": "person:Judas.3",
 "type": "person",
-"preferred_label": "Judas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Judas"
 },
 {
 "id": "person:Judas.4",
 "type": "person",
-"preferred_label": "Judas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Judas"
 },
 {
 "id": "person:Judas.5",
 "type": "person",
-"preferred_label": "Judas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Judas"
 },
 {
-"id": "place:Judea.2",
-"type": "place",
-"preferred_label": "Judah",
-"confidence": 0.9123,
-"match_method": "embedding"
+"id": "person:Jude",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "JUDAS"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judas"
 }
 ]
 }
@@ -1230,7 +1273,7 @@
 {
 "content_id": "232137",
 "reference_id": 108168,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judas hermano de Jesús",
 "media_type": "Text",
 "index_reference": "judas hermano de jesús",
@@ -1240,13 +1283,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jude",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "JUDAS"
+}
+]
 }
 },
 {
 "content_id": "232035",
 "reference_id": 108066,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judas Iscariote",
 "media_type": "Text",
 "index_reference": "judas iscariote",
@@ -1256,13 +1307,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judas"
+}
+]
 }
 },
 {
 "content_id": "232004",
 "reference_id": 108035,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judea",
 "media_type": "Text",
 "index_reference": "judea",
@@ -1274,46 +1333,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Judea.2",
+"id": "place:Judea",
 "type": "place",
-"preferred_label": "Judah",
-"confidence": 0.9535,
-"match_method": "embedding"
-},
-{
-"id": "person:Judas",
-"type": "person",
-"preferred_label": "Judas",
-"confidence": 0.8645,
-"match_method": "embedding"
-},
-{
-"id": "person:Judas.2",
-"type": "person",
-"preferred_label": "Judas",
-"confidence": 0.8645,
-"match_method": "embedding"
-},
-{
-"id": "person:Judas.3",
-"type": "person",
-"preferred_label": "Judas",
-"confidence": 0.8645,
-"match_method": "embedding"
-},
-{
-"id": "person:Judas.4",
-"type": "person",
-"preferred_label": "Judas",
-"confidence": 0.8645,
-"match_method": "embedding"
-},
-{
-"id": "person:Judas.5",
-"type": "person",
-"preferred_label": "Judas",
-"confidence": 0.8645,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judíos"
 }
 ]
 }
@@ -1321,7 +1345,7 @@
 {
 "content_id": "232472",
 "reference_id": 108503,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Judío",
 "media_type": "Text",
 "index_reference": "judío",
@@ -1348,11 +1372,11 @@
 ],
 "acai": [
 {
-"id": "place:Judea.2",
-"type": "place",
-"preferred_label": "Judah",
-"confidence": 0.822,
-"match_method": "embedding"
+"id": "group:Jews",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jews"
 }
 ]
 }
@@ -1360,7 +1384,7 @@
 {
 "content_id": "232389",
 "reference_id": 108420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Juez",
 "media_type": "Text",
 "index_reference": "juez",
@@ -1370,13 +1394,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "juez"
+}
+]
 }
 },
 {
 "content_id": "232202",
 "reference_id": 108233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Juicio",
 "media_type": "Text",
 "index_reference": "juicio",
@@ -1386,7 +1418,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.8663,
+"match_method": "embedding",
+"preferred_label": "juicio"
+}
+]
 }
 }
 ]

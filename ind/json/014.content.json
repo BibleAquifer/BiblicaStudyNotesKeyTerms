@@ -2,7 +2,7 @@
 {
 "content_id": "203409",
 "reference_id": 108274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laban",
 "media_type": "Text",
 "index_reference": "laban",
@@ -16,16 +16,16 @@
 {
 "id": "person:Laban",
 "type": "person",
-"preferred_label": "Laban",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Laban"
 },
 {
 "id": "place:Laban",
 "type": "place",
-"preferred_label": "Laban",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Laban"
 }
 ]
 }
@@ -33,7 +33,7 @@
 {
 "content_id": "650779",
 "reference_id": 209393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lagu Baru",
 "media_type": "Text",
 "index_reference": "lagu baru",
@@ -62,7 +62,7 @@
 {
 "content_id": "203297",
 "reference_id": 108162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laodikia",
 "media_type": "Text",
 "index_reference": "laodikia",
@@ -76,9 +76,9 @@
 {
 "id": "place:Laodicea",
 "type": "place",
-"preferred_label": "Laodikia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Laodikia"
 }
 ]
 }
@@ -86,7 +86,7 @@
 {
 "content_id": "203207",
 "reference_id": 108072,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laut",
 "media_type": "Text",
 "index_reference": "laut",
@@ -102,7 +102,7 @@
 {
 "content_id": "203710",
 "reference_id": 108575,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laut Mediterania",
 "media_type": "Text",
 "index_reference": "laut mediterania",
@@ -112,13 +112,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "besar"
+}
+]
 }
 },
 {
 "content_id": "203455",
 "reference_id": 108320,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laut Merah",
 "media_type": "Text",
 "index_reference": "laut merah",
@@ -128,13 +136,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Teberau"
+}
+]
 }
 },
 {
 "content_id": "203410",
 "reference_id": 108275,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lea",
 "media_type": "Text",
 "index_reference": "lea",
@@ -144,13 +160,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lea"
+}
+]
 }
 },
 {
 "content_id": "203518",
 "reference_id": 108383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lewi",
 "media_type": "Text",
 "index_reference": "lewi",
@@ -162,32 +186,32 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Lewi",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Levi",
-"type": "person",
-"preferred_label": "Lewi",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Levi.2",
 "type": "person",
-"preferred_label": "Lewi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Lewi"
 },
 {
 "id": "person:Levi.3",
 "type": "person",
-"preferred_label": "Lewi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Lewi"
+},
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Matius"
+},
+{
+"id": "person:Levi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lewi"
 }
 ]
 }
@@ -195,7 +219,7 @@
 {
 "content_id": "203251",
 "reference_id": 108116,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Listra",
 "media_type": "Text",
 "index_reference": "listra",
@@ -209,16 +233,9 @@
 {
 "id": "place:Lystra",
 "type": "place",
-"preferred_label": "Listra",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Mispar",
-"type": "person",
-"preferred_label": "daftar",
-"confidence": 0.8133,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Listra"
 }
 ]
 }
@@ -226,7 +243,7 @@
 {
 "content_id": "203474",
 "reference_id": 108339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Loh batu",
 "media_type": "Text",
 "index_reference": "loh batu",
@@ -242,7 +259,7 @@
 {
 "content_id": "203383",
 "reference_id": 108248,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lot",
 "media_type": "Text",
 "index_reference": "lot",
@@ -252,13 +269,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+}
+]
 }
 },
 {
 "content_id": "203213",
 "reference_id": 108078,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lukas",
 "media_type": "Text",
 "index_reference": "lukas",
@@ -272,9 +304,9 @@
 {
 "id": "person:Luke",
 "type": "person",
-"preferred_label": "Lukas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Lukas"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "183009",
 "reference_id": 108115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इकुनियुम",
 "media_type": "Text",
 "index_reference": "इकुनियुम",
@@ -16,9 +16,9 @@
 {
 "id": "place:Iconium",
 "type": "place",
-"preferred_label": "इकुनियुम",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "इकुनियुम"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "183026",
 "reference_id": 108132,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इपिकूरीयों",
 "media_type": "Text",
 "index_reference": "इपिकूरीयों",
@@ -36,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Epicurean",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Epicureans"
+}
+]
 }
 },
 {
 "content_id": "183029",
 "reference_id": 108135,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इफिसुस",
 "media_type": "Text",
 "index_reference": "इफिसुस",
@@ -56,9 +64,9 @@
 {
 "id": "place:Ephesus",
 "type": "place",
-"preferred_label": "इफिसुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "इफिसुस"
 }
 ]
 }
@@ -66,7 +74,7 @@
 {
 "content_id": "183426",
 "reference_id": 108532,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इब्रानी",
 "media_type": "Text",
 "index_reference": "इब्रानी",
@@ -97,7 +105,7 @@
 {
 "content_id": "183432",
 "reference_id": 108538,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इम्मानुएल",
 "media_type": "Text",
 "index_reference": "इम्मानुएल",
@@ -107,13 +115,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यीशु"
+}
+]
 }
 },
 {
 "content_id": "183156",
 "reference_id": 108262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इश्माएल",
 "media_type": "Text",
 "index_reference": "इश्माएल",
@@ -125,60 +141,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ishmael",
-"type": "person",
-"preferred_label": "इश्माएल",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ishmael.2",
 "type": "person",
-"preferred_label": "इश्माएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
 },
 {
 "id": "person:Ishmael.3",
 "type": "person",
-"preferred_label": "इश्माएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
 },
 {
 "id": "person:Ishmael.4",
 "type": "person",
-"preferred_label": "इश्माएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
 },
 {
 "id": "person:Ishmael.5",
 "type": "person",
-"preferred_label": "इश्माएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
 },
 {
 "id": "person:Ishmael.6",
 "type": "person",
-"preferred_label": "इश्माएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
 },
 {
-"id": "person:Jesimiel",
+"id": "person:Ishmael",
 "type": "person",
-"preferred_label": "यसीमीएल",
-"confidence": 0.8181,
-"match_method": "embedding"
-},
-{
-"id": "group:Ishmael",
-"type": "group",
-"preferred_label": "इश्माएली",
-"confidence": 0.8024,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इश्माएल"
 }
 ]
 }
@@ -186,7 +188,7 @@
 {
 "content_id": "183155",
 "reference_id": 108261,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इसहाक",
 "media_type": "Text",
 "index_reference": "इसहाक",
@@ -200,9 +202,9 @@
 {
 "id": "person:Isaac",
 "type": "person",
-"preferred_label": "इसहाक",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "इसहाक"
 }
 ]
 }
@@ -210,7 +212,7 @@
 {
 "content_id": "183174",
 "reference_id": 108280,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "इस्राएल",
 "media_type": "Text",
 "index_reference": "इस्राएल",
@@ -232,30 +234,16 @@
 {
 "id": "person:Israel",
 "type": "person",
-"preferred_label": "इस्राएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "इस्राएल"
 },
 {
-"id": "group:Israel",
-"type": "group",
-"preferred_label": "इस्राएली",
-"confidence": 0.8254,
-"match_method": "embedding"
-},
-{
-"id": "person:Asriel",
-"type": "person",
-"preferred_label": "अस्रीएल",
-"confidence": 0.8244,
-"match_method": "embedding"
-},
-{
-"id": "person:Asriel.2",
-"type": "person",
-"preferred_label": "अस्रीएल",
-"confidence": 0.8244,
-"match_method": "embedding"
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
 }
 ]
 }

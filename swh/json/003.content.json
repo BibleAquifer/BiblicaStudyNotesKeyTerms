@@ -2,10 +2,10 @@
 {
 "content_id": "367555",
 "reference_id": 108064,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baada ya Kristo (BK)",
 "media_type": "Text",
-"index_reference": "baada ya kristo (bk)",
+"index_reference": "baada ya kristo bk",
 "language": "swh",
 "review_level": "None",
 "content": "<p> Ni njia ya kuelezea miaka yote baada ya Yesu kuzaliwa. Katika lugha ya Kilatini, BK inamaanisha katika mwaka wa Bwana wetu.</p>",
@@ -18,10 +18,10 @@
 {
 "content_id": "367552",
 "reference_id": 108061,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baada ya Kristo (BK) 70",
 "media_type": "Text",
-"index_reference": "baada ya kristo (bk) 70",
+"index_reference": "baada ya kristo bk 70",
 "language": "swh",
 "review_level": "None",
 "content": "<p>Ni mwaka ambao majeshi ya Kirumi yaliharibu hekalu. Yaliharibu pia sehemu kubwa ya mji wa Yerusalemu. Waasi wa Kiyahudi walikuwa wakipigana dhidi ya utawala wa Kirumi kwa miaka minne. Kisha majeshi ya Kirumi yaliwaua Wayahudi wengi na kuchoma moto hekalu. Halikujengwa tena. Yesu alikuwa ameonya watu mara nyingi kwamba hili lingetokea. Yesu alielezea kama adhabu iliyowapata kwa  sababu ya kutomkubali kama Masihi aliyetumwa na Mungu.</p>",
@@ -34,7 +34,7 @@
 {
 "content_id": "367892",
 "reference_id": 108401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baali",
 "media_type": "Text",
 "index_reference": "baali",
@@ -46,39 +46,39 @@
 "resource": [],
 "acai": [
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baali",
+"id": "person:Baal.2",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baali"
 },
 {
 "id": "person:Baal",
 "type": "person",
-"preferred_label": "Baali",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baali"
 },
 {
-"id": "person:Baal.2",
-"type": "person",
-"preferred_label": "Baali",
+"id": "place:Baalath-beer",
+"type": "place",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
 },
 {
-"id": "place:Baalah",
-"type": "place",
-"preferred_label": "Baala",
-"confidence": 0.8804,
-"match_method": "embedding"
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
 },
 {
-"id": "place:BaalahMount",
-"type": "place",
-"preferred_label": "Baala",
-"confidence": 0.8804,
-"match_method": "embedding"
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baali"
 }
 ]
 }
@@ -86,7 +86,7 @@
 {
 "content_id": "367893",
 "reference_id": 108402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baali Peor",
 "media_type": "Text",
 "index_reference": "baali peor",
@@ -96,13 +96,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Peor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Peori"
+}
+]
 }
 },
 {
 "content_id": "367803",
 "reference_id": 108312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baba",
 "media_type": "Text",
 "index_reference": "baba",
@@ -112,13 +120,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
+}
+]
 }
 },
 {
 "content_id": "367730",
 "reference_id": 108239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babeli",
 "media_type": "Text",
 "index_reference": "babeli",
@@ -128,21 +144,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babeli",
-"confidence": 1.0,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "367989",
 "reference_id": 108498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babiloni",
 "media_type": "Text",
 "index_reference": "babiloni",
@@ -154,11 +162,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Babylonia",
+"id": "place:Babylon.2",
 "type": "place",
-"preferred_label": "Babylonia",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babeli"
 }
 ]
 }
@@ -166,7 +181,7 @@
 {
 "content_id": "367563",
 "reference_id": 108072,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bahari",
 "media_type": "Text",
 "index_reference": "bahari",
@@ -176,21 +191,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "place:AdriaticSea",
-"type": "place",
-"preferred_label": "bahari",
-"confidence": 0.897,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "368066",
 "reference_id": 108575,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bahari ya Mediterania",
 "media_type": "Text",
 "index_reference": "bahari ya mediterania",
@@ -200,13 +207,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "kubwa"
+}
+]
 }
 },
 {
 "content_id": "367811",
 "reference_id": 108320,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bahari ya Shamu",
 "media_type": "Text",
 "index_reference": "bahari ya shamu",
@@ -216,13 +231,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shamu"
+}
+]
 }
 },
 {
 "content_id": "367889",
 "reference_id": 108398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balaamu",
 "media_type": "Text",
 "index_reference": "balaamu",
@@ -236,9 +259,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "Balaamu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Balaamu"
 }
 ]
 }
@@ -246,7 +269,7 @@
 {
 "content_id": "367887",
 "reference_id": 108396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balaki",
 "media_type": "Text",
 "index_reference": "balaki",
@@ -260,9 +283,9 @@
 {
 "id": "person:Balak",
 "type": "person",
-"preferred_label": "Balaki",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Balaki"
 }
 ]
 }
@@ -270,7 +293,7 @@
 {
 "content_id": "367567",
 "reference_id": 108076,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baraba",
 "media_type": "Text",
 "index_reference": "baraba",
@@ -284,16 +307,9 @@
 {
 "id": "person:Barabbas",
 "type": "person",
-"preferred_label": "Baraba",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Rabbah.2",
-"type": "place",
-"preferred_label": "Rabbah",
-"confidence": 0.8028,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baraba"
 }
 ]
 }
@@ -301,7 +317,7 @@
 {
 "content_id": "367762",
 "reference_id": 108271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baraka ya baba",
 "media_type": "Text",
 "index_reference": "baraka ya baba",
@@ -317,7 +333,7 @@
 {
 "content_id": "367870",
 "reference_id": 108379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baraka za Agano",
 "media_type": "Text",
 "index_reference": "baraka za agano",
@@ -333,7 +349,7 @@
 {
 "content_id": "367646",
 "reference_id": 108155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baraka za kiroho",
 "media_type": "Text",
 "index_reference": "baraka za kiroho",
@@ -349,7 +365,7 @@
 {
 "content_id": "367926",
 "reference_id": 108435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baraki",
 "media_type": "Text",
 "index_reference": "baraki",
@@ -359,13 +375,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Barak",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baraka"
+}
+]
 }
 },
 {
 "content_id": "367736",
 "reference_id": 108245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bariki mataifa yote",
 "media_type": "Text",
 "index_reference": "bariki mataifa yote",
@@ -381,7 +405,7 @@
 {
 "content_id": "367598",
 "reference_id": 108107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barnaba",
 "media_type": "Text",
 "index_reference": "barnaba",
@@ -395,9 +419,9 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "Barnaba",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Barnaba"
 }
 ]
 }
@@ -405,7 +429,7 @@
 {
 "content_id": "367664",
 "reference_id": 108173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barua kwa makanisa",
 "media_type": "Text",
 "index_reference": "barua kwa makanisa",
@@ -421,7 +445,7 @@
 {
 "content_id": "367611",
 "reference_id": 108120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barua za Paulo",
 "media_type": "Text",
 "index_reference": "barua za paulo",
@@ -437,7 +461,7 @@
 {
 "content_id": "367959",
 "reference_id": 108468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bathsheba",
 "media_type": "Text",
 "index_reference": "bathsheba",
@@ -451,9 +475,9 @@
 {
 "id": "person:Bathsheba",
 "type": "person",
-"preferred_label": "Bathsheba",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bathsheba"
 }
 ]
 }
@@ -461,7 +485,7 @@
 {
 "content_id": "367786",
 "reference_id": 108295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Beersheba",
 "media_type": "Text",
 "index_reference": "beersheba",
@@ -471,13 +495,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beer-sheba"
+}
+]
 }
 },
 {
 "content_id": "367785",
 "reference_id": 108294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Benyamini",
 "media_type": "Text",
 "index_reference": "benyamini",
@@ -489,53 +521,39 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Benyamini",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benyamini",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Benjamin.2",
 "type": "person",
-"preferred_label": "Benyamini",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benyamini"
 },
 {
 "id": "person:Benjamin.3",
 "type": "person",
-"preferred_label": "Benyamini",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benyamini"
 },
 {
 "id": "person:Benjamin.4",
 "type": "person",
-"preferred_label": "Benyamini",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benyamini"
 },
 {
 "id": "person:Benjamin.5",
 "type": "person",
-"preferred_label": "Benyamini",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benyamini"
 },
 {
-"id": "place:BenjaminGate",
-"type": "place",
-"preferred_label": "Benyamini",
+"id": "person:Benjamin",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benyamini"
 }
 ]
 }
@@ -543,7 +561,7 @@
 {
 "content_id": "367620",
 "reference_id": 108129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Beroya",
 "media_type": "Text",
 "index_reference": "beroya",
@@ -557,16 +575,9 @@
 {
 "id": "place:Berea",
 "type": "place",
-"preferred_label": "Beroya",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Beraiah",
-"type": "person",
-"preferred_label": "Beraya",
-"confidence": 0.8384,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Beroya"
 }
 ]
 }
@@ -574,7 +585,7 @@
 {
 "content_id": "367566",
 "reference_id": 108075,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bethania",
 "media_type": "Text",
 "index_reference": "bethania",
@@ -586,18 +597,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethany",
-"type": "place",
-"preferred_label": "Bethania",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethany.2",
 "type": "place",
-"preferred_label": "Bethania",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bethania"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethania"
 }
 ]
 }
@@ -605,7 +616,7 @@
 {
 "content_id": "367763",
 "reference_id": 108272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Betheli",
 "media_type": "Text",
 "index_reference": "betheli",
@@ -617,32 +628,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Betheli",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethel.2",
 "type": "place",
-"preferred_label": "Betheli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Betheli"
 },
 {
-"id": "place:Bethul",
+"id": "place:Bethel",
 "type": "place",
-"preferred_label": "Bethuli",
-"confidence": 0.8734,
-"match_method": "embedding"
-},
-{
-"id": "place:BetherMountain",
-"type": "place",
-"preferred_label": "Betheri",
-"confidence": 0.8187,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betheli"
 }
 ]
 }
@@ -650,7 +647,7 @@
 {
 "content_id": "367933",
 "reference_id": 108442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bethlehemu",
 "media_type": "Text",
 "index_reference": "bethlehemu",
@@ -662,18 +659,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Bethlehemu",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethlehem.2",
 "type": "place",
-"preferred_label": "Bethlehemu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bethlehemu"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethlehemu"
 }
 ]
 }
@@ -681,7 +678,7 @@
 {
 "content_id": "367684",
 "reference_id": 108193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bibilia",
 "media_type": "Text",
 "index_reference": "bibilia",
@@ -705,7 +702,7 @@
 {
 "content_id": "367780",
 "reference_id": 108289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bilha",
 "media_type": "Text",
 "index_reference": "bilha",
@@ -727,16 +724,16 @@
 {
 "id": "person:Bilhah",
 "type": "person",
-"preferred_label": "Bilha",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bilha"
 },
 {
 "id": "place:Bilhah",
 "type": "place",
-"preferred_label": "Bilha",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bilha"
 }
 ]
 }
@@ -744,7 +741,7 @@
 {
 "content_id": "367693",
 "reference_id": 108202,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Binadamu",
 "media_type": "Text",
 "index_reference": "binadamu",
@@ -760,7 +757,7 @@
 {
 "content_id": "367896",
 "reference_id": 108405,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Binti za Selofehadi",
 "media_type": "Text",
 "index_reference": "binti za selofehadi",
@@ -770,13 +767,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hoglah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hogla"
+},
+{
+"id": "person:Mahlah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mala"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Milka"
+},
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nuhu"
+},
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirza"
+}
+]
 }
 },
 {
 "content_id": "367698",
 "reference_id": 108207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bustani ya Edeni",
 "media_type": "Text",
 "index_reference": "bustani ya edeni",
@@ -790,9 +823,9 @@
 {
 "id": "place:Eden.2",
 "type": "place",
-"preferred_label": "Garden of Eden",
-"confidence": 0.8033,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Garden of Eden"
 }
 ]
 }
@@ -800,7 +833,7 @@
 {
 "content_id": "367717",
 "reference_id": 108226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bwana",
 "media_type": "Text",
 "index_reference": "bwana",
@@ -810,16 +843,31 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yesu"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
+}
+]
 }
 },
 {
 "content_id": "367820",
 "reference_id": 108329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bwana - Mtawala",
 "media_type": "Text",
-"index_reference": "bwana - mtawala",
+"index_reference": "bwana  mtawala",
 "language": "swh",
 "review_level": "None",
 "content": "<p>Jina la mtawala, kiongozi au bwana. Linatumika kama jina la Mungu katika Biblia. Iinamaanisha kwamba Mungu ana mamlaka juu ya kila kitu na kila mtu. Katika nyakati za Agano Jipya, neno bwana lilitumika kama jina kwa ajili ya mfalme wa Kirumi. Lilimaanisha kwamba Kaisari alikuwa na mamlaka kila mahali ambapo serikali ya Kirumi ilikuwa na udhibiti. Wafuasi wa Yesu walimwita Bwana. Hii ilimaanisha kwamba walitambua kwamba Yesu ni Mungu. Walitambua kwamba Yesu ana mamlaka kamili juu ya kila kitu na kila mtu. Wafuasi wa Yesu walipinga mamlaka ya Kaisari walipomwita Yesu Bwana.</p>",
@@ -832,7 +880,7 @@
 {
 "content_id": "367637",
 "reference_id": 108146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bwana Yesu Kristo",
 "media_type": "Text",
 "index_reference": "bwana yesu kristo",
@@ -842,13 +890,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yesu"
+}
+]
 }
 },
 {
 "content_id": "367582",
 "reference_id": 108091,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bwawa la Bethzatha",
 "media_type": "Text",
 "index_reference": "bwawa la bethzatha",
@@ -858,7 +914,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Pool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pool"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "133698",
 "reference_id": 108446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dagon",
 "media_type": "Text",
 "index_reference": "dagon",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Dagon",
 "type": "deity",
-"preferred_label": "Dagon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dagon"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "133697",
 "reference_id": 108445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dalila",
 "media_type": "Text",
 "index_reference": "dalila",
@@ -36,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delila"
+}
+]
 }
 },
 {
 "content_id": "133792",
 "reference_id": 108540,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Damas",
 "media_type": "Text",
 "index_reference": "damas",
@@ -56,9 +64,9 @@
 {
 "id": "place:Damascus",
 "type": "place",
-"preferred_label": "Damas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Damas"
 }
 ]
 }
@@ -66,7 +74,7 @@
 {
 "content_id": "133696",
 "reference_id": 108444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dan",
 "media_type": "Text",
 "index_reference": "dan",
@@ -76,13 +84,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+}
+]
 }
 },
 {
 "content_id": "133812",
 "reference_id": 108560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Daniel",
 "media_type": "Text",
 "index_reference": "daniel",
@@ -96,16 +119,23 @@
 {
 "id": "person:Daniel.2",
 "type": "person",
-"preferred_label": "Daniel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Daniel"
 },
 {
 "id": "person:Daniel.3",
 "type": "person",
-"preferred_label": "Daniel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kileab"
 }
 ]
 }
@@ -113,7 +143,7 @@
 {
 "content_id": "133764",
 "reference_id": 108512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Darius",
 "media_type": "Text",
 "index_reference": "darius",
@@ -125,25 +155,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Darius",
-"type": "person",
-"preferred_label": "Darius",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Darius.2",
 "type": "person",
-"preferred_label": "Darius",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Darius"
 },
 {
 "id": "person:Darius.3",
 "type": "person",
-"preferred_label": "Darius",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
 }
 ]
 }
@@ -151,7 +181,7 @@
 {
 "content_id": "133701",
 "reference_id": 108449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "David",
 "media_type": "Text",
 "index_reference": "david",
@@ -171,11 +201,18 @@
 ],
 "acai": [
 {
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Juda"
+},
+{
 "id": "person:David",
 "type": "person",
-"preferred_label": "David",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "David"
 }
 ]
 }
@@ -183,7 +220,7 @@
 {
 "content_id": "133685",
 "reference_id": 108433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Débora",
 "media_type": "Text",
 "index_reference": "débora",
@@ -195,18 +232,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "Débora",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "Débora",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Débora"
+},
+{
+"id": "person:Deborah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Débora"
 }
 ]
 }
@@ -214,7 +251,7 @@
 {
 "content_id": "133661",
 "reference_id": 108409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Déposséder",
 "media_type": "Text",
 "index_reference": "déposséder",
@@ -230,7 +267,7 @@
 {
 "content_id": "133369",
 "reference_id": 108117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Derbé",
 "media_type": "Text",
 "index_reference": "derbé",
@@ -244,9 +281,9 @@
 {
 "id": "place:Derbe",
 "type": "place",
-"preferred_label": "Derbe",
-"confidence": 0.9271,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Derbe"
 }
 ]
 }
@@ -254,7 +291,7 @@
 {
 "content_id": "133788",
 "reference_id": 108536,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Derniers jours",
 "media_type": "Text",
 "index_reference": "derniers jours",
@@ -270,7 +307,7 @@
 {
 "content_id": "133427",
 "reference_id": 108175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Deuxième mort",
 "media_type": "Text",
 "index_reference": "deuxième mort",
@@ -286,10 +323,10 @@
 {
 "content_id": "133545",
 "reference_id": 108293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Devoir du beau-frère",
 "media_type": "Text",
-"index_reference": "devoir du beau-frère",
+"index_reference": "devoir du beaufrère",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Pratique courante dans de nombreuses populations depuis des centaines d&apos;années. Elle permet de prendre soin de la veuve et de la lignée familiale d&apos;un homme qui meurt. Le frère de l&apos;homme décédé épouse la veuve et conçoit un enfant avec elle. L&apos;enfant est considéré comme l&apos;enfant de l&apos;homme décédé. Cet enfant reçoit les biens et porte le nom de l&apos;homme décédé. L&apos;enfant prend également soin de la mère lorsqu&apos;elle est âgée.</p>",
@@ -302,7 +339,7 @@
 {
 "content_id": "133468",
 "reference_id": 108216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diable",
 "media_type": "Text",
 "index_reference": "diable",
@@ -320,13 +357,21 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Satan"
+}
+]
 }
 },
 {
 "content_id": "133352",
 "reference_id": 108100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diacres",
 "media_type": "Text",
 "index_reference": "diacres",
@@ -342,7 +387,7 @@
 {
 "content_id": "133451",
 "reference_id": 108199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dieu",
 "media_type": "Text",
 "index_reference": "dieu",
@@ -367,13 +412,21 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
 "content_id": "133481",
 "reference_id": 108229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dieu décide",
 "media_type": "Text",
 "index_reference": "dieu décide",
@@ -389,7 +442,7 @@
 {
 "content_id": "133535",
 "reference_id": 108283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dina",
 "media_type": "Text",
 "index_reference": "dina",
@@ -403,9 +456,9 @@
 {
 "id": "person:Dinah",
 "type": "person",
-"preferred_label": "Dina",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dina"
 }
 ]
 }
@@ -413,7 +466,7 @@
 {
 "content_id": "133292",
 "reference_id": 108040,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Disciple",
 "media_type": "Text",
 "index_reference": "disciple",
@@ -444,7 +497,7 @@
 {
 "content_id": "133766",
 "reference_id": 108514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Divorce",
 "media_type": "Text",
 "index_reference": "divorce",
@@ -468,7 +521,7 @@
 {
 "content_id": "133419",
 "reference_id": 108167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Docétisme",
 "media_type": "Text",
 "index_reference": "docétisme",
@@ -484,10 +537,10 @@
 {
 "content_id": "133401",
 "reference_id": 108149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dons de l'Esprit",
 "media_type": "Text",
-"index_reference": "dons de l'esprit",
+"index_reference": "dons de lesprit",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Le Saint-Esprit confère aux gens la capacité de bien faire certaines choses. Ces dons ne sont pas de ceux que l&apos;on peut tenir dans ses mains. Ce sont des dons spirituels. Certains dons consistent à enseigner, à prendre soin des autres et à guérir ceux qui sont malades. Les disciples de Jésus utilisent leurs dons pour encourager et renforcer l&apos;Église.</p>",
@@ -500,7 +553,7 @@
 {
 "content_id": "133522",
 "reference_id": 108270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Droits du fils aîné",
 "media_type": "Text",
 "index_reference": "droits du fils aîné",

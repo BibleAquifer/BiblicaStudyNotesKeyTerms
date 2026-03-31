@@ -2,7 +2,7 @@
 {
 "content_id": "233103",
 "reference_id": 108502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "塞魯士",
 "media_type": "Text",
 "index_reference": "塞魯士",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Cyrus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cyrus"
+}
+]
 }
 },
 {
 "content_id": "232713",
 "reference_id": 108112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "塞浦路斯",
 "media_type": "Text",
 "index_reference": "塞浦路斯",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cyprus"
+}
+]
 }
 },
 {
 "content_id": "232825",
 "reference_id": 108224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "塞特",
 "media_type": "Text",
 "index_reference": "塞特",
@@ -44,7 +60,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Seth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seth"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "183424",
 "reference_id": 108530,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "क्रूस",
 "media_type": "Text",
 "index_reference": "क्रूस",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
 "content_id": "183057",
 "reference_id": 108163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "क्रेते",
 "media_type": "Text",
 "index_reference": "क्रेते",
@@ -32,16 +40,9 @@
 {
 "id": "place:Crete",
 "type": "place",
-"preferred_label": "क्रेते",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "group:Cretan",
-"type": "group",
-"preferred_label": "क्रेती",
-"confidence": 0.9262,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "क्रेते"
 }
 ]
 }

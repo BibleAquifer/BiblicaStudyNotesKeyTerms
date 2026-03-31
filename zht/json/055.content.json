@@ -2,7 +2,7 @@
 {
 "content_id": "233149",
 "reference_id": 108548,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "劍",
 "media_type": "Text",
 "index_reference": "劍",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
+]
 }
 }
 ]

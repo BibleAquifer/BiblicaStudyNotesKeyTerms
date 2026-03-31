@@ -2,7 +2,7 @@
 {
 "content_id": "232826",
 "reference_id": 108225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "名字",
 "media_type": "Text",
 "index_reference": "名字",
@@ -12,7 +12,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Name"
+},
+{
+"id": "person:Naam",
+"type": "person",
+"confidence": 0.964,
+"match_method": "embedding",
+"preferred_label": "Naam"
+}
+]
 }
 }
 ]

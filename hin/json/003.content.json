@@ -2,7 +2,7 @@
 {
 "content_id": "183320",
 "reference_id": 108426,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आकान",
 "media_type": "Text",
 "index_reference": "आकान",
@@ -16,23 +16,9 @@
 {
 "id": "person:Achan",
 "type": "person",
-"preferred_label": "आकान",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Akan",
-"type": "person",
-"preferred_label": "अकान",
-"confidence": 0.9205,
-"match_method": "embedding"
-},
-{
-"id": "person:Anan",
-"type": "person",
-"preferred_label": "आनान",
-"confidence": 0.8148,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "आकान"
 }
 ]
 }
@@ -40,7 +26,7 @@
 {
 "content_id": "183043",
 "reference_id": 108149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आत्मा के वरदान",
 "media_type": "Text",
 "index_reference": "आत्मा के वरदान",
@@ -56,7 +42,7 @@
 {
 "content_id": "183049",
 "reference_id": 108155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आत्मिक आशीर्वाद",
 "media_type": "Text",
 "index_reference": "आत्मिक आशीर्वाद",
@@ -72,7 +58,7 @@
 {
 "content_id": "183051",
 "reference_id": 108157,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आत्मिक कवच",
 "media_type": "Text",
 "index_reference": "आत्मिक कवच",
@@ -88,7 +74,7 @@
 {
 "content_id": "183317",
 "reference_id": 108423,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आत्मिक प्राणी",
 "media_type": "Text",
 "index_reference": "आत्मिक प्राणी",
@@ -112,7 +98,7 @@
 {
 "content_id": "183097",
 "reference_id": 108203,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आदम",
 "media_type": "Text",
 "index_reference": "आदम",
@@ -122,13 +108,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Adam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आदम"
+},
+{
+"id": "place:Adam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आदम"
+}
+]
 }
 },
 {
 "content_id": "183356",
 "reference_id": 108462,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आध्यात्मिक",
 "media_type": "Text",
 "index_reference": "आध्यात्मिक",
@@ -144,7 +145,7 @@
 {
 "content_id": "183460",
 "reference_id": 108566,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आध्यात्मिक लड़ाई",
 "media_type": "Text",
 "index_reference": "आध्यात्मिक लड़ाई",
@@ -160,7 +161,7 @@
 {
 "content_id": "183085",
 "reference_id": 108191,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आमीन",
 "media_type": "Text",
 "index_reference": "आमीन",
@@ -174,23 +175,23 @@
 {
 "id": "deity:Amon",
 "type": "deity",
-"preferred_label": "आमोन",
-"confidence": 0.8526,
-"match_method": "embedding"
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "आमोन"
 },
 {
 "id": "person:Amon.2",
 "type": "person",
-"preferred_label": "आमोन",
-"confidence": 0.8526,
-"match_method": "embedding"
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "आमोन"
 },
 {
 "id": "person:Amon.3",
 "type": "person",
-"preferred_label": "आमोन",
-"confidence": 0.8526,
-"match_method": "embedding"
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "आमोन"
 }
 ]
 }
@@ -198,7 +199,7 @@
 {
 "content_id": "183456",
 "reference_id": 108562,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आमोस",
 "media_type": "Text",
 "index_reference": "आमोस",
@@ -212,23 +213,23 @@
 {
 "id": "person:Amos.2",
 "type": "person",
-"preferred_label": "आमोस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "आमोस"
 },
 {
 "id": "person:Amos.3",
 "type": "person",
-"preferred_label": "आमोस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "आमोस"
 },
 {
-"id": "person:Amoz",
+"id": "person:Amon.3",
 "type": "person",
-"preferred_label": "आमोस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "आमोन"
 }
 ]
 }
@@ -236,7 +237,7 @@
 {
 "content_id": "182945",
 "reference_id": 108051,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आराधनालय",
 "media_type": "Text",
 "index_reference": "आराधनालय",
@@ -246,13 +247,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Synagogue"
+}
+]
 }
 },
 {
 "content_id": "183400",
 "reference_id": 108506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आसप",
 "media_type": "Text",
 "index_reference": "आसप",
@@ -262,13 +271,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Asaph.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसाप"
+},
+{
+"id": "person:Asaph.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसाप"
+},
+{
+"id": "person:Asaph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसाप"
+},
+{
+"id": "person:Ebiasaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "एब्यासाप"
+},
+{
+"id": "person:Asaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसाप"
+}
+]
 }
 },
 {
 "content_id": "183376",
 "reference_id": 108482,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आसा",
 "media_type": "Text",
 "index_reference": "आसा",
@@ -278,13 +323,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Asa.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसा"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आसा"
+}
+]
 }
 },
 {
 "content_id": "183007",
 "reference_id": 108113,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "आसिया",
 "media_type": "Text",
 "index_reference": "आसिया",
@@ -296,11 +356,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Asia",
+"id": "place:AsiaMinor",
 "type": "place",
-"preferred_label": "आसिया",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Asia Minor"
 }
 ]
 }

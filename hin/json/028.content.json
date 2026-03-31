@@ -2,7 +2,7 @@
 {
 "content_id": "183264",
 "reference_id": 108370,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पड़ोसी",
 "media_type": "Text",
 "index_reference": "पड़ोसी",
@@ -26,7 +26,7 @@
 {
 "content_id": "183065",
 "reference_id": 108171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पतमुस",
 "media_type": "Text",
 "index_reference": "पतमुस",
@@ -40,9 +40,9 @@
 {
 "id": "place:Patmos",
 "type": "place",
-"preferred_label": "पतमुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "पतमुस"
 }
 ]
 }
@@ -50,7 +50,7 @@
 {
 "content_id": "183466",
 "reference_id": 108572,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पतरस",
 "media_type": "Text",
 "index_reference": "पतरस",
@@ -64,16 +64,9 @@
 {
 "id": "person:Peter",
 "type": "person",
-"preferred_label": "पतरस",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Patara",
-"type": "place",
-"preferred_label": "पतरा",
-"confidence": 0.8373,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "पतरस"
 }
 ]
 }
@@ -81,7 +74,7 @@
 {
 "content_id": "183233",
 "reference_id": 108339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पत्थर की पट्टिकाएँ",
 "media_type": "Text",
 "index_reference": "पत्थर की पट्टिकाएँ",
@@ -97,7 +90,7 @@
 {
 "content_id": "183171",
 "reference_id": 108277,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पत्नियाँ",
 "media_type": "Text",
 "index_reference": "पत्नियाँ",
@@ -121,7 +114,7 @@
 {
 "content_id": "183093",
 "reference_id": 108199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर",
 "media_type": "Text",
 "index_reference": "परमेश्वर",
@@ -146,13 +139,21 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
+}
+]
 }
 },
 {
 "content_id": "183120",
 "reference_id": 108226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर",
 "media_type": "Text",
 "index_reference": "परमेश्वर",
@@ -162,13 +163,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यीशु"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
+}
+]
 }
 },
 {
 "content_id": "183309",
 "reference_id": 108415,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का उपकरण",
 "media_type": "Text",
 "index_reference": "परमेश्वर का उपकरण",
@@ -184,7 +200,7 @@
 {
 "content_id": "183394",
 "reference_id": 108500,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का क्रोध",
 "media_type": "Text",
 "index_reference": "परमेश्वर का क्रोध",
@@ -200,7 +216,7 @@
 {
 "content_id": "182939",
 "reference_id": 108045,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का परिवार",
 "media_type": "Text",
 "index_reference": "परमेश्वर का परिवार",
@@ -216,7 +232,7 @@
 {
 "content_id": "183420",
 "reference_id": 108526,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्‍वर का पुत्र",
 "media_type": "Text",
 "index_reference": "परमेश्‍वर का पुत्र",
@@ -232,7 +248,7 @@
 {
 "content_id": "182980",
 "reference_id": 108086,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का मेमना",
 "media_type": "Text",
 "index_reference": "परमेश्वर का मेमना",
@@ -248,7 +264,7 @@
 {
 "content_id": "183455",
 "reference_id": 108561,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का राज्य",
 "media_type": "Text",
 "index_reference": "परमेश्वर का राज्य",
@@ -272,7 +288,7 @@
 {
 "content_id": "183094",
 "reference_id": 108200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का शब्द",
 "media_type": "Text",
 "index_reference": "परमेश्वर का शब्द",
@@ -290,21 +306,13 @@
 "language": "hin"
 }
 ],
-"acai": [
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "Word of the Lord",
-"confidence": 0.8371,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "183438",
 "reference_id": 108544,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर का सेवक",
 "media_type": "Text",
 "index_reference": "परमेश्वर का सेवक",
@@ -320,7 +328,7 @@
 {
 "content_id": "183125",
 "reference_id": 108231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के पुत्र",
 "media_type": "Text",
 "index_reference": "परमेश्वर के पुत्र",
@@ -336,7 +344,7 @@
 {
 "content_id": "183196",
 "reference_id": 108302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर के लोग",
 "media_type": "Text",
 "index_reference": "परमेश्वर के लोग",
@@ -354,13 +362,21 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "इस्राएली"
+}
+]
 }
 },
 {
 "content_id": "183148",
 "reference_id": 108254,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्‍वर के साथ सही",
 "media_type": "Text",
 "index_reference": "परमेश्‍वर के साथ सही",
@@ -376,7 +392,7 @@
 {
 "content_id": "183123",
 "reference_id": 108229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर चुनता है",
 "media_type": "Text",
 "index_reference": "परमेश्वर चुनता है",
@@ -392,7 +408,7 @@
 {
 "content_id": "183249",
 "reference_id": 108355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परमेश्वर से प्रेम करो",
 "media_type": "Text",
 "index_reference": "परमेश्वर से प्रेम करो",
@@ -408,7 +424,7 @@
 {
 "content_id": "183342",
 "reference_id": 108448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परिवार का छुड़नेवाला",
 "media_type": "Text",
 "index_reference": "परिवार का छुड़नेवाला",
@@ -424,7 +440,7 @@
 {
 "content_id": "183157",
 "reference_id": 108263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "परीक्षण",
 "media_type": "Text",
 "index_reference": "परीक्षण",
@@ -440,7 +456,7 @@
 {
 "content_id": "183266",
 "reference_id": 108372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पर्व",
 "media_type": "Text",
 "index_reference": "पर्व",
@@ -456,7 +472,7 @@
 {
 "content_id": "183161",
 "reference_id": 108267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पलिश्तियों",
 "media_type": "Text",
 "index_reference": "पलिश्तियों",
@@ -466,13 +482,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पलिश्ती"
+}
+]
 }
 },
 {
 "content_id": "183255",
 "reference_id": 108361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्र",
 "media_type": "Text",
 "index_reference": "पवित्र",
@@ -482,13 +506,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Holy"
+}
+]
 }
 },
 {
 "content_id": "183282",
 "reference_id": 108388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्र आत्मा",
 "media_type": "Text",
 "index_reference": "पवित्र आत्मा",
@@ -502,9 +534,9 @@
 {
 "id": "deity:HolySpirit",
 "type": "deity",
-"preferred_label": "पवित्र आत्मा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "पवित्र आत्मा"
 }
 ]
 }
@@ -512,7 +544,7 @@
 {
 "content_id": "183048",
 "reference_id": 108154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्र आत्मा का फल",
 "media_type": "Text",
 "index_reference": "पवित्र आत्मा का फल",
@@ -528,7 +560,7 @@
 {
 "content_id": "182938",
 "reference_id": 108044,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्र जीवन",
 "media_type": "Text",
 "index_reference": "पवित्र जीवन",
@@ -544,7 +576,7 @@
 {
 "content_id": "183228",
 "reference_id": 108334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पवित्र तम्बू",
 "media_type": "Text",
 "index_reference": "पवित्र तम्बू",
@@ -554,13 +586,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
 "content_id": "183240",
 "reference_id": 108346,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पश्चाताप",
 "media_type": "Text",
 "index_reference": "पश्चाताप",
@@ -578,13 +618,21 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Repent"
+}
+]
 }
 },
 {
 "content_id": "183268",
 "reference_id": 108374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पहली फसल की हिस्सेदारी",
 "media_type": "Text",
 "index_reference": "पहली फसल की हिस्सेदारी",
@@ -600,7 +648,7 @@
 {
 "content_id": "183089",
 "reference_id": 108195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पाप",
 "media_type": "Text",
 "index_reference": "पाप",
@@ -616,7 +664,7 @@
 {
 "content_id": "183458",
 "reference_id": 108564,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पाप का व्यक्ति",
 "media_type": "Text",
 "index_reference": "पाप का व्यक्ति",
@@ -632,7 +680,7 @@
 {
 "content_id": "183247",
 "reference_id": 108353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पापबलि",
 "media_type": "Text",
 "index_reference": "पापबलि",
@@ -648,7 +696,7 @@
 {
 "content_id": "183206",
 "reference_id": 108312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पिता",
 "media_type": "Text",
 "index_reference": "पिता",
@@ -658,13 +706,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
+}
+]
 }
 },
 {
 "content_id": "183165",
 "reference_id": 108271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पिता का आशीर्वाद",
 "media_type": "Text",
 "index_reference": "पिता का आशीर्वाद",
@@ -680,7 +736,7 @@
 {
 "content_id": "183269",
 "reference_id": 108375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पिन्तेकुस्त",
 "media_type": "Text",
 "index_reference": "पिन्तेकुस्त",
@@ -696,7 +752,7 @@
 {
 "content_id": "183070",
 "reference_id": 108176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पिरगमुन",
 "media_type": "Text",
 "index_reference": "पिरगमुन",
@@ -710,9 +766,9 @@
 {
 "id": "place:Pergamum",
 "type": "place",
-"preferred_label": "पिरगमुन",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "पिरगमुन"
 }
 ]
 }
@@ -720,7 +776,7 @@
 {
 "content_id": "183008",
 "reference_id": 108114,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पिसिदिया का अन्ताकिया",
 "media_type": "Text",
 "index_reference": "पिसिदिया का अन्ताकिया",
@@ -730,13 +786,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अन्ताकिया"
+}
+]
 }
 },
 {
 "content_id": "183297",
 "reference_id": 108403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पीनहास",
 "media_type": "Text",
 "index_reference": "पीनहास",
@@ -748,25 +812,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Phinehas",
-"type": "person",
-"preferred_label": "पीनहास",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Phinehas.2",
 "type": "person",
-"preferred_label": "पीनहास",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "पीनहास"
 },
 {
 "id": "person:Phinehas.3",
 "type": "person",
-"preferred_label": "पीनहास",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "पीनहास"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "पीनहास"
 }
 ]
 }
@@ -774,7 +838,7 @@
 {
 "content_id": "183462",
 "reference_id": 108568,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पुनरुत्थान",
 "media_type": "Text",
 "index_reference": "पुनरुत्थान",
@@ -784,13 +848,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
 "content_id": "183086",
 "reference_id": 108192,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पुराना नियम",
 "media_type": "Text",
 "index_reference": "पुराना नियम",
@@ -806,7 +878,7 @@
 {
 "content_id": "183417",
 "reference_id": 108523,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पूरिम का पर्व",
 "media_type": "Text",
 "index_reference": "पूरिम का पर्व",
@@ -822,7 +894,7 @@
 {
 "content_id": "182996",
 "reference_id": 108102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पौलुस",
 "media_type": "Text",
 "index_reference": "पौलुस",
@@ -836,16 +908,9 @@
 {
 "id": "person:Paul",
 "type": "person",
-"preferred_label": "पौलुस",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Paphos",
-"type": "place",
-"preferred_label": "पाफुस",
-"confidence": 0.816,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "पौलुस"
 }
 ]
 }
@@ -853,7 +918,7 @@
 {
 "content_id": "183005",
 "reference_id": 108111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पौलुस की यात्राएँ",
 "media_type": "Text",
 "index_reference": "पौलुस की यात्राएँ",
@@ -869,7 +934,7 @@
 {
 "content_id": "183014",
 "reference_id": 108120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "पौलुस के पत्र",
 "media_type": "Text",
 "index_reference": "पौलुस के पत्र",

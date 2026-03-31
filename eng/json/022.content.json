@@ -2,7 +2,7 @@
 {
 "content_id": "132242",
 "reference_id": 108296,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Vision",
 "media_type": "Text",
 "index_reference": "vision",
@@ -24,9 +24,9 @@
 {
 "id": "keyterm:Vision",
 "type": "keyterm",
-"preferred_label": "Vision",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Vision"
 }
 ]
 }

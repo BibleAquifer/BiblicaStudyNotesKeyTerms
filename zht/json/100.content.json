@@ -2,7 +2,7 @@
 {
 "content_id": "232949",
 "reference_id": 108348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "榮耀",
 "media_type": "Text",
 "index_reference": "榮耀",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Glory"
+}
+]
 }
 }
 ]

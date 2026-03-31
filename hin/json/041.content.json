@@ -2,7 +2,7 @@
 {
 "content_id": "183077",
 "reference_id": 108183,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "संख्याएँ",
 "media_type": "Text",
 "index_reference": "संख्याएँ",
@@ -18,7 +18,7 @@
 {
 "content_id": "183109",
 "reference_id": 108215,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "संसार",
 "media_type": "Text",
 "index_reference": "संसार",
@@ -34,7 +34,7 @@
 {
 "content_id": "182952",
 "reference_id": 108058,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सदूकियों",
 "media_type": "Text",
 "index_reference": "सदूकियों",
@@ -46,11 +46,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Shaul",
+"id": "group:Sadducee",
 "type": "group",
-"preferred_label": "शाऊलियों",
-"confidence": 0.8249,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "सदूकी"
 }
 ]
 }
@@ -58,7 +58,7 @@
 {
 "content_id": "183143",
 "reference_id": 108249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सदोम और गमोरा",
 "media_type": "Text",
 "index_reference": "सदोम और गमोरा",
@@ -68,13 +68,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "गमोरा"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "सदोम"
+}
+]
 }
 },
 {
 "content_id": "183167",
 "reference_id": 108273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सपने",
 "media_type": "Text",
 "index_reference": "सपने",
@@ -90,7 +105,7 @@
 {
 "content_id": "183073",
 "reference_id": 108179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सफेद वस्त्र पहने हुए",
 "media_type": "Text",
 "index_reference": "सफेद वस्त्र पहने हुए",
@@ -106,7 +121,7 @@
 {
 "content_id": "183259",
 "reference_id": 108365,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सबसे पवित्र कमरा",
 "media_type": "Text",
 "index_reference": "सबसे पवित्र कमरा",
@@ -130,7 +145,7 @@
 {
 "content_id": "183164",
 "reference_id": 108270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सबसे बड़े बेटे के अधिकार",
 "media_type": "Text",
 "index_reference": "सबसे बड़े बेटे के अधिकार",
@@ -146,7 +161,7 @@
 {
 "content_id": "183107",
 "reference_id": 108213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सब्त दिवस",
 "media_type": "Text",
 "index_reference": "सब्त दिवस",
@@ -162,7 +177,7 @@
 {
 "content_id": "183139",
 "reference_id": 108245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सभी जातियों को आशीर्वाद दें",
 "media_type": "Text",
 "index_reference": "सभी जातियों को आशीर्वाद दें",
@@ -178,7 +193,7 @@
 {
 "content_id": "182966",
 "reference_id": 108072,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "समुद्र",
 "media_type": "Text",
 "index_reference": "समुद्र",
@@ -194,7 +209,7 @@
 {
 "content_id": "183473",
 "reference_id": 108579,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "समृद्धि सुसमाचार",
 "media_type": "Text",
 "index_reference": "समृद्धि सुसमाचार",
@@ -210,7 +225,7 @@
 {
 "content_id": "183072",
 "reference_id": 108178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सरदीस",
 "media_type": "Text",
 "index_reference": "सरदीस",
@@ -224,9 +239,9 @@
 {
 "id": "place:Sardis",
 "type": "place",
-"preferred_label": "सरदीस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "सरदीस"
 }
 ]
 }
@@ -234,7 +249,7 @@
 {
 "content_id": "183299",
 "reference_id": 108405,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सलोफाद की बेटियाँ",
 "media_type": "Text",
 "index_reference": "सलोफाद की बेटियाँ",
@@ -244,13 +259,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hoglah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "होग्ला"
+},
+{
+"id": "person:Mahlah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "महला"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिल्का"
+},
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नूह"
+},
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तिर्सा"
+}
+]
 }
 },
 {
 "content_id": "183059",
 "reference_id": 108165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सही",
 "media_type": "Text",
 "index_reference": "सही",
@@ -266,7 +317,7 @@
 {
 "content_id": "183006",
 "reference_id": 108112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "साइप्रस",
 "media_type": "Text",
 "index_reference": "साइप्रस",
@@ -280,16 +331,9 @@
 {
 "id": "place:Cyprus",
 "type": "place",
-"preferred_label": "साइप्रस",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Zippor",
-"type": "person",
-"preferred_label": "सिप्पोर",
-"confidence": 0.8114,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "साइप्रस"
 }
 ]
 }
@@ -297,7 +341,7 @@
 {
 "content_id": "183108",
 "reference_id": 108214,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सात",
 "media_type": "Text",
 "index_reference": "सात",
@@ -313,7 +357,7 @@
 {
 "content_id": "183079",
 "reference_id": 108185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सात के समूह",
 "media_type": "Text",
 "index_reference": "सात के समूह",
@@ -329,7 +373,7 @@
 {
 "content_id": "183383",
 "reference_id": 108489,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सामरिया",
 "media_type": "Text",
 "index_reference": "सामरिया",
@@ -341,18 +385,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "सामरिया",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Samaria.2",
 "type": "place",
-"preferred_label": "Samaria",
-"confidence": 0.8843,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samaria"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "सामरिया"
 }
 ]
 }
@@ -360,7 +404,7 @@
 {
 "content_id": "183141",
 "reference_id": 108247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सारा",
 "media_type": "Text",
 "index_reference": "सारा",
@@ -374,9 +418,9 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "सारा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "सारा"
 }
 ]
 }
@@ -384,7 +428,7 @@
 {
 "content_id": "183221",
 "reference_id": 108327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सीनै पहाड़",
 "media_type": "Text",
 "index_reference": "सीनै पहाड़",
@@ -398,23 +442,9 @@
 {
 "id": "place:SinaiMount",
 "type": "place",
-"preferred_label": "सीनै पर्वत",
-"confidence": 0.9765,
-"match_method": "embedding"
-},
-{
-"id": "place:SeirMount",
-"type": "place",
-"preferred_label": "सेईर पर्वत",
-"confidence": 0.811,
-"match_method": "embedding"
-},
-{
-"id": "place:SeirMount.2",
-"type": "place",
-"preferred_label": "सेईर पर्वत",
-"confidence": 0.811,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "सीनै पर्वत"
 }
 ]
 }
@@ -422,7 +452,7 @@
 {
 "content_id": "183222",
 "reference_id": 108328,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सीनै पहाड़ की वाचा",
 "media_type": "Text",
 "index_reference": "सीनै पहाड़ की वाचा",
@@ -438,7 +468,7 @@
 {
 "content_id": "183003",
 "reference_id": 108109,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सीरिया का अन्ताकिया",
 "media_type": "Text",
 "index_reference": "सीरिया का अन्ताकिया",
@@ -448,13 +478,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अन्ताकिया"
+}
+]
 }
 },
 {
 "content_id": "183015",
 "reference_id": 108121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सीलास",
 "media_type": "Text",
 "index_reference": "सीलास",
@@ -468,16 +506,9 @@
 {
 "id": "person:Silas",
 "type": "person",
-"preferred_label": "सीलास",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shilshah",
-"type": "person",
-"preferred_label": "शिलसा",
-"confidence": 0.8218,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "सीलास"
 }
 ]
 }
@@ -485,7 +516,7 @@
 {
 "content_id": "183289",
 "reference_id": 108395,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सीहोन और ओग",
 "media_type": "Text",
 "index_reference": "सीहोन और ओग",
@@ -495,13 +526,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Og",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ओग"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "सीहोन"
+}
+]
 }
 },
 {
 "content_id": "183304",
 "reference_id": 108410,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सुरक्षित शहर",
 "media_type": "Text",
 "index_reference": "सुरक्षित शहर",
@@ -517,7 +563,7 @@
 {
 "content_id": "183367",
 "reference_id": 108473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सुलैमान",
 "media_type": "Text",
 "index_reference": "सुलैमान",
@@ -531,9 +577,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "सुलैमान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "सुलैमान"
 }
 ]
 }
@@ -541,7 +587,7 @@
 {
 "content_id": "182925",
 "reference_id": 108031,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सुसमाचार",
 "media_type": "Text",
 "index_reference": "सुसमाचार",
@@ -565,7 +611,7 @@
 {
 "content_id": "182937",
 "reference_id": 108043,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सुसमाचार",
 "media_type": "Text",
 "index_reference": "सुसमाचार",
@@ -583,13 +629,21 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9692,
+"match_method": "embedding",
+"preferred_label": "Good News"
+}
+]
 }
 },
 {
 "content_id": "183091",
 "reference_id": 108197,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सृष्टि",
 "media_type": "Text",
 "index_reference": "सृष्टि",
@@ -613,7 +667,7 @@
 {
 "content_id": "183272",
 "reference_id": 108378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सेवक",
 "media_type": "Text",
 "index_reference": "सेवक",
@@ -623,13 +677,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericServants",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Servants"
+}
+]
 }
 },
 {
 "content_id": "183076",
 "reference_id": 108182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सोने की वेदी",
 "media_type": "Text",
 "index_reference": "सोने की वेदी",
@@ -653,7 +715,7 @@
 {
 "content_id": "183369",
 "reference_id": 108475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "सोर और सीदोन",
 "media_type": "Text",
 "index_reference": "सोर और सीदोन",
@@ -663,7 +725,29 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Sidon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "सीदोन"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "सीदोन"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "सोर"
+}
+]
 }
 }
 ]

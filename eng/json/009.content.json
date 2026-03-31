@@ -2,7 +2,7 @@
 {
 "content_id": "132205",
 "reference_id": 108259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hagar",
 "media_type": "Text",
 "index_reference": "hagar",
@@ -16,9 +16,9 @@
 {
 "id": "person:Hagar",
 "type": "person",
-"preferred_label": "Hagar",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hagar"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "132456",
 "reference_id": 108510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haggai",
 "media_type": "Text",
 "index_reference": "haggai",
@@ -40,9 +40,9 @@
 {
 "id": "person:Haggai",
 "type": "person",
-"preferred_label": "Haggai",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Haggai"
 }
 ]
 }
@@ -50,7 +50,7 @@
 {
 "content_id": "132188",
 "reference_id": 108242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ham",
 "media_type": "Text",
 "index_reference": "ham",
@@ -64,23 +64,23 @@
 {
 "id": "person:Ham",
 "type": "person",
-"preferred_label": "Ham",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ham"
 },
 {
 "id": "place:Ham.2",
 "type": "place",
-"preferred_label": "Ham",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ham"
 },
 {
 "id": "place:Ammon",
 "type": "place",
-"preferred_label": "Ammon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ammon"
 }
 ]
 }
@@ -88,7 +88,7 @@
 {
 "content_id": "132467",
 "reference_id": 108521,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haman",
 "media_type": "Text",
 "index_reference": "haman",
@@ -102,9 +102,9 @@
 {
 "id": "person:Haman",
 "type": "person",
-"preferred_label": "Haman",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Haman"
 }
 ]
 }
@@ -112,7 +112,7 @@
 {
 "content_id": "132396",
 "reference_id": 108450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hannah",
 "media_type": "Text",
 "index_reference": "hannah",
@@ -126,9 +126,9 @@
 {
 "id": "person:Hannah",
 "type": "person",
-"preferred_label": "Hannah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hannah"
 }
 ]
 }
@@ -136,7 +136,7 @@
 {
 "content_id": "132365",
 "reference_id": 108419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heart",
 "media_type": "Text",
 "index_reference": "heart",
@@ -150,9 +150,9 @@
 {
 "id": "keyterm:Heart",
 "type": "keyterm",
-"preferred_label": "Heart",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Heart"
 }
 ]
 }
@@ -160,7 +160,7 @@
 {
 "content_id": "132147",
 "reference_id": 108201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heaven",
 "media_type": "Text",
 "index_reference": "heaven",
@@ -191,7 +191,7 @@
 {
 "content_id": "132475",
 "reference_id": 108529,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heavenly world",
 "media_type": "Text",
 "index_reference": "heavenly world",
@@ -222,7 +222,7 @@
 {
 "content_id": "132478",
 "reference_id": 108532,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hebrew",
 "media_type": "Text",
 "index_reference": "hebrew",
@@ -253,7 +253,7 @@
 {
 "content_id": "132020",
 "reference_id": 108074,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hell",
 "media_type": "Text",
 "index_reference": "hell",
@@ -267,9 +267,9 @@
 {
 "id": "place:Hell",
 "type": "place",
-"preferred_label": "Hell",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hell"
 }
 ]
 }
@@ -277,7 +277,7 @@
 {
 "content_id": "132056",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herod Agrippa I",
 "media_type": "Text",
 "index_reference": "herod agrippa i",
@@ -291,9 +291,9 @@
 {
 "id": "person:Agrippa",
 "type": "person",
-"preferred_label": "Agrippa",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Agrippa"
 }
 ]
 }
@@ -301,7 +301,7 @@
 {
 "content_id": "132085",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herod Agrippa II",
 "media_type": "Text",
 "index_reference": "herod agrippa ii",
@@ -315,9 +315,9 @@
 {
 "id": "person:Herod.3",
 "type": "person",
-"preferred_label": "Herod",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Herod"
 }
 ]
 }
@@ -325,7 +325,7 @@
 {
 "content_id": "132003",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herod Antipas",
 "media_type": "Text",
 "index_reference": "herod antipas",
@@ -339,9 +339,9 @@
 {
 "id": "person:Herod.2",
 "type": "person",
-"preferred_label": "Herod Antipas",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Herod Antipas"
 }
 ]
 }
@@ -349,7 +349,7 @@
 {
 "content_id": "132504",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herod the Great",
 "media_type": "Text",
 "index_reference": "herod the great",
@@ -363,9 +363,9 @@
 {
 "id": "person:Herod",
 "type": "person",
-"preferred_label": "Herod",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Herod"
 }
 ]
 }
@@ -373,7 +373,7 @@
 {
 "content_id": "132008",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodians",
 "media_type": "Text",
 "index_reference": "herodians",
@@ -387,9 +387,9 @@
 {
 "id": "group:Herodian",
 "type": "group",
-"preferred_label": "Herodians",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Herodians"
 }
 ]
 }
@@ -397,7 +397,7 @@
 {
 "content_id": "132442",
 "reference_id": 108496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hezekiah",
 "media_type": "Text",
 "index_reference": "hezekiah",
@@ -411,30 +411,30 @@
 {
 "id": "person:Hezekiah.2",
 "type": "person",
-"preferred_label": "Hezekiah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
 },
 {
 "id": "person:Hezekiah.3",
 "type": "person",
-"preferred_label": "Hezekiah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
 },
 {
 "id": "person:Hezekiah.4",
 "type": "person",
-"preferred_label": "Hezekiah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
 },
 {
 "id": "person:Hezekiah",
 "type": "person",
-"preferred_label": "Hezekiah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hezekiah"
 }
 ]
 }
@@ -442,7 +442,7 @@
 {
 "content_id": "132445",
 "reference_id": 108499,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "High places",
 "media_type": "Text",
 "index_reference": "high places",
@@ -458,7 +458,7 @@
 {
 "content_id": "132314",
 "reference_id": 108368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "High priest",
 "media_type": "Text",
 "index_reference": "high priest",
@@ -474,7 +474,7 @@
 {
 "content_id": "132373",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hivites",
 "media_type": "Text",
 "index_reference": "hivites",
@@ -488,9 +488,9 @@
 {
 "id": "group:Hivites",
 "type": "group",
-"preferred_label": "Hivites",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hivites"
 }
 ]
 }
@@ -498,7 +498,7 @@
 {
 "content_id": "132333",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hobab",
 "media_type": "Text",
 "index_reference": "hobab",
@@ -512,9 +512,9 @@
 {
 "id": "person:Hobab",
 "type": "person",
-"preferred_label": "Hobab",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hobab"
 }
 ]
 }
@@ -522,7 +522,7 @@
 {
 "content_id": "132307",
 "reference_id": 108361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Holy",
 "media_type": "Text",
 "index_reference": "holy",
@@ -536,9 +536,9 @@
 {
 "id": "keyterm:Holy",
 "type": "keyterm",
-"preferred_label": "Holy",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Holy"
 }
 ]
 }
@@ -546,7 +546,7 @@
 {
 "content_id": "131990",
 "reference_id": 108044,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Holy living",
 "media_type": "Text",
 "index_reference": "holy living",
@@ -562,7 +562,7 @@
 {
 "content_id": "132334",
 "reference_id": 108388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Holy Spirit",
 "media_type": "Text",
 "index_reference": "holy spirit",
@@ -576,9 +576,9 @@
 {
 "id": "deity:HolySpirit",
 "type": "deity",
-"preferred_label": "Holy Spirit",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Holy Spirit"
 }
 ]
 }
@@ -586,7 +586,7 @@
 {
 "content_id": "132280",
 "reference_id": 108334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Holy tent",
 "media_type": "Text",
 "index_reference": "holy tent",
@@ -600,9 +600,9 @@
 {
 "id": "realia:Tabernacle",
 "type": "realia",
-"preferred_label": "Tabernacle",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
 }
 ]
 }
@@ -610,7 +610,7 @@
 {
 "content_id": "132516",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hosea",
 "media_type": "Text",
 "index_reference": "hosea",
@@ -624,9 +624,9 @@
 {
 "id": "person:Hosea",
 "type": "person",
-"preferred_label": "Hosea",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hosea"
 }
 ]
 }
@@ -634,7 +634,7 @@
 {
 "content_id": "132148",
 "reference_id": 108202,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Human beings",
 "media_type": "Text",
 "index_reference": "human beings",

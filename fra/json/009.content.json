@@ -2,7 +2,7 @@
 {
 "content_id": "133815",
 "reference_id": 108563,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gabriel",
 "media_type": "Text",
 "index_reference": "gabriel",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Gabriel",
 "type": "deity",
-"preferred_label": "Gabriel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gabriel"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "133660",
 "reference_id": 108408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gad",
 "media_type": "Text",
 "index_reference": "gad",
@@ -36,13 +36,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+}
+]
 }
 },
 {
 "content_id": "133693",
 "reference_id": 108441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galaad",
 "media_type": "Text",
 "index_reference": "galaad",
@@ -54,32 +69,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gilead",
-"type": "person",
-"preferred_label": "Galaad",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gilead.2",
 "type": "person",
-"preferred_label": "Galaad",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galaad"
 },
 {
 "id": "person:Gilead.3",
 "type": "person",
-"preferred_label": "Galaad",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galaad"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galaad"
 },
 {
 "id": "place:Gilead",
 "type": "place",
-"preferred_label": "Galaad",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galaad"
 }
 ]
 }
@@ -87,7 +102,7 @@
 {
 "content_id": "133374",
 "reference_id": 108122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galatie",
 "media_type": "Text",
 "index_reference": "galatie",
@@ -101,9 +116,9 @@
 {
 "id": "place:Galatia",
 "type": "place",
-"preferred_label": "Galatie",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galatie"
 }
 ]
 }
@@ -111,7 +126,7 @@
 {
 "content_id": "133288",
 "reference_id": 108036,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galilée",
 "media_type": "Text",
 "index_reference": "galilée",
@@ -125,16 +140,9 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"preferred_label": "Galilée",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "group:Galilee",
-"type": "group",
-"preferred_label": "Galiléen",
-"confidence": 0.8143,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galilée"
 }
 ]
 }
@@ -142,7 +150,7 @@
 {
 "content_id": "133351",
 "reference_id": 108099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gamaliel",
 "media_type": "Text",
 "index_reference": "gamaliel",
@@ -154,18 +162,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gamaliel",
+"id": "person:Gamaliel.2",
 "type": "person",
-"preferred_label": "Gamaliel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gamliel"
 },
 {
-"id": "person:Gemalli",
+"id": "person:Gamaliel",
 "type": "person",
-"preferred_label": "Guemalli",
-"confidence": 0.8458,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
 }
 ]
 }
@@ -173,7 +181,7 @@
 {
 "content_id": "133689",
 "reference_id": 108437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gédéon",
 "media_type": "Text",
 "index_reference": "gédéon",
@@ -187,9 +195,9 @@
 {
 "id": "person:Gideon",
 "type": "person",
-"preferred_label": "Gédéon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gédéon"
 }
 ]
 }
@@ -197,7 +205,7 @@
 {
 "content_id": "133334",
 "reference_id": 108082,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Géraséniens",
 "media_type": "Text",
 "index_reference": "géraséniens",
@@ -207,21 +215,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Hagri",
-"type": "person",
-"preferred_label": "Hagaréniens",
-"confidence": 0.8223,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "133600",
 "reference_id": 108348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gloire",
 "media_type": "Text",
 "index_reference": "gloire",
@@ -235,9 +235,9 @@
 {
 "id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "gloire",
-"confidence": 0.8363,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "gloire"
 }
 ]
 }
@@ -245,7 +245,7 @@
 {
 "content_id": "133549",
 "reference_id": 108297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Goshen",
 "media_type": "Text",
 "index_reference": "goshen",
@@ -255,13 +255,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gosen"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gosen"
+}
+]
 }
 },
 {
 "content_id": "133487",
 "reference_id": 108235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grâce",
 "media_type": "Text",
 "index_reference": "grâce",
@@ -271,21 +286,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Favor",
-"type": "keyterm",
-"preferred_label": "grâce",
-"confidence": 0.8652,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "133620",
 "reference_id": 108368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grand prêtre",
 "media_type": "Text",
 "index_reference": "grand prêtre",
@@ -301,7 +308,7 @@
 {
 "content_id": "133437",
 "reference_id": 108185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Groupes de sept",
 "media_type": "Text",
 "index_reference": "groupes de sept",
@@ -317,7 +324,7 @@
 {
 "content_id": "133674",
 "reference_id": 108422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Guilgal",
 "media_type": "Text",
 "index_reference": "guilgal",
@@ -327,7 +334,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilée"
+}
+]
 }
 }
 ]

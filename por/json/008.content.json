@@ -2,7 +2,7 @@
 {
 "content_id": "146072",
 "reference_id": 108563,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gabriel",
 "media_type": "Text",
 "index_reference": "gabriel",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Gabriel",
 "type": "deity",
-"preferred_label": "Gabriel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gabriel"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "145917",
 "reference_id": 108408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gade",
 "media_type": "Text",
 "index_reference": "gade",
@@ -38,18 +38,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gad",
-"type": "person",
-"preferred_label": "Gade",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gad.2",
 "type": "person",
-"preferred_label": "Gade",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gade"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gade"
 }
 ]
 }
@@ -57,7 +57,7 @@
 {
 "content_id": "145631",
 "reference_id": 108122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galácia",
 "media_type": "Text",
 "index_reference": "galácia",
@@ -71,9 +71,9 @@
 {
 "id": "place:Galatia",
 "type": "place",
-"preferred_label": "Galácia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galácia"
 }
 ]
 }
@@ -81,7 +81,7 @@
 {
 "content_id": "145545",
 "reference_id": 108036,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galileia",
 "media_type": "Text",
 "index_reference": "galileia ",
@@ -95,9 +95,9 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"preferred_label": "Galileia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galileia"
 }
 ]
 }
@@ -105,7 +105,7 @@
 {
 "content_id": "145608",
 "reference_id": 108099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gamaliel",
 "media_type": "Text",
 "index_reference": "gamaliel",
@@ -117,18 +117,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gamaliel",
-"type": "person",
-"preferred_label": "Gamaliel",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gamaliel.2",
 "type": "person",
-"preferred_label": "Gamaliel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
+},
+{
+"id": "person:Gamaliel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
 }
 ]
 }
@@ -136,7 +136,7 @@
 {
 "content_id": "146056",
 "reference_id": 108547,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gentios",
 "media_type": "Text",
 "index_reference": "gentios",
@@ -154,13 +154,21 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
 "content_id": "145591",
 "reference_id": 108082,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gerasenos",
 "media_type": "Text",
 "index_reference": "gerasenos",
@@ -176,7 +184,7 @@
 {
 "content_id": "145946",
 "reference_id": 108437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gideão",
 "media_type": "Text",
 "index_reference": "gideão",
@@ -190,16 +198,9 @@
 {
 "id": "person:Gideon",
 "type": "person",
-"preferred_label": "Gideão",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Gibeon",
-"type": "place",
-"preferred_label": "Gibeão",
-"confidence": 0.8437,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gideão"
 }
 ]
 }
@@ -207,7 +208,7 @@
 {
 "content_id": "145950",
 "reference_id": 108441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gileade",
 "media_type": "Text",
 "index_reference": "gileade",
@@ -219,32 +220,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gilead",
-"type": "person",
-"preferred_label": "Gileade",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gilead.2",
 "type": "person",
-"preferred_label": "Gileade",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gileade"
 },
 {
 "id": "person:Gilead.3",
 "type": "person",
-"preferred_label": "Gileade",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gileade"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gileade"
 },
 {
 "id": "place:Gilead",
 "type": "place",
-"preferred_label": "Gileade",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gileade"
 }
 ]
 }
@@ -252,7 +253,7 @@
 {
 "content_id": "145931",
 "reference_id": 108422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilgal",
 "media_type": "Text",
 "index_reference": "gilgal",
@@ -264,25 +265,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Gilgal.3",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Gilgal.4",
 "type": "place",
-"preferred_label": "Gilgal",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galileia"
 }
 ]
 }
@@ -290,7 +284,7 @@
 {
 "content_id": "145857",
 "reference_id": 108348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Glória",
 "media_type": "Text",
 "index_reference": "glória",
@@ -300,13 +294,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Glory"
+}
+]
 }
 },
 {
 "content_id": "145806",
 "reference_id": 108297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gósen",
 "media_type": "Text",
 "index_reference": "gósen",
@@ -318,18 +320,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Goshen",
-"type": "place",
-"preferred_label": "Gósen",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Goshen.2",
 "type": "place",
-"preferred_label": "Gósen",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gósen"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gósen"
 }
 ]
 }
@@ -337,7 +339,7 @@
 {
 "content_id": "145718",
 "reference_id": 108209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Governantes",
 "media_type": "Text",
 "index_reference": "governantes",
@@ -347,13 +349,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericRulers",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Rulers"
+}
+]
 }
 },
 {
 "content_id": "145744",
 "reference_id": 108235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Graça",
 "media_type": "Text",
 "index_reference": "graça",
@@ -369,7 +379,7 @@
 {
 "content_id": "145703",
 "reference_id": 108194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grécia",
 "media_type": "Text",
 "index_reference": "grécia",
@@ -383,9 +393,9 @@
 {
 "id": "place:Greece",
 "type": "place",
-"preferred_label": "Grécia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Grécia"
 }
 ]
 }
@@ -393,7 +403,7 @@
 {
 "content_id": "145694",
 "reference_id": 108185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grupos de sete",
 "media_type": "Text",
 "index_reference": "grupos de sete",

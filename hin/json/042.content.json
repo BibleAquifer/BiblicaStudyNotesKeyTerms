@@ -2,7 +2,7 @@
 {
 "content_id": "182995",
 "reference_id": 108101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "स्तिफनुस",
 "media_type": "Text",
 "index_reference": "स्तिफनुस",
@@ -16,16 +16,9 @@
 {
 "id": "person:Stephen",
 "type": "person",
-"preferred_label": "स्तिफनुस",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Stephanas",
-"type": "person",
-"preferred_label": "स्तिफनास",
-"confidence": 0.9436,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "स्तिफनुस"
 }
 ]
 }
@@ -33,7 +26,7 @@
 {
 "content_id": "183025",
 "reference_id": 108131,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "स्तोईकी",
 "media_type": "Text",
 "index_reference": "स्तोईकी",
@@ -47,9 +40,9 @@
 {
 "id": "group:Stoic",
 "type": "group",
-"preferred_label": "स्तोईकी",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "स्तोईकी"
 }
 ]
 }

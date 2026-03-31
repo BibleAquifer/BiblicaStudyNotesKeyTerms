@@ -2,7 +2,7 @@
 {
 "content_id": "367911",
 "reference_id": 108420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jaji",
 "media_type": "Text",
 "index_reference": "jaji",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Judge"
+}
+]
 }
 },
 {
 "content_id": "367754",
 "reference_id": 108263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jaribio",
 "media_type": "Text",
 "index_reference": "jaribio",
@@ -34,7 +42,7 @@
 {
 "content_id": "367565",
 "reference_id": 108074,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jehanamu",
 "media_type": "Text",
 "index_reference": "jehanamu",
@@ -46,53 +54,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Jeroham",
-"type": "person",
-"preferred_label": "Yerohamu",
-"confidence": 0.8021,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeroham.2",
-"type": "person",
-"preferred_label": "Yerohamu",
-"confidence": 0.8021,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeroham.3",
-"type": "person",
-"preferred_label": "Yerohamu",
-"confidence": 0.8021,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeroham.4",
-"type": "person",
-"preferred_label": "Yerohamu",
-"confidence": 0.8021,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeroham.5",
-"type": "person",
-"preferred_label": "Yerohamu",
-"confidence": 0.8021,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeroham.6",
-"type": "person",
-"preferred_label": "Yerohamu",
-"confidence": 0.8021,
-"match_method": "embedding"
-},
-{
-"id": "person:Jeroham.7",
-"type": "person",
-"preferred_label": "Yerohamu",
-"confidence": 0.8021,
-"match_method": "embedding"
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
 }
 ]
 }
@@ -100,7 +66,7 @@
 {
 "content_id": "367716",
 "reference_id": 108225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jina",
 "media_type": "Text",
 "index_reference": "jina",
@@ -114,9 +80,16 @@
 {
 "id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "Name",
-"confidence": 0.9577,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Name"
+},
+{
+"id": "person:Naam",
+"type": "person",
+"confidence": 0.964,
+"match_method": "embedding",
+"preferred_label": "Naamu"
 }
 ]
 }
@@ -124,7 +97,7 @@
 {
 "content_id": "367861",
 "reference_id": 108370,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jirani",
 "media_type": "Text",
 "index_reference": "jirani",
@@ -148,7 +121,7 @@
 {
 "content_id": "367999",
 "reference_id": 108508,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Joshua na Zerubabeli",
 "media_type": "Text",
 "index_reference": "joshua na zerubabeli",
@@ -158,7 +131,57 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yoshua"
+},
+{
+"id": "person:Joshua.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yoshua"
+},
+{
+"id": "person:Joshua.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yoshua"
+},
+{
+"id": "person:Joshua.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yoshua"
+},
+{
+"id": "person:Joshua",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yoshua"
+},
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zerubabeli"
+},
+{
+"id": "person:Zerubbabel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zerubabeli"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "232742",
 "reference_id": 108141,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "阿爸",
 "media_type": "Text",
 "index_reference": "阿爸",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "232771",
 "reference_id": 108170,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "阿拉法和俄梅戛",
 "media_type": "Text",
 "index_reference": "阿拉法和俄梅戛",
@@ -34,7 +42,7 @@
 {
 "content_id": "232792",
 "reference_id": 108191,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "阿們",
 "media_type": "Text",
 "index_reference": "阿們",
@@ -44,13 +52,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Amon",
+"type": "deity",
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "Amon"
+},
+{
+"id": "person:Amon.2",
+"type": "person",
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "Amon"
+},
+{
+"id": "person:Amon.3",
+"type": "person",
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "Amon"
+}
+]
 }
 },
 {
 "content_id": "233163",
 "reference_id": 108562,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "阿摩司",
 "media_type": "Text",
 "index_reference": "阿摩司",
@@ -60,13 +90,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Amos.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amos"
+},
+{
+"id": "person:Amos.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amos"
+},
+{
+"id": "person:Amon.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amon"
+}
+]
 }
 },
 {
 "content_id": "232762",
 "reference_id": 108161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "阿尼西謀",
 "media_type": "Text",
 "index_reference": "阿尼西謀",
@@ -76,7 +128,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Onesimus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Onesimus"
+}
+]
 }
 }
 ]

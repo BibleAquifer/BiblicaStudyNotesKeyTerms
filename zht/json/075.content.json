@@ -2,7 +2,7 @@
 {
 "content_id": "232845",
 "reference_id": 108244,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "美索不達米亞",
 "media_type": "Text",
 "index_reference": "美索不達米亞",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mesopotamia"
+}
+]
 }
 }
 ]

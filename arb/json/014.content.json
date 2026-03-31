@@ -2,7 +2,7 @@
 {
 "content_id": "134143",
 "reference_id": 108341,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العجل الذهبي",
 "media_type": "Text",
 "index_reference": "العجل الذهبي",
@@ -26,7 +26,7 @@
 {
 "content_id": "133950",
 "reference_id": 108148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العشاء الرباني",
 "media_type": "Text",
 "index_reference": "العشاء الرباني",
@@ -42,10 +42,10 @@
 {
 "content_id": "133851",
 "reference_id": 108049,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العشار (جابي الضرائب)",
 "media_type": "Text",
-"index_reference": "العشار (جابي الضرائب)",
+"index_reference": "العشار جابي الضرائب",
 "language": "arb",
 "review_level": "None",
 "content": "<p>اليهود في زمن يسوع الذين كانوا يجمعون المال للحكومة الرومانية. لم يكن العديد من جباة الضرائب أمناء. كانوا يجبرون الناس أن يعطونهم أموالاً أكثر مما هو مطلوب. كان جباة الضرائب يحتفظون بالمال الإضافي لأنفسهم. كره معظم اليهود جباة الضرائب لقيامهم بذلك. كانوا يكرهونهم لأنهم كانوا يعملون لصالح الرومان. غالبًا ما كان جباة الضرائب يُعاملون كغرباء. (<span data-bnType=\"resourceReference\" data-resourceId=\"108369\" data-resourceType=\"BiblicaStudyNotesKeyTerms\">الغرباء</span>)</p>",
@@ -60,13 +60,28 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.986,
+"match_method": "embedding",
+"preferred_label": "Tax Collector"
+},
+{
+"id": "group:TaxCollectors",
+"type": "group",
+"confidence": 0.8299,
+"match_method": "embedding",
+"preferred_label": "Tax Collectors"
+}
+]
 }
 },
 {
 "content_id": "134330",
 "reference_id": 108528,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العهد الجديد",
 "media_type": "Text",
 "index_reference": "العهد الجديد",
@@ -82,7 +97,7 @@
 {
 "content_id": "134355",
 "reference_id": 108553,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العهد الجديد",
 "media_type": "Text",
 "index_reference": "العهد الجديد",
@@ -98,7 +113,7 @@
 {
 "content_id": "133994",
 "reference_id": 108192,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العهد القديم",
 "media_type": "Text",
 "index_reference": "العهد القديم",
@@ -114,7 +129,7 @@
 {
 "content_id": "134055",
 "reference_id": 108253,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العهد مع إبراهيم",
 "media_type": "Text",
 "index_reference": "العهد مع إبراهيم",
@@ -130,7 +145,7 @@
 {
 "content_id": "134268",
 "reference_id": 108466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العهد مع داود",
 "media_type": "Text",
 "index_reference": "العهد مع داود",
@@ -154,7 +169,7 @@
 {
 "content_id": "134040",
 "reference_id": 108238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "العهد مع نوح",
 "media_type": "Text",
 "index_reference": "العهد مع نوح",
@@ -170,7 +185,7 @@
 {
 "content_id": "133847",
 "reference_id": 108045,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عائلة الله",
 "media_type": "Text",
 "index_reference": "عائلة الله",
@@ -186,7 +201,7 @@
 {
 "content_id": "134017",
 "reference_id": 108215,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عالم",
 "media_type": "Text",
 "index_reference": "عالم",
@@ -202,7 +217,7 @@
 {
 "content_id": "134331",
 "reference_id": 108529,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عالم سماوي",
 "media_type": "Text",
 "index_reference": "عالم سماوي",
@@ -233,7 +248,7 @@
 {
 "content_id": "134253",
 "reference_id": 108451,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عالي الكاهن",
 "media_type": "Text",
 "index_reference": "عالي الكاهن",
@@ -243,13 +258,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Eli",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَالِي"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 },
 {
 "content_id": "134364",
 "reference_id": 108562,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عاموس",
 "media_type": "Text",
 "index_reference": "عاموس",
@@ -259,13 +289,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Amos.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَاموس"
+},
+{
+"id": "person:Amos.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَاموس"
+},
+{
+"id": "person:Amon.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "آمون"
+}
+]
 }
 },
 {
 "content_id": "134227",
 "reference_id": 108425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عاي",
 "media_type": "Text",
 "index_reference": "عاي",
@@ -275,13 +327,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Ai.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَايٍ"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَايٍ"
+}
+]
 }
 },
 {
 "content_id": "134134",
 "reference_id": 108332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عبادة الله وحده",
 "media_type": "Text",
 "index_reference": "عبادة الله وحده",
@@ -297,7 +364,7 @@
 {
 "content_id": "134346",
 "reference_id": 108544,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عبد الرب",
 "media_type": "Text",
 "index_reference": "عبد الرب",
@@ -313,7 +380,7 @@
 {
 "content_id": "134334",
 "reference_id": 108532,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عَبرانيون",
 "media_type": "Text",
 "index_reference": "عَبرانيون",
@@ -344,7 +411,7 @@
 {
 "content_id": "134060",
 "reference_id": 108258,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عبيد",
 "media_type": "Text",
 "index_reference": "عبيد",
@@ -360,7 +427,7 @@
 {
 "content_id": "134292",
 "reference_id": 108490,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عثليا",
 "media_type": "Text",
 "index_reference": "عثليا",
@@ -370,13 +437,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Athaliah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَثَلْيَا"
+},
+{
+"id": "person:Athaliah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَثَلْيَا"
+},
+{
+"id": "person:Athaliah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَثَلْيَا"
+}
+]
 }
 },
 {
 "content_id": "134233",
 "reference_id": 108431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عثنيئيل",
 "media_type": "Text",
 "index_reference": "عثنيئيل",
@@ -386,13 +475,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Othniel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عثْنِيئِيل"
+}
+]
 }
 },
 {
 "content_id": "134228",
 "reference_id": 108426,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عَخَان",
 "media_type": "Text",
 "index_reference": "عَخَان",
@@ -406,23 +503,9 @@
 {
 "id": "person:Achan",
 "type": "person",
-"preferred_label": "عَخَان",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Akan",
-"type": "person",
-"preferred_label": "عَقَان",
-"confidence": 0.8791,
-"match_method": "embedding"
-},
-{
-"id": "person:Aran",
-"type": "person",
-"preferred_label": "أَرَان",
-"confidence": 0.8186,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "عَخَان"
 }
 ]
 }
@@ -430,7 +513,7 @@
 {
 "content_id": "134263",
 "reference_id": 108461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عِرَافَةً",
 "media_type": "Text",
 "index_reference": "عِرَافَةً",
@@ -446,7 +529,7 @@
 {
 "content_id": "134315",
 "reference_id": 108513,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عَزْرا",
 "media_type": "Text",
 "index_reference": "عَزْرا",
@@ -458,102 +541,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ezer",
+"id": "person:Ezra.2",
 "type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8676,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer.2",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8676,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer.3",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8676,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer.4",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8676,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer.5",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8676,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezer.6",
-"type": "person",
-"preferred_label": "عَازَر",
-"confidence": 0.8676,
-"match_method": "embedding"
-},
-{
-"id": "person:Azzur",
-"type": "person",
-"preferred_label": "عَزورَ",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Azzur.2",
-"type": "person",
-"preferred_label": "عَزورَ",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Azzur.3",
-"type": "person",
-"preferred_label": "عَزورَ",
-"confidence": 0.8412,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَزْرَا"
 },
 {
 "id": "person:Ezra",
 "type": "person",
-"preferred_label": "عَزْرَا",
-"confidence": 0.8215,
-"match_method": "embedding"
-},
-{
-"id": "person:Ezra.2",
-"type": "person",
-"preferred_label": "عَزْرَا",
-"confidence": 0.8215,
-"match_method": "embedding"
-},
-{
-"id": "person:Ira",
-"type": "person",
-"preferred_label": "عِيرَا",
-"confidence": 0.8057,
-"match_method": "embedding"
-},
-{
-"id": "person:Ira.2",
-"type": "person",
-"preferred_label": "عِيرَا",
-"confidence": 0.8057,
-"match_method": "embedding"
-},
-{
-"id": "person:Ira.3",
-"type": "person",
-"preferred_label": "عِيرَا",
-"confidence": 0.8057,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَزْرَا"
 }
 ]
 }
@@ -561,7 +560,7 @@
 {
 "content_id": "134231",
 "reference_id": 108429,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عشتاروث",
 "media_type": "Text",
 "index_reference": "عشتاروث",
@@ -571,13 +570,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Ashtoreth",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "عَشْتورَثَ"
+}
+]
 }
 },
 {
 "content_id": "134184",
 "reference_id": 108382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عشور",
 "media_type": "Text",
 "index_reference": "عشور",
@@ -593,7 +600,7 @@
 {
 "content_id": "134111",
 "reference_id": 108309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عصا هارون",
 "media_type": "Text",
 "index_reference": "عصا هارون",
@@ -609,7 +616,7 @@
 {
 "content_id": "134126",
 "reference_id": 108324,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عَماليق",
 "media_type": "Text",
 "index_reference": "عَماليق",
@@ -621,11 +628,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Amal",
-"type": "person",
-"preferred_label": "عَامَال",
-"confidence": 0.8239,
-"match_method": "embedding"
+"id": "group:Amalek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amalekites"
 }
 ]
 }
@@ -633,7 +640,7 @@
 {
 "content_id": "134340",
 "reference_id": 108538,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عَمانوئيل",
 "media_type": "Text",
 "index_reference": "عَمانوئيل",
@@ -643,13 +650,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "يَسوع"
+}
+]
 }
 },
 {
 "content_id": "134010",
 "reference_id": 108208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عمل",
 "media_type": "Text",
 "index_reference": "عمل",
@@ -667,13 +682,21 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Work",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Work"
+}
+]
 }
 },
 {
 "content_id": "134214",
 "reference_id": 108412,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عَمُّونِيِّينَ",
 "media_type": "Text",
 "index_reference": "عَمُّونِيِّينَ",
@@ -685,11 +708,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ammizabad",
-"type": "person",
-"preferred_label": "عَمِّيزَابَاد",
-"confidence": 0.802,
-"match_method": "embedding"
+"id": "group:Ammon",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ammonites"
 }
 ]
 }
@@ -697,23 +720,31 @@
 {
 "content_id": "134113",
 "reference_id": 108311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عنيد (صلب الرقبة)",
 "media_type": "Text",
-"index_reference": "عنيد (صلب الرقبة)",
+"index_reference": "عنيد صلب الرقبة",
 "language": "arb",
 "review_level": "None",
 "content": "<p>إنها طريقة لوصف الأشخاص الذين يرفضون الاستماع إلى الله أو طاعته. ويُقدم الكتاب المقدس أمثلة على الأشخاص الذين يختارون أن يكونوا بهذه الطريقة. كما أنه يذكر أمثلة لأشخاص قد قسّي الله قلبهم. لقد حدث ذلك مع فرعون خلال الخروج. كما حدث عندما هاجم الكنعانيون جيش يشوع. إن هذا لا يعني أن الله يتسبب في عدم إيمان بعض الناس به. فلقد أظهر كل من فرعون وجيوش الكنعانيين، أنهم قد رفضوا الإيمان بالله. وكانوا مُصمّمين على مقاومة ورفض ما أراد الله تحقيقه. لكن الله تأكّد من أن ما أراد تحقيقه قد تحقق. وقد استخدم مدى عنادهم ورفضهم كوسيلة لإتمام مقاصده وخططه.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Stubborn",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Stubborn"
+}
+]
 }
 },
 {
 "content_id": "134039",
 "reference_id": 108237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عهد",
 "media_type": "Text",
 "index_reference": "عهد",
@@ -723,13 +754,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Covenant"
+}
+]
 }
 },
 {
 "content_id": "134130",
 "reference_id": 108328,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عهد جبل سيناء",
 "media_type": "Text",
 "index_reference": "عهد جبل سيناء",
@@ -745,7 +784,7 @@
 {
 "content_id": "133867",
 "reference_id": 108065,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عودة المسيح",
 "media_type": "Text",
 "index_reference": "عودة المسيح",
@@ -761,7 +800,7 @@
 {
 "content_id": "134178",
 "reference_id": 108376,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عيد الأبواق",
 "media_type": "Text",
 "index_reference": "عيد الأبواق",
@@ -777,7 +816,7 @@
 {
 "content_id": "134119",
 "reference_id": 108317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عيد الفصح",
 "media_type": "Text",
 "index_reference": "عيد الفصح",
@@ -793,7 +832,7 @@
 {
 "content_id": "134175",
 "reference_id": 108373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عيد الفطير",
 "media_type": "Text",
 "index_reference": "عيد الفطير",
@@ -809,7 +848,7 @@
 {
 "content_id": "134325",
 "reference_id": 108523,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عيد الفوريم",
 "media_type": "Text",
 "index_reference": "عيد الفوريم",
@@ -825,7 +864,7 @@
 {
 "content_id": "134179",
 "reference_id": 108377,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عِيد المَظَال",
 "media_type": "Text",
 "index_reference": "عِيد المَظَال",
@@ -841,7 +880,7 @@
 {
 "content_id": "134071",
 "reference_id": 108269,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "عِيسو",
 "media_type": "Text",
 "index_reference": "عِيسو",
@@ -853,11 +892,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:EsauMount",
-"type": "place",
-"preferred_label": "عِيسو",
+"id": "person:Esau",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "عِيسوَ"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "132337",
 "reference_id": 108391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kadesh Barnea",
 "media_type": "Text",
 "index_reference": "kadesh barnea",
@@ -16,9 +16,9 @@
 {
 "id": "place:Kadesh-barnea",
 "type": "place",
-"preferred_label": "Kadesh-barnea",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Kadesh-barnea"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "132276",
 "reference_id": 108330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "King",
 "media_type": "Text",
 "index_reference": "king",
@@ -42,7 +42,7 @@
 {
 "content_id": "132507",
 "reference_id": 108561,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kingdom of God",
 "media_type": "Text",
 "index_reference": "kingdom of god",
@@ -66,7 +66,7 @@
 {
 "content_id": "132283",
 "reference_id": 108337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kingdom of priests",
 "media_type": "Text",
 "index_reference": "kingdom of priests",
@@ -82,7 +82,7 @@
 {
 "content_id": "132339",
 "reference_id": 108393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Korah",
 "media_type": "Text",
 "index_reference": "korah",
@@ -96,30 +96,30 @@
 {
 "id": "person:Korah.2",
 "type": "person",
-"preferred_label": "Korah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Korah"
 },
 {
 "id": "person:Korah.3",
 "type": "person",
-"preferred_label": "Korah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Korah"
 },
 {
 "id": "person:Korah.4",
 "type": "person",
-"preferred_label": "Korah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Korah"
 },
 {
 "id": "person:Korah",
 "type": "person",
-"preferred_label": "Korah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Korah"
 }
 ]
 }

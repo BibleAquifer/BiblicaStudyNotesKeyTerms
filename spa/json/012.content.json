@@ -2,7 +2,7 @@
 {
 "content_id": "232240",
 "reference_id": 108271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La bendición del padre",
 "media_type": "Text",
 "index_reference": "la bendición del padre",
@@ -18,7 +18,7 @@
 {
 "content_id": "232014",
 "reference_id": 108045,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La familia de Dios",
 "media_type": "Text",
 "index_reference": "la familia de dios",
@@ -34,7 +34,7 @@
 {
 "content_id": "232384",
 "reference_id": 108415,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La herramienta de Dios",
 "media_type": "Text",
 "index_reference": "la herramienta de dios",
@@ -50,7 +50,7 @@
 {
 "content_id": "232469",
 "reference_id": 108500,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La ira de Dios",
 "media_type": "Text",
 "index_reference": "la ira de dios",
@@ -66,7 +66,7 @@
 {
 "content_id": "232116",
 "reference_id": 108147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La ley de Cristo",
 "media_type": "Text",
 "index_reference": "la ley de cristo",
@@ -82,7 +82,7 @@
 {
 "content_id": "232169",
 "reference_id": 108200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "La palabra de Dios",
 "media_type": "Text",
 "index_reference": "la palabra de dios",
@@ -106,7 +106,7 @@
 {
 "content_id": "232243",
 "reference_id": 108274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laban",
 "media_type": "Text",
 "index_reference": "laban",
@@ -120,16 +120,16 @@
 {
 "id": "person:Laban",
 "type": "person",
-"preferred_label": "Labán",
-"confidence": 0.8737,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Labán"
 },
 {
 "id": "place:Laban",
 "type": "place",
-"preferred_label": "Labán",
-"confidence": 0.8737,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Labán"
 }
 ]
 }
@@ -137,7 +137,7 @@
 {
 "content_id": "232131",
 "reference_id": 108162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laodicea",
 "media_type": "Text",
 "index_reference": "laodicea",
@@ -151,9 +151,9 @@
 {
 "id": "place:Laodicea",
 "type": "place",
-"preferred_label": "Laodicea",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Laodicea"
 }
 ]
 }
@@ -161,7 +161,7 @@
 {
 "content_id": "232089",
 "reference_id": 108120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Las cartas de Pablo",
 "media_type": "Text",
 "index_reference": "las cartas de pablo",
@@ -177,7 +177,7 @@
 {
 "content_id": "232374",
 "reference_id": 108405,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Las hijas de Zelofehad",
 "media_type": "Text",
 "index_reference": "las hijas de zelofehad",
@@ -187,13 +187,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hoglah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hogla"
+},
+{
+"id": "person:Mahlah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maala"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Milca"
+},
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noé"
+},
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thirsa"
+}
+]
 }
 },
 {
 "content_id": "232244",
 "reference_id": 108275,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lea",
 "media_type": "Text",
 "index_reference": "lea",
@@ -203,13 +239,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lea"
+}
+]
 }
 },
 {
 "content_id": "232352",
 "reference_id": 108383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Leví",
 "media_type": "Text",
 "index_reference": "leví",
@@ -219,13 +263,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Levi.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Levitas"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Levitas"
+},
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mateo"
+},
+{
+"id": "person:Levi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Levitas"
+}
+]
 }
 },
 {
 "content_id": "232312",
 "reference_id": 108343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Levitas",
 "media_type": "Text",
 "index_reference": "levitas",
@@ -247,30 +320,9 @@
 {
 "id": "group:Levi",
 "type": "group",
-"preferred_label": "Levitas",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Levi",
-"type": "person",
-"preferred_label": "Levitas",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Levi.2",
-"type": "person",
-"preferred_label": "Levitas",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Levitas",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Levitas"
 }
 ]
 }
@@ -278,7 +330,7 @@
 {
 "content_id": "232304",
 "reference_id": 108335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ley de Moisés",
 "media_type": "Text",
 "index_reference": "ley de moisés",
@@ -309,7 +361,7 @@
 {
 "content_id": "232331",
 "reference_id": 108362,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Leyes en Levítico",
 "media_type": "Text",
 "index_reference": "leyes en levítico",
@@ -325,7 +377,7 @@
 {
 "content_id": "232039",
 "reference_id": 108070,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Leyes judías",
 "media_type": "Text",
 "index_reference": "leyes judías",
@@ -356,7 +408,7 @@
 {
 "content_id": "232138",
 "reference_id": 108169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Libro de Enoc",
 "media_type": "Text",
 "index_reference": "libro de enoc",
@@ -372,7 +424,7 @@
 {
 "content_id": "232313",
 "reference_id": 108344,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Libro de la vida",
 "media_type": "Text",
 "index_reference": "libro de la vida",
@@ -388,7 +440,7 @@
 {
 "content_id": "232028",
 "reference_id": 108059,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Líder que sirve",
 "media_type": "Text",
 "index_reference": "líder que sirve",
@@ -404,7 +456,7 @@
 {
 "content_id": "232189",
 "reference_id": 108220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Línea familiar",
 "media_type": "Text",
 "index_reference": "línea familiar",
@@ -420,7 +472,7 @@
 {
 "content_id": "232085",
 "reference_id": 108116,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Listra",
 "media_type": "Text",
 "index_reference": "listra",
@@ -434,9 +486,9 @@
 {
 "id": "place:Lystra",
 "type": "place",
-"preferred_label": "Listra",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Listra"
 }
 ]
 }
@@ -444,7 +496,7 @@
 {
 "content_id": "232080",
 "reference_id": 108111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Los viajes de Pablo",
 "media_type": "Text",
 "index_reference": "los viajes de pablo",
@@ -460,7 +512,7 @@
 {
 "content_id": "232217",
 "reference_id": 108248,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lot",
 "media_type": "Text",
 "index_reference": "lot",
@@ -470,13 +522,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+}
+]
 }
 },
 {
 "content_id": "232047",
 "reference_id": 108078,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lucas",
 "media_type": "Text",
 "index_reference": "lucas",
@@ -490,9 +557,9 @@
 {
 "id": "person:Luke",
 "type": "person",
-"preferred_label": "Lucas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Lucas"
 }
 ]
 }
@@ -500,7 +567,7 @@
 {
 "content_id": "232535",
 "reference_id": 108566,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lucha espiritual",
 "media_type": "Text",
 "index_reference": "lucha espiritual",
@@ -516,7 +583,7 @@
 {
 "content_id": "232468",
 "reference_id": 108499,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lugares altos",
 "media_type": "Text",
 "index_reference": "lugares altos",
@@ -532,7 +599,7 @@
 {
 "content_id": "232515",
 "reference_id": 108546,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Luz",
 "media_type": "Text",
 "index_reference": "luz",
@@ -563,7 +630,7 @@
 {
 "content_id": "232514",
 "reference_id": 108545,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Luz para los gentiles",
 "media_type": "Text",
 "index_reference": "luz para los gentiles",

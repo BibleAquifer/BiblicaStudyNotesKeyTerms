@@ -2,7 +2,7 @@
 {
 "content_id": "232800",
 "reference_id": 108199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神",
 "media_type": "Text",
 "index_reference": "神",
@@ -27,13 +27,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "233127",
 "reference_id": 108526,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的兒子",
 "media_type": "Text",
 "index_reference": "神的兒子",
@@ -49,7 +57,7 @@
 {
 "content_id": "232832",
 "reference_id": 108231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的兒子們",
 "media_type": "Text",
 "index_reference": "神的兒子們",
@@ -65,7 +73,7 @@
 {
 "content_id": "233101",
 "reference_id": 108500,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的憤怒",
 "media_type": "Text",
 "index_reference": "神的憤怒",
@@ -81,7 +89,7 @@
 {
 "content_id": "232687",
 "reference_id": 108086,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的羔羊",
 "media_type": "Text",
 "index_reference": "神的羔羊",
@@ -97,7 +105,7 @@
 {
 "content_id": "233162",
 "reference_id": 108561,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的國",
 "media_type": "Text",
 "index_reference": "神的國",
@@ -121,7 +129,7 @@
 {
 "content_id": "232801",
 "reference_id": 108200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的話",
 "media_type": "Text",
 "index_reference": "神的話",
@@ -145,7 +153,7 @@
 {
 "content_id": "232646",
 "reference_id": 108045,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的家",
 "media_type": "Text",
 "index_reference": "神的家",
@@ -161,7 +169,7 @@
 {
 "content_id": "233145",
 "reference_id": 108544,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的僕人",
 "media_type": "Text",
 "index_reference": "神的僕人",
@@ -177,10 +185,10 @@
 {
 "content_id": "233016",
 "reference_id": 108415,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的器皿（工具）",
 "media_type": "Text",
-"index_reference": "神的器皿（工具）",
+"index_reference": "神的器皿工具",
 "language": "zht",
 "review_level": "None",
 "content": "<p>在整本聖經中，神使用人、群體和國家作為祂的器皿/工具來施行審判。通過他們，祂審判做惡事的人、群體或國家。這是祂如何制止惡並恢復和平的一部分。神決定何時進行以及如何進行審判。那些被神作為器皿/工具而使用的人並不比被審判的人更好。每個人、群體和國家都有責任事奉和順服神。他們都會因所做的惡事而受到審判。</p>",
@@ -193,7 +201,7 @@
 {
 "content_id": "232903",
 "reference_id": 108302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神的子民",
 "media_type": "Text",
 "index_reference": "神的子民",
@@ -211,13 +219,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
+}
+]
 }
 },
 {
 "content_id": "232906",
 "reference_id": 108305,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神蹟",
 "media_type": "Text",
 "index_reference": "神蹟",
@@ -233,7 +249,7 @@
 {
 "content_id": "232830",
 "reference_id": 108229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "神選擇",
 "media_type": "Text",
 "index_reference": "神選擇",
@@ -249,7 +265,7 @@
 {
 "content_id": "232834",
 "reference_id": 108233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "審判",
 "media_type": "Text",
 "index_reference": "審判",
@@ -259,13 +275,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.8663,
+"match_method": "embedding",
+"preferred_label": "Judgment"
+}
+]
 }
 },
 {
 "content_id": "233135",
 "reference_id": 108534,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "審判的信息",
 "media_type": "Text",
 "index_reference": "審判的信息",
@@ -281,7 +305,7 @@
 {
 "content_id": "233021",
 "reference_id": 108420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "審判官",
 "media_type": "Text",
 "index_reference": "審判官",
@@ -291,13 +315,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Judge"
+}
+]
 }
 },
 {
 "content_id": "232656",
 "reference_id": 108055,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "審判日",
 "media_type": "Text",
 "index_reference": "審判日",

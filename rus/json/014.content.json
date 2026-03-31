@@ -2,7 +2,7 @@
 {
 "content_id": "193583",
 "reference_id": 108501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Навуходоносор",
 "media_type": "Text",
 "index_reference": "навуходоносор",
@@ -16,9 +16,9 @@
 {
 "id": "person:Nebuchadnezzar",
 "type": "person",
-"preferred_label": "Навуходоносор",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Навуходоносор"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "193438",
 "reference_id": 108356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Надав и Авиуд",
 "media_type": "Text",
 "index_reference": "надав и авиуд",
@@ -36,13 +36,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abihu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Авиуда"
+},
+{
+"id": "person:Nadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нават"
+},
+{
+"id": "person:Nadab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нават"
+},
+{
+"id": "person:Nadab.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нават"
+},
+{
+"id": "person:Nadab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нават"
+}
+]
 }
 },
 {
 "content_id": "193153",
 "reference_id": 108071,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Назарет",
 "media_type": "Text",
 "index_reference": "назарет",
@@ -56,9 +92,9 @@
 {
 "id": "place:Nazareth",
 "type": "place",
-"preferred_label": "Назарет",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Назарет"
 }
 ]
 }
@@ -66,7 +102,7 @@
 {
 "content_id": "193466",
 "reference_id": 108384,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Назорей",
 "media_type": "Text",
 "index_reference": "назорей",
@@ -76,13 +112,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazirites"
+}
+]
 }
 },
 {
 "content_id": "193659",
 "reference_id": 108577,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Налоги",
 "media_type": "Text",
 "index_reference": "налоги",
@@ -98,7 +142,7 @@
 {
 "content_id": "193347",
 "reference_id": 108265,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Наложницы",
 "media_type": "Text",
 "index_reference": "наложницы",
@@ -114,7 +158,7 @@
 {
 "content_id": "193552",
 "reference_id": 108470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Нафан",
 "media_type": "Text",
 "index_reference": "нафан",
@@ -126,67 +170,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nathan",
-"type": "person",
-"preferred_label": "Нафан",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Nathan.2",
 "type": "person",
-"preferred_label": "Нафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Нафан"
 },
 {
 "id": "person:Nathan.3",
 "type": "person",
-"preferred_label": "Нафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Нафан"
 },
 {
 "id": "person:Nathan.4",
 "type": "person",
-"preferred_label": "Нафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Нафан"
 },
 {
 "id": "person:Nathan.5",
 "type": "person",
-"preferred_label": "Нафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Нафан"
 },
 {
 "id": "person:Nathan.6",
 "type": "person",
-"preferred_label": "Нафан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Нафан"
 },
 {
-"id": "person:Nahath",
+"id": "person:Nathan",
 "type": "person",
-"preferred_label": "Нахаф",
-"confidence": 0.8296,
-"match_method": "embedding"
-},
-{
-"id": "person:Nahath.2",
-"type": "person",
-"preferred_label": "Нахаф",
-"confidence": 0.8296,
-"match_method": "embedding"
-},
-{
-"id": "place:Naioth",
-"type": "place",
-"preferred_label": "Наваф",
-"confidence": 0.818,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нафан"
 }
 ]
 }
@@ -194,7 +217,7 @@
 {
 "content_id": "193146",
 "reference_id": 108064,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Наша эра",
 "media_type": "Text",
 "index_reference": "наша эра",
@@ -210,7 +233,7 @@
 {
 "content_id": "193283",
 "reference_id": 108201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Небо",
 "media_type": "Text",
 "index_reference": "небо",
@@ -241,7 +264,7 @@
 {
 "content_id": "193570",
 "reference_id": 108488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Нееман",
 "media_type": "Text",
 "index_reference": "нееман",
@@ -253,32 +276,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Naaman",
-"type": "person",
-"preferred_label": "Нааман",
-"confidence": 0.8252,
-"match_method": "embedding"
-},
-{
 "id": "person:Naaman.2",
 "type": "person",
-"preferred_label": "Нааман",
-"confidence": 0.8252,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нааман"
 },
 {
 "id": "person:Naaman.3",
 "type": "person",
-"preferred_label": "Нааман",
-"confidence": 0.8252,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нааман"
 },
 {
 "id": "person:Naaman.4",
 "type": "person",
-"preferred_label": "Нааман",
-"confidence": 0.8252,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нааман"
+},
+{
+"id": "person:Naaman",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нааман"
 }
 ]
 }
@@ -286,7 +309,7 @@
 {
 "content_id": "193597",
 "reference_id": 108515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Неемия",
 "media_type": "Text",
 "index_reference": "неемия",
@@ -298,25 +321,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nehemiah",
-"type": "person",
-"preferred_label": "Неемия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Nehemiah.2",
 "type": "person",
-"preferred_label": "Неемия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Неемия"
 },
 {
 "id": "person:Nehemiah.3",
 "type": "person",
-"preferred_label": "Неемия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Неемия"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Неемия"
 }
 ]
 }
@@ -324,7 +347,7 @@
 {
 "content_id": "193446",
 "reference_id": 108364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Непорочный или порочный",
 "media_type": "Text",
 "index_reference": "непорочный или порочный ",
@@ -348,7 +371,7 @@
 {
 "content_id": "193607",
 "reference_id": 108525,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Нечестивцы",
 "media_type": "Text",
 "index_reference": "нечестивцы",
@@ -364,7 +387,7 @@
 {
 "content_id": "193170",
 "reference_id": 108088,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Никодим",
 "media_type": "Text",
 "index_reference": "никодим",
@@ -378,9 +401,9 @@
 {
 "id": "person:Nicodemus",
 "type": "person",
-"preferred_label": "Никодим",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Никодим"
 }
 ]
 }
@@ -388,7 +411,7 @@
 {
 "content_id": "193656",
 "reference_id": 108574,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ниневия",
 "media_type": "Text",
 "index_reference": "ниневия",
@@ -400,46 +423,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Nineveh",
-"type": "group",
-"preferred_label": "Ниневия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Nineveh",
 "type": "place",
-"preferred_label": "Ниневия",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Nethaniah",
-"type": "person",
-"preferred_label": "Нефания",
-"confidence": 0.8281,
-"match_method": "embedding"
-},
-{
-"id": "person:Nethaniah.2",
-"type": "person",
-"preferred_label": "Нефания",
-"confidence": 0.8281,
-"match_method": "embedding"
-},
-{
-"id": "person:Nethaniah.3",
-"type": "person",
-"preferred_label": "Нефания",
-"confidence": 0.8281,
-"match_method": "embedding"
-},
-{
-"id": "person:Nethaniah.4",
-"type": "person",
-"preferred_label": "Нефания",
-"confidence": 0.8281,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ниневия"
 }
 ]
 }
@@ -447,7 +435,7 @@
 {
 "content_id": "193500",
 "reference_id": 108418,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Нищие",
 "media_type": "Text",
 "index_reference": "нищие",
@@ -463,7 +451,7 @@
 {
 "content_id": "650778",
 "reference_id": 209393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Новая песнь",
 "media_type": "Text",
 "index_reference": "новая песнь",
@@ -492,7 +480,7 @@
 {
 "content_id": "193625",
 "reference_id": 108543,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Новое творение",
 "media_type": "Text",
 "index_reference": "новое творение",
@@ -508,7 +496,7 @@
 {
 "content_id": "193635",
 "reference_id": 108553,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Новый завет",
 "media_type": "Text",
 "index_reference": "новый завет",
@@ -524,10 +512,10 @@
 {
 "content_id": "193610",
 "reference_id": 108528,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Новый Завет, Библия",
 "media_type": "Text",
-"index_reference": "новый завет, библия",
+"index_reference": "новый завет библия",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Вторая часть Библии, состоящая из 27 книг. Новый Завет состоит из четырёх Евангелий, книги об истории рождения Церкви, большого количества посланий и одной книги апокалиптического содержания. </p>",
@@ -540,7 +528,7 @@
 {
 "content_id": "193631",
 "reference_id": 108549,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Новый Иерусалим",
 "media_type": "Text",
 "index_reference": "новый иерусалим",
@@ -556,7 +544,7 @@
 {
 "content_id": "193312",
 "reference_id": 108230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ной",
 "media_type": "Text",
 "index_reference": "ной",
@@ -566,7 +554,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ноа"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ноа"
+}
+]
 }
 }
 ]

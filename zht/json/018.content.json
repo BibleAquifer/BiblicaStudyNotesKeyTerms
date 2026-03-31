@@ -2,7 +2,7 @@
 {
 "content_id": "233047",
 "reference_id": 108446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大袞",
 "media_type": "Text",
 "index_reference": "大袞",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Dagon",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dagon"
+}
+]
 }
 },
 {
 "content_id": "232969",
 "reference_id": 108368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大祭司",
 "media_type": "Text",
 "index_reference": "大祭司",
@@ -34,7 +42,7 @@
 {
 "content_id": "233046",
 "reference_id": 108445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大利拉",
 "media_type": "Text",
 "index_reference": "大利拉",
@@ -44,13 +52,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delilah"
+}
+]
 }
 },
 {
 "content_id": "233113",
 "reference_id": 108512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大流士",
 "media_type": "Text",
 "index_reference": "大流士",
@@ -60,13 +76,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
+}
+]
 }
 },
 {
 "content_id": "233141",
 "reference_id": 108540,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大馬士革",
 "media_type": "Text",
 "index_reference": "大馬士革",
@@ -76,13 +114,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Damascus"
+}
+]
 }
 },
 {
 "content_id": "233050",
 "reference_id": 108449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大衛",
 "media_type": "Text",
 "index_reference": "大衛",
@@ -100,13 +146,28 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "person:David",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "David"
+}
+]
 }
 },
 {
 "content_id": "232653",
 "reference_id": 108052,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大衛的子孫",
 "media_type": "Text",
 "index_reference": "大衛的子孫",
@@ -130,7 +191,7 @@
 {
 "content_id": "233067",
 "reference_id": 108466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大衛之約",
 "media_type": "Text",
 "index_reference": "大衛之約",
@@ -154,7 +215,7 @@
 {
 "content_id": "233159",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大希律",
 "media_type": "Text",
 "index_reference": "大希律",
@@ -164,16 +225,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod"
+}
+]
 }
 },
 {
 "content_id": "233165",
 "reference_id": 108564,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "大罪人（the man of sin）",
 "media_type": "Text",
-"index_reference": "大罪人（the man of sin）",
+"index_reference": "大罪人the man of sin",
 "language": "zht",
 "review_level": "None",
 "content": "<p>一個將會完全反對神的人。在帖撒羅尼迦後書二章1至12節中，保羅描述他為一個做邪惡之事的人。但耶穌將阻止這罪人。保羅可能是在談論某個具體的人。或者他可能是在描述罪和邪惡的力量。保羅描述罪人的方式類似於但以理描述某些君王的方式。但以理關於這些君王的異象記錄在但以理書七章和十一章中。這些君王反對神，誹謗神，並且對神的子民施以惡行。</p>",

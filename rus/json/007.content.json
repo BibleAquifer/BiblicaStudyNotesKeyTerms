@@ -2,7 +2,7 @@
 {
 "content_id": "193287",
 "reference_id": 108205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ева",
 "media_type": "Text",
 "index_reference": "ева",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Eve",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ева"
+}
+]
 }
 },
 {
 "content_id": "193113",
 "reference_id": 108031,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Евангелие",
 "media_type": "Text",
 "index_reference": "евангелие",
@@ -42,7 +50,7 @@
 {
 "content_id": "193661",
 "reference_id": 108579,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Евангелие процветания",
 "media_type": "Text",
 "index_reference": "евангелие процветания",
@@ -58,7 +66,7 @@
 {
 "content_id": "193509",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Евеи",
 "media_type": "Text",
 "index_reference": "евеи",
@@ -68,13 +76,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
+}
+]
 }
 },
 {
 "content_id": "193614",
 "reference_id": 108532,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Еврей",
 "media_type": "Text",
 "index_reference": "еврей",
@@ -105,7 +121,7 @@
 {
 "content_id": "193333",
 "reference_id": 108251,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Египет",
 "media_type": "Text",
 "index_reference": "египет",
@@ -119,16 +135,16 @@
 {
 "id": "person:Egypt",
 "type": "person",
-"preferred_label": "Египет",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Египет"
 },
 {
 "id": "place:Egypt",
 "type": "place",
-"preferred_label": "Египет",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Египет"
 }
 ]
 }
@@ -136,7 +152,7 @@
 {
 "content_id": "193289",
 "reference_id": 108207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Едемский сад",
 "media_type": "Text",
 "index_reference": "едемский сад",
@@ -146,13 +162,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Eden.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Garden of Eden"
+}
+]
 }
 },
 {
 "content_id": "193493",
 "reference_id": 108411,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Едом",
 "media_type": "Text",
 "index_reference": "едом",
@@ -164,11 +188,18 @@
 "resource": [],
 "acai": [
 {
+"id": "person:Esau",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Исав"
+},
+{
 "id": "place:Edom",
 "type": "place",
-"preferred_label": "Едом",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Едом"
 }
 ]
 }
@@ -176,7 +207,7 @@
 {
 "content_id": "193595",
 "reference_id": 108513,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ездра",
 "media_type": "Text",
 "index_reference": "ездра",
@@ -188,18 +219,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ezra",
-"type": "person",
-"preferred_label": "Ездра",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ezra.2",
 "type": "person",
-"preferred_label": "Ездра",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ездра"
+},
+{
+"id": "person:Ezra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ездра"
 }
 ]
 }
@@ -207,7 +238,7 @@
 {
 "content_id": "193578",
 "reference_id": 108496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Езекия",
 "media_type": "Text",
 "index_reference": "езекия",
@@ -219,60 +250,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hezekiah",
-"type": "person",
-"preferred_label": "Езекия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Hezekiah.2",
 "type": "person",
-"preferred_label": "Езекия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Езекия"
 },
 {
 "id": "person:Hezekiah.3",
 "type": "person",
-"preferred_label": "Езекия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Езекия"
 },
 {
 "id": "person:Hezekiah.4",
 "type": "person",
-"preferred_label": "Езекия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Езекия"
 },
 {
-"id": "person:Hizkiah",
+"id": "person:Hezekiah",
 "type": "person",
-"preferred_label": "Езекия",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jehizkiah",
-"type": "person",
-"preferred_label": "Езекия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jekamiah",
-"type": "person",
-"preferred_label": "Иезекия",
-"confidence": 0.8056,
-"match_method": "embedding"
-},
-{
-"id": "person:Jekamiah.2",
-"type": "person",
-"preferred_label": "Иезекия",
-"confidence": 0.8056,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Езекия"
 }
 ]
 }
@@ -280,7 +283,7 @@
 {
 "content_id": "193439",
 "reference_id": 108357,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Елеазар",
 "media_type": "Text",
 "index_reference": "елеазар",
@@ -292,137 +295,60 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Eleazar",
-"type": "person",
-"preferred_label": "Елеазар",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Eleazar.2",
 "type": "person",
-"preferred_label": "Елеазар",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Елеазар"
 },
 {
 "id": "person:Eleazar.3",
 "type": "person",
-"preferred_label": "Елеазар",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Елеазар"
 },
 {
 "id": "person:Eleazar.4",
 "type": "person",
-"preferred_label": "Елеазар",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Елеазар"
 },
 {
 "id": "person:Eleazar.5",
 "type": "person",
-"preferred_label": "Елеазар",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Елеазар"
 },
 {
 "id": "person:Eleazar.6",
 "type": "person",
-"preferred_label": "Елеазар",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Елеазар"
 },
 {
 "id": "person:Eleazar.7",
 "type": "person",
-"preferred_label": "Елеазар",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Елеазар"
 },
 {
 "id": "person:Eleazar.8",
 "type": "person",
-"preferred_label": "Елеазар",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Елеазар"
 },
 {
-"id": "person:Eliezer",
+"id": "person:Eleazar",
 "type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.10",
-"type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.11",
-"type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.2",
-"type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.3",
-"type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.4",
-"type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.5",
-"type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.6",
-"type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.7",
-"type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.8",
-"type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
-},
-{
-"id": "person:Eliezer.9",
-"type": "person",
-"preferred_label": "Елиезер",
-"confidence": 0.8782,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Елеазар"
 }
 ]
 }
@@ -430,7 +356,7 @@
 {
 "content_id": "193145",
 "reference_id": 108063,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Елеонская гора",
 "media_type": "Text",
 "index_reference": "елеонская гора",
@@ -440,13 +366,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount of Olives"
+}
+]
 }
 },
 {
 "content_id": "193163",
 "reference_id": 108081,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Елисавета",
 "media_type": "Text",
 "index_reference": "елисавета",
@@ -458,18 +392,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Elisheba",
-"type": "person",
-"preferred_label": "Елисавета",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Elizabeth",
 "type": "person",
-"preferred_label": "Елисавета",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Елисавета"
 }
 ]
 }
@@ -477,7 +404,7 @@
 {
 "content_id": "193569",
 "reference_id": 108487,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Елисей",
 "media_type": "Text",
 "index_reference": "елисей",
@@ -491,44 +418,9 @@
 {
 "id": "person:Elisha",
 "type": "person",
-"preferred_label": "Елисей",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Elishua",
-"type": "person",
-"preferred_label": "Елисуа",
-"confidence": 0.8797,
-"match_method": "embedding"
-},
-{
-"id": "person:Elasah",
-"type": "person",
-"preferred_label": "Елеаса",
-"confidence": 0.8424,
-"match_method": "embedding"
-},
-{
-"id": "person:Elasah.2",
-"type": "person",
-"preferred_label": "Елеаса",
-"confidence": 0.8424,
-"match_method": "embedding"
-},
-{
-"id": "person:Eleasah",
-"type": "person",
-"preferred_label": "Елеаса",
-"confidence": 0.8424,
-"match_method": "embedding"
-},
-{
-"id": "person:Eleasah.2",
-"type": "person",
-"preferred_label": "Елеаса",
-"confidence": 0.8424,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Елисей"
 }
 ]
 }
@@ -536,7 +428,7 @@
 {
 "content_id": "193620",
 "reference_id": 108538,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Еммануил",
 "media_type": "Text",
 "index_reference": "еммануил",
@@ -546,13 +438,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+}
+]
 }
 },
 {
 "content_id": "193310",
 "reference_id": 108228,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Енох",
 "media_type": "Text",
 "index_reference": "енох",
@@ -564,32 +464,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Enoch",
-"type": "person",
-"preferred_label": "Енох",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Enoch.2",
 "type": "person",
-"preferred_label": "Енох",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Енох"
 },
 {
-"id": "place:Aenon",
-"type": "place",
-"preferred_label": "Енон",
-"confidence": 0.8283,
-"match_method": "embedding"
-},
-{
-"id": "person:Anak",
+"id": "person:Enoch",
 "type": "person",
-"preferred_label": "Енак",
-"confidence": 0.8142,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Енох"
 }
 ]
 }
@@ -597,7 +483,7 @@
 {
 "content_id": "193241",
 "reference_id": 108159,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Епафрас",
 "media_type": "Text",
 "index_reference": "епафрас",
@@ -611,9 +497,9 @@
 {
 "id": "person:Epaphras",
 "type": "person",
-"preferred_label": "Епафрас",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Епафрас"
 }
 ]
 }
@@ -621,7 +507,7 @@
 {
 "content_id": "193240",
 "reference_id": 108158,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Епафродит",
 "media_type": "Text",
 "index_reference": "епафродит",
@@ -635,9 +521,9 @@
 {
 "id": "person:Epaphroditus",
 "type": "person",
-"preferred_label": "Епафродит",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Епафродит"
 }
 ]
 }
@@ -645,7 +531,7 @@
 {
 "content_id": "193600",
 "reference_id": 108518,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Есфирь",
 "media_type": "Text",
 "index_reference": "есфирь",
@@ -659,9 +545,9 @@
 {
 "id": "person:Esther",
 "type": "person",
-"preferred_label": "Есфирь",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Есфирь"
 }
 ]
 }
@@ -669,7 +555,7 @@
 {
 "content_id": "193217",
 "reference_id": 108135,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ефес",
 "media_type": "Text",
 "index_reference": "ефес",
@@ -683,37 +569,9 @@
 {
 "id": "place:Ephesus",
 "type": "place",
-"preferred_label": "Ефес",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Epher",
-"type": "person",
-"preferred_label": "Ефер",
-"confidence": 0.8162,
-"match_method": "embedding"
-},
-{
-"id": "person:Epher.2",
-"type": "person",
-"preferred_label": "Ефер",
-"confidence": 0.8162,
-"match_method": "embedding"
-},
-{
-"id": "person:Epher.3",
-"type": "person",
-"preferred_label": "Ефер",
-"confidence": 0.8162,
-"match_method": "embedding"
-},
-{
-"id": "place:Ether",
-"type": "place",
-"preferred_label": "Ефер",
-"confidence": 0.8162,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ефес"
 }
 ]
 }
@@ -721,10 +579,10 @@
 {
 "content_id": "193186",
 "reference_id": 108104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ефиоплянин, вельможа царицы",
 "media_type": "Text",
-"index_reference": "ефиоплянин, вельможа царицы",
+"index_reference": "ефиоплянин вельможа царицы",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Высокопоставленный правительственный чиновник в Эфиопии, государстве на территории Африки. Этот человек распоряжался деньгами царицы. Неизвестно, был ли он евреем, однако он поклонялся Богу Израиля и стал последователем Иисуса. Считается, что он был первым верующим, который начал делиться Благой Вестью об Иисусе на территории Африки.</p>",
@@ -737,7 +595,7 @@
 {
 "content_id": "193380",
 "reference_id": 108298,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ефрем",
 "media_type": "Text",
 "index_reference": "ефрем",
@@ -749,32 +607,25 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Ephraim",
-"type": "group",
-"preferred_label": "Ефрем",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ephraim",
 "type": "person",
-"preferred_label": "Ефрем",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ефрем"
+},
+{
+"id": "place:Ephraim.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
 },
 {
 "id": "place:Ephraim",
 "type": "place",
-"preferred_label": "Ефрем",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Ephron.2",
-"type": "person",
-"preferred_label": "Ефрон",
-"confidence": 0.8102,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ефрем"
 }
 ]
 }

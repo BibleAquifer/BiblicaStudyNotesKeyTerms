@@ -2,7 +2,7 @@
 {
 "content_id": "232071",
 "reference_id": 108102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pablo",
 "media_type": "Text",
 "index_reference": "pablo",
@@ -16,9 +16,9 @@
 {
 "id": "person:Paul",
 "type": "person",
-"preferred_label": "Pablo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pablo"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "232206",
 "reference_id": 108237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pacto",
 "media_type": "Text",
 "index_reference": "pacto",
@@ -40,9 +40,9 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "pacto",
-"confidence": 0.8321,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "pacto"
 }
 ]
 }
@@ -50,7 +50,7 @@
 {
 "content_id": "232222",
 "reference_id": 108253,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pacto con Abraham",
 "media_type": "Text",
 "index_reference": "pacto con abraham",
@@ -66,7 +66,7 @@
 {
 "content_id": "232435",
 "reference_id": 108466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pacto con David",
 "media_type": "Text",
 "index_reference": "pacto con david",
@@ -90,7 +90,7 @@
 {
 "content_id": "232207",
 "reference_id": 108238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pacto con Noé",
 "media_type": "Text",
 "index_reference": "pacto con noé",
@@ -106,7 +106,7 @@
 {
 "content_id": "232297",
 "reference_id": 108328,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pacto del Monte Sinaí",
 "media_type": "Text",
 "index_reference": "pacto del monte sinaí",
@@ -122,7 +122,7 @@
 {
 "content_id": "232281",
 "reference_id": 108312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Padre",
 "media_type": "Text",
 "index_reference": "padre",
@@ -132,13 +132,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehová"
+}
+]
 }
 },
 {
 "content_id": "232025",
 "reference_id": 108056,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Parábolas",
 "media_type": "Text",
 "index_reference": "parábolas",
@@ -154,7 +162,7 @@
 {
 "content_id": "232247",
 "reference_id": 108278,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pastor",
 "media_type": "Text",
 "index_reference": "pastor",
@@ -170,7 +178,7 @@
 {
 "content_id": "232140",
 "reference_id": 108171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Patmos",
 "media_type": "Text",
 "index_reference": "patmos",
@@ -184,9 +192,9 @@
 {
 "id": "place:Patmos",
 "type": "place",
-"preferred_label": "Patmos",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Patmos"
 }
 ]
 }
@@ -194,7 +202,7 @@
 {
 "content_id": "232256",
 "reference_id": 108287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Patriarca",
 "media_type": "Text",
 "index_reference": "patriarca",
@@ -210,7 +218,7 @@
 {
 "content_id": "232180",
 "reference_id": 108211,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Paz",
 "media_type": "Text",
 "index_reference": "paz",
@@ -220,13 +228,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehová"
+}
+]
 }
 },
 {
 "content_id": "232164",
 "reference_id": 108195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pecado",
 "media_type": "Text",
 "index_reference": "pecado",
@@ -242,7 +258,7 @@
 {
 "content_id": "232541",
 "reference_id": 108572,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pedro",
 "media_type": "Text",
 "index_reference": "pedro",
@@ -256,9 +272,9 @@
 {
 "id": "person:Peter",
 "type": "person",
-"preferred_label": "Pedro",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pedro"
 }
 ]
 }
@@ -266,7 +282,7 @@
 {
 "content_id": "232344",
 "reference_id": 108375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pentecostés",
 "media_type": "Text",
 "index_reference": "pentecostés",
@@ -282,7 +298,7 @@
 {
 "content_id": "232250",
 "reference_id": 108281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perdonar",
 "media_type": "Text",
 "index_reference": "perdonar",
@@ -292,13 +308,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "perdonar"
+}
+]
 }
 },
 {
 "content_id": "232134",
 "reference_id": 108165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perfecto",
 "media_type": "Text",
 "index_reference": "perfecto",
@@ -314,7 +338,7 @@
 {
 "content_id": "232145",
 "reference_id": 108176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pérgamo",
 "media_type": "Text",
 "index_reference": "pérgamo",
@@ -328,9 +352,9 @@
 {
 "id": "place:Pergamum",
 "type": "place",
-"preferred_label": "Pérgamo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pérgamo"
 }
 ]
 }
@@ -338,7 +362,7 @@
 {
 "content_id": "232478",
 "reference_id": 108509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Persia",
 "media_type": "Text",
 "index_reference": "persia",
@@ -348,13 +372,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Persia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Persas"
+}
+]
 }
 },
 {
 "content_id": "232494",
 "reference_id": 108525,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Personas impías",
 "media_type": "Text",
 "index_reference": "personas impías",
@@ -370,7 +402,7 @@
 {
 "content_id": "232387",
 "reference_id": 108418,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Personas necesitadas",
 "media_type": "Text",
 "index_reference": "personas necesitadas",
@@ -386,7 +418,7 @@
 {
 "content_id": "232060",
 "reference_id": 108091,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Piscina de Betesda",
 "media_type": "Text",
 "index_reference": "piscina de betesda",
@@ -396,13 +428,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Pool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pool"
+}
+]
 }
 },
 {
 "content_id": "232173",
 "reference_id": 108204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Poema",
 "media_type": "Text",
 "index_reference": "poema",
@@ -418,7 +458,7 @@
 {
 "content_id": "232502",
 "reference_id": 108533,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Poema Alfabético",
 "media_type": "Text",
 "index_reference": "poema alfabético",
@@ -442,7 +482,7 @@
 {
 "content_id": "232343",
 "reference_id": 108374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Primera parte de las cosechas",
 "media_type": "Text",
 "index_reference": "primera parte de las cosechas",
@@ -458,7 +498,7 @@
 {
 "content_id": "232368",
 "reference_id": 108399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Profecía",
 "media_type": "Text",
 "index_reference": "profecía",
@@ -474,7 +514,7 @@
 {
 "content_id": "232369",
 "reference_id": 108400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Profecías sobre Jesús",
 "media_type": "Text",
 "index_reference": "profecías sobre jesús",
@@ -498,7 +538,7 @@
 {
 "content_id": "232385",
 "reference_id": 108416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Profeta",
 "media_type": "Text",
 "index_reference": "profeta",
@@ -522,7 +562,7 @@
 {
 "content_id": "232339",
 "reference_id": 108370,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prójimo",
 "media_type": "Text",
 "index_reference": "prójimo",
@@ -546,7 +586,7 @@
 {
 "content_id": "232504",
 "reference_id": 108535,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prostituta",
 "media_type": "Text",
 "index_reference": "prostituta",
@@ -560,16 +600,16 @@
 {
 "id": "person:FirstProstitute",
 "type": "person",
-"preferred_label": "Prostitute",
-"confidence": 0.9796,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
 },
 {
 "id": "person:SecondProstitute",
 "type": "person",
-"preferred_label": "Prostitute",
-"confidence": 0.9796,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
 }
 ]
 }
@@ -577,7 +617,7 @@
 {
 "content_id": "232417",
 "reference_id": 108448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Protector de la familia",
 "media_type": "Text",
 "index_reference": "protector de la familia",
@@ -593,7 +633,7 @@
 {
 "content_id": "232500",
 "reference_id": 108531,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Proverbio",
 "media_type": "Text",
 "index_reference": "proverbio",
@@ -603,13 +643,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "dicho"
+}
+]
 }
 },
 {
 "content_id": "232232",
 "reference_id": 108263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prueba",
 "media_type": "Text",
 "index_reference": "prueba",
@@ -619,21 +667,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Proof",
-"type": "keyterm",
-"preferred_label": "prueba",
-"confidence": 0.8807,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "232332",
 "reference_id": 108363,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Puro o impuro",
 "media_type": "Text",
 "index_reference": "puro o impuro",
@@ -657,7 +697,7 @@
 {
 "content_id": "232333",
 "reference_id": 108364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Puro o impuro",
 "media_type": "Text",
 "index_reference": "puro o impuro",

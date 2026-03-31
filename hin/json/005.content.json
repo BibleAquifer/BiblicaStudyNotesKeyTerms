@@ -2,7 +2,7 @@
 {
 "content_id": "183379",
 "reference_id": 108485,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ईजेबेल",
 "media_type": "Text",
 "index_reference": "ईजेबेल",
@@ -16,9 +16,9 @@
 {
 "id": "person:Jezebel",
 "type": "person",
-"preferred_label": "ईजेबेल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "ईजेबेल"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "182958",
 "reference_id": 108064,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ईसवी",
 "media_type": "Text",
 "index_reference": "ईसवी",
@@ -42,7 +42,7 @@
 {
 "content_id": "183388",
 "reference_id": 108494,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ईसा पूर्व",
 "media_type": "Text",
 "index_reference": "ईसा पूर्व",

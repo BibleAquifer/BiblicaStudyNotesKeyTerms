@@ -2,7 +2,7 @@
 {
 "content_id": "232066",
 "reference_id": 108097,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hablar otras lenguas",
 "media_type": "Text",
 "index_reference": "hablar otras lenguas ",
@@ -26,7 +26,7 @@
 {
 "content_id": "232479",
 "reference_id": 108510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hageo",
 "media_type": "Text",
 "index_reference": "hageo",
@@ -36,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Haggai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haggeo"
+}
+]
 }
 },
 {
 "content_id": "232394",
 "reference_id": 108425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hai",
 "media_type": "Text",
 "index_reference": "hai",
@@ -52,13 +60,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Ai.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hai"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hai"
+}
+]
 }
 },
 {
 "content_id": "232501",
 "reference_id": 108532,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hebreo",
 "media_type": "Text",
 "index_reference": "hebreo",
@@ -83,35 +106,13 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "person:Hebron",
-"type": "person",
-"preferred_label": "Hebrón",
-"confidence": 0.8612,
-"match_method": "embedding"
-},
-{
-"id": "person:Hebron.2",
-"type": "person",
-"preferred_label": "Hebrón",
-"confidence": 0.8612,
-"match_method": "embedding"
-},
-{
-"id": "place:Hebron",
-"type": "place",
-"preferred_label": "Hebrón",
-"confidence": 0.8612,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "232079",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Agripa I",
 "media_type": "Text",
 "index_reference": "herodes agripa i",
@@ -121,13 +122,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Agripa"
+}
+]
 }
 },
 {
 "content_id": "232108",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Agripa II",
 "media_type": "Text",
 "index_reference": "herodes agripa ii",
@@ -137,13 +146,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodes"
+}
+]
 }
 },
 {
 "content_id": "232026",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Antipas",
 "media_type": "Text",
 "index_reference": "herodes antipas",
@@ -153,13 +170,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodes"
+}
+]
 }
 },
 {
 "content_id": "232527",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes el Grande",
 "media_type": "Text",
 "index_reference": "herodes el grande",
@@ -169,13 +194,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodes"
+}
+]
 }
 },
 {
 "content_id": "232031",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodianos",
 "media_type": "Text",
 "index_reference": "herodianos",
@@ -185,13 +218,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Herodian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "los seguidores de Herodes; Herodianos"
+}
+]
 }
 },
 {
 "content_id": "232396",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heveos",
 "media_type": "Text",
 "index_reference": "heveos",
@@ -201,13 +242,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
+}
+]
 }
 },
 {
 "content_id": "232021",
 "reference_id": 108052,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hijo de David",
 "media_type": "Text",
 "index_reference": "hijo de david",
@@ -231,7 +280,7 @@
 {
 "content_id": "232495",
 "reference_id": 108526,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hijo de Dios",
 "media_type": "Text",
 "index_reference": "hijo de dios",
@@ -247,7 +296,7 @@
 {
 "content_id": "232526",
 "reference_id": 108557,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hijo del Hombre",
 "media_type": "Text",
 "index_reference": "hijo del hombre",
@@ -263,7 +312,7 @@
 {
 "content_id": "232200",
 "reference_id": 108231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hijos de Dios",
 "media_type": "Text",
 "index_reference": "hijos de dios",
@@ -279,7 +328,7 @@
 {
 "content_id": "232167",
 "reference_id": 108198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Historias",
 "media_type": "Text",
 "index_reference": "historias",
@@ -295,7 +344,7 @@
 {
 "content_id": "232356",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hobab",
 "media_type": "Text",
 "index_reference": "hobab",
@@ -309,51 +358,9 @@
 {
 "id": "person:Hobab",
 "type": "person",
-"preferred_label": "Hobab",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Hobah",
-"type": "place",
-"preferred_label": "Hobah",
-"confidence": 0.8914,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.2",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.3",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.4",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.5",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hobab"
 }
 ]
 }
@@ -361,7 +368,7 @@
 {
 "content_id": "232533",
 "reference_id": 108564,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hombre de pecado",
 "media_type": "Text",
 "index_reference": "hombre de pecado",
@@ -377,7 +384,7 @@
 {
 "content_id": "232002",
 "reference_id": 108033,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hombres sabios",
 "media_type": "Text",
 "index_reference": "hombres sabios",

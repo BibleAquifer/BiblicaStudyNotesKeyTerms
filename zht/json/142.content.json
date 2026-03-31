@@ -2,7 +2,7 @@
 {
 "content_id": "233073",
 "reference_id": 108472,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "押沙龍",
 "media_type": "Text",
 "index_reference": "押沙龍",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Absalom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Absalom"
+}
+]
 }
 },
 {
 "content_id": "232731",
 "reference_id": 108130,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "雅典",
 "media_type": "Text",
 "index_reference": "雅典",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Athens",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Athens"
+}
+]
 }
 },
 {
 "content_id": "232841",
 "reference_id": 108240,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "雅弗",
 "media_type": "Text",
 "index_reference": "雅弗",
@@ -44,13 +60,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Japheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Japheth"
+}
+]
 }
 },
 {
 "content_id": "232720",
 "reference_id": 108119,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "雅各",
 "media_type": "Text",
 "index_reference": "雅各",
@@ -60,13 +84,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "James"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "James"
+},
+{
+"id": "person:James.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "James"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "John"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "James"
+}
+]
 }
 },
 {
 "content_id": "232869",
 "reference_id": 108268,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "雅各",
 "media_type": "Text",
 "index_reference": "雅各",
@@ -84,13 +144,28 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Jacob.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jacob"
+},
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+}
+]
 }
 },
 {
 "content_id": "232880",
 "reference_id": 108279,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "雅各摔跤",
 "media_type": "Text",
 "index_reference": "雅各摔跤",
@@ -106,7 +181,7 @@
 {
 "content_id": "233037",
 "reference_id": 108436,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "雅億",
 "media_type": "Text",
 "index_reference": "雅億",
@@ -116,13 +191,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jael"
+}
+]
 }
 },
 {
 "content_id": "233061",
 "reference_id": 108460,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞比該",
 "media_type": "Text",
 "index_reference": "亞比該",
@@ -132,13 +215,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abigail.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abigail"
+},
+{
+"id": "person:Abigail",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abigail"
+}
+]
 }
 },
 {
 "content_id": "233041",
 "reference_id": 108440,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞比米勒",
 "media_type": "Text",
 "index_reference": "亞比米勒",
@@ -148,13 +246,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abimelech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abimelech"
+},
+{
+"id": "person:Achish",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Achish"
+},
+{
+"id": "person:Abimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abimelech"
+}
+]
 }
 },
 {
 "content_id": "233082",
 "reference_id": 108481,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞比雅",
 "media_type": "Text",
 "index_reference": "亞比雅",
@@ -164,13 +284,63 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abijah"
+},
+{
+"id": "person:Abijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abijah"
+},
+{
+"id": "person:Abijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abijah"
+},
+{
+"id": "person:Abijah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abijah"
+},
+{
+"id": "person:Abijah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abijah"
+},
+{
+"id": "person:Abijah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abijah"
+},
+{
+"id": "person:Abi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abi"
+}
+]
 }
 },
 {
 "content_id": "233060",
 "reference_id": 108459,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞比亞他",
 "media_type": "Text",
 "index_reference": "亞比亞他",
@@ -180,13 +350,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abiathar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abiathar"
+}
+]
 }
 },
 {
 "content_id": "232737",
 "reference_id": 108136,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞波羅",
 "media_type": "Text",
 "index_reference": "亞波羅",
@@ -196,13 +374,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Apollos",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Apollos"
+}
+]
 }
 },
 {
 "content_id": "232822",
 "reference_id": 108221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞伯",
 "media_type": "Text",
 "index_reference": "亞伯",
@@ -212,13 +398,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abel"
+},
+{
+"id": "place:Abel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abel"
+}
+]
 }
 },
 {
 "content_id": "232844",
 "reference_id": 108243,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞伯拉罕",
 "media_type": "Text",
 "index_reference": "亞伯拉罕",
@@ -236,13 +437,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abraham"
+}
+]
 }
 },
 {
 "content_id": "232854",
 "reference_id": 108253,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞伯拉罕之約",
 "media_type": "Text",
 "index_reference": "亞伯拉罕之約",
@@ -258,7 +467,7 @@
 {
 "content_id": "233117",
 "reference_id": 108516,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞達薛西",
 "media_type": "Text",
 "index_reference": "亞達薛西",
@@ -268,13 +477,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Artaxerxes.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Artaxerxes"
+},
+{
+"id": "person:Artaxerxes",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Artaxerxes"
+}
+]
 }
 },
 {
 "content_id": "232804",
 "reference_id": 108203,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞當",
 "media_type": "Text",
 "index_reference": "亞當",
@@ -284,13 +508,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Adam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Adam"
+},
+{
+"id": "place:Adam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Adam"
+}
+]
 }
 },
 {
 "content_id": "232738",
 "reference_id": 108137,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞底米",
 "media_type": "Text",
 "index_reference": "亞底米",
@@ -300,13 +539,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Artemis",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Artemis"
+}
+]
 }
 },
 {
 "content_id": "233075",
 "reference_id": 108474,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞多尼雅",
 "media_type": "Text",
 "index_reference": "亞多尼雅",
@@ -316,13 +563,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Adonijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Adonijah"
+},
+{
+"id": "person:Adonijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Adonijah"
+},
+{
+"id": "person:Adonijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Adonijah"
+}
+]
 }
 },
 {
 "content_id": "232752",
 "reference_id": 108151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞該亞",
 "media_type": "Text",
 "index_reference": "亞該亞",
@@ -332,13 +601,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Achaia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Achaia"
+}
+]
 }
 },
 {
 "content_id": "233027",
 "reference_id": 108426,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞干",
 "media_type": "Text",
 "index_reference": "亞干",
@@ -348,13 +625,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Achan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Achan"
+}
+]
 }
 },
 {
 "content_id": "233085",
 "reference_id": 108484,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞哈",
 "media_type": "Text",
 "index_reference": "亞哈",
@@ -364,13 +649,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ahab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahab"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahab"
+}
+]
 }
 },
 {
 "content_id": "232735",
 "reference_id": 108134,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞居拉和百基拉",
 "media_type": "Text",
 "index_reference": "亞居拉和百基拉",
@@ -380,13 +680,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Aquila",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aquila"
+},
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Priscilla"
+}
+]
 }
 },
 {
 "content_id": "233035",
 "reference_id": 108434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞蘭",
 "media_type": "Text",
 "index_reference": "亞蘭",
@@ -396,13 +711,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Aram.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+},
+{
+"id": "person:Aram.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+},
+{
+"id": "person:Aram",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paddan-aram"
+}
+]
 }
 },
 {
 "content_id": "232907",
 "reference_id": 108306,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞倫",
 "media_type": "Text",
 "index_reference": "亞倫",
@@ -427,13 +771,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aaron"
+}
+]
 }
 },
 {
 "content_id": "232910",
 "reference_id": 108309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞倫的杖",
 "media_type": "Text",
 "index_reference": "亞倫的杖",
@@ -449,7 +801,7 @@
 {
 "content_id": "232925",
 "reference_id": 108324,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞瑪力人",
 "media_type": "Text",
 "index_reference": "亞瑪力人",
@@ -459,13 +811,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amalekites"
+}
+]
 }
 },
 {
 "content_id": "233013",
 "reference_id": 108412,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞捫人",
 "media_type": "Text",
 "index_reference": "亞捫人",
@@ -475,13 +835,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ammonites"
+}
+]
 }
 },
 {
 "content_id": "233014",
 "reference_id": 108413,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞摩利人",
 "media_type": "Text",
 "index_reference": "亞摩利人",
@@ -491,13 +859,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amorites"
+}
+]
 }
 },
 {
 "content_id": "233083",
 "reference_id": 108482,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞撒",
 "media_type": "Text",
 "index_reference": "亞撒",
@@ -507,13 +883,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Asa.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asa"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asa"
+}
+]
 }
 },
 {
 "content_id": "233107",
 "reference_id": 108506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞薩",
 "media_type": "Text",
 "index_reference": "亞薩",
@@ -523,13 +914,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Asaph.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asaph"
+},
+{
+"id": "person:Asaph.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asaph"
+},
+{
+"id": "person:Asaph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asaph"
+},
+{
+"id": "person:Ebiasaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ebiasaph"
+},
+{
+"id": "person:Asaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asaph"
+}
+]
 }
 },
 {
 "content_id": "233094",
 "reference_id": 108493,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞述",
 "media_type": "Text",
 "index_reference": "亞述",
@@ -539,13 +966,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Assyria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Assyria"
+}
+]
 }
 },
 {
 "content_id": "233030",
 "reference_id": 108429,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞斯她錄",
 "media_type": "Text",
 "index_reference": "亞斯她錄",
@@ -555,13 +990,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Ashtoreth",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ashtoreth"
+}
+]
 }
 },
 {
 "content_id": "233091",
 "reference_id": 108490,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞她利雅",
 "media_type": "Text",
 "index_reference": "亞她利雅",
@@ -571,13 +1014,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Athaliah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Athaliah"
+},
+{
+"id": "person:Athaliah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Athaliah"
+},
+{
+"id": "person:Athaliah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Athaliah"
+}
+]
 }
 },
 {
 "content_id": "233059",
 "reference_id": 108458,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞希米勒",
 "media_type": "Text",
 "index_reference": "亞希米勒",
@@ -587,13 +1052,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ahimelech.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahimelech"
+},
+{
+"id": "person:Ahimelech.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahimelech"
+},
+{
+"id": "person:Ahimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahimelech"
+}
+]
 }
 },
 {
 "content_id": "233078",
 "reference_id": 108477,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "亞希雅",
 "media_type": "Text",
 "index_reference": "亞希雅",
@@ -603,7 +1090,64 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ahijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahijah"
+},
+{
+"id": "person:Ahijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahijah"
+},
+{
+"id": "person:Ahijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahijah"
+},
+{
+"id": "person:Ahijah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahijah"
+},
+{
+"id": "person:Ahijah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahijah"
+},
+{
+"id": "person:Ahijah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahijah"
+},
+{
+"id": "person:Ahimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahimelech"
+},
+{
+"id": "person:Ahijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahijah"
+}
+]
 }
 }
 ]

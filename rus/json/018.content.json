@@ -2,7 +2,7 @@
 {
 "content_id": "193140",
 "reference_id": 108058,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Саддукеи",
 "media_type": "Text",
 "index_reference": "саддукеи",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sadducees"
+}
+]
 }
 },
 {
 "content_id": "193571",
 "reference_id": 108489,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Самария",
 "media_type": "Text",
 "index_reference": "самария",
@@ -30,46 +38,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Самария",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Samaria.2",
 "type": "place",
-"preferred_label": "Samaria",
-"confidence": 0.9071,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samaria"
 },
 {
-"id": "person:Shemariah",
-"type": "person",
-"preferred_label": "Шемария",
-"confidence": 0.8659,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemariah.2",
-"type": "person",
-"preferred_label": "Шемария",
-"confidence": 0.8659,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemariah.3",
-"type": "person",
-"preferred_label": "Шемария",
-"confidence": 0.8659,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemariah.4",
-"type": "person",
-"preferred_label": "Шемария",
-"confidence": 0.8659,
-"match_method": "embedding"
+"id": "place:Samaria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Самария"
 }
 ]
 }
@@ -77,7 +57,7 @@
 {
 "content_id": "193521",
 "reference_id": 108439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Самсон",
 "media_type": "Text",
 "index_reference": "самсон",
@@ -91,9 +71,9 @@
 {
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "Самсон",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Самсон"
 }
 ]
 }
@@ -101,7 +81,7 @@
 {
 "content_id": "193534",
 "reference_id": 108452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Самуил",
 "media_type": "Text",
 "index_reference": "самуил",
@@ -115,23 +95,9 @@
 {
 "id": "person:Samuel",
 "type": "person",
-"preferred_label": "Самуил",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemuel",
-"type": "person",
-"preferred_label": "Самуил",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemuel.2",
-"type": "person",
-"preferred_label": "Самуил",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Самуил"
 }
 ]
 }
@@ -139,7 +105,7 @@
 {
 "content_id": "193260",
 "reference_id": 108178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сардис",
 "media_type": "Text",
 "index_reference": "сардис",
@@ -153,9 +119,9 @@
 {
 "id": "place:Sardis",
 "type": "place",
-"preferred_label": "Сардис",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Сардис"
 }
 ]
 }
@@ -163,7 +129,7 @@
 {
 "content_id": "193329",
 "reference_id": 108247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сарра",
 "media_type": "Text",
 "index_reference": "сарра",
@@ -177,9 +143,9 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "Сарра",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Сарра"
 }
 ]
 }
@@ -187,7 +153,7 @@
 {
 "content_id": "193537",
 "reference_id": 108455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Саул",
 "media_type": "Text",
 "index_reference": "саул",
@@ -201,51 +167,16 @@
 {
 "id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Саул",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Саул"
 },
 {
-"id": "person:Shaul",
+"id": "person:Paul",
 "type": "person",
-"preferred_label": "Саул",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shaul.2",
-"type": "person",
-"preferred_label": "Саул",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shaul.3",
-"type": "person",
-"preferred_label": "Саул",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Salu",
-"type": "person",
-"preferred_label": "Салу",
-"confidence": 0.8891,
-"match_method": "embedding"
-},
-{
-"id": "person:Shelah",
-"type": "person",
-"preferred_label": "Сала",
-"confidence": 0.8542,
-"match_method": "embedding"
-},
-{
-"id": "person:Shelah.2",
-"type": "person",
-"preferred_label": "Сала",
-"confidence": 0.8542,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Павел"
 }
 ]
 }
@@ -253,7 +184,7 @@
 {
 "content_id": "193628",
 "reference_id": 108546,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Свет",
 "media_type": "Text",
 "index_reference": "свет",
@@ -284,7 +215,7 @@
 {
 "content_id": "193627",
 "reference_id": 108545,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Свет для язычников",
 "media_type": "Text",
 "index_reference": "свет для язычников",
@@ -300,7 +231,7 @@
 {
 "content_id": "193126",
 "reference_id": 108044,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Святая жизнь",
 "media_type": "Text",
 "index_reference": "святая жизнь",
@@ -316,7 +247,7 @@
 {
 "content_id": "193447",
 "reference_id": 108365,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Святое Святых",
 "media_type": "Text",
 "index_reference": "святое святых",
@@ -334,21 +265,13 @@
 "language": "rus"
 }
 ],
-"acai": [
-{
-"id": "place:MostHolyPlace",
-"type": "place",
-"preferred_label": "Святое святых",
-"confidence": 0.9633,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "193443",
 "reference_id": 108361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Святой",
 "media_type": "Text",
 "index_reference": "святой",
@@ -358,13 +281,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Holy"
+}
+]
 }
 },
 {
 "content_id": "193470",
 "reference_id": 108388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Святой Дух",
 "media_type": "Text",
 "index_reference": "святой дух",
@@ -378,9 +309,9 @@
 {
 "id": "deity:HolySpirit",
 "type": "deity",
-"preferred_label": "Святой Дух",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Святой Дух"
 }
 ]
 }
@@ -388,7 +319,7 @@
 {
 "content_id": "193415",
 "reference_id": 108333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Священник",
 "media_type": "Text",
 "index_reference": "священник",
@@ -419,7 +350,7 @@
 {
 "content_id": "193561",
 "reference_id": 108479,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Северное Царство",
 "media_type": "Text",
 "index_reference": "северное царство",
@@ -435,7 +366,7 @@
 {
 "content_id": "193267",
 "reference_id": 108185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Семь",
 "media_type": "Text",
 "index_reference": "семь",
@@ -451,7 +382,7 @@
 {
 "content_id": "193296",
 "reference_id": 108214,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Семь",
 "media_type": "Text",
 "index_reference": "семь",
@@ -467,7 +398,7 @@
 {
 "content_id": "193501",
 "reference_id": 108419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сердце",
 "media_type": "Text",
 "index_reference": "сердце",
@@ -477,13 +408,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Heart"
+}
+]
 }
 },
 {
 "content_id": "193477",
 "reference_id": 108395,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сигон и Ог",
 "media_type": "Text",
 "index_reference": "сигон и ог",
@@ -493,13 +432,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Og",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ог"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Сигон"
+}
+]
 }
 },
 {
 "content_id": "193203",
 "reference_id": 108121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сила",
 "media_type": "Text",
 "index_reference": "сила",
@@ -513,9 +467,9 @@
 {
 "id": "person:Silas",
 "type": "person",
-"preferred_label": "Сила",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Сила"
 }
 ]
 }
@@ -523,7 +477,7 @@
 {
 "content_id": "193166",
 "reference_id": 108084,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Силоам",
 "media_type": "Text",
 "index_reference": "силоам",
@@ -537,9 +491,9 @@
 {
 "id": "place:Siloam",
 "type": "place",
-"preferred_label": "Siloam",
-"confidence": 0.8892,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Siloam"
 }
 ]
 }
@@ -547,7 +501,7 @@
 {
 "content_id": "193535",
 "reference_id": 108453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Силом",
 "media_type": "Text",
 "index_reference": "силом",
@@ -561,23 +515,16 @@
 {
 "id": "person:Shiloh",
 "type": "person",
-"preferred_label": "Силом",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Силом"
 },
 {
 "id": "place:Shiloh",
 "type": "place",
-"preferred_label": "Силом",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Blastus",
-"type": "person",
-"preferred_label": "Власт",
-"confidence": 0.8078,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Силом"
 }
 ]
 }
@@ -585,7 +532,7 @@
 {
 "content_id": "193323",
 "reference_id": 108241,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сим",
 "media_type": "Text",
 "index_reference": "сим",
@@ -595,13 +542,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Сима"
+}
+]
 }
 },
 {
 "content_id": "193167",
 "reference_id": 108085,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Симон Киринеянин",
 "media_type": "Text",
 "index_reference": "симон киринеянин",
@@ -611,13 +566,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Simon.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Симон"
+}
+]
 }
 },
 {
 "content_id": "193133",
 "reference_id": 108051,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Синагога",
 "media_type": "Text",
 "index_reference": "синагога",
@@ -627,13 +590,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Synagogue"
+}
+]
 }
 },
 {
 "content_id": "193410",
 "reference_id": 108328,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Синайский завет",
 "media_type": "Text",
 "index_reference": "синайский завет",
@@ -649,7 +620,7 @@
 {
 "content_id": "193149",
 "reference_id": 108067,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Синедрион",
 "media_type": "Text",
 "index_reference": "синедрион",
@@ -659,13 +630,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sanhedrin",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Sanhedrin"
+}
+]
 }
 },
 {
 "content_id": "193306",
 "reference_id": 108224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сиф",
 "media_type": "Text",
 "index_reference": "сиф",
@@ -675,13 +654,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Seth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Сиф"
+}
+]
 }
 },
 {
 "content_id": "193364",
 "reference_id": 108282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сихем",
 "media_type": "Text",
 "index_reference": "сихем",
@@ -691,13 +678,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shechem.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Шехем"
+},
+{
+"id": "person:Shechem.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Шехем"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Шехем"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Шехем"
+}
+]
 }
 },
 {
 "content_id": "193416",
 "reference_id": 108334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Скиния",
 "media_type": "Text",
 "index_reference": "скиния ",
@@ -707,13 +723,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
 "content_id": "193429",
 "reference_id": 108347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Скиния собрания",
 "media_type": "Text",
 "index_reference": "скиния собрания",
@@ -723,13 +747,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
 "content_id": "193430",
 "reference_id": 108348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Слава",
 "media_type": "Text",
 "index_reference": "слава",
@@ -743,9 +775,9 @@
 {
 "id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.8987,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Glory"
 }
 ]
 }
@@ -753,7 +785,7 @@
 {
 "content_id": "193272",
 "reference_id": 108190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Смерть и ад",
 "media_type": "Text",
 "index_reference": "смерть и ад",
@@ -763,13 +795,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "193256",
 "reference_id": 108174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Смирна",
 "media_type": "Text",
 "index_reference": "смирна",
@@ -783,9 +823,9 @@
 {
 "id": "place:Smyrna",
 "type": "place",
-"preferred_label": "Смирна",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Смирна"
 }
 ]
 }
@@ -793,7 +833,7 @@
 {
 "content_id": "193355",
 "reference_id": 108273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сны",
 "media_type": "Text",
 "index_reference": "сны",
@@ -809,7 +849,7 @@
 {
 "content_id": "193247",
 "reference_id": 108165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Совершенный",
 "media_type": "Text",
 "index_reference": "совершенный",
@@ -825,7 +865,7 @@
 {
 "content_id": "193331",
 "reference_id": 108249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Содом и Гоморра",
 "media_type": "Text",
 "index_reference": "содом и гоморра",
@@ -835,13 +875,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Гоморра"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Содом"
+}
+]
 }
 },
 {
 "content_id": "193555",
 "reference_id": 108473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Соломон",
 "media_type": "Text",
 "index_reference": "соломон",
@@ -855,9 +910,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "Соломон",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Соломон"
 }
 ]
 }
@@ -865,7 +920,7 @@
 {
 "content_id": "193278",
 "reference_id": 108196,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Спасение",
 "media_type": "Text",
 "index_reference": "спасение",
@@ -887,9 +942,9 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Salvation",
-"confidence": 0.8052,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Salvation"
 }
 ]
 }
@@ -897,7 +952,7 @@
 {
 "content_id": "193401",
 "reference_id": 108319,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Спаситель",
 "media_type": "Text",
 "index_reference": "спаситель",
@@ -907,13 +962,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.8394,
+"match_method": "embedding",
+"preferred_label": "Savior"
+}
+]
 }
 },
 {
 "content_id": "193657",
 "reference_id": 108575,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Средиземное море",
 "media_type": "Text",
 "index_reference": "средиземное море",
@@ -927,9 +990,9 @@
 {
 "id": "place:GreatSea",
 "type": "place",
-"preferred_label": "Mediterranean Sea",
-"confidence": 0.8882,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mediterranean Sea"
 }
 ]
 }
@@ -937,7 +1000,7 @@
 {
 "content_id": "193389",
 "reference_id": 108307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Старейшины",
 "media_type": "Text",
 "index_reference": "старейшины",
@@ -947,13 +1010,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericElders",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Elders"
+}
+]
 }
 },
 {
 "content_id": "193183",
 "reference_id": 108101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Стефан",
 "media_type": "Text",
 "index_reference": "стефан",
@@ -965,18 +1036,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Stephanas",
-"type": "person",
-"preferred_label": "Стефан",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Stephen",
 "type": "person",
-"preferred_label": "Стефан",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Стефан"
 }
 ]
 }
@@ -984,7 +1048,7 @@
 {
 "content_id": "193213",
 "reference_id": 108131,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Стоики",
 "media_type": "Text",
 "index_reference": "стоики",
@@ -994,13 +1058,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Stoic",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Stoics"
+}
+]
 }
 },
 {
 "content_id": "193547",
 "reference_id": 108465,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Стыд и честь",
 "media_type": "Text",
 "index_reference": "стыд и честь",
@@ -1016,7 +1088,7 @@
 {
 "content_id": "193295",
 "reference_id": 108213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Суббота",
 "media_type": "Text",
 "index_reference": "суббота",
@@ -1032,7 +1104,7 @@
 {
 "content_id": "193315",
 "reference_id": 108233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Суд",
 "media_type": "Text",
 "index_reference": "суд",
@@ -1042,13 +1114,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.8663,
+"match_method": "embedding",
+"preferred_label": "Judgment"
+}
+]
 }
 },
 {
 "content_id": "193502",
 "reference_id": 108420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Судья",
 "media_type": "Text",
 "index_reference": "судья",
@@ -1062,9 +1142,9 @@
 {
 "id": "keyterm:Judge",
 "type": "keyterm",
-"preferred_label": "Judge",
-"confidence": 0.9504,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Judge"
 }
 ]
 }
@@ -1072,7 +1152,7 @@
 {
 "content_id": "193599",
 "reference_id": 108517,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сузы",
 "media_type": "Text",
 "index_reference": "сузы",
@@ -1086,9 +1166,9 @@
 {
 "id": "place:Susa",
 "type": "place",
-"preferred_label": "Сузы",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Сузы"
 }
 ]
 }
@@ -1096,7 +1176,7 @@
 {
 "content_id": "193134",
 "reference_id": 108052,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сын Давидов",
 "media_type": "Text",
 "index_reference": "сын давидов",
@@ -1120,7 +1200,7 @@
 {
 "content_id": "193639",
 "reference_id": 108557,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сын Человеческий",
 "media_type": "Text",
 "index_reference": "сын человеческий",
@@ -1136,7 +1216,7 @@
 {
 "content_id": "193313",
 "reference_id": 108231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Сыны Божьи",
 "media_type": "Text",
 "index_reference": "сыны божьи",

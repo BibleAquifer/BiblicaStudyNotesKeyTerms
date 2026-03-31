@@ -2,7 +2,7 @@
 {
 "content_id": "183235",
 "reference_id": 108341,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "धातु बछड़ा",
 "media_type": "Text",
 "index_reference": "धातु बछड़ा",
@@ -26,7 +26,7 @@
 {
 "content_id": "183265",
 "reference_id": 108371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "धूप",
 "media_type": "Text",
 "index_reference": "धूप",
@@ -36,7 +36,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
+}
+]
 }
 }
 ]

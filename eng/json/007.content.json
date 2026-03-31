@@ -2,7 +2,7 @@
 {
 "content_id": "132178",
 "reference_id": 108232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Faith",
 "media_type": "Text",
 "index_reference": "faith",
@@ -16,9 +16,9 @@
 {
 "id": "keyterm:LeanOn",
 "type": "keyterm",
-"preferred_label": "Trust",
 "confidence": 0.8872,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Trust"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "132230",
 "reference_id": 108284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "False gods",
 "media_type": "Text",
 "index_reference": "false gods",
@@ -42,7 +42,7 @@
 {
 "content_id": "132496",
 "reference_id": 108550,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "False prophet",
 "media_type": "Text",
 "index_reference": "false prophet",
@@ -66,7 +66,7 @@
 {
 "content_id": "132166",
 "reference_id": 108220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Family line",
 "media_type": "Text",
 "index_reference": "family line",
@@ -82,7 +82,7 @@
 {
 "content_id": "132394",
 "reference_id": 108448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Family protector",
 "media_type": "Text",
 "index_reference": "family protector",
@@ -98,7 +98,7 @@
 {
 "content_id": "132402",
 "reference_id": 108456,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fasting",
 "media_type": "Text",
 "index_reference": "fasting",
@@ -114,7 +114,7 @@
 {
 "content_id": "132258",
 "reference_id": 108312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Father",
 "media_type": "Text",
 "index_reference": "father",
@@ -128,9 +128,9 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -138,10 +138,10 @@
 {
 "content_id": "132217",
 "reference_id": 108271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Father’s blessing",
 "media_type": "Text",
-"index_reference": "father’s blessing",
+"index_reference": "fathers blessing",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Final words that a father spoke out loud to his children before he died. The father would say what he thought or hoped would happen later in his children’s lives. Usually this would include promises for success, wealth and authority. The eldest son usually received the largest blessing.</p>",
@@ -154,7 +154,7 @@
 {
 "content_id": "132323",
 "reference_id": 108377,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Feast of Booths",
 "media_type": "Text",
 "index_reference": "feast of booths",
@@ -170,7 +170,7 @@
 {
 "content_id": "132469",
 "reference_id": 108523,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Feast of Purim",
 "media_type": "Text",
 "index_reference": "feast of purim",
@@ -186,7 +186,7 @@
 {
 "content_id": "132322",
 "reference_id": 108376,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Feast of Trumpets",
 "media_type": "Text",
 "index_reference": "feast of trumpets",
@@ -202,7 +202,7 @@
 {
 "content_id": "132319",
 "reference_id": 108373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Feast of Unleavened Bread",
 "media_type": "Text",
 "index_reference": "feast of unleavened bread",
@@ -218,7 +218,7 @@
 {
 "content_id": "132318",
 "reference_id": 108372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Feasts",
 "media_type": "Text",
 "index_reference": "feasts",
@@ -234,7 +234,7 @@
 {
 "content_id": "132320",
 "reference_id": 108374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "First share of crops",
 "media_type": "Text",
 "index_reference": "first share of crops",
@@ -250,7 +250,7 @@
 {
 "content_id": "132180",
 "reference_id": 108234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Flood",
 "media_type": "Text",
 "index_reference": "flood",
@@ -274,7 +274,7 @@
 {
 "content_id": "132227",
 "reference_id": 108281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Forgive",
 "media_type": "Text",
 "index_reference": "forgive",
@@ -288,9 +288,9 @@
 {
 "id": "keyterm:Forgive",
 "type": "keyterm",
-"preferred_label": "Forgive",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Forgive"
 }
 ]
 }
@@ -298,7 +298,7 @@
 {
 "content_id": "132502",
 "reference_id": 108556,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Four living creatures",
 "media_type": "Text",
 "index_reference": "four living creatures",
@@ -314,7 +314,7 @@
 {
 "content_id": "132298",
 "reference_id": 108352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Friendship offerings",
 "media_type": "Text",
 "index_reference": "friendship offerings",
@@ -330,7 +330,7 @@
 {
 "content_id": "132100",
 "reference_id": 108154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fruit of the Holy Spirit",
 "media_type": "Text",
 "index_reference": "fruit of the holy spirit",

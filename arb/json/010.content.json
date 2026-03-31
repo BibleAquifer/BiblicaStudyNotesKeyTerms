@@ -2,7 +2,7 @@
 {
 "content_id": "134180",
 "reference_id": 108378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخَدم أو العبيد",
 "media_type": "Text",
 "index_reference": "الخَدم أو العبيد",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericServants",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Servants"
+}
+]
 }
 },
 {
 "content_id": "134118",
 "reference_id": 108316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخروج",
 "media_type": "Text",
 "index_reference": "الخروج",
@@ -34,7 +42,7 @@
 {
 "content_id": "134267",
 "reference_id": 108465,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخزي والكرامة",
 "media_type": "Text",
 "index_reference": "الخزي والكرامة",
@@ -50,7 +58,7 @@
 {
 "content_id": "133906",
 "reference_id": 108104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخَصِيّ الحَبَشِيّ",
 "media_type": "Text",
 "index_reference": "الخَصِيّ الحَبَشِيّ",
@@ -66,7 +74,7 @@
 {
 "content_id": "134345",
 "reference_id": 108543,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الخليقة الجديدة",
 "media_type": "Text",
 "index_reference": "الخليقة الجديدة",
@@ -82,7 +90,7 @@
 {
 "content_id": "134059",
 "reference_id": 108257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خِتان",
 "media_type": "Text",
 "index_reference": "خِتان",
@@ -92,13 +100,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Circumcision"
+}
+]
 }
 },
 {
 "content_id": "134324",
 "reference_id": 108522,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ختم",
 "media_type": "Text",
 "index_reference": "ختم",
@@ -108,13 +124,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seal"
+}
+]
 }
 },
 {
 "content_id": "133997",
 "reference_id": 108195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خطية",
 "media_type": "Text",
 "index_reference": "خطية",
@@ -130,7 +154,7 @@
 {
 "content_id": "133998",
 "reference_id": 108196,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خلاص",
 "media_type": "Text",
 "index_reference": "خلاص",
@@ -148,13 +172,21 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Salvation"
+}
+]
 }
 },
 {
 "content_id": "133999",
 "reference_id": 108197,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خليقة",
 "media_type": "Text",
 "index_reference": "خليقة",
@@ -178,7 +210,7 @@
 {
 "content_id": "134136",
 "reference_id": 108334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خيمة الاجتماع",
 "media_type": "Text",
 "index_reference": "خيمة الاجتماع",
@@ -188,13 +220,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
 "content_id": "134149",
 "reference_id": 108347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "خَيمَةَ الِاجْتِمَاعِ",
 "media_type": "Text",
 "index_reference": "خَيمَةَ الِاجْتِمَاعِ",
@@ -204,7 +244,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "232519",
 "reference_id": 108550,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Falso profeta",
 "media_type": "Text",
 "index_reference": "falso profeta",
@@ -26,7 +26,7 @@
 {
 "content_id": "232253",
 "reference_id": 108284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Falsos dioses",
 "media_type": "Text",
 "index_reference": "falsos dioses",
@@ -42,7 +42,7 @@
 {
 "content_id": "232219",
 "reference_id": 108250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Faraón",
 "media_type": "Text",
 "index_reference": "faraón",
@@ -56,58 +56,72 @@
 {
 "id": "person:Pharaoh.10",
 "type": "person",
-"preferred_label": "Faraón",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Faraón"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nechâo"
 },
 {
 "id": "person:Pharaoh.3",
 "type": "person",
-"preferred_label": "Faraón",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Faraón"
 },
 {
 "id": "person:Pharaoh.4",
 "type": "person",
-"preferred_label": "Faraón",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Faraón"
 },
 {
 "id": "person:Pharaoh.5",
 "type": "person",
-"preferred_label": "Faraón",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Faraón"
 },
 {
 "id": "person:Pharaoh.6",
 "type": "person",
-"preferred_label": "Faraón",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Faraón"
 },
 {
 "id": "person:Pharaoh.7",
 "type": "person",
-"preferred_label": "Faraón",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Faraón"
 },
 {
 "id": "person:Pharaoh.8",
 "type": "person",
-"preferred_label": "Faraón",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Faraón"
 },
 {
 "id": "person:Pharaoh.9",
 "type": "person",
-"preferred_label": "Faraón",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Faraón"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hophra"
 }
 ]
 }
@@ -115,7 +129,7 @@
 {
 "content_id": "232019",
 "reference_id": 108050,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fariseos",
 "media_type": "Text",
 "index_reference": "fariseos",
@@ -125,13 +139,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "fariseo"
+}
+]
 }
 },
 {
 "content_id": "232201",
 "reference_id": 108232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fe",
 "media_type": "Text",
 "index_reference": "fe",
@@ -141,13 +163,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "seguridad"
+}
+]
 }
 },
 {
 "content_id": "232072",
 "reference_id": 108103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Felipe",
 "media_type": "Text",
 "index_reference": "felipe",
@@ -159,39 +189,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Philip",
-"type": "person",
-"preferred_label": "Felipe",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Philip.2",
 "type": "person",
-"preferred_label": "Felipe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Felipe"
 },
 {
 "id": "person:Philip.3",
 "type": "person",
-"preferred_label": "Felipe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Felipe"
 },
 {
 "id": "person:Philip.4",
 "type": "person",
-"preferred_label": "Felipe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Felipe"
 },
 {
-"id": "place:CaesareaPhilippi",
-"type": "place",
-"preferred_label": "Filipo",
-"confidence": 0.8647,
-"match_method": "embedding"
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Felipe"
 }
 ]
 }
@@ -199,7 +222,7 @@
 {
 "content_id": "232286",
 "reference_id": 108317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fiesta de la Pascua",
 "media_type": "Text",
 "index_reference": "fiesta de la pascua",
@@ -215,7 +238,7 @@
 {
 "content_id": "232345",
 "reference_id": 108376,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fiesta de las trompetas",
 "media_type": "Text",
 "index_reference": "fiesta de las trompetas",
@@ -231,7 +254,7 @@
 {
 "content_id": "232342",
 "reference_id": 108373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fiesta de los panes sin levadura",
 "media_type": "Text",
 "index_reference": "fiesta de los panes sin levadura",
@@ -247,7 +270,7 @@
 {
 "content_id": "232346",
 "reference_id": 108377,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fiesta de los tabernáculos",
 "media_type": "Text",
 "index_reference": "fiesta de los tabernáculos",
@@ -263,7 +286,7 @@
 {
 "content_id": "232492",
 "reference_id": 108523,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fiesta de Purim",
 "media_type": "Text",
 "index_reference": "fiesta de purim",
@@ -279,7 +302,7 @@
 {
 "content_id": "232341",
 "reference_id": 108372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fiestas",
 "media_type": "Text",
 "index_reference": "fiestas",
@@ -295,7 +318,7 @@
 {
 "content_id": "232149",
 "reference_id": 108180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filadelfia",
 "media_type": "Text",
 "index_reference": "filadelfia",
@@ -309,9 +332,9 @@
 {
 "id": "place:Philadelphia",
 "type": "place",
-"preferred_label": "Filadelfia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filadelfia"
 }
 ]
 }
@@ -319,7 +342,7 @@
 {
 "content_id": "232133",
 "reference_id": 108164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filemón",
 "media_type": "Text",
 "index_reference": "filemón",
@@ -333,9 +356,9 @@
 {
 "id": "person:Philemon",
 "type": "person",
-"preferred_label": "Filemón",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filemón"
 }
 ]
 }
@@ -343,7 +366,7 @@
 {
 "content_id": "232095",
 "reference_id": 108126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filipos",
 "media_type": "Text",
 "index_reference": "filipos",
@@ -357,16 +380,9 @@
 {
 "id": "place:Philippi",
 "type": "place",
-"preferred_label": "Filipos",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:CaesareaPhilippi",
-"type": "place",
-"preferred_label": "Filipo",
-"confidence": 0.8068,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filipos"
 }
 ]
 }
@@ -374,7 +390,7 @@
 {
 "content_id": "232236",
 "reference_id": 108267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filisteos",
 "media_type": "Text",
 "index_reference": "filisteos",
@@ -386,11 +402,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Filisteos",
+"id": "group:Philistine",
+"type": "group",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "los"
 }
 ]
 }
@@ -398,7 +414,7 @@
 {
 "content_id": "232372",
 "reference_id": 108403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fineas",
 "media_type": "Text",
 "index_reference": "fineas",
@@ -408,13 +424,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinees"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinees"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinees"
+}
+]
 }
 },
 {
 "content_id": "232092",
 "reference_id": 108123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Frigia",
 "media_type": "Text",
 "index_reference": "frigia",
@@ -424,13 +462,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Phrygia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phrygia"
+}
+]
 }
 },
 {
 "content_id": "232123",
 "reference_id": 108154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fruto del Espíritu Santo",
 "media_type": "Text",
 "index_reference": "fruto del espíritu santo",

@@ -2,7 +2,7 @@
 {
 "content_id": "233032",
 "reference_id": 108431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "俄陀聶",
 "media_type": "Text",
 "index_reference": "俄陀聶",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Othniel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Othniel"
+}
+]
 }
 }
 ]

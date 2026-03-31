@@ -2,7 +2,7 @@
 {
 "content_id": "183311",
 "reference_id": 108417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मंदिर",
 "media_type": "Text",
 "index_reference": "मंदिर",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+}
+]
 }
 },
 {
 "content_id": "183019",
 "reference_id": 108125,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मकिदुनिया",
 "media_type": "Text",
 "index_reference": "मकिदुनिया",
@@ -40,9 +48,9 @@
 {
 "id": "place:Macedonia",
 "type": "place",
-"preferred_label": "मकिदुनिया",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मकिदुनिया"
 }
 ]
 }
@@ -50,7 +58,7 @@
 {
 "content_id": "183433",
 "reference_id": 108539,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मत्ती",
 "media_type": "Text",
 "index_reference": "मत्ती",
@@ -64,9 +72,9 @@
 {
 "id": "person:Matthew",
 "type": "person",
-"preferred_label": "मत्ती",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मत्ती"
 }
 ]
 }
@@ -74,7 +82,7 @@
 {
 "content_id": "183230",
 "reference_id": 108336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मध्यस्थ",
 "media_type": "Text",
 "index_reference": "मध्यस्थ",
@@ -90,7 +98,7 @@
 {
 "content_id": "183193",
 "reference_id": 108299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मनश्शे",
 "media_type": "Text",
 "index_reference": "मनश्शे",
@@ -102,46 +110,32 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "मनश्शे",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "मनश्शे",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Manasseh.2",
 "type": "person",
-"preferred_label": "मनश्शे",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मनश्शे"
 },
 {
 "id": "person:Manasseh.3",
 "type": "person",
-"preferred_label": "मनश्शे",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मनश्शे"
 },
 {
 "id": "person:Manasseh.4",
 "type": "person",
-"preferred_label": "मनश्शे",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मनश्शे"
 },
 {
-"id": "group:Menuhoth",
-"type": "group",
-"preferred_label": "मनुहोत",
-"confidence": 0.8195,
-"match_method": "embedding"
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मनश्शे"
 }
 ]
 }
@@ -149,7 +143,7 @@
 {
 "content_id": "183096",
 "reference_id": 108202,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मनुष्य",
 "media_type": "Text",
 "index_reference": "मनुष्य",
@@ -165,7 +159,7 @@
 {
 "content_id": "183451",
 "reference_id": 108557,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मनुष्य का पुत्र",
 "media_type": "Text",
 "index_reference": "मनुष्य का पुत्र",
@@ -181,7 +175,7 @@
 {
 "content_id": "183217",
 "reference_id": 108323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मन्ना",
 "media_type": "Text",
 "index_reference": "मन्ना",
@@ -197,7 +191,7 @@
 {
 "content_id": "183361",
 "reference_id": 108467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मपीबोशेत",
 "media_type": "Text",
 "index_reference": "मपीबोशेत",
@@ -209,18 +203,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mephibosheth",
-"type": "person",
-"preferred_label": "मपीबोशेत",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Mephibosheth.2",
 "type": "person",
-"preferred_label": "मपीबोशेत",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मपीबोशेत"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मपीबोशेत"
 }
 ]
 }
@@ -228,7 +222,7 @@
 {
 "content_id": "182963",
 "reference_id": 108069,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मरकुस",
 "media_type": "Text",
 "index_reference": "मरकुस",
@@ -242,9 +236,9 @@
 {
 "id": "person:Mark",
 "type": "person",
-"preferred_label": "मरकुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मरकुस"
 }
 ]
 }
@@ -252,7 +246,7 @@
 {
 "content_id": "183216",
 "reference_id": 108322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मरियम",
 "media_type": "Text",
 "index_reference": "मरियम",
@@ -264,46 +258,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mary",
+"id": "person:Miriam.2",
 "type": "person",
-"preferred_label": "मरियम",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मिर्याम"
 },
 {
-"id": "person:Mary.2",
+"id": "person:Miriam",
 "type": "person",
-"preferred_label": "मरियम",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Mary.3",
-"type": "person",
-"preferred_label": "मरियम",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Mary.4",
-"type": "person",
-"preferred_label": "मरियम",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Mary.5",
-"type": "person",
-"preferred_label": "मरियम",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Mary.6",
-"type": "person",
-"preferred_label": "मरियम",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मिर्याम"
 }
 ]
 }
@@ -311,7 +277,7 @@
 {
 "content_id": "182962",
 "reference_id": 108068,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मरियम मगदलीनी",
 "media_type": "Text",
 "index_reference": "मरियम मगदलीनी",
@@ -321,29 +287,101 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary Magdalene"
+}
+]
 }
 },
 {
 "content_id": "182977",
 "reference_id": 108083,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मरियम, मार्था और लाज़र",
 "media_type": "Text",
-"index_reference": "मरियम, मार्था और लाज़र",
+"index_reference": "मरियम मार्था और लाज़र",
 "language": "hin",
 "review_level": "None",
 "content": "<p>यीशु के करीबी दोस्त दो बहनें और एक भाई। वे यरूशलेम के बाहर बैतनिय्याह में रहते थे। यीशु उनके घर ठहरते थे। लाज़र को चार दिन तक दफनाने के बाद, यीशु ने उसे फिर से जीवित किया। मरियम ने अपने गहरे प्रेम को प्रकट करने के लिए यीशु के सिर पर महंगा इत्र डाला।</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "लाज़र"
+},
+{
+"id": "person:Lazarus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "लाज़र"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मार्था"
+},
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+}
+]
 }
 },
 {
 "content_id": "183288",
 "reference_id": 108394,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मरीबा",
 "media_type": "Text",
 "index_reference": "मरीबा",
@@ -355,18 +393,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Meribah",
-"type": "place",
-"preferred_label": "मरीबा",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Meribah.2",
 "type": "place",
-"preferred_label": "मरीबा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मरीबा"
+},
+{
+"id": "place:Meribah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरीबा"
 }
 ]
 }
@@ -374,7 +412,7 @@
 {
 "content_id": "183472",
 "reference_id": 108578,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मलाकी",
 "media_type": "Text",
 "index_reference": "मलाकी",
@@ -388,16 +426,9 @@
 {
 "id": "person:Malachi",
 "type": "person",
-"preferred_label": "मलाकी",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "group:Maacah",
-"type": "group",
-"preferred_label": "माकाई",
-"confidence": 0.86,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मलाकी"
 }
 ]
 }
@@ -405,7 +436,7 @@
 {
 "content_id": "183146",
 "reference_id": 108252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मलिकिसिदक",
 "media_type": "Text",
 "index_reference": "मलिकिसिदक",
@@ -419,9 +450,9 @@
 {
 "id": "person:Melchizedek",
 "type": "person",
-"preferred_label": "मलिकिसिदक",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मलिकिसिदक"
 }
 ]
 }
@@ -429,7 +460,7 @@
 {
 "content_id": "182992",
 "reference_id": 108098,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह",
 "media_type": "Text",
 "index_reference": "मसीह",
@@ -454,13 +485,21 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यीशु"
+}
+]
 }
 },
 {
 "content_id": "183039",
 "reference_id": 108145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह का रहस्य",
 "media_type": "Text",
 "index_reference": "मसीह का रहस्य",
@@ -476,7 +515,7 @@
 {
 "content_id": "183037",
 "reference_id": 108143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह का शरीर",
 "media_type": "Text",
 "index_reference": "मसीह का शरीर",
@@ -492,7 +531,7 @@
 {
 "content_id": "183041",
 "reference_id": 108147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीह कि व्यवस्था",
 "media_type": "Text",
 "index_reference": "मसीह कि व्यवस्था",
@@ -508,7 +547,7 @@
 {
 "content_id": "183421",
 "reference_id": 108527,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मसीहा",
 "media_type": "Text",
 "index_reference": "मसीहा",
@@ -520,11 +559,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Christ",
-"type": "group",
-"preferred_label": "मसीही",
-"confidence": 0.9714,
-"match_method": "embedding"
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यीशु"
 }
 ]
 }
@@ -532,7 +571,7 @@
 {
 "content_id": "182943",
 "reference_id": 108049,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "महसूल लेने वाला",
 "media_type": "Text",
 "index_reference": "महसूल लेने वाला",
@@ -550,13 +589,28 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.986,
+"match_method": "embedding",
+"preferred_label": "Tax Collector"
+},
+{
+"id": "group:TaxCollectors",
+"type": "group",
+"confidence": 0.8299,
+"match_method": "embedding",
+"preferred_label": "Tax Collectors"
+}
+]
 }
 },
 {
 "content_id": "183452",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "महान हेरोदेस",
 "media_type": "Text",
 "index_reference": "महान हेरोदेस",
@@ -566,13 +620,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "हेरोदेस"
+}
+]
 }
 },
 {
 "content_id": "183262",
 "reference_id": 108368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "महायाजक",
 "media_type": "Text",
 "index_reference": "महायाजक",
@@ -588,23 +650,31 @@
 {
 "content_id": "182961",
 "reference_id": 108067,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "महासभा (सन्हेद्रिन)",
 "media_type": "Text",
-"index_reference": "महासभा (सन्हेद्रिन)",
+"index_reference": "महासभा सन्हेद्रिन",
 "language": "hin",
 "review_level": "None",
 "content": "<p>धर्म के 70 नेताओं का एक समूह। यीशु के समय में उनके पास यहूदी अदालतों में सबसे अधिक अधिकार था। महासभा (सन्हेद्रिन) को यहूदी परिषद भी कहा जाता था। वे यरूशलेम में मंदिर की देखभाल करते थे और यहूदी लोगों के लिए महत्वपूर्ण निर्णय लेते थे। फरीसी और सदूकी दोनों ही महासभा (सन्हेद्रिन) में सेवा करते थे। महासभा (सन्हेद्रिन) ने यीशु का विरोध किया। उन्होंने उन प्रेरितों का भी विरोध किया जिन्होंने यीशु के मृतकों में से उठने की खबर फैलाई।</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sanhedrin",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Sanhedrin"
+}
+]
 }
 },
 {
 "content_id": "183242",
 "reference_id": 108348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "महिमा",
 "media_type": "Text",
 "index_reference": "महिमा",
@@ -618,9 +688,9 @@
 {
 "id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Glory",
-"confidence": 0.8515,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Glory"
 }
 ]
 }
@@ -628,7 +698,7 @@
 {
 "content_id": "183355",
 "reference_id": 108461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "माध्यम",
 "media_type": "Text",
 "index_reference": "माध्यम",
@@ -644,7 +714,7 @@
 {
 "content_id": "183246",
 "reference_id": 108352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मित्रता भेंट",
 "media_type": "Text",
 "index_reference": "मित्रता भेंट",
@@ -660,7 +730,7 @@
 {
 "content_id": "183197",
 "reference_id": 108303,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मिद्यानियों",
 "media_type": "Text",
 "index_reference": "मिद्यानियों",
@@ -670,13 +740,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिद्यानी"
+}
+]
 }
 },
 {
 "content_id": "183241",
 "reference_id": 108347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मिलाप का तम्बू",
 "media_type": "Text",
 "index_reference": "मिलाप का तम्बू",
@@ -686,13 +764,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
 "content_id": "183145",
 "reference_id": 108251,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मिस्र",
 "media_type": "Text",
 "index_reference": "मिस्र",
@@ -706,16 +792,16 @@
 {
 "id": "person:Egypt",
 "type": "person",
-"preferred_label": "मिस्र",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मिस्र"
 },
 {
 "id": "place:Egypt",
 "type": "place",
-"preferred_label": "मिस्र",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मिस्र"
 }
 ]
 }
@@ -723,7 +809,7 @@
 {
 "content_id": "183470",
 "reference_id": 108576,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मीका",
 "media_type": "Text",
 "index_reference": "मीका",
@@ -735,123 +821,53 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mica",
-"type": "person",
-"preferred_label": "मीका",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Mica.2",
-"type": "person",
-"preferred_label": "मीका",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Mica.3",
-"type": "person",
-"preferred_label": "मीका",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Micah.2",
 "type": "person",
-"preferred_label": "मीका",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीका"
 },
 {
 "id": "person:Micah.3",
 "type": "person",
-"preferred_label": "मीका",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीका"
 },
 {
 "id": "person:Micah.4",
 "type": "person",
-"preferred_label": "मीका",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीका"
 },
 {
 "id": "person:Micah.5",
 "type": "person",
-"preferred_label": "मीका",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीका"
 },
 {
 "id": "person:Micah.6",
 "type": "person",
-"preferred_label": "मीका",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीका"
 },
 {
-"id": "person:Maacah",
+"id": "person:Micaiah.3",
 "type": "person",
-"preferred_label": "माका",
-"confidence": 0.851,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaiah"
 },
 {
-"id": "person:Maacah.2",
+"id": "person:Mica",
 "type": "person",
-"preferred_label": "माका",
-"confidence": 0.851,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.3",
-"type": "person",
-"preferred_label": "माका",
-"confidence": 0.851,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.4",
-"type": "person",
-"preferred_label": "माका",
-"confidence": 0.851,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.5",
-"type": "person",
-"preferred_label": "माका",
-"confidence": 0.851,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.6",
-"type": "person",
-"preferred_label": "माका",
-"confidence": 0.851,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.7",
-"type": "person",
-"preferred_label": "माका",
-"confidence": 0.851,
-"match_method": "embedding"
-},
-{
-"id": "person:Maacah.8",
-"type": "person",
-"preferred_label": "माका",
-"confidence": 0.851,
-"match_method": "embedding"
-},
-{
-"id": "place:Maacah",
-"type": "place",
-"preferred_label": "माका",
-"confidence": 0.851,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीका"
 }
 ]
 }
@@ -859,7 +875,7 @@
 {
 "content_id": "183459",
 "reference_id": 108565,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मीकाएल",
 "media_type": "Text",
 "index_reference": "मीकाएल",
@@ -871,102 +887,81 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Michael",
-"type": "person",
-"preferred_label": "मीकाएल",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Michael.10",
 "type": "person",
-"preferred_label": "मीकाएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 },
 {
 "id": "person:Michael.11",
 "type": "person",
-"preferred_label": "मीकाएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 },
 {
 "id": "person:Michael.2",
 "type": "person",
-"preferred_label": "मीकाएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 },
 {
 "id": "person:Michael.3",
 "type": "person",
-"preferred_label": "मीकाएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 },
 {
 "id": "person:Michael.4",
 "type": "person",
-"preferred_label": "मीकाएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 },
 {
 "id": "person:Michael.5",
 "type": "person",
-"preferred_label": "मीकाएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 },
 {
 "id": "person:Michael.6",
 "type": "person",
-"preferred_label": "मीकाएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 },
 {
 "id": "person:Michael.7",
 "type": "person",
-"preferred_label": "मीकाएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 },
 {
 "id": "person:Michael.8",
 "type": "person",
-"preferred_label": "मीकाएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 },
 {
 "id": "person:Michael.9",
 "type": "person",
-"preferred_label": "मीकाएल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 },
 {
-"id": "person:Mishael",
+"id": "person:Michael",
 "type": "person",
-"preferred_label": "मीशाएल",
-"confidence": 0.802,
-"match_method": "embedding"
-},
-{
-"id": "person:Mishael.2",
-"type": "person",
-"preferred_label": "मीशाएल",
-"confidence": 0.802,
-"match_method": "embedding"
-},
-{
-"id": "person:Mishael.3",
-"type": "person",
-"preferred_label": "मीशाएल",
-"confidence": 0.802,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मीकाएल"
 }
 ]
 }
@@ -974,7 +969,7 @@
 {
 "content_id": "183416",
 "reference_id": 108522,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मुहर",
 "media_type": "Text",
 "index_reference": "मुहर",
@@ -984,13 +979,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seal"
+}
+]
 }
 },
 {
 "content_id": "183194",
 "reference_id": 108300,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मूसा",
 "media_type": "Text",
 "index_reference": "मूसा",
@@ -1012,58 +1015,9 @@
 {
 "id": "person:Moses",
 "type": "person",
-"preferred_label": "मूसा",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Moza",
-"type": "person",
-"preferred_label": "मोसा",
-"confidence": 0.9313,
-"match_method": "embedding"
-},
-{
-"id": "person:Moza.2",
-"type": "person",
-"preferred_label": "मोसा",
-"confidence": 0.9313,
-"match_method": "embedding"
-},
-{
-"id": "place:Mozah",
-"type": "place",
-"preferred_label": "मोसा",
-"confidence": 0.9313,
-"match_method": "embedding"
-},
-{
-"id": "person:Mushi",
-"type": "person",
-"preferred_label": "मूशी",
-"confidence": 0.8491,
-"match_method": "embedding"
-},
-{
-"id": "person:Mesha",
-"type": "person",
-"preferred_label": "मेशा",
-"confidence": 0.8114,
-"match_method": "embedding"
-},
-{
-"id": "person:Mesha.2",
-"type": "person",
-"preferred_label": "मेशा",
-"confidence": 0.8114,
-"match_method": "embedding"
-},
-{
-"id": "place:Mesha",
-"type": "place",
-"preferred_label": "मेशा",
-"confidence": 0.8114,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मूसा"
 }
 ]
 }
@@ -1071,7 +1025,7 @@
 {
 "content_id": "183229",
 "reference_id": 108335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मूसा का कानून",
 "media_type": "Text",
 "index_reference": "मूसा का कानून",
@@ -1102,7 +1056,7 @@
 {
 "content_id": "183084",
 "reference_id": 108190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मृत्यु और नरक",
 "media_type": "Text",
 "index_reference": "मृत्यु और नरक",
@@ -1112,13 +1066,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नरक"
+}
+]
 }
 },
 {
 "content_id": "183138",
 "reference_id": 108244,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मेसोपोटामिया",
 "media_type": "Text",
 "index_reference": "मेसोपोटामिया",
@@ -1130,18 +1092,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Mesopotamia",
-"type": "group",
-"preferred_label": "मेसोपोटामिया",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Mesopotamia",
 "type": "place",
-"preferred_label": "मेसोपोटामिया",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मेसोपोटामिया"
 }
 ]
 }
@@ -1149,7 +1104,7 @@
 {
 "content_id": "183198",
 "reference_id": 108304,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मैं हूँ",
 "media_type": "Text",
 "index_reference": "मैं हूँ",
@@ -1165,7 +1120,7 @@
 {
 "content_id": "182987",
 "reference_id": 108093,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मैं हूँ कथन",
 "media_type": "Text",
 "index_reference": "मैं हूँ कथन",
@@ -1181,7 +1136,7 @@
 {
 "content_id": "183291",
 "reference_id": 108397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मोआब",
 "media_type": "Text",
 "index_reference": "मोआब",
@@ -1195,16 +1150,16 @@
 {
 "id": "person:Moab",
 "type": "person",
-"preferred_label": "मोआब",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मोआब"
 },
 {
 "id": "place:Moab",
 "type": "place",
-"preferred_label": "मोआब",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मोआब"
 }
 ]
 }
@@ -1212,7 +1167,7 @@
 {
 "content_id": "183399",
 "reference_id": 108505,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मोरिय्याह पर्वत",
 "media_type": "Text",
 "index_reference": "मोरिय्याह पर्वत",
@@ -1226,9 +1181,9 @@
 {
 "id": "place:MoriahMount",
 "type": "place",
-"preferred_label": "मोरिय्याह पर्वत",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मोरिय्याह पर्वत"
 }
 ]
 }
@@ -1236,7 +1191,7 @@
 {
 "content_id": "183414",
 "reference_id": 108520,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "मोर्दकै",
 "media_type": "Text",
 "index_reference": "मोर्दकै",
@@ -1248,18 +1203,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mordecai",
-"type": "person",
-"preferred_label": "मोर्दकै",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Mordecai.2",
 "type": "person",
-"preferred_label": "मोर्दकै",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "मोर्दकै"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मोर्दकै"
 }
 ]
 }

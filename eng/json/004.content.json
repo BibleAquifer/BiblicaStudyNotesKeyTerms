@@ -2,7 +2,7 @@
 {
 "content_id": "131980",
 "reference_id": 108034,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Caesar",
 "media_type": "Text",
 "index_reference": "caesar",
@@ -16,30 +16,30 @@
 {
 "id": "person:Claudius",
 "type": "person",
-"preferred_label": "Claudius",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Claudius"
 },
 {
 "id": "person:Nero",
 "type": "person",
-"preferred_label": "Nero",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Nero"
 },
 {
 "id": "person:Tiberius",
 "type": "person",
-"preferred_label": "Tiberius",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tiberius"
 },
 {
 "id": "person:Augustus",
 "type": "person",
-"preferred_label": "Augustus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Augustus"
 }
 ]
 }
@@ -47,7 +47,7 @@
 {
 "content_id": "132084",
 "reference_id": 108138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Caesarea",
 "media_type": "Text",
 "index_reference": "caesarea",
@@ -61,16 +61,16 @@
 {
 "id": "place:Caesarea.2",
 "type": "place",
-"preferred_label": "Caesarea",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Caesarea"
 },
 {
 "id": "place:Caesarea",
 "type": "place",
-"preferred_label": "Caesarea",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Caesarea"
 }
 ]
 }
@@ -78,7 +78,7 @@
 {
 "content_id": "132168",
 "reference_id": 108222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cain",
 "media_type": "Text",
 "index_reference": "cain",
@@ -92,9 +92,9 @@
 {
 "id": "person:Cain",
 "type": "person",
-"preferred_label": "Cain",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Cain"
 }
 ]
 }
@@ -102,7 +102,7 @@
 {
 "content_id": "132336",
 "reference_id": 108390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Caleb",
 "media_type": "Text",
 "index_reference": "caleb",
@@ -116,16 +116,16 @@
 {
 "id": "person:Caleb.2",
 "type": "person",
-"preferred_label": "Caleb",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Caleb"
 },
 {
 "id": "person:Caleb",
 "type": "person",
-"preferred_label": "Caleb",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Caleb"
 }
 ]
 }
@@ -133,7 +133,7 @@
 {
 "content_id": "132036",
 "reference_id": 108090,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cana",
 "media_type": "Text",
 "index_reference": "cana",
@@ -147,9 +147,9 @@
 {
 "id": "place:Cana",
 "type": "place",
-"preferred_label": "Cana",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Cana"
 }
 ]
 }
@@ -157,7 +157,7 @@
 {
 "content_id": "132192",
 "reference_id": 108246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Canaan",
 "media_type": "Text",
 "index_reference": "canaan",
@@ -171,16 +171,16 @@
 {
 "id": "person:Canaan",
 "type": "person",
-"preferred_label": "Canaan",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Canaan"
 },
 {
 "id": "place:Canaan",
 "type": "place",
-"preferred_label": "Canaan",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Canaan"
 }
 ]
 }
@@ -188,7 +188,7 @@
 {
 "content_id": "132038",
 "reference_id": 108092,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Capernaum",
 "media_type": "Text",
 "index_reference": "capernaum",
@@ -202,9 +202,9 @@
 {
 "id": "place:Capernaum",
 "type": "place",
-"preferred_label": "Capernaum",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Capernaum"
 }
 ]
 }
@@ -212,7 +212,7 @@
 {
 "content_id": "132350",
 "reference_id": 108404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cast lots",
 "media_type": "Text",
 "index_reference": "cast lots",
@@ -228,7 +228,7 @@
 {
 "content_id": "132044",
 "reference_id": 108098,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Christ",
 "media_type": "Text",
 "index_reference": "christ",
@@ -257,9 +257,9 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "Jesus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Jesus"
 }
 ]
 }
@@ -267,10 +267,10 @@
 {
 "content_id": "132093",
 "reference_id": 108147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Christ’s law",
 "media_type": "Text",
-"index_reference": "christ’s law",
+"index_reference": "christs law",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A way of talking about following Jesus’ example for how to live. Jesus commanded his disciples to love God with all their heart, soul, strength and mind. He commanded them to love their neighbour as themselves (Luke 10:27). While he lived on earth, Jesus showed them how to do this. Jesus loved and obeyed his Father. He sacrificed himself for the good of others. He gave up his rights to save the world. He served others to show them how much God loves them.</p>",
@@ -283,7 +283,7 @@
 {
 "content_id": "132042",
 "reference_id": 108096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Church",
 "media_type": "Text",
 "index_reference": "church",
@@ -297,9 +297,9 @@
 {
 "id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "Church",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Church"
 }
 ]
 }
@@ -307,7 +307,7 @@
 {
 "content_id": "132064",
 "reference_id": 108118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Church elders",
 "media_type": "Text",
 "index_reference": "church elders",
@@ -323,7 +323,7 @@
 {
 "content_id": "132203",
 "reference_id": 108257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Circumcision",
 "media_type": "Text",
 "index_reference": "circumcision",
@@ -337,9 +337,9 @@
 {
 "id": "keyterm:Circumcision",
 "type": "keyterm",
-"preferred_label": "Circumcision",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Circumcision"
 }
 ]
 }
@@ -347,7 +347,7 @@
 {
 "content_id": "132102",
 "reference_id": 108156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Citizens of heaven",
 "media_type": "Text",
 "index_reference": "citizens of heaven",
@@ -371,7 +371,7 @@
 {
 "content_id": "132309",
 "reference_id": 108363,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Clean or unclean",
 "media_type": "Text",
 "index_reference": "clean or unclean",
@@ -395,7 +395,7 @@
 {
 "content_id": "132267",
 "reference_id": 108321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cloud",
 "media_type": "Text",
 "index_reference": "cloud",
@@ -411,7 +411,7 @@
 {
 "content_id": "132112",
 "reference_id": 108166,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cloud of witnesses",
 "media_type": "Text",
 "index_reference": "cloud of witnesses",
@@ -427,7 +427,7 @@
 {
 "content_id": "132106",
 "reference_id": 108160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Colossae",
 "media_type": "Text",
 "index_reference": "colossae",
@@ -441,9 +441,9 @@
 {
 "id": "place:Colossae",
 "type": "place",
-"preferred_label": "Colossae",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Colossae"
 }
 ]
 }
@@ -451,7 +451,7 @@
 {
 "content_id": "132211",
 "reference_id": 108265,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Concubines",
 "media_type": "Text",
 "index_reference": "concubines",
@@ -467,7 +467,7 @@
 {
 "content_id": "132079",
 "reference_id": 108133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Corinth",
 "media_type": "Text",
 "index_reference": "corinth",
@@ -481,9 +481,9 @@
 {
 "id": "place:Corinth",
 "type": "place",
-"preferred_label": "Corinth",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Corinth"
 }
 ]
 }
@@ -491,7 +491,7 @@
 {
 "content_id": "132054",
 "reference_id": 108108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cornelius",
 "media_type": "Text",
 "index_reference": "cornelius",
@@ -505,9 +505,9 @@
 {
 "id": "person:Cornelius",
 "type": "person",
-"preferred_label": "Cornelius",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Cornelius"
 }
 ]
 }
@@ -515,7 +515,7 @@
 {
 "content_id": "132183",
 "reference_id": 108237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Covenant",
 "media_type": "Text",
 "index_reference": "covenant",
@@ -529,9 +529,9 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"preferred_label": "Covenant",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Covenant"
 }
 ]
 }
@@ -539,7 +539,7 @@
 {
 "content_id": "132325",
 "reference_id": 108379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Covenant blessings",
 "media_type": "Text",
 "index_reference": "covenant blessings",
@@ -555,7 +555,7 @@
 {
 "content_id": "132326",
 "reference_id": 108380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Covenant curses",
 "media_type": "Text",
 "index_reference": "covenant curses",
@@ -571,7 +571,7 @@
 {
 "content_id": "132199",
 "reference_id": 108253,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Covenant with Abraham",
 "media_type": "Text",
 "index_reference": "covenant with abraham",
@@ -587,7 +587,7 @@
 {
 "content_id": "132412",
 "reference_id": 108466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Covenant with David",
 "media_type": "Text",
 "index_reference": "covenant with david",
@@ -611,7 +611,7 @@
 {
 "content_id": "132184",
 "reference_id": 108238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Covenant with Noah",
 "media_type": "Text",
 "index_reference": "covenant with noah",
@@ -627,7 +627,7 @@
 {
 "content_id": "132143",
 "reference_id": 108197,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Creation",
 "media_type": "Text",
 "index_reference": "creation",
@@ -651,7 +651,7 @@
 {
 "content_id": "132109",
 "reference_id": 108163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Crete",
 "media_type": "Text",
 "index_reference": "crete",
@@ -665,9 +665,9 @@
 {
 "id": "place:Crete",
 "type": "place",
-"preferred_label": "Crete",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Crete"
 }
 ]
 }
@@ -675,7 +675,7 @@
 {
 "content_id": "132476",
 "reference_id": 108530,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cross",
 "media_type": "Text",
 "index_reference": "cross",
@@ -689,9 +689,9 @@
 {
 "id": "realia:Cross",
 "type": "realia",
-"preferred_label": "Cross",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Cross"
 }
 ]
 }
@@ -699,7 +699,7 @@
 {
 "content_id": "132058",
 "reference_id": 108112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cyprus",
 "media_type": "Text",
 "index_reference": "cyprus",
@@ -713,9 +713,9 @@
 {
 "id": "place:Cyprus",
 "type": "place",
-"preferred_label": "Cyprus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Cyprus"
 }
 ]
 }
@@ -723,7 +723,7 @@
 {
 "content_id": "132448",
 "reference_id": 108502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cyrus",
 "media_type": "Text",
 "index_reference": "cyrus",
@@ -737,9 +737,9 @@
 {
 "id": "person:Cyrus",
 "type": "person",
-"preferred_label": "Cyrus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Cyrus"
 }
 ]
 }

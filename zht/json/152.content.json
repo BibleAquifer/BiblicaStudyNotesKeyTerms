@@ -2,7 +2,7 @@
 {
 "content_id": "233132",
 "reference_id": 108531,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "箴言",
 "media_type": "Text",
 "index_reference": "箴言",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Proverb"
+}
+]
 }
 }
 ]

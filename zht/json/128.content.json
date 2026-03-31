@@ -2,7 +2,7 @@
 {
 "content_id": "232766",
 "reference_id": 108165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "完全",
 "media_type": "Text",
 "index_reference": "完全",
@@ -18,7 +18,7 @@
 {
 "content_id": "232912",
 "reference_id": 108311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "頑梗",
 "media_type": "Text",
 "index_reference": "頑梗",
@@ -28,7 +28,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Stubborn",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Stubborn"
+}
+]
 }
 }
 ]

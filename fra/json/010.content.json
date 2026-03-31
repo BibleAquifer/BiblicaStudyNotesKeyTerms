@@ -2,7 +2,7 @@
 {
 "content_id": "133773",
 "reference_id": 108521,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haman",
 "media_type": "Text",
 "index_reference": "haman",
@@ -16,30 +16,9 @@
 {
 "id": "person:Haman",
 "type": "person",
-"preferred_label": "Haman",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman",
-"type": "person",
-"preferred_label": "Héman",
-"confidence": 0.8202,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.2",
-"type": "person",
-"preferred_label": "Héman",
-"confidence": 0.8202,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.3",
-"type": "person",
-"preferred_label": "Héman",
-"confidence": 0.8202,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Haman"
 }
 ]
 }
@@ -47,7 +26,7 @@
 {
 "content_id": "133751",
 "reference_id": 108499,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hauts lieux",
 "media_type": "Text",
 "index_reference": "hauts lieux",
@@ -63,7 +42,7 @@
 {
 "content_id": "133784",
 "reference_id": 108532,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hébreu",
 "media_type": "Text",
 "index_reference": "hébreu",
@@ -94,7 +73,7 @@
 {
 "content_id": "133362",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hérode Agrippa I",
 "media_type": "Text",
 "index_reference": "hérode agrippa i",
@@ -104,13 +83,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Agrippa"
+}
+]
 }
 },
 {
 "content_id": "133391",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hérode Agrippa II",
 "media_type": "Text",
 "index_reference": "hérode agrippa ii",
@@ -120,13 +107,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hérode"
+}
+]
 }
 },
 {
 "content_id": "133309",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hérode Antipas",
 "media_type": "Text",
 "index_reference": "hérode antipas",
@@ -140,9 +135,9 @@
 {
 "id": "person:Herod.2",
 "type": "person",
-"preferred_label": "Hérode Antipas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hérode Antipas"
 }
 ]
 }
@@ -150,7 +145,7 @@
 {
 "content_id": "133810",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hérode le Grand",
 "media_type": "Text",
 "index_reference": "hérode le grand",
@@ -160,13 +155,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hérode"
+}
+]
 }
 },
 {
 "content_id": "133314",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hérodiens",
 "media_type": "Text",
 "index_reference": "hérodiens",
@@ -178,18 +181,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Herodias",
-"type": "person",
-"preferred_label": "Hérodias",
-"confidence": 0.8285,
-"match_method": "embedding"
-},
-{
-"id": "person:Herodion",
-"type": "person",
-"preferred_label": "Hérodion",
-"confidence": 0.8098,
-"match_method": "embedding"
+"id": "group:Herodian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "les partisans d'Hérode; Hérodiens"
 }
 ]
 }
@@ -197,7 +193,7 @@
 {
 "content_id": "133450",
 "reference_id": 108198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Histoires",
 "media_type": "Text",
 "index_reference": "histoires",
@@ -213,7 +209,7 @@
 {
 "content_id": "133679",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hivites",
 "media_type": "Text",
 "index_reference": "hivites",
@@ -227,9 +223,9 @@
 {
 "id": "group:Hivites",
 "type": "group",
-"preferred_label": "Hivites",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hivites"
 }
 ]
 }
@@ -237,7 +233,7 @@
 {
 "content_id": "133639",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hobab",
 "media_type": "Text",
 "index_reference": "hobab",
@@ -251,44 +247,9 @@
 {
 "id": "person:Hobab",
 "type": "person",
-"preferred_label": "Hobab",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.2",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.3",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.4",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.5",
-"type": "person",
-"preferred_label": "Jobab",
-"confidence": 0.814,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hobab"
 }
 ]
 }
@@ -296,7 +257,7 @@
 {
 "content_id": "133602",
 "reference_id": 108350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Holocaustes",
 "media_type": "Text",
 "index_reference": "holocaustes",
@@ -312,7 +273,7 @@
 {
 "content_id": "133816",
 "reference_id": 108564,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Homme de péché",
 "media_type": "Text",
 "index_reference": "homme de péché",

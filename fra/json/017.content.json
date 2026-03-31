@@ -2,7 +2,7 @@
 {
 "content_id": "133799",
 "reference_id": 108547,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Païen",
 "media_type": "Text",
 "index_reference": "païen",
@@ -20,13 +20,21 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "nation; peuple"
+}
+]
 }
 },
 {
 "content_id": "133463",
 "reference_id": 108211,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Paix",
 "media_type": "Text",
 "index_reference": "paix",
@@ -36,13 +44,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
 "content_id": "133308",
 "reference_id": 108056,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Paraboles",
 "media_type": "Text",
 "index_reference": "paraboles",
@@ -58,7 +74,7 @@
 {
 "content_id": "133533",
 "reference_id": 108281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pardonner",
 "media_type": "Text",
 "index_reference": "pardonner",
@@ -72,9 +88,9 @@
 {
 "id": "keyterm:Forgive",
 "type": "keyterm",
-"preferred_label": "pardonner",
-"confidence": 0.8795,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "pardonner"
 }
 ]
 }
@@ -82,7 +98,7 @@
 {
 "content_id": "133417",
 "reference_id": 108165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Parfait",
 "media_type": "Text",
 "index_reference": "parfait",
@@ -98,10 +114,10 @@
 {
 "content_id": "133349",
 "reference_id": 108097,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Parler en d'autres langues",
 "media_type": "Text",
-"index_reference": "parler en d'autres langues",
+"index_reference": "parler en dautres langues",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Il s&apos;agit d&apos;une expérience lors de laquelle certaines personnes parlent à voix haute dans une langue qu&apos;ils ne connaissaient pas auparavant. Le Saint-Esprit a donné à certains croyants la capacité de le faire. Les personnes qui les écoutent peuvent ou non parler la langue en question. À moins que quelqu&apos;un puisse expliquer le message, les croyants ayant ce don devraient parler uniquement à Dieu. Faire cela les aidera à être proches de Dieu à travers la prière. (<span data-bnType=\"resourceReference\" data-resourceId=\"108150\" data-resourceType=\"BiblicaStudyNotesKeyTerms\">Expliquer d&apos;autres langues</span>)</p>",
@@ -122,7 +138,7 @@
 {
 "content_id": "133452",
 "reference_id": 108200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Parole de Dieu",
 "media_type": "Text",
 "index_reference": "parole de dieu",
@@ -146,7 +162,7 @@
 {
 "content_id": "133423",
 "reference_id": 108171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Patmos",
 "media_type": "Text",
 "index_reference": "patmos",
@@ -160,9 +176,9 @@
 {
 "id": "place:Patmos",
 "type": "place",
-"preferred_label": "Patmos",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Patmos"
 }
 ]
 }
@@ -170,7 +186,7 @@
 {
 "content_id": "133539",
 "reference_id": 108287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Patriarche",
 "media_type": "Text",
 "index_reference": "patriarche",
@@ -186,7 +202,7 @@
 {
 "content_id": "133354",
 "reference_id": 108102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Paul",
 "media_type": "Text",
 "index_reference": "paul",
@@ -200,9 +216,9 @@
 {
 "id": "person:Paul",
 "type": "person",
-"preferred_label": "Paul",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Paul"
 }
 ]
 }
@@ -210,7 +226,7 @@
 {
 "content_id": "133447",
 "reference_id": 108195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Péché",
 "media_type": "Text",
 "index_reference": "péché",
@@ -226,7 +242,7 @@
 {
 "content_id": "133627",
 "reference_id": 108375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pentecôte",
 "media_type": "Text",
 "index_reference": "pentecôte",
@@ -242,7 +258,7 @@
 {
 "content_id": "133564",
 "reference_id": 108312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Père",
 "media_type": "Text",
 "index_reference": "père",
@@ -252,13 +268,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éternel"
+}
+]
 }
 },
 {
 "content_id": "133428",
 "reference_id": 108176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pergame",
 "media_type": "Text",
 "index_reference": "pergame",
@@ -272,9 +296,9 @@
 {
 "id": "place:Pergamum",
 "type": "place",
-"preferred_label": "Pergame",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pergame"
 }
 ]
 }
@@ -282,7 +306,7 @@
 {
 "content_id": "133761",
 "reference_id": 108509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perse",
 "media_type": "Text",
 "index_reference": "perse",
@@ -294,18 +318,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Persia",
-"type": "group",
-"preferred_label": "Perse",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Persia",
 "type": "place",
-"preferred_label": "Perse",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Perse"
 }
 ]
 }
@@ -313,7 +330,7 @@
 {
 "content_id": "133306",
 "reference_id": 108054,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Persécutés",
 "media_type": "Text",
 "index_reference": "persécutés",
@@ -337,7 +354,7 @@
 {
 "content_id": "133670",
 "reference_id": 108418,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Personnes dans le besoin",
 "media_type": "Text",
 "index_reference": "personnes dans le besoin",
@@ -353,7 +370,7 @@
 {
 "content_id": "133554",
 "reference_id": 108302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Peuple de Dieu",
 "media_type": "Text",
 "index_reference": "peuple de dieu",
@@ -371,13 +388,21 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israël"
+}
+]
 }
 },
 {
 "content_id": "133502",
 "reference_id": 108250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pharaon",
 "media_type": "Text",
 "index_reference": "pharaon",
@@ -391,58 +416,72 @@
 {
 "id": "person:Pharaoh.10",
 "type": "person",
-"preferred_label": "Pharaon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pharaon"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Néco"
 },
 {
 "id": "person:Pharaoh.3",
 "type": "person",
-"preferred_label": "Pharaon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pharaon"
 },
 {
 "id": "person:Pharaoh.4",
 "type": "person",
-"preferred_label": "Pharaon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pharaon"
 },
 {
 "id": "person:Pharaoh.5",
 "type": "person",
-"preferred_label": "Pharaon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pharaon"
 },
 {
 "id": "person:Pharaoh.6",
 "type": "person",
-"preferred_label": "Pharaon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pharaon"
 },
 {
 "id": "person:Pharaoh.7",
 "type": "person",
-"preferred_label": "Pharaon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pharaon"
 },
 {
 "id": "person:Pharaoh.8",
 "type": "person",
-"preferred_label": "Pharaon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pharaon"
 },
 {
 "id": "person:Pharaoh.9",
 "type": "person",
-"preferred_label": "Pharaon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pharaon"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hophra"
 }
 ]
 }
@@ -450,7 +489,7 @@
 {
 "content_id": "133302",
 "reference_id": 108050,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pharisiens",
 "media_type": "Text",
 "index_reference": "pharisiens",
@@ -464,9 +503,9 @@
 {
 "id": "group:Pharisee",
 "type": "group",
-"preferred_label": "Pharisien",
-"confidence": 0.866,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisien"
 }
 ]
 }
@@ -474,7 +513,7 @@
 {
 "content_id": "133432",
 "reference_id": 108180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philadelphie",
 "media_type": "Text",
 "index_reference": "philadelphie",
@@ -488,9 +527,9 @@
 {
 "id": "place:Philadelphia",
 "type": "place",
-"preferred_label": "Philadelphie",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Philadelphie"
 }
 ]
 }
@@ -498,7 +537,7 @@
 {
 "content_id": "133416",
 "reference_id": 108164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philémon",
 "media_type": "Text",
 "index_reference": "philémon",
@@ -512,9 +551,9 @@
 {
 "id": "person:Philemon",
 "type": "person",
-"preferred_label": "Philémon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Philémon"
 }
 ]
 }
@@ -522,7 +561,7 @@
 {
 "content_id": "133355",
 "reference_id": 108103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philippe",
 "media_type": "Text",
 "index_reference": "philippe",
@@ -534,39 +573,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Philip",
-"type": "person",
-"preferred_label": "Philippe",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Philip.2",
 "type": "person",
-"preferred_label": "Philippe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Philippe"
 },
 {
 "id": "person:Philip.3",
 "type": "person",
-"preferred_label": "Philippe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Philippe"
 },
 {
 "id": "person:Philip.4",
 "type": "person",
-"preferred_label": "Philippe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Philippe"
 },
 {
-"id": "place:Philippi",
-"type": "place",
-"preferred_label": "Philippes",
-"confidence": 0.8028,
-"match_method": "embedding"
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philippe"
 }
 ]
 }
@@ -574,7 +606,7 @@
 {
 "content_id": "133378",
 "reference_id": 108126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philippes",
 "media_type": "Text",
 "index_reference": "philippes ",
@@ -588,37 +620,9 @@
 {
 "id": "place:Philippi",
 "type": "place",
-"preferred_label": "Philippes",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip",
-"type": "person",
-"preferred_label": "Philippe",
-"confidence": 0.8028,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip.2",
-"type": "person",
-"preferred_label": "Philippe",
-"confidence": 0.8028,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip.3",
-"type": "person",
-"preferred_label": "Philippe",
-"confidence": 0.8028,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip.4",
-"type": "person",
-"preferred_label": "Philippe",
-"confidence": 0.8028,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Philippes"
 }
 ]
 }
@@ -626,7 +630,7 @@
 {
 "content_id": "133519",
 "reference_id": 108267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philistins",
 "media_type": "Text",
 "index_reference": "philistins",
@@ -640,16 +644,9 @@
 {
 "id": "group:Philistine",
 "type": "group",
-"preferred_label": "Philistins",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Philistine",
-"type": "person",
-"preferred_label": "Philistin",
-"confidence": 0.886,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Philistins"
 }
 ]
 }
@@ -657,7 +654,7 @@
 {
 "content_id": "133375",
 "reference_id": 108123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Phrygie",
 "media_type": "Text",
 "index_reference": "phrygie",
@@ -671,9 +668,9 @@
 {
 "id": "place:Phrygia",
 "type": "place",
-"preferred_label": "Phrygie",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Phrygie"
 }
 ]
 }
@@ -681,7 +678,7 @@
 {
 "content_id": "133824",
 "reference_id": 108572,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pierre",
 "media_type": "Text",
 "index_reference": "pierre",
@@ -695,9 +692,9 @@
 {
 "id": "person:Peter",
 "type": "person",
-"preferred_label": "Pierre",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Pierre"
 }
 ]
 }
@@ -705,7 +702,7 @@
 {
 "content_id": "133655",
 "reference_id": 108403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pinhas",
 "media_type": "Text",
 "index_reference": "pinhas",
@@ -715,13 +712,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinées"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinées"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinées"
+}
+]
 }
 },
 {
 "content_id": "133343",
 "reference_id": 108091,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Piscine de Béthesda",
 "media_type": "Text",
 "index_reference": "piscine de béthesda",
@@ -731,13 +750,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Pool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pool"
+}
+]
 }
 },
 {
 "content_id": "133785",
 "reference_id": 108533,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Poème alphabétique",
 "media_type": "Text",
 "index_reference": "poème alphabétique",
@@ -761,7 +788,7 @@
 {
 "content_id": "133456",
 "reference_id": 108204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Poèmes",
 "media_type": "Text",
 "index_reference": "poèmes",
@@ -777,7 +804,7 @@
 {
 "content_id": "133626",
 "reference_id": 108374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prémices des récoltes",
 "media_type": "Text",
 "index_reference": "prémices des récoltes",
@@ -793,7 +820,7 @@
 {
 "content_id": "133585",
 "reference_id": 108333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prêtre",
 "media_type": "Text",
 "index_reference": "prêtre",
@@ -824,7 +851,7 @@
 {
 "content_id": "133479",
 "reference_id": 108227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prière",
 "media_type": "Text",
 "index_reference": "prière",
@@ -840,7 +867,7 @@
 {
 "content_id": "133622",
 "reference_id": 108370,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prochain",
 "media_type": "Text",
 "index_reference": "prochain",
@@ -864,7 +891,7 @@
 {
 "content_id": "133668",
 "reference_id": 108416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prophète",
 "media_type": "Text",
 "index_reference": "prophète",
@@ -882,21 +909,13 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "group:GenericProphets",
-"type": "group",
-"preferred_label": "Prophets",
-"confidence": 0.8012,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "133651",
 "reference_id": 108399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prophétie",
 "media_type": "Text",
 "index_reference": "prophétie",
@@ -912,7 +931,7 @@
 {
 "content_id": "133652",
 "reference_id": 108400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prophéties au sujet de Jésus",
 "media_type": "Text",
 "index_reference": "prophéties au sujet de jésus",
@@ -936,7 +955,7 @@
 {
 "content_id": "133787",
 "reference_id": 108535,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prostituée",
 "media_type": "Text",
 "index_reference": "prostituée",
@@ -950,16 +969,16 @@
 {
 "id": "person:FirstProstitute",
 "type": "person",
-"preferred_label": "Prostitute",
-"confidence": 0.8144,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
 },
 {
 "id": "person:SecondProstitute",
 "type": "person",
-"preferred_label": "Prostitute",
-"confidence": 0.8144,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
 }
 ]
 }
@@ -967,7 +986,7 @@
 {
 "content_id": "133700",
 "reference_id": 108448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Protecteur de la famille",
 "media_type": "Text",
 "index_reference": "protecteur de la famille",
@@ -983,7 +1002,7 @@
 {
 "content_id": "133783",
 "reference_id": 108531,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Proverbe",
 "media_type": "Text",
 "index_reference": "proverbe",
@@ -997,9 +1016,9 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"preferred_label": "proverbe",
-"confidence": 0.8158,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "proverbe"
 }
 ]
 }
@@ -1007,7 +1026,7 @@
 {
 "content_id": "133616",
 "reference_id": 108364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pur et impur",
 "media_type": "Text",
 "index_reference": "pur et impur",
@@ -1031,7 +1050,7 @@
 {
 "content_id": "133615",
 "reference_id": 108363,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pur ou impur",
 "media_type": "Text",
 "index_reference": "pur ou impur",

@@ -2,7 +2,7 @@
 {
 "content_id": "232650",
 "reference_id": 108049,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "稅吏",
 "media_type": "Text",
 "index_reference": "稅吏",
@@ -20,13 +20,28 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.986,
+"match_method": "embedding",
+"preferred_label": "Tax Collector"
+},
+{
+"id": "group:TaxCollectors",
+"type": "group",
+"confidence": 0.8299,
+"match_method": "embedding",
+"preferred_label": "Tax Collectors"
+}
+]
 }
 },
 {
 "content_id": "233178",
 "reference_id": 108577,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "稅務",
 "media_type": "Text",
 "index_reference": "稅務",

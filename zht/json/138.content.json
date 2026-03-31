@@ -2,7 +2,7 @@
 {
 "content_id": "233020",
 "reference_id": 108419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "心",
 "media_type": "Text",
 "index_reference": "心",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Heart"
+}
+]
 }
 },
 {
 "content_id": "233144",
 "reference_id": 108543,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "新的創造",
 "media_type": "Text",
 "index_reference": "新的創造",
@@ -34,7 +42,7 @@
 {
 "content_id": "233154",
 "reference_id": 108553,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "新的約",
 "media_type": "Text",
 "index_reference": "新的約",
@@ -50,7 +58,7 @@
 {
 "content_id": "650776",
 "reference_id": 209393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "新歌",
 "media_type": "Text",
 "index_reference": "新歌",
@@ -79,7 +87,7 @@
 {
 "content_id": "233150",
 "reference_id": 108549,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "新耶路撒冷",
 "media_type": "Text",
 "index_reference": "新耶路撒冷",
@@ -95,7 +103,7 @@
 {
 "content_id": "233129",
 "reference_id": 108528,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "新約聖經",
 "media_type": "Text",
 "index_reference": "新約聖經",
@@ -111,7 +119,7 @@
 {
 "content_id": "232856",
 "reference_id": 108255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "信",
 "media_type": "Text",
 "index_reference": "信",
@@ -129,13 +137,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.9789,
+"match_method": "embedding",
+"preferred_label": "Believe In"
+}
+]
 }
 },
 {
 "content_id": "232678",
 "reference_id": 108077,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "信徒",
 "media_type": "Text",
 "index_reference": "信徒",
@@ -151,7 +167,7 @@
 {
 "content_id": "232833",
 "reference_id": 108232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "信心",
 "media_type": "Text",
 "index_reference": "信心",
@@ -161,7 +177,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "Trust"
+}
+]
 }
 }
 ]

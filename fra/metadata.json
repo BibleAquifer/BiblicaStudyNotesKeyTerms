@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Biblica Study Notes (Key Terms)</b> © 2023 Biblica Inc. Released under CC BY-SA 4.0 license. <cite>Biblica Study Notes</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文)from Biblica Study Notes © 2023 Biblica Inc. Released under CC BY-SA 4.0 license by Mission Mutual.",
 "resource_code": "BiblicaStudyNotesKeyTerms",
-"date_created": "2026-02-27",
+"date_created": "2026-03-31",
 "language": "fra",
 "localizations": [
 "eng",
@@ -52,7 +52,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T17:26:43.979419"
+"dateCreated": "2026-03-31T06:43:38.693099"
 },
 "idAuthorities": {
 "aquifer": {
@@ -66,7 +66,7 @@
 "primary": {
 "aquifer": {
 "BiblicaStudyNotesKeyTerms": {
-"timestamp": "2026-02-27T17:26:43.979419"
+"timestamp": "2026-03-31T06:43:38.693099"
 }
 }
 },
@@ -111,7 +111,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 10363,
+"size": 10358,
 "scope": {
 "0": [
 "1000 ans",
@@ -131,7 +131,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 47973,
+"size": 47968,
 "scope": {
 "a": [
 "Aaron",
@@ -205,7 +205,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 20309,
+"size": 20307,
 "scope": {
 "b": [
 "Baal",
@@ -240,7 +240,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 26122,
+"size": 26121,
 "scope": {
 "c": [
 "Caïn",
@@ -279,7 +279,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 17924,
+"size": 17922,
 "scope": {
 "d": [
 "Dagon",
@@ -310,7 +310,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 32455,
+"size": 32452,
 "scope": {
 "e": [
 "Eau spéciale",
@@ -359,7 +359,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 14622,
+"size": 14620,
 "scope": {
 "f": [
 "Famille de Dieu",
@@ -440,7 +440,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 31555,
+"size": 31553,
 "scope": {
 "j": [
 "Jacob",
@@ -488,12 +488,9 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 57862,
+"size": 57851,
 "scope": {
 "l": [
-"L'arbre de la connaissance",
-"L'arbre de vie",
-"L'eau vive",
 "La Cène",
 "La dîme",
 "La honte et l'honneur",
@@ -507,6 +504,8 @@
 "La voie de Jésus",
 "Laban",
 "Laodicée",
+"L'arbre de la connaissance",
+"L'arbre de vie",
 "Le déluge",
 "Le fleuve Euphrate",
 "Le fleuve Jourdain",
@@ -525,7 +524,7 @@
 "Le travail",
 "Léa",
 "Leader serviteur",
-"Les \"Je suis\" de Jésus",
+"L'eau vive",
 "Les dix commandements",
 "Les dix plaies",
 "Les épouses",
@@ -533,6 +532,7 @@
 "Les filles de Tselophchad",
 "Les fils de Dieu",
 "Les impôts",
+"Les \"Je suis\" de Jésus",
 "Les Jébusiens",
 "Les lettres de Paul",
 "Les lois du Lévitique",
@@ -548,8 +548,8 @@
 "Lévites",
 "Lieu très saint",
 "Lignée familiale",
-"Livre d'Énoch",
 "Livre de vie",
+"Livre d'Énoch",
 "Loi de Moïse",
 "Loi du Christ",
 "Lot",
@@ -560,7 +560,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 30177,
+"size": 30175,
 "scope": {
 "m": [
 "Macédoine",
@@ -649,7 +649,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 38088,
+"size": 38087,
 "scope": {
 "p": [
 "Païen",
@@ -733,12 +733,12 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 36321,
+"size": 36318,
 "scope": {
 "s": [
 "Sacrifice",
-"Sacrifices d'expiation",
 "Sacrifices de culpabilité",
+"Sacrifices d'expiation",
 "Sacrifices et offrandes de communion",
 "Sacrifier des enfants",
 "Sacrifier les animaux",
@@ -781,7 +781,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 11784,
+"size": 11783,
 "scope": {
 "t": [
 "Tabernacle",
@@ -845,7 +845,7 @@
 },
 "json/026.content.json": {
 "mimeType": "text/json",
-"size": 2330,
+"size": 2329,
 "scope": {
 "z": [
 "Zabulon",
@@ -857,315 +857,315 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 2974
+"size": 3110
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 7530
+"size": 7554
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 32296
+"size": 33459
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 14642
+"size": 14656
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 17685
+"size": 18444
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 11721
+"size": 12089
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 23558
+"size": 23557
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 10397
+"size": 10431
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 6042
+"size": 6177
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 6479
+"size": 6446
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 3935
+"size": 3978
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 24619
+"size": 25089
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 37724
+"size": 39133
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 21136
+"size": 22328
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 10547
+"size": 10948
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 4425
+"size": 4669
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 26544
+"size": 26832
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 1800
+"size": 2032
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 9170
+"size": 9199
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 26627
+"size": 27533
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 8829
+"size": 9060
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 1025
+"size": 1027
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 4724
+"size": 4736
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 728
+"size": 798
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 1026
+"size": 1028
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 2899
+"size": 3034
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43125
 },
-"pdf/001.content.pdf": {
-"mimeType": "application/pdf",
-"size": 174649
-},
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44930
-},
-"pdf/002.content.pdf": {
-"mimeType": "application/pdf",
-"size": 197779
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 52908
 },
-"pdf/003.content.pdf": {
-"mimeType": "application/pdf",
-"size": 258885
-},
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 47172
-},
-"pdf/004.content.pdf": {
-"mimeType": "application/pdf",
-"size": 215227
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 48457
 },
-"pdf/005.content.pdf": {
-"mimeType": "application/pdf",
-"size": 217093
-},
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 46479
-},
-"pdf/006.content.pdf": {
-"mimeType": "application/pdf",
-"size": 205076
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 49890
 },
-"pdf/007.content.pdf": {
-"mimeType": "application/pdf",
-"size": 234347
-},
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45983
-},
-"pdf/008.content.pdf": {
-"mimeType": "application/pdf",
-"size": 200470
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44281
 },
-"pdf/009.content.pdf": {
-"mimeType": "application/pdf",
-"size": 182937
-},
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 44298
-},
-"pdf/010.content.pdf": {
-"mimeType": "application/pdf",
-"size": 187537
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43342
 },
-"pdf/011.content.pdf": {
-"mimeType": "application/pdf",
-"size": 172061
-},
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 49522
 },
-"pdf/012.content.pdf": {
-"mimeType": "application/pdf",
-"size": 232191
-},
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55221
-},
-"pdf/013.content.pdf": {
-"mimeType": "application/pdf",
-"size": 268678
+"size": 55240
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 49535
 },
-"pdf/014.content.pdf": {
-"mimeType": "application/pdf",
-"size": 224225
-},
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45994
-},
-"pdf/015.content.pdf": {
-"mimeType": "application/pdf",
-"size": 201072
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43654
 },
-"pdf/016.content.pdf": {
-"mimeType": "application/pdf",
-"size": 173603
-},
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 50770
-},
-"pdf/017.content.pdf": {
-"mimeType": "application/pdf",
-"size": 238801
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 42672
 },
-"pdf/018.content.pdf": {
-"mimeType": "application/pdf",
-"size": 171417
-},
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45485
 },
-"pdf/019.content.pdf": {
-"mimeType": "application/pdf",
-"size": 190319
-},
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50914
-},
-"pdf/020.content.pdf": {
-"mimeType": "application/pdf",
-"size": 240159
+"size": 50903
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 45303
 },
-"pdf/021.content.pdf": {
-"mimeType": "application/pdf",
-"size": 197807
-},
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 42147
-},
-"pdf/022.content.pdf": {
-"mimeType": "application/pdf",
-"size": 157727
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 43766
 },
-"pdf/023.content.pdf": {
-"mimeType": "application/pdf",
-"size": 171942
-},
 "docx/024.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 42081
-},
-"pdf/024.content.pdf": {
-"mimeType": "application/pdf",
-"size": 162231
 },
 "docx/025.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 42207
 },
-"pdf/025.content.pdf": {
-"mimeType": "application/pdf",
-"size": 160172
-},
 "docx/026.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
 "size": 42525
 },
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 57335
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 70082
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 133513
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 87174
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 93225
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 82118
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 106594
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 76361
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 65706
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 66685
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 57248
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 105283
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 146263
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 103591
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 76323
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 58540
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 112284
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 54199
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 71451
+},
+"pdf/020.content.pdf": {
+"mimeType": "application/pdf",
+"size": 114191
+},
+"pdf/021.content.pdf": {
+"mimeType": "application/pdf",
+"size": 72743
+},
+"pdf/022.content.pdf": {
+"mimeType": "application/pdf",
+"size": 48262
+},
+"pdf/023.content.pdf": {
+"mimeType": "application/pdf",
+"size": 58748
+},
+"pdf/024.content.pdf": {
+"mimeType": "application/pdf",
+"size": 49297
+},
+"pdf/025.content.pdf": {
+"mimeType": "application/pdf",
+"size": 48882
+},
 "pdf/026.content.pdf": {
 "mimeType": "application/pdf",
-"size": 168755
+"size": 53327
 }
 },
 "copyright": {
@@ -1804,7 +1804,7 @@
 "133294": {
 "content_id": "133294",
 "reference_id": 108042,
-"index_reference": "jacques l'apôtre",
+"index_reference": "jacques lapôtre",
 "localizations": {
 "eng": {
 "content_id": 131988,
@@ -2188,7 +2188,7 @@
 "133301": {
 "content_id": "133301",
 "reference_id": 108049,
-"index_reference": "collecteur d'impôts",
+"index_reference": "collecteur dimpôts",
 "localizations": {
 "eng": {
 "content_id": 131995,
@@ -2837,7 +2837,7 @@
 "133313": {
 "content_id": "133313",
 "reference_id": 108061,
-"index_reference": "70 après jésus-christ",
+"index_reference": "70 après jésuschrist",
 "localizations": {
 "eng": {
 "content_id": 132007,
@@ -3003,7 +3003,7 @@
 "133316": {
 "content_id": "133316",
 "reference_id": 108064,
-"index_reference": "après jésus-christ",
+"index_reference": "après jésuschrist",
 "localizations": {
 "eng": {
 "content_id": 132010,
@@ -3885,7 +3885,7 @@
 "133332": {
 "content_id": "133332",
 "reference_id": 108080,
-"index_reference": "zacharie - nouveau testament",
+"index_reference": "zacharie  nouveau testament",
 "localizations": {
 "eng": {
 "content_id": 132026,
@@ -4051,7 +4051,7 @@
 "133335": {
 "content_id": "133335",
 "reference_id": 108083,
-"index_reference": "marie, marthe et lazare",
+"index_reference": "marie marthe et lazare",
 "localizations": {
 "eng": {
 "content_id": 132029,
@@ -4596,7 +4596,7 @@
 "133345": {
 "content_id": "133345",
 "reference_id": 108093,
-"index_reference": "les \"je suis\" de jésus",
+"index_reference": "les je suis de jésus",
 "localizations": {
 "eng": {
 "content_id": 132039,
@@ -4819,7 +4819,7 @@
 "133349": {
 "content_id": "133349",
 "reference_id": 108097,
-"index_reference": "parler en d'autres langues",
+"index_reference": "parler en dautres langues",
 "localizations": {
 "eng": {
 "content_id": 132043,
@@ -5981,7 +5981,7 @@
 "133370": {
 "content_id": "133370",
 "reference_id": 108118,
-"index_reference": "anciens de l'église",
+"index_reference": "anciens de léglise",
 "localizations": {
 "eng": {
 "content_id": 132064,
@@ -7517,7 +7517,7 @@
 "133398": {
 "content_id": "133398",
 "reference_id": 108146,
-"index_reference": "le seigneur jésus-christ",
+"index_reference": "le seigneur jésuschrist",
 "localizations": {
 "eng": {
 "content_id": 132092,
@@ -7688,7 +7688,7 @@
 "133401": {
 "content_id": "133401",
 "reference_id": 108149,
-"index_reference": "dons de l'esprit",
+"index_reference": "dons de lesprit",
 "localizations": {
 "eng": {
 "content_id": 132095,
@@ -7745,7 +7745,7 @@
 "133402": {
 "content_id": "133402",
 "reference_id": 108150,
-"index_reference": "expliquer d'autres langues",
+"index_reference": "expliquer dautres langues",
 "localizations": {
 "eng": {
 "content_id": 132096,
@@ -7911,7 +7911,7 @@
 "133405": {
 "content_id": "133405",
 "reference_id": 108153,
-"index_reference": "super-apôtre",
+"index_reference": "superapôtre",
 "localizations": {
 "eng": {
 "content_id": 132099,
@@ -7963,7 +7963,7 @@
 "133406": {
 "content_id": "133406",
 "reference_id": 108154,
-"index_reference": "fruit du saint-esprit",
+"index_reference": "fruit du saintesprit",
 "localizations": {
 "eng": {
 "content_id": 132100,
@@ -8793,7 +8793,7 @@
 "133421": {
 "content_id": "133421",
 "reference_id": 108169,
-"index_reference": "livre d'énoch",
+"index_reference": "livre dénoch",
 "localizations": {
 "eng": {
 "content_id": 132115,
@@ -9499,7 +9499,7 @@
 "133434": {
 "content_id": "133434",
 "reference_id": 108182,
-"index_reference": "autel d'or",
+"index_reference": "autel dor",
 "localizations": {
 "eng": {
 "content_id": 132128,
@@ -10889,7 +10889,7 @@
 "133459": {
 "content_id": "133459",
 "reference_id": 108207,
-"index_reference": "jardin d'éden",
+"index_reference": "jardin déden",
 "localizations": {
 "eng": {
 "content_id": 132153,
@@ -11050,7 +11050,7 @@
 "133462": {
 "content_id": "133462",
 "reference_id": 108210,
-"index_reference": "l'arbre de la connaissance",
+"index_reference": "larbre de la connaissance",
 "localizations": {
 "eng": {
 "content_id": 132156,
@@ -11419,7 +11419,7 @@
 "133469": {
 "content_id": "133469",
 "reference_id": 108217,
-"index_reference": "l'arbre de vie",
+"index_reference": "larbre de vie",
 "localizations": {
 "eng": {
 "content_id": 132163,
@@ -15611,7 +15611,7 @@
 "133545": {
 "content_id": "133545",
 "reference_id": 108293,
-"index_reference": "devoir du beau-frère",
+"index_reference": "devoir du beaufrère",
 "localizations": {
 "eng": {
 "content_id": 132239,
@@ -16488,7 +16488,7 @@
 "133561": {
 "content_id": "133561",
 "reference_id": 108309,
-"index_reference": "bâton d'aaron",
+"index_reference": "bâton daaron",
 "localizations": {
 "eng": {
 "content_id": 132255,
@@ -17573,7 +17573,7 @@
 "133581": {
 "content_id": "133581",
 "reference_id": 108329,
-"index_reference": "seigneur - souverain",
+"index_reference": "seigneur  souverain",
 "localizations": {
 "eng": {
 "content_id": 132275,
@@ -18891,7 +18891,7 @@
 "133605": {
 "content_id": "133605",
 "reference_id": 108353,
-"index_reference": "sacrifices d'expiation",
+"index_reference": "sacrifices dexpiation",
 "localizations": {
 "eng": {
 "content_id": 132299,
@@ -20323,7 +20323,7 @@
 "133631": {
 "content_id": "133631",
 "reference_id": 108379,
-"index_reference": "bénédictions de l'alliance",
+"index_reference": "bénédictions de lalliance",
 "localizations": {
 "eng": {
 "content_id": 132325,
@@ -20380,7 +20380,7 @@
 "133632": {
 "content_id": "133632",
 "reference_id": 108380,
-"index_reference": "malédictions de l'alliance",
+"index_reference": "malédictions de lalliance",
 "localizations": {
 "eng": {
 "content_id": 132326,
@@ -20655,7 +20655,7 @@
 "133637": {
 "content_id": "133637",
 "reference_id": 108385,
-"index_reference": "arche de l'alliance",
+"index_reference": "arche de lalliance",
 "localizations": {
 "eng": {
 "content_id": 132331,
@@ -20821,7 +20821,7 @@
 "133640": {
 "content_id": "133640",
 "reference_id": 108388,
-"index_reference": "le saint-esprit",
+"index_reference": "le saintesprit",
 "localizations": {
 "eng": {
 "content_id": 132334,
@@ -25080,7 +25080,7 @@
 "133717": {
 "content_id": "133717",
 "reference_id": 108465,
-"index_reference": "la honte et l'honneur",
+"index_reference": "la honte et lhonneur",
 "localizations": {
 "eng": {
 "content_id": 132411,
@@ -25402,7 +25402,7 @@
 "133723": {
 "content_id": "133723",
 "reference_id": 108471,
-"index_reference": "tamar - david",
+"index_reference": "tamar  david",
 "localizations": {
 "eng": {
 "content_id": 132417,
@@ -26673,7 +26673,7 @@
 "133746": {
 "content_id": "133746",
 "reference_id": 108494,
-"index_reference": "avant jésus-christ",
+"index_reference": "avant jésuschrist",
 "localizations": {
 "eng": {
 "content_id": 132440,
@@ -29822,7 +29822,7 @@
 "133803": {
 "content_id": "133803",
 "reference_id": 108551,
-"index_reference": "605 av. j.-c.",
+"index_reference": "605 av jc",
 "localizations": {
 "eng": {
 "content_id": 132497,
@@ -30154,7 +30154,7 @@
 "133809": {
 "content_id": "133809",
 "reference_id": 108557,
-"index_reference": "fils de l'homme",
+"index_reference": "fils de lhomme",
 "localizations": {
 "eng": {
 "content_id": 132503,
@@ -30263,7 +30263,7 @@
 "133811": {
 "content_id": "133811",
 "reference_id": 108559,
-"index_reference": "l'eau vive",
+"index_reference": "leau vive",
 "localizations": {
 "eng": {
 "content_id": 132505,
@@ -30704,7 +30704,7 @@
 "133819": {
 "content_id": "133819",
 "reference_id": 108567,
-"index_reference": "éternel (dieu)",
+"index_reference": "éternel dieu",
 "localizations": {
 "eng": {
 "content_id": 132513,

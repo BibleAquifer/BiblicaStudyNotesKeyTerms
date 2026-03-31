@@ -2,7 +2,7 @@
 {
 "content_id": "232635",
 "reference_id": 108034,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "凱撒",
 "media_type": "Text",
 "index_reference": "凱撒",
@@ -12,13 +12,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Claudius"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiberius"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Augustus"
+}
+]
 }
 },
 {
 "content_id": "232739",
 "reference_id": 108138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "凱撒利亞",
 "media_type": "Text",
 "index_reference": "凱撒利亞",
@@ -28,7 +57,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Caesarea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+}
+]
 }
 }
 ]

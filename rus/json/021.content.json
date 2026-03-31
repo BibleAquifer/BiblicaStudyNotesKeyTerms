@@ -2,7 +2,7 @@
 {
 "content_id": "193374",
 "reference_id": 108292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Фамарь",
 "media_type": "Text",
 "index_reference": "фамарь",
@@ -14,32 +14,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Tamar",
-"type": "person",
-"preferred_label": "Фамарь",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Tamar.2",
 "type": "person",
-"preferred_label": "Фамарь",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Фамарь"
 },
 {
 "id": "person:Tamar.3",
 "type": "person",
-"preferred_label": "Фамарь",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Фамарь"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Фамарь"
 },
 {
 "id": "place:Tamar.2",
 "type": "place",
-"preferred_label": "Фамарь",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Фамарь"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Фадмор"
 }
 ]
 }
@@ -47,23 +54,31 @@
 {
 "content_id": "193553",
 "reference_id": 108471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Фамарь, дочь Давида",
 "media_type": "Text",
-"index_reference": "фамарь, дочь давида",
+"index_reference": "фамарь дочь давида",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Дочь Давида и Маахи. Её родным братом был Авессалом, а сводным <span>— Амнон</span>. Амнон изнасиловал Фамарь, когда она была молоденькой девушкой. После чего он выгнал её из своего дома. В те дни это было таким же позором, как и развод. <span>Изнасилование, а затем отказ от брака опозорили </span>Фамарь перед всем народом Израиля. Это означало, она навсегда лишилась возможности выйти замуж и создать свою собственную семью. После этого несчастного случая Фамарь осталась жить в доме своего брата Авессалома. </p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Фамарь"
+}
+]
 }
 },
 {
 "content_id": "193332",
 "reference_id": 108250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Фараон",
 "media_type": "Text",
 "index_reference": "фараон",
@@ -73,13 +88,84 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Pharaoh.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "фараон"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Нехао"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "фараон"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "фараон"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "фараон"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "фараон"
+},
+{
+"id": "person:Pharaoh.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "фараон"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "фараон"
+},
+{
+"id": "person:Pharaoh.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "фараон"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Вафрия"
+}
+]
 }
 },
 {
 "content_id": "193132",
 "reference_id": 108050,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Фарисеи",
 "media_type": "Text",
 "index_reference": "фарисеи",
@@ -89,13 +175,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisees"
+}
+]
 }
 },
 {
 "content_id": "193161",
 "reference_id": 108079,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Феофил",
 "media_type": "Text",
 "index_reference": "феофил",
@@ -109,9 +203,9 @@
 {
 "id": "person:Theophilus",
 "type": "person",
-"preferred_label": "Феофил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Феофил"
 }
 ]
 }
@@ -119,7 +213,7 @@
 {
 "content_id": "193210",
 "reference_id": 108128,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Фессалоники",
 "media_type": "Text",
 "index_reference": "фессалоники",
@@ -133,9 +227,9 @@
 {
 "id": "place:Thessalonica",
 "type": "place",
-"preferred_label": "Фессалоника",
-"confidence": 0.9022,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Фессалоника"
 }
 ]
 }
@@ -143,7 +237,7 @@
 {
 "content_id": "193259",
 "reference_id": 108177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Фиатира",
 "media_type": "Text",
 "index_reference": "фиатира",
@@ -157,9 +251,9 @@
 {
 "id": "place:Thyatira",
 "type": "place",
-"preferred_label": "Фиатира",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Фиатира"
 }
 ]
 }
@@ -167,7 +261,7 @@
 {
 "content_id": "193262",
 "reference_id": 108180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Филадельфия",
 "media_type": "Text",
 "index_reference": "филадельфия",
@@ -181,9 +275,9 @@
 {
 "id": "place:Philadelphia",
 "type": "place",
-"preferred_label": "Филадельфия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Филадельфия"
 }
 ]
 }
@@ -191,7 +285,7 @@
 {
 "content_id": "193246",
 "reference_id": 108164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Филимон",
 "media_type": "Text",
 "index_reference": "филимон",
@@ -205,9 +299,9 @@
 {
 "id": "person:Philemon",
 "type": "person",
-"preferred_label": "Филимон",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Филимон"
 }
 ]
 }
@@ -215,7 +309,7 @@
 {
 "content_id": "193185",
 "reference_id": 108103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Филипп",
 "media_type": "Text",
 "index_reference": "филипп",
@@ -227,39 +321,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Philip",
-"type": "person",
-"preferred_label": "Филипп",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Philip.2",
 "type": "person",
-"preferred_label": "Филипп",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Филипп"
 },
 {
 "id": "person:Philip.3",
 "type": "person",
-"preferred_label": "Филипп",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Филипп"
 },
 {
 "id": "person:Philip.4",
 "type": "person",
-"preferred_label": "Филипп",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Филипп"
 },
 {
-"id": "place:Philippi",
-"type": "place",
-"preferred_label": "Филиппы",
-"confidence": 0.8146,
-"match_method": "embedding"
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Филипп"
 }
 ]
 }
@@ -267,7 +354,7 @@
 {
 "content_id": "193208",
 "reference_id": 108126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Филиппы",
 "media_type": "Text",
 "index_reference": "филиппы",
@@ -281,37 +368,9 @@
 {
 "id": "place:Philippi",
 "type": "place",
-"preferred_label": "Филиппы",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip",
-"type": "person",
-"preferred_label": "Филипп",
-"confidence": 0.8146,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip.2",
-"type": "person",
-"preferred_label": "Филипп",
-"confidence": 0.8146,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip.3",
-"type": "person",
-"preferred_label": "Филипп",
-"confidence": 0.8146,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip.4",
-"type": "person",
-"preferred_label": "Филипп",
-"confidence": 0.8146,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Филиппы"
 }
 ]
 }
@@ -319,7 +378,7 @@
 {
 "content_id": "193349",
 "reference_id": 108267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Филистимляне",
 "media_type": "Text",
 "index_reference": "филистимляне",
@@ -331,25 +390,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Филистимской",
-"confidence": 0.9177,
-"match_method": "embedding"
-},
-{
 "id": "group:Philistine",
 "type": "group",
-"preferred_label": "Филистимлянин",
-"confidence": 0.8693,
-"match_method": "embedding"
-},
-{
-"id": "person:Philistine",
-"type": "person",
-"preferred_label": "Филистимлянин",
-"confidence": 0.8693,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Филистимлянин"
 }
 ]
 }
@@ -357,7 +402,7 @@
 {
 "content_id": "193485",
 "reference_id": 108403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Финеес",
 "media_type": "Text",
 "index_reference": "финеес",
@@ -369,25 +414,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Phinehas",
-"type": "person",
-"preferred_label": "Финеес",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Phinehas.2",
 "type": "person",
-"preferred_label": "Финеес",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Финеес"
 },
 {
 "id": "person:Phinehas.3",
 "type": "person",
-"preferred_label": "Финеес",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Финеес"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Финеес"
 }
 ]
 }
@@ -395,7 +440,7 @@
 {
 "content_id": "193177",
 "reference_id": 108095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Фома",
 "media_type": "Text",
 "index_reference": "фома",
@@ -409,23 +454,9 @@
 {
 "id": "person:Thomas",
 "type": "person",
-"preferred_label": "Фома",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Tema",
-"type": "person",
-"preferred_label": "Фема",
-"confidence": 0.9025,
-"match_method": "embedding"
-},
-{
-"id": "place:Tema",
-"type": "place",
-"preferred_label": "Фема",
-"confidence": 0.9025,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Фома"
 }
 ]
 }
@@ -433,7 +464,7 @@
 {
 "content_id": "193205",
 "reference_id": 108123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Фригия",
 "media_type": "Text",
 "index_reference": "фригия",
@@ -447,9 +478,9 @@
 {
 "id": "place:Phrygia",
 "type": "place",
-"preferred_label": "Фригия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Фригия"
 }
 ]
 }

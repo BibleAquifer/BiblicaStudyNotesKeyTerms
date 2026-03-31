@@ -2,7 +2,7 @@
 {
 "content_id": "232073",
 "reference_id": 108104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oficial etíope",
 "media_type": "Text",
 "index_reference": "oficial etíope",
@@ -18,7 +18,7 @@
 {
 "content_id": "232321",
 "reference_id": 108352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ofrecimientos de comunión",
 "media_type": "Text",
 "index_reference": "ofrecimientos de comunión ",
@@ -34,7 +34,7 @@
 {
 "content_id": "232320",
 "reference_id": 108351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ofrendas de cereal",
 "media_type": "Text",
 "index_reference": "ofrendas de cereal",
@@ -50,7 +50,7 @@
 {
 "content_id": "232322",
 "reference_id": 108353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ofrendas por el pecado",
 "media_type": "Text",
 "index_reference": "ofrendas por el pecado",
@@ -66,7 +66,7 @@
 {
 "content_id": "232323",
 "reference_id": 108354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ofrendas por la culpa",
 "media_type": "Text",
 "index_reference": "ofrendas por la culpa",
@@ -82,7 +82,7 @@
 {
 "content_id": "232319",
 "reference_id": 108350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ofrendas quemadas",
 "media_type": "Text",
 "index_reference": "ofrendas quemadas",
@@ -98,7 +98,7 @@
 {
 "content_id": "232111",
 "reference_id": 108142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Olivo",
 "media_type": "Text",
 "index_reference": "olivo",
@@ -108,13 +108,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+}
+]
 }
 },
 {
 "content_id": "232130",
 "reference_id": 108161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Onésimo",
 "media_type": "Text",
 "index_reference": "onésimo",
@@ -128,9 +136,9 @@
 {
 "id": "person:Onesimus",
 "type": "person",
-"preferred_label": "Onésimo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Onésimo"
 }
 ]
 }
@@ -138,7 +146,7 @@
 {
 "content_id": "232196",
 "reference_id": 108227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oración",
 "media_type": "Text",
 "index_reference": "oración",
@@ -154,7 +162,7 @@
 {
 "content_id": "232008",
 "reference_id": 108039,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oscuridad",
 "media_type": "Text",
 "index_reference": "oscuridad",
@@ -178,7 +186,7 @@
 {
 "content_id": "232539",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oseas",
 "media_type": "Text",
 "index_reference": "oseas",
@@ -192,30 +200,9 @@
 {
 "id": "person:Hosea",
 "type": "person",
-"preferred_label": "Oseas",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hoshea",
-"type": "person",
-"preferred_label": "Oseas",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hoshea.2",
-"type": "person",
-"preferred_label": "Oseas",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hoshea.3",
-"type": "person",
-"preferred_label": "Oseas",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Oseas"
 }
 ]
 }
@@ -223,7 +210,7 @@
 {
 "content_id": "232400",
 "reference_id": 108431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Otoniel",
 "media_type": "Text",
 "index_reference": "otoniel",
@@ -233,7 +220,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Othniel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Othoniel"
+}
+]
 }
 }
 ]

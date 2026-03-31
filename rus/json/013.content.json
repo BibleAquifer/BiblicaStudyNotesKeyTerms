@@ -2,7 +2,7 @@
 {
 "content_id": "193385",
 "reference_id": 108303,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мадианитяне",
 "media_type": "Text",
 "index_reference": "мадианитяне",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midianites"
+}
+]
 }
 },
 {
 "content_id": "193207",
 "reference_id": 108125,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Македония",
 "media_type": "Text",
 "index_reference": "македония",
@@ -36,13 +44,21 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Македонянин"
+}
+]
 }
 },
 {
 "content_id": "193660",
 "reference_id": 108578,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Малахия",
 "media_type": "Text",
 "index_reference": "малахия",
@@ -56,9 +72,9 @@
 {
 "id": "person:Malachi",
 "type": "person",
-"preferred_label": "Малахия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Малахия"
 }
 ]
 }
@@ -66,7 +82,7 @@
 {
 "content_id": "193195",
 "reference_id": 108113,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Малая Асия",
 "media_type": "Text",
 "index_reference": "малая асия",
@@ -80,9 +96,9 @@
 {
 "id": "place:AsiaMinor",
 "type": "place",
-"preferred_label": "Asia Minor",
-"confidence": 0.8033,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asia Minor"
 }
 ]
 }
@@ -90,7 +106,7 @@
 {
 "content_id": "193381",
 "reference_id": 108299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Манассия",
 "media_type": "Text",
 "index_reference": "манассия",
@@ -102,39 +118,32 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Манассия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Манассия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Manasseh.2",
 "type": "person",
-"preferred_label": "Манассия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Манассия"
 },
 {
 "id": "person:Manasseh.3",
 "type": "person",
-"preferred_label": "Манассия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Манассия"
 },
 {
 "id": "person:Manasseh.4",
 "type": "person",
-"preferred_label": "Манассия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Манассия"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Манассия"
 }
 ]
 }
@@ -142,7 +151,7 @@
 {
 "content_id": "193405",
 "reference_id": 108323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Манна",
 "media_type": "Text",
 "index_reference": "манна",
@@ -158,7 +167,7 @@
 {
 "content_id": "193602",
 "reference_id": 108520,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мардохей",
 "media_type": "Text",
 "index_reference": "мардохей",
@@ -170,18 +179,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mordecai",
-"type": "person",
-"preferred_label": "Мардохей",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Mordecai.2",
 "type": "person",
-"preferred_label": "Мардохей",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Мардохей"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мардохей"
 }
 ]
 }
@@ -189,7 +198,7 @@
 {
 "content_id": "193404",
 "reference_id": 108322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мариам",
 "media_type": "Text",
 "index_reference": "мариам",
@@ -201,18 +210,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Miriam",
-"type": "person",
-"preferred_label": "Мариам",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Miriam.2",
 "type": "person",
-"preferred_label": "Мариам",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Мариам"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мариам"
 }
 ]
 }
@@ -220,7 +229,7 @@
 {
 "content_id": "193536",
 "reference_id": 108454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мария из Назарета",
 "media_type": "Text",
 "index_reference": "мария из назарета",
@@ -230,13 +239,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мария"
+}
+]
 }
 },
 {
 "content_id": "193150",
 "reference_id": 108068,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мария Магдалина",
 "media_type": "Text",
 "index_reference": "мария магдалина",
@@ -250,9 +267,9 @@
 {
 "id": "person:Marymagdalene",
 "type": "person",
-"preferred_label": "Мария Магдалина",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Мария Магдалина"
 }
 ]
 }
@@ -260,23 +277,87 @@
 {
 "content_id": "193165",
 "reference_id": 108083,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мария, Марфа и Лазарь",
 "media_type": "Text",
-"index_reference": "мария, марфа и лазарь",
+"index_reference": "мария марфа и лазарь",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Две сестры и брат, которые были близкими друзьями Иисуса. Мария, Марфа и Лазарь жили в селении Вифания, которое находилось недалеко от Иерусалима. Иисус часто останавливался в их доме. После того как Лазарь умер и четыре дня пролежал в гробнице, Иисус воскресил его. Позже Мария вылила дорогое масло на голову Иисуса, чтобы показать глубину своей любви к Божьему Сыну. </p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Лазарь"
+},
+{
+"id": "person:Lazarus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Лазарь"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Марфа"
+},
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мария"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мария"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мария"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мария"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мария"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мария"
+}
+]
 }
 },
 {
 "content_id": "193151",
 "reference_id": 108069,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Марк",
 "media_type": "Text",
 "index_reference": "марк",
@@ -290,16 +371,9 @@
 {
 "id": "person:Mark",
 "type": "person",
-"preferred_label": "Марк",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "keyterm:Mark",
-"type": "keyterm",
-"preferred_label": "Mark",
-"confidence": 0.9383,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Марк"
 }
 ]
 }
@@ -307,7 +381,7 @@
 {
 "content_id": "193621",
 "reference_id": 108539,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Матфей",
 "media_type": "Text",
 "index_reference": "матфей",
@@ -321,16 +395,9 @@
 {
 "id": "person:Matthew",
 "type": "person",
-"preferred_label": "Матфей",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Matthias",
-"type": "person",
-"preferred_label": "Матфий",
-"confidence": 0.9106,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Матфей"
 }
 ]
 }
@@ -338,7 +405,7 @@
 {
 "content_id": "193334",
 "reference_id": 108252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мелхиседек",
 "media_type": "Text",
 "index_reference": "мелхиседек",
@@ -352,9 +419,9 @@
 {
 "id": "person:Melchizedek",
 "type": "person",
-"preferred_label": "Мелхиседек",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Мелхиседек"
 }
 ]
 }
@@ -362,7 +429,7 @@
 {
 "content_id": "193549",
 "reference_id": 108467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мемфивосфей",
 "media_type": "Text",
 "index_reference": "мемфивосфей",
@@ -374,18 +441,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mephibosheth",
-"type": "person",
-"preferred_label": "Мемфивосфей",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Mephibosheth.2",
 "type": "person",
-"preferred_label": "Мемфивосфей",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Мемфивосфей"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мемфивосфей"
 }
 ]
 }
@@ -393,7 +460,7 @@
 {
 "content_id": "193476",
 "reference_id": 108394,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мерива",
 "media_type": "Text",
 "index_reference": "мерива",
@@ -405,18 +472,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Meribah",
-"type": "place",
-"preferred_label": "Мерива",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Meribah.2",
 "type": "place",
-"preferred_label": "Мерива",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Мерива"
+},
+{
+"id": "place:Meribah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Мерива"
 }
 ]
 }
@@ -424,7 +491,7 @@
 {
 "content_id": "193326",
 "reference_id": 108244,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Месопотамия",
 "media_type": "Text",
 "index_reference": "месопотамия",
@@ -436,25 +503,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Mesopotamia",
-"type": "group",
-"preferred_label": "Месопотамия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Mesopotamia",
 "type": "place",
-"preferred_label": "Месопотамия",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Paddan-aram",
-"type": "place",
-"preferred_label": "Месопотамия",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Месопотамия"
 }
 ]
 }
@@ -462,7 +515,7 @@
 {
 "content_id": "193609",
 "reference_id": 108527,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мессия",
 "media_type": "Text",
 "index_reference": "мессия",
@@ -472,13 +525,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+}
+]
 }
 },
 {
 "content_id": "193630",
 "reference_id": 108548,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Меч",
 "media_type": "Text",
 "index_reference": "меч",
@@ -488,13 +549,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
+]
 }
 },
 {
 "content_id": "193424",
 "reference_id": 108342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Милосердие",
 "media_type": "Text",
 "index_reference": "милосердие",
@@ -504,13 +573,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Mercy"
+}
+]
 }
 },
 {
 "content_id": "193293",
 "reference_id": 108211,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мир",
 "media_type": "Text",
 "index_reference": "мир",
@@ -520,13 +597,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "193434",
 "reference_id": 108352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мирная жертва",
 "media_type": "Text",
 "index_reference": "мирная жертва",
@@ -542,7 +627,7 @@
 {
 "content_id": "193297",
 "reference_id": 108215,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мироздание",
 "media_type": "Text",
 "index_reference": "мироздание",
@@ -558,7 +643,7 @@
 {
 "content_id": "193647",
 "reference_id": 108565,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Михаил",
 "media_type": "Text",
 "index_reference": "михаил",
@@ -570,81 +655,81 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Michael",
-"type": "person",
-"preferred_label": "Михаил",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Michael.10",
 "type": "person",
-"preferred_label": "Михаил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михаил"
 },
 {
 "id": "person:Michael.11",
 "type": "person",
-"preferred_label": "Михаил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михаил"
 },
 {
 "id": "person:Michael.2",
 "type": "person",
-"preferred_label": "Михаил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михаил"
 },
 {
 "id": "person:Michael.3",
 "type": "person",
-"preferred_label": "Михаил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михаил"
 },
 {
 "id": "person:Michael.4",
 "type": "person",
-"preferred_label": "Михаил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михаил"
 },
 {
 "id": "person:Michael.5",
 "type": "person",
-"preferred_label": "Михаил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михаил"
 },
 {
 "id": "person:Michael.6",
 "type": "person",
-"preferred_label": "Михаил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михаил"
 },
 {
 "id": "person:Michael.7",
 "type": "person",
-"preferred_label": "Михаил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михаил"
 },
 {
 "id": "person:Michael.8",
 "type": "person",
-"preferred_label": "Михаил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михаил"
 },
 {
 "id": "person:Michael.9",
 "type": "person",
-"preferred_label": "Михаил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михаил"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Михаил"
 }
 ]
 }
@@ -652,7 +737,7 @@
 {
 "content_id": "193658",
 "reference_id": 108576,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Михей",
 "media_type": "Text",
 "index_reference": "михей",
@@ -664,32 +749,53 @@
 "resource": [],
 "acai": [
 {
+"id": "person:Micah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Миха"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Миха"
+},
+{
+"id": "person:Micah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Миха"
+},
+{
+"id": "person:Micah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Миха"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Миха"
+},
+{
 "id": "person:Micaiah.3",
 "type": "person",
-"preferred_label": "Михей",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Михей"
 },
 {
-"id": "person:Micaiah.4",
+"id": "person:Mica",
 "type": "person",
-"preferred_label": "Михей",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Micaiah.5",
-"type": "person",
-"preferred_label": "Михей",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Micaiah.6",
-"type": "person",
-"preferred_label": "Михей",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Миха"
 }
 ]
 }
@@ -697,7 +803,7 @@
 {
 "content_id": "193359",
 "reference_id": 108277,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Многожёнство",
 "media_type": "Text",
 "index_reference": "многожёнство",
@@ -721,7 +827,7 @@
 {
 "content_id": "193479",
 "reference_id": 108397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Моавитяне",
 "media_type": "Text",
 "index_reference": "моавитяне",
@@ -731,13 +837,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Moab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Моав"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Моав"
+}
+]
 }
 },
 {
 "content_id": "193382",
 "reference_id": 108300,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Моисей",
 "media_type": "Text",
 "index_reference": "моисей",
@@ -759,9 +880,9 @@
 {
 "id": "person:Moses",
 "type": "person",
-"preferred_label": "Моисей",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Моисей"
 }
 ]
 }
@@ -769,7 +890,7 @@
 {
 "content_id": "193309",
 "reference_id": 108227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Молитва",
 "media_type": "Text",
 "index_reference": "молитва",
@@ -785,7 +906,7 @@
 {
 "content_id": "193154",
 "reference_id": 108072,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Море",
 "media_type": "Text",
 "index_reference": "море",
@@ -801,7 +922,7 @@
 {
 "content_id": "193115",
 "reference_id": 108033,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мудрецы",
 "media_type": "Text",
 "index_reference": "мудрецы",
@@ -817,7 +938,7 @@
 {
 "content_id": "193407",
 "reference_id": 108325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мудрость",
 "media_type": "Text",
 "index_reference": "мудрость",
@@ -827,13 +948,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Wisdom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
+}
+]
 }
 },
 {
 "content_id": "193131",
 "reference_id": 108049,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Мытарь",
 "media_type": "Text",
 "index_reference": "мытарь",
@@ -851,7 +980,22 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.986,
+"match_method": "embedding",
+"preferred_label": "Tax Collector"
+},
+{
+"id": "group:TaxCollectors",
+"type": "group",
+"confidence": 0.8299,
+"match_method": "embedding",
+"preferred_label": "Tax Collectors"
+}
+]
 }
 }
 ]

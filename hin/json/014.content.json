@@ -2,7 +2,7 @@
 {
 "content_id": "183151",
 "reference_id": 108257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "खतना",
 "media_type": "Text",
 "index_reference": "खतना",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Circumcision"
+}
+]
 }
 }
 ]

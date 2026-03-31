@@ -2,7 +2,7 @@
 {
 "content_id": "145910",
 "reference_id": 108401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baal",
 "media_type": "Text",
 "index_reference": "baal",
@@ -14,25 +14,39 @@
 "resource": [],
 "acai": [
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
+"id": "person:Baal.2",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baal"
 },
 {
 "id": "person:Baal",
 "type": "person",
-"preferred_label": "Baal",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baal"
 },
 {
-"id": "person:Baal.2",
-"type": "person",
-"preferred_label": "Baal",
+"id": "place:Baalath-beer",
+"type": "place",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "SENHOR"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
 }
 ]
 }
@@ -40,7 +54,7 @@
 {
 "content_id": "145911",
 "reference_id": 108402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baal Peor",
 "media_type": "Text",
 "index_reference": "baal peor",
@@ -54,9 +68,9 @@
 {
 "id": "place:Peor",
 "type": "place",
-"preferred_label": "Baal-Peor",
-"confidence": 0.9339,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal-Peor"
 }
 ]
 }
@@ -64,7 +78,7 @@
 {
 "content_id": "145748",
 "reference_id": 108239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babel",
 "media_type": "Text",
 "index_reference": "babel",
@@ -80,7 +94,7 @@
 {
 "content_id": "146007",
 "reference_id": 108498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babilônia",
 "media_type": "Text",
 "index_reference": "babilônia",
@@ -92,18 +106,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Babylon",
+"id": "place:Babylon.2",
 "type": "place",
-"preferred_label": "Babilônia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Babylon"
 },
 {
-"id": "place:Babylonia",
+"id": "place:Babylon",
 "type": "place",
-"preferred_label": "Babylonia",
-"confidence": 0.914,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babilônia"
 }
 ]
 }
@@ -111,7 +125,7 @@
 {
 "content_id": "145907",
 "reference_id": 108398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balaão",
 "media_type": "Text",
 "index_reference": "balaão",
@@ -125,9 +139,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "Balaão",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Balaão"
 }
 ]
 }
@@ -135,7 +149,7 @@
 {
 "content_id": "145905",
 "reference_id": 108396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balaque",
 "media_type": "Text",
 "index_reference": "balaque",
@@ -149,9 +163,9 @@
 {
 "id": "person:Balak",
 "type": "person",
-"preferred_label": "Balaque",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Balaque"
 }
 ]
 }
@@ -159,7 +173,7 @@
 {
 "content_id": "145944",
 "reference_id": 108435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baraque",
 "media_type": "Text",
 "index_reference": "baraque",
@@ -173,37 +187,9 @@
 {
 "id": "person:Barak",
 "type": "person",
-"preferred_label": "Baraque",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Baruch",
-"type": "person",
-"preferred_label": "Baruque",
-"confidence": 0.8206,
-"match_method": "embedding"
-},
-{
-"id": "person:Baruch.2",
-"type": "person",
-"preferred_label": "Baruque",
-"confidence": 0.8206,
-"match_method": "embedding"
-},
-{
-"id": "person:Baruch.3",
-"type": "person",
-"preferred_label": "Baruque",
-"confidence": 0.8206,
-"match_method": "embedding"
-},
-{
-"id": "person:Baruch.4",
-"type": "person",
-"preferred_label": "Baruque",
-"confidence": 0.8206,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baraque"
 }
 ]
 }
@@ -211,7 +197,7 @@
 {
 "content_id": "145616",
 "reference_id": 108107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barnabé",
 "media_type": "Text",
 "index_reference": "barnabé",
@@ -225,9 +211,9 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "Barnabé",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Barnabé"
 }
 ]
 }
@@ -235,7 +221,7 @@
 {
 "content_id": "145585",
 "reference_id": 108076,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barrabás",
 "media_type": "Text",
 "index_reference": "barrabás",
@@ -249,9 +235,9 @@
 {
 "id": "person:Barabbas",
 "type": "person",
-"preferred_label": "Barrabás",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Barrabás"
 }
 ]
 }
@@ -259,10 +245,10 @@
 {
 "content_id": "145977",
 "reference_id": 108468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bate-Seba",
 "media_type": "Text",
-"index_reference": "bate-seba",
+"index_reference": "bateseba",
 "language": "por",
 "review_level": "None",
 "content": "<p>A esposa de Urias, o hitita. Davi cometeu adultério com ela, assassinou seu marido e depois a fez sua esposa. Seu primeiro filho com Davi morreu como resultado dos pecados de Davi. Seu segundo filho com Davi foi Salomão. Jesus veio da linhagem familiar de Bate-Seba.</p>",
@@ -273,9 +259,9 @@
 {
 "id": "person:Bathsheba",
 "type": "person",
-"preferred_label": "Bate-Seba",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bate-Seba"
 }
 ]
 }
@@ -283,7 +269,7 @@
 {
 "content_id": "145546",
 "reference_id": 108037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Batismo",
 "media_type": "Text",
 "index_reference": "batismo",
@@ -297,9 +283,9 @@
 {
 "id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "batismo",
-"confidence": 0.8266,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "batismo"
 }
 ]
 }
@@ -307,7 +293,7 @@
 {
 "content_id": "145951",
 "reference_id": 108442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Belém",
 "media_type": "Text",
 "index_reference": "belém",
@@ -319,18 +305,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Belém",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethlehem.2",
 "type": "place",
-"preferred_label": "Belém",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Belém"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Belém"
 }
 ]
 }
@@ -338,7 +324,7 @@
 {
 "content_id": "145780",
 "reference_id": 108271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Benção do pai",
 "media_type": "Text",
 "index_reference": "benção do pai",
@@ -354,7 +340,7 @@
 {
 "content_id": "145888",
 "reference_id": 108379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bênçãos da aliança",
 "media_type": "Text",
 "index_reference": "bênçãos da aliança",
@@ -370,7 +356,7 @@
 {
 "content_id": "145664",
 "reference_id": 108155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bênçãos espirituais",
 "media_type": "Text",
 "index_reference": "bênçãos espirituais",
@@ -386,7 +372,7 @@
 {
 "content_id": "145803",
 "reference_id": 108294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Benjamim",
 "media_type": "Text",
 "index_reference": "benjamim",
@@ -398,46 +384,39 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Benjamim",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamim",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Benjamin.2",
 "type": "person",
-"preferred_label": "Benjamim",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benjamim"
 },
 {
 "id": "person:Benjamin.3",
 "type": "person",
-"preferred_label": "Benjamim",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benjamim"
 },
 {
 "id": "person:Benjamin.4",
 "type": "person",
-"preferred_label": "Benjamim",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benjamim"
 },
 {
 "id": "person:Benjamin.5",
 "type": "person",
-"preferred_label": "Benjamim",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benjamim"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamim"
 }
 ]
 }
@@ -445,7 +424,7 @@
 {
 "content_id": "145638",
 "reference_id": 108129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berea",
 "media_type": "Text",
 "index_reference": "berea",
@@ -457,18 +436,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Beera",
-"type": "person",
-"preferred_label": "Beera",
-"confidence": 0.8611,
-"match_method": "embedding"
-},
-{
-"id": "person:Beerah",
-"type": "person",
-"preferred_label": "Beera",
-"confidence": 0.8611,
-"match_method": "embedding"
+"id": "place:Berea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bereia"
 }
 ]
 }
@@ -476,7 +448,7 @@
 {
 "content_id": "145804",
 "reference_id": 108295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berseba",
 "media_type": "Text",
 "index_reference": "berseba",
@@ -490,16 +462,9 @@
 {
 "id": "place:Beersheba",
 "type": "place",
-"preferred_label": "Berseba",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Beersheba.2",
-"type": "place",
-"preferred_label": "Bersabe",
-"confidence": 0.8935,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Berseba"
 }
 ]
 }
@@ -507,7 +472,7 @@
 {
 "content_id": "145584",
 "reference_id": 108075,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Betânia",
 "media_type": "Text",
 "index_reference": "betânia",
@@ -519,25 +484,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethany",
-"type": "place",
-"preferred_label": "Betânia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethany.2",
 "type": "place",
-"preferred_label": "Betânia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Betânia"
 },
 {
-"id": "place:Batanea",
+"id": "place:Bethany",
 "type": "place",
-"preferred_label": "Batanea",
-"confidence": 0.8223,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betânia"
 }
 ]
 }
@@ -545,7 +503,7 @@
 {
 "content_id": "145781",
 "reference_id": 108272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Betel",
 "media_type": "Text",
 "index_reference": "betel",
@@ -557,18 +515,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "Betel",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethel.2",
 "type": "place",
-"preferred_label": "Betel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Betel"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Betel"
 }
 ]
 }
@@ -576,7 +534,7 @@
 {
 "content_id": "145850",
 "reference_id": 108341,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bezerro de metal",
 "media_type": "Text",
 "index_reference": "bezerro de metal",
@@ -600,7 +558,7 @@
 {
 "content_id": "145702",
 "reference_id": 108193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bíblia",
 "media_type": "Text",
 "index_reference": "bíblia",
@@ -624,7 +582,7 @@
 {
 "content_id": "145798",
 "reference_id": 108289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bila",
 "media_type": "Text",
 "index_reference": "bila",
@@ -646,16 +604,16 @@
 {
 "id": "person:Bilhah",
 "type": "person",
-"preferred_label": "Bila",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bila"
 },
 {
 "id": "place:Bilhah",
 "type": "place",
-"preferred_label": "Bila",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bila"
 }
 ]
 }
@@ -663,7 +621,7 @@
 {
 "content_id": "145552",
 "reference_id": 108043,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Boas novas",
 "media_type": "Text",
 "index_reference": "boas novas",
@@ -681,13 +639,21 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9692,
+"match_method": "embedding",
+"preferred_label": "boa notícia"
+}
+]
 }
 },
 {
 "content_id": "145569",
 "reference_id": 108060,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Boas obras",
 "media_type": "Text",
 "index_reference": "boas obras",

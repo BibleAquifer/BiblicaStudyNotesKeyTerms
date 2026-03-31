@@ -2,7 +2,7 @@
 {
 "content_id": "183346",
 "reference_id": 108452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शमूएल",
 "media_type": "Text",
 "index_reference": "शमूएल",
@@ -16,44 +16,9 @@
 {
 "id": "person:Samuel",
 "type": "person",
-"preferred_label": "शमूएल",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemuel",
-"type": "person",
-"preferred_label": "शमूएल",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemuel.2",
-"type": "person",
-"preferred_label": "शमूएल",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shebuel",
-"type": "person",
-"preferred_label": "शबूएल",
-"confidence": 0.8195,
-"match_method": "embedding"
-},
-{
-"id": "person:Shebuel.2",
-"type": "person",
-"preferred_label": "शबूएल",
-"confidence": 0.8195,
-"match_method": "embedding"
-},
-{
-"id": "person:Jemuel",
-"type": "person",
-"preferred_label": "यमूएल",
-"confidence": 0.8097,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शमूएल"
 }
 ]
 }
@@ -61,7 +26,7 @@
 {
 "content_id": "183359",
 "reference_id": 108465,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शर्म और सम्मान",
 "media_type": "Text",
 "index_reference": "शर्म और सम्मान",
@@ -77,7 +42,7 @@
 {
 "content_id": "183105",
 "reference_id": 108211,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शांति",
 "media_type": "Text",
 "index_reference": "शांति",
@@ -89,11 +54,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:IntactState",
-"type": "keyterm",
-"preferred_label": "Peace",
-"confidence": 0.8585,
-"match_method": "embedding"
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
 }
 ]
 }
@@ -101,7 +66,7 @@
 {
 "content_id": "183349",
 "reference_id": 108455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शाऊल",
 "media_type": "Text",
 "index_reference": "शाऊल",
@@ -115,44 +80,16 @@
 {
 "id": "person:Saul.2",
 "type": "person",
-"preferred_label": "शाऊल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शाऊल"
 },
 {
-"id": "person:Shaul",
+"id": "person:Paul",
 "type": "person",
-"preferred_label": "शाऊल",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shaul.2",
-"type": "person",
-"preferred_label": "शाऊल",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shaul.3",
-"type": "person",
-"preferred_label": "शाऊल",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shual",
-"type": "person",
-"preferred_label": "शूआल",
-"confidence": 0.9065,
-"match_method": "embedding"
-},
-{
-"id": "place:Shual",
-"type": "place",
-"preferred_label": "शूआल",
-"confidence": 0.9065,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "पौलुस"
 }
 ]
 }
@@ -160,7 +97,7 @@
 {
 "content_id": "183103",
 "reference_id": 108209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शासक",
 "media_type": "Text",
 "index_reference": "शासक",
@@ -170,13 +107,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericRulers",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Rulers"
+}
+]
 }
 },
 {
 "content_id": "183333",
 "reference_id": 108439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शिमशोन",
 "media_type": "Text",
 "index_reference": "शिमशोन",
@@ -190,16 +135,9 @@
 {
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "शिमशोन",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Heshmon",
-"type": "place",
-"preferred_label": "हेशमोन",
-"confidence": 0.8002,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शिमशोन"
 }
 ]
 }
@@ -207,7 +145,7 @@
 {
 "content_id": "183347",
 "reference_id": 108453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शीलो",
 "media_type": "Text",
 "index_reference": "शीलो",
@@ -221,16 +159,16 @@
 {
 "id": "person:Shiloh",
 "type": "person",
-"preferred_label": "शीलो",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शीलो"
 },
 {
 "id": "place:Shiloh",
 "type": "place",
-"preferred_label": "शीलो",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शीलो"
 }
 ]
 }
@@ -238,7 +176,7 @@
 {
 "content_id": "182978",
 "reference_id": 108084,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शीलोह",
 "media_type": "Text",
 "index_reference": "शीलोह",
@@ -248,13 +186,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Siloam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Siloam"
+}
+]
 }
 },
 {
 "content_id": "183257",
 "reference_id": 108363,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शुद्ध या अशुद्ध",
 "media_type": "Text",
 "index_reference": "शुद्ध या अशुद्ध",
@@ -278,7 +224,7 @@
 {
 "content_id": "183258",
 "reference_id": 108364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शुद्ध या अशुद्ध",
 "media_type": "Text",
 "index_reference": "शुद्ध या अशुद्ध",
@@ -302,7 +248,7 @@
 {
 "content_id": "183411",
 "reference_id": 108517,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शूशन",
 "media_type": "Text",
 "index_reference": "शूशन",
@@ -316,9 +262,9 @@
 {
 "id": "place:Susa",
 "type": "place",
-"preferred_label": "शूशन",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शूशन"
 }
 ]
 }
@@ -326,7 +272,7 @@
 {
 "content_id": "183176",
 "reference_id": 108282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शेकेम",
 "media_type": "Text",
 "index_reference": "शेकेम",
@@ -338,32 +284,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Shechem",
-"type": "person",
-"preferred_label": "शेकेम",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Shechem.2",
 "type": "person",
-"preferred_label": "शेकेम",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शेकेम"
 },
 {
 "id": "person:Shechem.3",
 "type": "person",
-"preferred_label": "शेकेम",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शेकेम"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "शेकेम"
 },
 {
 "id": "place:Shechem",
 "type": "place",
-"preferred_label": "शेकेम",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शेकेम"
 }
 ]
 }
@@ -371,7 +317,7 @@
 {
 "content_id": "183118",
 "reference_id": 108224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शेत",
 "media_type": "Text",
 "index_reference": "शेत",
@@ -381,13 +327,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Seth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "शेत"
+}
+]
 }
 },
 {
 "content_id": "183135",
 "reference_id": 108241,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शेम",
 "media_type": "Text",
 "index_reference": "शेम",
@@ -397,13 +351,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "शेम"
+}
+]
 }
 },
 {
 "content_id": "183308",
 "reference_id": 108414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शेमा",
 "media_type": "Text",
 "index_reference": "शेमा",
@@ -415,67 +377,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Shema",
-"type": "person",
-"preferred_label": "शेमा",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Shema.2",
 "type": "person",
-"preferred_label": "शेमा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शेमा"
 },
 {
 "id": "person:Shema.3",
 "type": "person",
-"preferred_label": "शेमा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शेमा"
 },
 {
 "id": "person:Shema.4",
 "type": "person",
-"preferred_label": "शेमा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शेमा"
+},
+{
+"id": "person:Shema",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "शेमा"
 },
 {
 "id": "place:Shema",
 "type": "place",
-"preferred_label": "शेमा",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemaah",
-"type": "person",
-"preferred_label": "शमाआ",
-"confidence": 0.918,
-"match_method": "embedding"
-},
-{
-"id": "person:Shama",
-"type": "person",
-"preferred_label": "शामा",
-"confidence": 0.8477,
-"match_method": "embedding"
-},
-{
-"id": "person:Shimea.2",
-"type": "person",
-"preferred_label": "शिमा",
-"confidence": 0.8178,
-"match_method": "embedding"
-},
-{
-"id": "person:Shimea.3",
-"type": "person",
-"preferred_label": "शिमा",
-"confidence": 0.8178,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शेमा"
 }
 ]
 }
@@ -483,7 +417,7 @@
 {
 "content_id": "183110",
 "reference_id": 108216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "शैतान",
 "media_type": "Text",
 "index_reference": "शैतान",
@@ -505,9 +439,9 @@
 {
 "id": "deity:Satan",
 "type": "deity",
-"preferred_label": "शैतान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "शैतान"
 }
 ]
 }

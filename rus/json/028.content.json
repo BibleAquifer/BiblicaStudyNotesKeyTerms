@@ -2,7 +2,7 @@
 {
 "content_id": "193386",
 "reference_id": 108304,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Я есмь",
 "media_type": "Text",
 "index_reference": "я есмь",
@@ -18,7 +18,7 @@
 {
 "content_id": "193629",
 "reference_id": 108547,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Язычник",
 "media_type": "Text",
 "index_reference": "язычник",
@@ -36,7 +36,15 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gentiles"
+}
+]
 }
 }
 ]

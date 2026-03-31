@@ -2,7 +2,7 @@
 {
 "content_id": "367707",
 "reference_id": 108216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ibilisi",
 "media_type": "Text",
 "index_reference": "ibilisi",
@@ -20,13 +20,21 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shetani"
+}
+]
 }
 },
 {
 "content_id": "367734",
 "reference_id": 108243,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ibrahimu",
 "media_type": "Text",
 "index_reference": "ibrahimu",
@@ -44,13 +52,21 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Abraham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abrahamu"
+}
+]
 }
 },
 {
 "content_id": "367606",
 "reference_id": 108115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ikoniamu",
 "media_type": "Text",
 "index_reference": "ikoniamu",
@@ -60,13 +76,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ikonio"
+}
+]
 }
 },
 {
 "content_id": "367723",
 "reference_id": 108232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Imani",
 "media_type": "Text",
 "index_reference": "imani",
@@ -76,13 +100,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "Trust"
+}
+]
 }
 },
 {
 "content_id": "368029",
 "reference_id": 108538,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Imanueli",
 "media_type": "Text",
 "index_reference": "imanueli",
@@ -92,13 +124,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yesu"
+}
+]
 }
 },
 {
 "content_id": "367522",
 "reference_id": 108031,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Injili",
 "media_type": "Text",
 "index_reference": "injili",
@@ -122,7 +162,7 @@
 {
 "content_id": "368070",
 "reference_id": 108579,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Injili ya mafanikio",
 "media_type": "Text",
 "index_reference": "injili ya mafanikio",
@@ -138,7 +178,7 @@
 {
 "content_id": "367752",
 "reference_id": 108261,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaka",
 "media_type": "Text",
 "index_reference": "isaka",
@@ -152,9 +192,9 @@
 {
 "id": "person:Isaac",
 "type": "person",
-"preferred_label": "Isaka",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Isaka"
 }
 ]
 }
@@ -162,7 +202,7 @@
 {
 "content_id": "367988",
 "reference_id": 108497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Isaya",
 "media_type": "Text",
 "index_reference": "isaya",
@@ -176,37 +216,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"preferred_label": "Isaya",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Isshiah",
-"type": "person",
-"preferred_label": "Ishia",
-"confidence": 0.8101,
-"match_method": "embedding"
-},
-{
-"id": "person:Isshiah.2",
-"type": "person",
-"preferred_label": "Ishia",
-"confidence": 0.8101,
-"match_method": "embedding"
-},
-{
-"id": "person:Isshiah.3",
-"type": "person",
-"preferred_label": "Ishia",
-"confidence": 0.8101,
-"match_method": "embedding"
-},
-{
-"id": "person:Isshiah.4",
-"type": "person",
-"preferred_label": "Ishia",
-"confidence": 0.8101,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Isaya"
 }
 ]
 }
@@ -214,7 +226,7 @@
 {
 "content_id": "367753",
 "reference_id": 108262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ishmaeli",
 "media_type": "Text",
 "index_reference": "ishmaeli",
@@ -226,46 +238,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ishmael",
-"type": "person",
-"preferred_label": "Ishmaeli",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ishmael.2",
 "type": "person",
-"preferred_label": "Ishmaeli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
 },
 {
 "id": "person:Ishmael.3",
 "type": "person",
-"preferred_label": "Ishmaeli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
 },
 {
 "id": "person:Ishmael.4",
 "type": "person",
-"preferred_label": "Ishmaeli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
 },
 {
 "id": "person:Ishmael.5",
 "type": "person",
-"preferred_label": "Ishmaeli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
 },
 {
 "id": "person:Ishmael.6",
 "type": "person",
-"preferred_label": "Ishmaeli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmaeli"
 }
 ]
 }
@@ -273,7 +285,7 @@
 {
 "content_id": "367771",
 "reference_id": 108280,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Israeli",
 "media_type": "Text",
 "index_reference": "israeli",
@@ -295,9 +307,16 @@
 {
 "id": "person:Israel",
 "type": "person",
-"preferred_label": "Israeli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Israeli"
+},
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
 }
 ]
 }

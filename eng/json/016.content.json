@@ -2,7 +2,7 @@
 {
 "content_id": "132138",
 "reference_id": 108192,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Old Testament",
 "media_type": "Text",
 "index_reference": "old testament",
@@ -18,7 +18,7 @@
 {
 "content_id": "132088",
 "reference_id": 108142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Olive tree",
 "media_type": "Text",
 "index_reference": "olive tree",
@@ -32,9 +32,9 @@
 {
 "id": "flora:OliveTree",
 "type": "flora",
-"preferred_label": "Olive Tree",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
 }
 ]
 }
@@ -42,7 +42,7 @@
 {
 "content_id": "132107",
 "reference_id": 108161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Onesimus",
 "media_type": "Text",
 "index_reference": "onesimus",
@@ -56,9 +56,9 @@
 {
 "id": "person:Onesimus",
 "type": "person",
-"preferred_label": "Onesimus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Onesimus"
 }
 ]
 }
@@ -66,7 +66,7 @@
 {
 "content_id": "132377",
 "reference_id": 108431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Othniel",
 "media_type": "Text",
 "index_reference": "othniel",
@@ -80,9 +80,9 @@
 {
 "id": "person:Othniel",
 "type": "person",
-"preferred_label": "Othniel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Othniel"
 }
 ]
 }
@@ -90,7 +90,7 @@
 {
 "content_id": "132315",
 "reference_id": 108369,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Outsider",
 "media_type": "Text",
 "index_reference": "outsider",

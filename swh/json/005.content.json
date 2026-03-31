@@ -2,7 +2,7 @@
 {
 "content_id": "367937",
 "reference_id": 108446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dagoni",
 "media_type": "Text",
 "index_reference": "dagoni",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Dagon",
 "type": "deity",
-"preferred_label": "Dagoni",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dagoni"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "368031",
 "reference_id": 108540,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Damasi",
 "media_type": "Text",
 "index_reference": "damasi",
@@ -36,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Damascus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dameski"
+}
+]
 }
 },
 {
 "content_id": "367806",
 "reference_id": 108315,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Damu",
 "media_type": "Text",
 "index_reference": "damu",
@@ -52,13 +60,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Bleed",
+"type": "keyterm",
+"confidence": 0.8277,
+"match_method": "embedding",
+"preferred_label": "Bleed"
+}
+]
 }
 },
 {
 "content_id": "367935",
 "reference_id": 108444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dani",
 "media_type": "Text",
 "index_reference": "dani",
@@ -70,32 +93,18 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Dan",
-"type": "group",
-"preferred_label": "Dani",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Dan",
 "type": "person",
-"preferred_label": "Dani",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dani"
 },
 {
 "id": "place:Dan",
 "type": "place",
-"preferred_label": "Dani",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Dannah",
-"type": "place",
-"preferred_label": "Dana",
-"confidence": 0.8462,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dani"
 }
 ]
 }
@@ -103,7 +112,7 @@
 {
 "content_id": "368051",
 "reference_id": 108560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Danieli",
 "media_type": "Text",
 "index_reference": "danieli",
@@ -115,25 +124,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Chileab",
-"type": "person",
-"preferred_label": "Danieli",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Daniel.2",
 "type": "person",
-"preferred_label": "Danieli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Danieli"
 },
 {
 "id": "person:Daniel.3",
 "type": "person",
-"preferred_label": "Danieli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Danieli"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Danieli"
 }
 ]
 }
@@ -141,7 +150,7 @@
 {
 "content_id": "368003",
 "reference_id": 108512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dario",
 "media_type": "Text",
 "index_reference": "dario",
@@ -153,25 +162,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Darius",
-"type": "person",
-"preferred_label": "Dario",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Darius.2",
 "type": "person",
-"preferred_label": "Dario",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dario"
 },
 {
 "id": "person:Darius.3",
 "type": "person",
-"preferred_label": "Dario",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dario"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dario"
 }
 ]
 }
@@ -179,7 +188,7 @@
 {
 "content_id": "367940",
 "reference_id": 108449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Daudi",
 "media_type": "Text",
 "index_reference": "daudi",
@@ -199,11 +208,18 @@
 ],
 "acai": [
 {
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yuda"
+},
+{
 "id": "person:David",
 "type": "person",
-"preferred_label": "Daudi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Daudi"
 }
 ]
 }
@@ -211,7 +227,7 @@
 {
 "content_id": "367924",
 "reference_id": 108433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Debora",
 "media_type": "Text",
 "index_reference": "debora",
@@ -223,18 +239,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "Debora",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "Debora",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Debora"
+},
+{
+"id": "person:Deborah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Debora"
 }
 ]
 }
@@ -242,7 +258,7 @@
 {
 "content_id": "367936",
 "reference_id": 108445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Delila",
 "media_type": "Text",
 "index_reference": "delila",
@@ -256,9 +272,9 @@
 {
 "id": "person:Delilah",
 "type": "person",
-"preferred_label": "Delila",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Delila"
 }
 ]
 }
@@ -266,7 +282,7 @@
 {
 "content_id": "367608",
 "reference_id": 108117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Derbe",
 "media_type": "Text",
 "index_reference": "derbe",
@@ -280,9 +296,9 @@
 {
 "id": "place:Derbe",
 "type": "place",
-"preferred_label": "Derbe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Derbe"
 }
 ]
 }
@@ -290,7 +306,7 @@
 {
 "content_id": "367747",
 "reference_id": 108256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dhabihu",
 "media_type": "Text",
 "index_reference": "dhabihu",
@@ -306,7 +322,7 @@
 {
 "content_id": "367829",
 "reference_id": 108338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dhabihu la  wanyama",
 "media_type": "Text",
 "index_reference": "dhabihu la  wanyama",
@@ -322,7 +338,7 @@
 {
 "content_id": "367686",
 "reference_id": 108195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dhambi",
 "media_type": "Text",
 "index_reference": "dhambi",
@@ -338,7 +354,7 @@
 {
 "content_id": "367774",
 "reference_id": 108283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dina",
 "media_type": "Text",
 "index_reference": "dina",
@@ -352,16 +368,9 @@
 {
 "id": "person:Dinah",
 "type": "person",
-"preferred_label": "Dina",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Dannah",
-"type": "place",
-"preferred_label": "Dana",
-"confidence": 0.8718,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dina"
 }
 ]
 }
@@ -369,7 +378,7 @@
 {
 "content_id": "367658",
 "reference_id": 108167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dokezi",
 "media_type": "Text",
 "index_reference": "dokezi",
@@ -385,7 +394,7 @@
 {
 "content_id": "367706",
 "reference_id": 108215,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dunia",
 "media_type": "Text",
 "index_reference": "dunia",

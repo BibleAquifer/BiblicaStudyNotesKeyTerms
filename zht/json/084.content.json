@@ -2,7 +2,7 @@
 {
 "content_id": "233089",
 "reference_id": 108488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "乃縵",
 "media_type": "Text",
 "index_reference": "乃縵",
@@ -12,7 +12,36 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Naaman.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naaman"
+},
+{
+"id": "person:Naaman.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naaman"
+},
+{
+"id": "person:Naaman.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naaman"
+},
+{
+"id": "person:Naaman",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naaman"
+}
+]
 }
 }
 ]

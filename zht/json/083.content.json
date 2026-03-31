@@ -2,7 +2,7 @@
 {
 "content_id": "232957",
 "reference_id": 108356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拿答與亞比戶",
 "media_type": "Text",
 "index_reference": "拿答與亞比戶",
@@ -12,13 +12,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abihu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abihu"
+},
+{
+"id": "person:Nadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+},
+{
+"id": "person:Nadab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+},
+{
+"id": "person:Nadab.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+},
+{
+"id": "person:Nadab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+}
+]
 }
 },
 {
 "content_id": "233071",
 "reference_id": 108470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拿單",
 "media_type": "Text",
 "index_reference": "拿單",
@@ -28,13 +64,56 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nathan.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathan"
+},
+{
+"id": "person:Nathan.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathan"
+},
+{
+"id": "person:Nathan.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathan"
+},
+{
+"id": "person:Nathan.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathan"
+},
+{
+"id": "person:Nathan.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathan"
+},
+{
+"id": "person:Nathan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathan"
+}
+]
 }
 },
 {
 "content_id": "232672",
 "reference_id": 108071,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拿撒勒",
 "media_type": "Text",
 "index_reference": "拿撒勒",
@@ -44,13 +123,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazareth"
+}
+]
 }
 },
 {
 "content_id": "233055",
 "reference_id": 108454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拿撒勒的馬利亞",
 "media_type": "Text",
 "index_reference": "拿撒勒的馬利亞",
@@ -60,13 +147,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+}
+]
 }
 },
 {
 "content_id": "232633",
 "reference_id": 108032,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拿撒勒的約瑟",
 "media_type": "Text",
 "index_reference": "拿撒勒的約瑟",
@@ -76,13 +171,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+}
+]
 }
 },
 {
 "content_id": "232985",
 "reference_id": 108384,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拿細耳人",
 "media_type": "Text",
 "index_reference": "拿細耳人",
@@ -92,7 +195,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazirites"
+}
+]
 }
 }
 ]

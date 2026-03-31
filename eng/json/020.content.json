@@ -2,7 +2,7 @@
 {
 "content_id": "132238",
 "reference_id": 108292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tamar",
 "media_type": "Text",
 "index_reference": "tamar",
@@ -16,37 +16,37 @@
 {
 "id": "person:Tamar.2",
 "type": "person",
-"preferred_label": "Tamar",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tamar"
 },
 {
 "id": "person:Tamar.3",
 "type": "person",
-"preferred_label": "Tamar",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tamar"
 },
 {
 "id": "person:Tamar",
 "type": "person",
-"preferred_label": "Tamar",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tamar"
 },
 {
 "id": "place:Tamar.2",
 "type": "place",
-"preferred_label": "Tamar",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tamar"
 },
 {
 "id": "place:Tadmor",
 "type": "place",
-"preferred_label": "Tadmor",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tadmor"
 }
 ]
 }
@@ -54,10 +54,10 @@
 {
 "content_id": "132417",
 "reference_id": 108471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tamar - David",
 "media_type": "Text",
-"index_reference": "tamar - david",
+"index_reference": "tamar  david",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The daughter of David and Makaah. She and Absalom had the same parents. She and Amnon had the same father. Amnon raped Tamar when she was a virgin. Then he threw her out of his house. In those days, this was the same as divorcing her. Being raped and then not married brought shame to Tamar in their community. It meant she probably wouldn’t get married or have a family of her own. She lived with Absalom after that happened.</p>",
@@ -68,9 +68,9 @@
 {
 "id": "person:Tamar",
 "type": "person",
-"preferred_label": "Tamar",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tamar"
 }
 ]
 }
@@ -78,7 +78,7 @@
 {
 "content_id": "131995",
 "reference_id": 108049,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tax collector",
 "media_type": "Text",
 "index_reference": "tax collector",
@@ -100,16 +100,16 @@
 {
 "id": "keyterm:TaxCollector",
 "type": "keyterm",
-"preferred_label": "Tax Collector",
 "confidence": 0.986,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Tax Collector"
 },
 {
 "id": "group:TaxCollectors",
 "type": "group",
-"preferred_label": "Tax Collectors",
 "confidence": 0.8299,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Tax Collectors"
 }
 ]
 }
@@ -117,7 +117,7 @@
 {
 "content_id": "132523",
 "reference_id": 108577,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Taxes",
 "media_type": "Text",
 "index_reference": "taxes",
@@ -133,7 +133,7 @@
 {
 "content_id": "132264",
 "reference_id": 108318,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Teach their children",
 "media_type": "Text",
 "index_reference": "teach their children",
@@ -149,7 +149,7 @@
 {
 "content_id": "131994",
 "reference_id": 108048,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Teachers of the law",
 "media_type": "Text",
 "index_reference": "teachers of the law",
@@ -165,7 +165,7 @@
 {
 "content_id": "132363",
 "reference_id": 108417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Temple",
 "media_type": "Text",
 "index_reference": "temple",
@@ -179,9 +179,9 @@
 {
 "id": "realia:Temple",
 "type": "realia",
-"preferred_label": "Temple",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Temple"
 }
 ]
 }
@@ -189,7 +189,7 @@
 {
 "content_id": "132277",
 "reference_id": 108331,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ten Commandments",
 "media_type": "Text",
 "index_reference": "ten commandments",
@@ -213,7 +213,7 @@
 {
 "content_id": "132254",
 "reference_id": 108308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ten plagues",
 "media_type": "Text",
 "index_reference": "ten plagues",
@@ -229,7 +229,7 @@
 {
 "content_id": "132293",
 "reference_id": 108347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tent of meeting",
 "media_type": "Text",
 "index_reference": "tent of meeting",
@@ -243,9 +243,9 @@
 {
 "id": "realia:TentOfMeeting",
 "type": "realia",
-"preferred_label": "Tent of Meeting",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
 }
 ]
 }
@@ -253,7 +253,7 @@
 {
 "content_id": "132328",
 "reference_id": 108382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tenth",
 "media_type": "Text",
 "index_reference": "tenth",
@@ -269,7 +269,7 @@
 {
 "content_id": "132209",
 "reference_id": 108263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Test",
 "media_type": "Text",
 "index_reference": "test",
@@ -285,7 +285,7 @@
 {
 "content_id": "132025",
 "reference_id": 108079,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Theophilus",
 "media_type": "Text",
 "index_reference": "theophilus",
@@ -299,9 +299,9 @@
 {
 "id": "person:Theophilus",
 "type": "person",
-"preferred_label": "Theophilus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Theophilus"
 }
 ]
 }
@@ -309,7 +309,7 @@
 {
 "content_id": "132074",
 "reference_id": 108128,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Thessalonica",
 "media_type": "Text",
 "index_reference": "thessalonica",
@@ -323,9 +323,9 @@
 {
 "id": "place:Thessalonica",
 "type": "place",
-"preferred_label": "Thessalonica",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Thessalonica"
 }
 ]
 }
@@ -333,7 +333,7 @@
 {
 "content_id": "132041",
 "reference_id": 108095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Thomas",
 "media_type": "Text",
 "index_reference": "thomas",
@@ -347,9 +347,9 @@
 {
 "id": "person:Thomas",
 "type": "person",
-"preferred_label": "Thomas",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Thomas"
 }
 ]
 }
@@ -357,7 +357,7 @@
 {
 "content_id": "132206",
 "reference_id": 108260,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Three men",
 "media_type": "Text",
 "index_reference": "three men",
@@ -373,7 +373,7 @@
 {
 "content_id": "132123",
 "reference_id": 108177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Thyatira",
 "media_type": "Text",
 "index_reference": "thyatira",
@@ -387,9 +387,9 @@
 {
 "id": "place:Thyatira",
 "type": "place",
-"preferred_label": "Thyatira",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Thyatira"
 }
 ]
 }
@@ -397,7 +397,7 @@
 {
 "content_id": "132070",
 "reference_id": 108124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Timothy",
 "media_type": "Text",
 "index_reference": "timothy",
@@ -411,9 +411,9 @@
 {
 "id": "person:Timothy",
 "type": "person",
-"preferred_label": "Timothy",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Timothy"
 }
 ]
 }
@@ -421,7 +421,7 @@
 {
 "content_id": "132098",
 "reference_id": 108152,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Titus",
 "media_type": "Text",
 "index_reference": "titus",
@@ -435,9 +435,9 @@
 {
 "id": "person:Titus",
 "type": "person",
-"preferred_label": "Titus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Titus"
 }
 ]
 }
@@ -445,7 +445,7 @@
 {
 "content_id": "132000",
 "reference_id": 108054,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Treated badly",
 "media_type": "Text",
 "index_reference": "treated badly",
@@ -469,7 +469,7 @@
 {
 "content_id": "132163",
 "reference_id": 108217,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tree of life",
 "media_type": "Text",
 "index_reference": "tree of life",
@@ -485,7 +485,7 @@
 {
 "content_id": "132156",
 "reference_id": 108210,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tree of the knowledge",
 "media_type": "Text",
 "index_reference": "tree of the knowledge",
@@ -501,7 +501,7 @@
 {
 "content_id": "131984",
 "reference_id": 108038,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Trinity",
 "media_type": "Text",
 "index_reference": "trinity",
@@ -553,7 +553,7 @@
 {
 "content_id": "132332",
 "reference_id": 108386,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Trumpets",
 "media_type": "Text",
 "index_reference": "trumpets",
@@ -567,9 +567,9 @@
 {
 "id": "realia:Trumpet",
 "type": "realia",
-"preferred_label": "Trumpet",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Trumpet"
 }
 ]
 }
@@ -577,7 +577,7 @@
 {
 "content_id": "132421",
 "reference_id": 108475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tyre and Sidon",
 "media_type": "Text",
 "index_reference": "tyre and sidon",
@@ -591,23 +591,23 @@
 {
 "id": "person:Sidon",
 "type": "person",
-"preferred_label": "Sidon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Sidon"
 },
 {
 "id": "place:Sidon",
 "type": "place",
-"preferred_label": "Sidon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Sidon"
 },
 {
 "id": "place:Tyre",
 "type": "place",
-"preferred_label": "Tyre",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tyre"
 }
 ]
 }

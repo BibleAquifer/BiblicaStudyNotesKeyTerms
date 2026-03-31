@@ -2,7 +2,7 @@
 {
 "content_id": "132002",
 "reference_id": 108056,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Parables",
 "media_type": "Text",
 "index_reference": "parables",
@@ -18,7 +18,7 @@
 {
 "content_id": "132263",
 "reference_id": 108317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Passover Feast",
 "media_type": "Text",
 "index_reference": "passover feast",
@@ -34,7 +34,7 @@
 {
 "content_id": "132117",
 "reference_id": 108171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Patmos",
 "media_type": "Text",
 "index_reference": "patmos",
@@ -48,9 +48,9 @@
 {
 "id": "place:Patmos",
 "type": "place",
-"preferred_label": "Patmos",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Patmos"
 }
 ]
 }
@@ -58,7 +58,7 @@
 {
 "content_id": "132233",
 "reference_id": 108287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Patriarch",
 "media_type": "Text",
 "index_reference": "patriarch",
@@ -74,7 +74,7 @@
 {
 "content_id": "132048",
 "reference_id": 108102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Paul",
 "media_type": "Text",
 "index_reference": "paul",
@@ -88,9 +88,9 @@
 {
 "id": "person:Paul",
 "type": "person",
-"preferred_label": "Paul",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Paul"
 }
 ]
 }
@@ -98,10 +98,10 @@
 {
 "content_id": "132057",
 "reference_id": 108111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Paul’s journeys",
 "media_type": "Text",
-"index_reference": "paul’s journeys",
+"index_reference": "pauls journeys",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Paul made several long journeys throughout lands ruled by the Roman government. Everywhere he went, he preached the good news about Jesus to Jews first. Then he preached to Gentiles. He helped start churches among those who believed in Jesus. He travelled with Barnabas on the first journey. He travelled with Silas on the second journey. He travelled with several helpers on the third journey. He travelled as a prisoner to Rome on his fourth journey. Each journey lasted more than a year.</p>",
@@ -114,10 +114,10 @@
 {
 "content_id": "132066",
 "reference_id": 108120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Paul’s letters",
 "media_type": "Text",
-"index_reference": "paul’s letters",
+"index_reference": "pauls letters",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Paul wrote letters to many believers and churches. Thirteen of these letters are in the New Testament. They include the books of Romans, 1 Corinthians, 2 Corinthians, Galatians, Ephesians, Philippians and Colossians. They also include the books of 1 Thessalonians, 2 Thessalonians, 1 Timothy, 2 Timothy, Titus and Philemon. It was common for Paul to speak out loud what he wanted to say in his letters. A helper wrote the words down. Then Paul added a final message in his own handwriting. This helped people be certain that the letters really were from him. Paul’s helpers carried letters from Paul to the churches or to other people. The church read them out loud and then shared them with other churches in the area. Paul wrote some of his letters while he was in prison.</p>",
@@ -130,7 +130,7 @@
 {
 "content_id": "132157",
 "reference_id": 108211,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Peace",
 "media_type": "Text",
 "index_reference": "peace",
@@ -144,9 +144,9 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -154,7 +154,7 @@
 {
 "content_id": "132321",
 "reference_id": 108375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pentecost",
 "media_type": "Text",
 "index_reference": "pentecost",
@@ -170,7 +170,7 @@
 {
 "content_id": "132111",
 "reference_id": 108165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Perfect",
 "media_type": "Text",
 "index_reference": "perfect",
@@ -186,7 +186,7 @@
 {
 "content_id": "132122",
 "reference_id": 108176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pergamum",
 "media_type": "Text",
 "index_reference": "pergamum",
@@ -200,9 +200,9 @@
 {
 "id": "place:Pergamum",
 "type": "place",
-"preferred_label": "Pergamum",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pergamum"
 }
 ]
 }
@@ -210,7 +210,7 @@
 {
 "content_id": "132455",
 "reference_id": 108509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Persia",
 "media_type": "Text",
 "index_reference": "persia",
@@ -224,9 +224,9 @@
 {
 "id": "place:Persia",
 "type": "place",
-"preferred_label": "Persia",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Persia"
 }
 ]
 }
@@ -234,7 +234,7 @@
 {
 "content_id": "132518",
 "reference_id": 108572,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Peter",
 "media_type": "Text",
 "index_reference": "peter",
@@ -248,9 +248,9 @@
 {
 "id": "person:Peter",
 "type": "person",
-"preferred_label": "Peter",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Peter"
 }
 ]
 }
@@ -258,7 +258,7 @@
 {
 "content_id": "132196",
 "reference_id": 108250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pharaoh",
 "media_type": "Text",
 "index_reference": "pharaoh",
@@ -272,72 +272,72 @@
 {
 "id": "person:Pharaoh.10",
 "type": "person",
-"preferred_label": "Pharaoh",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
 },
 {
 "id": "person:Neco",
 "type": "person",
-"preferred_label": "Neco",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Neco"
 },
 {
 "id": "person:Pharaoh.3",
 "type": "person",
-"preferred_label": "Pharaoh",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
 },
 {
 "id": "person:Pharaoh.4",
 "type": "person",
-"preferred_label": "Pharaoh",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
 },
 {
 "id": "person:Pharaoh.5",
 "type": "person",
-"preferred_label": "Pharaoh",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
 },
 {
 "id": "person:Pharaoh.6",
 "type": "person",
-"preferred_label": "Pharaoh",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
 },
 {
 "id": "person:Pharaoh.7",
 "type": "person",
-"preferred_label": "Pharaoh",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
 },
 {
 "id": "person:Pharaoh.8",
 "type": "person",
-"preferred_label": "Pharaoh",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
 },
 {
 "id": "person:Pharaoh.9",
 "type": "person",
-"preferred_label": "Pharaoh",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pharaoh"
 },
 {
 "id": "person:Hophra",
 "type": "person",
-"preferred_label": "Hophra",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Hophra"
 }
 ]
 }
@@ -345,7 +345,7 @@
 {
 "content_id": "131996",
 "reference_id": 108050,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pharisees",
 "media_type": "Text",
 "index_reference": "pharisees",
@@ -359,9 +359,9 @@
 {
 "id": "group:Pharisee",
 "type": "group",
-"preferred_label": "Pharisees",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pharisees"
 }
 ]
 }
@@ -369,7 +369,7 @@
 {
 "content_id": "132126",
 "reference_id": 108180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philadelphia",
 "media_type": "Text",
 "index_reference": "philadelphia",
@@ -383,9 +383,9 @@
 {
 "id": "place:Philadelphia",
 "type": "place",
-"preferred_label": "Philadelphia",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Philadelphia"
 }
 ]
 }
@@ -393,7 +393,7 @@
 {
 "content_id": "132110",
 "reference_id": 108164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philemon",
 "media_type": "Text",
 "index_reference": "philemon",
@@ -407,9 +407,9 @@
 {
 "id": "person:Philemon",
 "type": "person",
-"preferred_label": "Philemon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Philemon"
 }
 ]
 }
@@ -417,7 +417,7 @@
 {
 "content_id": "132049",
 "reference_id": 108103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philip",
 "media_type": "Text",
 "index_reference": "philip",
@@ -431,30 +431,30 @@
 {
 "id": "person:Philip.2",
 "type": "person",
-"preferred_label": "Philip",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Philip"
 },
 {
 "id": "person:Philip.3",
 "type": "person",
-"preferred_label": "Philip",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Philip"
 },
 {
 "id": "person:Philip.4",
 "type": "person",
-"preferred_label": "Philip",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Philip"
 },
 {
 "id": "person:Philip",
 "type": "person",
-"preferred_label": "Philip",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Philip"
 }
 ]
 }
@@ -462,7 +462,7 @@
 {
 "content_id": "132072",
 "reference_id": 108126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philippi",
 "media_type": "Text",
 "index_reference": "philippi",
@@ -476,9 +476,9 @@
 {
 "id": "place:Philippi",
 "type": "place",
-"preferred_label": "Philippi",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Philippi"
 }
 ]
 }
@@ -486,7 +486,7 @@
 {
 "content_id": "132213",
 "reference_id": 108267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philistines",
 "media_type": "Text",
 "index_reference": "philistines",
@@ -500,9 +500,9 @@
 {
 "id": "group:Philistine",
 "type": "group",
-"preferred_label": "Philistines",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Philistines"
 }
 ]
 }
@@ -510,7 +510,7 @@
 {
 "content_id": "132349",
 "reference_id": 108403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Phinehas",
 "media_type": "Text",
 "index_reference": "phinehas",
@@ -524,23 +524,23 @@
 {
 "id": "person:Phinehas.2",
 "type": "person",
-"preferred_label": "Phinehas",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Phinehas"
 },
 {
 "id": "person:Phinehas.3",
 "type": "person",
-"preferred_label": "Phinehas",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Phinehas"
 },
 {
 "id": "person:Phinehas",
 "type": "person",
-"preferred_label": "Phinehas",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Phinehas"
 }
 ]
 }
@@ -548,7 +548,7 @@
 {
 "content_id": "132069",
 "reference_id": 108123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Phrygia",
 "media_type": "Text",
 "index_reference": "phrygia",
@@ -562,9 +562,9 @@
 {
 "id": "place:Phrygia",
 "type": "place",
-"preferred_label": "Phrygia",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Phrygia"
 }
 ]
 }
@@ -572,7 +572,7 @@
 {
 "content_id": "132052",
 "reference_id": 108106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Place hands",
 "media_type": "Text",
 "index_reference": "place hands",
@@ -588,7 +588,7 @@
 {
 "content_id": "132150",
 "reference_id": 108204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Poem",
 "media_type": "Text",
 "index_reference": "poem",
@@ -604,7 +604,7 @@
 {
 "content_id": "132037",
 "reference_id": 108091,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pool of Bethesda",
 "media_type": "Text",
 "index_reference": "pool of bethesda",
@@ -618,9 +618,9 @@
 {
 "id": "realia:Pool",
 "type": "realia",
-"preferred_label": "Pool",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Pool"
 }
 ]
 }
@@ -628,7 +628,7 @@
 {
 "content_id": "132173",
 "reference_id": 108227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prayer",
 "media_type": "Text",
 "index_reference": "prayer",
@@ -644,7 +644,7 @@
 {
 "content_id": "132279",
 "reference_id": 108333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Priest",
 "media_type": "Text",
 "index_reference": "priest",
@@ -675,10 +675,10 @@
 {
 "content_id": "132295",
 "reference_id": 108349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Priests’ clothes",
 "media_type": "Text",
-"index_reference": "priests’ clothes",
+"index_reference": "priests clothes",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Special clothes the priests wore when they worked in the holy tent or temple. The clothes included outer robes, inner robes, underwear and a belt. They included a turban with a gold plate on it. The clothes for the high priest included a linen apron and a chest cloth. The chest cloth held the Urim and Thummim. These were special stones that helped the priest know what God wanted done. The priests’ clothes helped set the priests apart for their work for God.</p>",
@@ -691,7 +691,7 @@
 {
 "content_id": "132346",
 "reference_id": 108400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prophecies about Jesus",
 "media_type": "Text",
 "index_reference": "prophecies about jesus",
@@ -715,7 +715,7 @@
 {
 "content_id": "132345",
 "reference_id": 108399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prophecy",
 "media_type": "Text",
 "index_reference": "prophecy",
@@ -731,7 +731,7 @@
 {
 "content_id": "132362",
 "reference_id": 108416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prophet",
 "media_type": "Text",
 "index_reference": "prophet",
@@ -755,7 +755,7 @@
 {
 "content_id": "132525",
 "reference_id": 108579,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prosperity gospel",
 "media_type": "Text",
 "index_reference": "prosperity gospel",
@@ -771,7 +771,7 @@
 {
 "content_id": "132481",
 "reference_id": 108535,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Prostitute",
 "media_type": "Text",
 "index_reference": "prostitute",
@@ -785,16 +785,16 @@
 {
 "id": "person:FirstProstitute",
 "type": "person",
-"preferred_label": "Prostitute",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Prostitute"
 },
 {
 "id": "person:SecondProstitute",
 "type": "person",
-"preferred_label": "Prostitute",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Prostitute"
 }
 ]
 }
@@ -802,7 +802,7 @@
 {
 "content_id": "132477",
 "reference_id": 108531,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Proverb",
 "media_type": "Text",
 "index_reference": "proverb",
@@ -816,9 +816,9 @@
 {
 "id": "keyterm:Saying",
 "type": "keyterm",
-"preferred_label": "Proverb",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Proverb"
 }
 ]
 }
@@ -826,7 +826,7 @@
 {
 "content_id": "132310",
 "reference_id": 108364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pure or impure",
 "media_type": "Text",
 "index_reference": "pure or impure",

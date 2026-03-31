@@ -2,7 +2,7 @@
 {
 "content_id": "133653",
 "reference_id": 108401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baal",
 "media_type": "Text",
 "index_reference": "baal",
@@ -14,25 +14,39 @@
 "resource": [],
 "acai": [
 {
-"id": "deity:Baal",
-"type": "deity",
-"preferred_label": "Baal",
+"id": "person:Baal.2",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baal"
 },
 {
 "id": "person:Baal",
 "type": "person",
-"preferred_label": "Baal",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baal"
 },
 {
-"id": "person:Baal.2",
-"type": "person",
-"preferred_label": "Baal",
+"id": "place:Baalath-beer",
+"type": "place",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Éternel"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
 }
 ]
 }
@@ -40,7 +54,7 @@
 {
 "content_id": "133654",
 "reference_id": 108402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baal Péor",
 "media_type": "Text",
 "index_reference": "baal péor",
@@ -54,9 +68,9 @@
 {
 "id": "place:Peor",
 "type": "place",
-"preferred_label": "Baal-Peor",
-"confidence": 0.9237,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal-Peor"
 }
 ]
 }
@@ -64,7 +78,7 @@
 {
 "content_id": "133491",
 "reference_id": 108239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babel",
 "media_type": "Text",
 "index_reference": "babel",
@@ -80,7 +94,7 @@
 {
 "content_id": "133750",
 "reference_id": 108498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babylone",
 "media_type": "Text",
 "index_reference": "babylone",
@@ -92,25 +106,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Babylon",
-"type": "place",
-"preferred_label": "Babylone",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Babylon.2",
 "type": "place",
-"preferred_label": "Babylon",
-"confidence": 0.8495,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
 },
 {
-"id": "place:Babylonia",
+"id": "place:Babylon",
 "type": "place",
-"preferred_label": "Babylonia",
-"confidence": 0.8463,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylone"
 }
 ]
 }
@@ -118,7 +125,7 @@
 {
 "content_id": "133650",
 "reference_id": 108398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balaam",
 "media_type": "Text",
 "index_reference": "balaam",
@@ -132,9 +139,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "Balaam",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Balaam"
 }
 ]
 }
@@ -142,7 +149,7 @@
 {
 "content_id": "133648",
 "reference_id": 108396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balak",
 "media_type": "Text",
 "index_reference": "balak",
@@ -156,9 +163,9 @@
 {
 "id": "person:Balak",
 "type": "person",
-"preferred_label": "Balak",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Balak"
 }
 ]
 }
@@ -166,7 +173,7 @@
 {
 "content_id": "133289",
 "reference_id": 108037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baptême",
 "media_type": "Text",
 "index_reference": "baptême",
@@ -180,9 +187,9 @@
 {
 "id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "baptême",
-"confidence": 0.8163,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "baptême"
 }
 ]
 }
@@ -190,7 +197,7 @@
 {
 "content_id": "133328",
 "reference_id": 108076,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barabbas",
 "media_type": "Text",
 "index_reference": "barabbas",
@@ -204,9 +211,9 @@
 {
 "id": "person:Barabbas",
 "type": "person",
-"preferred_label": "Barabbas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Barabbas"
 }
 ]
 }
@@ -214,7 +221,7 @@
 {
 "content_id": "133687",
 "reference_id": 108435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barak",
 "media_type": "Text",
 "index_reference": "barak",
@@ -228,9 +235,9 @@
 {
 "id": "person:Barak",
 "type": "person",
-"preferred_label": "Barak",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Barak"
 }
 ]
 }
@@ -238,7 +245,7 @@
 {
 "content_id": "133359",
 "reference_id": 108107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barnabas",
 "media_type": "Text",
 "index_reference": "barnabas",
@@ -252,9 +259,9 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "Barnabas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Barnabas"
 }
 ]
 }
@@ -262,7 +269,7 @@
 {
 "content_id": "133720",
 "reference_id": 108468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Batchéba",
 "media_type": "Text",
 "index_reference": "batchéba",
@@ -272,16 +279,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bathsheba"
+}
+]
 }
 },
 {
 "content_id": "133561",
 "reference_id": 108309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bâton d'Aaron",
 "media_type": "Text",
-"index_reference": "bâton d'aaron",
+"index_reference": "bâton daaron",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Bâton utilisé par Aaron lorsque Dieu effectuait des signes et des miracles par son intermédiaire. Plus tard, Dieu y a fait pousser des bourgeons, des fleurs et des amandes, ce qui indiquait que la lignée familiale d&apos;Aaron avait été choisie par Dieu pour le servir en qualité de prêtres. Le bâton d&apos;Aaron était conservé dans l&apos;arche de l&apos;alliance.</p>",
@@ -294,7 +309,7 @@
 {
 "content_id": "133523",
 "reference_id": 108271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bénédiction du père",
 "media_type": "Text",
 "index_reference": "bénédiction du père",
@@ -310,10 +325,10 @@
 {
 "content_id": "133631",
 "reference_id": 108379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bénédictions de l'alliance",
 "media_type": "Text",
-"index_reference": "bénédictions de l'alliance",
+"index_reference": "bénédictions de lalliance",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Bienfaits qui se produisent lorsque les gens sont fidèles à une alliance. Dans le cadre des alliances conclues avec Dieu, être fidèle signifiait vivre selon les voies de Dieu. Cela conduisait à des bénédictions que Dieu accordait. Il s&apos;agissait généralement de terres, d&apos;enfants et de la présence de Dieu.</p>",
@@ -326,7 +341,7 @@
 {
 "content_id": "133407",
 "reference_id": 108155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bénédictions spirituelles",
 "media_type": "Text",
 "index_reference": "bénédictions spirituelles",
@@ -342,7 +357,7 @@
 {
 "content_id": "133497",
 "reference_id": 108245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bénir toutes les nations",
 "media_type": "Text",
 "index_reference": "bénir toutes les nations",
@@ -358,7 +373,7 @@
 {
 "content_id": "133546",
 "reference_id": 108294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Benjamin",
 "media_type": "Text",
 "index_reference": "benjamin",
@@ -370,46 +385,39 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "Benjamin",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "Benjamin",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Benjamin.2",
 "type": "person",
-"preferred_label": "Benjamin",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benjamin"
 },
 {
 "id": "person:Benjamin.3",
 "type": "person",
-"preferred_label": "Benjamin",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benjamin"
 },
 {
 "id": "person:Benjamin.4",
 "type": "person",
-"preferred_label": "Benjamin",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benjamin"
 },
 {
 "id": "person:Benjamin.5",
 "type": "person",
-"preferred_label": "Benjamin",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
 }
 ]
 }
@@ -417,7 +425,7 @@
 {
 "content_id": "133381",
 "reference_id": 108129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bérée",
 "media_type": "Text",
 "index_reference": "bérée",
@@ -431,23 +439,9 @@
 {
 "id": "place:Berea",
 "type": "place",
-"preferred_label": "Bérée",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Beera",
-"type": "person",
-"preferred_label": "Beéra",
-"confidence": 0.861,
-"match_method": "embedding"
-},
-{
-"id": "person:Beerah",
-"type": "person",
-"preferred_label": "Beéra",
-"confidence": 0.861,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bérée"
 }
 ]
 }
@@ -455,7 +449,7 @@
 {
 "content_id": "133530",
 "reference_id": 108278,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berger",
 "media_type": "Text",
 "index_reference": "berger",
@@ -471,7 +465,7 @@
 {
 "content_id": "133547",
 "reference_id": 108295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bershéba",
 "media_type": "Text",
 "index_reference": "bershéba",
@@ -481,13 +475,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beersheba"
+}
+]
 }
 },
 {
 "content_id": "133327",
 "reference_id": 108075,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Béthanie",
 "media_type": "Text",
 "index_reference": "béthanie",
@@ -499,18 +501,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethany",
-"type": "place",
-"preferred_label": "Béthanie",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethany.2",
 "type": "place",
-"preferred_label": "Béthanie",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Béthanie"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Béthanie"
 }
 ]
 }
@@ -518,7 +520,7 @@
 {
 "content_id": "133524",
 "reference_id": 108272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Béthel",
 "media_type": "Text",
 "index_reference": "béthel",
@@ -532,30 +534,16 @@
 {
 "id": "place:Bethel.2",
 "type": "place",
-"preferred_label": "Béthel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Béthel"
 },
 {
 "id": "place:Bethel",
 "type": "place",
-"preferred_label": "Bethel",
-"confidence": 0.8503,
-"match_method": "embedding"
-},
-{
-"id": "place:Bethul",
-"type": "place",
-"preferred_label": "Bethul",
-"confidence": 0.849,
-"match_method": "embedding"
-},
-{
-"id": "place:Beten",
-"type": "place",
-"preferred_label": "Béthen",
-"confidence": 0.8356,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
 }
 ]
 }
@@ -563,7 +551,7 @@
 {
 "content_id": "133694",
 "reference_id": 108442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bethléem",
 "media_type": "Text",
 "index_reference": "bethléem",
@@ -575,18 +563,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethlehem",
-"type": "place",
-"preferred_label": "Bethléhem",
-"confidence": 0.8558,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethlehem.2",
 "type": "place",
-"preferred_label": "Bethléhem",
-"confidence": 0.8558,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethléhem"
+},
+{
+"id": "place:Bethlehem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethléhem"
 }
 ]
 }
@@ -594,7 +582,7 @@
 {
 "content_id": "133445",
 "reference_id": 108193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bible",
 "media_type": "Text",
 "index_reference": "bible",
@@ -618,7 +606,7 @@
 {
 "content_id": "133541",
 "reference_id": 108289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bilha",
 "media_type": "Text",
 "index_reference": "bilha",
@@ -640,30 +628,16 @@
 {
 "id": "person:Bilhah",
 "type": "person",
-"preferred_label": "Bilha",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bilha"
 },
 {
 "id": "place:Bilhah",
 "type": "place",
-"preferred_label": "Bilha",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Bilgah",
-"type": "person",
-"preferred_label": "Bilga",
-"confidence": 0.8952,
-"match_method": "embedding"
-},
-{
-"id": "person:Bilgah.2",
-"type": "person",
-"preferred_label": "Bilga",
-"confidence": 0.8952,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Bilha"
 }
 ]
 }
@@ -671,7 +645,7 @@
 {
 "content_id": "133295",
 "reference_id": 108043,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bonne nouvelle",
 "media_type": "Text",
 "index_reference": "bonne nouvelle",
@@ -693,9 +667,9 @@
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
-"preferred_label": "bonnes nouvelles",
-"confidence": 0.8088,
-"match_method": "embedding"
+"confidence": 0.9692,
+"match_method": "embedding",
+"preferred_label": "bonnes nouvelles"
 }
 ]
 }
@@ -703,7 +677,7 @@
 {
 "content_id": "133312",
 "reference_id": 108060,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bonnes œuvres",
 "media_type": "Text",
 "index_reference": "bonnes œuvres",

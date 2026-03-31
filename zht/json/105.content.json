@@ -2,7 +2,7 @@
 {
 "content_id": "232842",
 "reference_id": 108241,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "閃",
 "media_type": "Text",
 "index_reference": "閃",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shem"
+}
+]
 }
 },
 {
 "content_id": "232661",
 "reference_id": 108060,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "善行",
 "media_type": "Text",
 "index_reference": "善行",

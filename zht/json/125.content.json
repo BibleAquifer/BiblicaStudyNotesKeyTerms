@@ -2,7 +2,7 @@
 {
 "content_id": "232810",
 "reference_id": 108209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "統治者",
 "media_type": "Text",
 "index_reference": "統治者",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericRulers",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Rulers"
+}
+]
 }
 }
 ]
