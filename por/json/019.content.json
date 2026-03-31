@@ -2,7 +2,7 @@
 {
 "content_id": "145834",
 "reference_id": 108325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sabedoria",
 "media_type": "Text",
 "index_reference": "sabedoria",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Wisdom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
+}
+]
 }
 },
 {
 "content_id": "145842",
 "reference_id": 108333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sacerdote",
 "media_type": "Text",
 "index_reference": "sacerdote",
@@ -49,7 +57,7 @@
 {
 "content_id": "145773",
 "reference_id": 108264,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sacrificar crianças",
 "media_type": "Text",
 "index_reference": "sacrificar crianças",
@@ -65,7 +73,7 @@
 {
 "content_id": "145765",
 "reference_id": 108256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sacrifício",
 "media_type": "Text",
 "index_reference": "sacrifício",
@@ -81,7 +89,7 @@
 {
 "content_id": "145847",
 "reference_id": 108338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sacrifício de animais",
 "media_type": "Text",
 "index_reference": "sacrifício de animais",
@@ -97,7 +105,7 @@
 {
 "content_id": "145567",
 "reference_id": 108058,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Saduceus",
 "media_type": "Text",
 "index_reference": "saduceus",
@@ -107,13 +115,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sadducees"
+}
+]
 }
 },
 {
 "content_id": "145982",
 "reference_id": 108473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salomão",
 "media_type": "Text",
 "index_reference": "salomão",
@@ -127,9 +143,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "Salomão",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Salomão"
 }
 ]
 }
@@ -137,7 +153,7 @@
 {
 "content_id": "145705",
 "reference_id": 108196,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salvação",
 "media_type": "Text",
 "index_reference": "salvação",
@@ -155,13 +171,21 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "salvation"
+}
+]
 }
 },
 {
 "content_id": "145828",
 "reference_id": 108319,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salvador",
 "media_type": "Text",
 "index_reference": "salvador",
@@ -175,9 +199,9 @@
 {
 "id": "keyterm:Savior",
 "type": "keyterm",
-"preferred_label": "salvador",
-"confidence": 0.8817,
-"match_method": "embedding"
+"confidence": 0.8394,
+"match_method": "embedding",
+"preferred_label": "salvador"
 }
 ]
 }
@@ -185,7 +209,7 @@
 {
 "content_id": "145998",
 "reference_id": 108489,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samaria",
 "media_type": "Text",
 "index_reference": "samaria",
@@ -197,18 +221,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Samaria.2",
 "type": "place",
-"preferred_label": "Samaria",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Samaria"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samaria"
 }
 ]
 }
@@ -216,7 +240,7 @@
 {
 "content_id": "145961",
 "reference_id": 108452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samuel",
 "media_type": "Text",
 "index_reference": "samuel",
@@ -230,23 +254,9 @@
 {
 "id": "person:Samuel",
 "type": "person",
-"preferred_label": "Samuel",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemuel",
-"type": "person",
-"preferred_label": "Samuel",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemuel.2",
-"type": "person",
-"preferred_label": "Samuel",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Samuel"
 }
 ]
 }
@@ -254,7 +264,7 @@
 {
 "content_id": "145824",
 "reference_id": 108315,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sangue",
 "media_type": "Text",
 "index_reference": "sangue",
@@ -268,9 +278,16 @@
 {
 "id": "keyterm:Blood",
 "type": "keyterm",
-"preferred_label": "sangue",
-"confidence": 0.8951,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "sangue"
+},
+{
+"id": "keyterm:Bleed",
+"type": "keyterm",
+"confidence": 0.8277,
+"match_method": "embedding",
+"preferred_label": "Bleed"
 }
 ]
 }
@@ -278,7 +295,7 @@
 {
 "content_id": "145948",
 "reference_id": 108439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sansão",
 "media_type": "Text",
 "index_reference": "sansão",
@@ -292,9 +309,9 @@
 {
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "Sansão",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sansão"
 }
 ]
 }
@@ -302,7 +319,7 @@
 {
 "content_id": "145870",
 "reference_id": 108361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Santo",
 "media_type": "Text",
 "index_reference": "santo",
@@ -312,13 +329,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "holy"
+}
+]
 }
 },
 {
 "content_id": "145756",
 "reference_id": 108247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sara",
 "media_type": "Text",
 "index_reference": "sara",
@@ -332,9 +357,9 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "Sara",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sara"
 }
 ]
 }
@@ -342,7 +367,7 @@
 {
 "content_id": "145687",
 "reference_id": 108178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sardes",
 "media_type": "Text",
 "index_reference": "sardes",
@@ -356,9 +381,9 @@
 {
 "id": "place:Sardis",
 "type": "place",
-"preferred_label": "Sardes",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sardes"
 }
 ]
 }
@@ -366,7 +391,7 @@
 {
 "content_id": "145964",
 "reference_id": 108455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Saul",
 "media_type": "Text",
 "index_reference": "saul",
@@ -380,30 +405,16 @@
 {
 "id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Saul",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Saul"
 },
 {
-"id": "person:Shaul",
+"id": "person:Paul",
 "type": "person",
-"preferred_label": "Saul",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shaul.2",
-"type": "person",
-"preferred_label": "Saul",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shaul.3",
-"type": "person",
-"preferred_label": "Saul",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Paulo"
 }
 ]
 }
@@ -411,7 +422,7 @@
 {
 "content_id": "145684",
 "reference_id": 108175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Segunda morte",
 "media_type": "Text",
 "index_reference": "segunda morte",
@@ -427,7 +438,7 @@
 {
 "content_id": "146031",
 "reference_id": 108522,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Selo",
 "media_type": "Text",
 "index_reference": "selo",
@@ -439,11 +450,11 @@
 "resource": [],
 "acai": [
 {
-"id": "keyterm:Certification",
-"type": "keyterm",
-"preferred_label": "selo",
-"confidence": 0.9145,
-"match_method": "embedding"
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seal"
 }
 ]
 }
@@ -451,7 +462,7 @@
 {
 "content_id": "145750",
 "reference_id": 108241,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sem",
 "media_type": "Text",
 "index_reference": "sem",
@@ -461,13 +472,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sem"
+}
+]
 }
 },
 {
 "content_id": "145735",
 "reference_id": 108226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Senhor",
 "media_type": "Text",
 "index_reference": "senhor",
@@ -477,16 +496,31 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "SENHOR"
+}
+]
 }
 },
 {
 "content_id": "145838",
 "reference_id": 108329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Senhor - Governante",
 "media_type": "Text",
-"index_reference": "senhor - governante",
+"index_reference": "senhor  governante",
 "language": "por",
 "review_level": "None",
 "content": "<p>Um título para um governante, líder ou mestre. É usado como um título para Deus na Bíblia. Significa que Deus tem autoridade sobre tudo e todos. Nos tempos do Novo Testamento, senhor era usado como um título para o imperador romano. Significava que César tinha autoridade em todos os lugares onde o governo romano estava no controle. Os seguidores de Jesus o chamavam de Senhor. Isso significava que eles reconheciam que Jesus é Deus. Eles reconheciam que Jesus tem autoridade completa sobre tudo e todos. Os seguidores de Jesus desafiaram a autoridade de César quando chamaram Jesus de Senhor.</p>",
@@ -499,7 +533,7 @@
 {
 "content_id": "145655",
 "reference_id": 108146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Senhor Jesus Cristo",
 "media_type": "Text",
 "index_reference": "senhor jesus cristo",
@@ -509,13 +543,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+}
+]
 }
 },
 {
 "content_id": "145904",
 "reference_id": 108395,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Seom e Ogue",
 "media_type": "Text",
 "index_reference": "seom e ogue",
@@ -525,13 +567,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Og",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ogue"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seom"
+}
+]
 }
 },
 {
 "content_id": "145867",
 "reference_id": 108358,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Separado",
 "media_type": "Text",
 "index_reference": "separado",
@@ -547,7 +604,7 @@
 {
 "content_id": "145932",
 "reference_id": 108423,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Seres espirituais",
 "media_type": "Text",
 "index_reference": "seres espirituais",
@@ -571,7 +628,7 @@
 {
 "content_id": "145727",
 "reference_id": 108218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Seres espirituais malignos",
 "media_type": "Text",
 "index_reference": "seres espirituais malignos",
@@ -595,7 +652,7 @@
 {
 "content_id": "145711",
 "reference_id": 108202,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Seres humanos",
 "media_type": "Text",
 "index_reference": "seres humanos",
@@ -611,7 +668,7 @@
 {
 "content_id": "146053",
 "reference_id": 108544,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Servo de Deus",
 "media_type": "Text",
 "index_reference": "servo de deus",
@@ -627,7 +684,7 @@
 {
 "content_id": "145887",
 "reference_id": 108378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Servos",
 "media_type": "Text",
 "index_reference": "servos",
@@ -637,13 +694,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericServants",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Servants"
+}
+]
 }
 },
 {
 "content_id": "145723",
 "reference_id": 108214,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sete",
 "media_type": "Text",
 "index_reference": "sete",
@@ -653,21 +718,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Seth",
-"type": "person",
-"preferred_label": "Sete",
-"confidence": 1.0,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "145733",
 "reference_id": 108224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sete",
 "media_type": "Text",
 "index_reference": "sete",
@@ -681,9 +738,9 @@
 {
 "id": "person:Seth",
 "type": "person",
-"preferred_label": "Sete",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sete"
 }
 ]
 }
@@ -691,7 +748,7 @@
 {
 "content_id": "145923",
 "reference_id": 108414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shemá",
 "media_type": "Text",
 "index_reference": "shemá",
@@ -701,13 +758,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shema.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sema"
+},
+{
+"id": "person:Shema.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sema"
+},
+{
+"id": "person:Shema.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sema"
+},
+{
+"id": "person:Shema",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sema"
+},
+{
+"id": "place:Shema",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sema"
+}
+]
 }
 },
 {
 "content_id": "145630",
 "reference_id": 108121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Silas",
 "media_type": "Text",
 "index_reference": "silas",
@@ -721,9 +814,9 @@
 {
 "id": "person:Silas",
 "type": "person",
-"preferred_label": "Silas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Silas"
 }
 ]
 }
@@ -731,7 +824,7 @@
 {
 "content_id": "145962",
 "reference_id": 108453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siló",
 "media_type": "Text",
 "index_reference": "siló",
@@ -745,16 +838,16 @@
 {
 "id": "person:Shiloh",
 "type": "person",
-"preferred_label": "Siló",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Siló"
 },
 {
 "id": "place:Shiloh",
 "type": "place",
-"preferred_label": "Siló",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Siló"
 }
 ]
 }
@@ -762,7 +855,7 @@
 {
 "content_id": "145593",
 "reference_id": 108084,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siloé",
 "media_type": "Text",
 "index_reference": "siloé",
@@ -772,13 +865,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Siloam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Siloam"
+}
+]
 }
 },
 {
 "content_id": "145594",
 "reference_id": 108085,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Simão de Cirene",
 "media_type": "Text",
 "index_reference": "simão de cirene",
@@ -788,13 +889,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Simon.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Simão"
+}
+]
 }
 },
 {
 "content_id": "145560",
 "reference_id": 108051,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sinagoga",
 "media_type": "Text",
 "index_reference": "sinagoga",
@@ -804,13 +913,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Synagogue"
+}
+]
 }
 },
 {
 "content_id": "145576",
 "reference_id": 108067,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sinédrio",
 "media_type": "Text",
 "index_reference": "sinédrio",
@@ -820,13 +937,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sanhedrin",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Sanhedrin"
+}
+]
 }
 },
 {
 "content_id": "145791",
 "reference_id": 108282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siquém",
 "media_type": "Text",
 "index_reference": "siquém",
@@ -838,32 +963,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Shechem",
-"type": "person",
-"preferred_label": "Siquém",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Shechem.2",
 "type": "person",
-"preferred_label": "Siquém",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Siquém"
 },
 {
 "id": "person:Shechem.3",
 "type": "person",
-"preferred_label": "Siquém",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Siquém"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Siquém"
 },
 {
 "id": "place:Shechem",
 "type": "place",
-"preferred_label": "Siquém",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Siquém"
 }
 ]
 }
@@ -871,7 +996,7 @@
 {
 "content_id": "145758",
 "reference_id": 108249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sodoma e Gomorra",
 "media_type": "Text",
 "index_reference": "sodoma e gomorra",
@@ -881,13 +1006,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomorra"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sodoma"
+}
+]
 }
 },
 {
 "content_id": "145782",
 "reference_id": 108273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sonhos",
 "media_type": "Text",
 "index_reference": "sonhos",
@@ -903,7 +1043,7 @@
 {
 "content_id": "145877",
 "reference_id": 108368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sumo sacerdote",
 "media_type": "Text",
 "index_reference": "sumo sacerdote",
@@ -919,7 +1059,7 @@
 {
 "content_id": "145662",
 "reference_id": 108153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Superapóstolo",
 "media_type": "Text",
 "index_reference": "superapóstolo",
@@ -935,7 +1075,7 @@
 {
 "content_id": "146026",
 "reference_id": 108517,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Susã",
 "media_type": "Text",
 "index_reference": "susã",
@@ -949,9 +1089,9 @@
 {
 "id": "place:Susa",
 "type": "place",
-"preferred_label": "Susã",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Susã"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "133873",
 "reference_id": 108071,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الناصرة",
 "media_type": "Text",
 "index_reference": "الناصرة",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Nazareth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاصِرَة"
+}
+]
 }
 },
 {
 "content_id": "134272",
 "reference_id": 108470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نَاثَان",
 "media_type": "Text",
 "index_reference": "نَاثَان",
@@ -30,53 +38,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nathan",
-"type": "person",
-"preferred_label": "نَاثَان",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Nathan.2",
 "type": "person",
-"preferred_label": "نَاثَان",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
 },
 {
 "id": "person:Nathan.3",
 "type": "person",
-"preferred_label": "نَاثَان",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
 },
 {
 "id": "person:Nathan.4",
 "type": "person",
-"preferred_label": "نَاثَان",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
 },
 {
 "id": "person:Nathan.5",
 "type": "person",
-"preferred_label": "نَاثَان",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
 },
 {
 "id": "person:Nathan.6",
 "type": "person",
-"preferred_label": "نَاثَان",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
 },
 {
-"id": "person:Dathan",
+"id": "person:Nathan",
 "type": "person",
-"preferred_label": "دَاثَان",
-"confidence": 0.8243,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَاثَان"
 }
 ]
 }
@@ -84,7 +85,7 @@
 {
 "content_id": "134158",
 "reference_id": 108356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نَادَابُ وَأَبِيهُو",
 "media_type": "Text",
 "index_reference": "نَادَابُ وَأَبِيهُو",
@@ -94,13 +95,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abihu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "أَبِيه"
+},
+{
+"id": "person:Nadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَادَاب"
+},
+{
+"id": "person:Nadab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَادَاب"
+},
+{
+"id": "person:Nadab.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَادَاب"
+},
+{
+"id": "person:Nadab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَادَاب"
+}
+]
 }
 },
 {
 "content_id": "133949",
 "reference_id": 108147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ناموس المسيح",
 "media_type": "Text",
 "index_reference": "ناموس المسيح",
@@ -116,7 +153,7 @@
 {
 "content_id": "134202",
 "reference_id": 108400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نبوات عن يسوع",
 "media_type": "Text",
 "index_reference": "نبوات عن يسوع",
@@ -140,7 +177,7 @@
 {
 "content_id": "134201",
 "reference_id": 108399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نبوة",
 "media_type": "Text",
 "index_reference": "نبوة",
@@ -156,7 +193,7 @@
 {
 "content_id": "134303",
 "reference_id": 108501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نَبُوخَذْنَصَّر",
 "media_type": "Text",
 "index_reference": "نَبُوخَذْنَصَّر",
@@ -170,9 +207,9 @@
 {
 "id": "person:Nebuchadnezzar",
 "type": "person",
-"preferred_label": "نَبوخَذْنَاصَّر",
-"confidence": 0.9638,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَبوخَذْنَاصَّر"
 }
 ]
 }
@@ -180,7 +217,7 @@
 {
 "content_id": "134218",
 "reference_id": 108416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نبي",
 "media_type": "Text",
 "index_reference": "نبي",
@@ -204,7 +241,7 @@
 {
 "content_id": "134352",
 "reference_id": 108550,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نبي كاذب",
 "media_type": "Text",
 "index_reference": "نبي كاذب",
@@ -228,7 +265,7 @@
 {
 "content_id": "134317",
 "reference_id": 108515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نَحَمْيَا",
 "media_type": "Text",
 "index_reference": "نَحَمْيَا",
@@ -240,53 +277,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nehemiah",
-"type": "person",
-"preferred_label": "نَحَمْيَا",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Nehemiah.2",
 "type": "person",
-"preferred_label": "نَحَمْيَا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "نَحَمْيَا"
 },
 {
 "id": "person:Nehemiah.3",
 "type": "person",
-"preferred_label": "نَحَمْيَا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "نَحَمْيَا"
 },
 {
-"id": "place:Nimrim",
-"type": "place",
-"preferred_label": "نِمْرِيمَ",
-"confidence": 0.8417,
-"match_method": "embedding"
-},
-{
-"id": "person:Nympha",
+"id": "person:Nehemiah",
 "type": "person",
-"preferred_label": "نِمْفَاسَ",
-"confidence": 0.8399,
-"match_method": "embedding"
-},
-{
-"id": "person:Neariah",
-"type": "person",
-"preferred_label": "نَعْرِيَا",
-"confidence": 0.8128,
-"match_method": "embedding"
-},
-{
-"id": "person:Neariah.2",
-"type": "person",
-"preferred_label": "نَعْرِيَا",
-"confidence": 0.8128,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَحَمْيَا"
 }
 ]
 }
@@ -294,7 +303,7 @@
 {
 "content_id": "134186",
 "reference_id": 108384,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نذير",
 "media_type": "Text",
 "index_reference": "نذير",
@@ -304,13 +313,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazirites"
+}
+]
 }
 },
 {
 "content_id": "134290",
 "reference_id": 108488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نُعْمَانُ",
 "media_type": "Text",
 "index_reference": "نُعْمَانُ",
@@ -322,32 +339,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nehemiah",
+"id": "person:Naaman.2",
 "type": "person",
-"preferred_label": "نَحَمْيَا",
-"confidence": 0.8213,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نعْمَان"
 },
 {
-"id": "person:Nehemiah.2",
+"id": "person:Naaman.3",
 "type": "person",
-"preferred_label": "نَحَمْيَا",
-"confidence": 0.8213,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نعْمَان"
 },
 {
-"id": "person:Nehemiah.3",
+"id": "person:Naaman.4",
 "type": "person",
-"preferred_label": "نَحَمْيَا",
-"confidence": 0.8213,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نعْمَان"
 },
 {
-"id": "person:Nympha",
+"id": "person:Naaman",
 "type": "person",
-"preferred_label": "نِمْفَاسَ",
-"confidence": 0.8051,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نعْمَان"
 }
 ]
 }
@@ -355,7 +372,7 @@
 {
 "content_id": "134037",
 "reference_id": 108235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نعمة",
 "media_type": "Text",
 "index_reference": "نعمة",
@@ -371,7 +388,7 @@
 {
 "content_id": "134208",
 "reference_id": 108406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نهر أَلأُرْدُنّ",
 "media_type": "Text",
 "index_reference": "نهر أَلأُرْدُنّ",
@@ -381,13 +398,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْأرْدنِّ"
+}
+]
 }
 },
 {
 "content_id": "134356",
 "reference_id": 108554,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نهر الفرات",
 "media_type": "Text",
 "index_reference": "نهر الفرات",
@@ -397,13 +422,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْفرَاتِ"
+}
+]
 }
 },
 {
 "content_id": "134103",
 "reference_id": 108301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نهر النيل",
 "media_type": "Text",
 "index_reference": "نهر النيل",
@@ -413,13 +446,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِي"
+}
+]
 }
 },
 {
 "content_id": "134032",
 "reference_id": 108230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نُوح",
 "media_type": "Text",
 "index_reference": "نُوح",
@@ -431,18 +472,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Noah",
-"type": "person",
-"preferred_label": "نوحٌ",
-"confidence": 0.8114,
-"match_method": "embedding"
-},
-{
 "id": "person:Noah.2",
 "type": "person",
-"preferred_label": "نوحٌ",
-"confidence": 0.8114,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نوحٌ"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نوحٌ"
 }
 ]
 }
@@ -450,7 +491,7 @@
 {
 "content_id": "134348",
 "reference_id": 108546,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نور",
 "media_type": "Text",
 "index_reference": "نور",
@@ -481,7 +522,7 @@
 {
 "content_id": "134347",
 "reference_id": 108545,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نور للأمم",
 "media_type": "Text",
 "index_reference": "نور للأمم",
@@ -497,7 +538,7 @@
 {
 "content_id": "133890",
 "reference_id": 108088,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نِيقُودِيمُوس",
 "media_type": "Text",
 "index_reference": "نِيقُودِيمُوس",
@@ -507,13 +548,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nicodemus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نِيقودِيموس"
+}
+]
 }
 },
 {
 "content_id": "134376",
 "reference_id": 108574,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "نِينَوَى",
 "media_type": "Text",
 "index_reference": "نِينَوَى",
@@ -525,18 +574,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Nineveh",
-"type": "group",
-"preferred_label": "نِينَوَى",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Nineveh",
 "type": "place",
-"preferred_label": "نِينَوَى",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "نِينَوَى"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "367852",
 "reference_id": 108361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Takatifu",
 "media_type": "Text",
 "index_reference": "takatifu",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Holy"
+}
+]
 }
 },
 {
 "content_id": "368005",
 "reference_id": 108514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Talaka",
 "media_type": "Text",
 "index_reference": "talaka",
@@ -42,7 +50,7 @@
 {
 "content_id": "367783",
 "reference_id": 108292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tamari",
 "media_type": "Text",
 "index_reference": "tamari",
@@ -54,32 +62,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Tamar",
-"type": "person",
-"preferred_label": "Tamari",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Tamar.2",
 "type": "person",
-"preferred_label": "Tamari",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tamari"
 },
 {
 "id": "person:Tamar.3",
 "type": "person",
-"preferred_label": "Tamari",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tamari"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamari"
 },
 {
 "id": "place:Tamar.2",
 "type": "place",
-"preferred_label": "Tamari",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tamari"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tadmori"
 }
 ]
 }
@@ -87,23 +102,31 @@
 {
 "content_id": "367962",
 "reference_id": 108471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tamari - Daudi",
 "media_type": "Text",
-"index_reference": "tamari - daudi",
+"index_reference": "tamari  daudi",
 "language": "swh",
 "review_level": "None",
 "content": "<p>Binti wa Daudi na Maaka. Yeye na Absalomu walikuwa na wazazi sawa. Yeye na Amnoni walikuwa na baba sawa. Amnoni alimnajisi Tamari alipokuwa bikira. Kisha akamtupa nje ya nyumba yake. Katika siku hizo, hii ilikuwa sawa na kumtaliki. Kubakwa na kisha kutooa kulileta aibu kwa Tamari katika jamii yao. Ilimaanisha kwamba labda hangeolewa au kuwa na familia yake mwenyewe. Aliishi na Absalomu baada ya hilo kutokea.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamari"
+}
+]
 }
 },
 {
 "content_id": "367877",
 "reference_id": 108386,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tarumbeta",
 "media_type": "Text",
 "index_reference": "tarumbeta",
@@ -113,13 +136,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+}
+]
 }
 },
 {
 "content_id": "367570",
 "reference_id": 108079,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Theofilo",
 "media_type": "Text",
 "index_reference": "theofilo",
@@ -133,9 +164,9 @@
 {
 "id": "person:Theophilus",
 "type": "person",
-"preferred_label": "Theofilo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Theofilo"
 }
 ]
 }
@@ -143,7 +174,7 @@
 {
 "content_id": "367619",
 "reference_id": 108128,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Thesalonike",
 "media_type": "Text",
 "index_reference": "thesalonike",
@@ -157,9 +188,9 @@
 {
 "id": "place:Thessalonica",
 "type": "place",
-"preferred_label": "Thesalonike",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Thesalonike"
 }
 ]
 }
@@ -167,7 +198,7 @@
 {
 "content_id": "367668",
 "reference_id": 108177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Thiatira",
 "media_type": "Text",
 "index_reference": "thiatira",
@@ -181,9 +212,9 @@
 {
 "id": "place:Thyatira",
 "type": "place",
-"preferred_label": "Thiatira",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Thiatira"
 }
 ]
 }
@@ -191,7 +222,7 @@
 {
 "content_id": "367615",
 "reference_id": 108124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Timotheo",
 "media_type": "Text",
 "index_reference": "timotheo",
@@ -205,9 +236,9 @@
 {
 "id": "person:Timothy",
 "type": "person",
-"preferred_label": "Timotheo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Timotheo"
 }
 ]
 }
@@ -215,7 +246,7 @@
 {
 "content_id": "367966",
 "reference_id": 108475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tiro na Sidoni",
 "media_type": "Text",
 "index_reference": "tiro na sidoni",
@@ -225,13 +256,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Sidon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wasidoni"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Wasidoni"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiro"
+}
+]
 }
 },
 {
 "content_id": "367643",
 "reference_id": 108152,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tito",
 "media_type": "Text",
 "index_reference": "tito",
@@ -245,9 +298,9 @@
 {
 "id": "person:Titus",
 "type": "person",
-"preferred_label": "Tito",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tito"
 }
 ]
 }
@@ -255,7 +308,7 @@
 {
 "content_id": "367748",
 "reference_id": 108257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tohara",
 "media_type": "Text",
 "index_reference": "tohara",
@@ -265,13 +318,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Circumcision"
+}
+]
 }
 },
 {
 "content_id": "367586",
 "reference_id": 108095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tomaso",
 "media_type": "Text",
 "index_reference": "tomaso",
@@ -285,9 +346,9 @@
 {
 "id": "person:Thomas",
 "type": "person",
-"preferred_label": "Tomaso",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tomaso"
 }
 ]
 }
@@ -295,7 +356,7 @@
 {
 "content_id": "367645",
 "reference_id": 108154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tunda la Roho Mtakatifu",
 "media_type": "Text",
 "index_reference": "tunda la roho mtakatifu",

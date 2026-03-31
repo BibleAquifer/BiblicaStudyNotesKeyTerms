@@ -2,7 +2,7 @@
 {
 "content_id": "193305",
 "reference_id": 108223,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Убийство",
 "media_type": "Text",
 "index_reference": "убийство",
@@ -18,7 +18,7 @@
 {
 "content_id": "193551",
 "reference_id": 108469,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Урия",
 "media_type": "Text",
 "index_reference": "урия",
@@ -30,60 +30,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Uriah",
-"type": "person",
-"preferred_label": "Урия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Uriah.2",
 "type": "person",
-"preferred_label": "Урия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Урия"
 },
 {
 "id": "person:Uriah.3",
 "type": "person",
-"preferred_label": "Урия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Урия"
 },
 {
 "id": "person:Uriah.4",
 "type": "person",
-"preferred_label": "Урия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Урия"
 },
 {
 "id": "person:Uriah.5",
 "type": "person",
-"preferred_label": "Урия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Урия"
 },
 {
-"id": "person:Uri",
+"id": "person:Uriah",
 "type": "person",
-"preferred_label": "Урий",
-"confidence": 0.8859,
-"match_method": "embedding"
-},
-{
-"id": "person:Uri.2",
-"type": "person",
-"preferred_label": "Урий",
-"confidence": 0.8859,
-"match_method": "embedding"
-},
-{
-"id": "person:Uri.3",
-"type": "person",
-"preferred_label": "Урий",
-"confidence": 0.8859,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Урия"
 }
 ]
 }
@@ -91,7 +70,7 @@
 {
 "content_id": "193222",
 "reference_id": 108140,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Усыновлённый",
 "media_type": "Text",
 "index_reference": "усыновлённый",
@@ -107,7 +86,7 @@
 {
 "content_id": "193122",
 "reference_id": 108040,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ученик",
 "media_type": "Text",
 "index_reference": "ученик",
@@ -138,7 +117,7 @@
 {
 "content_id": "193400",
 "reference_id": 108318,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Учить детей",
 "media_type": "Text",
 "index_reference": "учить детей",

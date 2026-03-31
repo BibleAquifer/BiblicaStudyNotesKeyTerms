@@ -2,10 +2,10 @@
 {
 "content_id": "193473",
 "reference_id": 108391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Кадес-Варни",
 "media_type": "Text",
-"index_reference": "кадес-варни",
+"index_reference": "кадесварни",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Область к юго-западу от Мёртвого моря в пустыне Син. Израильтяне разбили там лагерь, когда шли из Египта в Ханаан. Именно там израильтяне отказались войти в Землю Обетованную. В Кадес-Варни умерла Мариам, и здесь же Моисей ослушался Бога, ударив по скале, чтобы из неё потекла вода.</p>",
@@ -16,9 +16,9 @@
 {
 "id": "place:Kadesh-barnea",
 "type": "place",
-"preferred_label": "Кадес-Варни",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Кадес-Варни"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "193304",
 "reference_id": 108222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Каин",
 "media_type": "Text",
 "index_reference": "каин",
@@ -40,16 +40,9 @@
 {
 "id": "person:Cain",
 "type": "person",
-"preferred_label": "Каин",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Kain",
-"type": "place",
-"preferred_label": "Каин",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Каин"
 }
 ]
 }
@@ -57,7 +50,7 @@
 {
 "content_id": "193421",
 "reference_id": 108339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Каменные скрижали",
 "media_type": "Text",
 "index_reference": "каменные скрижали",
@@ -73,7 +66,7 @@
 {
 "content_id": "193172",
 "reference_id": 108090,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Кана",
 "media_type": "Text",
 "index_reference": "кана",
@@ -87,9 +80,9 @@
 {
 "id": "place:Cana",
 "type": "place",
-"preferred_label": "Кана",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Кана"
 }
 ]
 }
@@ -97,7 +90,7 @@
 {
 "content_id": "193174",
 "reference_id": 108092,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Капернаум",
 "media_type": "Text",
 "index_reference": "капернаум",
@@ -111,9 +104,9 @@
 {
 "id": "place:Capernaum",
 "type": "place",
-"preferred_label": "Капернаум",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Капернаум"
 }
 ]
 }
@@ -121,7 +114,7 @@
 {
 "content_id": "193220",
 "reference_id": 108138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Кесария",
 "media_type": "Text",
 "index_reference": "кесария",
@@ -133,11 +126,18 @@
 "resource": [],
 "acai": [
 {
+"id": "place:Caesarea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
 "id": "place:Caesarea",
 "type": "place",
-"preferred_label": "Кесария",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Кесария"
 }
 ]
 }
@@ -145,7 +145,7 @@
 {
 "content_id": "193116",
 "reference_id": 108034,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Кесарь",
 "media_type": "Text",
 "index_reference": "кесарь",
@@ -155,13 +155,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Клавдий"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Тиверий"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Август"
+}
+]
 }
 },
 {
 "content_id": "193194",
 "reference_id": 108112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Кипр",
 "media_type": "Text",
 "index_reference": "кипр",
@@ -171,13 +200,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Киттим"
+}
+]
 }
 },
 {
 "content_id": "193584",
 "reference_id": 108502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Кир",
 "media_type": "Text",
 "index_reference": "кир",
@@ -187,13 +224,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Cyrus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Кир"
+}
+]
 }
 },
 {
 "content_id": "193251",
 "reference_id": 108169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Книга Еноха",
 "media_type": "Text",
 "index_reference": "книга еноха",
@@ -209,7 +254,7 @@
 {
 "content_id": "193426",
 "reference_id": 108344,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Книга жизни",
 "media_type": "Text",
 "index_reference": "книга жизни",
@@ -225,7 +270,7 @@
 {
 "content_id": "193318",
 "reference_id": 108236,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ковчег",
 "media_type": "Text",
 "index_reference": "ковчег",
@@ -241,7 +286,7 @@
 {
 "content_id": "193467",
 "reference_id": 108385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ковчег завета",
 "media_type": "Text",
 "index_reference": "ковчег завета",
@@ -259,13 +304,21 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ark of the Covenant"
+}
+]
 }
 },
 {
 "content_id": "193392",
 "reference_id": 108310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Колдовство",
 "media_type": "Text",
 "index_reference": "колдовство",
@@ -275,13 +328,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Magic"
+}
+]
 }
 },
 {
 "content_id": "193242",
 "reference_id": 108160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Колоссы",
 "media_type": "Text",
 "index_reference": "колоссы",
@@ -295,9 +356,9 @@
 {
 "id": "place:Colossae",
 "type": "place",
-"preferred_label": "Колоссы",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Колоссы"
 }
 ]
 }
@@ -305,7 +366,7 @@
 {
 "content_id": "193475",
 "reference_id": 108393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Корей",
 "media_type": "Text",
 "index_reference": "корей",
@@ -317,32 +378,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Korah",
-"type": "person",
-"preferred_label": "Корей",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Korah.2",
 "type": "person",
-"preferred_label": "Корей",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Корей"
 },
 {
 "id": "person:Korah.3",
 "type": "person",
-"preferred_label": "Корей",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Корей"
 },
 {
 "id": "person:Korah.4",
 "type": "person",
-"preferred_label": "Корей",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Корей"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Корей"
 }
 ]
 }
@@ -350,7 +411,7 @@
 {
 "content_id": "193215",
 "reference_id": 108133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Коринф",
 "media_type": "Text",
 "index_reference": "коринф",
@@ -364,9 +425,9 @@
 {
 "id": "place:Corinth",
 "type": "place",
-"preferred_label": "Коринф",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Коринф"
 }
 ]
 }
@@ -374,7 +435,7 @@
 {
 "content_id": "193190",
 "reference_id": 108108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Корнилий",
 "media_type": "Text",
 "index_reference": "корнилий",
@@ -388,9 +449,9 @@
 {
 "id": "person:Cornelius",
 "type": "person",
-"preferred_label": "Корнилий",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Корнилий"
 }
 ]
 }
@@ -398,23 +459,31 @@
 {
 "content_id": "193402",
 "reference_id": 108320,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Красное (Чёрмное) море",
 "media_type": "Text",
-"index_reference": "красное (чёрмное) море",
+"index_reference": "красное чёрмное море",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Крупный водоём, находившийся вблизи Египта. В настоящее время точно не известно, где именно находилось Красное море. Бог разделил воды этого моря, чтобы народ Израиля мог пройти по суше на другой берег, после чего вода обрушилась на египтян, и все они утонули.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Red Sea"
+}
+]
 }
 },
 {
 "content_id": "193612",
 "reference_id": 108530,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Крест",
 "media_type": "Text",
 "index_reference": "крест",
@@ -424,13 +493,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
 "content_id": "193119",
 "reference_id": 108037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Крещение",
 "media_type": "Text",
 "index_reference": "крещение",
@@ -440,13 +517,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
 "content_id": "193245",
 "reference_id": 108163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Крит",
 "media_type": "Text",
 "index_reference": "крит",
@@ -460,9 +545,9 @@
 {
 "id": "place:Crete",
 "type": "place",
-"preferred_label": "Крит",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Крит"
 }
 ]
 }
@@ -470,7 +555,7 @@
 {
 "content_id": "193397",
 "reference_id": 108315,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Кровь",
 "media_type": "Text",
 "index_reference": "кровь",
@@ -484,9 +569,16 @@
 {
 "id": "keyterm:Blood",
 "type": "keyterm",
-"preferred_label": "Blood",
-"confidence": 0.8848,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Bleed",
+"type": "keyterm",
+"confidence": 0.8277,
+"match_method": "embedding",
+"preferred_label": "Bleed"
 }
 ]
 }
@@ -494,7 +586,7 @@
 {
 "content_id": "193601",
 "reference_id": 108519,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ксеркс",
 "media_type": "Text",
 "index_reference": "ксеркс",
@@ -504,13 +596,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ahasuerus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Артаксеркс"
+}
+]
 }
 },
 {
 "content_id": "193173",
 "reference_id": 108091,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Купальня Вифезда",
 "media_type": "Text",
 "index_reference": "купальня вифезда",
@@ -520,7 +620,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Pool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pool"
+}
+]
 }
 }
 ]

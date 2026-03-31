@@ -2,7 +2,7 @@
 {
 "content_id": "232797",
 "reference_id": 108196,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "救恩",
 "media_type": "Text",
 "index_reference": "救恩",
@@ -20,13 +20,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Salvation"
+}
+]
 }
 },
 {
 "content_id": "232920",
 "reference_id": 108319,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "救主",
 "media_type": "Text",
 "index_reference": "救主",
@@ -36,13 +44,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.8394,
+"match_method": "embedding",
+"preferred_label": "Savior"
+}
+]
 }
 },
 {
 "content_id": "232793",
 "reference_id": 108192,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "舊約聖經",
 "media_type": "Text",
 "index_reference": "舊約聖經",

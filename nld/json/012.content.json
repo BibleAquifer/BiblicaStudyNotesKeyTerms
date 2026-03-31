@@ -2,7 +2,7 @@
 {
 "content_id": "778808",
 "reference_id": 108391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kades Barnea",
 "media_type": "Text",
 "index_reference": "kades barnea",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kadesh-barnea"
+}
+]
 }
 },
 {
 "content_id": "769666",
 "reference_id": 108092,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kafarnaüm",
 "media_type": "Text",
 "index_reference": "kafarnaüm",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Capernaum"
+}
+]
 }
 },
 {
 "content_id": "769662",
 "reference_id": 108222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kain",
 "media_type": "Text",
 "index_reference": "kain",
@@ -46,11 +62,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Kain",
-"type": "place",
-"preferred_label": "Kain",
+"id": "person:Cain",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Cain"
 }
 ]
 }
@@ -58,7 +74,7 @@
 {
 "content_id": "769663",
 "reference_id": 108390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kaleb",
 "media_type": "Text",
 "index_reference": "kaleb",
@@ -70,18 +86,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Caleb",
-"type": "person",
-"preferred_label": "Caleb",
-"confidence": 0.8737,
-"match_method": "embedding"
-},
-{
 "id": "person:Caleb.2",
 "type": "person",
-"preferred_label": "Caleb",
-"confidence": 0.8737,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caleb"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caleb"
 }
 ]
 }
@@ -89,7 +105,7 @@
 {
 "content_id": "769665",
 "reference_id": 108246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kanaän",
 "media_type": "Text",
 "index_reference": "kanaän",
@@ -99,13 +115,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Canaan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Canaan"
+}
+]
 }
 },
 {
 "content_id": "769670",
 "reference_id": 108096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kerk",
 "media_type": "Text",
 "index_reference": "kerk",
@@ -115,13 +146,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Church"
+}
+]
 }
 },
 {
 "content_id": "769671",
 "reference_id": 108118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kerkoudsten",
 "media_type": "Text",
 "index_reference": "kerkoudsten",
@@ -137,10 +176,10 @@
 {
 "content_id": "761340",
 "reference_id": 108113,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Klein-Azië",
 "media_type": "Text",
-"index_reference": "klein-azië",
+"index_reference": "kleinazië",
 "language": "nld",
 "review_level": "None",
 "content": "<p>Een gebied onder Romeinse heerschappij, het was het westelijke deel van het huidige Turkije. Het was niet het continent dat nu Azië heet, met landen zoals China, India en Rusland. Paulus reisde door Klein-Azië.</p>",
@@ -151,9 +190,9 @@
 {
 "id": "place:AsiaMinor",
 "type": "place",
-"preferred_label": "Asia Minor",
-"confidence": 0.8666,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asia Minor"
 }
 ]
 }
@@ -161,7 +200,7 @@
 {
 "content_id": "769677",
 "reference_id": 108160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kolosse",
 "media_type": "Text",
 "index_reference": "kolosse",
@@ -171,13 +210,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Colossae",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Colossae"
+}
+]
 }
 },
 {
 "content_id": "778809",
 "reference_id": 108330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Koning",
 "media_type": "Text",
 "index_reference": "koning",
@@ -193,7 +240,7 @@
 {
 "content_id": "778810",
 "reference_id": 108561,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Koninkrijk van God",
 "media_type": "Text",
 "index_reference": "koninkrijk van god",
@@ -217,7 +264,7 @@
 {
 "content_id": "778811",
 "reference_id": 108337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Koninkrijk van priesters",
 "media_type": "Text",
 "index_reference": "koninkrijk van priesters",
@@ -233,7 +280,7 @@
 {
 "content_id": "778812",
 "reference_id": 108393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Korah",
 "media_type": "Text",
 "index_reference": "korah",
@@ -245,32 +292,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Korah",
-"type": "person",
-"preferred_label": "Korah",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Korah.2",
 "type": "person",
-"preferred_label": "Korah",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Korah"
 },
 {
 "id": "person:Korah.3",
 "type": "person",
-"preferred_label": "Korah",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Korah"
 },
 {
 "id": "person:Korah.4",
 "type": "person",
-"preferred_label": "Korah",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
 }
 ]
 }
@@ -278,7 +325,7 @@
 {
 "content_id": "769691",
 "reference_id": 108502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kores",
 "media_type": "Text",
 "index_reference": "kores",
@@ -288,13 +335,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Cyrus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cyrus"
+}
+]
 }
 },
 {
 "content_id": "769679",
 "reference_id": 108133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Korinthe",
 "media_type": "Text",
 "index_reference": "korinthe",
@@ -304,13 +359,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Corinth"
+}
+]
 }
 },
 {
 "content_id": "769688",
 "reference_id": 108163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kreta",
 "media_type": "Text",
 "index_reference": "kreta",
@@ -324,9 +387,9 @@
 {
 "id": "place:Crete",
 "type": "place",
-"preferred_label": "Crete",
-"confidence": 0.9474,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crete"
 }
 ]
 }
@@ -334,7 +397,7 @@
 {
 "content_id": "769689",
 "reference_id": 108530,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kruis",
 "media_type": "Text",
 "index_reference": "kruis",
@@ -344,13 +407,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
 "content_id": "772784",
 "reference_id": 108218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kwaadaardige geestelijke wezens",
 "media_type": "Text",
 "index_reference": "kwaadaardige geestelijke wezens",

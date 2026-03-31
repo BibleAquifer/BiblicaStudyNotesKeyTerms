@@ -2,7 +2,7 @@
 {
 "content_id": "132220",
 "reference_id": 108274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laban",
 "media_type": "Text",
 "index_reference": "laban",
@@ -16,16 +16,16 @@
 {
 "id": "person:Laban",
 "type": "person",
-"preferred_label": "Laban",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Laban"
 },
 {
 "id": "place:Laban",
 "type": "place",
-"preferred_label": "Laban",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Laban"
 }
 ]
 }
@@ -33,7 +33,7 @@
 {
 "content_id": "132032",
 "reference_id": 108086,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lamb of God",
 "media_type": "Text",
 "index_reference": "lamb of god",
@@ -49,7 +49,7 @@
 {
 "content_id": "132108",
 "reference_id": 108162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laodicea",
 "media_type": "Text",
 "index_reference": "laodicea",
@@ -63,9 +63,9 @@
 {
 "id": "place:Laodicea",
 "type": "place",
-"preferred_label": "Laodicea",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Laodicea"
 }
 ]
 }
@@ -73,7 +73,7 @@
 {
 "content_id": "132482",
 "reference_id": 108536,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Last days",
 "media_type": "Text",
 "index_reference": "last days",
@@ -89,7 +89,7 @@
 {
 "content_id": "132281",
 "reference_id": 108335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Law of Moses",
 "media_type": "Text",
 "index_reference": "law of moses",
@@ -120,7 +120,7 @@
 {
 "content_id": "132308",
 "reference_id": 108362,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laws in Leviticus",
 "media_type": "Text",
 "index_reference": "laws in leviticus",
@@ -136,7 +136,7 @@
 {
 "content_id": "132005",
 "reference_id": 108059,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Leader who serves",
 "media_type": "Text",
 "index_reference": "leader who serves",
@@ -152,7 +152,7 @@
 {
 "content_id": "132221",
 "reference_id": 108275,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Leah",
 "media_type": "Text",
 "index_reference": "leah",
@@ -166,9 +166,9 @@
 {
 "id": "person:Leah",
 "type": "person",
-"preferred_label": "Leah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Leah"
 }
 ]
 }
@@ -176,7 +176,7 @@
 {
 "content_id": "132119",
 "reference_id": 108173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Letters to the churches",
 "media_type": "Text",
 "index_reference": "letters to the churches",
@@ -192,7 +192,7 @@
 {
 "content_id": "132329",
 "reference_id": 108383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Levi",
 "media_type": "Text",
 "index_reference": "levi",
@@ -206,30 +206,30 @@
 {
 "id": "person:Levi.2",
 "type": "person",
-"preferred_label": "Levi",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Levi"
 },
 {
 "id": "person:Levi.3",
 "type": "person",
-"preferred_label": "Levi",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Levi"
 },
 {
 "id": "person:Matthew",
 "type": "person",
-"preferred_label": "Matthew",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Matthew"
 },
 {
 "id": "person:Levi",
 "type": "person",
-"preferred_label": "Levi",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Levi"
 }
 ]
 }
@@ -237,7 +237,7 @@
 {
 "content_id": "132289",
 "reference_id": 108343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Levites",
 "media_type": "Text",
 "index_reference": "levites",
@@ -259,9 +259,9 @@
 {
 "id": "group:Levi",
 "type": "group",
-"preferred_label": "Tribe of Levi",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Tribe of Levi"
 }
 ]
 }
@@ -269,7 +269,7 @@
 {
 "content_id": "132492",
 "reference_id": 108546,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Light",
 "media_type": "Text",
 "index_reference": "light",
@@ -300,7 +300,7 @@
 {
 "content_id": "132491",
 "reference_id": 108545,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Light for the Gentiles",
 "media_type": "Text",
 "index_reference": "light for the gentiles",
@@ -316,7 +316,7 @@
 {
 "content_id": "132505",
 "reference_id": 108559,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Living water",
 "media_type": "Text",
 "index_reference": "living water",
@@ -332,7 +332,7 @@
 {
 "content_id": "132172",
 "reference_id": 108226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lord",
 "media_type": "Text",
 "index_reference": "lord",
@@ -346,16 +346,16 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "Jesus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Jesus"
 },
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -363,10 +363,10 @@
 {
 "content_id": "132275",
 "reference_id": 108329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lord - Ruler",
 "media_type": "Text",
-"index_reference": "lord - ruler",
+"index_reference": "lord  ruler",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A title for a ruler, leader or master. It’s used as a title for God in the Bible. It means that God has authority over everything and everyone. In New Testament times, lord was used as a title for the Roman emperor. It meant that Caesar had authority everywhere that the Roman government was in control. Jesus’ followers called him Lord. This meant that they recognised that Jesus is God. They recognised that Jesus has complete authority over everything and everyone. Jesus’ followers challenged the authority of Caesar when they called Jesus Lord.</p>",
@@ -379,7 +379,7 @@
 {
 "content_id": "132092",
 "reference_id": 108146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lord Jesus Christ",
 "media_type": "Text",
 "index_reference": "lord jesus christ",
@@ -393,9 +393,9 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"preferred_label": "Jesus",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Jesus"
 }
 ]
 }
@@ -403,10 +403,10 @@
 {
 "content_id": "132118",
 "reference_id": 108172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lord’s day",
 "media_type": "Text",
-"index_reference": "lord’s day",
+"index_reference": "lords day",
 "language": "eng",
 "review_level": "None",
 "content": "<p>What John the writer of Revelation called Sunday or the day after the Sabbath day. It’s the day of the week when Jesus was raised from the dead. Because of this, churches started gathering to worship God on Sundays.</p>",
@@ -419,10 +419,10 @@
 {
 "content_id": "132094",
 "reference_id": 108148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lord’s Supper",
 "media_type": "Text",
-"index_reference": "lord’s supper",
+"index_reference": "lords supper",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The meal that Christians share together to remember Jesus’ death. It’s based on the last supper that Jesus shared with his disciples before he died. It’s also based on the Jewish Passover Feast. The meal includes eating bread and drinking wine. These remind believers that Jesus gave his body and his blood to save all people.</p>",
@@ -435,7 +435,7 @@
 {
 "content_id": "132194",
 "reference_id": 108248,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lot",
 "media_type": "Text",
 "index_reference": "lot",
@@ -449,16 +449,16 @@
 {
 "id": "person:Lot",
 "type": "person",
-"preferred_label": "Lot",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Lot"
 },
 {
 "id": "realia:Lot",
 "type": "realia",
-"preferred_label": "Lot",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Lot"
 }
 ]
 }
@@ -466,7 +466,7 @@
 {
 "content_id": "132301",
 "reference_id": 108355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Love God",
 "media_type": "Text",
 "index_reference": "love god",
@@ -482,7 +482,7 @@
 {
 "content_id": "132024",
 "reference_id": 108078,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Luke",
 "media_type": "Text",
 "index_reference": "luke",
@@ -496,9 +496,9 @@
 {
 "id": "person:Luke",
 "type": "person",
-"preferred_label": "Luke",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Luke"
 }
 ]
 }
@@ -506,7 +506,7 @@
 {
 "content_id": "132062",
 "reference_id": 108116,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lystra",
 "media_type": "Text",
 "index_reference": "lystra",
@@ -520,9 +520,9 @@
 {
 "id": "place:Lystra",
 "type": "place",
-"preferred_label": "Lystra",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Lystra"
 }
 ]
 }

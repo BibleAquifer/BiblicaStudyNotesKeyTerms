@@ -2,7 +2,7 @@
 {
 "content_id": "232875",
 "reference_id": 108274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拉班",
 "media_type": "Text",
 "index_reference": "拉班",
@@ -12,13 +12,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Laban",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Laban"
+},
+{
+"id": "place:Laban",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Laban"
+}
+]
 }
 },
 {
 "content_id": "232647",
 "reference_id": 108046,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拉比",
 "media_type": "Text",
 "index_reference": "拉比",
@@ -34,7 +49,7 @@
 {
 "content_id": "232877",
 "reference_id": 108276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拉結",
 "media_type": "Text",
 "index_reference": "拉結",
@@ -44,13 +59,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rachel"
+}
+]
 }
 },
 {
 "content_id": "233022",
 "reference_id": 108421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "喇合",
 "media_type": "Text",
 "index_reference": "喇合",
@@ -60,7 +83,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rahab"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egypt"
+}
+]
 }
 }
 ]

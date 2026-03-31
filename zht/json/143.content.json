@@ -2,7 +2,7 @@
 {
 "content_id": "233105",
 "reference_id": 108504,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶布斯人",
 "media_type": "Text",
 "index_reference": "耶布斯人",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jebusites"
+}
+]
 }
 },
 {
 "content_id": "233039",
 "reference_id": 108438,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶弗他",
 "media_type": "Text",
 "index_reference": "耶弗他",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jephthah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jephthah"
+}
+]
 }
 },
 {
 "content_id": "233093",
 "reference_id": 108492,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶何耶大",
 "media_type": "Text",
 "index_reference": "耶何耶大",
@@ -44,13 +60,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jehoiada.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoiada"
+},
+{
+"id": "person:Jehoiada.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoiada"
+},
+{
+"id": "person:Jehoiada.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoiada"
+},
+{
+"id": "person:Jehoiada",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoiada"
+}
+]
 }
 },
 {
 "content_id": "233029",
 "reference_id": 108428,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶和華的使者",
 "media_type": "Text",
 "index_reference": "耶和華的使者",
@@ -66,7 +111,7 @@
 {
 "content_id": "233025",
 "reference_id": 108424,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶利哥",
 "media_type": "Text",
 "index_reference": "耶利哥",
@@ -76,13 +121,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Jericho.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jericho"
+},
+{
+"id": "place:Jericho",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jericho"
+}
+]
 }
 },
 {
 "content_id": "233108",
 "reference_id": 108507,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶利米",
 "media_type": "Text",
 "index_reference": "耶利米",
@@ -92,13 +152,70 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jeremiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Jeremiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Jeremiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Jeremiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Jeremiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Jeremiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Jeremiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeremiah"
+},
+{
+"id": "person:Jeremiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeremiah"
+}
+]
 }
 },
 {
 "content_id": "233065",
 "reference_id": 108464,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶路撒冷",
 "media_type": "Text",
 "index_reference": "耶路撒冷",
@@ -108,13 +225,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
+}
+]
 }
 },
 {
 "content_id": "233077",
 "reference_id": 108476,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶羅波安",
 "media_type": "Text",
 "index_reference": "耶羅波安",
@@ -124,13 +249,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jeroboam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeroboam"
+},
+{
+"id": "person:Jeroboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeroboam"
+}
+]
 }
 },
 {
 "content_id": "232820",
 "reference_id": 108219,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌",
 "media_type": "Text",
 "index_reference": "耶穌",
@@ -140,13 +280,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+},
+{
+"id": "person:Justus.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Justus"
+},
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barabbas"
+}
+]
 }
 },
 {
 "content_id": "232706",
 "reference_id": 108105,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌的道路",
 "media_type": "Text",
 "index_reference": "耶穌的道路",
@@ -162,7 +324,7 @@
 {
 "content_id": "232666",
 "reference_id": 108065,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶穌的再來",
 "media_type": "Text",
 "index_reference": "耶穌的再來",
@@ -178,7 +340,7 @@
 {
 "content_id": "233086",
 "reference_id": 108485,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "耶洗別",
 "media_type": "Text",
 "index_reference": "耶洗別",
@@ -188,13 +350,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jezebel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jezebel"
+}
+]
 }
 },
 {
 "content_id": "232927",
 "reference_id": 108326,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "葉忒羅",
 "media_type": "Text",
 "index_reference": "葉忒羅",
@@ -204,7 +374,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jethro",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jethro"
+}
+]
 }
 }
 ]

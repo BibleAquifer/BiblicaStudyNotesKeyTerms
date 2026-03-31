@@ -2,7 +2,7 @@
 {
 "content_id": "232415",
 "reference_id": 108446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dagon",
 "media_type": "Text",
 "index_reference": "dagon",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Dagon",
 "type": "deity",
-"preferred_label": "Dagón",
-"confidence": 0.9734,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dagón"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "232414",
 "reference_id": 108445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dalila",
 "media_type": "Text",
 "index_reference": "dalila",
@@ -40,9 +40,9 @@
 {
 "id": "person:Delilah",
 "type": "person",
-"preferred_label": "Dalila",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dalila"
 }
 ]
 }
@@ -50,7 +50,7 @@
 {
 "content_id": "232509",
 "reference_id": 108540,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Damasco",
 "media_type": "Text",
 "index_reference": "damasco",
@@ -64,9 +64,9 @@
 {
 "id": "place:Damascus",
 "type": "place",
-"preferred_label": "Damasco",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Damasco"
 }
 ]
 }
@@ -74,7 +74,7 @@
 {
 "content_id": "232413",
 "reference_id": 108444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dan",
 "media_type": "Text",
 "index_reference": "dan",
@@ -84,13 +84,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+}
+]
 }
 },
 {
 "content_id": "232529",
 "reference_id": 108560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Daniel",
 "media_type": "Text",
 "index_reference": "daniel",
@@ -104,16 +119,23 @@
 {
 "id": "person:Daniel.2",
 "type": "person",
-"preferred_label": "Daniel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Daniel"
 },
 {
 "id": "person:Daniel.3",
 "type": "person",
-"preferred_label": "Daniel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chileab"
 }
 ]
 }
@@ -121,7 +143,7 @@
 {
 "content_id": "232481",
 "reference_id": 108512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Darius",
 "media_type": "Text",
 "index_reference": "darius",
@@ -131,13 +153,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darío"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darío"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darío"
+}
+]
 }
 },
 {
 "content_id": "232418",
 "reference_id": 108449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "David",
 "media_type": "Text",
 "index_reference": "david",
@@ -157,11 +201,18 @@
 ],
 "acai": [
 {
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judá"
+},
+{
 "id": "person:David",
 "type": "person",
-"preferred_label": "David",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "David"
 }
 ]
 }
@@ -169,7 +220,7 @@
 {
 "content_id": "232402",
 "reference_id": 108433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Débora",
 "media_type": "Text",
 "index_reference": "débora",
@@ -181,18 +232,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "Débora",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "Débora",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Débora"
+},
+{
+"id": "person:Deborah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Débora"
 }
 ]
 }
@@ -200,10 +251,10 @@
 {
 "content_id": "232351",
 "reference_id": 108382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Décimo (Diezmo)",
 "media_type": "Text",
-"index_reference": "décimo (diezmo)",
+"index_reference": "décimo diezmo",
 "language": "spa",
 "review_level": "None",
 "content": "<p>Los israelitas debían ofrecer la décima parte de todo lo que tenían a Dios. Esto incluía todo lo que su ganado y tierra producía. Esto les ayudaba a recordar que todo pertenece a Dios. Les ayudaba a recordar que todo lo que tenían era un regalo de Dios. Les ayudaba a a estar llenos de alegría en la tierra que Dios les dio. Daban la décima parte de todo a Dios, compartiéndolo con los sacerdotes y levitas. También lo compartían con las personas pobres y necesitadas. La práctica de dar a Dios una décima parte de todo duró cientos de años. También se llama dar diezmo. Muchos cristianos dan diezmo a su iglesia. El diezmo puede ser de cualquier cosa que su trabajo produzca, incluyendo dinero.</p>",
@@ -216,7 +267,7 @@
 {
 "content_id": "232062",
 "reference_id": 108093,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Declaraciones de Yo soy",
 "media_type": "Text",
 "index_reference": "declaraciones de yo soy",
@@ -232,7 +283,7 @@
 {
 "content_id": "232086",
 "reference_id": 108117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Derbe",
 "media_type": "Text",
 "index_reference": "derbe",
@@ -246,9 +297,9 @@
 {
 "id": "place:Derbe",
 "type": "place",
-"preferred_label": "Derbe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Derbe"
 }
 ]
 }
@@ -256,7 +307,7 @@
 {
 "content_id": "232239",
 "reference_id": 108270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Derechos del hijo mayor",
 "media_type": "Text",
 "index_reference": "derechos del hijo mayor",
@@ -272,7 +323,7 @@
 {
 "content_id": "232181",
 "reference_id": 108212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Descanso",
 "media_type": "Text",
 "index_reference": "descanso",
@@ -288,7 +339,7 @@
 {
 "content_id": "232434",
 "reference_id": 108465,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Deshonra y honor",
 "media_type": "Text",
 "index_reference": "deshonra y honor",
@@ -304,7 +355,7 @@
 {
 "content_id": "232335",
 "reference_id": 108366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Día de la Expiación",
 "media_type": "Text",
 "index_reference": "día de la expiación",
@@ -328,7 +379,7 @@
 {
 "content_id": "232182",
 "reference_id": 108213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Día de Sábado",
 "media_type": "Text",
 "index_reference": "día de sábado",
@@ -344,7 +395,7 @@
 {
 "content_id": "232024",
 "reference_id": 108055,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Día del juicio",
 "media_type": "Text",
 "index_reference": "día del juicio",
@@ -368,7 +419,7 @@
 {
 "content_id": "232141",
 "reference_id": 108172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Día del Señor",
 "media_type": "Text",
 "index_reference": "día del señor",
@@ -384,7 +435,7 @@
 {
 "content_id": "232540",
 "reference_id": 108571,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Día del Señor",
 "media_type": "Text",
 "index_reference": "día del señor",
@@ -415,7 +466,7 @@
 {
 "content_id": "232185",
 "reference_id": 108216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diablo",
 "media_type": "Text",
 "index_reference": "diablo",
@@ -433,13 +484,21 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Satanás"
+}
+]
 }
 },
 {
 "content_id": "232069",
 "reference_id": 108100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diáconos",
 "media_type": "Text",
 "index_reference": "diáconos",
@@ -455,7 +514,7 @@
 {
 "content_id": "232300",
 "reference_id": 108331,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diez Mandamientos",
 "media_type": "Text",
 "index_reference": "diez mandamientos",
@@ -479,7 +538,7 @@
 {
 "content_id": "232277",
 "reference_id": 108308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diez plagas",
 "media_type": "Text",
 "index_reference": "diez plagas",
@@ -495,7 +554,7 @@
 {
 "content_id": "232203",
 "reference_id": 108234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diluvio",
 "media_type": "Text",
 "index_reference": "diluvio",
@@ -519,7 +578,7 @@
 {
 "content_id": "232252",
 "reference_id": 108283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dina",
 "media_type": "Text",
 "index_reference": "dina",
@@ -533,9 +592,9 @@
 {
 "id": "person:Dinah",
 "type": "person",
-"preferred_label": "Dina",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dina"
 }
 ]
 }
@@ -543,7 +602,7 @@
 {
 "content_id": "232168",
 "reference_id": 108199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dios",
 "media_type": "Text",
 "index_reference": "dios",
@@ -570,11 +629,11 @@
 ],
 "acai": [
 {
-"id": "deity:El-berith",
+"id": "deity:Lord",
 "type": "deity",
-"preferred_label": "dios",
-"confidence": 0.9406,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehová"
 }
 ]
 }
@@ -582,7 +641,7 @@
 {
 "content_id": "232198",
 "reference_id": 108229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dios elige",
 "media_type": "Text",
 "index_reference": "dios elige",
@@ -598,7 +657,7 @@
 {
 "content_id": "232536",
 "reference_id": 108567,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dios Eterno",
 "media_type": "Text",
 "index_reference": "dios eterno",
@@ -608,13 +667,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehová"
+}
+]
 }
 },
 {
 "content_id": "232009",
 "reference_id": 108040,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Discípulo",
 "media_type": "Text",
 "index_reference": "discípulo",
@@ -645,7 +712,7 @@
 {
 "content_id": "232483",
 "reference_id": 108514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Divorcio",
 "media_type": "Text",
 "index_reference": "divorcio",
@@ -669,7 +736,7 @@
 {
 "content_id": "232136",
 "reference_id": 108167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Docetismo",
 "media_type": "Text",
 "index_reference": "docetismo",
@@ -685,7 +752,7 @@
 {
 "content_id": "232118",
 "reference_id": 108149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dones del Espíritu",
 "media_type": "Text",
 "index_reference": "dones del espíritu",

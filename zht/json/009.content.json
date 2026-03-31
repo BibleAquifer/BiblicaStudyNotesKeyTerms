@@ -2,7 +2,7 @@
 {
 "content_id": "232777",
 "reference_id": 108176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "別迦摩",
 "media_type": "Text",
 "index_reference": "別迦摩",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Pergamum",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pergamum"
+}
+]
 }
 },
 {
 "content_id": "232896",
 "reference_id": 108295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "別是巴",
 "media_type": "Text",
 "index_reference": "別是巴",
@@ -28,7 +36,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beersheba"
+}
+]
 }
 }
 ]

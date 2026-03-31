@@ -2,7 +2,7 @@
 {
 "content_id": "203480",
 "reference_id": 108345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cemburu",
 "media_type": "Text",
 "index_reference": "cemburu",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tuhan"
+}
+]
 }
 },
 {
 "content_id": "203678",
 "reference_id": 108543,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ciptaan Baru",
 "media_type": "Text",
 "index_reference": "ciptaan baru",

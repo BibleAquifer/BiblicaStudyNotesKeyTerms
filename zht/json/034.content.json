@@ -2,7 +2,7 @@
 {
 "content_id": "232823",
 "reference_id": 108222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "該隱",
 "media_type": "Text",
 "index_reference": "該隱",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Cain",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cain"
+}
+]
 }
 }
 ]

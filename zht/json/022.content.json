@@ -2,7 +2,7 @@
 {
 "content_id": "232675",
 "reference_id": 108074,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "地獄",
 "media_type": "Text",
 "index_reference": "地獄",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "233176",
 "reference_id": 108575,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "地中海",
 "media_type": "Text",
 "index_reference": "地中海",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mediterranean Sea"
+}
+]
 }
 },
 {
 "content_id": "233034",
 "reference_id": 108433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "底波拉",
 "media_type": "Text",
 "index_reference": "底波拉",
@@ -44,13 +60,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Deborah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Deborah"
+},
+{
+"id": "person:Deborah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Deborah"
+}
+]
 }
 },
 {
 "content_id": "232884",
 "reference_id": 108283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "底拿",
 "media_type": "Text",
 "index_reference": "底拿",
@@ -60,13 +91,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Dinah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dinah"
+}
+]
 }
 },
 {
 "content_id": "232776",
 "reference_id": 108175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "第二次死",
 "media_type": "Text",
 "index_reference": "第二次死",

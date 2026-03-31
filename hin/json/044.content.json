@@ -2,7 +2,7 @@
 {
 "content_id": "183068",
 "reference_id": 108174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "स्मुरना",
 "media_type": "Text",
 "index_reference": "स्मुरना",
@@ -16,9 +16,9 @@
 {
 "id": "place:Smyrna",
 "type": "place",
-"preferred_label": "स्मुरना",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "स्मुरना"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "232835",
 "reference_id": 108234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "洪水",
 "media_type": "Text",
 "index_reference": "洪水",
@@ -26,7 +26,7 @@
 {
 "content_id": "232921",
 "reference_id": 108320,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "紅海",
 "media_type": "Text",
 "index_reference": "紅海",
@@ -36,7 +36,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Red Sea"
+}
+]
 }
 }
 ]

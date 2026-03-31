@@ -2,7 +2,7 @@
 {
 "content_id": "232790",
 "reference_id": 108189,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "一千年",
 "media_type": "Text",
 "index_reference": "一千年",
@@ -18,7 +18,7 @@
 {
 "content_id": "232733",
 "reference_id": 108132,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "伊比鳩魯派",
 "media_type": "Text",
 "index_reference": "伊比鳩魯派",
@@ -28,13 +28,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Epicurean",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Epicureans"
+}
+]
 }
 },
 {
 "content_id": "232808",
 "reference_id": 108207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "伊甸園",
 "media_type": "Text",
 "index_reference": "伊甸園",
@@ -44,13 +52,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Eden.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Garden of Eden"
+}
+]
 }
 },
 {
 "content_id": "232682",
 "reference_id": 108081,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "伊利莎白",
 "media_type": "Text",
 "index_reference": "伊利莎白",
@@ -60,13 +76,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Elizabeth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elizabeth"
+}
+]
 }
 },
 {
 "content_id": "232705",
 "reference_id": 108104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "衣索匹亞太監",
 "media_type": "Text",
 "index_reference": "衣索匹亞太監",
@@ -82,7 +106,7 @@
 {
 "content_id": "232760",
 "reference_id": 108159,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以巴弗",
 "media_type": "Text",
 "index_reference": "以巴弗",
@@ -92,13 +116,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Epaphras",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Epaphras"
+}
+]
 }
 },
 {
 "content_id": "232759",
 "reference_id": 108158,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以巴弗提",
 "media_type": "Text",
 "index_reference": "以巴弗提",
@@ -108,13 +140,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Epaphroditus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Epaphroditus"
+}
+]
 }
 },
 {
 "content_id": "233012",
 "reference_id": 108411,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以東",
 "media_type": "Text",
 "index_reference": "以東",
@@ -124,13 +164,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esau"
+},
+{
+"id": "place:Edom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Edom"
+}
+]
 }
 },
 {
 "content_id": "232899",
 "reference_id": 108298,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以法蓮",
 "media_type": "Text",
 "index_reference": "以法蓮",
@@ -140,13 +195,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+}
+]
 }
 },
 {
 "content_id": "232736",
 "reference_id": 108135,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以弗所",
 "media_type": "Text",
 "index_reference": "以弗所",
@@ -156,13 +233,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephesus"
+}
+]
 }
 },
 {
 "content_id": "232716",
 "reference_id": 108115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以哥念",
 "media_type": "Text",
 "index_reference": "以哥念",
@@ -172,13 +257,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Iconium",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Iconium"
+}
+]
 }
 },
 {
 "content_id": "233033",
 "reference_id": 108432,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以笏",
 "media_type": "Text",
 "index_reference": "以笏",
@@ -188,13 +281,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ehud.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ehud"
+},
+{
+"id": "person:Ehud",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ehud"
+}
+]
 }
 },
 {
 "content_id": "233052",
 "reference_id": 108451,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以利",
 "media_type": "Text",
 "index_reference": "以利",
@@ -204,13 +312,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Eli",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eli"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "233088",
 "reference_id": 108487,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以利沙",
 "media_type": "Text",
 "index_reference": "以利沙",
@@ -220,13 +343,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Elisha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elisha"
+}
+]
 }
 },
 {
 "content_id": "233087",
 "reference_id": 108486,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以利亞",
 "media_type": "Text",
 "index_reference": "以利亞",
@@ -236,13 +367,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Elijah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Elijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Elijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+},
+{
+"id": "person:Elijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elijah"
+}
+]
 }
 },
 {
 "content_id": "232958",
 "reference_id": 108357,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以利亞撒",
 "media_type": "Text",
 "index_reference": "以利亞撒",
@@ -252,13 +412,70 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Eleazar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+},
+{
+"id": "person:Eleazar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eleazar"
+}
+]
 }
 },
 {
 "content_id": "233139",
 "reference_id": 108538,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以馬內利",
 "media_type": "Text",
 "index_reference": "以馬內利",
@@ -268,13 +485,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+}
+]
 }
 },
 {
 "content_id": "232829",
 "reference_id": 108228,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以諾",
 "media_type": "Text",
 "index_reference": "以諾",
@@ -284,13 +509,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Enoch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Enoch"
+},
+{
+"id": "person:Enoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Enoch"
+}
+]
 }
 },
 {
 "content_id": "232770",
 "reference_id": 108169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以諾書",
 "media_type": "Text",
 "index_reference": "以諾書",
@@ -306,7 +546,7 @@
 {
 "content_id": "232862",
 "reference_id": 108261,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以撒",
 "media_type": "Text",
 "index_reference": "以撒",
@@ -316,13 +556,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Isaac",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isaac"
+}
+]
 }
 },
 {
 "content_id": "233098",
 "reference_id": 108497,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以賽亞",
 "media_type": "Text",
 "index_reference": "以賽亞",
@@ -332,13 +580,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Isaiah"
+}
+]
 }
 },
 {
 "content_id": "232870",
 "reference_id": 108269,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以掃",
 "media_type": "Text",
 "index_reference": "以掃",
@@ -348,13 +604,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esau"
+}
+]
 }
 },
 {
 "content_id": "232881",
 "reference_id": 108280,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以色列",
 "media_type": "Text",
 "index_reference": "以色列",
@@ -372,13 +636,28 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Israel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+},
+{
+"id": "place:Israel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israel"
+}
+]
 }
 },
 {
 "content_id": "232863",
 "reference_id": 108262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以實瑪利",
 "media_type": "Text",
 "index_reference": "以實瑪利",
@@ -388,13 +667,56 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ishmael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ishmael"
+}
+]
 }
 },
 {
 "content_id": "233114",
 "reference_id": 108513,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以斯拉",
 "media_type": "Text",
 "index_reference": "以斯拉",
@@ -404,13 +726,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ezra.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezra"
+},
+{
+"id": "person:Ezra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezra"
+}
+]
 }
 },
 {
 "content_id": "233119",
 "reference_id": 108518,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以斯帖",
 "media_type": "Text",
 "index_reference": "以斯帖",
@@ -420,13 +757,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Esther",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esther"
+}
+]
 }
 },
 {
 "content_id": "233156",
 "reference_id": 108555,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "以西結",
 "media_type": "Text",
 "index_reference": "以西結",
@@ -436,13 +781,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ezekiel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezekiel"
+}
+]
 }
 },
 {
 "content_id": "232897",
 "reference_id": 108296,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "異象",
 "media_type": "Text",
 "index_reference": "異象",
@@ -460,7 +813,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Vision"
+}
+]
 }
 }
 ]

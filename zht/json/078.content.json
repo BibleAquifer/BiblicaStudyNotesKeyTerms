@@ -2,7 +2,7 @@
 {
 "content_id": "233177",
 "reference_id": 108576,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "彌迦",
 "media_type": "Text",
 "index_reference": "彌迦",
@@ -12,13 +12,63 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Micah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaiah"
+},
+{
+"id": "person:Mica",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mica"
+}
+]
 }
 },
 {
 "content_id": "233128",
 "reference_id": 108527,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "彌賽亞",
 "media_type": "Text",
 "index_reference": "彌賽亞",
@@ -28,13 +78,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+}
+]
 }
 },
 {
 "content_id": "232904",
 "reference_id": 108303,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "米甸人",
 "media_type": "Text",
 "index_reference": "米甸人",
@@ -44,13 +102,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midianites"
+}
+]
 }
 },
 {
 "content_id": "233068",
 "reference_id": 108467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "米非波設",
 "media_type": "Text",
 "index_reference": "米非波設",
@@ -60,13 +126,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Mephibosheth.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mephibosheth"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mephibosheth"
+}
+]
 }
 },
 {
 "content_id": "233166",
 "reference_id": 108565,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "米迦勒",
 "media_type": "Text",
 "index_reference": "米迦勒",
@@ -76,13 +157,91 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Michael.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michael"
+}
+]
 }
 },
 {
 "content_id": "232923",
 "reference_id": 108322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "米利暗",
 "media_type": "Text",
 "index_reference": "米利暗",
@@ -92,13 +251,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Miriam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miriam"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miriam"
+}
+]
 }
 },
 {
 "content_id": "232995",
 "reference_id": 108394,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "米利巴",
 "media_type": "Text",
 "index_reference": "米利巴",
@@ -108,7 +282,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Meribah.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Meribah"
+},
+{
+"id": "place:Meribah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Meribah"
+}
+]
 }
 }
 ]

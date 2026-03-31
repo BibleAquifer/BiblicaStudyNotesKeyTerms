@@ -2,7 +2,7 @@
 {
 "content_id": "232642",
 "reference_id": 108041,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "安得烈",
 "media_type": "Text",
 "index_reference": "安得烈",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Andrew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Andrew"
+}
+]
 }
 },
 {
 "content_id": "232813",
 "reference_id": 108212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "安息",
 "media_type": "Text",
 "index_reference": "安息",
@@ -34,7 +42,7 @@
 {
 "content_id": "232814",
 "reference_id": 108213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "安息日",
 "media_type": "Text",
 "index_reference": "安息日",
@@ -50,7 +58,7 @@
 {
 "content_id": "232707",
 "reference_id": 108106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "按手",
 "media_type": "Text",
 "index_reference": "按手",

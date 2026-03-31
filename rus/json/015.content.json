@@ -2,7 +2,7 @@
 {
 "content_id": "193403",
 "reference_id": 108321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Облако",
 "media_type": "Text",
 "index_reference": "облако",
@@ -18,7 +18,7 @@
 {
 "content_id": "193248",
 "reference_id": 108166,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Облако свидетелей",
 "media_type": "Text",
 "index_reference": "облако свидетелей",
@@ -34,7 +34,7 @@
 {
 "content_id": "193339",
 "reference_id": 108257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Обрезание",
 "media_type": "Text",
 "index_reference": "обрезание",
@@ -44,13 +44,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Circumcision"
+}
+]
 }
 },
 {
 "content_id": "193431",
 "reference_id": 108349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Одежда священников",
 "media_type": "Text",
 "index_reference": "одежда священников",
@@ -66,7 +74,7 @@
 {
 "content_id": "193393",
 "reference_id": 108311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ожесточённый",
 "media_type": "Text",
 "index_reference": "ожесточённый",
@@ -76,29 +84,45 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Stubborn",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Stubborn"
+}
+]
 }
 },
 {
 "content_id": "193224",
 "reference_id": 108142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Оливковое дерево (маслина)",
 "media_type": "Text",
-"index_reference": "оливковое дерево (маслина)",
+"index_reference": "оливковое дерево маслина",
 "language": "rus",
 "review_level": "None",
 "content": "<p><span>Оливковые деревья растут в средиземноморском регионе. Их плоды употребляют в пищу, из них изготавливают масло и лекарство. Люди также используют древесину оливковых деревьев. Библейские пророки использовали образ маслины, чтобы раскрыть духовные истины. Так, например, листья маслины символизировали мир. Священники мазали оливковым маслом (елеем) предметы или людей, чтобы освятить их. Елей также символизировал Святого Духа. Оливковое масло получали путём измельчения плодов, и это символизировало страдания Иисуса, которые Он пережил на Елеонской горе перед самой смертью. Маслины также символизируют наполненных Святым Духом Божьих детей. </span></p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+}
+]
 }
 },
 {
 "content_id": "193243",
 "reference_id": 108161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Онисим",
 "media_type": "Text",
 "index_reference": "онисим",
@@ -112,9 +136,9 @@
 {
 "id": "person:Onesimus",
 "type": "person",
-"preferred_label": "Онисим",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Онисим"
 }
 ]
 }
@@ -122,7 +146,7 @@
 {
 "content_id": "193497",
 "reference_id": 108415,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Орудие Бога",
 "media_type": "Text",
 "index_reference": "орудие бога",
@@ -138,7 +162,7 @@
 {
 "content_id": "193652",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Осия",
 "media_type": "Text",
 "index_reference": "осия",
@@ -152,30 +176,9 @@
 {
 "id": "person:Hosea",
 "type": "person",
-"preferred_label": "Осия",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hoshea",
-"type": "person",
-"preferred_label": "Осия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hoshea.2",
-"type": "person",
-"preferred_label": "Осия",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hoshea.3",
-"type": "person",
-"preferred_label": "Осия",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Осия"
 }
 ]
 }
@@ -183,10 +186,10 @@
 {
 "content_id": "193440",
 "reference_id": 108358,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Отделить (посвятить)",
 "media_type": "Text",
-"index_reference": "отделить (посвятить)",
+"index_reference": "отделить посвятить",
 "language": "rus",
 "review_level": "None",
 "content": "<p>В Ветхом Завете слово «отделить» употреблялось в двух значениях. Первое значение было связано с ситуациями, когда людей (пророков и священников) или предметы <strong>посвящали</strong> Богу. Священники и пророки должны были служить Богу особым образом. Одежда, предметы, животные и земля также могли быть отделены для Господа. Это означало, что они не использовались в повседневной жизни, а только для служения Богу. Второе значение было вязано с ситуациями, когда предметы или люди должны были быть отделены для уничтожения. Людей отделяли от общества тогда, когда Бог хотел произвести над ними Свой суд за их нечестивые дела.</p>",
@@ -199,7 +202,7 @@
 {
 "content_id": "193394",
 "reference_id": 108312,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Отец",
 "media_type": "Text",
 "index_reference": "отец",
@@ -211,11 +214,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Athach",
-"type": "place",
-"preferred_label": "Атах",
-"confidence": 0.8655,
-"match_method": "embedding"
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -223,7 +226,7 @@
 {
 "content_id": "193353",
 "reference_id": 108271,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Отцовское благословение",
 "media_type": "Text",
 "index_reference": "отцовское благословение",

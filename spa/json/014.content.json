@@ -2,7 +2,7 @@
 {
 "content_id": "232457",
 "reference_id": 108488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Naaman",
 "media_type": "Text",
 "index_reference": "naaman",
@@ -14,39 +14,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Naaman",
-"type": "person",
-"preferred_label": "Naamán",
-"confidence": 0.9731,
-"match_method": "embedding"
-},
-{
 "id": "person:Naaman.2",
 "type": "person",
-"preferred_label": "Naamán",
-"confidence": 0.9731,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naamán"
 },
 {
 "id": "person:Naaman.3",
 "type": "person",
-"preferred_label": "Naamán",
-"confidence": 0.9731,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naamán"
 },
 {
 "id": "person:Naaman.4",
 "type": "person",
-"preferred_label": "Naamán",
-"confidence": 0.9731,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naamán"
 },
 {
-"id": "place:Naamah.2",
-"type": "place",
-"preferred_label": "Naamah",
-"confidence": 0.8795,
-"match_method": "embedding"
+"id": "person:Naaman",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naamán"
 }
 ]
 }
@@ -54,7 +47,7 @@
 {
 "content_id": "232470",
 "reference_id": 108501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nabucodonosor",
 "media_type": "Text",
 "index_reference": "nabucodonosor",
@@ -68,9 +61,9 @@
 {
 "id": "person:Nebuchadnezzar",
 "type": "person",
-"preferred_label": "Nabucodonosor",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nabucodonosor"
 }
 ]
 }
@@ -78,7 +71,7 @@
 {
 "content_id": "232058",
 "reference_id": 108089,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nacer de nuevo",
 "media_type": "Text",
 "index_reference": "nacer de nuevo",
@@ -94,7 +87,7 @@
 {
 "content_id": "232325",
 "reference_id": 108356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nadab y Abiú",
 "media_type": "Text",
 "index_reference": "nadab y abiú",
@@ -104,16 +97,52 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abihu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abiú"
+},
+{
+"id": "person:Nadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+},
+{
+"id": "person:Nadab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+},
+{
+"id": "person:Nadab.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+},
+{
+"id": "person:Nadab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadab"
+}
+]
 }
 },
 {
 "content_id": "232439",
 "reference_id": 108470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nathan (Natán)",
 "media_type": "Text",
-"index_reference": "nathan (natán)",
+"index_reference": "nathan natán",
 "language": "spa",
 "review_level": "None",
 "content": "<p>Un profeta durante el tiempo en que David era rey. Fue un consejero cercano de David. Le dio a David el mensaje sobre las promesas de Dios para la línea familiar de David. Desafió a David cuando David hizo cosas malas. Natán auxilió a Salomón como rey después de David.</p>",
@@ -122,46 +151,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nathan",
-"type": "person",
-"preferred_label": "Nathán",
-"confidence": 0.874,
-"match_method": "embedding"
-},
-{
 "id": "person:Nathan.2",
 "type": "person",
-"preferred_label": "Nathán",
-"confidence": 0.874,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathán"
 },
 {
 "id": "person:Nathan.3",
 "type": "person",
-"preferred_label": "Nathán",
-"confidence": 0.874,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathán"
 },
 {
 "id": "person:Nathan.4",
 "type": "person",
-"preferred_label": "Nathán",
-"confidence": 0.874,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathán"
 },
 {
 "id": "person:Nathan.5",
 "type": "person",
-"preferred_label": "Nathán",
-"confidence": 0.874,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathán"
 },
 {
 "id": "person:Nathan.6",
 "type": "person",
-"preferred_label": "Nathán",
-"confidence": 0.874,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathán"
+},
+{
+"id": "person:Nathan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathán"
 }
 ]
 }
@@ -169,7 +198,7 @@
 {
 "content_id": "232040",
 "reference_id": 108071,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nazaret",
 "media_type": "Text",
 "index_reference": "nazaret",
@@ -183,9 +212,9 @@
 {
 "id": "place:Nazareth",
 "type": "place",
-"preferred_label": "Nazaret",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nazaret"
 }
 ]
 }
@@ -193,7 +222,7 @@
 {
 "content_id": "232353",
 "reference_id": 108384,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nazireos",
 "media_type": "Text",
 "index_reference": "nazireos",
@@ -203,13 +232,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazirites"
+}
+]
 }
 },
 {
 "content_id": "232484",
 "reference_id": 108515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nehemías",
 "media_type": "Text",
 "index_reference": "nehemías",
@@ -221,25 +258,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nehemiah",
-"type": "person",
-"preferred_label": "Nehemías",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Nehemiah.2",
 "type": "person",
-"preferred_label": "Nehemías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nehemías"
 },
 {
 "id": "person:Nehemiah.3",
 "type": "person",
-"preferred_label": "Nehemías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nehemías"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nehemías"
 }
 ]
 }
@@ -247,7 +284,7 @@
 {
 "content_id": "232057",
 "reference_id": 108088,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nicodemo",
 "media_type": "Text",
 "index_reference": "nicodemo",
@@ -261,9 +298,9 @@
 {
 "id": "person:Nicodemus",
 "type": "person",
-"preferred_label": "Nicodemo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nicodemo"
 }
 ]
 }
@@ -271,7 +308,7 @@
 {
 "content_id": "232543",
 "reference_id": 108574,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nínive",
 "media_type": "Text",
 "index_reference": "nínive",
@@ -283,18 +320,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Nineveh",
-"type": "group",
-"preferred_label": "Nínive",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Nineveh",
 "type": "place",
-"preferred_label": "Nínive",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nínive"
 }
 ]
 }
@@ -302,7 +332,7 @@
 {
 "content_id": "232199",
 "reference_id": 108230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Noé",
 "media_type": "Text",
 "index_reference": "noé",
@@ -312,13 +342,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noé"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noé"
+}
+]
 }
 },
 {
 "content_id": "232194",
 "reference_id": 108225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nombre",
 "media_type": "Text",
 "index_reference": "nombre",
@@ -332,9 +377,16 @@
 {
 "id": "keyterm:Name",
 "type": "keyterm",
-"preferred_label": "nombre",
-"confidence": 0.916,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "nombre"
+},
+{
+"id": "person:Naam",
+"type": "person",
+"confidence": 0.964,
+"match_method": "embedding",
+"preferred_label": "Naham"
 }
 ]
 }
@@ -342,7 +394,7 @@
 {
 "content_id": "232290",
 "reference_id": 108321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nube",
 "media_type": "Text",
 "index_reference": "nube",
@@ -358,7 +410,7 @@
 {
 "content_id": "232135",
 "reference_id": 108166,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nube de testigos",
 "media_type": "Text",
 "index_reference": "nube de testigos",
@@ -374,7 +426,7 @@
 {
 "content_id": "232522",
 "reference_id": 108553,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nueva alianza",
 "media_type": "Text",
 "index_reference": "nueva alianza",
@@ -390,7 +442,7 @@
 {
 "content_id": "650774",
 "reference_id": 209393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nueva Canción",
 "media_type": "Text",
 "index_reference": "nueva canción",
@@ -419,7 +471,7 @@
 {
 "content_id": "232512",
 "reference_id": 108543,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nueva creación",
 "media_type": "Text",
 "index_reference": "nueva creación",
@@ -435,7 +487,7 @@
 {
 "content_id": "232518",
 "reference_id": 108549,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nueva Jerusalén",
 "media_type": "Text",
 "index_reference": "nueva jerusalén",
@@ -451,7 +503,7 @@
 {
 "content_id": "232497",
 "reference_id": 108528,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nuevo Testamento",
 "media_type": "Text",
 "index_reference": "nuevo testamento",
@@ -467,7 +519,7 @@
 {
 "content_id": "232152",
 "reference_id": 108183,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Números",
 "media_type": "Text",
 "index_reference": "números",

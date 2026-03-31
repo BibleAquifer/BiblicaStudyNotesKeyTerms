@@ -2,7 +2,7 @@
 {
 "content_id": "132252",
 "reference_id": 108306,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aaron",
 "media_type": "Text",
 "index_reference": "aaron",
@@ -31,9 +31,9 @@
 {
 "id": "person:Aaron",
 "type": "person",
-"preferred_label": "Aaron",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Aaron"
 }
 ]
 }
@@ -41,10 +41,10 @@
 {
 "content_id": "132255",
 "reference_id": 108309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aaron’s walking stick",
 "media_type": "Text",
-"index_reference": "aaron’s walking stick",
+"index_reference": "aarons walking stick",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The stick Aaron used when God did signs and wonders through him. Later, God caused it to grow buds, flowers and almonds. This showed that God had chosen Aaron’s family line to serve him as priests. Aaron’s walking stick was kept in the ark of the covenant.</p>",
@@ -57,7 +57,7 @@
 {
 "content_id": "132087",
 "reference_id": 108141,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abba",
 "media_type": "Text",
 "index_reference": "abba",
@@ -71,9 +71,9 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -81,7 +81,7 @@
 {
 "content_id": "132167",
 "reference_id": 108221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abel",
 "media_type": "Text",
 "index_reference": "abel",
@@ -95,16 +95,16 @@
 {
 "id": "person:Abel",
 "type": "person",
-"preferred_label": "Abel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abel"
 },
 {
 "id": "place:Abel",
 "type": "place",
-"preferred_label": "Abel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abel"
 }
 ]
 }
@@ -112,7 +112,7 @@
 {
 "content_id": "132405",
 "reference_id": 108459,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abiathar",
 "media_type": "Text",
 "index_reference": "abiathar",
@@ -126,9 +126,9 @@
 {
 "id": "person:Abiathar",
 "type": "person",
-"preferred_label": "Abiathar",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abiathar"
 }
 ]
 }
@@ -136,7 +136,7 @@
 {
 "content_id": "132406",
 "reference_id": 108460,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abigail",
 "media_type": "Text",
 "index_reference": "abigail",
@@ -150,16 +150,16 @@
 {
 "id": "person:Abigail.2",
 "type": "person",
-"preferred_label": "Abigail",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abigail"
 },
 {
 "id": "person:Abigail",
 "type": "person",
-"preferred_label": "Abigail",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abigail"
 }
 ]
 }
@@ -167,7 +167,7 @@
 {
 "content_id": "132427",
 "reference_id": 108481,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abijah",
 "media_type": "Text",
 "index_reference": "abijah",
@@ -181,51 +181,51 @@
 {
 "id": "person:Abijah.2",
 "type": "person",
-"preferred_label": "Abijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abijah"
 },
 {
 "id": "person:Abijah.3",
 "type": "person",
-"preferred_label": "Abijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abijah"
 },
 {
 "id": "person:Abijah.4",
 "type": "person",
-"preferred_label": "Abijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abijah"
 },
 {
 "id": "person:Abijah.5",
 "type": "person",
-"preferred_label": "Abijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abijah"
 },
 {
 "id": "person:Abijah.6",
 "type": "person",
-"preferred_label": "Abijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abijah"
 },
 {
 "id": "person:Abijah.7",
 "type": "person",
-"preferred_label": "Abijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abijah"
 },
 {
 "id": "person:Abi",
 "type": "person",
-"preferred_label": "Abi",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abi"
 }
 ]
 }
@@ -233,7 +233,7 @@
 {
 "content_id": "132386",
 "reference_id": 108440,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abimelek",
 "media_type": "Text",
 "index_reference": "abimelek",
@@ -247,23 +247,23 @@
 {
 "id": "person:Abimelech.2",
 "type": "person",
-"preferred_label": "Abimelech",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abimelech"
 },
 {
 "id": "person:Achish",
 "type": "person",
-"preferred_label": "Achish",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Achish"
 },
 {
 "id": "person:Abimelech",
 "type": "person",
-"preferred_label": "Abimelech",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abimelech"
 }
 ]
 }
@@ -271,7 +271,7 @@
 {
 "content_id": "132189",
 "reference_id": 108243,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abraham",
 "media_type": "Text",
 "index_reference": "abraham",
@@ -293,9 +293,9 @@
 {
 "id": "person:Abraham",
 "type": "person",
-"preferred_label": "Abraham",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Abraham"
 }
 ]
 }
@@ -303,7 +303,7 @@
 {
 "content_id": "132418",
 "reference_id": 108472,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Absalom",
 "media_type": "Text",
 "index_reference": "absalom",
@@ -317,9 +317,9 @@
 {
 "id": "person:Absalom",
 "type": "person",
-"preferred_label": "Absalom",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Absalom"
 }
 ]
 }
@@ -327,7 +327,7 @@
 {
 "content_id": "132132",
 "reference_id": 108186,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abyss",
 "media_type": "Text",
 "index_reference": "abyss",
@@ -349,9 +349,9 @@
 {
 "id": "keyterm:Abyss",
 "type": "keyterm",
-"preferred_label": "Abyss",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Abyss"
 }
 ]
 }
@@ -359,7 +359,7 @@
 {
 "content_id": "132097",
 "reference_id": 108151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Achaia",
 "media_type": "Text",
 "index_reference": "achaia",
@@ -373,9 +373,9 @@
 {
 "id": "place:Achaia",
 "type": "place",
-"preferred_label": "Achaia",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Achaia"
 }
 ]
 }
@@ -383,7 +383,7 @@
 {
 "content_id": "132372",
 "reference_id": 108426,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Achan",
 "media_type": "Text",
 "index_reference": "achan",
@@ -397,9 +397,9 @@
 {
 "id": "person:Achan",
 "type": "person",
-"preferred_label": "Achan",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Achan"
 }
 ]
 }
@@ -407,7 +407,7 @@
 {
 "content_id": "132483",
 "reference_id": 108537,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Action of prophecy",
 "media_type": "Text",
 "index_reference": "action of prophecy",
@@ -423,7 +423,7 @@
 {
 "content_id": "132010",
 "reference_id": 108064,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "AD",
 "media_type": "Text",
 "index_reference": "ad",
@@ -439,7 +439,7 @@
 {
 "content_id": "132007",
 "reference_id": 108061,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "AD 70",
 "media_type": "Text",
 "index_reference": "ad 70",
@@ -455,7 +455,7 @@
 {
 "content_id": "132149",
 "reference_id": 108203,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adam",
 "media_type": "Text",
 "index_reference": "adam",
@@ -469,16 +469,16 @@
 {
 "id": "person:Adam",
 "type": "person",
-"preferred_label": "Adam",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Adam"
 },
 {
 "id": "place:Adam",
 "type": "place",
-"preferred_label": "Adam",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Adam"
 }
 ]
 }
@@ -486,7 +486,7 @@
 {
 "content_id": "132420",
 "reference_id": 108474,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adonijah",
 "media_type": "Text",
 "index_reference": "adonijah",
@@ -500,23 +500,23 @@
 {
 "id": "person:Adonijah.2",
 "type": "person",
-"preferred_label": "Adonijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Adonijah"
 },
 {
 "id": "person:Adonijah.3",
 "type": "person",
-"preferred_label": "Adonijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Adonijah"
 },
 {
 "id": "person:Adonijah",
 "type": "person",
-"preferred_label": "Adonijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Adonijah"
 }
 ]
 }
@@ -524,7 +524,7 @@
 {
 "content_id": "132086",
 "reference_id": 108140,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adopted",
 "media_type": "Text",
 "index_reference": "adopted",
@@ -540,7 +540,7 @@
 {
 "content_id": "132430",
 "reference_id": 108484,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahab",
 "media_type": "Text",
 "index_reference": "ahab",
@@ -554,16 +554,16 @@
 {
 "id": "person:Ahab.2",
 "type": "person",
-"preferred_label": "Ahab",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahab"
 },
 {
 "id": "person:Ahab",
 "type": "person",
-"preferred_label": "Ahab",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahab"
 }
 ]
 }
@@ -571,7 +571,7 @@
 {
 "content_id": "132423",
 "reference_id": 108477,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahijah",
 "media_type": "Text",
 "index_reference": "ahijah",
@@ -585,58 +585,58 @@
 {
 "id": "person:Ahijah.2",
 "type": "person",
-"preferred_label": "Ahijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahijah"
 },
 {
 "id": "person:Ahijah.3",
 "type": "person",
-"preferred_label": "Ahijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahijah"
 },
 {
 "id": "person:Ahijah.4",
 "type": "person",
-"preferred_label": "Ahijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahijah"
 },
 {
 "id": "person:Ahijah.5",
 "type": "person",
-"preferred_label": "Ahijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahijah"
 },
 {
 "id": "person:Ahijah.6",
 "type": "person",
-"preferred_label": "Ahijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahijah"
 },
 {
 "id": "person:Ahijah.7",
 "type": "person",
-"preferred_label": "Ahijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahijah"
 },
 {
 "id": "person:Ahimelech",
 "type": "person",
-"preferred_label": "Ahimelech",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahimelech"
 },
 {
 "id": "person:Ahijah",
 "type": "person",
-"preferred_label": "Ahijah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahijah"
 }
 ]
 }
@@ -644,7 +644,7 @@
 {
 "content_id": "132404",
 "reference_id": 108458,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ahimelek",
 "media_type": "Text",
 "index_reference": "ahimelek",
@@ -658,23 +658,23 @@
 {
 "id": "person:Ahimelech.2",
 "type": "person",
-"preferred_label": "Ahimelech",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahimelech"
 },
 {
 "id": "person:Ahimelech.3",
 "type": "person",
-"preferred_label": "Ahimelech",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahimelech"
 },
 {
 "id": "person:Ahimelech",
 "type": "person",
-"preferred_label": "Ahimelech",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ahimelech"
 }
 ]
 }
@@ -682,7 +682,7 @@
 {
 "content_id": "132371",
 "reference_id": 108425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ai",
 "media_type": "Text",
 "index_reference": "ai",
@@ -696,16 +696,16 @@
 {
 "id": "place:Ai.2",
 "type": "place",
-"preferred_label": "Ai",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ai"
 },
 {
 "id": "place:Ai",
 "type": "place",
-"preferred_label": "Ai",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ai"
 }
 ]
 }
@@ -713,7 +713,7 @@
 {
 "content_id": "132116",
 "reference_id": 108170,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Alpha and Omega",
 "media_type": "Text",
 "index_reference": "alpha and omega",
@@ -729,7 +729,7 @@
 {
 "content_id": "132479",
 "reference_id": 108533,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Alphabet poem",
 "media_type": "Text",
 "index_reference": "alphabet poem",
@@ -753,7 +753,7 @@
 {
 "content_id": "132231",
 "reference_id": 108285,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Altar",
 "media_type": "Text",
 "index_reference": "altar",
@@ -767,9 +767,9 @@
 {
 "id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Altar",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Altar"
 }
 ]
 }
@@ -777,7 +777,7 @@
 {
 "content_id": "132270",
 "reference_id": 108324,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amalekites",
 "media_type": "Text",
 "index_reference": "amalekites",
@@ -791,9 +791,9 @@
 {
 "id": "group:Amalek",
 "type": "group",
-"preferred_label": "Amalekites",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Amalekites"
 }
 ]
 }
@@ -801,7 +801,7 @@
 {
 "content_id": "132137",
 "reference_id": 108191,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amen",
 "media_type": "Text",
 "index_reference": "amen",
@@ -815,23 +815,23 @@
 {
 "id": "deity:Amon",
 "type": "deity",
-"preferred_label": "Amon",
 "confidence": 0.8091,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Amon"
 },
 {
 "id": "person:Amon.2",
 "type": "person",
-"preferred_label": "Amon",
 "confidence": 0.8091,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Amon"
 },
 {
 "id": "person:Amon.3",
 "type": "person",
-"preferred_label": "Amon",
 "confidence": 0.8091,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Amon"
 }
 ]
 }
@@ -839,7 +839,7 @@
 {
 "content_id": "132358",
 "reference_id": 108412,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ammonites",
 "media_type": "Text",
 "index_reference": "ammonites",
@@ -853,9 +853,9 @@
 {
 "id": "group:Ammon",
 "type": "group",
-"preferred_label": "Ammonites",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ammonites"
 }
 ]
 }
@@ -863,7 +863,7 @@
 {
 "content_id": "132359",
 "reference_id": 108413,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amorites",
 "media_type": "Text",
 "index_reference": "amorites",
@@ -877,9 +877,9 @@
 {
 "id": "group:Amorites",
 "type": "group",
-"preferred_label": "Amorites",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Amorites"
 }
 ]
 }
@@ -887,7 +887,7 @@
 {
 "content_id": "132508",
 "reference_id": 108562,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amos",
 "media_type": "Text",
 "index_reference": "amos",
@@ -901,23 +901,23 @@
 {
 "id": "person:Amos.2",
 "type": "person",
-"preferred_label": "Amos",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Amos"
 },
 {
 "id": "person:Amos.3",
 "type": "person",
-"preferred_label": "Amos",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Amos"
 },
 {
 "id": "person:Amon.3",
 "type": "person",
-"preferred_label": "Amon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Amon"
 }
 ]
 }
@@ -925,7 +925,7 @@
 {
 "content_id": "131987",
 "reference_id": 108041,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Andrew",
 "media_type": "Text",
 "index_reference": "andrew",
@@ -939,9 +939,9 @@
 {
 "id": "person:Andrew",
 "type": "person",
-"preferred_label": "Andrew",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Andrew"
 }
 ]
 }
@@ -949,7 +949,7 @@
 {
 "content_id": "132259",
 "reference_id": 108313,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Angel",
 "media_type": "Text",
 "index_reference": "angel",
@@ -973,7 +973,7 @@
 {
 "content_id": "132374",
 "reference_id": 108428,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Angel of the Lord",
 "media_type": "Text",
 "index_reference": "angel of the lord",
@@ -989,7 +989,7 @@
 {
 "content_id": "132306",
 "reference_id": 108360,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anointed",
 "media_type": "Text",
 "index_reference": "anointed",
@@ -1011,9 +1011,9 @@
 {
 "id": "keyterm:Anointed",
 "type": "keyterm",
-"preferred_label": "Anointed",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Anointed"
 }
 ]
 }
@@ -1021,7 +1021,7 @@
 {
 "content_id": "132060",
 "reference_id": 108114,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antioch in Pisidia",
 "media_type": "Text",
 "index_reference": "antioch in pisidia",
@@ -1035,9 +1035,9 @@
 {
 "id": "place:Antioch.2",
 "type": "place",
-"preferred_label": "Antioch",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Antioch"
 }
 ]
 }
@@ -1045,7 +1045,7 @@
 {
 "content_id": "132055",
 "reference_id": 108109,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antioch in Syria",
 "media_type": "Text",
 "index_reference": "antioch in syria",
@@ -1059,9 +1059,9 @@
 {
 "id": "place:Antioch",
 "type": "place",
-"preferred_label": "Antioch",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Antioch"
 }
 ]
 }
@@ -1069,7 +1069,7 @@
 {
 "content_id": "132487",
 "reference_id": 108541,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apocalyptic writing",
 "media_type": "Text",
 "index_reference": "apocalyptic writing",
@@ -1085,7 +1085,7 @@
 {
 "content_id": "132082",
 "reference_id": 108136,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apollos",
 "media_type": "Text",
 "index_reference": "apollos",
@@ -1099,9 +1099,9 @@
 {
 "id": "person:Apollos",
 "type": "person",
-"preferred_label": "Apollos",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Apollos"
 }
 ]
 }
@@ -1109,7 +1109,7 @@
 {
 "content_id": "131999",
 "reference_id": 108053,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apostles",
 "media_type": "Text",
 "index_reference": "apostles",
@@ -1125,7 +1125,7 @@
 {
 "content_id": "132080",
 "reference_id": 108134,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aquila and Priscilla",
 "media_type": "Text",
 "index_reference": "aquila and priscilla",
@@ -1139,16 +1139,16 @@
 {
 "id": "person:Aquila",
 "type": "person",
-"preferred_label": "Aquila",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Aquila"
 },
 {
 "id": "person:Priscilla",
 "type": "person",
-"preferred_label": "Priscilla",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Priscilla"
 }
 ]
 }
@@ -1156,7 +1156,7 @@
 {
 "content_id": "132380",
 "reference_id": 108434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aram",
 "media_type": "Text",
 "index_reference": "aram",
@@ -1170,30 +1170,30 @@
 {
 "id": "person:Aram.2",
 "type": "person",
-"preferred_label": "Aram",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Aram"
 },
 {
 "id": "person:Aram.3",
 "type": "person",
-"preferred_label": "Aram",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Aram"
 },
 {
 "id": "person:Aram",
 "type": "person",
-"preferred_label": "Aram",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Aram"
 },
 {
 "id": "place:Paddan-aram",
 "type": "place",
-"preferred_label": "Paddan-aram",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Paddan-aram"
 }
 ]
 }
@@ -1201,7 +1201,7 @@
 {
 "content_id": "132182",
 "reference_id": 108236,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ark",
 "media_type": "Text",
 "index_reference": "ark",
@@ -1217,7 +1217,7 @@
 {
 "content_id": "132331",
 "reference_id": 108385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ark of the covenant",
 "media_type": "Text",
 "index_reference": "ark of the covenant",
@@ -1239,9 +1239,9 @@
 {
 "id": "realia:ArkOfTheCovenant",
 "type": "realia",
-"preferred_label": "Ark of the Covenant",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ark of the Covenant"
 }
 ]
 }
@@ -1249,7 +1249,7 @@
 {
 "content_id": "132462",
 "reference_id": 108516,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Artaxerxes",
 "media_type": "Text",
 "index_reference": "artaxerxes",
@@ -1263,16 +1263,16 @@
 {
 "id": "person:Artaxerxes.2",
 "type": "person",
-"preferred_label": "Artaxerxes",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Artaxerxes"
 },
 {
 "id": "person:Artaxerxes",
 "type": "person",
-"preferred_label": "Artaxerxes",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Artaxerxes"
 }
 ]
 }
@@ -1280,7 +1280,7 @@
 {
 "content_id": "132083",
 "reference_id": 108137,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Artemis",
 "media_type": "Text",
 "index_reference": "artemis",
@@ -1294,9 +1294,9 @@
 {
 "id": "deity:Artemis",
 "type": "deity",
-"preferred_label": "Artemis",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Artemis"
 }
 ]
 }
@@ -1304,7 +1304,7 @@
 {
 "content_id": "132428",
 "reference_id": 108482,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asa",
 "media_type": "Text",
 "index_reference": "asa",
@@ -1318,16 +1318,16 @@
 {
 "id": "person:Asa.2",
 "type": "person",
-"preferred_label": "Asa",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Asa"
 },
 {
 "id": "person:Asa",
 "type": "person",
-"preferred_label": "Asa",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Asa"
 }
 ]
 }
@@ -1335,7 +1335,7 @@
 {
 "content_id": "132452",
 "reference_id": 108506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asaph",
 "media_type": "Text",
 "index_reference": "asaph",
@@ -1349,37 +1349,37 @@
 {
 "id": "person:Asaph.2",
 "type": "person",
-"preferred_label": "Asaph",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Asaph"
 },
 {
 "id": "person:Asaph.3",
 "type": "person",
-"preferred_label": "Asaph",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Asaph"
 },
 {
 "id": "person:Asaph.4",
 "type": "person",
-"preferred_label": "Asaph",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Asaph"
 },
 {
 "id": "person:Ebiasaph",
 "type": "person",
-"preferred_label": "Ebiasaph",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ebiasaph"
 },
 {
 "id": "person:Asaph",
 "type": "person",
-"preferred_label": "Asaph",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Asaph"
 }
 ]
 }
@@ -1387,7 +1387,7 @@
 {
 "content_id": "132375",
 "reference_id": 108429,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ashtoreth",
 "media_type": "Text",
 "index_reference": "ashtoreth",
@@ -1401,9 +1401,9 @@
 {
 "id": "deity:Ashtoreth",
 "type": "deity",
-"preferred_label": "Ashtoreth",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Ashtoreth"
 }
 ]
 }
@@ -1411,7 +1411,7 @@
 {
 "content_id": "132059",
 "reference_id": 108113,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asia Minor",
 "media_type": "Text",
 "index_reference": "asia minor",
@@ -1425,9 +1425,9 @@
 {
 "id": "place:AsiaMinor",
 "type": "place",
-"preferred_label": "Asia Minor",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Asia Minor"
 }
 ]
 }
@@ -1435,7 +1435,7 @@
 {
 "content_id": "132439",
 "reference_id": 108493,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Assyria",
 "media_type": "Text",
 "index_reference": "assyria",
@@ -1449,9 +1449,9 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"preferred_label": "Assyria",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Assyria"
 }
 ]
 }
@@ -1459,7 +1459,7 @@
 {
 "content_id": "132436",
 "reference_id": 108490,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Athaliah",
 "media_type": "Text",
 "index_reference": "athaliah",
@@ -1473,23 +1473,23 @@
 {
 "id": "person:Athaliah.2",
 "type": "person",
-"preferred_label": "Athaliah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Athaliah"
 },
 {
 "id": "person:Athaliah.3",
 "type": "person",
-"preferred_label": "Athaliah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Athaliah"
 },
 {
 "id": "person:Athaliah",
 "type": "person",
-"preferred_label": "Athaliah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Athaliah"
 }
 ]
 }
@@ -1497,7 +1497,7 @@
 {
 "content_id": "132076",
 "reference_id": 108130,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Athens",
 "media_type": "Text",
 "index_reference": "athens",
@@ -1511,9 +1511,9 @@
 {
 "id": "place:Athens",
 "type": "place",
-"preferred_label": "Athens",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Athens"
 }
 ]
 }
@@ -1521,7 +1521,7 @@
 {
 "content_id": "132313",
 "reference_id": 108367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Atone",
 "media_type": "Text",
 "index_reference": "atone",

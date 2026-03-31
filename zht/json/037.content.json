@@ -2,7 +2,7 @@
 {
 "content_id": "232734",
 "reference_id": 108133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "哥林多",
 "media_type": "Text",
 "index_reference": "哥林多",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Corinth"
+}
+]
 }
 },
 {
 "content_id": "232709",
 "reference_id": 108108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "哥尼流",
 "media_type": "Text",
 "index_reference": "哥尼流",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Cornelius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cornelius"
+}
+]
 }
 },
 {
 "content_id": "232858",
 "reference_id": 108257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "割禮",
 "media_type": "Text",
 "index_reference": "割禮",
@@ -44,13 +60,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Circumcision"
+}
+]
 }
 },
 {
 "content_id": "232761",
 "reference_id": 108160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "歌羅西",
 "media_type": "Text",
 "index_reference": "歌羅西",
@@ -60,13 +84,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Colossae",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Colossae"
+}
+]
 }
 },
 {
 "content_id": "232898",
 "reference_id": 108297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "歌珊",
 "media_type": "Text",
 "index_reference": "歌珊",
@@ -76,13 +108,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goshen"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goshen"
+}
+]
 }
 },
 {
 "content_id": "232683",
 "reference_id": 108082,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "格拉森人",
 "media_type": "Text",
 "index_reference": "格拉森人",

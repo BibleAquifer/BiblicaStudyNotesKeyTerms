@@ -2,7 +2,7 @@
 {
 "content_id": "134023",
 "reference_id": 108221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هابيل",
 "media_type": "Text",
 "index_reference": "هابيل",
@@ -12,13 +12,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هَابِيلَ"
+},
+{
+"id": "place:Abel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هَابِيلَ"
+}
+]
 }
 },
 {
 "content_id": "134061",
 "reference_id": 108259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هاجر",
 "media_type": "Text",
 "index_reference": "هاجر",
@@ -28,13 +43,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هَاجَر"
+}
+]
 }
 },
 {
 "content_id": "134108",
 "reference_id": 108306,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هارون",
 "media_type": "Text",
 "index_reference": "هارون",
@@ -59,13 +82,21 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هَارون"
+}
+]
 }
 },
 {
 "content_id": "134323",
 "reference_id": 108521,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هامان",
 "media_type": "Text",
 "index_reference": "هامان",
@@ -75,13 +106,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Haman",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هَامَان"
+}
+]
 }
 },
 {
 "content_id": "133988",
 "reference_id": 108186,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هاوية",
 "media_type": "Text",
 "index_reference": "هاوية",
@@ -99,13 +138,21 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Abyss"
+}
+]
 }
 },
 {
 "content_id": "134372",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هُوشَع",
 "media_type": "Text",
 "index_reference": "هُوشَع",
@@ -117,46 +164,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hasshub",
+"id": "person:Hosea",
 "type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8543,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.2",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8543,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.3",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8543,
-"match_method": "embedding"
-},
-{
-"id": "person:Hasshub.4",
-"type": "person",
-"preferred_label": "حَشّوب",
-"confidence": 0.8543,
-"match_method": "embedding"
-},
-{
-"id": "person:Shelesh",
-"type": "person",
-"preferred_label": "شَالَش",
-"confidence": 0.8478,
-"match_method": "embedding"
-},
-{
-"id": "person:Shashak",
-"type": "person",
-"preferred_label": "شَاشَق",
-"confidence": 0.8212,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هوشَعَ"
 }
 ]
 }
@@ -164,7 +176,7 @@
 {
 "content_id": "133912",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هيرودس أغريباس الأول",
 "media_type": "Text",
 "index_reference": "هيرودس أغريباس الأول",
@@ -174,13 +186,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "أَغْرِيبَاس"
+}
+]
 }
 },
 {
 "content_id": "133941",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هيرودس أغريباس الثاني",
 "media_type": "Text",
 "index_reference": "هيرودس أغريباس الثاني",
@@ -190,13 +210,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هِيرودس"
+}
+]
 }
 },
 {
 "content_id": "134360",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هيرودس الكبير",
 "media_type": "Text",
 "index_reference": "هيرودس الكبير",
@@ -206,13 +234,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هِيرودس"
+}
+]
 }
 },
 {
 "content_id": "133859",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هيرودس أنتيباس",
 "media_type": "Text",
 "index_reference": "هيرودس أنتيباس",
@@ -222,13 +258,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "هِيرودسَ"
+}
+]
 }
 },
 {
 "content_id": "133864",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هيروديون",
 "media_type": "Text",
 "index_reference": "هيروديون",
@@ -240,11 +284,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Herod.2",
-"type": "person",
-"preferred_label": "هِيرودسَ",
-"confidence": 0.8375,
-"match_method": "embedding"
+"id": "group:Herodian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodians"
 }
 ]
 }
@@ -252,7 +296,7 @@
 {
 "content_id": "134219",
 "reference_id": 108417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "هيكل",
 "media_type": "Text",
 "index_reference": "هيكل",
@@ -262,7 +306,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+}
+]
 }
 }
 ]

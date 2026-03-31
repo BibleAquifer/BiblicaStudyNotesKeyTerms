@@ -2,7 +2,7 @@
 {
 "content_id": "132509",
 "reference_id": 108563,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gabriel",
 "media_type": "Text",
 "index_reference": "gabriel",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Gabriel",
 "type": "deity",
-"preferred_label": "Gabriel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gabriel"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "132354",
 "reference_id": 108408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gad",
 "media_type": "Text",
 "index_reference": "gad",
@@ -40,16 +40,16 @@
 {
 "id": "person:Gad.2",
 "type": "person",
-"preferred_label": "Gad",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gad"
 },
 {
 "id": "person:Gad",
 "type": "person",
-"preferred_label": "Gad",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gad"
 }
 ]
 }
@@ -57,7 +57,7 @@
 {
 "content_id": "132068",
 "reference_id": 108122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galatia",
 "media_type": "Text",
 "index_reference": "galatia",
@@ -71,9 +71,9 @@
 {
 "id": "place:Galatia",
 "type": "place",
-"preferred_label": "Galatia",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Galatia"
 }
 ]
 }
@@ -81,7 +81,7 @@
 {
 "content_id": "131982",
 "reference_id": 108036,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galilee",
 "media_type": "Text",
 "index_reference": "galilee",
@@ -95,9 +95,9 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"preferred_label": "Galilee",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Galilee"
 }
 ]
 }
@@ -105,7 +105,7 @@
 {
 "content_id": "132045",
 "reference_id": 108099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gamaliel",
 "media_type": "Text",
 "index_reference": "gamaliel",
@@ -119,16 +119,16 @@
 {
 "id": "person:Gamaliel.2",
 "type": "person",
-"preferred_label": "Gamaliel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
 },
 {
 "id": "person:Gamaliel",
 "type": "person",
-"preferred_label": "Gamaliel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
 }
 ]
 }
@@ -136,7 +136,7 @@
 {
 "content_id": "132153",
 "reference_id": 108207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Garden of Eden",
 "media_type": "Text",
 "index_reference": "garden of eden",
@@ -150,9 +150,9 @@
 {
 "id": "place:Eden.2",
 "type": "place",
-"preferred_label": "Garden of Eden",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Garden of Eden"
 }
 ]
 }
@@ -160,7 +160,7 @@
 {
 "content_id": "132493",
 "reference_id": 108547,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gentile",
 "media_type": "Text",
 "index_reference": "gentile",
@@ -182,9 +182,9 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"preferred_label": "Gentiles",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gentiles"
 }
 ]
 }
@@ -192,7 +192,7 @@
 {
 "content_id": "132028",
 "reference_id": 108082,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gerasenes",
 "media_type": "Text",
 "index_reference": "gerasenes",
@@ -208,7 +208,7 @@
 {
 "content_id": "132383",
 "reference_id": 108437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gideon",
 "media_type": "Text",
 "index_reference": "gideon",
@@ -222,9 +222,9 @@
 {
 "id": "person:Gideon",
 "type": "person",
-"preferred_label": "Gideon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gideon"
 }
 ]
 }
@@ -232,7 +232,7 @@
 {
 "content_id": "132095",
 "reference_id": 108149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gifts of the Spirit",
 "media_type": "Text",
 "index_reference": "gifts of the spirit",
@@ -248,7 +248,7 @@
 {
 "content_id": "132387",
 "reference_id": 108441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilead",
 "media_type": "Text",
 "index_reference": "gilead",
@@ -262,30 +262,30 @@
 {
 "id": "person:Gilead.2",
 "type": "person",
-"preferred_label": "Gilead",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gilead"
 },
 {
 "id": "person:Gilead.3",
 "type": "person",
-"preferred_label": "Gilead",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gilead"
 },
 {
 "id": "person:Gilead",
 "type": "person",
-"preferred_label": "Gilead",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gilead"
 },
 {
 "id": "place:Gilead",
 "type": "place",
-"preferred_label": "Gilead",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gilead"
 }
 ]
 }
@@ -293,7 +293,7 @@
 {
 "content_id": "132368",
 "reference_id": 108422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilgal",
 "media_type": "Text",
 "index_reference": "gilgal",
@@ -307,16 +307,16 @@
 {
 "id": "place:Gilgal.4",
 "type": "place",
-"preferred_label": "Gilgal",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gilgal"
 },
 {
 "id": "place:Galilee",
 "type": "place",
-"preferred_label": "Galilee",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Galilee"
 }
 ]
 }
@@ -324,7 +324,7 @@
 {
 "content_id": "132294",
 "reference_id": 108348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Glory",
 "media_type": "Text",
 "index_reference": "glory",
@@ -338,9 +338,9 @@
 {
 "id": "keyterm:Glory",
 "type": "keyterm",
-"preferred_label": "Glory",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Glory"
 }
 ]
 }
@@ -348,10 +348,10 @@
 {
 "content_id": "132282",
 "reference_id": 108336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Go-between",
 "media_type": "Text",
-"index_reference": "go-between",
+"index_reference": "gobetween",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Someone who helps people or groups talk with one another and come to an agreement. This is also called a mediator. Moses did this between the people of Israel and God at Mount Sinai. The people couldn’t come close to God. They were afraid of him. Being close to God’s holiness would have harmed them. So Moses told the people what God wanted to say to them. Then he told God what the people wanted to say to God. In this way he helped them establish the Mount Sinai covenant. Later, Jesus became the mediator between God and all human beings. Because human beings commit sin, they are unable to live in peace with God. Jesus is fully a human being and fully God. Jesus dealt with the problem of sin when he died on the cross. So humans can now be forgiven for sin and live in peace with God. In this way Jesus is the go-between of the new covenant.</p>",
@@ -364,7 +364,7 @@
 {
 "content_id": "132145",
 "reference_id": 108199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God",
 "media_type": "Text",
 "index_reference": "god",
@@ -393,9 +393,9 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }
@@ -403,7 +403,7 @@
 {
 "content_id": "132175",
 "reference_id": 108229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God chooses",
 "media_type": "Text",
 "index_reference": "god chooses",
@@ -419,10 +419,10 @@
 {
 "content_id": "132446",
 "reference_id": 108500,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s anger",
 "media_type": "Text",
-"index_reference": "god’s anger",
+"index_reference": "gods anger",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The Bible describes God as angry at sin and evil. He shows his anger by bringing judgement against those who refuse to stop doing evil. He brings judgement against those who refuse to repent and turn away from sin. Writers in the Bible described God’s anger like a winepress. In a winepress, grapes are crushed to make wine. Writers in the Bible also described God’s anger like a cup of wine. Those who refused to stop sinning and doing evil deeds had to drink it. These were pictures of God’s judgement. They were pictures of how God stops those who do evil and punishes them. People who believe in Jesus are set free from the power of sin and evil. Because of this, they are saved from God’s anger against sin and evil. In Revelation, God’s anger and the Lamb’s anger are the same thing.</p>",
@@ -435,10 +435,10 @@
 {
 "content_id": "131991",
 "reference_id": 108045,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s family",
 "media_type": "Text",
-"index_reference": "god’s family",
+"index_reference": "gods family",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The relationship that God wants with all human beings. God’s family is different from human families. In the times and places of the Bible, families were usually led by older men. Families included older women, younger men and women and children. Slaves were also part of the household. The men had authority over women and children. Slave owners had authority over slaves. This system is what the nations and people groups of that time were based on. The gospels, Paul’s letters and Peter’s letters explained what God’s family is like. People who follow Jesus all belong to the family of God. God adopts them as his children. Each family member is loved and accepted by God. So they must treat one another with respect and love. <span>Some believers have authority over others. They must use it to bless and serve others. Some believers do not have authority over others. They should do everything they do as if they are serving Jesus.</span></p>",
@@ -451,10 +451,10 @@
 {
 "content_id": "132248",
 "reference_id": 108302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s people",
 "media_type": "Text",
-"index_reference": "god’s people",
+"index_reference": "gods people",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A way to talk about the nation of Israel. After Jesus came, anyone who follows him is considered part of God’s people. Every human being is invited to follow Jesus. This is true no matter what family, group or nation people come from. It’s true no matter what language they speak. Worshipping Jesus brings them together as one in God’s family. (<span data-bnType=\"resourceReference\" data-resourceId=\"108280\" data-resourceType=\"BiblicaStudyNotesKeyTerms\">Israel</span>)</p>",
@@ -473,9 +473,9 @@
 {
 "id": "group:Israel",
 "type": "group",
-"preferred_label": "Israelites",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Israelites"
 }
 ]
 }
@@ -483,10 +483,10 @@
 {
 "content_id": "132490",
 "reference_id": 108544,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s servant",
 "media_type": "Text",
-"index_reference": "god’s servant",
+"index_reference": "gods servant",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A servant that God promised to send to help God’s people. The book of Isaiah includes several prophecies about this servant. God chose this servant to share God’s teaching with his people. God set this servant apart to lead his people with justice. He would suffer as he served. The servant is sometimes described as the people of Israel. He is sometimes described as a prophet or someone else who helped God’s people. Other times the servant is described as a saviour who would come in the future. In Acts chapter 3, Peter showed how the servant described in Isaiah was also the Jewish Messiah. Peter then showed how Jesus is this Servant and Messiah.</p>",
@@ -499,10 +499,10 @@
 {
 "content_id": "132361",
 "reference_id": 108415,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s tool",
 "media_type": "Text",
-"index_reference": "god’s tool",
+"index_reference": "gods tool",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Throughout the Bible God uses people, groups and nations as his tool to bring judgement. Through them he brings judgement against people, groups or nations that do evil things. This is part of how he stops evil and brings back peace. God decides when to bring judgement and how to do it. Those that God uses as a tool aren’t better than those being judged. Every person, group and nation is responsible for serving and obeying God. They will all be judged for the evil things they do.</p>",
@@ -515,10 +515,10 @@
 {
 "content_id": "132146",
 "reference_id": 108200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "God’s word",
 "media_type": "Text",
-"index_reference": "god’s word",
+"index_reference": "gods word",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Throughout the Bible there are many meanings for God’s word or the word of God. The first meaning is anything God speaks. This includes laws, promises, prophecies and everything God says. God spoke words to create the world. God’s words are powerful and cause things to happen. The second meaning is a name for Jesus. Jesus is called both the Word and God’s Word. These titles mean that God created the world through Jesus. They mean that Jesus has always lived and was never not living. They mean that Jesus shows people who God is. The third meaning for God’s word is the collection of holy writings studied by God’s people. This is also called Scripture. The Old Testament was understood to be God’s word and the Scripture. This was true for God’s people before the time of Jesus. For believers in New Testament times, God’s word also included Jesus’ teachings. The apostles preached God’s word. This included the message about Jesus in the Old Testament. It also included everything that Jesus taught. The Old and New Testaments together are understood to be God’s word and the Scripture. This is true for believers after New Testament times. (<span data-bnType=\"resourceReference\" data-resourceId=\"108193\" data-resourceType=\"BiblicaStudyNotesKeyTerms\">Bible</span>)</p>",
@@ -539,7 +539,7 @@
 {
 "content_id": "132128",
 "reference_id": 108182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Golden altar",
 "media_type": "Text",
 "index_reference": "golden altar",
@@ -563,7 +563,7 @@
 {
 "content_id": "131989",
 "reference_id": 108043,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Good news",
 "media_type": "Text",
 "index_reference": "good news",
@@ -585,9 +585,9 @@
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
-"preferred_label": "Good News",
 "confidence": 0.9692,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Good News"
 }
 ]
 }
@@ -595,7 +595,7 @@
 {
 "content_id": "132006",
 "reference_id": 108060,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Good works",
 "media_type": "Text",
 "index_reference": "good works",
@@ -611,7 +611,7 @@
 {
 "content_id": "132243",
 "reference_id": 108297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Goshen",
 "media_type": "Text",
 "index_reference": "goshen",
@@ -625,16 +625,16 @@
 {
 "id": "place:Goshen.2",
 "type": "place",
-"preferred_label": "Goshen",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Goshen"
 },
 {
 "id": "place:Goshen",
 "type": "place",
-"preferred_label": "Goshen",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Goshen"
 }
 ]
 }
@@ -642,7 +642,7 @@
 {
 "content_id": "131977",
 "reference_id": 108031,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gospel",
 "media_type": "Text",
 "index_reference": "gospel",
@@ -666,7 +666,7 @@
 {
 "content_id": "132181",
 "reference_id": 108235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grace",
 "media_type": "Text",
 "index_reference": "grace",
@@ -682,7 +682,7 @@
 {
 "content_id": "132297",
 "reference_id": 108351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grain offerings",
 "media_type": "Text",
 "index_reference": "grain offerings",
@@ -698,7 +698,7 @@
 {
 "content_id": "132140",
 "reference_id": 108194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Greece",
 "media_type": "Text",
 "index_reference": "greece",
@@ -712,9 +712,9 @@
 {
 "id": "place:Greece",
 "type": "place",
-"preferred_label": "Greece",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Greece"
 }
 ]
 }
@@ -722,7 +722,7 @@
 {
 "content_id": "132131",
 "reference_id": 108185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Groups of sevens",
 "media_type": "Text",
 "index_reference": "groups of sevens",
@@ -738,7 +738,7 @@
 {
 "content_id": "132300",
 "reference_id": 108354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Guilt offerings",
 "media_type": "Text",
 "index_reference": "guilt offerings",

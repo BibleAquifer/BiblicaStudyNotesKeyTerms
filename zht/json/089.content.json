@@ -2,7 +2,7 @@
 {
 "content_id": "232839",
 "reference_id": 108238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "挪亞之約",
 "media_type": "Text",
 "index_reference": "挪亞之約",
@@ -18,7 +18,7 @@
 {
 "content_id": "232831",
 "reference_id": 108230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "諾亞",
 "media_type": "Text",
 "index_reference": "諾亞",
@@ -28,7 +28,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noah"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noah"
+}
+]
 }
 }
 ]

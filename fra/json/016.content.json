@@ -2,7 +2,7 @@
 {
 "content_id": "133563",
 "reference_id": 108311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Obstiné",
 "media_type": "Text",
 "index_reference": "obstiné",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Stubborn",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "têtu"
+}
+]
 }
 },
 {
 "content_id": "133603",
 "reference_id": 108351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Offrandes céréalières",
 "media_type": "Text",
 "index_reference": "offrandes céréalières",
@@ -34,7 +42,7 @@
 {
 "content_id": "133612",
 "reference_id": 108360,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Oint",
 "media_type": "Text",
 "index_reference": "oint",
@@ -52,13 +60,21 @@
 "language": "fra"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "oint"
+}
+]
 }
 },
 {
 "content_id": "133394",
 "reference_id": 108142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Olivier",
 "media_type": "Text",
 "index_reference": "olivier",
@@ -68,13 +84,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+}
+]
 }
 },
 {
 "content_id": "133413",
 "reference_id": 108161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Onésime",
 "media_type": "Text",
 "index_reference": "onésime",
@@ -88,9 +112,9 @@
 {
 "id": "person:Onesimus",
 "type": "person",
-"preferred_label": "Onésime",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Onésime"
 }
 ]
 }
@@ -98,7 +122,7 @@
 {
 "content_id": "133822",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Osée",
 "media_type": "Text",
 "index_reference": "osée",
@@ -112,16 +136,9 @@
 {
 "id": "person:Hosea",
 "type": "person",
-"preferred_label": "Osée",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hoshea",
-"type": "person",
-"preferred_label": "Osée",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Osée"
 }
 ]
 }
@@ -129,7 +146,7 @@
 {
 "content_id": "133683",
 "reference_id": 108431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Otniel",
 "media_type": "Text",
 "index_reference": "otniel",
@@ -139,7 +156,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Othniel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Othniel"
+}
+]
 }
 }
 ]

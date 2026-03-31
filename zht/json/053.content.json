@@ -2,7 +2,7 @@
 {
 "content_id": "233038",
 "reference_id": 108437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "基甸",
 "media_type": "Text",
 "index_reference": "基甸",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gideon"
+}
+]
 }
 },
 {
 "content_id": "232699",
 "reference_id": 108098,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "基督",
 "media_type": "Text",
 "index_reference": "基督",
@@ -43,13 +51,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+}
+]
 }
 },
 {
 "content_id": "232746",
 "reference_id": 108145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "基督的奧秘",
 "media_type": "Text",
 "index_reference": "基督的奧秘",
@@ -65,7 +81,7 @@
 {
 "content_id": "232748",
 "reference_id": 108147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "基督的律法",
 "media_type": "Text",
 "index_reference": "基督的律法",
@@ -81,7 +97,7 @@
 {
 "content_id": "232744",
 "reference_id": 108143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "基督的身體",
 "media_type": "Text",
 "index_reference": "基督的身體",
@@ -97,7 +113,7 @@
 {
 "content_id": "233042",
 "reference_id": 108441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "基列",
 "media_type": "Text",
 "index_reference": "基列",
@@ -107,13 +123,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gilead.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+},
+{
+"id": "person:Gilead.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilead"
+}
+]
 }
 },
 {
 "content_id": "233023",
 "reference_id": 108422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "吉甲",
 "media_type": "Text",
 "index_reference": "吉甲",
@@ -123,13 +168,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
+}
+]
 }
 },
 {
 "content_id": "233136",
 "reference_id": 108535,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "妓女",
 "media_type": "Text",
 "index_reference": "妓女",
@@ -139,13 +199,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:FirstProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+},
+{
+"id": "person:SecondProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+}
+]
 }
 },
 {
 "content_id": "232946",
 "reference_id": 108345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "忌邪",
 "media_type": "Text",
 "index_reference": "忌邪",
@@ -155,16 +230,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "232939",
 "reference_id": 108338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "祭牲（獻祭）",
 "media_type": "Text",
-"index_reference": "祭牲（獻祭）",
+"index_reference": "祭牲獻祭",
 "language": "zht",
 "review_level": "None",
 "content": "<p>某種處死動物的方法。這樣做是為了崇拜和尊敬某人或某神。這種做法在聖經記載的時代和地點很常見。真正的神的跟隨者以獻祭動物來表明他們遠離罪惡。動物的死亡是罪帶來死和傷害的記號。這也是人類所犯罪行之懲罰的象徵，祭牲代替人類被殺，如此，犧牲動物來贖人們的罪。崇拜假神的人出於不同的原因獻祭動物，為了表明他們對假神的忠誠，也為了得到祝福。他們這樣做是因為他們認為假神餓了或生氣了。</p>",
@@ -177,7 +260,7 @@
 {
 "content_id": "232934",
 "reference_id": 108333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "祭司",
 "media_type": "Text",
 "index_reference": "祭司",
@@ -208,7 +291,7 @@
 {
 "content_id": "232938",
 "reference_id": 108337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "祭司的國度",
 "media_type": "Text",
 "index_reference": "祭司的國度",
@@ -224,7 +307,7 @@
 {
 "content_id": "232950",
 "reference_id": 108349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "祭司的聖衣",
 "media_type": "Text",
 "index_reference": "祭司的聖衣",
@@ -240,10 +323,10 @@
 {
 "content_id": "232857",
 "reference_id": 108256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "祭物（獻祭）",
 "media_type": "Text",
-"index_reference": "祭物（獻祭）",
+"index_reference": "祭物獻祭",
 "language": "zht",
 "review_level": "None",
 "content": "<p>獻給神的供物，這是一種敬拜神的方式。神在摩西律法中的指示教導子民向神獻祭，將自己的牲畜、農作物和其他財物獻給神。他們會將這些帶到會幕或聖殿。有些祭物是贖罪祭，用來贖人們的罪。這樣他們就能得到赦免，與神和好。其他祭物是為了感謝神的祝福。在新約中，耶穌將自己獻上為祭，祂捨棄自己的生命作為贖罪祭，為人們的罪付上代價，祂的犧牲使信他的人與神和好。耶穌的跟隨者透過捨棄許多東西來表達對祂犧牲的感恩，他們在繼續耶穌在地上的工作時，捨棄金錢和財物，放棄自己希望做的事或擁有的東西，甚至可能捨棄自己的生命。他們將自己所有的一切獻給神，因為他們信靠神並愛神。他們為了他人的益處而作出犧牲。</p>",

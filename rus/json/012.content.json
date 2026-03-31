@@ -2,7 +2,7 @@
 {
 "content_id": "193356",
 "reference_id": 108274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Лаван",
 "media_type": "Text",
 "index_reference": "лаван",
@@ -16,23 +16,16 @@
 {
 "id": "person:Laban",
 "type": "person",
-"preferred_label": "Лаван",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Лаван"
 },
 {
 "id": "place:Laban",
 "type": "place",
-"preferred_label": "Лаван",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Lebanon",
-"type": "place",
-"preferred_label": "Ливан",
-"confidence": 0.8243,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Лаван"
 }
 ]
 }
@@ -40,7 +33,7 @@
 {
 "content_id": "193244",
 "reference_id": 108162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Лаодикия",
 "media_type": "Text",
 "index_reference": "лаодикия",
@@ -54,9 +47,9 @@
 {
 "id": "place:Laodicea",
 "type": "place",
-"preferred_label": "Лаодикия",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Лаодикия"
 }
 ]
 }
@@ -64,7 +57,7 @@
 {
 "content_id": "193465",
 "reference_id": 108383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Левий",
 "media_type": "Text",
 "index_reference": "левий",
@@ -76,32 +69,32 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Levi",
-"type": "group",
-"preferred_label": "Левий",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Levi",
-"type": "person",
-"preferred_label": "Левий",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Levi.2",
 "type": "person",
-"preferred_label": "Левий",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Левий"
 },
 {
 "id": "person:Levi.3",
 "type": "person",
-"preferred_label": "Левий",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Левий"
+},
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Матфей"
+},
+{
+"id": "person:Levi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Левий"
 }
 ]
 }
@@ -109,7 +102,7 @@
 {
 "content_id": "193425",
 "reference_id": 108343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Левиты",
 "media_type": "Text",
 "index_reference": "левиты",
@@ -127,13 +120,21 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Левий"
+}
+]
 }
 },
 {
 "content_id": "193632",
 "reference_id": 108550,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Лжепророк",
 "media_type": "Text",
 "index_reference": "лжепророк",
@@ -157,10 +158,10 @@
 {
 "content_id": "193141",
 "reference_id": 108059,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Лидер, который служит",
 "media_type": "Text",
-"index_reference": "лидер, который служит",
+"index_reference": "лидер который служит",
 "language": "rus",
 "review_level": "None",
 "content": "<p><span>Иисус является примером того, как каждый человек должен относиться к другим людям. </span>Это касается и людей, наделённых властью, силой и почётом<span>. Речь идёт о любом виде лидерства. </span></p><p><span>Иисус — Царь всего, что создал Бог. Он пришёл на землю, чтобы послужить людям и показать им Божью любовь. Иисус не использовал Свою силу и власть для того, чтобы заставить людей делать то, что Он хотел. И Он не требовал, чтобы люди относились к Нему как к кому-то более важному из всех. Напротив, Иисус был смирённым и проявлял заботу о каждом человеке. Иисус отдал Свою жизнь, чтобы показать людям, как сильно Бог любит их. </span></p><p><span>Все верующие должны подражать Иисусу в Его любви к ближним и служении им. Святой Дух наделяет верующих различными дарами, которые они могут использовать для служения другим людям. Когда верующие служат людям, они таким образом служат Самому Иисусу.</span></p>",
@@ -173,7 +174,7 @@
 {
 "content_id": "193198",
 "reference_id": 108116,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Листра",
 "media_type": "Text",
 "index_reference": "листра",
@@ -187,9 +188,9 @@
 {
 "id": "place:Lystra",
 "type": "place",
-"preferred_label": "Листра",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Листра"
 }
 ]
 }
@@ -197,7 +198,7 @@
 {
 "content_id": "193357",
 "reference_id": 108275,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Лия",
 "media_type": "Text",
 "index_reference": "лия",
@@ -207,13 +208,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Лия"
+}
+]
 }
 },
 {
 "content_id": "193330",
 "reference_id": 108248,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Лот",
 "media_type": "Text",
 "index_reference": "лот",
@@ -223,13 +232,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Лота"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+}
+]
 }
 },
 {
 "content_id": "193160",
 "reference_id": 108078,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Лука",
 "media_type": "Text",
 "index_reference": "лука",
@@ -243,9 +267,9 @@
 {
 "id": "person:Luke",
 "type": "person",
-"preferred_label": "Лука",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Лука"
 }
 ]
 }
@@ -253,7 +277,7 @@
 {
 "content_id": "193437",
 "reference_id": 108355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Любовь к Богу",
 "media_type": "Text",
 "index_reference": "любовь к богу",
@@ -269,7 +293,7 @@
 {
 "content_id": "193284",
 "reference_id": 108202,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Люди",
 "media_type": "Text",
 "index_reference": "люди",

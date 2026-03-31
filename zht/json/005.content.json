@@ -2,7 +2,7 @@
 {
 "content_id": "232703",
 "reference_id": 108102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "保羅",
 "media_type": "Text",
 "index_reference": "保羅",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paul"
+}
+]
 }
 },
 {
 "content_id": "232712",
 "reference_id": 108111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "保羅的旅程",
 "media_type": "Text",
 "index_reference": "保羅的旅程",
@@ -34,7 +42,7 @@
 {
 "content_id": "232721",
 "reference_id": 108120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "保羅的信件",
 "media_type": "Text",
 "index_reference": "保羅的信件",

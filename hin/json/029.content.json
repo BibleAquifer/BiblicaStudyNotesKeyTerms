@@ -2,7 +2,7 @@
 {
 "content_id": "183440",
 "reference_id": 108546,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रकाश",
 "media_type": "Text",
 "index_reference": "प्रकाश",
@@ -33,7 +33,7 @@
 {
 "content_id": "183066",
 "reference_id": 108172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रभु का दिन",
 "media_type": "Text",
 "index_reference": "प्रभु का दिन",
@@ -49,7 +49,7 @@
 {
 "content_id": "183465",
 "reference_id": 108571,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रभु का दिन",
 "media_type": "Text",
 "index_reference": "प्रभु का दिन",
@@ -80,7 +80,7 @@
 {
 "content_id": "183322",
 "reference_id": 108428,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रभु का दूत",
 "media_type": "Text",
 "index_reference": "प्रभु का दूत",
@@ -96,7 +96,7 @@
 {
 "content_id": "183042",
 "reference_id": 108148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रभु का भोज",
 "media_type": "Text",
 "index_reference": "प्रभु का भोज",
@@ -112,7 +112,7 @@
 {
 "content_id": "183040",
 "reference_id": 108146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रभु यीशु मसीह",
 "media_type": "Text",
 "index_reference": "प्रभु यीशु मसीह",
@@ -122,16 +122,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यीशु"
+}
+]
 }
 },
 {
 "content_id": "183223",
 "reference_id": 108329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रभु- शासक",
 "media_type": "Text",
-"index_reference": "प्रभु- शासक",
+"index_reference": "प्रभु शासक",
 "language": "hin",
 "review_level": "None",
 "content": "<p>एक शासक, अगुवे या स्वामी के लिए एक शीर्षक।इसका उपयोग बाइबिल में परमेश्वर के लिए एक शीर्षक के रूप में किया गया है। इसका मतलब यह है कि परमेश्वर का हर चीज़ और हर व्यक्ति पर अधिकार है। नए नियम के समय में, प्रभु का उपयोग रोमी सम्राट के लिए एक उपाधि के रूप में किया जाता था। इसका मतलब यह था कि कैसर के पास हर जगह अधिकार था जहाँ रोमी सरकार का नियंत्रण था। यीशु के अनुयायी उन्हें प्रभु कहते थे। इसका मतलब यह था कि उन्होंने पहचान लिया कि यीशु ही परमेश्वर हैं। उन्होंने माना कि यीशु के पास हर चीज़ और हर किसी पर पूरा अधिकार है। यीशु के अनुयायियों ने कैसर के अधिकार को चुनौती दी जब उन्होंने यीशु को प्रभु कहा।</p>",
@@ -144,7 +152,7 @@
 {
 "content_id": "183201",
 "reference_id": 108307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्राचीन",
 "media_type": "Text",
 "index_reference": "प्राचीन",
@@ -154,13 +162,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericElders",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Elders"
+}
+]
 }
 },
 {
 "content_id": "183261",
 "reference_id": 108367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रायश्चित",
 "media_type": "Text",
 "index_reference": "प्रायश्चित",
@@ -184,7 +200,7 @@
 {
 "content_id": "183260",
 "reference_id": 108366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रायश्चित का दिन",
 "media_type": "Text",
 "index_reference": "प्रायश्चित का दिन",
@@ -208,7 +224,7 @@
 {
 "content_id": "183121",
 "reference_id": 108227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रार्थना",
 "media_type": "Text",
 "index_reference": "प्रार्थना",
@@ -224,7 +240,7 @@
 {
 "content_id": "182981",
 "reference_id": 108087,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रिय महिला",
 "media_type": "Text",
 "index_reference": "प्रिय महिला",
@@ -240,7 +256,7 @@
 {
 "content_id": "182947",
 "reference_id": 108053,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रेरित",
 "media_type": "Text",
 "index_reference": "प्रेरित",
@@ -256,7 +272,7 @@
 {
 "content_id": "182936",
 "reference_id": 108042,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "प्रेरित याकूब",
 "media_type": "Text",
 "index_reference": "प्रेरित याकूब",
@@ -266,7 +282,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:James",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "याकूब"
+}
+]
 }
 }
 ]

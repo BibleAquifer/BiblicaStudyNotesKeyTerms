@@ -2,7 +2,7 @@
 {
 "content_id": "775291",
 "reference_id": 108207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tuin van Eden",
 "media_type": "Text",
 "index_reference": "tuin van eden",
@@ -16,9 +16,9 @@
 {
 "id": "place:Eden.2",
 "type": "place",
-"preferred_label": "Garden of Eden",
-"confidence": 0.8378,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Garden of Eden"
 }
 ]
 }

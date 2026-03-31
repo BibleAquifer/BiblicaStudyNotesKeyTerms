@@ -2,23 +2,31 @@
 {
 "content_id": "233120",
 "reference_id": 108519,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "薛西（亞哈隨魯）",
 "media_type": "Text",
-"index_reference": "薛西（亞哈隨魯）",
+"index_reference": "薛西亞哈隨魯",
 "language": "zht",
 "review_level": "None",
 "content": "<p>從公元前486年到465年統治波斯王國的君主。在希伯來文中，他被稱為亞哈隨魯（Ahasuerus）。</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ahasuerus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ahasuerus"
+}
+]
 }
 },
 {
 "content_id": "232916",
 "reference_id": 108315,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "血",
 "media_type": "Text",
 "index_reference": "血",
@@ -28,7 +36,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Blood",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Blood"
+},
+{
+"id": "keyterm:Bleed",
+"type": "keyterm",
+"confidence": 0.8277,
+"match_method": "embedding",
+"preferred_label": "Bleed"
+}
+]
 }
 }
 ]

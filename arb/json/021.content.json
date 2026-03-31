@@ -2,7 +2,7 @@
 {
 "content_id": "134210",
 "reference_id": 108408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جَاد",
 "media_type": "Text",
 "index_reference": "جَاد",
@@ -14,18 +14,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gad",
-"type": "person",
-"preferred_label": "جَاد",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gad.2",
 "type": "person",
-"preferred_label": "جَاد",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "جَاد"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَاد"
 }
 ]
 }
@@ -33,7 +33,7 @@
 {
 "content_id": "134099",
 "reference_id": 108297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جَاسَان",
 "media_type": "Text",
 "index_reference": "جَاسَان",
@@ -45,32 +45,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Gozan",
+"id": "place:Goshen.2",
 "type": "place",
-"preferred_label": "جوزَانَ",
-"confidence": 0.8259,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَاسَانَ"
 },
 {
 "id": "place:Goshen",
 "type": "place",
-"preferred_label": "جَاسَانَ",
-"confidence": 0.8189,
-"match_method": "embedding"
-},
-{
-"id": "place:Goshen.2",
-"type": "place",
-"preferred_label": "جَاسَانَ",
-"confidence": 0.8189,
-"match_method": "embedding"
-},
-{
-"id": "person:Geshan",
-"type": "person",
-"preferred_label": "جِيشَان",
-"confidence": 0.8042,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَاسَانَ"
 }
 ]
 }
@@ -78,7 +64,7 @@
 {
 "content_id": "134365",
 "reference_id": 108563,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جِبْرَائِيل",
 "media_type": "Text",
 "index_reference": "جِبْرَائِيل",
@@ -92,9 +78,9 @@
 {
 "id": "deity:Gabriel",
 "type": "deity",
-"preferred_label": "جِبْرَائِيل",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "جِبْرَائِيل"
 }
 ]
 }
@@ -102,7 +88,7 @@
 {
 "content_id": "133865",
 "reference_id": 108063,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جَبَل الزَّيْتُون",
 "media_type": "Text",
 "index_reference": "جَبَل الزَّيْتُون",
@@ -112,13 +98,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلزَّيْتونِ"
+}
+]
 }
 },
 {
 "content_id": "134129",
 "reference_id": 108327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جَبَلِ سِينَاء",
 "media_type": "Text",
 "index_reference": "جَبَلِ سِينَاء",
@@ -128,13 +122,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:SinaiMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "سِينَاءَ"
+}
+]
 }
 },
 {
 "content_id": "133876",
 "reference_id": 108074,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جحيم",
 "media_type": "Text",
 "index_reference": "جحيم",
@@ -144,13 +146,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "134239",
 "reference_id": 108437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جِدْعُون",
 "media_type": "Text",
 "index_reference": "جِدْعُون",
@@ -160,13 +170,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gideon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِدْعونَ"
+}
+]
 }
 },
 {
 "content_id": "133945",
 "reference_id": 108143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جسد المسيح",
 "media_type": "Text",
 "index_reference": "جسد المسيح",
@@ -182,7 +200,7 @@
 {
 "content_id": "134224",
 "reference_id": 108422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جِلْجَال",
 "media_type": "Text",
 "index_reference": "جِلْجَال",
@@ -192,13 +210,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْجَلِيلِ"
+}
+]
 }
 },
 {
 "content_id": "134243",
 "reference_id": 108441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جِلْعَاد",
 "media_type": "Text",
 "index_reference": "جِلْعَاد",
@@ -210,46 +243,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gilead",
-"type": "person",
-"preferred_label": "جِلْعَادَ",
-"confidence": 0.8234,
-"match_method": "embedding"
-},
-{
 "id": "person:Gilead.2",
 "type": "person",
-"preferred_label": "جِلْعَادَ",
-"confidence": 0.8234,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِلْعَادَ"
 },
 {
 "id": "person:Gilead.3",
 "type": "person",
-"preferred_label": "جِلْعَادَ",
-"confidence": 0.8234,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِلْعَادَ"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِلْعَادَ"
 },
 {
 "id": "place:Gilead",
 "type": "place",
-"preferred_label": "جِلْعَادَ",
-"confidence": 0.8234,
-"match_method": "embedding"
-},
-{
-"id": "person:Zilpah",
-"type": "person",
-"preferred_label": "زِلْفَةَ",
-"confidence": 0.8182,
-"match_method": "embedding"
-},
-{
-"id": "person:Zebidah",
-"type": "person",
-"preferred_label": "زَبِيدَة",
-"confidence": 0.8147,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جِلْعَادَ"
 }
 ]
 }
@@ -257,7 +276,7 @@
 {
 "content_id": "133838",
 "reference_id": 108036,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جَلِيل",
 "media_type": "Text",
 "index_reference": "جَلِيل",
@@ -267,13 +286,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلْجَلِيلِ"
+}
+]
 }
 },
 {
 "content_id": "134009",
 "reference_id": 108207,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "جنة عَدْن",
 "media_type": "Text",
 "index_reference": "جنة عَدْن",
@@ -283,7 +310,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Eden.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Garden of Eden"
+}
+]
 }
 }
 ]

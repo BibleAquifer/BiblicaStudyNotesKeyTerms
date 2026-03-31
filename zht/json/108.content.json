@@ -2,7 +2,7 @@
 {
 "content_id": "232945",
 "reference_id": 108344,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "生命冊",
 "media_type": "Text",
 "index_reference": "生命冊",
@@ -18,7 +18,7 @@
 {
 "content_id": "232818",
 "reference_id": 108217,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "生命樹",
 "media_type": "Text",
 "index_reference": "生命樹",
@@ -34,7 +34,7 @@
 {
 "content_id": "233018",
 "reference_id": 108417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "聖殿",
 "media_type": "Text",
 "index_reference": "聖殿",
@@ -44,13 +44,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+}
+]
 }
 },
 {
 "content_id": "232962",
 "reference_id": 108361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "聖潔",
 "media_type": "Text",
 "index_reference": "聖潔",
@@ -60,13 +68,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Holy"
+}
+]
 }
 },
 {
 "content_id": "232645",
 "reference_id": 108044,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "聖潔的生活",
 "media_type": "Text",
 "index_reference": "聖潔的生活",
@@ -82,7 +98,7 @@
 {
 "content_id": "232794",
 "reference_id": 108193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "聖經",
 "media_type": "Text",
 "index_reference": "聖經",
@@ -106,7 +122,7 @@
 {
 "content_id": "232989",
 "reference_id": 108388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "聖靈",
 "media_type": "Text",
 "index_reference": "聖靈",
@@ -116,13 +132,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Spirit"
+}
+]
 }
 },
 {
 "content_id": "232750",
 "reference_id": 108149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "聖靈的恩賜",
 "media_type": "Text",
 "index_reference": "聖靈的恩賜",
@@ -138,7 +162,7 @@
 {
 "content_id": "232755",
 "reference_id": 108154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "聖靈的果子",
 "media_type": "Text",
 "index_reference": "聖靈的果子",

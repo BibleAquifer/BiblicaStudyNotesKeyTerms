@@ -2,7 +2,7 @@
 {
 "content_id": "133840",
 "reference_id": 108038,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ثالوث",
 "media_type": "Text",
 "index_reference": "ثالوث",
@@ -54,7 +54,7 @@
 {
 "content_id": "134094",
 "reference_id": 108292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ثَامَار",
 "media_type": "Text",
 "index_reference": "ثَامَار",
@@ -66,32 +66,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Tamar",
-"type": "person",
-"preferred_label": "ثَامَارَ",
-"confidence": 0.8258,
-"match_method": "embedding"
-},
-{
 "id": "person:Tamar.2",
 "type": "person",
-"preferred_label": "ثَامَارَ",
-"confidence": 0.8258,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ثَامَارَ"
 },
 {
 "id": "person:Tamar.3",
 "type": "person",
-"preferred_label": "ثَامَارَ",
-"confidence": 0.8258,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ثَامَارَ"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ثَامَارَ"
 },
 {
 "id": "place:Tamar.2",
 "type": "place",
-"preferred_label": "ثَامَارَ",
-"confidence": 0.8258,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ثَامَارَ"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "تَدْمرَ"
 }
 ]
 }
@@ -99,23 +106,31 @@
 {
 "content_id": "134273",
 "reference_id": 108471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ثَامَار - داود",
 "media_type": "Text",
-"index_reference": "ثَامَار - داود",
+"index_reference": "ثَامَار  داود",
 "language": "arb",
 "review_level": "None",
 "content": "<p>ابنة داود ومعكة. كان لها هي وأبشالوم نفس الأبوين. كان لها هي وأمنون نفس الأب. اغتصب أمنون ثامار عندما كانت عذراء. ثم طردها من بيته. في تلك الأيام، كان هذا بمثابة طلاقها. جَلَبَ اغتصابها ثم عدم زواجها العار لثامار في مجتمعها. كان ذلك يعني أنها ربما لن تتزوج أو تنجب عائلة خاصة بها. عاشت مع أبشالوم بعد حدوث ذلك.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ثَامَارَ"
+}
+]
 }
 },
 {
 "content_id": "133881",
 "reference_id": 108079,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ثَاوُفِيلُس",
 "media_type": "Text",
 "index_reference": "ثَاوُفِيلُس",
@@ -125,13 +140,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Theophilus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ثَاوفِيلس"
+}
+]
 }
 },
 {
 "content_id": "134062",
 "reference_id": 108260,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ثلاث رِجال",
 "media_type": "Text",
 "index_reference": "ثلاث رِجال",
@@ -147,7 +170,7 @@
 {
 "content_id": "133956",
 "reference_id": 108154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ثمر الروح القدس",
 "media_type": "Text",
 "index_reference": "ثمر الروح القدس",
@@ -163,7 +186,7 @@
 {
 "content_id": "134151",
 "reference_id": 108349,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ثياب الكهنة",
 "media_type": "Text",
 "index_reference": "ثياب الكهنة",
@@ -179,7 +202,7 @@
 {
 "content_id": "133979",
 "reference_id": 108177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ثَيَاتِيرَا",
 "media_type": "Text",
 "index_reference": "ثَيَاتِيرَا",
@@ -193,16 +216,9 @@
 {
 "id": "place:Thyatira",
 "type": "place",
-"preferred_label": "ثَيَاتِيرَا",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Ithream",
-"type": "person",
-"preferred_label": "يَثْرَعَامَ",
-"confidence": 0.8157,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "ثَيَاتِيرَا"
 }
 ]
 }

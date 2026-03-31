@@ -2,7 +2,7 @@
 {
 "content_id": "193531",
 "reference_id": 108449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Давид",
 "media_type": "Text",
 "index_reference": "давид",
@@ -22,11 +22,18 @@
 ],
 "acai": [
 {
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иуда"
+},
+{
 "id": "person:David",
 "type": "person",
-"preferred_label": "Давид",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Давид"
 }
 ]
 }
@@ -34,7 +41,7 @@
 {
 "content_id": "193528",
 "reference_id": 108446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дагон",
 "media_type": "Text",
 "index_reference": "дагон",
@@ -48,9 +55,9 @@
 {
 "id": "deity:Dagon",
 "type": "deity",
-"preferred_label": "Дагон",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Дагон"
 }
 ]
 }
@@ -58,7 +65,7 @@
 {
 "content_id": "193527",
 "reference_id": 108445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Далида",
 "media_type": "Text",
 "index_reference": "далида",
@@ -72,9 +79,9 @@
 {
 "id": "person:Delilah",
 "type": "person",
-"preferred_label": "Далида",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Далида"
 }
 ]
 }
@@ -82,7 +89,7 @@
 {
 "content_id": "193622",
 "reference_id": 108540,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дамаск",
 "media_type": "Text",
 "index_reference": "дамаск",
@@ -96,9 +103,9 @@
 {
 "id": "place:Damascus",
 "type": "place",
-"preferred_label": "Дамаск",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Дамаск"
 }
 ]
 }
@@ -106,7 +113,7 @@
 {
 "content_id": "193526",
 "reference_id": 108444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дан",
 "media_type": "Text",
 "index_reference": "дан",
@@ -116,13 +123,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Дан"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Дан"
+}
+]
 }
 },
 {
 "content_id": "193642",
 "reference_id": 108560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Даниил",
 "media_type": "Text",
 "index_reference": "даниил",
@@ -136,16 +158,23 @@
 {
 "id": "person:Daniel.2",
 "type": "person",
-"preferred_label": "Даниил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Даниил"
 },
 {
 "id": "person:Daniel.3",
 "type": "person",
-"preferred_label": "Даниил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Даниил"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Далуиа"
 }
 ]
 }
@@ -153,7 +182,7 @@
 {
 "content_id": "193594",
 "reference_id": 108512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дарий",
 "media_type": "Text",
 "index_reference": "дарий",
@@ -165,25 +194,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Darius",
-"type": "person",
-"preferred_label": "Дарий",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Darius.2",
 "type": "person",
-"preferred_label": "Дарий",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Дарий"
 },
 {
 "id": "person:Darius.3",
 "type": "person",
-"preferred_label": "Дарий",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Дарий"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Дарий"
 }
 ]
 }
@@ -191,7 +220,7 @@
 {
 "content_id": "193231",
 "reference_id": 108149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дары Святого Духа",
 "media_type": "Text",
 "index_reference": "дары святого духа",
@@ -207,7 +236,7 @@
 {
 "content_id": "193515",
 "reference_id": 108433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Девора",
 "media_type": "Text",
 "index_reference": "девора",
@@ -219,25 +248,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "Девора",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "Девора",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Девора"
 },
 {
-"id": "place:Derbe",
-"type": "place",
-"preferred_label": "Дервия",
-"confidence": 0.8163,
-"match_method": "embedding"
+"id": "person:Deborah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Девора"
 }
 ]
 }
@@ -245,7 +267,7 @@
 {
 "content_id": "193254",
 "reference_id": 108172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "День Господень",
 "media_type": "Text",
 "index_reference": "день господень",
@@ -261,7 +283,7 @@
 {
 "content_id": "193653",
 "reference_id": 108571,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "День Господень",
 "media_type": "Text",
 "index_reference": "день господень",
@@ -292,7 +314,7 @@
 {
 "content_id": "193448",
 "reference_id": 108366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "День Искупления",
 "media_type": "Text",
 "index_reference": "день искупления",
@@ -316,7 +338,7 @@
 {
 "content_id": "193137",
 "reference_id": 108055,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "День суда",
 "media_type": "Text",
 "index_reference": "день суда",
@@ -340,7 +362,7 @@
 {
 "content_id": "193199",
 "reference_id": 108117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дервия",
 "media_type": "Text",
 "index_reference": "дервия",
@@ -354,23 +376,9 @@
 {
 "id": "place:Derbe",
 "type": "place",
-"preferred_label": "Дервия",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "Девора",
-"confidence": 0.8163,
-"match_method": "embedding"
-},
-{
-"id": "person:Deborah.2",
-"type": "person",
-"preferred_label": "Девора",
-"confidence": 0.8163,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Дервия"
 }
 ]
 }
@@ -378,7 +386,7 @@
 {
 "content_id": "193299",
 "reference_id": 108217,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дерево жизни",
 "media_type": "Text",
 "index_reference": "дерево жизни",
@@ -394,7 +402,7 @@
 {
 "content_id": "193292",
 "reference_id": 108210,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дерево познания",
 "media_type": "Text",
 "index_reference": "дерево познания",
@@ -410,7 +418,7 @@
 {
 "content_id": "193464",
 "reference_id": 108382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Десятина",
 "media_type": "Text",
 "index_reference": "десятина",
@@ -426,7 +434,7 @@
 {
 "content_id": "193413",
 "reference_id": 108331,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Десять заповедей",
 "media_type": "Text",
 "index_reference": "десять заповедей",
@@ -450,7 +458,7 @@
 {
 "content_id": "193390",
 "reference_id": 108308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Десять казней",
 "media_type": "Text",
 "index_reference": "десять казней",
@@ -466,7 +474,7 @@
 {
 "content_id": "193182",
 "reference_id": 108100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Диаконы",
 "media_type": "Text",
 "index_reference": "диаконы",
@@ -482,7 +490,7 @@
 {
 "content_id": "193365",
 "reference_id": 108283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дина",
 "media_type": "Text",
 "index_reference": "дина",
@@ -496,9 +504,9 @@
 {
 "id": "person:Dinah",
 "type": "person",
-"preferred_label": "Дина",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Дина"
 }
 ]
 }
@@ -506,10 +514,10 @@
 {
 "content_id": "193576",
 "reference_id": 108494,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "до н.э.",
 "media_type": "Text",
-"index_reference": "до н.э.",
+"index_reference": "до нэ",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Данное сокращение означает «до новой эры», то есть до Рождества Христова, — период времени до рождения Иисуса.</p>",
@@ -522,7 +530,7 @@
 {
 "content_id": "193142",
 "reference_id": 108060,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Добрые дела",
 "media_type": "Text",
 "index_reference": "добрые дела",
@@ -538,7 +546,7 @@
 {
 "content_id": "193249",
 "reference_id": 108167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Докетизм",
 "media_type": "Text",
 "index_reference": "докетизм",
@@ -554,7 +562,7 @@
 {
 "content_id": "193375",
 "reference_id": 108293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Долг деверя",
 "media_type": "Text",
 "index_reference": "долг деверя",
@@ -570,7 +578,7 @@
 {
 "content_id": "193487",
 "reference_id": 108405,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дочери Салпаада",
 "media_type": "Text",
 "index_reference": "дочери салпаада",
@@ -580,13 +588,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hoglah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Хогла"
+},
+{
+"id": "person:Mahlah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Махла"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Милка"
+},
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ноа"
+},
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Фирца"
+}
+]
 }
 },
 {
 "content_id": "193505",
 "reference_id": 108423,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Духи",
 "media_type": "Text",
 "index_reference": "духи",
@@ -610,7 +654,7 @@
 {
 "content_id": "193648",
 "reference_id": 108566,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Духовная война",
 "media_type": "Text",
 "index_reference": "духовная война",
@@ -626,7 +670,7 @@
 {
 "content_id": "193237",
 "reference_id": 108155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Духовные благословения",
 "media_type": "Text",
 "index_reference": "духовные благословения",
@@ -642,7 +686,7 @@
 {
 "content_id": "193544",
 "reference_id": 108462,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Духовный",
 "media_type": "Text",
 "index_reference": "духовный",
@@ -658,7 +702,7 @@
 {
 "content_id": "193611",
 "reference_id": 108529,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Духовный мир",
 "media_type": "Text",
 "index_reference": "духовный мир",
@@ -689,7 +733,7 @@
 {
 "content_id": "193298",
 "reference_id": 108216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Дьявол",
 "media_type": "Text",
 "index_reference": "дьявол",
@@ -707,7 +751,15 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "сатана"
+}
+]
 }
 }
 ]

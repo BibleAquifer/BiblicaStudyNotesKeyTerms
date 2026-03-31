@@ -2,7 +2,7 @@
 {
 "content_id": "132051",
 "reference_id": 108105,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Way of Jesus",
 "media_type": "Text",
 "index_reference": "way of jesus",
@@ -18,7 +18,7 @@
 {
 "content_id": "132271",
 "reference_id": 108325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wisdom",
 "media_type": "Text",
 "index_reference": "wisdom",
@@ -32,9 +32,9 @@
 {
 "id": "person:Wisdom",
 "type": "person",
-"preferred_label": "Wisdom",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Wisdom"
 }
 ]
 }
@@ -42,7 +42,7 @@
 {
 "content_id": "131979",
 "reference_id": 108033,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wise men",
 "media_type": "Text",
 "index_reference": "wise men",
@@ -58,7 +58,7 @@
 {
 "content_id": "132223",
 "reference_id": 108277,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wives",
 "media_type": "Text",
 "index_reference": "wives",
@@ -82,7 +82,7 @@
 {
 "content_id": "132154",
 "reference_id": 108208,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Work",
 "media_type": "Text",
 "index_reference": "work",
@@ -104,9 +104,9 @@
 {
 "id": "keyterm:Work",
 "type": "keyterm",
-"preferred_label": "Work",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Work"
 }
 ]
 }
@@ -114,7 +114,7 @@
 {
 "content_id": "132161",
 "reference_id": 108215,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "World",
 "media_type": "Text",
 "index_reference": "world",
@@ -130,7 +130,7 @@
 {
 "content_id": "132278",
 "reference_id": 108332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Worship only God",
 "media_type": "Text",
 "index_reference": "worship only god",

@@ -2,7 +2,7 @@
 {
 "content_id": "233010",
 "reference_id": 108409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "趕出",
 "media_type": "Text",
 "index_reference": "趕出",
@@ -18,7 +18,7 @@
 {
 "content_id": "232664",
 "reference_id": 108063,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "橄欖山",
 "media_type": "Text",
 "index_reference": "橄欖山",
@@ -28,13 +28,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount of Olives"
+}
+]
 }
 },
 {
 "content_id": "232743",
 "reference_id": 108142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "橄欖樹",
 "media_type": "Text",
 "index_reference": "橄欖樹",
@@ -44,7 +52,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+}
+]
 }
 }
 ]

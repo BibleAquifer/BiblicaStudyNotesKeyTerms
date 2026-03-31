@@ -2,7 +2,7 @@
 {
 "content_id": "203351",
 "reference_id": 108216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Iblis",
 "media_type": "Text",
 "index_reference": "iblis",
@@ -24,9 +24,9 @@
 {
 "id": "deity:Satan",
 "type": "deity",
-"preferred_label": "Iblis",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Iblis"
 }
 ]
 }
@@ -34,7 +34,7 @@
 {
 "content_id": "203667",
 "reference_id": 108532,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ibrani",
 "media_type": "Text",
 "index_reference": "ibrani",
@@ -65,7 +65,7 @@
 {
 "content_id": "203250",
 "reference_id": 108115,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ikonium",
 "media_type": "Text",
 "index_reference": "ikonium",
@@ -79,9 +79,9 @@
 {
 "id": "place:Iconium",
 "type": "place",
-"preferred_label": "Ikonium",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ikonium"
 }
 ]
 }
@@ -89,7 +89,7 @@
 {
 "content_id": "203468",
 "reference_id": 108333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Imam",
 "media_type": "Text",
 "index_reference": "imam",
@@ -120,7 +120,7 @@
 {
 "content_id": "203503",
 "reference_id": 108368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Imam besar",
 "media_type": "Text",
 "index_reference": "imam besar",
@@ -136,7 +136,7 @@
 {
 "content_id": "203367",
 "reference_id": 108232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Iman",
 "media_type": "Text",
 "index_reference": "iman",
@@ -146,13 +146,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "bersandar pada"
+}
+]
 }
 },
 {
 "content_id": "203673",
 "reference_id": 108538,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Imanuel",
 "media_type": "Text",
 "index_reference": "imanuel",
@@ -162,13 +170,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yesus"
+}
+]
 }
 },
 {
 "content_id": "203166",
 "reference_id": 108031,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Injil",
 "media_type": "Text",
 "index_reference": "injil",
@@ -192,7 +208,7 @@
 {
 "content_id": "203714",
 "reference_id": 108579,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Injil kemakmuran",
 "media_type": "Text",
 "index_reference": "injil kemakmuran",
@@ -208,7 +224,7 @@
 {
 "content_id": "203396",
 "reference_id": 108261,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ishak",
 "media_type": "Text",
 "index_reference": "ishak",
@@ -222,9 +238,9 @@
 {
 "id": "person:Isaac",
 "type": "person",
-"preferred_label": "Ishak",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ishak"
 }
 ]
 }
@@ -232,7 +248,7 @@
 {
 "content_id": "203397",
 "reference_id": 108262,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ismael",
 "media_type": "Text",
 "index_reference": "ismael",
@@ -244,46 +260,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ishmael",
-"type": "person",
-"preferred_label": "Ismael",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ishmael.2",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ismael"
 },
 {
 "id": "person:Ishmael.3",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ismael"
 },
 {
 "id": "person:Ishmael.4",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ismael"
 },
 {
 "id": "person:Ishmael.5",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ismael"
 },
 {
 "id": "person:Ishmael.6",
 "type": "person",
-"preferred_label": "Ismael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ismael"
+},
+{
+"id": "person:Ishmael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ismael"
 }
 ]
 }
@@ -291,7 +307,7 @@
 {
 "content_id": "203415",
 "reference_id": 108280,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Israel",
 "media_type": "Text",
 "index_reference": "israel",
@@ -313,23 +329,16 @@
 {
 "id": "person:Israel",
 "type": "person",
-"preferred_label": "Israel",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:BrookOfTheArabah",
-"type": "place",
-"preferred_label": "Israel",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Israel"
 },
 {
 "id": "place:Israel",
 "type": "place",
-"preferred_label": "Israel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Israel"
 }
 ]
 }
@@ -337,7 +346,7 @@
 {
 "content_id": "203347",
 "reference_id": 108212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Istirahat",
 "media_type": "Text",
 "index_reference": "istirahat",
@@ -353,10 +362,10 @@
 {
 "content_id": "203412",
 "reference_id": 108277,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Istri-istri",
 "media_type": "Text",
-"index_reference": "istri-istri",
+"index_reference": "istriistri",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Pada masa dan tempat di Perjanjian Lama, banyak pria memiliki lebih dari satu istri. Banyak kisah dalam Alkitab yang menunjukkan masalah yang ditimbulkan oleh hal ini bagi keluarga. Hal ini menyebabkan masalah dalam keluarga Yakub. Hal ini juga menyebabkan masalah bagi para pemimpin dan raja seperti Salomo. Seiring berjalannya waktu, bangsa Israel memahami bahwa seorang pria hanya boleh memiliki satu istri. Ini adalah praktik yang dilakukan oleh para pengikut Yesus dalam Perjanjian Baru. (Pernikahan)</p>",
@@ -377,7 +386,7 @@
 {
 "content_id": "203620",
 "reference_id": 108485,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Izebel",
 "media_type": "Text",
 "index_reference": "izebel",
@@ -391,9 +400,9 @@
 {
 "id": "person:Jezebel",
 "type": "person",
-"preferred_label": "Izebel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Izebel"
 }
 ]
 }

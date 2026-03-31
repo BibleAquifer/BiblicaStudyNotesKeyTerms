@@ -2,7 +2,7 @@
 {
 "content_id": "232933",
 "reference_id": 108332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "單單敬拜神",
 "media_type": "Text",
 "index_reference": "單單敬拜神",
@@ -18,7 +18,7 @@
 {
 "content_id": "233045",
 "reference_id": 108444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "但",
 "media_type": "Text",
 "index_reference": "但",
@@ -28,13 +28,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+}
+]
 }
 },
 {
 "content_id": "233161",
 "reference_id": 108560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "但以理",
 "media_type": "Text",
 "index_reference": "但以理",
@@ -44,7 +59,29 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chileab"
+}
+]
 }
 }
 ]

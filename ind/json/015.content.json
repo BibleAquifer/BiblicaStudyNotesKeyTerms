@@ -2,7 +2,7 @@
 {
 "content_id": "203202",
 "reference_id": 108067,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mahkamah Agama",
 "media_type": "Text",
 "index_reference": "mahkamah agama",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sanhedrin",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Sanhedrin"
+}
+]
 }
 },
 {
 "content_id": "203260",
 "reference_id": 108125,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Makedonia",
 "media_type": "Text",
 "index_reference": "makedonia",
@@ -40,9 +48,9 @@
 {
 "id": "place:Macedonia",
 "type": "place",
-"preferred_label": "Makedonia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Makedonia"
 }
 ]
 }
@@ -50,7 +58,7 @@
 {
 "content_id": "203558",
 "reference_id": 108423,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Makhluk rohani",
 "media_type": "Text",
 "index_reference": "makhluk rohani",
@@ -74,7 +82,7 @@
 {
 "content_id": "203448",
 "reference_id": 108313,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malaikat",
 "media_type": "Text",
 "index_reference": "malaikat",
@@ -92,21 +100,13 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "deity:Angel",
-"type": "deity",
-"preferred_label": "An Angel",
-"confidence": 0.8457,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "203563",
 "reference_id": 108428,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malaikat Allah",
 "media_type": "Text",
 "index_reference": "malaikat allah",
@@ -122,7 +122,7 @@
 {
 "content_id": "203449",
 "reference_id": 108314,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malaikat penghancur",
 "media_type": "Text",
 "index_reference": "malaikat penghancur",
@@ -138,7 +138,7 @@
 {
 "content_id": "203713",
 "reference_id": 108578,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maleakhi",
 "media_type": "Text",
 "index_reference": "maleakhi",
@@ -152,9 +152,9 @@
 {
 "id": "person:Malachi",
 "type": "person",
-"preferred_label": "Maleakhi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Maleakhi"
 }
 ]
 }
@@ -162,7 +162,7 @@
 {
 "content_id": "203434",
 "reference_id": 108299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manasye",
 "media_type": "Text",
 "index_reference": "manasye",
@@ -174,39 +174,32 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Manasye",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manasye",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Manasseh.2",
 "type": "person",
-"preferred_label": "Manasye",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Manasye"
 },
 {
 "id": "person:Manasseh.3",
 "type": "person",
-"preferred_label": "Manasye",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Manasye"
 },
 {
 "id": "person:Manasseh.4",
 "type": "person",
-"preferred_label": "Manasye",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Manasye"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasye"
 }
 ]
 }
@@ -214,7 +207,7 @@
 {
 "content_id": "203458",
 "reference_id": 108323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manna",
 "media_type": "Text",
 "index_reference": "manna",
@@ -230,7 +223,7 @@
 {
 "content_id": "203337",
 "reference_id": 108202,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manusia",
 "media_type": "Text",
 "index_reference": "manusia",
@@ -240,35 +233,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Adam",
-"type": "person",
-"preferred_label": "Manusia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Adam",
-"type": "place",
-"preferred_label": "Manusia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "keyterm:Carnal",
-"type": "keyterm",
-"preferred_label": "manusia",
-"confidence": 0.9266,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "203699",
 "reference_id": 108564,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manusia durhaka",
 "media_type": "Text",
 "index_reference": "manusia durhaka",
@@ -284,7 +255,7 @@
 {
 "content_id": "203589",
 "reference_id": 108454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maria dari Nazaret",
 "media_type": "Text",
 "index_reference": "maria dari nazaret",
@@ -294,13 +265,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+}
+]
 }
 },
 {
 "content_id": "203203",
 "reference_id": 108068,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maria Magdalena",
 "media_type": "Text",
 "index_reference": "maria magdalena",
@@ -310,29 +289,101 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+}
+]
 }
 },
 {
 "content_id": "203218",
 "reference_id": 108083,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maria, Martha and Lazarus",
 "media_type": "Text",
-"index_reference": "maria, martha and lazarus",
+"index_reference": "maria martha and lazarus",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Dua saudara perempuan dan seorang saudara laki-laki yang merupakan teman dekat Yesus. Mereka tinggal di luar Yerusalem, di Betania. Yesus akan tinggal di rumah mereka. Setelah Lazarus dikuburkan selama empat hari, Yesus menghidupkannya kembali. Maria menuangkan minyak wangi yang mahal ke atas kepala Yesus untuk menunjukkan cintanya yang mendalam kepada-Nya.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazarus"
+},
+{
+"id": "person:Lazarus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazarus"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marta"
+},
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Maria"
+}
+]
 }
 },
 {
 "content_id": "203204",
 "reference_id": 108069,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Markus",
 "media_type": "Text",
 "index_reference": "markus",
@@ -346,9 +397,9 @@
 {
 "id": "person:Mark",
 "type": "person",
-"preferred_label": "Markus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Markus"
 }
 ]
 }
@@ -356,7 +407,7 @@
 {
 "content_id": "203199",
 "reference_id": 108064,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Masehi",
 "media_type": "Text",
 "index_reference": "masehi",
@@ -372,7 +423,7 @@
 {
 "content_id": "203674",
 "reference_id": 108539,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Matius",
 "media_type": "Text",
 "index_reference": "matius",
@@ -386,16 +437,9 @@
 {
 "id": "person:Matthew",
 "type": "person",
-"preferred_label": "Matius",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Matthias",
-"type": "person",
-"preferred_label": "Matias",
-"confidence": 0.8133,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Matius"
 }
 ]
 }
@@ -403,7 +447,7 @@
 {
 "content_id": "203602",
 "reference_id": 108467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mefiboset",
 "media_type": "Text",
 "index_reference": "mefiboset",
@@ -415,18 +459,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mephibosheth",
-"type": "person",
-"preferred_label": "Mefiboset",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Mephibosheth.2",
 "type": "person",
-"preferred_label": "Mefiboset",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mefiboset"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mefiboset"
 }
 ]
 }
@@ -434,7 +478,7 @@
 {
 "content_id": "203387",
 "reference_id": 108252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Melkisedek",
 "media_type": "Text",
 "index_reference": "melkisedek",
@@ -448,9 +492,9 @@
 {
 "id": "person:Melchizedek",
 "type": "person",
-"preferred_label": "Melkisedek",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Melkisedek"
 }
 ]
 }
@@ -458,7 +502,7 @@
 {
 "content_id": "203380",
 "reference_id": 108245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Memberkati semua bangsa",
 "media_type": "Text",
 "index_reference": "memberkati semua bangsa",
@@ -474,7 +518,7 @@
 {
 "content_id": "203539",
 "reference_id": 108404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Membuang undi",
 "media_type": "Text",
 "index_reference": "membuang undi",
@@ -490,7 +534,7 @@
 {
 "content_id": "203285",
 "reference_id": 108150,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Menafsirkan bahasa roh",
 "media_type": "Text",
 "index_reference": "menafsirkan bahasa roh",
@@ -514,7 +558,7 @@
 {
 "content_id": "203502",
 "reference_id": 108367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Menebus",
 "media_type": "Text",
 "index_reference": "menebus",
@@ -538,10 +582,10 @@
 {
 "content_id": "203453",
 "reference_id": 108318,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mengajar anak-anak mereka",
 "media_type": "Text",
-"index_reference": "mengajar anak-anak mereka",
+"index_reference": "mengajar anakanak mereka",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Anak-anak Israel didorong untuk mengajukan pertanyaan tentang Allah dan praktik-praktik ibadah. Orang tua harus menjelaskan kepada anak-anak mereka mengapa mereka menyembah Allah dengan cara-cara tertentu. Dengan cara ini, anak-anak akan belajar tentang siapa Allah itu. Mereka akan belajar tentang karya-karya ajaib yang Allah lakukan di dunia. Hal ini penting karena Allah telah berjanji untuk menjadi Allah mereka untuk selama-lamanya. Ia ingin agar setiap orang dalam garis keturunan Yakub mengenal-Nya.</p>",
@@ -554,7 +598,7 @@
 {
 "content_id": "203416",
 "reference_id": 108281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mengampuni",
 "media_type": "Text",
 "index_reference": "mengampuni",
@@ -564,13 +608,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "mengampuni"
+}
+]
 }
 },
 {
 "content_id": "203490",
 "reference_id": 108355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mengasihi Allah",
 "media_type": "Text",
 "index_reference": "mengasihi allah",
@@ -586,10 +638,10 @@
 {
 "content_id": "203399",
 "reference_id": 108264,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mengurbankan anak-anak",
 "media_type": "Text",
-"index_reference": "mengurbankan anak-anak",
+"index_reference": "mengurbankan anakanak",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Membunuh anak-anak sebagai cara untuk menyembah dan menghormati dewa-dewa palsu. Orang-orang akan mengorbankan anak-anak untuk menunjukkan seberapa besar komitmen mereka terhadap dewa-dewa palsu. Mereka juga melakukannya untuk mendapatkan berkah dari allah-allah palsu. Praktik ini biasa terjadi pada masa dan tempat yang dicatat dalam Perjanjian Lama. Allah yang benar menunjukkan bahwa Dia tidak boleh disembah dengan cara seperti itu. Hukum-hukum Allah sangat jelas menyatakan bahwa manusia tidak boleh dikorbankan. Ini termasuk anak-anak. Imamat pasal 18 dan 20 berbicara tentang hal ini.</p>",
@@ -602,7 +654,7 @@
 {
 "content_id": "203473",
 "reference_id": 108338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mengurbankan hewan",
 "media_type": "Text",
 "index_reference": "mengurbankan hewan",
@@ -618,7 +670,7 @@
 {
 "content_id": "203544",
 "reference_id": 108409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mengusir",
 "media_type": "Text",
 "index_reference": "mengusir",
@@ -628,21 +680,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:Dispossess",
-"type": "keyterm",
-"preferred_label": "mengusir",
-"confidence": 0.8488,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "203241",
 "reference_id": 108106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Menumpangkan Tangan",
 "media_type": "Text",
 "index_reference": "menumpangkan tangan",
@@ -658,7 +702,7 @@
 {
 "content_id": "203467",
 "reference_id": 108332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Menyembah hanya kepada Allah",
 "media_type": "Text",
 "index_reference": "menyembah hanya kepada allah",
@@ -674,7 +718,7 @@
 {
 "content_id": "203529",
 "reference_id": 108394,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Meriba",
 "media_type": "Text",
 "index_reference": "meriba",
@@ -686,18 +730,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Meribah",
-"type": "place",
-"preferred_label": "Meriba",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Meribah.2",
 "type": "place",
-"preferred_label": "Meriba",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Meriba"
+},
+{
+"id": "place:Meribah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Meriba"
 }
 ]
 }
@@ -705,7 +749,7 @@
 {
 "content_id": "203662",
 "reference_id": 108527,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mesias",
 "media_type": "Text",
 "index_reference": "mesias",
@@ -715,13 +759,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yesus"
+}
+]
 }
 },
 {
 "content_id": "203386",
 "reference_id": 108251,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mesir",
 "media_type": "Text",
 "index_reference": "mesir",
@@ -735,30 +787,16 @@
 {
 "id": "person:Egypt",
 "type": "person",
-"preferred_label": "Mesir",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:BrookOfEgypt",
-"type": "place",
-"preferred_label": "Mesir",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mesir"
 },
 {
 "id": "place:Egypt",
 "type": "place",
-"preferred_label": "Mesir",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:EgyptSea",
-"type": "place",
-"preferred_label": "Mesir",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mesir"
 }
 ]
 }
@@ -766,7 +804,7 @@
 {
 "content_id": "203379",
 "reference_id": 108244,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mesopotamia",
 "media_type": "Text",
 "index_reference": "mesopotamia",
@@ -776,13 +814,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Mesopotamia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram-Mesopotamia"
+}
+]
 }
 },
 {
 "content_id": "203420",
 "reference_id": 108285,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mezbah",
 "media_type": "Text",
 "index_reference": "mezbah",
@@ -792,13 +838,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Altar",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Altar"
+}
+]
 }
 },
 {
 "content_id": "203317",
 "reference_id": 108182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mezbah dari emas",
 "media_type": "Text",
 "index_reference": "mezbah dari emas",
@@ -822,7 +876,7 @@
 {
 "content_id": "203711",
 "reference_id": 108576,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mikha",
 "media_type": "Text",
 "index_reference": "mikha",
@@ -834,95 +888,53 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mica",
-"type": "person",
-"preferred_label": "Mikha",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Mica.2",
-"type": "person",
-"preferred_label": "Mikha",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Mica.3",
-"type": "person",
-"preferred_label": "Mikha",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Micah.2",
 "type": "person",
-"preferred_label": "Mikha",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikha"
 },
 {
 "id": "person:Micah.3",
 "type": "person",
-"preferred_label": "Mikha",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikha"
 },
 {
 "id": "person:Micah.4",
 "type": "person",
-"preferred_label": "Mikha",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikha"
 },
 {
 "id": "person:Micah.5",
 "type": "person",
-"preferred_label": "Mikha",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikha"
 },
 {
 "id": "person:Micah.6",
 "type": "person",
-"preferred_label": "Mikha",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikha"
 },
 {
 "id": "person:Micaiah.3",
 "type": "person",
-"preferred_label": "Mikha",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikha"
 },
 {
-"id": "person:Micaiah.4",
+"id": "person:Mica",
 "type": "person",
-"preferred_label": "Mikha",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Micaiah.5",
-"type": "person",
-"preferred_label": "Mikha",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Micaiah.6",
-"type": "person",
-"preferred_label": "Mikha",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Mithkah",
-"type": "place",
-"preferred_label": "Mitka",
-"confidence": 0.8178,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikha"
 }
 ]
 }
@@ -930,7 +942,7 @@
 {
 "content_id": "203700",
 "reference_id": 108565,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mikhael",
 "media_type": "Text",
 "index_reference": "mikhael",
@@ -942,81 +954,81 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Michael",
-"type": "person",
-"preferred_label": "Mikhael",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Michael.10",
 "type": "person",
-"preferred_label": "Mikhael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 },
 {
 "id": "person:Michael.11",
 "type": "person",
-"preferred_label": "Mikhael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 },
 {
 "id": "person:Michael.2",
 "type": "person",
-"preferred_label": "Mikhael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 },
 {
 "id": "person:Michael.3",
 "type": "person",
-"preferred_label": "Mikhael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 },
 {
 "id": "person:Michael.4",
 "type": "person",
-"preferred_label": "Mikhael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 },
 {
 "id": "person:Michael.5",
 "type": "person",
-"preferred_label": "Mikhael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 },
 {
 "id": "person:Michael.6",
 "type": "person",
-"preferred_label": "Mikhael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 },
 {
 "id": "person:Michael.7",
 "type": "person",
-"preferred_label": "Mikhael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 },
 {
 "id": "person:Michael.8",
 "type": "person",
-"preferred_label": "Mikhael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 },
 {
 "id": "person:Michael.9",
 "type": "person",
-"preferred_label": "Mikhael",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mikhael"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikhael"
 }
 ]
 }
@@ -1024,7 +1036,7 @@
 {
 "content_id": "203408",
 "reference_id": 108273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mimpi",
 "media_type": "Text",
 "index_reference": "mimpi",
@@ -1040,7 +1052,7 @@
 {
 "content_id": "203457",
 "reference_id": 108322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miriam",
 "media_type": "Text",
 "index_reference": "miriam",
@@ -1052,18 +1064,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Miriam",
-"type": "person",
-"preferred_label": "Miryam",
-"confidence": 0.8223,
-"match_method": "embedding"
-},
-{
 "id": "person:Miriam.2",
 "type": "person",
-"preferred_label": "Miryam",
-"confidence": 0.8223,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miryam"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miryam"
 }
 ]
 }
@@ -1071,7 +1083,7 @@
 {
 "content_id": "203280",
 "reference_id": 108145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Misteri Kristus",
 "media_type": "Text",
 "index_reference": "misteri kristus",
@@ -1087,7 +1099,7 @@
 {
 "content_id": "203532",
 "reference_id": 108397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Moab",
 "media_type": "Text",
 "index_reference": "moab",
@@ -1101,16 +1113,16 @@
 {
 "id": "person:Moab",
 "type": "person",
-"preferred_label": "Moab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Moab"
 },
 {
 "id": "place:Moab",
 "type": "place",
-"preferred_label": "Moab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Moab"
 }
 ]
 }
@@ -1118,7 +1130,7 @@
 {
 "content_id": "203655",
 "reference_id": 108520,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mordekhai",
 "media_type": "Text",
 "index_reference": "mordekhai",
@@ -1130,18 +1142,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mordecai",
-"type": "person",
-"preferred_label": "Mordekhai",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Mordecai.2",
 "type": "person",
-"preferred_label": "Mordekhai",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mordekhai"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordekhai"
 }
 ]
 }
@@ -1149,10 +1161,10 @@
 {
 "content_id": "203440",
 "reference_id": 108305,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mukjizat-mukjizat",
 "media_type": "Text",
-"index_reference": "mukjizat-mukjizat",
+"index_reference": "mukjizatmukjizat",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Perbuatan-perbuatan besar dari Allah. Ini juga disebut tanda-tanda dan mukjizat, hal-hal yang menakjubkan dan perbuatan-perbuatan yang dahsyat. Semua itu menunjukkan bahwa Allah adalah Allah yang benar. Semua itu menunjukkan bahwa Dia memiliki kuasa dan otoritas yang lebih besar daripada apa pun yang ada. Allah memberikan kuasa kepada orang-orang tertentu untuk melakukan mukjizat. Mereka melakukannya untuk menolong orang lain agar percaya bahwa Allah adalah seperti yang Ia katakan. Yesus melakukan karya-karya besar Allah ketika Ia berada di bumi. Dia memberi para pengikutnya kuasa untuk juga melakukan tanda-tanda dan mukjizat-mukjizat.</p>",
@@ -1165,7 +1177,7 @@
 {
 "content_id": "203175",
 "reference_id": 108040,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Murid",
 "media_type": "Text",
 "index_reference": "murid",
@@ -1196,7 +1208,7 @@
 {
 "content_id": "203635",
 "reference_id": 108500,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Murka Allah",
 "media_type": "Text",
 "index_reference": "murka allah",
@@ -1212,7 +1224,7 @@
 {
 "content_id": "203499",
 "reference_id": 108364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Murni atau tidak murni",
 "media_type": "Text",
 "index_reference": "murni atau tidak murni",
@@ -1236,7 +1248,7 @@
 {
 "content_id": "203435",
 "reference_id": 108300,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Musa",
 "media_type": "Text",
 "index_reference": "musa",
@@ -1258,9 +1270,9 @@
 {
 "id": "person:Moses",
 "type": "person",
-"preferred_label": "Musa",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Musa"
 }
 ]
 }

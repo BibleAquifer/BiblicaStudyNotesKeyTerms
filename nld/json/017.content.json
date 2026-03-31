@@ -2,7 +2,7 @@
 {
 "content_id": "778805",
 "reference_id": 108420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rechter",
 "media_type": "Text",
 "index_reference": "rechter",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Judge"
+}
+]
 }
 },
 {
 "content_id": "769674",
 "reference_id": 108363,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rein of onrein",
 "media_type": "Text",
 "index_reference": "rein of onrein",
@@ -34,7 +42,7 @@
 {
 "content_id": "769768",
 "reference_id": 108409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rijd eruit",
 "media_type": "Text",
 "index_reference": "rijd eruit",

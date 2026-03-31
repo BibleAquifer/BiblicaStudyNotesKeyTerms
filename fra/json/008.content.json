@@ -2,7 +2,7 @@
 {
 "content_id": "133297",
 "reference_id": 108045,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Famille de Dieu",
 "media_type": "Text",
 "index_reference": "famille de dieu",
@@ -18,7 +18,7 @@
 {
 "content_id": "133536",
 "reference_id": 108284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Faux dieux",
 "media_type": "Text",
 "index_reference": "faux dieux",
@@ -34,7 +34,7 @@
 {
 "content_id": "133802",
 "reference_id": 108550,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Faux prophète",
 "media_type": "Text",
 "index_reference": "faux prophète",
@@ -58,7 +58,7 @@
 {
 "content_id": "133339",
 "reference_id": 108087,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Femme",
 "media_type": "Text",
 "index_reference": "femme",
@@ -68,21 +68,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "group:GenericFemales",
-"type": "group",
-"preferred_label": "Women",
-"confidence": 0.9161,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "133569",
 "reference_id": 108317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fête de la Pâque",
 "media_type": "Text",
 "index_reference": "fête de la pâque",
@@ -98,7 +90,7 @@
 {
 "content_id": "133775",
 "reference_id": 108523,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fête de Pourim",
 "media_type": "Text",
 "index_reference": "fête de pourim",
@@ -114,7 +106,7 @@
 {
 "content_id": "133625",
 "reference_id": 108373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fête des pains sans levain",
 "media_type": "Text",
 "index_reference": "fête des pains sans levain",
@@ -130,7 +122,7 @@
 {
 "content_id": "133629",
 "reference_id": 108377,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fête des Tentes",
 "media_type": "Text",
 "index_reference": "fête des tentes",
@@ -146,7 +138,7 @@
 {
 "content_id": "133628",
 "reference_id": 108376,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fête des Trompettes",
 "media_type": "Text",
 "index_reference": "fête des trompettes",
@@ -162,7 +154,7 @@
 {
 "content_id": "133624",
 "reference_id": 108372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fêtes",
 "media_type": "Text",
 "index_reference": "fêtes",
@@ -178,7 +170,7 @@
 {
 "content_id": "133304",
 "reference_id": 108052,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fils de David",
 "media_type": "Text",
 "index_reference": "fils de david",
@@ -202,7 +194,7 @@
 {
 "content_id": "133778",
 "reference_id": 108526,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fils de Dieu",
 "media_type": "Text",
 "index_reference": "fils de dieu",
@@ -218,10 +210,10 @@
 {
 "content_id": "133809",
 "reference_id": 108557,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fils de l'homme",
 "media_type": "Text",
-"index_reference": "fils de l'homme",
+"index_reference": "fils de lhomme",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Une manière de parler d&apos;une personne ou d&apos;un être humain. C&apos;est aussi le nom de quelqu&apos;un dans une vision reçue par Daniel (Dn 7.13–14). Dans cette vision, le fils de l&apos;homme a sauvé Israël de ses ennemis. Jésus s&apos;est appelé lui-même le Fils de l&apos;homme. C&apos;était une façon de dire qu&apos;il était humain et qu&apos;il disposait aussi de l&apos;autorité de Dieu. Jésus a expliqué qu&apos;en tant que Fils de l&apos;homme, il allait souffrir. Ensuite, il remporterait la victoire sur les ennemis de Dieu. Ces ennemis sont le péché, la mort et le mal. Jésus ferait cela pour tous les êtres humains.</p>",
@@ -234,7 +226,7 @@
 {
 "content_id": "133484",
 "reference_id": 108232,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Foi",
 "media_type": "Text",
 "index_reference": "foi",
@@ -244,13 +236,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:LeanOn",
+"type": "keyterm",
+"confidence": 0.8872,
+"match_method": "embedding",
+"preferred_label": "s'appuyer sur"
+}
+]
 }
 },
 {
 "content_id": "133356",
 "reference_id": 108104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fonctionnaire éthiopien",
 "media_type": "Text",
 "index_reference": "fonctionnaire éthiopien",
@@ -266,10 +266,10 @@
 {
 "content_id": "133406",
 "reference_id": 108154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Fruit du Saint-Esprit",
 "media_type": "Text",
-"index_reference": "fruit du saint-esprit",
+"index_reference": "fruit du saintesprit",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Manières pieuses dont les gens pensent, parlent et agissent. Ces manières montrent que les gens pensent, parlent et agissent comme Jésus l&apos;a fait. C&apos;est le Saint-Esprit qui rend les gens aptes à faire cela. Il n&apos;y a pas de nombre exact de fruits du Saint-Esprit. Paul et Pierre ont énuméré des exemples de fruits du Saint-Esprit dans la vie des croyants. Il s&apos;agit de l&apos;amour, de la joie, de la paix, de la patience, de la bonté, de la fidélité, de la douceur et de la maîtrise de soi. Ils incluent la connaissance et la piété. Ils comprennent également tout ce qui montre qu&apos;un croyant suit l&apos;exemple de Jésus.</p>",

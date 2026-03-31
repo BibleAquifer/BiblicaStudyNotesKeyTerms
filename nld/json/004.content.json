@@ -2,7 +2,7 @@
 {
 "content_id": "769660",
 "reference_id": 108034,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Caesar",
 "media_type": "Text",
 "index_reference": "caesar",
@@ -12,13 +12,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Claudius"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiberius"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Augustus"
+}
+]
 }
 },
 {
 "content_id": "769661",
 "reference_id": 108138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Caesarea",
 "media_type": "Text",
 "index_reference": "caesarea",
@@ -30,18 +59,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Caesarea",
-"type": "place",
-"preferred_label": "Caesarea",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Caesarea.2",
 "type": "place",
-"preferred_label": "Caesarea",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
 }
 ]
 }
@@ -49,7 +78,7 @@
 {
 "content_id": "769664",
 "reference_id": 108090,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cana",
 "media_type": "Text",
 "index_reference": "cana",
@@ -63,9 +92,9 @@
 {
 "id": "place:Cana",
 "type": "place",
-"preferred_label": "Cana",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Cana"
 }
 ]
 }
@@ -73,7 +102,7 @@
 {
 "content_id": "775572",
 "reference_id": 108242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cham",
 "media_type": "Text",
 "index_reference": "cham",
@@ -83,13 +112,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ham"
+},
+{
+"id": "place:Ham.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ham"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ammon"
+}
+]
 }
 },
 {
 "content_id": "769668",
 "reference_id": 108098,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Christus",
 "media_type": "Text",
 "index_reference": "christus",
@@ -107,13 +158,21 @@
 "language": "nld"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesus"
+}
+]
 }
 },
 {
 "content_id": "769680",
 "reference_id": 108108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cornelius",
 "media_type": "Text",
 "index_reference": "cornelius",
@@ -127,9 +186,9 @@
 {
 "id": "person:Cornelius",
 "type": "person",
-"preferred_label": "Cornelius",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Cornelius"
 }
 ]
 }
@@ -137,7 +196,7 @@
 {
 "content_id": "769690",
 "reference_id": 108112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cyprus",
 "media_type": "Text",
 "index_reference": "cyprus",
@@ -151,9 +210,9 @@
 {
 "id": "place:Cyprus",
 "type": "place",
-"preferred_label": "Cyprus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Cyprus"
 }
 ]
 }

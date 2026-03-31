@@ -2,7 +2,7 @@
 {
 "content_id": "146030",
 "reference_id": 108521,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hamã",
 "media_type": "Text",
 "index_reference": "hamã",
@@ -16,37 +16,9 @@
 {
 "id": "person:Haman",
 "type": "person",
-"preferred_label": "Hamã",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hemam",
-"type": "person",
-"preferred_label": "Hemã",
-"confidence": 0.8234,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman",
-"type": "person",
-"preferred_label": "Hemã",
-"confidence": 0.8234,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.2",
-"type": "person",
-"preferred_label": "Hemã",
-"confidence": 0.8234,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.3",
-"type": "person",
-"preferred_label": "Hemã",
-"confidence": 0.8234,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hamã"
 }
 ]
 }
@@ -54,7 +26,7 @@
 {
 "content_id": "146041",
 "reference_id": 108532,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hebreu",
 "media_type": "Text",
 "index_reference": "hebreu",
@@ -85,7 +57,7 @@
 {
 "content_id": "145619",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Agripa I",
 "media_type": "Text",
 "index_reference": "herodes agripa i",
@@ -95,13 +67,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Agripa"
+}
+]
 }
 },
 {
 "content_id": "145648",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Agripa II",
 "media_type": "Text",
 "index_reference": "herodes agripa ii",
@@ -111,13 +91,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodes"
+}
+]
 }
 },
 {
 "content_id": "145566",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes Antipas",
 "media_type": "Text",
 "index_reference": "herodes antipas",
@@ -131,9 +119,9 @@
 {
 "id": "person:Herod.2",
 "type": "person",
-"preferred_label": "Herodes Antipas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Herodes Antipas"
 }
 ]
 }
@@ -141,23 +129,31 @@
 {
 "content_id": "146067",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodes, o Grande",
 "media_type": "Text",
-"index_reference": "herodes, o grande",
+"index_reference": "herodes o grande",
 "language": "por",
 "review_level": "None",
 "content": "<p>O Rei Herodes de Mateus 2 e Lucas 1. Ele foi um governante nomeado pelos romanos com o título de Rei dos Judeus. Ele governou como rei de cerca de 36 a.C. a 4 a.C. Ele governou sobre a Judeia e todas as terras de Israel. Ele era da linhagem familiar de Esaú, mas era considerado judeu. Ele ordenou que muitos projetos de construção fossem realizados. Isso incluiu a cidade de Cesareia e o templo em Jerusalém. Ele ordenou que o templo fosse ampliado e tornado maior e mais grandioso do que jamais havia sido.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodes"
+}
+]
 }
 },
 {
 "content_id": "145571",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herodianos",
 "media_type": "Text",
 "index_reference": "herodianos",
@@ -171,9 +167,9 @@
 {
 "id": "group:Herodian",
 "type": "group",
-"preferred_label": "Herodians",
-"confidence": 0.8372,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodians"
 }
 ]
 }
@@ -181,7 +177,7 @@
 {
 "content_id": "145936",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Heveus",
 "media_type": "Text",
 "index_reference": "heveus",
@@ -191,13 +187,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
+}
+]
 }
 },
 {
 "content_id": "145707",
 "reference_id": 108198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Histórias",
 "media_type": "Text",
 "index_reference": "histórias",
@@ -213,7 +217,7 @@
 {
 "content_id": "145896",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hobabe",
 "media_type": "Text",
 "index_reference": "hobabe",
@@ -227,44 +231,9 @@
 {
 "id": "person:Hobab",
 "type": "person",
-"preferred_label": "Hobabe",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab",
-"type": "person",
-"preferred_label": "Jobabe",
-"confidence": 0.8255,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.2",
-"type": "person",
-"preferred_label": "Jobabe",
-"confidence": 0.8255,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.3",
-"type": "person",
-"preferred_label": "Jobabe",
-"confidence": 0.8255,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.4",
-"type": "person",
-"preferred_label": "Jobabe",
-"confidence": 0.8255,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.5",
-"type": "person",
-"preferred_label": "Jobabe",
-"confidence": 0.8255,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hobabe"
 }
 ]
 }
@@ -272,7 +241,7 @@
 {
 "content_id": "146073",
 "reference_id": 108564,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Homem do pecado",
 "media_type": "Text",
 "index_reference": "homem do pecado",
@@ -288,7 +257,7 @@
 {
 "content_id": "145542",
 "reference_id": 108033,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Homens sábios",
 "media_type": "Text",
 "index_reference": "homens sábios",

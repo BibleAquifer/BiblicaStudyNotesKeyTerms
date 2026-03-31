@@ -2,7 +2,7 @@
 {
 "content_id": "133852",
 "reference_id": 108050,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الفرّيسيون",
 "media_type": "Text",
 "index_reference": "الفرّيسيون",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisees"
+}
+]
 }
 },
 {
 "content_id": "133955",
 "reference_id": 108153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فَائِقِي الرُسُلِ",
 "media_type": "Text",
 "index_reference": "فَائِقِي الرُسُلِ",
@@ -34,7 +42,7 @@
 {
 "content_id": "134311",
 "reference_id": 108509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فارس",
 "media_type": "Text",
 "index_reference": "فارس",
@@ -44,13 +52,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Persia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فَارِسَ"
+}
+]
 }
 },
 {
 "content_id": "134327",
 "reference_id": 108525,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فُجَّارِ",
 "media_type": "Text",
 "index_reference": "فُجَّارِ",
@@ -66,7 +82,7 @@
 {
 "content_id": "134183",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فِدية",
 "media_type": "Text",
 "index_reference": "فِدية",
@@ -82,10 +98,10 @@
 {
 "content_id": "134160",
 "reference_id": 108358,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فرز (تقديس)",
 "media_type": "Text",
-"index_reference": "فرز (تقديس)",
+"index_reference": "فرز تقديس",
 "language": "arb",
 "review_level": "None",
 "content": "<p>في العهد القديم كان هناك معنيان للتقديس. المعنى الأول كان للأشخاص والكهنة والأنبياء والأشياء التي تم فرزها. الناس والكهنة والأنبياء يمكن أن يُفرزوا لخدمة الله بطرق خاصة. أشياء مثل الحيوانات والأراضي والأشياء يمكن أيضًا أن تَتقدس للرب. هذا يعني أنها لم تكن تُستخدم بالطريقة العادية، كان يجب استخدامها فقط بطرق خاصة لخدمة الله. كان المعنى الثاني هو عندما كان الناس أو الأشياء مُفرزين للهلاك. كانت هذه الطريقة التي يُدين الله بها الناس على أعمالهم الشريرة.</p>",
@@ -98,7 +114,7 @@
 {
 "content_id": "134052",
 "reference_id": 108250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فرعون",
 "media_type": "Text",
 "index_reference": "فرعون",
@@ -108,13 +124,84 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Pharaoh.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "نَخْو"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Pharaoh.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِرْعَوْنَ"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "حَفْرَعَ"
+}
+]
 }
 },
 {
 "content_id": "133925",
 "reference_id": 108123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فِرِيجِيَّة",
 "media_type": "Text",
 "index_reference": "فِرِيجِيَّة",
@@ -124,13 +211,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Phrygia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فَرِيجِيَّةَ"
+}
+]
 }
 },
 {
 "content_id": "134069",
 "reference_id": 108267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فلسطينيون",
 "media_type": "Text",
 "index_reference": "فلسطينيون",
@@ -140,13 +235,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِلِشْتِيم"
+}
+]
 }
 },
 {
 "content_id": "134038",
 "reference_id": 108236,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فُلك نوح",
 "media_type": "Text",
 "index_reference": "فُلك نوح",
@@ -162,7 +265,7 @@
 {
 "content_id": "133966",
 "reference_id": 108164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فِلِيمون",
 "media_type": "Text",
 "index_reference": "فِلِيمون",
@@ -172,13 +275,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Philemon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "إِلَى"
+}
+]
 }
 },
 {
 "content_id": "133875",
 "reference_id": 108073,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "في اسم يسوع",
 "media_type": "Text",
 "index_reference": "في اسم يسوع",
@@ -194,7 +305,7 @@
 {
 "content_id": "133982",
 "reference_id": 108180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فيلادلفيا",
 "media_type": "Text",
 "index_reference": "فيلادلفيا",
@@ -204,13 +315,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Philadelphia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلَادَلْفِيَا"
+}
+]
 }
 },
 {
 "content_id": "133905",
 "reference_id": 108103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فيلبُّس",
 "media_type": "Text",
 "index_reference": "فيلبُّس",
@@ -220,13 +339,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Philip.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلبّسَ"
+},
+{
+"id": "person:Philip.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلبّسَ"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلبّسَ"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِيلبّسَ"
+}
+]
 }
 },
 {
 "content_id": "133928",
 "reference_id": 108126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فِيلِبِّي",
 "media_type": "Text",
 "index_reference": "فِيلِبِّي",
@@ -240,9 +388,9 @@
 {
 "id": "place:Philippi",
 "type": "place",
-"preferred_label": "فِيلِبِّي",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "فِيلِبِّي"
 }
 ]
 }
@@ -250,7 +398,7 @@
 {
 "content_id": "134205",
 "reference_id": 108403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "فِينحاس",
 "media_type": "Text",
 "index_reference": "فِينحاس",
@@ -260,7 +408,29 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِينَحَاس"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِينَحَاس"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِينَحَاس"
+}
+]
 }
 }
 ]

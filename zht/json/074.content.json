@@ -2,7 +2,7 @@
 {
 "content_id": "232853",
 "reference_id": 108252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "麥基洗德",
 "media_type": "Text",
 "index_reference": "麥基洗德",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Melchizedek",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Melchizedek"
+}
+]
 }
 }
 ]

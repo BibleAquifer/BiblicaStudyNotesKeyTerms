@@ -2,7 +2,7 @@
 {
 "content_id": "232094",
 "reference_id": 108125,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Macedonia",
 "media_type": "Text",
 "index_reference": "macedonia",
@@ -24,9 +24,9 @@
 {
 "id": "place:Macedonia",
 "type": "place",
-"preferred_label": "Macedonia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Macedonia"
 }
 ]
 }
@@ -34,7 +34,7 @@
 {
 "content_id": "232272",
 "reference_id": 108303,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Madianitas",
 "media_type": "Text",
 "index_reference": "madianitas",
@@ -46,25 +46,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Midian",
-"type": "person",
-"preferred_label": "Madianitas",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Midian",
-"type": "place",
-"preferred_label": "Madianitas",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "group:Midian",
 "type": "group",
-"preferred_label": "Madianita",
-"confidence": 0.8329,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Madianita"
 }
 ]
 }
@@ -72,7 +58,7 @@
 {
 "content_id": "232017",
 "reference_id": 108048,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maestros de la ley",
 "media_type": "Text",
 "index_reference": "maestros de la ley",
@@ -88,7 +74,7 @@
 {
 "content_id": "232279",
 "reference_id": 108310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Magia",
 "media_type": "Text",
 "index_reference": "magia",
@@ -98,13 +84,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "las artes mágicas"
+}
+]
 }
 },
 {
 "content_id": "232547",
 "reference_id": 108578,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malaquías",
 "media_type": "Text",
 "index_reference": "malaquías",
@@ -118,9 +112,9 @@
 {
 "id": "person:Malachi",
 "type": "person",
-"preferred_label": "Malaquías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Malaquías"
 }
 ]
 }
@@ -128,7 +122,7 @@
 {
 "content_id": "232349",
 "reference_id": 108380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maldiciones del pacto",
 "media_type": "Text",
 "index_reference": "maldiciones del pacto",
@@ -144,7 +138,7 @@
 {
 "content_id": "232023",
 "reference_id": 108054,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maltratado",
 "media_type": "Text",
 "index_reference": "maltratado",
@@ -168,7 +162,7 @@
 {
 "content_id": "232292",
 "reference_id": 108323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Maná",
 "media_type": "Text",
 "index_reference": "maná",
@@ -184,7 +178,7 @@
 {
 "content_id": "232268",
 "reference_id": 108299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manasés",
 "media_type": "Text",
 "index_reference": "manasés",
@@ -196,39 +190,32 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Manasés",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manasés",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Manasseh.2",
 "type": "person",
-"preferred_label": "Manasés",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Manasés"
 },
 {
 "id": "person:Manasseh.3",
 "type": "person",
-"preferred_label": "Manasés",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Manasés"
 },
 {
 "id": "person:Manasseh.4",
 "type": "person",
-"preferred_label": "Manasés",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Manasés"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasés"
 }
 ]
 }
@@ -236,7 +223,7 @@
 {
 "content_id": "232041",
 "reference_id": 108072,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mar",
 "media_type": "Text",
 "index_reference": "mar",
@@ -252,7 +239,7 @@
 {
 "content_id": "232544",
 "reference_id": 108575,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mar Mediterráneo",
 "media_type": "Text",
 "index_reference": "mar mediterráneo",
@@ -262,13 +249,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:GreatSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "gran"
+}
+]
 }
 },
 {
 "content_id": "232289",
 "reference_id": 108320,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mar Rojo",
 "media_type": "Text",
 "index_reference": "mar rojo",
@@ -278,13 +273,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bermejo"
+}
+]
 }
 },
 {
 "content_id": "232038",
 "reference_id": 108069,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Marcos",
 "media_type": "Text",
 "index_reference": "marcos",
@@ -298,9 +301,9 @@
 {
 "id": "person:Mark",
 "type": "person",
-"preferred_label": "Marcos",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Marcos"
 }
 ]
 }
@@ -308,7 +311,7 @@
 {
 "content_id": "232489",
 "reference_id": 108520,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mardoqueo",
 "media_type": "Text",
 "index_reference": "mardoqueo",
@@ -320,18 +323,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mordecai",
-"type": "person",
-"preferred_label": "Mardochêo",
-"confidence": 0.9021,
-"match_method": "embedding"
-},
-{
 "id": "person:Mordecai.2",
 "type": "person",
-"preferred_label": "Mardochêo",
-"confidence": 0.9021,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mardochêo"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mardochêo"
 }
 ]
 }
@@ -339,7 +342,7 @@
 {
 "content_id": "232423",
 "reference_id": 108454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "María de Nazaret",
 "media_type": "Text",
 "index_reference": "maría de nazaret",
@@ -349,13 +352,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "María"
+}
+]
 }
 },
 {
 "content_id": "232291",
 "reference_id": 108322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "María hermana de Moisés",
 "media_type": "Text",
 "index_reference": "maría hermana de moisés",
@@ -365,13 +376,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Miriam.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "María"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "María"
+}
+]
 }
 },
 {
 "content_id": "232037",
 "reference_id": 108068,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "María Magdalena",
 "media_type": "Text",
 "index_reference": "maría magdalena",
@@ -381,29 +407,101 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "María"
+}
+]
 }
 },
 {
 "content_id": "232052",
 "reference_id": 108083,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "María, Marta y Lázaro",
 "media_type": "Text",
-"index_reference": "maría, marta y lázaro",
+"index_reference": "maría marta y lázaro",
 "language": "spa",
 "review_level": "None",
 "content": "<p>Dos hermanas y un hermano que eran amigos cercanos de Jesús. Vivían fuera de Jerusalén en Betania. Jesús se quedaba en su casa. Después de que Lázaro había sido enterrado durante cuatro días, Jesús lo devolvió a la vida. María derramó perfume caro en la cabeza de Jesús para mostrar su profundo amor por él.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lázaro"
+},
+{
+"id": "person:Lazarus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lázaro"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marta"
+},
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "María"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "María"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "María"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "María"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "María"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "María"
+}
+]
 }
 },
 {
 "content_id": "232508",
 "reference_id": 108539,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mateo",
 "media_type": "Text",
 "index_reference": "mateo",
@@ -417,9 +515,9 @@
 {
 "id": "person:Matthew",
 "type": "person",
-"preferred_label": "Mateo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mateo"
 }
 ]
 }
@@ -427,7 +525,7 @@
 {
 "content_id": "232175",
 "reference_id": 108206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Matrimonio",
 "media_type": "Text",
 "index_reference": "matrimonio",
@@ -443,7 +541,7 @@
 {
 "content_id": "232430",
 "reference_id": 108461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Médium",
 "media_type": "Text",
 "index_reference": "médium",
@@ -459,23 +557,38 @@
 {
 "content_id": "232436",
 "reference_id": 108467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mefi-boset",
 "media_type": "Text",
-"index_reference": "mefi-boset",
+"index_reference": "mefiboset",
 "language": "spa",
 "review_level": "None",
 "content": "<p>Un hijo de Jonatán y nieto de Saúl. Era de la tribu de Benjamín. Sus pies se lastimaron en un accidente el día que murió Jonatán. Una vez que David se convirtió en rey, siempre trató bien a Mefi-boset.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Mephibosheth.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mephi-boseth"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mephi-boseth"
+}
+]
 }
 },
 {
 "content_id": "232221",
 "reference_id": 108252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Melquisedec",
 "media_type": "Text",
 "index_reference": "melquisedec",
@@ -489,9 +602,9 @@
 {
 "id": "person:Melchizedek",
 "type": "person",
-"preferred_label": "Melchîsedec",
-"confidence": 0.8485,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Melchîsedec"
 }
 ]
 }
@@ -499,7 +612,7 @@
 {
 "content_id": "232503",
 "reference_id": 108534,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mensajes de juicio",
 "media_type": "Text",
 "index_reference": "mensajes de juicio",
@@ -515,7 +628,7 @@
 {
 "content_id": "232363",
 "reference_id": 108394,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Meriba",
 "media_type": "Text",
 "index_reference": "meriba",
@@ -525,13 +638,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Meribah.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Meribah"
+},
+{
+"id": "place:Meribah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Meribah"
+}
+]
 }
 },
 {
 "content_id": "232496",
 "reference_id": 108527,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mesías",
 "media_type": "Text",
 "index_reference": "mesías",
@@ -541,13 +669,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesús"
+}
+]
 }
 },
 {
 "content_id": "232213",
 "reference_id": 108244,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mesopotamia",
 "media_type": "Text",
 "index_reference": "mesopotamia",
@@ -559,25 +695,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Mesopotamia",
-"type": "group",
-"preferred_label": "Mesopotamia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Aram-naharaim",
-"type": "place",
-"preferred_label": "Mesopotamia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Mesopotamia",
 "type": "place",
-"preferred_label": "Mesopotamia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mesopotamia"
 }
 ]
 }
@@ -585,7 +707,7 @@
 {
 "content_id": "232534",
 "reference_id": 108565,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miguel",
 "media_type": "Text",
 "index_reference": "miguel",
@@ -595,13 +717,91 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Michael.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+},
+{
+"id": "person:Michael.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+},
+{
+"id": "person:Michael.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+},
+{
+"id": "person:Michael.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+},
+{
+"id": "person:Michael.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+},
+{
+"id": "person:Michael.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+},
+{
+"id": "person:Michael.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+},
+{
+"id": "person:Michael.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+},
+{
+"id": "person:Michael.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+},
+{
+"id": "person:Michael.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâel"
+}
+]
 }
 },
 {
 "content_id": "232274",
 "reference_id": 108305,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Milagros",
 "media_type": "Text",
 "index_reference": "milagros",
@@ -617,7 +817,7 @@
 {
 "content_id": "232545",
 "reference_id": 108576,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miqueas",
 "media_type": "Text",
 "index_reference": "miqueas",
@@ -627,13 +827,63 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Micah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâs"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâs"
+},
+{
+"id": "person:Micah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâs"
+},
+{
+"id": "person:Micah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâs"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâs"
+},
+{
+"id": "person:Micaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâías"
+},
+{
+"id": "person:Mica",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Michâ"
+}
+]
 }
 },
 {
 "content_id": "232311",
 "reference_id": 108342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Misericordia",
 "media_type": "Text",
 "index_reference": "misericordia",
@@ -643,13 +893,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "misericordia"
+}
+]
 }
 },
 {
 "content_id": "232114",
 "reference_id": 108145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Misterio de Cristo",
 "media_type": "Text",
 "index_reference": "misterio de cristo",
@@ -665,7 +923,7 @@
 {
 "content_id": "232366",
 "reference_id": 108397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Moab",
 "media_type": "Text",
 "index_reference": "moab",
@@ -679,16 +937,16 @@
 {
 "id": "person:Moab",
 "type": "person",
-"preferred_label": "Moab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Moab"
 },
 {
 "id": "place:Moab",
 "type": "place",
-"preferred_label": "Moab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Moab"
 }
 ]
 }
@@ -696,7 +954,7 @@
 {
 "content_id": "232269",
 "reference_id": 108300,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Moisés",
 "media_type": "Text",
 "index_reference": "moisés",
@@ -718,9 +976,9 @@
 {
 "id": "person:Moses",
 "type": "person",
-"preferred_label": "Moisés",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Moisés"
 }
 ]
 }
@@ -728,7 +986,7 @@
 {
 "content_id": "232032",
 "reference_id": 108063,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Monte de los Olivos",
 "media_type": "Text",
 "index_reference": "monte de los olivos",
@@ -738,13 +996,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "las"
+}
+]
 }
 },
 {
 "content_id": "232474",
 "reference_id": 108505,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Monte Moriah",
 "media_type": "Text",
 "index_reference": "monte moriah",
@@ -754,13 +1020,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:MoriahMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moriah"
+}
+]
 }
 },
 {
 "content_id": "232296",
 "reference_id": 108327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Monte Sinaí",
 "media_type": "Text",
 "index_reference": "monte sinaí",
@@ -770,13 +1044,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:SinaiMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sinaí"
+}
+]
 }
 },
 {
 "content_id": "232159",
 "reference_id": 108190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Muerte e infierno",
 "media_type": "Text",
 "index_reference": "muerte e infierno",
@@ -786,13 +1068,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "232056",
 "reference_id": 108087,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mujer",
 "media_type": "Text",
 "index_reference": "mujer",
@@ -802,21 +1092,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "group:GenericFemales",
-"type": "group",
-"preferred_label": "Women",
-"confidence": 0.9168,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "232184",
 "reference_id": 108215,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mundo",
 "media_type": "Text",
 "index_reference": "mundo",
@@ -832,7 +1114,7 @@
 {
 "content_id": "232498",
 "reference_id": 108529,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mundo celestial",
 "media_type": "Text",
 "index_reference": "mundo celestial",

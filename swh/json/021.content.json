@@ -2,7 +2,7 @@
 {
 "content_id": "368000",
 "reference_id": 108509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uajemi",
 "media_type": "Text",
 "index_reference": "uajemi",
@@ -16,9 +16,9 @@
 {
 "id": "place:Persia",
 "type": "place",
-"preferred_label": "Uajemi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Uajemi"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "368032",
 "reference_id": 108541,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uandishi wa kiapokaliptiki",
 "media_type": "Text",
 "index_reference": "uandishi wa kiapokaliptiki",
@@ -42,7 +42,7 @@
 {
 "content_id": "367528",
 "reference_id": 108037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ubatizo",
 "media_type": "Text",
 "index_reference": "ubatizo",
@@ -52,13 +52,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
 "content_id": "367801",
 "reference_id": 108310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uchawi",
 "media_type": "Text",
 "index_reference": "uchawi",
@@ -68,13 +76,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Magic"
+}
+]
 }
 },
 {
 "content_id": "367970",
 "reference_id": 108479,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ufalme wa Kaskazini",
 "media_type": "Text",
 "index_reference": "ufalme wa kaskazini",
@@ -90,7 +106,7 @@
 {
 "content_id": "367971",
 "reference_id": 108480,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ufalme wa Kusini",
 "media_type": "Text",
 "index_reference": "ufalme wa kusini",
@@ -100,13 +116,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yudea"
+}
+]
 }
 },
 {
 "content_id": "367828",
 "reference_id": 108337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ufalme wa makuhani",
 "media_type": "Text",
 "index_reference": "ufalme wa makuhani",
@@ -122,7 +146,7 @@
 {
 "content_id": "368052",
 "reference_id": 108561,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ufalme wa Mungu",
 "media_type": "Text",
 "index_reference": "ufalme wa mungu",
@@ -146,7 +170,7 @@
 {
 "content_id": "368059",
 "reference_id": 108568,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ufufuo",
 "media_type": "Text",
 "index_reference": "ufufuo",
@@ -156,13 +180,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Resurrection"
+}
+]
 }
 },
 {
 "content_id": "367685",
 "reference_id": 108194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ugiriki",
 "media_type": "Text",
 "index_reference": "ugiriki",
@@ -172,13 +204,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Greece",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kigiriki"
+}
+]
 }
 },
 {
 "content_id": "367986",
 "reference_id": 108495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uhamisho",
 "media_type": "Text",
 "index_reference": "uhamisho",
@@ -194,7 +234,7 @@
 {
 "content_id": "368025",
 "reference_id": 108534,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ujumbe wa hukumu",
 "media_type": "Text",
 "index_reference": "ujumbe wa hukumu",
@@ -210,7 +250,7 @@
 {
 "content_id": "367711",
 "reference_id": 108220,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ukoo",
 "media_type": "Text",
 "index_reference": "ukoo",
@@ -220,21 +260,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "place:Beth-ashbea",
-"type": "place",
-"preferred_label": "ukoo",
-"confidence": 0.83,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "368020",
 "reference_id": 108529,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ulimwengu wa mbingu",
 "media_type": "Text",
 "index_reference": "ulimwengu wa mbingu",
@@ -265,7 +297,7 @@
 {
 "content_id": "367890",
 "reference_id": 108399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Unabii",
 "media_type": "Text",
 "index_reference": "unabii",
@@ -281,7 +313,7 @@
 {
 "content_id": "367891",
 "reference_id": 108400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Unabii kuhusu Yesu",
 "media_type": "Text",
 "index_reference": "unabii kuhusu yesu",
@@ -305,7 +337,7 @@
 {
 "content_id": "368039",
 "reference_id": 108548,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Upanga",
 "media_type": "Text",
 "index_reference": "upanga",
@@ -315,13 +347,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Sword",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
+}
+]
 }
 },
 {
 "content_id": "367960",
 "reference_id": 108469,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uriah",
 "media_type": "Text",
 "index_reference": "uriah",
@@ -331,13 +371,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Uriah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+},
+{
+"id": "person:Uriah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Uria"
+}
+]
 }
 },
 {
 "content_id": "368068",
 "reference_id": 108577,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ushuru",
 "media_type": "Text",
 "index_reference": "ushuru",
@@ -353,7 +429,7 @@
 {
 "content_id": "367529",
 "reference_id": 108038,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utatu",
 "media_type": "Text",
 "index_reference": "utatu",
@@ -405,7 +481,7 @@
 {
 "content_id": "367839",
 "reference_id": 108348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Utukufu",
 "media_type": "Text",
 "index_reference": "utukufu",
@@ -415,13 +491,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Glory"
+}
+]
 }
 },
 {
 "content_id": "367688",
 "reference_id": 108197,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uumbaji",
 "media_type": "Text",
 "index_reference": "uumbaji",
@@ -445,7 +529,7 @@
 {
 "content_id": "368034",
 "reference_id": 108543,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uumbaji mpya",
 "media_type": "Text",
 "index_reference": "uumbaji mpya",
@@ -461,7 +545,7 @@
 {
 "content_id": "367862",
 "reference_id": 108371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uvumba",
 "media_type": "Text",
 "index_reference": "uvumba",
@@ -471,13 +555,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
+}
+]
 }
 },
 {
 "content_id": "368060",
 "reference_id": 108569,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Uzima wa milele",
 "media_type": "Text",
 "index_reference": "uzima wa milele",

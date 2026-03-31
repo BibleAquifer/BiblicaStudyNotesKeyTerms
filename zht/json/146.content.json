@@ -2,7 +2,7 @@
 {
 "content_id": "233168",
 "reference_id": 108567,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "永恆的神",
 "media_type": "Text",
 "index_reference": "永恆的神",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "233170",
 "reference_id": 108569,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "永生",
 "media_type": "Text",
 "index_reference": "永生",

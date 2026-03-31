@@ -2,7 +2,7 @@
 {
 "content_id": "232670",
 "reference_id": 108069,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "馬可",
 "media_type": "Text",
 "index_reference": "馬可",
@@ -12,29 +12,101 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mark"
+}
+]
 }
 },
 {
 "content_id": "232684",
 "reference_id": 108083,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "馬利亞、馬大和拉撒路",
 "media_type": "Text",
-"index_reference": "馬利亞、馬大和拉撒路",
+"index_reference": "馬利亞馬大和拉撒路",
 "language": "zht",
 "review_level": "None",
 "content": "<p>這對姐妹和他們的兄弟是耶穌的親密友人。他們住在耶路撒冷外的伯大尼。耶穌經常住在他們的家裡。拉撒路被埋葬四天後，耶穌使他復活。馬利亞在耶穌的頭上倒了昂貴的香膏，以表達她對耶穌的深愛。</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazarus"
+},
+{
+"id": "person:Lazarus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazarus"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Martha"
+},
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary"
+}
+]
 }
 },
 {
 "content_id": "232726",
 "reference_id": 108125,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "馬其頓",
 "media_type": "Text",
 "index_reference": "馬其頓",
@@ -52,13 +124,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "place:Macedonia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Macedonia"
+}
+]
 }
 },
 {
 "content_id": "233140",
 "reference_id": 108539,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "馬太",
 "media_type": "Text",
 "index_reference": "馬太",
@@ -68,13 +148,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Matthew"
+}
+]
 }
 },
 {
 "content_id": "233179",
 "reference_id": 108578,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "瑪拉基",
 "media_type": "Text",
 "index_reference": "瑪拉基",
@@ -84,13 +172,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Malachi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Malachi"
+}
+]
 }
 },
 {
 "content_id": "232900",
 "reference_id": 108299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "瑪拿西",
 "media_type": "Text",
 "index_reference": "瑪拿西",
@@ -100,13 +196,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Manasseh.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Manasseh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Manasseh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manasseh"
+}
+]
 }
 },
 {
 "content_id": "232924",
 "reference_id": 108323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "嗎哪",
 "media_type": "Text",
 "index_reference": "嗎哪",

@@ -2,7 +2,7 @@
 {
 "content_id": "367537",
 "reference_id": 108046,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rabi",
 "media_type": "Text",
 "index_reference": "rabi",
@@ -18,7 +18,7 @@
 {
 "content_id": "367912",
 "reference_id": 108421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rahabu",
 "media_type": "Text",
 "index_reference": "rahabu",
@@ -32,9 +32,16 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "Rahabu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rahabu"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Misri"
 }
 ]
 }
@@ -42,7 +49,7 @@
 {
 "content_id": "367767",
 "reference_id": 108276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raheli",
 "media_type": "Text",
 "index_reference": "raheli",
@@ -56,9 +63,9 @@
 {
 "id": "person:Rachel",
 "type": "person",
-"preferred_label": "Raheli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Raheli"
 }
 ]
 }
@@ -66,7 +73,7 @@
 {
 "content_id": "367618",
 "reference_id": 108127,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raia wa Kirumi",
 "media_type": "Text",
 "index_reference": "raia wa kirumi",
@@ -82,7 +89,7 @@
 {
 "content_id": "367647",
 "reference_id": 108156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raia wa mbinguni",
 "media_type": "Text",
 "index_reference": "raia wa mbinguni",
@@ -106,7 +113,7 @@
 {
 "content_id": "367757",
 "reference_id": 108266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rebeka",
 "media_type": "Text",
 "index_reference": "rebeka",
@@ -120,9 +127,9 @@
 {
 "id": "person:Rebekah",
 "type": "person",
-"preferred_label": "Rebeka",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rebeka"
 }
 ]
 }
@@ -130,7 +137,7 @@
 {
 "content_id": "367833",
 "reference_id": 108342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rehema",
 "media_type": "Text",
 "index_reference": "rehema",
@@ -140,13 +147,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Mercy"
+}
+]
 }
 },
 {
 "content_id": "367969",
 "reference_id": 108478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rehoboamu",
 "media_type": "Text",
 "index_reference": "rehoboamu",
@@ -160,9 +175,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "Rehoboamu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rehoboamu"
 }
 ]
 }
@@ -170,7 +185,7 @@
 {
 "content_id": "367898",
 "reference_id": 108407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reubeni",
 "media_type": "Text",
 "index_reference": "reubeni",
@@ -182,18 +197,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Reuben",
-"type": "group",
-"preferred_label": "Reubeni",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Reuben",
 "type": "person",
-"preferred_label": "Reubeni",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Reubeni"
 }
 ]
 }
@@ -201,7 +209,7 @@
 {
 "content_id": "367879",
 "reference_id": 108388,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roho Mtakatifu",
 "media_type": "Text",
 "index_reference": "roho mtakatifu",
@@ -211,13 +219,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Roho"
+}
+]
 }
 },
 {
 "content_id": "367538",
 "reference_id": 108047,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rumi",
 "media_type": "Text",
 "index_reference": "rumi",
@@ -227,13 +243,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Warumi"
+}
+]
 }
 },
 {
 "content_id": "367938",
 "reference_id": 108447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruthu",
 "media_type": "Text",
 "index_reference": "ruthu",
@@ -247,9 +271,9 @@
 {
 "id": "person:Ruth",
 "type": "person",
-"preferred_label": "Ruthu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ruthu"
 }
 ]
 }

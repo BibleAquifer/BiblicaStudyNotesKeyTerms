@@ -2,7 +2,7 @@
 {
 "content_id": "232972",
 "reference_id": 108371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "香",
 "media_type": "Text",
 "index_reference": "香",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
+}
+]
 }
 }
 ]

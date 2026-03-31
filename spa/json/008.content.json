@@ -2,7 +2,7 @@
 {
 "content_id": "232532",
 "reference_id": 108563,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gabriel",
 "media_type": "Text",
 "index_reference": "gabriel",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Gabriel",
 "type": "deity",
-"preferred_label": "Gabriel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gabriel"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "232377",
 "reference_id": 108408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gad",
 "media_type": "Text",
 "index_reference": "gad",
@@ -36,13 +36,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+}
+]
 }
 },
 {
 "content_id": "232091",
 "reference_id": 108122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galacia",
 "media_type": "Text",
 "index_reference": "galacia",
@@ -56,9 +71,9 @@
 {
 "id": "place:Galatia",
 "type": "place",
-"preferred_label": "Galacia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galacia"
 }
 ]
 }
@@ -66,7 +81,7 @@
 {
 "content_id": "232005",
 "reference_id": 108036,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galilea",
 "media_type": "Text",
 "index_reference": "galilea",
@@ -80,9 +95,9 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"preferred_label": "Galilea",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galilea"
 }
 ]
 }
@@ -90,7 +105,7 @@
 {
 "content_id": "232068",
 "reference_id": 108099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gamaliel",
 "media_type": "Text",
 "index_reference": "gamaliel",
@@ -102,18 +117,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gamaliel",
-"type": "person",
-"preferred_label": "Gamaliel",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gamaliel.2",
 "type": "person",
-"preferred_label": "Gamaliel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
+},
+{
+"id": "person:Gamaliel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
 }
 ]
 }
@@ -121,7 +136,7 @@
 {
 "content_id": "232406",
 "reference_id": 108437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gedeón",
 "media_type": "Text",
 "index_reference": "gedeón",
@@ -135,16 +150,9 @@
 {
 "id": "person:Gideon",
 "type": "person",
-"preferred_label": "Gedeón",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Gideoni",
-"type": "person",
-"preferred_label": "Gedeón",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gedeón"
 }
 ]
 }
@@ -152,7 +160,7 @@
 {
 "content_id": "232516",
 "reference_id": 108547,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gentil",
 "media_type": "Text",
 "index_reference": "gentil",
@@ -170,13 +178,21 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "nación; gente"
+}
+]
 }
 },
 {
 "content_id": "232051",
 "reference_id": 108082,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gerasenos",
 "media_type": "Text",
 "index_reference": "gerasenos ",
@@ -192,7 +208,7 @@
 {
 "content_id": "232410",
 "reference_id": 108441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilead",
 "media_type": "Text",
 "index_reference": "gilead",
@@ -202,13 +218,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gilead.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galaad"
+},
+{
+"id": "person:Gilead.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galaad"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galaad"
+},
+{
+"id": "place:Gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galaad"
+}
+]
 }
 },
 {
 "content_id": "232391",
 "reference_id": 108422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilgal",
 "media_type": "Text",
 "index_reference": "gilgal",
@@ -220,25 +265,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Gilgal.3",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Gilgal.4",
 "type": "place",
-"preferred_label": "Gilgal",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilea"
 }
 ]
 }
@@ -246,7 +284,7 @@
 {
 "content_id": "232317",
 "reference_id": 108348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gloria",
 "media_type": "Text",
 "index_reference": "gloria",
@@ -256,13 +294,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "gloria del señor"
+}
+]
 }
 },
 {
 "content_id": "232266",
 "reference_id": 108297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gosén",
 "media_type": "Text",
 "index_reference": "gosén",
@@ -274,18 +320,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Goshen",
-"type": "place",
-"preferred_label": "Gosén",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Goshen.2",
 "type": "place",
-"preferred_label": "Gosén",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gosén"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gosén"
 }
 ]
 }
@@ -293,7 +339,7 @@
 {
 "content_id": "232204",
 "reference_id": 108235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gracia",
 "media_type": "Text",
 "index_reference": "gracia",
@@ -309,7 +355,7 @@
 {
 "content_id": "232163",
 "reference_id": 108194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grecia",
 "media_type": "Text",
 "index_reference": "grecia",
@@ -323,9 +369,9 @@
 {
 "id": "place:Greece",
 "type": "place",
-"preferred_label": "Grecia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Grecia"
 }
 ]
 }
@@ -333,7 +379,7 @@
 {
 "content_id": "232154",
 "reference_id": 108185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Grupos de siete",
 "media_type": "Text",
 "index_reference": "grupos de siete",

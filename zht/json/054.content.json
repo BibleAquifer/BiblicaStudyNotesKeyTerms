@@ -2,7 +2,7 @@
 {
 "content_id": "233164",
 "reference_id": 108563,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "加百列",
 "media_type": "Text",
 "index_reference": "加百列",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Gabriel",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabriel"
+}
+]
 }
 },
 {
 "content_id": "232992",
 "reference_id": 108391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "加低斯巴尼亞",
 "media_type": "Text",
 "index_reference": "加低斯巴尼亞",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kadesh-barnea"
+}
+]
 }
 },
 {
 "content_id": "232723",
 "reference_id": 108122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "加拉太",
 "media_type": "Text",
 "index_reference": "加拉太",
@@ -44,13 +60,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galatia"
+}
+]
 }
 },
 {
 "content_id": "232637",
 "reference_id": 108036,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "加利利",
 "media_type": "Text",
 "index_reference": "加利利",
@@ -60,13 +84,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
+}
+]
 }
 },
 {
 "content_id": "232667",
 "reference_id": 108066,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "加略人猶大",
 "media_type": "Text",
 "index_reference": "加略人猶大",
@@ -76,13 +108,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judas"
+}
+]
 }
 },
 {
 "content_id": "232693",
 "reference_id": 108092,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "迦百農",
 "media_type": "Text",
 "index_reference": "迦百農",
@@ -92,13 +132,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Capernaum"
+}
+]
 }
 },
 {
 "content_id": "233009",
 "reference_id": 108408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "迦得",
 "media_type": "Text",
 "index_reference": "迦得",
@@ -108,13 +156,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+}
+]
 }
 },
 {
 "content_id": "232991",
 "reference_id": 108390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "迦勒",
 "media_type": "Text",
 "index_reference": "迦勒",
@@ -124,13 +187,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Caleb.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caleb"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caleb"
+}
+]
 }
 },
 {
 "content_id": "232700",
 "reference_id": 108099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "迦瑪列",
 "media_type": "Text",
 "index_reference": "迦瑪列",
@@ -140,13 +218,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gamaliel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
+},
+{
+"id": "person:Gamaliel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gamaliel"
+}
+]
 }
 },
 {
 "content_id": "232691",
 "reference_id": 108090,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "迦拿",
 "media_type": "Text",
 "index_reference": "迦拿",
@@ -156,13 +249,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Cana",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cana"
+}
+]
 }
 },
 {
 "content_id": "232847",
 "reference_id": 108246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "迦南",
 "media_type": "Text",
 "index_reference": "迦南",
@@ -172,13 +273,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Canaan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Canaan"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Canaan"
+}
+]
 }
 },
 {
 "content_id": "233049",
 "reference_id": 108448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "家族保護者",
 "media_type": "Text",
 "index_reference": "家族保護者",
@@ -194,7 +310,7 @@
 {
 "content_id": "232885",
 "reference_id": 108284,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "假神",
 "media_type": "Text",
 "index_reference": "假神",
@@ -210,7 +326,7 @@
 {
 "content_id": "233151",
 "reference_id": 108550,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "假先知",
 "media_type": "Text",
 "index_reference": "假先知",

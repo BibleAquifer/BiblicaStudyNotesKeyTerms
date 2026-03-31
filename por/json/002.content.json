@@ -2,7 +2,7 @@
 {
 "content_id": "145709",
 "reference_id": 108200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A palavra de Deus",
 "media_type": "Text",
 "index_reference": "a palavra de deus",
@@ -26,7 +26,7 @@
 {
 "content_id": "145818",
 "reference_id": 108309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "A vara de Arão",
 "media_type": "Text",
 "index_reference": "a vara de arão",
@@ -40,25 +40,9 @@
 }
 },
 {
-"content_id": "146003",
-"reference_id": 108494,
-"version": "1.0.2",
-"title": "a.C.",
-"media_type": "Text",
-"index_reference": "a.c.",
-"language": "por",
-"review_level": "None",
-"content": "<p>Uma maneira de descrever todos os anos antes do nascimento de Jesus. a.C. significa antes de Cristo.</p>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
-}
-},
-{
 "content_id": "145650",
 "reference_id": 108141,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abba",
 "media_type": "Text",
 "index_reference": "abba",
@@ -68,13 +52,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "SENHOR"
+}
+]
 }
 },
 {
 "content_id": "145730",
 "reference_id": 108221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abel",
 "media_type": "Text",
 "index_reference": "abel",
@@ -88,16 +80,16 @@
 {
 "id": "person:Abel",
 "type": "person",
-"preferred_label": "Abel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abel"
 },
 {
 "id": "place:Abel",
 "type": "place",
-"preferred_label": "Abel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abel"
 }
 ]
 }
@@ -105,7 +97,7 @@
 {
 "content_id": "145754",
 "reference_id": 108245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abençoe todas as nações",
 "media_type": "Text",
 "index_reference": "abençoe todas as nações",
@@ -121,7 +113,7 @@
 {
 "content_id": "145990",
 "reference_id": 108481,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abias",
 "media_type": "Text",
 "index_reference": "abias",
@@ -133,53 +125,53 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Abiah",
-"type": "person",
-"preferred_label": "Abias",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Abijah.2",
 "type": "person",
-"preferred_label": "Abias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abias"
 },
 {
 "id": "person:Abijah.3",
 "type": "person",
-"preferred_label": "Abias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abias"
 },
 {
 "id": "person:Abijah.4",
 "type": "person",
-"preferred_label": "Abias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abias"
 },
 {
 "id": "person:Abijah.5",
 "type": "person",
-"preferred_label": "Abias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abias"
 },
 {
 "id": "person:Abijah.6",
 "type": "person",
-"preferred_label": "Abias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abias"
 },
 {
 "id": "person:Abijah.7",
 "type": "person",
-"preferred_label": "Abias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abias"
+},
+{
+"id": "person:Abi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abi"
 }
 ]
 }
@@ -187,7 +179,7 @@
 {
 "content_id": "145968",
 "reference_id": 108459,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abiatar",
 "media_type": "Text",
 "index_reference": "abiatar",
@@ -201,9 +193,9 @@
 {
 "id": "person:Abiathar",
 "type": "person",
-"preferred_label": "Abiatar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abiatar"
 }
 ]
 }
@@ -211,7 +203,7 @@
 {
 "content_id": "145969",
 "reference_id": 108460,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abigail",
 "media_type": "Text",
 "index_reference": "abigail",
@@ -223,18 +215,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Abigail",
-"type": "person",
-"preferred_label": "Abigail",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Abigail.2",
 "type": "person",
-"preferred_label": "Abigail",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abigail"
+},
+{
+"id": "person:Abigail",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abigail"
 }
 ]
 }
@@ -242,7 +234,7 @@
 {
 "content_id": "145949",
 "reference_id": 108440,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abimeleque",
 "media_type": "Text",
 "index_reference": "abimeleque",
@@ -254,18 +246,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Abimelech",
-"type": "person",
-"preferred_label": "Abimeleque",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Abimelech.2",
 "type": "person",
-"preferred_label": "Abimeleque",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abimeleque"
+},
+{
+"id": "person:Achish",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aquis"
+},
+{
+"id": "person:Abimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abimeleque"
 }
 ]
 }
@@ -273,7 +272,7 @@
 {
 "content_id": "145695",
 "reference_id": 108186,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abismo",
 "media_type": "Text",
 "index_reference": "abismo",
@@ -291,13 +290,21 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "abismo"
+}
+]
 }
 },
 {
 "content_id": "145752",
 "reference_id": 108243,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Abraão",
 "media_type": "Text",
 "index_reference": "abraão",
@@ -319,9 +326,9 @@
 {
 "id": "person:Abraham",
 "type": "person",
-"preferred_label": "Abraão",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Abraão"
 }
 ]
 }
@@ -329,7 +336,7 @@
 {
 "content_id": "145981",
 "reference_id": 108472,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Absalão",
 "media_type": "Text",
 "index_reference": "absalão",
@@ -343,17 +350,33 @@
 {
 "id": "person:Absalom",
 "type": "person",
-"preferred_label": "Absalão",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Absalão"
 }
 ]
 }
 },
 {
+"content_id": "146003",
+"reference_id": 108494,
+"version": "1.0.4",
+"title": "a.C.",
+"media_type": "Text",
+"index_reference": "ac",
+"language": "por",
+"review_level": "None",
+"content": "<p>Uma maneira de descrever todos os anos antes do nascimento de Jesus. a.C. significa antes de Cristo.</p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
 "content_id": "145935",
 "reference_id": 108426,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Acã",
 "media_type": "Text",
 "index_reference": "acã",
@@ -363,13 +386,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Achan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Acã"
+}
+]
 }
 },
 {
 "content_id": "145993",
 "reference_id": 108484,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Acabe",
 "media_type": "Text",
 "index_reference": "acabe",
@@ -381,18 +412,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ahab",
-"type": "person",
-"preferred_label": "Acabe",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ahab.2",
 "type": "person",
-"preferred_label": "Acabe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Acabe"
+},
+{
+"id": "person:Ahab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Acabe"
 }
 ]
 }
@@ -400,7 +431,7 @@
 {
 "content_id": "145660",
 "reference_id": 108151,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Acaia",
 "media_type": "Text",
 "index_reference": "acaia",
@@ -414,9 +445,9 @@
 {
 "id": "place:Achaia",
 "type": "place",
-"preferred_label": "Acaia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Acaia"
 }
 ]
 }
@@ -424,7 +455,7 @@
 {
 "content_id": "146046",
 "reference_id": 108537,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ações de profecia",
 "media_type": "Text",
 "index_reference": "ações de profecia",
@@ -440,7 +471,7 @@
 {
 "content_id": "145712",
 "reference_id": 108203,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adão",
 "media_type": "Text",
 "index_reference": "adão",
@@ -454,30 +485,16 @@
 {
 "id": "person:Adam",
 "type": "person",
-"preferred_label": "Adão",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Adão"
 },
 {
 "id": "place:Adam",
 "type": "place",
-"preferred_label": "Adão",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Adna",
-"type": "person",
-"preferred_label": "Adna",
-"confidence": 0.817,
-"match_method": "embedding"
-},
-{
-"id": "person:Adna.2",
-"type": "person",
-"preferred_label": "Adna",
-"confidence": 0.817,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Adão"
 }
 ]
 }
@@ -485,7 +502,7 @@
 {
 "content_id": "145983",
 "reference_id": 108474,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adonias",
 "media_type": "Text",
 "index_reference": "adonias",
@@ -497,25 +514,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Adonijah",
-"type": "person",
-"preferred_label": "Adonias",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Adonijah.2",
 "type": "person",
-"preferred_label": "Adonias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Adonias"
 },
 {
 "id": "person:Adonijah.3",
 "type": "person",
-"preferred_label": "Adonias",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Adonias"
+},
+{
+"id": "person:Adonijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Adonias"
 }
 ]
 }
@@ -523,7 +540,7 @@
 {
 "content_id": "145841",
 "reference_id": 108332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adore apenas Deus",
 "media_type": "Text",
 "index_reference": "adore apenas deus",
@@ -539,7 +556,7 @@
 {
 "content_id": "145649",
 "reference_id": 108140,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Adotado",
 "media_type": "Text",
 "index_reference": "adotado",
@@ -555,7 +572,7 @@
 {
 "content_id": "145602",
 "reference_id": 108093,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Afirmações de Eu sou",
 "media_type": "Text",
 "index_reference": "afirmações de eu sou ",
@@ -571,7 +588,7 @@
 {
 "content_id": "145768",
 "reference_id": 108259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Agar",
 "media_type": "Text",
 "index_reference": "agar",
@@ -581,13 +598,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hagar"
+}
+]
 }
 },
 {
 "content_id": "146019",
 "reference_id": 108510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ageu",
 "media_type": "Text",
 "index_reference": "ageu",
@@ -601,9 +626,9 @@
 {
 "id": "person:Haggai",
 "type": "person",
-"preferred_label": "Ageu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ageu"
 }
 ]
 }
@@ -611,7 +636,7 @@
 {
 "content_id": "145868",
 "reference_id": 108359,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Água especial",
 "media_type": "Text",
 "index_reference": "água especial",
@@ -627,7 +652,7 @@
 {
 "content_id": "146068",
 "reference_id": 108559,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Água viva",
 "media_type": "Text",
 "index_reference": "água viva",
@@ -643,7 +668,7 @@
 {
 "content_id": "145934",
 "reference_id": 108425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ai",
 "media_type": "Text",
 "index_reference": "ai",
@@ -653,13 +678,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Ai.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ai"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ai"
+}
+]
 }
 },
 {
 "content_id": "145986",
 "reference_id": 108477,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aías",
 "media_type": "Text",
 "index_reference": "aías",
@@ -671,11 +711,60 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ahiah",
+"id": "person:Ahijah.2",
 "type": "person",
-"preferred_label": "Aías",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "silonita"
+},
+{
+"id": "person:Ahijah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "silonita"
+},
+{
+"id": "person:Ahijah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "silonita"
+},
+{
+"id": "person:Ahijah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "silonita"
+},
+{
+"id": "person:Ahijah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "silonita"
+},
+{
+"id": "person:Ahijah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "silonita"
+},
+{
+"id": "person:Ahimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aimeleque"
+},
+{
+"id": "person:Ahijah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "silonita"
 }
 ]
 }
@@ -683,7 +772,7 @@
 {
 "content_id": "145967",
 "reference_id": 108458,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aimeleque",
 "media_type": "Text",
 "index_reference": "aimeleque",
@@ -695,25 +784,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Ahimelech",
-"type": "person",
-"preferred_label": "Aimeleque",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Ahimelech.2",
 "type": "person",
-"preferred_label": "Aimeleque",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Aimeleque"
 },
 {
 "id": "person:Ahimelech.3",
 "type": "person",
-"preferred_label": "Aimeleque",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Aimeleque"
+},
+{
+"id": "person:Ahimelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aimeleque"
 }
 ]
 }
@@ -721,7 +810,7 @@
 {
 "content_id": "145679",
 "reference_id": 108170,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Alfa e Ômega",
 "media_type": "Text",
 "index_reference": "alfa e ômega",
@@ -737,7 +826,7 @@
 {
 "content_id": "145746",
 "reference_id": 108237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aliança",
 "media_type": "Text",
 "index_reference": "aliança",
@@ -747,13 +836,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Covenant"
+}
+]
 }
 },
 {
 "content_id": "145762",
 "reference_id": 108253,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aliança com Abraão",
 "media_type": "Text",
 "index_reference": "aliança com abraão",
@@ -769,7 +866,7 @@
 {
 "content_id": "145975",
 "reference_id": 108466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aliança com Davi",
 "media_type": "Text",
 "index_reference": "aliança com davi",
@@ -793,7 +890,7 @@
 {
 "content_id": "145747",
 "reference_id": 108238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aliança com Noé",
 "media_type": "Text",
 "index_reference": "aliança com noé",
@@ -809,7 +906,7 @@
 {
 "content_id": "145837",
 "reference_id": 108328,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Aliança do Monte Sinai",
 "media_type": "Text",
 "index_reference": "aliança do monte sinai",
@@ -825,7 +922,7 @@
 {
 "content_id": "145794",
 "reference_id": 108285,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Altar",
 "media_type": "Text",
 "index_reference": "altar",
@@ -839,9 +936,9 @@
 {
 "id": "realia:Altar",
 "type": "realia",
-"preferred_label": "Altar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Altar"
 }
 ]
 }
@@ -849,7 +946,7 @@
 {
 "content_id": "145691",
 "reference_id": 108182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Altar de ouro",
 "media_type": "Text",
 "index_reference": "altar de ouro",
@@ -873,7 +970,7 @@
 {
 "content_id": "145833",
 "reference_id": 108324,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amalequitas",
 "media_type": "Text",
 "index_reference": "amalequitas",
@@ -883,13 +980,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amalekites"
+}
+]
 }
 },
 {
 "content_id": "145864",
 "reference_id": 108355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ame a Deus",
 "media_type": "Text",
 "index_reference": "ame a deus",
@@ -905,7 +1010,7 @@
 {
 "content_id": "145700",
 "reference_id": 108191,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amém",
 "media_type": "Text",
 "index_reference": "amém",
@@ -917,18 +1022,25 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Amom",
-"confidence": 0.8756,
-"match_method": "embedding"
+"id": "deity:Amon",
+"type": "deity",
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "Amon"
 },
 {
-"id": "place:Amam",
-"type": "place",
-"preferred_label": "Amam",
-"confidence": 0.8493,
-"match_method": "embedding"
+"id": "person:Amon.2",
+"type": "person",
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "Amon"
+},
+{
+"id": "person:Amon.3",
+"type": "person",
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "Amon"
 }
 ]
 }
@@ -936,7 +1048,7 @@
 {
 "content_id": "145921",
 "reference_id": 108412,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amonitas",
 "media_type": "Text",
 "index_reference": "amonitas",
@@ -946,13 +1058,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ammonites"
+}
+]
 }
 },
 {
 "content_id": "145922",
 "reference_id": 108413,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amorreus",
 "media_type": "Text",
 "index_reference": "amorreus",
@@ -962,13 +1082,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amorites"
+}
+]
 }
 },
 {
 "content_id": "146071",
 "reference_id": 108562,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Amós",
 "media_type": "Text",
 "index_reference": "amós",
@@ -982,16 +1110,23 @@
 {
 "id": "person:Amos.2",
 "type": "person",
-"preferred_label": "Amós",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Amós"
 },
 {
 "id": "person:Amos.3",
 "type": "person",
-"preferred_label": "Amós",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Amós"
+},
+{
+"id": "person:Amon.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amon"
 }
 ]
 }
@@ -999,7 +1134,7 @@
 {
 "content_id": "145959",
 "reference_id": 108450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ana",
 "media_type": "Text",
 "index_reference": "ana",
@@ -1009,13 +1144,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hannah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hannah"
+}
+]
 }
 },
 {
 "content_id": "145816",
 "reference_id": 108307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anciãos",
 "media_type": "Text",
 "index_reference": "anciãos",
@@ -1025,13 +1168,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericElders",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Elders"
+}
+]
 }
 },
 {
 "content_id": "145550",
 "reference_id": 108041,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "André",
 "media_type": "Text",
 "index_reference": "andré",
@@ -1045,9 +1196,9 @@
 {
 "id": "person:Andrew",
 "type": "person",
-"preferred_label": "André",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "André"
 }
 ]
 }
@@ -1055,7 +1206,7 @@
 {
 "content_id": "145822",
 "reference_id": 108313,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anjo",
 "media_type": "Text",
 "index_reference": "anjo",
@@ -1079,7 +1230,7 @@
 {
 "content_id": "145823",
 "reference_id": 108314,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anjo destruidor",
 "media_type": "Text",
 "index_reference": "anjo destruidor",
@@ -1095,7 +1246,7 @@
 {
 "content_id": "145937",
 "reference_id": 108428,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Anjo do Senhor",
 "media_type": "Text",
 "index_reference": "anjo do senhor",
@@ -1111,7 +1262,7 @@
 {
 "content_id": "145701",
 "reference_id": 108192,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antigo Testamento",
 "media_type": "Text",
 "index_reference": "antigo testamento",
@@ -1127,7 +1278,7 @@
 {
 "content_id": "145623",
 "reference_id": 108114,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antioquia da Pisídia",
 "media_type": "Text",
 "index_reference": "antioquia da pisídia",
@@ -1137,13 +1288,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Antioquia"
+}
+]
 }
 },
 {
 "content_id": "145618",
 "reference_id": 108109,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Antioquia na Síria",
 "media_type": "Text",
 "index_reference": "antioquia na síria",
@@ -1153,13 +1312,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Antioch",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Antioquia"
+}
+]
 }
 },
 {
 "content_id": "145645",
 "reference_id": 108136,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apolo",
 "media_type": "Text",
 "index_reference": "apolo",
@@ -1173,9 +1340,9 @@
 {
 "id": "person:Apollos",
 "type": "person",
-"preferred_label": "Apolo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Apolo"
 }
 ]
 }
@@ -1183,7 +1350,7 @@
 {
 "content_id": "145562",
 "reference_id": 108053,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Apóstolos",
 "media_type": "Text",
 "index_reference": "apóstolos",
@@ -1199,7 +1366,7 @@
 {
 "content_id": "145643",
 "reference_id": 108134,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Áquila e Priscila",
 "media_type": "Text",
 "index_reference": "áquila e priscila",
@@ -1209,13 +1376,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Aquila",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Áquila"
+},
+{
+"id": "person:Priscilla",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Priscila"
+}
+]
 }
 },
 {
 "content_id": "145943",
 "reference_id": 108434,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Arã",
 "media_type": "Text",
 "index_reference": "arã",
@@ -1225,13 +1407,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Aram.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+},
+{
+"id": "person:Aram.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+},
+{
+"id": "person:Aram",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aram"
+},
+{
+"id": "place:Paddan-aram",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Padã-Arã"
+}
+]
 }
 },
 {
 "content_id": "145815",
 "reference_id": 108306,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Arão",
 "media_type": "Text",
 "index_reference": "arão",
@@ -1260,9 +1471,9 @@
 {
 "id": "person:Aaron",
 "type": "person",
-"preferred_label": "Arão",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Arão"
 }
 ]
 }
@@ -1270,7 +1481,7 @@
 {
 "content_id": "145745",
 "reference_id": 108236,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Arca",
 "media_type": "Text",
 "index_reference": "arca",
@@ -1286,7 +1497,7 @@
 {
 "content_id": "145894",
 "reference_id": 108385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Arca da Aliança",
 "media_type": "Text",
 "index_reference": "arca da aliança",
@@ -1304,13 +1515,21 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ark of the Covenant"
+}
+]
 }
 },
 {
 "content_id": "145666",
 "reference_id": 108157,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Armadura espiritual",
 "media_type": "Text",
 "index_reference": "armadura espiritual",
@@ -1326,10 +1545,10 @@
 {
 "content_id": "145855",
 "reference_id": 108346,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Arrepender-se",
 "media_type": "Text",
-"index_reference": "arrepender-se",
+"index_reference": "arrependerse",
 "language": "por",
 "review_level": "None",
 "content": "<p>Afastar-se do pecado e voltar-se para Deus. Isso não é feito apenas uma vez na vida de alguém. Toda vez que alguém peca, Deus quer que essa pessoa se volte para ele. Deus tem graça e os perdoa. Isso cura o relacionamento deles com Deus. Por muitos anos, os israelitas ofereciam sacrifícios para mostrar que haviam se arrependido. No Novo Testamento, as pessoas mostravam que se arrependiam pedindo perdão, confiando em Jesus e seguindo-o. (<span data-bnType=\"resourceReference\" data-resourceId=\"108254\" data-resourceType=\"BiblicaStudyNotesKeyTerms\">Certo com Deus</span>)</p>",
@@ -1344,13 +1563,21 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "arrepender, se"
+}
+]
 }
 },
 {
 "content_id": "146025",
 "reference_id": 108516,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Artaxerxes",
 "media_type": "Text",
 "index_reference": "artaxerxes",
@@ -1362,18 +1589,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Artaxerxes",
-"type": "person",
-"preferred_label": "Artaxerxes",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Artaxerxes.2",
 "type": "person",
-"preferred_label": "Artaxerxes",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Artaxerxes"
+},
+{
+"id": "person:Artaxerxes",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Artaxerxes"
 }
 ]
 }
@@ -1381,7 +1608,7 @@
 {
 "content_id": "145646",
 "reference_id": 108137,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ártemis",
 "media_type": "Text",
 "index_reference": "ártemis",
@@ -1395,16 +1622,9 @@
 {
 "id": "deity:Artemis",
 "type": "deity",
-"preferred_label": "Ártemis",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Artemas",
-"type": "person",
-"preferred_label": "Ártemas",
-"confidence": 0.8274,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ártemis"
 }
 ]
 }
@@ -1412,7 +1632,7 @@
 {
 "content_id": "145726",
 "reference_id": 108217,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Árvore da vida",
 "media_type": "Text",
 "index_reference": "árvore da vida",
@@ -1428,7 +1648,7 @@
 {
 "content_id": "145719",
 "reference_id": 108210,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Árvore do conhecimento",
 "media_type": "Text",
 "index_reference": "árvore do conhecimento",
@@ -1444,7 +1664,7 @@
 {
 "content_id": "145914",
 "reference_id": 108405,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "As filhas de Zelofeade",
 "media_type": "Text",
 "index_reference": "as filhas de zelofeade",
@@ -1454,13 +1674,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hoglah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hogla"
+},
+{
+"id": "person:Mahlah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Macla"
+},
+{
+"id": "person:Milcah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Milca"
+},
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noé"
+},
+{
+"id": "person:Tirzah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tirza"
+}
+]
 }
 },
 {
 "content_id": "145620",
 "reference_id": 108111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "As jornadas de Paulo",
 "media_type": "Text",
 "index_reference": "as jornadas de paulo",
@@ -1476,7 +1732,7 @@
 {
 "content_id": "145991",
 "reference_id": 108482,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asa",
 "media_type": "Text",
 "index_reference": "asa",
@@ -1486,13 +1742,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Asa.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asa"
+},
+{
+"id": "person:Asa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asa"
+}
+]
 }
 },
 {
 "content_id": "146015",
 "reference_id": 108506,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Asafe",
 "media_type": "Text",
 "index_reference": "asafe",
@@ -1504,32 +1775,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Asaph",
-"type": "person",
-"preferred_label": "Asafe",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Asaph.2",
 "type": "person",
-"preferred_label": "Asafe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Asafe"
 },
 {
 "id": "person:Asaph.3",
 "type": "person",
-"preferred_label": "Asafe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Asafe"
 },
 {
 "id": "person:Asaph.4",
 "type": "person",
-"preferred_label": "Asafe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Asafe"
+},
+{
+"id": "person:Ebiasaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ebiasafe"
+},
+{
+"id": "person:Asaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asafe"
 }
 ]
 }
@@ -1537,7 +1815,7 @@
 {
 "content_id": "145622",
 "reference_id": 108113,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ásia Menor",
 "media_type": "Text",
 "index_reference": "ásia menor",
@@ -1551,9 +1829,9 @@
 {
 "id": "place:AsiaMinor",
 "type": "place",
-"preferred_label": "Asia Minor",
-"confidence": 0.9393,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Asia Minor"
 }
 ]
 }
@@ -1561,7 +1839,7 @@
 {
 "content_id": "145732",
 "reference_id": 108223,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Assassinato",
 "media_type": "Text",
 "index_reference": "assassinato",
@@ -1577,7 +1855,7 @@
 {
 "content_id": "146002",
 "reference_id": 108493,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Assíria",
 "media_type": "Text",
 "index_reference": "assíria",
@@ -1591,9 +1869,9 @@
 {
 "id": "place:Assyria",
 "type": "place",
-"preferred_label": "Assyria",
-"confidence": 0.9532,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Assyria"
 }
 ]
 }
@@ -1601,7 +1879,7 @@
 {
 "content_id": "145938",
 "reference_id": 108429,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Astarote",
 "media_type": "Text",
 "index_reference": "astarote",
@@ -1615,16 +1893,9 @@
 {
 "id": "deity:Ashtoreth",
 "type": "deity",
-"preferred_label": "Astarote",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Ashtaroth",
-"type": "place",
-"preferred_label": "Astarote",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Astarote"
 }
 ]
 }
@@ -1632,7 +1903,7 @@
 {
 "content_id": "145999",
 "reference_id": 108490,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Atalia",
 "media_type": "Text",
 "index_reference": "atalia",
@@ -1644,32 +1915,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Athaliah",
-"type": "person",
-"preferred_label": "Atalia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Athaliah.2",
 "type": "person",
-"preferred_label": "Atalia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Atalia"
 },
 {
 "id": "person:Athaliah.3",
 "type": "person",
-"preferred_label": "Atalia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Atalia"
 },
 {
-"id": "place:Attalia",
-"type": "place",
-"preferred_label": "Atália",
-"confidence": 0.8631,
-"match_method": "embedding"
+"id": "person:Athaliah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Atalia"
 }
 ]
 }
@@ -1677,7 +1941,7 @@
 {
 "content_id": "145639",
 "reference_id": 108130,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Atenas",
 "media_type": "Text",
 "index_reference": "atenas",
@@ -1691,9 +1955,9 @@
 {
 "id": "place:Athens",
 "type": "place",
-"preferred_label": "Atenas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Atenas"
 }
 ]
 }

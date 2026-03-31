@@ -2,7 +2,7 @@
 {
 "content_id": "183374",
 "reference_id": 108480,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दक्षिणी राज्य",
 "media_type": "Text",
 "index_reference": "दक्षिणी राज्य",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदिया"
+}
+]
 }
 },
 {
 "content_id": "183454",
 "reference_id": 108560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दनिय्येल",
 "media_type": "Text",
 "index_reference": "दनिय्येल",
@@ -28,13 +36,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दानिय्येल"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दानिय्येल"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "किलाब"
+}
+]
 }
 },
 {
 "content_id": "183327",
 "reference_id": 108433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दबोरा",
 "media_type": "Text",
 "index_reference": "दबोरा",
@@ -46,18 +76,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "दबोरा",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "दबोरा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "दबोरा"
+},
+{
+"id": "person:Deborah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दबोरा"
 }
 ]
 }
@@ -65,7 +95,7 @@
 {
 "content_id": "183434",
 "reference_id": 108540,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दमिश्क",
 "media_type": "Text",
 "index_reference": "दमिश्क",
@@ -79,9 +109,9 @@
 {
 "id": "place:Damascus",
 "type": "place",
-"preferred_label": "दमिश्क",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "दमिश्क"
 }
 ]
 }
@@ -89,7 +119,7 @@
 {
 "content_id": "183236",
 "reference_id": 108342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दया",
 "media_type": "Text",
 "index_reference": "दया",
@@ -99,13 +129,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Mercy"
+}
+]
 }
 },
 {
 "content_id": "183190",
 "reference_id": 108296,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दर्शन",
 "media_type": "Text",
 "index_reference": "दर्शन",
@@ -123,13 +161,21 @@
 "language": "hin"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Vision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Vision"
+}
+]
 }
 },
 {
 "content_id": "183339",
 "reference_id": 108445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दलीला",
 "media_type": "Text",
 "index_reference": "दलीला",
@@ -143,9 +189,9 @@
 {
 "id": "person:Delilah",
 "type": "person",
-"preferred_label": "दलीला",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "दलीला"
 }
 ]
 }
@@ -153,7 +199,7 @@
 {
 "content_id": "183225",
 "reference_id": 108331,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दस आज्ञाएँ",
 "media_type": "Text",
 "index_reference": "दस आज्ञाएँ",
@@ -177,7 +223,7 @@
 {
 "content_id": "183202",
 "reference_id": 108308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दस विपत्तियाँ",
 "media_type": "Text",
 "index_reference": "दस विपत्तियाँ",
@@ -193,7 +239,7 @@
 {
 "content_id": "183276",
 "reference_id": 108382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दसवाँ",
 "media_type": "Text",
 "index_reference": "दसवाँ",
@@ -209,7 +255,7 @@
 {
 "content_id": "183343",
 "reference_id": 108449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दाऊद",
 "media_type": "Text",
 "index_reference": "दाऊद",
@@ -229,11 +275,18 @@
 ],
 "acai": [
 {
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहूदा"
+},
+{
 "id": "person:David",
 "type": "person",
-"preferred_label": "दाऊद",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "दाऊद"
 }
 ]
 }
@@ -241,7 +294,7 @@
 {
 "content_id": "182946",
 "reference_id": 108052,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दाऊद का पुत्र",
 "media_type": "Text",
 "index_reference": "दाऊद का पुत्र",
@@ -265,7 +318,7 @@
 {
 "content_id": "183360",
 "reference_id": 108466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दाऊद के साथ वाचा",
 "media_type": "Text",
 "index_reference": "दाऊद के साथ वाचा",
@@ -289,7 +342,7 @@
 {
 "content_id": "183340",
 "reference_id": 108446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दागोन",
 "media_type": "Text",
 "index_reference": "दागोन",
@@ -303,9 +356,9 @@
 {
 "id": "deity:Dagon",
 "type": "deity",
-"preferred_label": "दागोन",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "दागोन"
 }
 ]
 }
@@ -313,7 +366,7 @@
 {
 "content_id": "183338",
 "reference_id": 108444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दान",
 "media_type": "Text",
 "index_reference": "दान",
@@ -323,13 +376,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दान"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दान"
+}
+]
 }
 },
 {
 "content_id": "183406",
 "reference_id": 108512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दारा",
 "media_type": "Text",
 "index_reference": "दारा",
@@ -341,32 +409,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Dara",
-"type": "person",
-"preferred_label": "दारा",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Darius",
-"type": "person",
-"preferred_label": "दारा",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Darius.2",
 "type": "person",
-"preferred_label": "दारा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "दारा"
 },
 {
 "id": "person:Darius.3",
 "type": "person",
-"preferred_label": "दारा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "दारा"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "दारा"
 }
 ]
 }
@@ -374,7 +435,7 @@
 {
 "content_id": "183011",
 "reference_id": 108117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दिरबे",
 "media_type": "Text",
 "index_reference": "दिरबे",
@@ -388,9 +449,9 @@
 {
 "id": "place:Derbe",
 "type": "place",
-"preferred_label": "दिरबे",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "दिरबे"
 }
 ]
 }
@@ -398,7 +459,7 @@
 {
 "content_id": "183177",
 "reference_id": 108283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दीना",
 "media_type": "Text",
 "index_reference": "दीना",
@@ -412,9 +473,9 @@
 {
 "id": "person:Dinah",
 "type": "person",
-"preferred_label": "दीना",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "दीना"
 }
 ]
 }
@@ -422,7 +483,7 @@
 {
 "content_id": "183112",
 "reference_id": 108218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दुष्टात्माएं",
 "media_type": "Text",
 "index_reference": "दुष्टात्माएं",
@@ -446,7 +507,7 @@
 {
 "content_id": "183069",
 "reference_id": 108175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दूसरी मौत",
 "media_type": "Text",
 "index_reference": "दूसरी मौत",
@@ -462,7 +523,7 @@
 {
 "content_id": "182950",
 "reference_id": 108056,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दृष्टान्त",
 "media_type": "Text",
 "index_reference": "दृष्टान्त",
@@ -478,7 +539,7 @@
 {
 "content_id": "183187",
 "reference_id": 108293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "देवर का कर्तव्य",
 "media_type": "Text",
 "index_reference": "देवर का कर्तव्य",
@@ -494,7 +555,7 @@
 {
 "content_id": "183248",
 "reference_id": 108354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "दोषबली",
 "media_type": "Text",
 "index_reference": "दोषबली",

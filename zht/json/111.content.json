@@ -2,7 +2,7 @@
 {
 "content_id": "233118",
 "reference_id": 108517,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "書珊",
 "media_type": "Text",
 "index_reference": "書珊",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Susa",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Susa"
+}
+]
 }
 },
 {
 "content_id": "232982",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "贖回",
 "media_type": "Text",
 "index_reference": "贖回",
@@ -34,7 +42,7 @@
 {
 "content_id": "232955",
 "reference_id": 108354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "贖愆祭",
 "media_type": "Text",
 "index_reference": "贖愆祭",
@@ -50,7 +58,7 @@
 {
 "content_id": "232968",
 "reference_id": 108367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "贖罪",
 "media_type": "Text",
 "index_reference": "贖罪",
@@ -74,7 +82,7 @@
 {
 "content_id": "232954",
 "reference_id": 108353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "贖罪祭",
 "media_type": "Text",
 "index_reference": "贖罪祭",
@@ -90,7 +98,7 @@
 {
 "content_id": "232967",
 "reference_id": 108366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "贖罪日",
 "media_type": "Text",
 "index_reference": "贖罪日",
@@ -114,7 +122,7 @@
 {
 "content_id": "233063",
 "reference_id": 108462,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "屬靈的",
 "media_type": "Text",
 "index_reference": "屬靈的",
@@ -130,7 +138,7 @@
 {
 "content_id": "232758",
 "reference_id": 108157,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "屬靈的軍裝",
 "media_type": "Text",
 "index_reference": "屬靈的軍裝",
@@ -146,7 +154,7 @@
 {
 "content_id": "233167",
 "reference_id": 108566,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "屬靈的爭戰",
 "media_type": "Text",
 "index_reference": "屬靈的爭戰",
@@ -162,7 +170,7 @@
 {
 "content_id": "232756",
 "reference_id": 108155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "屬靈的祝福",
 "media_type": "Text",
 "index_reference": "屬靈的祝福",
@@ -178,7 +186,7 @@
 {
 "content_id": "232784",
 "reference_id": 108183,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "數字",
 "media_type": "Text",
 "index_reference": "數字",

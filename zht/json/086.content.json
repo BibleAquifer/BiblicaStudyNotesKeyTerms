@@ -2,7 +2,7 @@
 {
 "content_id": "233102",
 "reference_id": 108501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "尼布甲尼撒",
 "media_type": "Text",
 "index_reference": "尼布甲尼撒",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nebuchadnezzar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nebuchadnezzar"
+}
+]
 }
 },
 {
 "content_id": "232689",
 "reference_id": 108088,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "尼哥德慕",
 "media_type": "Text",
 "index_reference": "尼哥德慕",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nicodemus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nicodemus"
+}
+]
 }
 },
 {
 "content_id": "232902",
 "reference_id": 108301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "尼羅河",
 "media_type": "Text",
 "index_reference": "尼羅河",
@@ -44,13 +60,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nile River"
+}
+]
 }
 },
 {
 "content_id": "233175",
 "reference_id": 108574,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "尼尼微",
 "media_type": "Text",
 "index_reference": "尼尼微",
@@ -60,13 +84,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Nineveh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nineveh"
+}
+]
 }
 },
 {
 "content_id": "233116",
 "reference_id": 108515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "尼希米",
 "media_type": "Text",
 "index_reference": "尼希米",
@@ -76,7 +108,29 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nehemiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nehemiah"
+},
+{
+"id": "person:Nehemiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nehemiah"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nehemiah"
+}
+]
 }
 }
 ]

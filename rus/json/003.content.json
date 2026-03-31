@@ -2,7 +2,7 @@
 {
 "content_id": "193268",
 "reference_id": 108186,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Бездна",
 "media_type": "Text",
 "index_reference": "бездна",
@@ -20,13 +20,21 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Abyss"
+}
+]
 }
 },
 {
 "content_id": "193261",
 "reference_id": 108179,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Белая одежда",
 "media_type": "Text",
 "index_reference": "белая одежда ",
@@ -42,7 +50,7 @@
 {
 "content_id": "193275",
 "reference_id": 108193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Библия",
 "media_type": "Text",
 "index_reference": "библия",
@@ -66,7 +74,7 @@
 {
 "content_id": "193125",
 "reference_id": 108043,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Благая Весть",
 "media_type": "Text",
 "index_reference": "благая весть",
@@ -84,13 +92,21 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9692,
+"match_method": "embedding",
+"preferred_label": "Good News"
+}
+]
 }
 },
 {
 "content_id": "193453",
 "reference_id": 108371,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Благовоние",
 "media_type": "Text",
 "index_reference": "благовоние",
@@ -100,13 +116,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Incense",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Incense"
+}
+]
 }
 },
 {
 "content_id": "193317",
 "reference_id": 108235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Благодать",
 "media_type": "Text",
 "index_reference": "благодать",
@@ -122,7 +146,7 @@
 {
 "content_id": "193461",
 "reference_id": 108379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Благословения завета",
 "media_type": "Text",
 "index_reference": "благословения завета",
@@ -138,7 +162,7 @@
 {
 "content_id": "193327",
 "reference_id": 108245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Благословить все народы",
 "media_type": "Text",
 "index_reference": "благословить все народы",
@@ -154,7 +178,7 @@
 {
 "content_id": "193452",
 "reference_id": 108370,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ближний",
 "media_type": "Text",
 "index_reference": "ближний",
@@ -178,7 +202,7 @@
 {
 "content_id": "193617",
 "reference_id": 108535,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Блудник",
 "media_type": "Text",
 "index_reference": "блудник",
@@ -188,13 +212,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:FirstProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+},
+{
+"id": "person:SecondProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+}
+]
 }
 },
 {
 "content_id": "193281",
 "reference_id": 108199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Бог",
 "media_type": "Text",
 "index_reference": "бог",
@@ -219,13 +258,21 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "193311",
 "reference_id": 108229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Бог избирает",
 "media_type": "Text",
 "index_reference": "бог избирает",
@@ -241,7 +288,7 @@
 {
 "content_id": "193582",
 "reference_id": 108500,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Божий гнев",
 "media_type": "Text",
 "index_reference": "божий гнев",
@@ -257,7 +304,7 @@
 {
 "content_id": "193384",
 "reference_id": 108302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Божий народ",
 "media_type": "Text",
 "index_reference": "божий народ",
@@ -275,13 +322,21 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
+}
+]
 }
 },
 {
 "content_id": "193626",
 "reference_id": 108544,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Божий Раб",
 "media_type": "Text",
 "index_reference": "божий раб",
@@ -297,7 +352,7 @@
 {
 "content_id": "193608",
 "reference_id": 108526,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Божий Сын",
 "media_type": "Text",
 "index_reference": "божий сын",
@@ -313,7 +368,7 @@
 {
 "content_id": "193239",
 "reference_id": 108157,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Божье всеоружие",
 "media_type": "Text",
 "index_reference": "божье всеоружие",
@@ -329,7 +384,7 @@
 {
 "content_id": "193282",
 "reference_id": 108200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Божье слово",
 "media_type": "Text",
 "index_reference": "божье слово",
@@ -353,7 +408,7 @@
 {
 "content_id": "193127",
 "reference_id": 108045,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Божья семья",
 "media_type": "Text",
 "index_reference": "божья семья",
@@ -369,7 +424,7 @@
 {
 "content_id": "193288",
 "reference_id": 108206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Брак",
 "media_type": "Text",
 "index_reference": "брак",
@@ -385,7 +440,7 @@
 {
 "content_id": "193486",
 "reference_id": 108404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Бросить жребий",
 "media_type": "Text",
 "index_reference": "бросить жребий",

@@ -2,7 +2,7 @@
 {
 "content_id": "232781",
 "reference_id": 108180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "非拉鐵非",
 "media_type": "Text",
 "index_reference": "非拉鐵非",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Philadelphia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philadelphia"
+}
+]
 }
 },
 {
 "content_id": "232868",
 "reference_id": 108267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "非利士人",
 "media_type": "Text",
 "index_reference": "非利士人",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philistines"
+}
+]
 }
 },
 {
 "content_id": "233004",
 "reference_id": 108403,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "非尼哈",
 "media_type": "Text",
 "index_reference": "非尼哈",
@@ -44,13 +60,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Phinehas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinehas"
+},
+{
+"id": "person:Phinehas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinehas"
+},
+{
+"id": "person:Phinehas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phinehas"
+}
+]
 }
 },
 {
 "content_id": "232727",
 "reference_id": 108126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "腓立比",
 "media_type": "Text",
 "index_reference": "腓立比",
@@ -60,13 +98,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philippi"
+}
+]
 }
 },
 {
 "content_id": "232704",
 "reference_id": 108103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "腓利",
 "media_type": "Text",
 "index_reference": "腓利",
@@ -76,13 +122,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Philip.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+}
+]
 }
 },
 {
 "content_id": "232765",
 "reference_id": 108164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "腓利門",
 "media_type": "Text",
 "index_reference": "腓利門",
@@ -92,7 +167,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Philemon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philemon"
+}
+]
 }
 }
 ]

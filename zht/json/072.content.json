@@ -2,7 +2,7 @@
 {
 "content_id": "233079",
 "reference_id": 108478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "羅波安",
 "media_type": "Text",
 "index_reference": "羅波安",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rehoboam"
+}
+]
 }
 },
 {
 "content_id": "232849",
 "reference_id": 108248,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "羅得",
 "media_type": "Text",
 "index_reference": "羅得",
@@ -28,13 +36,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+}
+]
 }
 },
 {
 "content_id": "232648",
 "reference_id": 108047,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "羅馬",
 "media_type": "Text",
 "index_reference": "羅馬",
@@ -44,13 +67,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rome"
+}
+]
 }
 },
 {
 "content_id": "232728",
 "reference_id": 108127,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "羅馬公民",
 "media_type": "Text",
 "index_reference": "羅馬公民",

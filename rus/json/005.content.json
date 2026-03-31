@@ -2,7 +2,7 @@
 {
 "content_id": "193645",
 "reference_id": 108563,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гавриил",
 "media_type": "Text",
 "index_reference": "гавриил",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Gabriel",
 "type": "deity",
-"preferred_label": "Гавриил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Гавриил"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "193490",
 "reference_id": 108408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гад",
 "media_type": "Text",
 "index_reference": "гад",
@@ -36,13 +36,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Гад"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Гад"
+}
+]
 }
 },
 {
 "content_id": "193164",
 "reference_id": 108082,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гадаринцы",
 "media_type": "Text",
 "index_reference": "гадаринцы",
@@ -58,7 +73,7 @@
 {
 "content_id": "193507",
 "reference_id": 108425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гай",
 "media_type": "Text",
 "index_reference": "гай",
@@ -68,13 +83,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Ai.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Гай"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Гай"
+}
+]
 }
 },
 {
 "content_id": "193523",
 "reference_id": 108441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Галаад",
 "media_type": "Text",
 "index_reference": "галаад",
@@ -86,32 +116,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gilead",
-"type": "person",
-"preferred_label": "Галаад",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gilead.2",
 "type": "person",
-"preferred_label": "Галаад",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Галаад"
 },
 {
 "id": "person:Gilead.3",
 "type": "person",
-"preferred_label": "Галаад",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Галаад"
+},
+{
+"id": "person:Gilead",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Галаад"
 },
 {
 "id": "place:Gilead",
 "type": "place",
-"preferred_label": "Галаад",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Галаад"
 }
 ]
 }
@@ -119,7 +149,7 @@
 {
 "content_id": "193204",
 "reference_id": 108122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Галатия",
 "media_type": "Text",
 "index_reference": "галатия",
@@ -129,13 +159,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Галатийский"
+}
+]
 }
 },
 {
 "content_id": "193504",
 "reference_id": 108422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Галгал",
 "media_type": "Text",
 "index_reference": "галгал",
@@ -147,25 +185,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Gilgal.2",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.8247,
-"match_method": "embedding"
-},
-{
-"id": "place:Gilgal.3",
-"type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.8247,
-"match_method": "embedding"
-},
-{
 "id": "place:Gilgal.4",
 "type": "place",
-"preferred_label": "Gilgal",
-"confidence": 0.8247,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Галилея"
 }
 ]
 }
@@ -173,7 +204,7 @@
 {
 "content_id": "193118",
 "reference_id": 108036,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Галилея",
 "media_type": "Text",
 "index_reference": "галилея",
@@ -187,9 +218,9 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"preferred_label": "Галилея",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Галилея"
 }
 ]
 }
@@ -197,7 +228,7 @@
 {
 "content_id": "193181",
 "reference_id": 108099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гамалиил",
 "media_type": "Text",
 "index_reference": "гамалиил",
@@ -209,25 +240,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gamaliel",
-"type": "person",
-"preferred_label": "Гамалиил",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gamaliel.2",
 "type": "person",
-"preferred_label": "Гамалиил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Гамалиил"
 },
 {
-"id": "person:Gemalli",
+"id": "person:Gamaliel",
 "type": "person",
-"preferred_label": "Гемаллий",
-"confidence": 0.8447,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Гамалиил"
 }
 ]
 }
@@ -235,7 +259,7 @@
 {
 "content_id": "193519",
 "reference_id": 108437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гедеон",
 "media_type": "Text",
 "index_reference": "гедеон",
@@ -249,9 +273,9 @@
 {
 "id": "person:Gideon",
 "type": "person",
-"preferred_label": "Гедеон",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Гедеон"
 }
 ]
 }
@@ -259,10 +283,10 @@
 {
 "content_id": "193379",
 "reference_id": 108297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гесем (Гошен)",
 "media_type": "Text",
-"index_reference": "гесем (гошен)",
+"index_reference": "гесем гошен",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Местность в Древнем Египте, где поселилась и разводила скот семья Иакова. Считается, что земля Гесем (Гошен) была расположена на северо-востоке Египта, недалеко от Ханаана в дельте реки Нил.</p>",
@@ -271,25 +295,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Goshen",
-"type": "place",
-"preferred_label": "Гесем",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Goshen.2",
 "type": "place",
-"preferred_label": "Гесем",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Гесем"
 },
 {
-"id": "person:Geshem",
-"type": "person",
-"preferred_label": "Гешем",
-"confidence": 0.9403,
-"match_method": "embedding"
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Гесем"
 }
 ]
 }
@@ -297,7 +314,7 @@
 {
 "content_id": "193179",
 "reference_id": 108097,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Говорить на иных языках",
 "media_type": "Text",
 "index_reference": "говорить на иных языках",
@@ -321,7 +338,7 @@
 {
 "content_id": "193136",
 "reference_id": 108054,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гонения",
 "media_type": "Text",
 "index_reference": "гонения",
@@ -345,7 +362,7 @@
 {
 "content_id": "193587",
 "reference_id": 108505,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гора Мориа",
 "media_type": "Text",
 "index_reference": "гора мориа",
@@ -355,13 +372,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:MoriahMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount Moriah"
+}
+]
 }
 },
 {
 "content_id": "193409",
 "reference_id": 108327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гора Синай",
 "media_type": "Text",
 "index_reference": "гора синай",
@@ -375,9 +400,9 @@
 {
 "id": "place:SinaiMount",
 "type": "place",
-"preferred_label": "Mount Sinai",
-"confidence": 0.8364,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount Sinai"
 }
 ]
 }
@@ -385,10 +410,10 @@
 {
 "content_id": "193492",
 "reference_id": 108410,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Города-убежища",
 "media_type": "Text",
-"index_reference": "города-убежища",
+"index_reference": "городаубежища",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Это шесть городов, в которых жили левиты. Три города были расположены на восточной стороне реки Иордан, и три <span>—</span> на западной. Если человек по ошибке убивал кого-то, то он мог скрыться в одном из городов-убежищ. Там человек, совершивший убийство, оставался в безопасности, поскольку родственники убитого не могли ему отомстить. Убийца мог оставаться в городе-убежище до смерти первосвященника, после чего мог вернуться в свой родной город. </p>",
@@ -401,7 +426,7 @@
 {
 "content_id": "193308",
 "reference_id": 108226,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Господь",
 "media_type": "Text",
 "index_reference": "господь",
@@ -411,13 +436,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+}
+]
 }
 },
 {
 "content_id": "193411",
 "reference_id": 108329,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Господь Владыка",
 "media_type": "Text",
 "index_reference": "господь владыка",
@@ -433,7 +473,7 @@
 {
 "content_id": "193228",
 "reference_id": 108146,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Господь Иисус Христос",
 "media_type": "Text",
 "index_reference": "господь иисус христос",
@@ -443,13 +483,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Иисус"
+}
+]
 }
 },
 {
 "content_id": "193572",
 "reference_id": 108490,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гофолия",
 "media_type": "Text",
 "index_reference": "гофолия",
@@ -459,13 +507,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Athaliah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Афалия"
+},
+{
+"id": "person:Athaliah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Афалия"
+},
+{
+"id": "person:Athaliah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Афалия"
+}
+]
 }
 },
 {
 "content_id": "193513",
 "reference_id": 108431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Гофониил",
 "media_type": "Text",
 "index_reference": "гофониил",
@@ -479,9 +549,9 @@
 {
 "id": "person:Othniel",
 "type": "person",
-"preferred_label": "Гофониил",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Гофониил"
 }
 ]
 }
@@ -489,7 +559,7 @@
 {
 "content_id": "193238",
 "reference_id": 108156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Граждане неба",
 "media_type": "Text",
 "index_reference": "граждане неба",
@@ -513,7 +583,7 @@
 {
 "content_id": "193277",
 "reference_id": 108195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Грех",
 "media_type": "Text",
 "index_reference": "грех",
@@ -529,7 +599,7 @@
 {
 "content_id": "193276",
 "reference_id": 108194,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Греция",
 "media_type": "Text",
 "index_reference": "греция",
@@ -543,9 +613,9 @@
 {
 "id": "place:Greece",
 "type": "place",
-"preferred_label": "Greece",
-"confidence": 0.944,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Greece"
 }
 ]
 }

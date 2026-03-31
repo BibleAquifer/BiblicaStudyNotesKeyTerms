@@ -2,7 +2,7 @@
 {
 "content_id": "367534",
 "reference_id": 108043,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Habari njema",
 "media_type": "Text",
 "index_reference": "habari njema",
@@ -20,13 +20,21 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9692,
+"match_method": "embedding",
+"preferred_label": "Good News"
+}
+]
 }
 },
 {
 "content_id": "367689",
 "reference_id": 108198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hadithi",
 "media_type": "Text",
 "index_reference": "hadithi",
@@ -42,7 +50,7 @@
 {
 "content_id": "368001",
 "reference_id": 108510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hagai",
 "media_type": "Text",
 "index_reference": "hagai",
@@ -56,16 +64,9 @@
 {
 "id": "person:Haggai",
 "type": "person",
-"preferred_label": "Hagai",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hegai",
-"type": "person",
-"preferred_label": "Hegai",
-"confidence": 0.8386,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hagai"
 }
 ]
 }
@@ -73,7 +74,7 @@
 {
 "content_id": "367750",
 "reference_id": 108259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hagari",
 "media_type": "Text",
 "index_reference": "hagari",
@@ -87,16 +88,9 @@
 {
 "id": "person:Hagar",
 "type": "person",
-"preferred_label": "Hajiri",
-"confidence": 0.8805,
-"match_method": "embedding"
-},
-{
-"id": "person:Gahar",
-"type": "person",
-"preferred_label": "Gahari",
-"confidence": 0.8783,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hajiri"
 }
 ]
 }
@@ -104,7 +98,7 @@
 {
 "content_id": "367745",
 "reference_id": 108254,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haki na Mungu",
 "media_type": "Text",
 "index_reference": "haki na mungu",
@@ -120,7 +114,7 @@
 {
 "content_id": "367761",
 "reference_id": 108270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Haki za mzaliwa wa kwanza",
 "media_type": "Text",
 "index_reference": "haki za mzaliwa wa kwanza",
@@ -136,7 +130,7 @@
 {
 "content_id": "368012",
 "reference_id": 108521,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hamani",
 "media_type": "Text",
 "index_reference": "hamani",
@@ -148,123 +142,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hanan",
+"id": "person:Haman",
 "type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.2",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.3",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.4",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.5",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.6",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.7",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.8",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.9",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanani",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanani.2",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanani.3",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanani.4",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanani.5",
-"type": "person",
-"preferred_label": "Hanani",
-"confidence": 0.8222,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman",
-"type": "person",
-"preferred_label": "Hemani",
-"confidence": 0.8048,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.2",
-"type": "person",
-"preferred_label": "Hemani",
-"confidence": 0.8048,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.3",
-"type": "person",
-"preferred_label": "Hemani",
-"confidence": 0.8048,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haman"
 }
 ]
 }
@@ -272,7 +154,7 @@
 {
 "content_id": "367733",
 "reference_id": 108242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hamu",
 "media_type": "Text",
 "index_reference": "hamu",
@@ -286,16 +168,23 @@
 {
 "id": "person:Ham",
 "type": "person",
-"preferred_label": "Hamu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hamu"
 },
 {
 "id": "place:Ham.2",
 "type": "place",
-"preferred_label": "Hamu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hamu"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Waamoni"
 }
 ]
 }
@@ -303,7 +192,7 @@
 {
 "content_id": "367941",
 "reference_id": 108450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hana",
 "media_type": "Text",
 "index_reference": "hana",
@@ -317,16 +206,9 @@
 {
 "id": "person:Hannah",
 "type": "person",
-"preferred_label": "Hana",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Hena",
-"type": "place",
-"preferred_label": "Hena",
-"confidence": 0.8227,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hana"
 }
 ]
 }
@@ -334,7 +216,7 @@
 {
 "content_id": "367991",
 "reference_id": 108500,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hasira ya Mungu",
 "media_type": "Text",
 "index_reference": "hasira ya mungu",
@@ -350,7 +232,7 @@
 {
 "content_id": "367696",
 "reference_id": 108205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hawa",
 "media_type": "Text",
 "index_reference": "hawa",
@@ -364,9 +246,9 @@
 {
 "id": "person:Eve",
 "type": "person",
-"preferred_label": "Hawa",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hawa"
 }
 ]
 }
@@ -374,7 +256,7 @@
 {
 "content_id": "367908",
 "reference_id": 108417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hekalu",
 "media_type": "Text",
 "index_reference": "hekalu",
@@ -384,13 +266,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Temple",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temple"
+}
+]
 }
 },
 {
 "content_id": "367816",
 "reference_id": 108325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hekima",
 "media_type": "Text",
 "index_reference": "hekima",
@@ -400,13 +290,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Wisdom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
+}
+]
 }
 },
 {
 "content_id": "367838",
 "reference_id": 108347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hema la kukutania",
 "media_type": "Text",
 "index_reference": "hema la kukutania",
@@ -416,13 +314,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
 "content_id": "367825",
 "reference_id": 108334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hema takatifu",
 "media_type": "Text",
 "index_reference": "hema takatifu",
@@ -432,13 +338,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
 "content_id": "367719",
 "reference_id": 108228,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Henoko",
 "media_type": "Text",
 "index_reference": "henoko",
@@ -450,18 +364,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Enoch",
-"type": "person",
-"preferred_label": "Henoko",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Enoch.2",
 "type": "person",
-"preferred_label": "Henoko",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Henoko"
+},
+{
+"id": "person:Enoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Henoko"
 }
 ]
 }
@@ -469,7 +383,7 @@
 {
 "content_id": "367601",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herode Agripa I",
 "media_type": "Text",
 "index_reference": "herode agripa i",
@@ -479,13 +393,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Agripa"
+}
+]
 }
 },
 {
 "content_id": "367630",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herode Agripa II",
 "media_type": "Text",
 "index_reference": "herode agripa ii",
@@ -495,13 +417,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herode"
+}
+]
 }
 },
 {
 "content_id": "367548",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herode Antipa",
 "media_type": "Text",
 "index_reference": "herode antipa",
@@ -511,13 +441,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herode"
+}
+]
 }
 },
 {
 "content_id": "368049",
 "reference_id": 108558,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Herode Mkuu",
 "media_type": "Text",
 "index_reference": "herode mkuu",
@@ -527,13 +465,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herode"
+}
+]
 }
 },
 {
 "content_id": "367987",
 "reference_id": 108496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hezekia",
 "media_type": "Text",
 "index_reference": "hezekia",
@@ -545,39 +491,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hezekiah",
-"type": "person",
-"preferred_label": "Hezekia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Hezekiah.2",
 "type": "person",
-"preferred_label": "Hezekia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hezekia"
 },
 {
 "id": "person:Hezekiah.3",
 "type": "person",
-"preferred_label": "Hezekia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hezekia"
 },
 {
 "id": "person:Hezekiah.4",
 "type": "person",
-"preferred_label": "Hezekia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hezekia"
 },
 {
-"id": "person:Hizkiah",
+"id": "person:Hezekiah",
 "type": "person",
-"preferred_label": "Hezekia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hezekia"
 }
 ]
 }
@@ -585,7 +524,7 @@
 {
 "content_id": "367635",
 "reference_id": 108144,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hispania",
 "media_type": "Text",
 "index_reference": "hispania",
@@ -595,13 +534,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Spain",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Spania"
+}
+]
 }
 },
 {
 "content_id": "367878",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hobabu",
 "media_type": "Text",
 "index_reference": "hobabu",
@@ -615,16 +562,9 @@
 {
 "id": "person:Hobab",
 "type": "person",
-"preferred_label": "Hobabu",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hagab",
-"type": "person",
-"preferred_label": "Hagabu",
-"confidence": 0.8184,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hobabu"
 }
 ]
 }
@@ -632,7 +572,7 @@
 {
 "content_id": "368061",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hosea",
 "media_type": "Text",
 "index_reference": "hosea",
@@ -646,9 +586,9 @@
 {
 "id": "person:Hosea",
 "type": "person",
-"preferred_label": "Hosea",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Hosea"
 }
 ]
 }
@@ -656,7 +596,7 @@
 {
 "content_id": "367724",
 "reference_id": 108233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Hukumu",
 "media_type": "Text",
 "index_reference": "hukumu",
@@ -666,7 +606,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.8663,
+"match_method": "embedding",
+"preferred_label": "Judgment"
+}
+]
 }
 }
 ]

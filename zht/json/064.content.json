@@ -2,7 +2,7 @@
 {
 "content_id": "232763",
 "reference_id": 108162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "老底嘉",
 "media_type": "Text",
 "index_reference": "老底嘉",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Laodicea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Laodicea"
+}
+]
 }
 }
 ]

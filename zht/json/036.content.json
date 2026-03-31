@@ -2,7 +2,7 @@
 {
 "content_id": "232961",
 "reference_id": 108360,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "膏抹",
 "media_type": "Text",
 "index_reference": "膏抹",
@@ -20,7 +20,15 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Anointed"
+}
+]
 }
 }
 ]

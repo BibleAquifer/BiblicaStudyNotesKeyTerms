@@ -2,7 +2,7 @@
 {
 "content_id": "183159",
 "reference_id": 108265,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रखेल",
 "media_type": "Text",
 "index_reference": "रखेल",
@@ -18,7 +18,7 @@
 {
 "content_id": "182940",
 "reference_id": 108046,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रब्बी",
 "media_type": "Text",
 "index_reference": "रब्बी",
@@ -34,7 +34,7 @@
 {
 "content_id": "183372",
 "reference_id": 108478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रहूबियाम",
 "media_type": "Text",
 "index_reference": "रहूबियाम",
@@ -44,13 +44,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rehoboam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रहबाम"
+}
+]
 }
 },
 {
 "content_id": "183224",
 "reference_id": 108330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "राजा",
 "media_type": "Text",
 "index_reference": "राजा",
@@ -66,7 +74,7 @@
 {
 "content_id": "183315",
 "reference_id": 108421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "राहाब",
 "media_type": "Text",
 "index_reference": "राहाब",
@@ -80,16 +88,16 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "राहाब",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "राहाब"
 },
 {
-"id": "person:Rehoboam",
-"type": "person",
-"preferred_label": "रहबाम",
-"confidence": 0.811,
-"match_method": "embedding"
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मिस्र"
 }
 ]
 }
@@ -97,7 +105,7 @@
 {
 "content_id": "183170",
 "reference_id": 108276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "राहेल",
 "media_type": "Text",
 "index_reference": "राहेल",
@@ -111,9 +119,9 @@
 {
 "id": "person:Rachel",
 "type": "person",
-"preferred_label": "राहेल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "राहेल"
 }
 ]
 }
@@ -121,7 +129,7 @@
 {
 "content_id": "183160",
 "reference_id": 108266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रिबका",
 "media_type": "Text",
 "index_reference": "रिबका",
@@ -135,44 +143,9 @@
 {
 "id": "person:Rebekah",
 "type": "person",
-"preferred_label": "रिबका",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Riblah",
-"type": "place",
-"preferred_label": "रिबला",
-"confidence": 0.8513,
-"match_method": "embedding"
-},
-{
-"id": "place:Riblah.2",
-"type": "place",
-"preferred_label": "रिबला",
-"confidence": 0.8513,
-"match_method": "embedding"
-},
-{
-"id": "person:Rechab",
-"type": "person",
-"preferred_label": "रेकाब",
-"confidence": 0.8273,
-"match_method": "embedding"
-},
-{
-"id": "person:Rechab.2",
-"type": "person",
-"preferred_label": "रेकाब",
-"confidence": 0.8273,
-"match_method": "embedding"
-},
-{
-"id": "person:Rechab.3",
-"type": "person",
-"preferred_label": "रेकाब",
-"confidence": 0.8273,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "रिबका"
 }
 ]
 }
@@ -180,7 +153,7 @@
 {
 "content_id": "183341",
 "reference_id": 108447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रूत",
 "media_type": "Text",
 "index_reference": "रूत",
@@ -190,13 +163,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रूत"
+}
+]
 }
 },
 {
 "content_id": "183301",
 "reference_id": 108407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रूबेन",
 "media_type": "Text",
 "index_reference": "रूबेन",
@@ -208,18 +189,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Reuben",
-"type": "group",
-"preferred_label": "रूबेन",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Reuben",
 "type": "person",
-"preferred_label": "रूबेन",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "रूबेन"
 }
 ]
 }
@@ -227,7 +201,7 @@
 {
 "content_id": "182941",
 "reference_id": 108047,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रोम",
 "media_type": "Text",
 "index_reference": "रोम",
@@ -237,13 +211,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Rome",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "रोम"
+}
+]
 }
 },
 {
 "content_id": "183021",
 "reference_id": 108127,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "रोमी नागरिक",
 "media_type": "Text",
 "index_reference": "रोमी नागरिक",

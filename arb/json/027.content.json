@@ -2,10 +2,10 @@
 {
 "content_id": "134171",
 "reference_id": 108369,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "غريب (دخيل)",
 "media_type": "Text",
-"index_reference": "غريب (دخيل)",
+"index_reference": "غريب دخيل",
 "language": "arb",
 "review_level": "None",
 "content": "<p>هو أي شخص لا ينتمي إلى مكان أو إلي جماعة. إن الأشخاص الذين عاشوا في مكان مختلف عن المكان الذي كانت منه عائلاتهم، كانوا يعتبرون غرباء. كذلك الأشخاص الذين أصبحوا جزءًا من جماعة ليست جزءًا من الجماعة التي تنتمي إليها عائلاتهم، كانوا أيضًا يعتبرون غرباء. ولقد اعتبر بنو إسرائيل أي شخص ليس من نسل يعقوب غريبًا. وكان علي الغرباء الذين عاشوا بينهم أن يطيعوا بعض الوصايا من شريعة موسى. وكان بنو إسرائيل الذين لم يتّبعوا شريعة موسى بأمانة غالبًا ما يُعاملون كغرباء. وكان يُطلق عليهم أيضًا الخطاة. وكذلك بنو إسرائيل الذين كانوا نجسين وفقًا لشريعة موسى كانوا يُعاملون مثل غرباء. معظم الغرباء لم يكن بإمكانهم أن يكونوا جزءًا أصيلًا من مجتمعهم. لكن البعض منهم مثل راعوث تم قبولهم تمامًا كأفراد طبيعيين في وسط شعب إسرائيل. كما إن بعض الغرباء كانوا يُعرفون أيضًا بالدخلاء أو الأجانب.</p>",
@@ -18,7 +18,7 @@
 {
 "content_id": "134302",
 "reference_id": 108500,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "غضب الله",
 "media_type": "Text",
 "index_reference": "غضب الله",
@@ -34,7 +34,7 @@
 {
 "content_id": "133924",
 "reference_id": 108122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "غَلاطية",
 "media_type": "Text",
 "index_reference": "غَلاطية",
@@ -44,13 +44,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Galatia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "غَلَاطِيَّةَ"
+}
+]
 }
 },
 {
 "content_id": "133901",
 "reference_id": 108099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "غمالائيل",
 "media_type": "Text",
 "index_reference": "غمالائيل",
@@ -60,13 +68,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Gamaliel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَمْلِيئِيل"
+},
+{
+"id": "person:Gamaliel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "جَمْلِيئِيل"
+}
+]
 }
 },
 {
 "content_id": "134147",
 "reference_id": 108345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "غيور",
 "media_type": "Text",
 "index_reference": "غيور",
@@ -76,7 +99,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "ٱلرَّبِّ"
+}
+]
 }
 }
 ]

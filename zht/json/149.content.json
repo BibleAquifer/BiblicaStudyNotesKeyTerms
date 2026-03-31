@@ -2,7 +2,7 @@
 {
 "content_id": "232838",
 "reference_id": 108237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約",
 "media_type": "Text",
 "index_reference": "約",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Covenant"
+}
+]
 }
 },
 {
 "content_id": "233092",
 "reference_id": 108491,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約阿施",
 "media_type": "Text",
 "index_reference": "約阿施",
@@ -28,13 +36,70 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joash.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joash"
+},
+{
+"id": "person:Joash.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joash"
+},
+{
+"id": "person:Joash.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joash"
+},
+{
+"id": "person:Joash.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joash"
+},
+{
+"id": "person:Joash.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joash"
+},
+{
+"id": "person:Joash.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joash"
+},
+{
+"id": "person:Joash.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joash"
+},
+{
+"id": "person:Joash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joash"
+}
+]
 }
 },
 {
 "content_id": "233125",
 "reference_id": 108524,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約伯",
 "media_type": "Text",
 "index_reference": "約伯",
@@ -44,13 +109,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Job",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Job"
+}
+]
 }
 },
 {
 "content_id": "233007",
 "reference_id": 108406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約旦河",
 "media_type": "Text",
 "index_reference": "約旦河",
@@ -60,13 +133,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jordan River"
+}
+]
 }
 },
 {
 "content_id": "232981",
 "reference_id": 108380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約的咒詛",
 "media_type": "Text",
 "index_reference": "約的咒詛",
@@ -82,7 +163,7 @@
 {
 "content_id": "232980",
 "reference_id": 108379,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約的祝福",
 "media_type": "Text",
 "index_reference": "約的祝福",
@@ -98,7 +179,7 @@
 {
 "content_id": "232986",
 "reference_id": 108385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約櫃",
 "media_type": "Text",
 "index_reference": "約櫃",
@@ -116,13 +197,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ark of the Covenant"
+}
+]
 }
 },
 {
 "content_id": "233143",
 "reference_id": 108542,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約翰",
 "media_type": "Text",
 "index_reference": "約翰",
@@ -132,13 +221,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "John"
+},
+{
+"id": "person:John.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "John"
+},
+{
+"id": "person:John.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "John"
+},
+{
+"id": "person:Mark",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mark"
+},
+{
+"id": "person:John",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "John"
+}
+]
 }
 },
 {
 "content_id": "233174",
 "reference_id": 108573,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約拿",
 "media_type": "Text",
 "index_reference": "約拿",
@@ -148,13 +273,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jonah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonah"
+},
+{
+"id": "person:John.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "John"
+}
+]
 }
 },
 {
 "content_id": "233058",
 "reference_id": 108457,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約拿單",
 "media_type": "Text",
 "index_reference": "約拿單",
@@ -164,13 +304,105 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jonathan.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonathan.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonathan"
+},
+{
+"id": "person:Jonadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jonadab"
+}
+]
 }
 },
 {
 "content_id": "232889",
 "reference_id": 108288,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約瑟",
 "media_type": "Text",
 "index_reference": "約瑟",
@@ -180,13 +412,112 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joseph.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Joseph.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Joseph.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Joseph.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Joseph.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Josech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josech"
+},
+{
+"id": "person:Joseph.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Joseph.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Joseph.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Joseph.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Joseph.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Joseph.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joseph"
+},
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barnabas"
+}
+]
 }
 },
 {
 "content_id": "233084",
 "reference_id": 108483,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約沙法",
 "media_type": "Text",
 "index_reference": "約沙法",
@@ -196,13 +527,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jehoshaphat.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoshaphat"
+},
+{
+"id": "person:Jehoshaphat.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoshaphat"
+},
+{
+"id": "person:Jehoshaphat.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoshaphat"
+},
+{
+"id": "person:Jehoshaphat",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoshaphat"
+}
+]
 }
 },
 {
 "content_id": "232990",
 "reference_id": 108389,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約書亞",
 "media_type": "Text",
 "index_reference": "約書亞",
@@ -212,13 +572,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Joshua.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Joshua.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Joshua.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Joshua",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+}
+]
 }
 },
 {
 "content_id": "233109",
 "reference_id": 108508,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約書亞和所羅巴伯",
 "media_type": "Text",
 "index_reference": "約書亞和所羅巴伯",
@@ -228,13 +624,63 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joshua.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Joshua.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Joshua.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Joshua.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Joshua",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joshua"
+},
+{
+"id": "person:Zerubbabel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zerubbabel"
+},
+{
+"id": "person:Zerubbabel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zerubbabel"
+}
+]
 }
 },
 {
 "content_id": "233064",
 "reference_id": 108463,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "約押",
 "media_type": "Text",
 "index_reference": "約押",
@@ -244,7 +690,36 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joab"
+},
+{
+"id": "person:Joab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joab"
+},
+{
+"id": "person:Joab.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joab"
+},
+{
+"id": "person:Joab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joab"
+}
+]
 }
 }
 ]

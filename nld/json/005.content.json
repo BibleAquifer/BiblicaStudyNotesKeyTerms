@@ -2,7 +2,7 @@
 {
 "content_id": "778830",
 "reference_id": 108172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dag des Heren",
 "media_type": "Text",
 "index_reference": "dag des heren",
@@ -18,7 +18,7 @@
 {
 "content_id": "769753",
 "reference_id": 108571,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dag van de Heer",
 "media_type": "Text",
 "index_reference": "dag van de heer",
@@ -49,7 +49,7 @@
 {
 "content_id": "778807",
 "reference_id": 108055,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dag van het Oordeel",
 "media_type": "Text",
 "index_reference": "dag van het oordeel",
@@ -73,7 +73,7 @@
 {
 "content_id": "769745",
 "reference_id": 108446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dagon",
 "media_type": "Text",
 "index_reference": "dagon",
@@ -87,9 +87,9 @@
 {
 "id": "deity:Dagon",
 "type": "deity",
-"preferred_label": "Dagon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dagon"
 }
 ]
 }
@@ -97,7 +97,7 @@
 {
 "content_id": "769746",
 "reference_id": 108540,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Damascus",
 "media_type": "Text",
 "index_reference": "damascus",
@@ -111,9 +111,9 @@
 {
 "id": "place:Damascus",
 "type": "place",
-"preferred_label": "Damascus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Damascus"
 }
 ]
 }
@@ -121,7 +121,7 @@
 {
 "content_id": "769747",
 "reference_id": 108444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dan",
 "media_type": "Text",
 "index_reference": "dan",
@@ -131,13 +131,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
+}
+]
 }
 },
 {
 "content_id": "769748",
 "reference_id": 108560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Daniël",
 "media_type": "Text",
 "index_reference": "daniël",
@@ -151,16 +166,23 @@
 {
 "id": "person:Daniel.2",
 "type": "person",
-"preferred_label": "Daniel",
-"confidence": 0.9237,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
 },
 {
 "id": "person:Daniel.3",
 "type": "person",
-"preferred_label": "Daniel",
-"confidence": 0.9237,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chileab"
 }
 ]
 }
@@ -168,7 +190,7 @@
 {
 "content_id": "769749",
 "reference_id": 108512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Darius",
 "media_type": "Text",
 "index_reference": "darius",
@@ -180,25 +202,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Darius",
-"type": "person",
-"preferred_label": "Darius",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Darius.2",
 "type": "person",
-"preferred_label": "Darius",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Darius"
 },
 {
 "id": "person:Darius.3",
 "type": "person",
-"preferred_label": "Darius",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Darius"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Darius"
 }
 ]
 }
@@ -206,7 +228,7 @@
 {
 "content_id": "769751",
 "reference_id": 108449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "David",
 "media_type": "Text",
 "index_reference": "david",
@@ -226,11 +248,18 @@
 ],
 "acai": [
 {
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
 "id": "person:David",
 "type": "person",
-"preferred_label": "David",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "David"
 }
 ]
 }
@@ -238,7 +267,7 @@
 {
 "content_id": "769757",
 "reference_id": 108433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Debora",
 "media_type": "Text",
 "index_reference": "debora",
@@ -250,18 +279,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "Deborah",
-"confidence": 0.8087,
-"match_method": "embedding"
-},
-{
 "id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "Deborah",
-"confidence": 0.8087,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Deborah"
+},
+{
+"id": "person:Deborah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Deborah"
 }
 ]
 }
@@ -269,7 +298,7 @@
 {
 "content_id": "769758",
 "reference_id": 108445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Delila",
 "media_type": "Text",
 "index_reference": "delila",
@@ -283,9 +312,9 @@
 {
 "id": "person:Delilah",
 "type": "person",
-"preferred_label": "Delilah",
-"confidence": 0.8109,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delilah"
 }
 ]
 }
@@ -293,7 +322,7 @@
 {
 "content_id": "769759",
 "reference_id": 108117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Derbe",
 "media_type": "Text",
 "index_reference": "derbe",
@@ -307,9 +336,9 @@
 {
 "id": "place:Derbe",
 "type": "place",
-"preferred_label": "Derbe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Derbe"
 }
 ]
 }
@@ -317,7 +346,7 @@
 {
 "content_id": "769754",
 "reference_id": 108100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diakens",
 "media_type": "Text",
 "index_reference": "diakens",
@@ -333,7 +362,7 @@
 {
 "content_id": "775305",
 "reference_id": 108544,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dienaar van God",
 "media_type": "Text",
 "index_reference": "dienaar van god",
@@ -349,7 +378,7 @@
 {
 "content_id": "769762",
 "reference_id": 108283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dinah",
 "media_type": "Text",
 "index_reference": "dinah",
@@ -363,9 +392,9 @@
 {
 "id": "person:Dinah",
 "type": "person",
-"preferred_label": "Dinah",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dinah"
 }
 ]
 }
@@ -373,7 +402,7 @@
 {
 "content_id": "769763",
 "reference_id": 108040,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Discipel",
 "media_type": "Text",
 "index_reference": "discipel",
@@ -404,7 +433,7 @@
 {
 "content_id": "769765",
 "reference_id": 108167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Docetisme",
 "media_type": "Text",
 "index_reference": "docetisme",
@@ -420,7 +449,7 @@
 {
 "content_id": "769756",
 "reference_id": 108190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dood en Hel",
 "media_type": "Text",
 "index_reference": "dood en hel",
@@ -430,13 +459,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "769199",
 "reference_id": 108037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dopen",
 "media_type": "Text",
 "index_reference": "dopen",
@@ -446,13 +483,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
 "content_id": "769766",
 "reference_id": 108273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dromen",
 "media_type": "Text",
 "index_reference": "dromen",
@@ -468,7 +513,7 @@
 {
 "content_id": "769750",
 "reference_id": 108039,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Duisternis",
 "media_type": "Text",
 "index_reference": "duisternis",
@@ -492,7 +537,7 @@
 {
 "content_id": "769761",
 "reference_id": 108216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Duivel",
 "media_type": "Text",
 "index_reference": "duivel",
@@ -510,7 +555,15 @@
 "language": "nld"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Satan"
+}
+]
 }
 }
 ]

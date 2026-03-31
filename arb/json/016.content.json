@@ -2,7 +2,7 @@
 {
 "content_id": "134020",
 "reference_id": 108218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الكائنات الروحية الشريرة",
 "media_type": "Text",
 "index_reference": "الكائنات الروحية الشريرة",
@@ -26,7 +26,7 @@
 {
 "content_id": "134225",
 "reference_id": 108423,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كائنات روحية",
 "media_type": "Text",
 "index_reference": "كائنات روحية",
@@ -50,7 +50,7 @@
 {
 "content_id": "134192",
 "reference_id": 108390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كالب",
 "media_type": "Text",
 "index_reference": "كالب",
@@ -60,13 +60,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Caleb.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَالِب"
+},
+{
+"id": "person:Caleb",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَالِب"
+}
+]
 }
 },
 {
 "content_id": "133967",
 "reference_id": 108165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كامل",
 "media_type": "Text",
 "index_reference": "كامل",
@@ -82,7 +97,7 @@
 {
 "content_id": "134135",
 "reference_id": 108333,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كاهن",
 "media_type": "Text",
 "index_reference": "كاهن",
@@ -113,7 +128,7 @@
 {
 "content_id": "134146",
 "reference_id": 108344,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كتاب الحياة",
 "media_type": "Text",
 "index_reference": "كتاب الحياة",
@@ -129,7 +144,7 @@
 {
 "content_id": "133995",
 "reference_id": 108193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كتاب مقدس",
 "media_type": "Text",
 "index_reference": "كتاب مقدس",
@@ -153,7 +168,7 @@
 {
 "content_id": "133910",
 "reference_id": 108108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كرنيليوس",
 "media_type": "Text",
 "index_reference": "كرنيليوس",
@@ -163,13 +178,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Cornelius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَرْنِيلِيوس"
+}
+]
 }
 },
 {
 "content_id": "133965",
 "reference_id": 108163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كريت",
 "media_type": "Text",
 "index_reference": "كريت",
@@ -179,16 +202,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Crete",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كِرِيتَ"
+}
+]
 }
 },
 {
 "content_id": "134169",
 "reference_id": 108367,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كفارة- تكفير",
 "media_type": "Text",
-"index_reference": "كفارة- تكفير",
+"index_reference": "كفارة تكفير",
 "language": "arb",
 "review_level": "None",
 "content": "<p>إعادة السلام إلى شيء ما عندما يكون السلام قد دُمِّر. في العلاقات، يتم تدمير السلام عندما يخطئ الناس ضد بعضهم البعض. هذا أيضًا يُدمر السلام بين الخاطئ والله. يجب على الشخص الذي يخطئ أن يتوب ويتوقف عن فعل ما أخطأ فيه. ويجب دفع ثمن الخطية. هذا يسمح بأن يكون هناك سلام بين الناس مرة أخرى. كما يسمح بوجود سلام بين الناس والله. (يوم الكفارة)</p>",
@@ -209,7 +240,7 @@
 {
 "content_id": "133894",
 "reference_id": 108092,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كفرناحوم",
 "media_type": "Text",
 "index_reference": "كفرناحوم",
@@ -219,13 +250,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَفْرَنَاحومَ"
+}
+]
 }
 },
 {
 "content_id": "134002",
 "reference_id": 108200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كلمة الله",
 "media_type": "Text",
 "index_reference": "كلمة الله",
@@ -249,7 +288,7 @@
 {
 "content_id": "134048",
 "reference_id": 108246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كنعان",
 "media_type": "Text",
 "index_reference": "كنعان",
@@ -259,13 +298,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Canaan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَنْعَان"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كَنْعَان"
+}
+]
 }
 },
 {
 "content_id": "133898",
 "reference_id": 108096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كنيسة",
 "media_type": "Text",
 "index_reference": "كنيسة",
@@ -275,13 +329,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Church"
+}
+]
 }
 },
 {
 "content_id": "133884",
 "reference_id": 108082,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كورة الجدريين",
 "media_type": "Text",
 "index_reference": "كورة الجدريين",
@@ -297,7 +359,7 @@
 {
 "content_id": "134304",
 "reference_id": 108502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كُورَش",
 "media_type": "Text",
 "index_reference": "كُورَش",
@@ -311,9 +373,9 @@
 {
 "id": "person:Cyrus",
 "type": "person",
-"preferred_label": "كورَشَ",
-"confidence": 0.8638,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كورَشَ"
 }
 ]
 }
@@ -321,7 +383,7 @@
 {
 "content_id": "133935",
 "reference_id": 108133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كُورِنْثُوس",
 "media_type": "Text",
 "index_reference": "كُورِنْثُوس",
@@ -335,9 +397,9 @@
 {
 "id": "place:Corinth",
 "type": "place",
-"preferred_label": "كورِنْثوسَ",
-"confidence": 0.8465,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كورِنْثوسَ"
 }
 ]
 }
@@ -345,7 +407,7 @@
 {
 "content_id": "133962",
 "reference_id": 108160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "كولوسي",
 "media_type": "Text",
 "index_reference": "كولوسي",
@@ -355,7 +417,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Colossae",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "كولوسِّي"
+}
+]
 }
 }
 ]

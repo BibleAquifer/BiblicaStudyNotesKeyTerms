@@ -2,7 +2,7 @@
 {
 "content_id": "182973",
 "reference_id": 108079,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "थियुफिलुस",
 "media_type": "Text",
 "index_reference": "थियुफिलुस",
@@ -16,9 +16,9 @@
 {
 "id": "person:Theophilus",
 "type": "person",
-"preferred_label": "थियुफिलुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "थियुफिलुस"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "183022",
 "reference_id": 108128,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "थिस्सलुनीका",
 "media_type": "Text",
 "index_reference": "थिस्सलुनीका",
@@ -40,9 +40,9 @@
 {
 "id": "place:Thessalonica",
 "type": "place",
-"preferred_label": "थिस्सलुनीके",
-"confidence": 0.9563,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "थिस्सलुनीके"
 }
 ]
 }
@@ -50,7 +50,7 @@
 {
 "content_id": "183071",
 "reference_id": 108177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "थुआतीरा",
 "media_type": "Text",
 "index_reference": "थुआतीरा",
@@ -64,9 +64,9 @@
 {
 "id": "place:Thyatira",
 "type": "place",
-"preferred_label": "थुआतीरा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "थुआतीरा"
 }
 ]
 }
@@ -74,7 +74,7 @@
 {
 "content_id": "182989",
 "reference_id": 108095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "थोमा",
 "media_type": "Text",
 "index_reference": "थोमा",
@@ -88,23 +88,9 @@
 {
 "id": "person:Thomas",
 "type": "person",
-"preferred_label": "थोमा",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Tema",
-"type": "person",
-"preferred_label": "तेमा",
-"confidence": 0.8327,
-"match_method": "embedding"
-},
-{
-"id": "place:Tema",
-"type": "place",
-"preferred_label": "तेमा",
-"confidence": 0.8327,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "थोमा"
 }
 ]
 }

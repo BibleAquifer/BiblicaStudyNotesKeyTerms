@@ -2,7 +2,7 @@
 {
 "content_id": "233111",
 "reference_id": 108510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "哈該",
 "media_type": "Text",
 "index_reference": "哈該",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Haggai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haggai"
+}
+]
 }
 },
 {
 "content_id": "233122",
 "reference_id": 108521,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "哈曼",
 "media_type": "Text",
 "index_reference": "哈曼",
@@ -28,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Haman",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haman"
+}
+]
 }
 },
 {
 "content_id": "233051",
 "reference_id": 108450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "哈拿",
 "media_type": "Text",
 "index_reference": "哈拿",
@@ -44,7 +60,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hannah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hannah"
+}
+]
 }
 }
 ]

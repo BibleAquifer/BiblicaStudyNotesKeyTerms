@@ -2,7 +2,7 @@
 {
 "content_id": "133298",
 "reference_id": 108046,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rabbi",
 "media_type": "Text",
 "index_reference": "rabbi",
@@ -18,7 +18,7 @@
 {
 "content_id": "133528",
 "reference_id": 108276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rachel",
 "media_type": "Text",
 "index_reference": "rachel",
@@ -32,9 +32,9 @@
 {
 "id": "person:Rachel",
 "type": "person",
-"preferred_label": "Rachel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rachel"
 }
 ]
 }
@@ -42,7 +42,7 @@
 {
 "content_id": "133633",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Racheter",
 "media_type": "Text",
 "index_reference": "racheter",
@@ -58,7 +58,7 @@
 {
 "content_id": "133673",
 "reference_id": 108421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rahab",
 "media_type": "Text",
 "index_reference": "rahab",
@@ -72,9 +72,16 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "Rahab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rahab"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Égypte"
 }
 ]
 }
@@ -82,7 +89,7 @@
 {
 "content_id": "133518",
 "reference_id": 108266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rébecca",
 "media_type": "Text",
 "index_reference": "rébecca",
@@ -96,9 +103,9 @@
 {
 "id": "person:Rebekah",
 "type": "person",
-"preferred_label": "Rebecca",
-"confidence": 0.8435,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rebecca"
 }
 ]
 }
@@ -106,7 +113,7 @@
 {
 "content_id": "133464",
 "reference_id": 108212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Repos",
 "media_type": "Text",
 "index_reference": "repos",
@@ -122,7 +129,7 @@
 {
 "content_id": "133730",
 "reference_id": 108478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roboam",
 "media_type": "Text",
 "index_reference": "roboam",
@@ -136,9 +143,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "Roboam",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Roboam"
 }
 ]
 }
@@ -146,7 +153,7 @@
 {
 "content_id": "133582",
 "reference_id": 108330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roi",
 "media_type": "Text",
 "index_reference": "roi",
@@ -162,7 +169,7 @@
 {
 "content_id": "133299",
 "reference_id": 108047,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rome",
 "media_type": "Text",
 "index_reference": "rome",
@@ -176,9 +183,9 @@
 {
 "id": "place:Rome",
 "type": "place",
-"preferred_label": "Rome",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rome"
 }
 ]
 }
@@ -186,7 +193,7 @@
 {
 "content_id": "133813",
 "reference_id": 108561,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Royaume de Dieu",
 "media_type": "Text",
 "index_reference": "royaume de dieu",
@@ -210,7 +217,7 @@
 {
 "content_id": "133589",
 "reference_id": 108337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Royaume de prêtres",
 "media_type": "Text",
 "index_reference": "royaume de prêtres",
@@ -226,7 +233,7 @@
 {
 "content_id": "133731",
 "reference_id": 108479,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Royaume du Nord",
 "media_type": "Text",
 "index_reference": "royaume du nord",
@@ -242,7 +249,7 @@
 {
 "content_id": "133659",
 "reference_id": 108407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruben",
 "media_type": "Text",
 "index_reference": "ruben",
@@ -254,18 +261,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Reuben",
-"type": "group",
-"preferred_label": "Ruben",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Reuben",
 "type": "person",
-"preferred_label": "Ruben",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ruben"
 }
 ]
 }
@@ -273,7 +273,7 @@
 {
 "content_id": "133699",
 "reference_id": 108447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ruth",
 "media_type": "Text",
 "index_reference": "ruth",
@@ -287,9 +287,9 @@
 {
 "id": "person:Ruth",
 "type": "person",
-"preferred_label": "Ruth",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ruth"
 }
 ]
 }

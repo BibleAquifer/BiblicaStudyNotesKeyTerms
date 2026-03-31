@@ -2,7 +2,7 @@
 {
 "content_id": "183127",
 "reference_id": 108233,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "न्याय",
 "media_type": "Text",
 "index_reference": "न्याय",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judgment",
+"type": "keyterm",
+"confidence": 0.8663,
+"match_method": "embedding",
+"preferred_label": "Judgment"
+}
+]
 }
 },
 {
 "content_id": "182949",
 "reference_id": 108055,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "न्याय का दिन",
 "media_type": "Text",
 "index_reference": "न्याय का दिन",
@@ -42,7 +50,7 @@
 {
 "content_id": "183428",
 "reference_id": 108534,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "न्याय के संदेश",
 "media_type": "Text",
 "index_reference": "न्याय के संदेश",
@@ -58,7 +66,7 @@
 {
 "content_id": "183314",
 "reference_id": 108420,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "न्यायी",
 "media_type": "Text",
 "index_reference": "न्यायी",
@@ -68,7 +76,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Judge",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Judge"
+}
+]
 }
 }
 ]

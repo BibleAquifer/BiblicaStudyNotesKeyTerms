@@ -2,7 +2,7 @@
 {
 "content_id": "233099",
 "reference_id": 108498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴比倫",
 "media_type": "Text",
 "index_reference": "巴比倫",
@@ -12,13 +12,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+}
+]
 }
 },
 {
 "content_id": "232840",
 "reference_id": 108239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴別",
 "media_type": "Text",
 "index_reference": "巴別",
@@ -34,7 +49,7 @@
 {
 "content_id": "233036",
 "reference_id": 108435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴拉",
 "media_type": "Text",
 "index_reference": "巴拉",
@@ -44,13 +59,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Barak",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barak"
+}
+]
 }
 },
 {
 "content_id": "232677",
 "reference_id": 108076,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴拉巴",
 "media_type": "Text",
 "index_reference": "巴拉巴",
@@ -60,13 +83,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barabbas"
+}
+]
 }
 },
 {
 "content_id": "232999",
 "reference_id": 108398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴蘭",
 "media_type": "Text",
 "index_reference": "巴蘭",
@@ -76,13 +107,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Balaam"
+}
+]
 }
 },
 {
 "content_id": "232997",
 "reference_id": 108396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴勒",
 "media_type": "Text",
 "index_reference": "巴勒",
@@ -92,13 +131,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Balak",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Balak"
+}
+]
 }
 },
 {
 "content_id": "233002",
 "reference_id": 108401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴力",
 "media_type": "Text",
 "index_reference": "巴力",
@@ -108,29 +155,73 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Baal.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "person:Baal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+},
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal"
+}
+]
 }
 },
 {
 "content_id": "233003",
 "reference_id": 108402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴力·毗珥",
 "media_type": "Text",
-"index_reference": "巴力·毗珥",
+"index_reference": "巴力毗珥",
 "language": "zht",
 "review_level": "None",
 "content": "<p>毗珥是摩押地的一個地方。以色列人在那裡開始敬拜巴力，違背了與神的約。結果引發了一場瘟疫，成千上萬的以色列人被殺。</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Peor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal-peor"
+}
+]
 }
 },
 {
 "content_id": "232708",
 "reference_id": 108107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "巴拿巴",
 "media_type": "Text",
 "index_reference": "巴拿巴",
@@ -140,13 +231,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Barnabas"
+}
+]
 }
 },
 {
 "content_id": "232772",
 "reference_id": 108171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拔摩島",
 "media_type": "Text",
 "index_reference": "拔摩島",
@@ -156,13 +255,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Patmos",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Patmos"
+}
+]
 }
 },
 {
 "content_id": "233069",
 "reference_id": 108468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "拔示巴",
 "media_type": "Text",
 "index_reference": "拔示巴",
@@ -172,7 +279,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Bathsheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bathsheba"
+}
+]
 }
 }
 ]

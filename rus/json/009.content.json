@@ -2,7 +2,7 @@
 {
 "content_id": "193319",
 "reference_id": 108237,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Завет",
 "media_type": "Text",
 "index_reference": "завет",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Covenant",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Covenant"
+}
+]
 }
 },
 {
 "content_id": "193335",
 "reference_id": 108253,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Завет с Авраамом",
 "media_type": "Text",
 "index_reference": "завет с авраамом",
@@ -34,7 +42,7 @@
 {
 "content_id": "193548",
 "reference_id": 108466,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Завет с Давидом",
 "media_type": "Text",
 "index_reference": "завет с давидом",
@@ -58,7 +66,7 @@
 {
 "content_id": "193320",
 "reference_id": 108238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Завет с Ноем",
 "media_type": "Text",
 "index_reference": "завет с ноем",
@@ -74,7 +82,7 @@
 {
 "content_id": "193525",
 "reference_id": 108443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Завулон",
 "media_type": "Text",
 "index_reference": "завулон",
@@ -86,18 +94,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Zebulun",
-"type": "group",
-"preferred_label": "Завулон",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Zebulun",
 "type": "person",
-"preferred_label": "Завулон",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Завулон"
 }
 ]
 }
@@ -105,7 +106,7 @@
 {
 "content_id": "193417",
 "reference_id": 108335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Закон Моисея",
 "media_type": "Text",
 "index_reference": "закон моисея",
@@ -136,7 +137,7 @@
 {
 "content_id": "193229",
 "reference_id": 108147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Закон Христов",
 "media_type": "Text",
 "index_reference": "закон христов",
@@ -152,7 +153,7 @@
 {
 "content_id": "193130",
 "reference_id": 108048,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Законники",
 "media_type": "Text",
 "index_reference": "законники",
@@ -168,7 +169,7 @@
 {
 "content_id": "193444",
 "reference_id": 108362,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Законы в Книге Левит",
 "media_type": "Text",
 "index_reference": "законы в книге левит",
@@ -184,42 +185,261 @@
 {
 "content_id": "193593",
 "reference_id": 108511,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Захария, пророк",
 "media_type": "Text",
-"index_reference": "захария, пророк",
+"index_reference": "захария пророк",
 "language": "rus",
 "review_level": "None",
 "content": "<p><span>Захария был иудейским пророком и священником во времена Персидской империи. Он происходил их колена Левия, и его отцом был Варахий. Захария вдохновил Зоровавеля и Иисуса сына Иоседека на восстановление Храма. Видения и пророчества Захарии записаны в Книге пророка Захарии. Его не следует путать с новозаветным Захарией, который был отцом Иоанна Крестителя.</span></p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Zechariah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.16",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.18",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.19",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.20",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.21",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.22",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.23",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.24",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.25",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.26",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.27",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.28",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.29",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zecher",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Зехер"
+},
+{
+"id": "person:Zechariah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+},
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+}
+]
 }
 },
 {
 "content_id": "193162",
 "reference_id": 108080,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Захария, священник",
 "media_type": "Text",
-"index_reference": "захария, священник",
+"index_reference": "захария священник",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Захария был отцом Иоанна Крестителя и священником из колена Левия, из рода Аарона. Его женой была Елисавета. Захария произнёс прекрасное пророчество после того, как у него родился Иоанн Креститель.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Захария"
+}
+]
 }
 },
 {
 "content_id": "193530",
 "reference_id": 108448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Защитник семьи (искупитель)",
 "media_type": "Text",
-"index_reference": "защитник семьи (искупитель)",
+"index_reference": "защитник семьи искупитель",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Близкий родственник мужского пола, который нёс ответственность за помощь нуждающимся членам семьи. Такого родственника часто называли искупитель. Родственник мог оплачивать долги бедных членов семьи. Он мог выкупить имущество, которое те продали. Он мог заплатить за их освобождение или их детей из рабства (Исх. 21:1–11). Этот человек мог также выполнять обязанности шурина и помогать вдове своего умершего брата. Такой родственник был <span>примером того, как Бог заботился об Израиле.</span> Спасая Свой народ, находящийся в бедственном положении, Бог поступал как искупитель. Защитник семьи был прообразом Иисуса. Иисус похожим образом спасает грешников, находящихся в нужде. Он искупает тех, кто доверяет Ему, выкупает от власти зла, греха и смерти.</p>",
@@ -232,7 +452,7 @@
 {
 "content_id": "193372",
 "reference_id": 108290,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Зелфа",
 "media_type": "Text",
 "index_reference": "зелфа",
@@ -254,9 +474,9 @@
 {
 "id": "person:Zilpah",
 "type": "person",
-"preferred_label": "Зелфа",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Зелфа"
 }
 ]
 }
@@ -264,7 +484,7 @@
 {
 "content_id": "193328",
 "reference_id": 108246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Земля Ханаан",
 "media_type": "Text",
 "index_reference": "земля ханаан",
@@ -274,13 +494,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Canaan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ханаан"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ханаан"
+}
+]
 }
 },
 {
 "content_id": "193300",
 "reference_id": 108218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Злые духи",
 "media_type": "Text",
 "index_reference": "злые духи",
@@ -304,7 +539,7 @@
 {
 "content_id": "193264",
 "reference_id": 108182,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Золотой жертвенник",
 "media_type": "Text",
 "index_reference": "золотой жертвенник",
@@ -328,7 +563,7 @@
 {
 "content_id": "193423",
 "reference_id": 108341,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Золотой телец",
 "media_type": "Text",
 "index_reference": "золотой телец",

@@ -2,10 +2,10 @@
 {
 "content_id": "203301",
 "reference_id": 108166,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Saksi-saksi bagaikan awan",
 "media_type": "Text",
-"index_reference": "saksi-saksi bagaikan awan",
+"index_reference": "saksisaksi bagaikan awan",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Sebuah cara untuk menggambarkan orang-orang yang percaya pada Allah dan yang melayani-Nya sebelum mereka mati. Mereka adalah saksi-saksi mengenai siapa Allah ketika mereka masih hidup di bumi. Awan merupakan cara untuk menggambarkan mereka bersama-sama sebagai suatu kelompok. Orang-orang ini telah mati. Teladan dari iman mereka kepada Allah mendorong orang-orang percaya yang masih hidup. Roh-roh mereka menunggu saat dimana Allah akan membangkitkan umat-Nya dari kematian. Orang-orang yang disebutkan dalam Ibrani pasal 11 termasuk diantara saksi-saksi ini.</p>",
@@ -18,7 +18,7 @@
 {
 "content_id": "203665",
 "reference_id": 108530,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salib",
 "media_type": "Text",
 "index_reference": "salib",
@@ -28,13 +28,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
 "content_id": "203608",
 "reference_id": 108473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salomo",
 "media_type": "Text",
 "index_reference": "salomo",
@@ -48,9 +56,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "Salomo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Salomo"
 }
 ]
 }
@@ -58,7 +66,7 @@
 {
 "content_id": "203624",
 "reference_id": 108489,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samaria",
 "media_type": "Text",
 "index_reference": "samaria",
@@ -70,18 +78,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Samaria.2",
 "type": "place",
-"preferred_label": "Samaria",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Samaria"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samaria"
 }
 ]
 }
@@ -89,7 +97,7 @@
 {
 "content_id": "203587",
 "reference_id": 108452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samuel",
 "media_type": "Text",
 "index_reference": "samuel",
@@ -103,23 +111,9 @@
 {
 "id": "person:Samuel",
 "type": "person",
-"preferred_label": "Samuel",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemuel",
-"type": "person",
-"preferred_label": "Samuel",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shemuel.2",
-"type": "person",
-"preferred_label": "Samuel",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Samuel"
 }
 ]
 }
@@ -127,7 +121,7 @@
 {
 "content_id": "203521",
 "reference_id": 108386,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sangkakala",
 "media_type": "Text",
 "index_reference": "sangkakala",
@@ -137,13 +131,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+}
+]
 }
 },
 {
 "content_id": "203382",
 "reference_id": 108247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sara",
 "media_type": "Text",
 "index_reference": "sara",
@@ -157,9 +159,9 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "Sara",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sara"
 }
 ]
 }
@@ -167,7 +169,7 @@
 {
 "content_id": "203313",
 "reference_id": 108178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sardis",
 "media_type": "Text",
 "index_reference": "sardis",
@@ -181,9 +183,9 @@
 {
 "id": "place:Sardis",
 "type": "place",
-"preferred_label": "Sardis",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sardis"
 }
 ]
 }
@@ -191,7 +193,7 @@
 {
 "content_id": "203590",
 "reference_id": 108455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Saul",
 "media_type": "Text",
 "index_reference": "saul",
@@ -205,30 +207,16 @@
 {
 "id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Saul",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Saul"
 },
 {
-"id": "person:Shaul",
+"id": "person:Paul",
 "type": "person",
-"preferred_label": "Saul",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shaul.2",
-"type": "person",
-"preferred_label": "Saul",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shaul.3",
-"type": "person",
-"preferred_label": "Saul",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Paulus"
 }
 ]
 }
@@ -236,7 +224,7 @@
 {
 "content_id": "203657",
 "reference_id": 108522,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Seal",
 "media_type": "Text",
 "index_reference": "seal",
@@ -248,18 +236,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Sheal",
-"type": "person",
-"preferred_label": "Seal",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "realia:Seal",
 "type": "realia",
-"preferred_label": "Seal",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Seal"
 }
 ]
 }
@@ -267,7 +248,7 @@
 {
 "content_id": "203376",
 "reference_id": 108241,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sem",
 "media_type": "Text",
 "index_reference": "sem",
@@ -277,13 +258,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sem"
+}
+]
 }
 },
 {
 "content_id": "203300",
 "reference_id": 108165,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sempurna",
 "media_type": "Text",
 "index_reference": "sempurna",
@@ -299,7 +288,7 @@
 {
 "content_id": "203517",
 "reference_id": 108382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sepersepuluh",
 "media_type": "Text",
 "index_reference": "sepersepuluh",
@@ -315,7 +304,7 @@
 {
 "content_id": "203466",
 "reference_id": 108331,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sepuluh Perintah Allah",
 "media_type": "Text",
 "index_reference": "sepuluh perintah allah",
@@ -339,7 +328,7 @@
 {
 "content_id": "203443",
 "reference_id": 108308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sepuluh tulah",
 "media_type": "Text",
 "index_reference": "sepuluh tulah",
@@ -355,7 +344,7 @@
 {
 "content_id": "203505",
 "reference_id": 108370,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sesama",
 "media_type": "Text",
 "index_reference": "sesama",
@@ -379,7 +368,7 @@
 {
 "content_id": "203359",
 "reference_id": 108224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Set",
 "media_type": "Text",
 "index_reference": "set",
@@ -389,13 +378,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Seth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Set"
+}
+]
 }
 },
 {
 "content_id": "203549",
 "reference_id": 108414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shema",
 "media_type": "Text",
 "index_reference": "shema",
@@ -405,16 +402,52 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shema.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sema"
+},
+{
+"id": "person:Shema.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sema"
+},
+{
+"id": "person:Shema.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sema"
+},
+{
+"id": "person:Shema",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sema"
+},
+{
+"id": "place:Shema",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sema"
+}
+]
 }
 },
 {
 "content_id": "203239",
 "reference_id": 108104,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sida-sida dari Etiopia",
 "media_type": "Text",
-"index_reference": "sida-sida dari etiopia",
+"index_reference": "sidasida dari etiopia",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Seorang pejabat pemerintah yang penting di wilayah Etiopia di Afrika. Ia mengelola keuangan ratu. Tidak diketahui apakah ia seorang Yahudi. Ia menyembah Allah Israel dan menjadi pengikut Yesus. Diperkirakan bahwa ia adalah orang percaya pertama yang memberitakan kabar baik mengenai Yesus di Afrika.</p>",
@@ -427,7 +460,7 @@
 {
 "content_id": "203445",
 "reference_id": 108310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sihir",
 "media_type": "Text",
 "index_reference": "sihir",
@@ -437,13 +470,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "sihir"
+}
+]
 }
 },
 {
 "content_id": "203530",
 "reference_id": 108395,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sihon dan Og",
 "media_type": "Text",
 "index_reference": "sihon dan og",
@@ -453,13 +494,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Og",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Og"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sihon"
+}
+]
 }
 },
 {
 "content_id": "203417",
 "reference_id": 108282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sikhem",
 "media_type": "Text",
 "index_reference": "sikhem",
@@ -471,32 +527,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Shechem",
-"type": "person",
-"preferred_label": "Sekhem",
-"confidence": 0.8276,
-"match_method": "embedding"
-},
-{
 "id": "person:Shechem.2",
 "type": "person",
-"preferred_label": "Sekhem",
-"confidence": 0.8276,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sekhem"
 },
 {
 "id": "person:Shechem.3",
 "type": "person",
-"preferred_label": "Sekhem",
-"confidence": 0.8276,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sekhem"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sekhem"
 },
 {
 "id": "place:Shechem",
 "type": "place",
-"preferred_label": "Sekhem",
-"confidence": 0.8276,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sekhem"
 }
 ]
 }
@@ -504,7 +560,7 @@
 {
 "content_id": "203256",
 "reference_id": 108121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Silas",
 "media_type": "Text",
 "index_reference": "silas",
@@ -518,9 +574,9 @@
 {
 "id": "person:Silas",
 "type": "person",
-"preferred_label": "Silas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Silas"
 }
 ]
 }
@@ -528,7 +584,7 @@
 {
 "content_id": "203588",
 "reference_id": 108453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Silo",
 "media_type": "Text",
 "index_reference": "silo",
@@ -542,16 +598,16 @@
 {
 "id": "person:Shiloh",
 "type": "person",
-"preferred_label": "Silo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Silo"
 },
 {
 "id": "place:Shiloh",
 "type": "place",
-"preferred_label": "Silo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Silo"
 }
 ]
 }
@@ -559,7 +615,7 @@
 {
 "content_id": "203219",
 "reference_id": 108084,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siloam",
 "media_type": "Text",
 "index_reference": "siloam",
@@ -573,9 +629,9 @@
 {
 "id": "place:Siloam",
 "type": "place",
-"preferred_label": "Siloam",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Siloam"
 }
 ]
 }
@@ -583,7 +639,7 @@
 {
 "content_id": "203220",
 "reference_id": 108085,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Simon dari Kirene",
 "media_type": "Text",
 "index_reference": "simon dari kirene",
@@ -593,13 +649,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Simon.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Simon"
+}
+]
 }
 },
 {
 "content_id": "203574",
 "reference_id": 108439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Simson",
 "media_type": "Text",
 "index_reference": "simson",
@@ -613,9 +677,9 @@
 {
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "Simson",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Simson"
 }
 ]
 }
@@ -623,7 +687,7 @@
 {
 "content_id": "203186",
 "reference_id": 108051,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sinagoga",
 "media_type": "Text",
 "index_reference": "sinagoga",
@@ -633,13 +697,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Synagogue"
+}
+]
 }
 },
 {
 "content_id": "203247",
 "reference_id": 108112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siprus",
 "media_type": "Text",
 "index_reference": "siprus",
@@ -653,9 +725,9 @@
 {
 "id": "place:Cyprus",
 "type": "place",
-"preferred_label": "Siprus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Siprus"
 }
 ]
 }
@@ -663,10 +735,10 @@
 {
 "content_id": "203629",
 "reference_id": 108494,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "SM (Sebelum Masehi)",
 "media_type": "Text",
-"index_reference": "sm (sebelum masehi)",
+"index_reference": "sm sebelum masehi",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Sebuah cara untuk menggambarkan tahun-tahun sebelum Yesus lahir. SM (Sebelum Masehi) berarti sebelum Kristus. </p>",
@@ -679,7 +751,7 @@
 {
 "content_id": "203309",
 "reference_id": 108174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Smirna",
 "media_type": "Text",
 "index_reference": "smirna",
@@ -693,9 +765,9 @@
 {
 "id": "place:Smyrna",
 "type": "place",
-"preferred_label": "Smirna",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Smirna"
 }
 ]
 }
@@ -703,7 +775,7 @@
 {
 "content_id": "203384",
 "reference_id": 108249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sodom and Gomora",
 "media_type": "Text",
 "index_reference": "sodom and gomora",
@@ -713,13 +785,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomora"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sodom"
+}
+]
 }
 },
 {
 "content_id": "203279",
 "reference_id": 108144,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Spanyol",
 "media_type": "Text",
 "index_reference": "spanyol",
@@ -733,9 +820,9 @@
 {
 "id": "place:Spain",
 "type": "place",
-"preferred_label": "Spanyol",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Spanyol"
 }
 ]
 }
@@ -743,7 +830,7 @@
 {
 "content_id": "203236",
 "reference_id": 108101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Stefanus",
 "media_type": "Text",
 "index_reference": "stefanus",
@@ -755,18 +842,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Stephanas",
-"type": "person",
-"preferred_label": "Stefanus",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Stephen",
 "type": "person",
-"preferred_label": "Stefanus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Stefanus"
 }
 ]
 }
@@ -774,7 +854,7 @@
 {
 "content_id": "203266",
 "reference_id": 108131,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Stoa",
 "media_type": "Text",
 "index_reference": "stoa",
@@ -784,13 +864,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Stoic",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Stoics"
+}
+]
 }
 },
 {
 "content_id": "203392",
 "reference_id": 108257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sunat",
 "media_type": "Text",
 "index_reference": "sunat",
@@ -800,13 +888,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "penyunatan"
+}
+]
 }
 },
 {
 "content_id": "203689",
 "reference_id": 108554,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sungai Efrat",
 "media_type": "Text",
 "index_reference": "sungai efrat",
@@ -816,13 +912,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Efrat"
+}
+]
 }
 },
 {
 "content_id": "203436",
 "reference_id": 108301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sungai Nil",
 "media_type": "Text",
 "index_reference": "sungai nil",
@@ -832,13 +936,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "sungai"
+}
+]
 }
 },
 {
 "content_id": "203541",
 "reference_id": 108406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sungai Yordan",
 "media_type": "Text",
 "index_reference": "sungai yordan",
@@ -848,16 +960,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yordan"
+}
+]
 }
 },
 {
 "content_id": "203308",
 "reference_id": 108173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Surat kepada jemaat - jemaat",
 "media_type": "Text",
-"index_reference": "surat kepada jemaat - jemaat",
+"index_reference": "surat kepada jemaat  jemaat",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Yesus memerintahkan Yohanes untuk menulis surat yang berisi pesan kepada tujuh jemaat. Setiap surat dimulai dengan menjelaskan tentang Yesus dengan cara yang berbeda. Dalam sebagian besar surat, Yesus menyebutkan cara-cara jemaat hidup dengan setia. Di sebagian besar surat, Ia juga menyebutkan cara-cara jemaat tidak setia kepada-Nya. Yesus mendorong orang-orang percaya di setiap gereja untuk mendengarkan Roh Kudus. Yesus mengakhiri setiap surat dengan sebuah janji. Janji itu ditujukan bagi mereka yang ikut ambil bagian dalam kemenangan-Nya atas kuasa dosa.</p>",
@@ -870,10 +990,10 @@
 {
 "content_id": "203255",
 "reference_id": 108120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Surat-surat Paulus",
 "media_type": "Text",
-"index_reference": "surat-surat paulus",
+"index_reference": "suratsurat paulus",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Paulus menulis surat kepada banyak orang percaya dan gereja. Tiga belas dari surat-surat tersebut terdapat dalam Perjanjian Baru. Surat-surat tersebut meliputi kitab Roma, 1 Korintus, 2 Korintus, Galatia, Efesus, Filipi, dan Kolose. Surat-surat tersebut juga mencakup kitab 1 Tesalonika, 2 Tesalonika, 1 Timotius, 2 Timotius, Titus dan Filemon. Adalah hal yang umum bagi Paulus untuk berbicara dengan lantang tentang apa yang ingin ia sampaikan dalam surat-suratnya. Seorang pembantunya menuliskan kata-katanya. Kemudian Paulus menambahkan pesan terakhir dengan tulisan tangannya sendiri. Hal ini membantu orang-orang yakin bahwa surat-surat itu benar-benar berasal darinya. Pembantu-pembantu Paulus membawa surat-surat dari Paulus kepada jemaat-jemaat atau orang-orang lain. Jemaat membacakan surat-surat itu dengan suara keras dan kemudian membagikannya kepada jemaat-jemaat lain di daerah itu. Paulus menulis beberapa suratnya ketika ia berada di dalam penjara.</p>",
@@ -886,7 +1006,7 @@
 {
 "content_id": "203336",
 "reference_id": 108201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Surga",
 "media_type": "Text",
 "index_reference": "surga",
@@ -917,7 +1037,7 @@
 {
 "content_id": "203652",
 "reference_id": 108517,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Susan",
 "media_type": "Text",
 "index_reference": "susan",
@@ -931,9 +1051,9 @@
 {
 "id": "place:Susa",
 "type": "place",
-"preferred_label": "Susan",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Susan"
 }
 ]
 }

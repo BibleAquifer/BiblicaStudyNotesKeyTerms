@@ -2,7 +2,7 @@
 {
 "content_id": "232994",
 "reference_id": 108393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "可拉",
 "media_type": "Text",
 "index_reference": "可拉",
@@ -12,13 +12,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Korah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+}
+]
 }
 },
 {
 "content_id": "232764",
 "reference_id": 108163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "克里特",
 "media_type": "Text",
 "index_reference": "克里特",
@@ -28,7 +57,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Crete",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Crete"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "232852",
 "reference_id": 108251,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "埃及",
 "media_type": "Text",
 "index_reference": "埃及",
@@ -12,13 +12,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Egypt",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egypt"
+},
+{
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egypt"
+}
+]
 }
 },
 {
 "content_id": "233026",
 "reference_id": 108425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "艾城",
 "media_type": "Text",
 "index_reference": "艾城",
@@ -28,13 +43,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Ai.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ai"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ai"
+}
+]
 }
 },
 {
 "content_id": "232956",
 "reference_id": 108355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "愛神",
 "media_type": "Text",
 "index_reference": "愛神",

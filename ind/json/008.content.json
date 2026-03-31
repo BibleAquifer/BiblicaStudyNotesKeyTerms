@@ -2,7 +2,7 @@
 {
 "content_id": "203315",
 "reference_id": 108180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filadelfia",
 "media_type": "Text",
 "index_reference": "filadelfia",
@@ -16,9 +16,9 @@
 {
 "id": "place:Philadelphia",
 "type": "place",
-"preferred_label": "Filadelfia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filadelfia"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "203299",
 "reference_id": 108164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filemon",
 "media_type": "Text",
 "index_reference": "filemon",
@@ -40,9 +40,9 @@
 {
 "id": "person:Philemon",
 "type": "person",
-"preferred_label": "Filemon",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filemon"
 }
 ]
 }
@@ -50,7 +50,7 @@
 {
 "content_id": "203261",
 "reference_id": 108126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filipi",
 "media_type": "Text",
 "index_reference": "filipi",
@@ -64,9 +64,9 @@
 {
 "id": "place:Philippi",
 "type": "place",
-"preferred_label": "Filipi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filipi"
 }
 ]
 }
@@ -74,7 +74,7 @@
 {
 "content_id": "203238",
 "reference_id": 108103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Filipus",
 "media_type": "Text",
 "index_reference": "filipus",
@@ -86,32 +86,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Philip",
-"type": "person",
-"preferred_label": "Filipus",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Philip.2",
 "type": "person",
-"preferred_label": "Filipus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filipus"
 },
 {
 "id": "person:Philip.3",
 "type": "person",
-"preferred_label": "Filipus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filipus"
 },
 {
 "id": "person:Philip.4",
 "type": "person",
-"preferred_label": "Filipus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Filipus"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filipus"
 }
 ]
 }
@@ -119,7 +119,7 @@
 {
 "content_id": "203385",
 "reference_id": 108250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Firaun",
 "media_type": "Text",
 "index_reference": "firaun",
@@ -133,58 +133,72 @@
 {
 "id": "person:Pharaoh.10",
 "type": "person",
-"preferred_label": "Firaun",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Firaun"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nekho"
 },
 {
 "id": "person:Pharaoh.3",
 "type": "person",
-"preferred_label": "Firaun",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Firaun"
 },
 {
 "id": "person:Pharaoh.4",
 "type": "person",
-"preferred_label": "Firaun",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Firaun"
 },
 {
 "id": "person:Pharaoh.5",
 "type": "person",
-"preferred_label": "Firaun",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Firaun"
 },
 {
 "id": "person:Pharaoh.6",
 "type": "person",
-"preferred_label": "Firaun",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Firaun"
 },
 {
 "id": "person:Pharaoh.7",
 "type": "person",
-"preferred_label": "Firaun",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Firaun"
 },
 {
 "id": "person:Pharaoh.8",
 "type": "person",
-"preferred_label": "Firaun",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Firaun"
 },
 {
 "id": "person:Pharaoh.9",
 "type": "person",
-"preferred_label": "Firaun",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Firaun"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hofra"
 }
 ]
 }
@@ -192,7 +206,7 @@
 {
 "content_id": "203335",
 "reference_id": 108200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Firman Allah",
 "media_type": "Text",
 "index_reference": "firman allah",
@@ -210,21 +224,13 @@
 "language": "ind"
 }
 ],
-"acai": [
-{
-"id": "keyterm:WordOfTheLord",
-"type": "keyterm",
-"preferred_label": "firman tuhan",
-"confidence": 0.8158,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "203258",
 "reference_id": 108123,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Frigia",
 "media_type": "Text",
 "index_reference": "frigia",
@@ -238,9 +244,9 @@
 {
 "id": "place:Phrygia",
 "type": "place",
-"preferred_label": "Frigia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Frigia"
 }
 ]
 }

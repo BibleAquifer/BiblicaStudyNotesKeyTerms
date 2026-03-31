@@ -2,7 +2,7 @@
 {
 "content_id": "232015",
 "reference_id": 108046,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rabino",
 "media_type": "Text",
 "index_reference": "rabino",
@@ -18,7 +18,7 @@
 {
 "content_id": "232390",
 "reference_id": 108421,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rahab",
 "media_type": "Text",
 "index_reference": "rahab",
@@ -32,16 +32,16 @@
 {
 "id": "person:Rahab",
 "type": "person",
-"preferred_label": "Rahab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rahab"
 },
 {
-"id": "person:Raham",
-"type": "person",
-"preferred_label": "Raham",
-"confidence": 0.8185,
-"match_method": "embedding"
+"id": "place:Egypt",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Egipto"
 }
 ]
 }
@@ -49,7 +49,7 @@
 {
 "content_id": "232245",
 "reference_id": 108276,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Raquel",
 "media_type": "Text",
 "index_reference": "raquel",
@@ -59,13 +59,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rachel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rachêl"
+}
+]
 }
 },
 {
 "content_id": "232235",
 "reference_id": 108266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rebeca",
 "media_type": "Text",
 "index_reference": "rebeca",
@@ -79,9 +87,9 @@
 {
 "id": "person:Rebekah",
 "type": "person",
-"preferred_label": "Rebeca",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rebeca"
 }
 ]
 }
@@ -89,7 +97,7 @@
 {
 "content_id": "232018",
 "reference_id": 108049,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Recaudador de impuestos",
 "media_type": "Text",
 "index_reference": "recaudador de impuestos",
@@ -111,9 +119,16 @@
 {
 "id": "keyterm:TaxCollector",
 "type": "keyterm",
-"preferred_label": "recaudador de impuestos",
-"confidence": 0.9218,
-"match_method": "embedding"
+"confidence": 0.986,
+"match_method": "embedding",
+"preferred_label": "recaudador de impuestos"
+},
+{
+"id": "group:TaxCollectors",
+"type": "group",
+"confidence": 0.8299,
+"match_method": "embedding",
+"preferred_label": "Tax Collectors"
 }
 ]
 }
@@ -121,7 +136,7 @@
 {
 "content_id": "232178",
 "reference_id": 108209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reglas",
 "media_type": "Text",
 "index_reference": "reglas",
@@ -131,13 +146,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericRulers",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Rulers"
+}
+]
 }
 },
 {
 "content_id": "232530",
 "reference_id": 108561,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reino de Dios",
 "media_type": "Text",
 "index_reference": "reino de dios",
@@ -161,7 +184,7 @@
 {
 "content_id": "232306",
 "reference_id": 108337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reino de sacerdotes",
 "media_type": "Text",
 "index_reference": "reino de sacerdotes",
@@ -177,7 +200,7 @@
 {
 "content_id": "232448",
 "reference_id": 108479,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reino del Norte",
 "media_type": "Text",
 "index_reference": "reino del norte",
@@ -193,7 +216,7 @@
 {
 "content_id": "232449",
 "reference_id": 108480,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Reino del sur",
 "media_type": "Text",
 "index_reference": "reino del sur",
@@ -203,13 +226,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judíos"
+}
+]
 }
 },
 {
 "content_id": "232350",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rescatar",
 "media_type": "Text",
 "index_reference": "rescatar",
@@ -225,7 +256,7 @@
 {
 "content_id": "232537",
 "reference_id": 108568,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Resurrección",
 "media_type": "Text",
 "index_reference": "resurrección",
@@ -235,13 +266,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Resurrection",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "levantamiento"
+}
+]
 }
 },
 {
 "content_id": "232299",
 "reference_id": 108330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rey",
 "media_type": "Text",
 "index_reference": "rey",
@@ -257,7 +296,7 @@
 {
 "content_id": "232523",
 "reference_id": 108554,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Río Éufrates",
 "media_type": "Text",
 "index_reference": "río éufrates",
@@ -267,13 +306,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eufrates"
+}
+]
 }
 },
 {
 "content_id": "232375",
 "reference_id": 108406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Río Jordán",
 "media_type": "Text",
 "index_reference": "río jordán",
@@ -283,13 +330,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jordán"
+}
+]
 }
 },
 {
 "content_id": "232270",
 "reference_id": 108301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Río Nilo",
 "media_type": "Text",
 "index_reference": "río nilo",
@@ -299,13 +354,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "río"
+}
+]
 }
 },
 {
 "content_id": "232447",
 "reference_id": 108478,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roboam",
 "media_type": "Text",
 "index_reference": "roboam",
@@ -319,9 +382,9 @@
 {
 "id": "person:Rehoboam",
 "type": "person",
-"preferred_label": "Roboam",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Roboam"
 }
 ]
 }
@@ -329,7 +392,7 @@
 {
 "content_id": "232016",
 "reference_id": 108047,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Roma",
 "media_type": "Text",
 "index_reference": "roma",
@@ -343,9 +406,9 @@
 {
 "id": "place:Rome",
 "type": "place",
-"preferred_label": "Roma",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Roma"
 }
 ]
 }
@@ -353,7 +416,7 @@
 {
 "content_id": "232376",
 "reference_id": 108407,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rubén",
 "media_type": "Text",
 "index_reference": "rubén",
@@ -365,18 +428,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Reuben",
-"type": "group",
-"preferred_label": "Rubén",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Reuben",
 "type": "person",
-"preferred_label": "Rubén",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Rubén"
 }
 ]
 }
@@ -384,7 +440,7 @@
 {
 "content_id": "232416",
 "reference_id": 108447,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Rut",
 "media_type": "Text",
 "index_reference": "rut",
@@ -394,7 +450,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ruth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ruth"
+}
+]
 }
 }
 ]

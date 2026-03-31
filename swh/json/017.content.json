@@ -2,7 +2,7 @@
 {
 "content_id": "367662",
 "reference_id": 108171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Patmos",
 "media_type": "Text",
 "index_reference": "patmos",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Patmos",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Patmo"
+}
+]
 }
 },
 {
 "content_id": "367778",
 "reference_id": 108287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Patriarki",
 "media_type": "Text",
 "index_reference": "patriarki",
@@ -34,7 +42,7 @@
 {
 "content_id": "367593",
 "reference_id": 108102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Paulo",
 "media_type": "Text",
 "index_reference": "paulo",
@@ -48,9 +56,9 @@
 {
 "id": "person:Paul",
 "type": "person",
-"preferred_label": "Paulo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Paulo"
 }
 ]
 }
@@ -58,7 +66,7 @@
 {
 "content_id": "367866",
 "reference_id": 108375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pentekoste",
 "media_type": "Text",
 "index_reference": "pentekoste",
@@ -74,7 +82,7 @@
 {
 "content_id": "367709",
 "reference_id": 108218,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pepo wachafu",
 "media_type": "Text",
 "index_reference": "pepo wachafu",
@@ -98,7 +106,7 @@
 {
 "content_id": "367667",
 "reference_id": 108176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pergamum",
 "media_type": "Text",
 "index_reference": "pergamum",
@@ -108,13 +116,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Pergamum",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pergamo"
+}
+]
 }
 },
 {
 "content_id": "368063",
 "reference_id": 108572,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Petro",
 "media_type": "Text",
 "index_reference": "petro",
@@ -128,9 +144,9 @@
 {
 "id": "person:Peter",
 "type": "person",
-"preferred_label": "Petro",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Petro"
 }
 ]
 }
@@ -138,7 +154,7 @@
 {
 "content_id": "367671",
 "reference_id": 108180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Philadelphia",
 "media_type": "Text",
 "index_reference": "philadelphia",
@@ -148,13 +164,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Philadelphia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filadelfia"
+}
+]
 }
 },
 {
 "content_id": "367895",
 "reference_id": 108404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Piga kura",
 "media_type": "Text",
 "index_reference": "piga kura",
@@ -170,7 +194,7 @@
 {
 "content_id": "367703",
 "reference_id": 108212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Pumziko",
 "media_type": "Text",
 "index_reference": "pumziko",

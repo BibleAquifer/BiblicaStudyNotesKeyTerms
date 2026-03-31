@@ -2,7 +2,7 @@
 {
 "content_id": "232850",
 "reference_id": 108249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "所多瑪和蛾摩拉",
 "media_type": "Text",
 "index_reference": "所多瑪和蛾摩拉",
@@ -12,13 +12,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomorrah"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sodom"
+}
+]
 }
 },
 {
 "content_id": "233074",
 "reference_id": 108473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "所羅門",
 "media_type": "Text",
 "index_reference": "所羅門",
@@ -28,7 +43,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Solomon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Solomon"
+}
+]
 }
 }
 ]

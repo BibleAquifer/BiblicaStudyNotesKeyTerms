@@ -2,7 +2,7 @@
 {
 "content_id": "133989",
 "reference_id": 108187,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "42 شهر",
 "media_type": "Text",
 "index_reference": "42 شهر",
@@ -18,7 +18,7 @@
 {
 "content_id": "133872",
 "reference_id": 108070,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الشريعة اليهودية",
 "media_type": "Text",
 "index_reference": "الشريعة اليهودية",
@@ -49,23 +49,59 @@
 {
 "content_id": "134216",
 "reference_id": 108414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "الشماع (اسمع يا إسرائيل)",
 "media_type": "Text",
-"index_reference": "الشماع (اسمع يا إسرائيل)",
+"index_reference": "الشماع اسمع يا إسرائيل",
 "language": "arb",
 "review_level": "None",
 "content": "<p>هي صلاة يهودية تتضمن تثنية 4:6. إن الكلمة الأولى من تثنية 4:6 في اللغة العبرية هي &quot;شماع&quot;. وتعني الاستماع واتخاذ القرارات بناءً على ما تم سماعه. في اللغة العبرية، كان يُنظر إلى السمع وعمل ما سُمع على أنهما نفس الشيء. ولقد أوضحت الشماع مُلخّص عهد الله مع شعب إسرائيل. فقد كان الله هو الإله الحقيقي الواحد والوحيد. وكان على بني إسرائيل أن يطيعوا الله وحده. وقد كان هذا صحيحًا بالنسبة لكل شخص. كما كان ذلك صحيحًا أيضًا لهم كجماعة. فكان عليهم أن يطيعوا الوصايا العشر وجميع وصايا الله الأخري. كانت هناك أشياء كثيرة تساعدهم على تذكّر من هو الله وما الذي أمر به. فقد كان عليهم أن يتحدثّوا عن وصاياه وشريعته في كل وقت، وفي كل مكان ومع الجميع. وكان عليهم أن يكتبوها. كما كان عليهم أن يضعوا أجزاءًا منها على ثيابهم، وأجسادهم، وبيوتهم وأبوابهم. وكان عليهم أن يطرحوا الأسئلة عن الله بحرية وأن يتكلموا عنه مع أطفالهم. ولقد استخدم يسوع كلمات الشماع هذه في مرقس 29:12.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shema.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَامِعَ"
+},
+{
+"id": "person:Shema.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَامِعَ"
+},
+{
+"id": "person:Shema.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَامِعَ"
+},
+{
+"id": "person:Shema",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَامِعَ"
+},
+{
+"id": "place:Shema",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَامِعَ"
+}
+]
 }
 },
 {
 "content_id": "134257",
 "reference_id": 108455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شَاوُل الْمَلِك",
 "media_type": "Text",
 "index_reference": "شَاوُل الْمَلِك",
@@ -75,13 +111,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Saul.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَاولَ"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "بولسَ"
+}
+]
 }
 },
 {
 "content_id": "133944",
 "reference_id": 108142,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شجرة الزيتون",
 "media_type": "Text",
 "index_reference": "شجرة الزيتون",
@@ -91,13 +142,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "flora:OliveTree",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Olive Tree"
+}
+]
 }
 },
 {
 "content_id": "134019",
 "reference_id": 108217,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شَجَرَةَ ٱلْحَيَاةِ",
 "media_type": "Text",
 "index_reference": "شَجَرَةَ ٱلْحَيَاةِ",
@@ -113,7 +172,7 @@
 {
 "content_id": "134012",
 "reference_id": 108210,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شَجَرَةَ مَعْرِفَةِ ٱلْخَيْرِ وَٱلشَّر",
 "media_type": "Text",
 "index_reference": "شَجَرَةَ مَعْرِفَةِ ٱلْخَيْرِ وَٱلشَّر",
@@ -129,7 +188,7 @@
 {
 "content_id": "134164",
 "reference_id": 108362,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شرائع سفر اللّاويّين",
 "media_type": "Text",
 "index_reference": "شرائع سفر اللّاويّين",
@@ -145,7 +204,7 @@
 {
 "content_id": "134137",
 "reference_id": 108335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شريعة موسي",
 "media_type": "Text",
 "index_reference": "شريعة موسي",
@@ -176,7 +235,7 @@
 {
 "content_id": "134104",
 "reference_id": 108302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شعب الله",
 "media_type": "Text",
 "index_reference": "شعب الله",
@@ -194,13 +253,21 @@
 "language": "arb"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
+}
+]
 }
 },
 {
 "content_id": "134084",
 "reference_id": 108282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شَكيم",
 "media_type": "Text",
 "index_reference": "شَكيم",
@@ -210,13 +277,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shechem.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَكِيمَ"
+},
+{
+"id": "person:Shechem.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَكِيمَ"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَكِيمَ"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَكِيمَ"
+}
+]
 }
 },
 {
 "content_id": "133902",
 "reference_id": 108100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شماس",
 "media_type": "Text",
 "index_reference": "شماس",
@@ -232,7 +328,7 @@
 {
 "content_id": "134241",
 "reference_id": 108439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شَمْشون",
 "media_type": "Text",
 "index_reference": "شَمْشون",
@@ -244,18 +340,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Shimeon",
-"type": "person",
-"preferred_label": "شِمْعون",
-"confidence": 0.8581,
-"match_method": "embedding"
-},
-{
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "شَمْشونَ",
-"confidence": 0.8511,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شَمْشونَ"
 }
 ]
 }
@@ -263,7 +352,7 @@
 {
 "content_id": "134319",
 "reference_id": 108517,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شُوشَان",
 "media_type": "Text",
 "index_reference": "شُوشَان",
@@ -275,32 +364,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Shimeon",
-"type": "person",
-"preferred_label": "شِمْعون",
-"confidence": 0.8477,
-"match_method": "embedding"
-},
-{
-"id": "person:Sheshai",
-"type": "person",
-"preferred_label": "شِيشَاي",
-"confidence": 0.813,
-"match_method": "embedding"
-},
-{
-"id": "person:Shashai",
-"type": "person",
-"preferred_label": "شَاشَاي",
-"confidence": 0.8108,
-"match_method": "embedding"
-},
-{
-"id": "place:Ashan",
+"id": "place:Susa",
 "type": "place",
-"preferred_label": "عَاشَان",
-"confidence": 0.8066,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "فِي"
 }
 ]
 }
@@ -308,7 +376,7 @@
 {
 "content_id": "134026",
 "reference_id": 108224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شِيث",
 "media_type": "Text",
 "index_reference": "شِيث",
@@ -318,13 +386,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Seth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِيثًا"
+}
+]
 }
 },
 {
 "content_id": "134255",
 "reference_id": 108453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شَيلوه",
 "media_type": "Text",
 "index_reference": "شَيلوه",
@@ -334,13 +410,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shiloh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِيلوهَ"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "شِيلوهَ"
+}
+]
 }
 },
 {
 "content_id": "134109",
 "reference_id": 108307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شيوخ",
 "media_type": "Text",
 "index_reference": "شيوخ",
@@ -350,13 +441,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericElders",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Elders"
+}
+]
 }
 },
 {
 "content_id": "133920",
 "reference_id": 108118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "شيوخ الكنيسة",
 "media_type": "Text",
 "index_reference": "شيوخ الكنيسة",

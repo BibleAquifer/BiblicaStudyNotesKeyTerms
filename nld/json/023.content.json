@@ -2,7 +2,7 @@
 {
 "content_id": "761325",
 "reference_id": 108360,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zalven",
 "media_type": "Text",
 "index_reference": "zalven",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Anointed"
+}
+]
 }
 },
 {
 "content_id": "769215",
 "reference_id": 108245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zegen alle naties",
 "media_type": "Text",
 "index_reference": "zegen alle naties",
@@ -34,7 +42,7 @@
 {
 "content_id": "775220",
 "reference_id": 108234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zondvloed",
 "media_type": "Text",
 "index_reference": "zondvloed",
@@ -58,7 +66,7 @@
 {
 "content_id": "769221",
 "reference_id": 108293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zwagerhuwelijk",
 "media_type": "Text",
 "index_reference": "zwagerhuwelijk",

@@ -2,7 +2,7 @@
 {
 "content_id": "183175",
 "reference_id": 108281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "क्षमा करना",
 "media_type": "Text",
 "index_reference": "क्षमा करना",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Forgive"
+}
+]
 }
 },
 {
 "content_id": "183413",
 "reference_id": 108519,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "क्षयर्ष",
 "media_type": "Text",
 "index_reference": "क्षयर्ष",
@@ -32,9 +40,9 @@
 {
 "id": "person:Ahasuerus",
 "type": "person",
-"preferred_label": "क्षयर्ष",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "क्षयर्ष"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "232644",
 "reference_id": 108043,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "好消息",
 "media_type": "Text",
 "index_reference": "好消息",
@@ -20,13 +20,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9692,
+"match_method": "embedding",
+"preferred_label": "Good News"
+}
+]
 }
 },
 {
 "content_id": "232987",
 "reference_id": 108386,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "號角",
 "media_type": "Text",
 "index_reference": "號角",
@@ -36,7 +44,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+}
+]
 }
 }
 ]

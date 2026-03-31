@@ -2,7 +2,7 @@
 {
 "content_id": "233181",
 "reference_id": 108580,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "施洗約翰",
 "media_type": "Text",
 "index_reference": "施洗約翰",
@@ -20,13 +20,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:John",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "John"
+}
+]
 }
 },
 {
 "content_id": "232805",
 "reference_id": 108204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "詩歌",
 "media_type": "Text",
 "index_reference": "詩歌",
@@ -42,7 +50,7 @@
 {
 "content_id": "233031",
 "reference_id": 108430,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "十二位士師",
 "media_type": "Text",
 "index_reference": "十二位士師",
@@ -58,7 +66,7 @@
 {
 "content_id": "232887",
 "reference_id": 108286,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "十二支派",
 "media_type": "Text",
 "index_reference": "十二支派",
@@ -82,7 +90,7 @@
 {
 "content_id": "232983",
 "reference_id": 108382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "十分之一",
 "media_type": "Text",
 "index_reference": "十分之一",
@@ -98,7 +106,7 @@
 {
 "content_id": "232932",
 "reference_id": 108331,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "十誡",
 "media_type": "Text",
 "index_reference": "十誡",
@@ -122,7 +130,7 @@
 {
 "content_id": "232785",
 "reference_id": 108184,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "十四萬四千人",
 "media_type": "Text",
 "index_reference": "十四萬四千人",
@@ -138,7 +146,7 @@
 {
 "content_id": "232909",
 "reference_id": 108308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "十災",
 "media_type": "Text",
 "index_reference": "十災",
@@ -154,7 +162,7 @@
 {
 "content_id": "233131",
 "reference_id": 108530,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "十字架",
 "media_type": "Text",
 "index_reference": "十字架",
@@ -164,13 +172,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
 "content_id": "232940",
 "reference_id": 108339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "石版",
 "media_type": "Text",
 "index_reference": "石版",
@@ -186,7 +202,7 @@
 {
 "content_id": "232654",
 "reference_id": 108053,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "使徒",
 "media_type": "Text",
 "index_reference": "使徒",
@@ -202,7 +218,7 @@
 {
 "content_id": "232643",
 "reference_id": 108042,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "使徒雅各",
 "media_type": "Text",
 "index_reference": "使徒雅各",
@@ -212,13 +228,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:James",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "James"
+}
+]
 }
 },
 {
 "content_id": "232775",
 "reference_id": 108174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "士每拿",
 "media_type": "Text",
 "index_reference": "士每拿",
@@ -228,13 +252,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Smyrna",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Smyrna"
+}
+]
 }
 },
 {
 "content_id": "232816",
 "reference_id": 108215,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "世界",
 "media_type": "Text",
 "index_reference": "世界",
@@ -250,7 +282,7 @@
 {
 "content_id": "232883",
 "reference_id": 108282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "示劍",
 "media_type": "Text",
 "index_reference": "示劍",
@@ -260,13 +292,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shechem.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shechem"
+},
+{
+"id": "person:Shechem.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shechem"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shechem"
+},
+{
+"id": "place:Shechem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shechem"
+}
+]
 }
 },
 {
 "content_id": "233054",
 "reference_id": 108453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "示羅",
 "media_type": "Text",
 "index_reference": "示羅",
@@ -276,29 +337,80 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shiloh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shiloh"
+},
+{
+"id": "place:Shiloh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shiloh"
+}
+]
 }
 },
 {
 "content_id": "233015",
 "reference_id": 108414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "示瑪（Shema）",
 "media_type": "Text",
-"index_reference": "示瑪（Shema）",
+"index_reference": "示瑪Shema",
 "language": "zht",
 "review_level": "None",
 "content": "<p>一個包含申命記六章4節的猶太祈禱。在希伯來文中，申命記六章4節的第一個詞是「Shema」，意思是聆聽並根據所聽到的採取行動。在希伯來文中，聽和做被理解為同一件事。示瑪解釋了神與以色列人的約是什麼。神是唯一的真神，以色列人只應該順服神。這不僅對每個人來說是如此，對整個社群也是如此。他們應該遵守十誡和所有神的律法。許多事物會幫助他們記住神是誰以及祂的誡命。他們應該隨時隨地與每個人談論神的誡命，應該把誡命寫下來，應該在衣服、身體、房子和門上放置這些提醒，應該自由地詢問關於神的問題，並與他們的孩子談論神。耶穌在馬可福音十二章29節中引用了示瑪的話。</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Shema.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shema"
+},
+{
+"id": "person:Shema.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shema"
+},
+{
+"id": "person:Shema.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shema"
+},
+{
+"id": "person:Shema",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shema"
+},
+{
+"id": "place:Shema",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shema"
+}
+]
 }
 },
 {
 "content_id": "232660",
 "reference_id": 108059,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "事奉的領袖",
 "media_type": "Text",
 "index_reference": "事奉的領袖",
@@ -314,10 +426,10 @@
 {
 "content_id": "232864",
 "reference_id": 108263,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "試驗（試煉）",
 "media_type": "Text",
-"index_reference": "試驗（試煉）",
+"index_reference": "試驗試煉",
 "language": "zht",
 "review_level": "None",
 "content": "<p>人們必須做出困難選擇的時候。他們必須在順服神和做自己想做的事情之間做出選擇。他們所做的抉擇顯示他們是否信任神會提供他們所需的東西。這個考驗的目的不是讓人犯錯或受苦，目的是讓他們得到更多神的恩典。神考驗人們是為了幫助他們的信心能在祂裡面變得更堅強。</p>",

@@ -2,23 +2,38 @@
 {
 "content_id": "134337",
 "reference_id": 108535,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "زانية (عاهرة)",
 "media_type": "Text",
-"index_reference": "زانية (عاهرة)",
+"index_reference": "زانية عاهرة",
 "language": "arb",
 "review_level": "None",
 "content": "<p>هو ذلك الشخص الذي يمارس الجنس مع آخرين نظير مقابل ما. بعض الناس يمارسون الدعارة لأنهم لا يملكون خيارًا آخر. وهذا يحدث مع العبيد أو مع الأشخاص الذين يعيشون تحت سلطة شخص آخر. لكن بعض الناس يختارون أن يمارسوا الدعارة بإختيارهم. إنها طريقتهم لكسب المال. ولقد تحدّث الكتاب المقدس عن الأشخاص الذين يختارون أن يمارسوا الدعارة. فإنهم رمز او صورة للأشخاص أو الجماعات التي تحاول جعل الآخرين يخطئون. كما أنهم صورة أو مثال على عدم الإخلاص في عبادة الله وحده. فإن الزواج كان إحدى الطرق التي يصف بها الكتاب المقدس علاقة الله بشعبه. وعندما يقوم شعبه بعبادة آلهة أخرى، فإنهم يكونون مثل شخص غير أمين في زواجه. فإن الأمر يشبه علاقة الزني مع الآلهة المزيفة. الله لا يريد لأي إنسان أن يستبيح جسده من خلال الدعارة. كما أنه لا يريدهم أن يعبدوا أي شيء أو أي شخص غيره.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:FirstProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+},
+{
+"id": "person:SecondProstitute",
+"type": "person",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Prostitute"
+}
+]
 }
 },
 {
 "content_id": "134245",
 "reference_id": 108443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "زَبُولُون",
 "media_type": "Text",
 "index_reference": "زَبُولُون",
@@ -28,13 +43,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Zebulun",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زَبولونَ"
+}
+]
 }
 },
 {
 "content_id": "134321",
 "reference_id": 108519,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "زِرْكْسِيس",
 "media_type": "Text",
 "index_reference": "زِرْكْسِيس",
@@ -44,13 +67,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ahasuerus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "أَحَشْوِيروشَ"
+}
+]
 }
 },
 {
 "content_id": "134313",
 "reference_id": 108511,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "زَكَرِيَّا",
 "media_type": "Text",
 "index_reference": "زَكَرِيَّا",
@@ -62,207 +93,214 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Zechariah",
-"type": "person",
-"preferred_label": "زَكَرِيَّا",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Zechariah.10",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.11",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.12",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.13",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.14",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.15",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.16",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.17",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.18",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.19",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.2",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.20",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.21",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.22",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.23",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.24",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.25",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.26",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.27",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.28",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.29",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.3",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zecher",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زَاكِر"
 },
 {
 "id": "person:Zechariah.4",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.5",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.6",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.7",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.8",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 },
 {
 "id": "person:Zechariah.9",
 "type": "person",
-"preferred_label": "زَكَرِيَّا",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
+},
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
 }
 ]
 }
@@ -270,23 +308,31 @@
 {
 "content_id": "133882",
 "reference_id": 108080,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "زَكَرِيَّا - العهد الجديد",
 "media_type": "Text",
-"index_reference": "زَكَرِيَّا - العهد الجديد",
+"index_reference": "زَكَرِيَّا  العهد الجديد",
 "language": "arb",
 "review_level": "None",
 "content": "<p>والد يوحنا المعمدان. وكانت أليصابات زوجته. كان كاهناً من سبط لاوي ومن نسل هارون. قال زكريا نبوة جميلة عندما وُلد يوحنا المعمدان.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زَكَرِيَّا"
+}
+]
 }
 },
 {
 "content_id": "134092",
 "reference_id": 108290,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "زِلْفَةُ",
 "media_type": "Text",
 "index_reference": "زِلْفَةُ",
@@ -308,58 +354,9 @@
 {
 "id": "person:Zilpah",
 "type": "person",
-"preferred_label": "زِلْفَةَ",
-"confidence": 0.9613,
-"match_method": "embedding"
-},
-{
-"id": "person:Zebidah",
-"type": "person",
-"preferred_label": "زَبِيدَة",
-"confidence": 0.852,
-"match_method": "embedding"
-},
-{
-"id": "place:Damascus",
-"type": "place",
-"preferred_label": "دِمَشْقَ",
-"confidence": 0.8434,
-"match_method": "embedding"
-},
-{
-"id": "person:Tikvah",
-"type": "person",
-"preferred_label": "تِقْوَةَ",
-"confidence": 0.8422,
-"match_method": "embedding"
-},
-{
-"id": "person:Tikvah.2",
-"type": "person",
-"preferred_label": "تِقْوَةَ",
-"confidence": 0.8422,
-"match_method": "embedding"
-},
-{
-"id": "place:Helkath",
-"type": "place",
-"preferred_label": "حَلْقَةَ",
-"confidence": 0.8148,
-"match_method": "embedding"
-},
-{
-"id": "person:Diklah",
-"type": "person",
-"preferred_label": "دِقْلَةَ",
-"confidence": 0.8027,
-"match_method": "embedding"
-},
-{
-"id": "person:Shimeath",
-"type": "person",
-"preferred_label": "شِمْعَةَ",
-"confidence": 0.8012,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "زِلْفَةَ"
 }
 ]
 }
@@ -367,7 +364,7 @@
 {
 "content_id": "134008",
 "reference_id": 108206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "زواج",
 "media_type": "Text",
 "index_reference": "زواج",
@@ -383,7 +380,7 @@
 {
 "content_id": "134079",
 "reference_id": 108277,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "زوجات",
 "media_type": "Text",
 "index_reference": "زوجات",

@@ -2,7 +2,7 @@
 {
 "content_id": "203178",
 "reference_id": 108043,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kabar baik",
 "media_type": "Text",
 "index_reference": "kabar baik",
@@ -20,29 +20,45 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:GoodNews",
+"type": "keyterm",
+"confidence": 0.9692,
+"match_method": "embedding",
+"preferred_label": "injil"
+}
+]
 }
 },
 {
 "content_id": "203526",
 "reference_id": 108391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kadesh-Barnea",
 "media_type": "Text",
-"index_reference": "kadesh-barnea",
+"index_reference": "kadeshbarnea",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Sebuah daerah di sebelah barat daya Laut Mati di Gurun Zin. Bangsa Israel berkemah di sana dalam perjalanan mereka dari Mesir ke Kanaan. Dari sana, orang Israel menolak untuk memasuki Kanaan. Kadesh adalah tempat dimana Miryam wafat. Tempat ini juga merupakan tempat di mana Musa tidak menaati Allah dengan memukul batu untuk mendapatkan air.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kadesh"
+}
+]
 }
 },
 {
 "content_id": "203357",
 "reference_id": 108222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kain",
 "media_type": "Text",
 "index_reference": "kain",
@@ -56,9 +72,9 @@
 {
 "id": "person:Cain",
 "type": "person",
-"preferred_label": "Kain",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kain"
 }
 ]
 }
@@ -66,7 +82,7 @@
 {
 "content_id": "203169",
 "reference_id": 108034,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kaisar",
 "media_type": "Text",
 "index_reference": "kaisar",
@@ -76,13 +92,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Klaudius"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiberius"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Agustus"
+}
+]
 }
 },
 {
 "content_id": "203273",
 "reference_id": 108138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kaisarea",
 "media_type": "Text",
 "index_reference": "kaisarea",
@@ -94,25 +139,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Caesarea",
-"type": "place",
-"preferred_label": "Kaisarea",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:CaesareaPhilippi",
-"type": "place",
-"preferred_label": "Kaisarea",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Caesarea.2",
 "type": "place",
-"preferred_label": "Caesarea",
-"confidence": 0.9336,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kaisarea"
 }
 ]
 }
@@ -120,7 +158,7 @@
 {
 "content_id": "203525",
 "reference_id": 108390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kaleb",
 "media_type": "Text",
 "index_reference": "kaleb",
@@ -132,39 +170,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Caleb",
-"type": "person",
-"preferred_label": "Kaleb",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Caleb.2",
 "type": "person",
-"preferred_label": "Kaleb",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kaleb"
 },
 {
-"id": "place:CalebEphrathah",
-"type": "place",
-"preferred_label": "Kaleb",
+"id": "person:Caleb",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Chelub",
-"type": "person",
-"preferred_label": "Kelub",
-"confidence": 0.8133,
-"match_method": "embedding"
-},
-{
-"id": "person:Chelub.2",
-"type": "person",
-"preferred_label": "Kelub",
-"confidence": 0.8133,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kaleb"
 }
 ]
 }
@@ -172,7 +189,7 @@
 {
 "content_id": "203225",
 "reference_id": 108090,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kana",
 "media_type": "Text",
 "index_reference": "kana",
@@ -186,9 +203,9 @@
 {
 "id": "place:Cana",
 "type": "place",
-"preferred_label": "Kana",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kana"
 }
 ]
 }
@@ -196,7 +213,7 @@
 {
 "content_id": "203381",
 "reference_id": 108246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kanaan",
 "media_type": "Text",
 "index_reference": "kanaan",
@@ -210,30 +227,16 @@
 {
 "id": "person:Canaan",
 "type": "person",
-"preferred_label": "Kanaan",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:CanaaniteWoman",
-"type": "person",
-"preferred_label": "Kanaan",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kanaan"
 },
 {
 "id": "place:Canaan",
 "type": "place",
-"preferred_label": "Kanaan",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:LebanonMount",
-"type": "place",
-"preferred_label": "Kanaan",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kanaan"
 }
 ]
 }
@@ -241,7 +244,7 @@
 {
 "content_id": "203227",
 "reference_id": 108092,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kapernaum",
 "media_type": "Text",
 "index_reference": "kapernaum",
@@ -255,9 +258,9 @@
 {
 "id": "place:Capernaum",
 "type": "place",
-"preferred_label": "Kapernaum",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kapernaum"
 }
 ]
 }
@@ -265,10 +268,10 @@
 {
 "content_id": "203284",
 "reference_id": 108149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Karunia-karunia Roh",
 "media_type": "Text",
-"index_reference": "karunia-karunia roh",
+"index_reference": "karuniakarunia roh",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Roh Kudus memberikan orang-orang kemampuan untuk melakukan berbagai hal tertentu dengan baik. Karunia ini bukanlah sesuatu yang dapat dipegang oleh seseorang dengan tangan mereka. Ini adalah karunia rohani. Beberapa dari karunia ini seperti mengajar, merawat orang lain, dan menyembuhkan mereka yang sakit. Para pengikut Yesus menggunakan karunia-karunia mereka untuk menyemangati dan menguatkan gereja.</p>",
@@ -281,7 +284,7 @@
 {
 "content_id": "203703",
 "reference_id": 108568,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kebangkitan",
 "media_type": "Text",
 "index_reference": "kebangkitan",
@@ -295,9 +298,9 @@
 {
 "id": "keyterm:Resurrection",
 "type": "keyterm",
-"preferred_label": "kebangkitan",
-"confidence": 0.8467,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "kebangkitan"
 }
 ]
 }
@@ -305,7 +308,7 @@
 {
 "content_id": "203200",
 "reference_id": 108065,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kedatangan Yesus kembali",
 "media_type": "Text",
 "index_reference": "kedatangan yesus kembali",
@@ -321,7 +324,7 @@
 {
 "content_id": "203174",
 "reference_id": 108039,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kegelapan",
 "media_type": "Text",
 "index_reference": "kegelapan",
@@ -345,7 +348,7 @@
 {
 "content_id": "203224",
 "reference_id": 108089,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kelahiran kembali",
 "media_type": "Text",
 "index_reference": "kelahiran kembali",
@@ -361,7 +364,7 @@
 {
 "content_id": "203320",
 "reference_id": 108185,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kelompok yang berjumlah tujuh",
 "media_type": "Text",
 "index_reference": "kelompok yang berjumlah tujuh",
@@ -377,7 +380,7 @@
 {
 "content_id": "203451",
 "reference_id": 108316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Keluaran",
 "media_type": "Text",
 "index_reference": "keluaran",
@@ -393,7 +396,7 @@
 {
 "content_id": "203180",
 "reference_id": 108045,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Keluarga Allah",
 "media_type": "Text",
 "index_reference": "keluarga allah",
@@ -409,7 +412,7 @@
 {
 "content_id": "203482",
 "reference_id": 108347,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kemah pertemuan",
 "media_type": "Text",
 "index_reference": "kemah pertemuan",
@@ -419,13 +422,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:TentOfMeeting",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tent of Meeting"
+}
+]
 }
 },
 {
 "content_id": "203469",
 "reference_id": 108334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kemah suci",
 "media_type": "Text",
 "index_reference": "kemah suci",
@@ -435,13 +446,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
+}
+]
 }
 },
 {
 "content_id": "203325",
 "reference_id": 108190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kematian dan Neraka",
 "media_type": "Text",
 "index_reference": "kematian dan neraka",
@@ -451,13 +470,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "203310",
 "reference_id": 108175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kematian kedua",
 "media_type": "Text",
 "index_reference": "kematian kedua",
@@ -473,7 +500,7 @@
 {
 "content_id": "203483",
 "reference_id": 108348,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kemuliaan",
 "media_type": "Text",
 "index_reference": "kemuliaan",
@@ -483,13 +510,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Glory",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "kemuliaan"
+}
+]
 }
 },
 {
 "content_id": "203696",
 "reference_id": 108561,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kerajaan Allah",
 "media_type": "Text",
 "index_reference": "kerajaan allah",
@@ -513,7 +548,7 @@
 {
 "content_id": "203472",
 "reference_id": 108337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kerajaan para imam",
 "media_type": "Text",
 "index_reference": "kerajaan para imam",
@@ -529,7 +564,7 @@
 {
 "content_id": "203615",
 "reference_id": 108480,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kerajaan Selatan",
 "media_type": "Text",
 "index_reference": "kerajaan selatan",
@@ -539,13 +574,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yehuda"
+}
+]
 }
 },
 {
 "content_id": "203614",
 "reference_id": 108479,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kerajaan Utara",
 "media_type": "Text",
 "index_reference": "kerajaan utara",
@@ -561,7 +604,7 @@
 {
 "content_id": "203446",
 "reference_id": 108311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Keras kepala",
 "media_type": "Text",
 "index_reference": "keras kepala",
@@ -571,13 +614,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Stubborn",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "tegar tengkuk"
+}
+]
 }
 },
 {
 "content_id": "203331",
 "reference_id": 108196,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Keselamatan",
 "media_type": "Text",
 "index_reference": "keselamatan",
@@ -599,9 +650,9 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "keselamatan",
-"confidence": 0.9098,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "keselamatan"
 }
 ]
 }
@@ -609,10 +660,10 @@
 {
 "content_id": "203333",
 "reference_id": 108198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kisah-kisah",
 "media_type": "Text",
-"index_reference": "kisah-kisah",
+"index_reference": "kisahkisah",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Sangatlah penting bagi bangsa Israel untuk mengingat berbagai kisah dan pengajaran. Mereka menceritakan kisah-kisah tentang apa yang terjadi di antara bangsa mereka di masa lampau. Mereka menceritakan kisah-kisah tentang perbuatan-perbuatan Allah yang dahsyat. Mereka juga menceritakan kisah-kisah tentang hukum dan ajaran yang telah mereka terima dari Allah. Orang-orang yang lebih tua menceritakan hal-hal ini kepada orang-orang yang lebih muda. Dengan cara ini, setiap orang mempelajari kisah-kisah dan ajaran-ajaran yang penting bagi masyarakat.</p>",
@@ -625,7 +676,7 @@
 {
 "content_id": "203304",
 "reference_id": 108169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kitab Henokh",
 "media_type": "Text",
 "index_reference": "kitab henokh",
@@ -641,7 +692,7 @@
 {
 "content_id": "203479",
 "reference_id": 108344,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kitab kehidupan",
 "media_type": "Text",
 "index_reference": "kitab kehidupan",
@@ -657,7 +708,7 @@
 {
 "content_id": "203226",
 "reference_id": 108091,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kolam Bethesda",
 "media_type": "Text",
 "index_reference": "kolam bethesda",
@@ -667,13 +718,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Pool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pool"
+}
+]
 }
 },
 {
 "content_id": "203295",
 "reference_id": 108160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kolose",
 "media_type": "Text",
 "index_reference": "kolose",
@@ -687,9 +746,9 @@
 {
 "id": "place:Colossae",
 "type": "place",
-"preferred_label": "Kolose",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kolose"
 }
 ]
 }
@@ -697,7 +756,7 @@
 {
 "content_id": "203528",
 "reference_id": 108393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Korah",
 "media_type": "Text",
 "index_reference": "korah",
@@ -709,32 +768,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Korah",
-"type": "person",
-"preferred_label": "Korah",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Korah.2",
 "type": "person",
-"preferred_label": "Korah",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Korah"
 },
 {
 "id": "person:Korah.3",
 "type": "person",
-"preferred_label": "Korah",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Korah"
 },
 {
 "id": "person:Korah.4",
 "type": "person",
-"preferred_label": "Korah",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
 }
 ]
 }
@@ -742,7 +801,7 @@
 {
 "content_id": "203485",
 "reference_id": 108350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Korban bakaran",
 "media_type": "Text",
 "index_reference": "korban bakaran",
@@ -758,7 +817,7 @@
 {
 "content_id": "203487",
 "reference_id": 108352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Korban Keselamatan",
 "media_type": "Text",
 "index_reference": "korban keselamatan",
@@ -774,7 +833,7 @@
 {
 "content_id": "203489",
 "reference_id": 108354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Korban penebus salah",
 "media_type": "Text",
 "index_reference": "korban penebus salah",
@@ -790,7 +849,7 @@
 {
 "content_id": "203637",
 "reference_id": 108502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Koresh",
 "media_type": "Text",
 "index_reference": "koresh",
@@ -804,16 +863,9 @@
 {
 "id": "person:Cyrus",
 "type": "person",
-"preferred_label": "Koresh",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Horesh",
-"type": "place",
-"preferred_label": "Koresa",
-"confidence": 0.873,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Koresh"
 }
 ]
 }
@@ -821,7 +873,7 @@
 {
 "content_id": "203268",
 "reference_id": 108133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Korintus",
 "media_type": "Text",
 "index_reference": "korintus",
@@ -835,9 +887,9 @@
 {
 "id": "place:Corinth",
 "type": "place",
-"preferred_label": "Korintus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Korintus"
 }
 ]
 }
@@ -845,7 +897,7 @@
 {
 "content_id": "203243",
 "reference_id": 108108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kornelius",
 "media_type": "Text",
 "index_reference": "kornelius",
@@ -859,9 +911,9 @@
 {
 "id": "person:Cornelius",
 "type": "person",
-"preferred_label": "Kornelius",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kornelius"
 }
 ]
 }
@@ -869,7 +921,7 @@
 {
 "content_id": "203545",
 "reference_id": 108410,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kota yang aman",
 "media_type": "Text",
 "index_reference": "kota yang aman",
@@ -885,7 +937,7 @@
 {
 "content_id": "203298",
 "reference_id": 108163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kreta",
 "media_type": "Text",
 "index_reference": "kreta",
@@ -899,9 +951,9 @@
 {
 "id": "place:Crete",
 "type": "place",
-"preferred_label": "Kreta",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Kreta"
 }
 ]
 }
@@ -909,7 +961,7 @@
 {
 "content_id": "203233",
 "reference_id": 108098,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kristus",
 "media_type": "Text",
 "index_reference": "kristus",
@@ -934,13 +986,21 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Yesus"
+}
+]
 }
 },
 {
 "content_id": "203496",
 "reference_id": 108361,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kudus",
 "media_type": "Text",
 "index_reference": "kudus",
@@ -950,13 +1010,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Holy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "khusus"
+}
+]
 }
 },
 {
 "content_id": "203515",
 "reference_id": 108380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Kutukan perjanjian",
 "media_type": "Text",
 "index_reference": "kutukan perjanjian",

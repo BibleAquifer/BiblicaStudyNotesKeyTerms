@@ -2,7 +2,7 @@
 {
 "content_id": "183389",
 "reference_id": 108495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बँधुआई",
 "media_type": "Text",
 "index_reference": "बँधुआई",
@@ -18,7 +18,7 @@
 {
 "content_id": "183158",
 "reference_id": 108264,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बच्चों का बलि",
 "media_type": "Text",
 "index_reference": "बच्चों का बलि",
@@ -34,7 +34,7 @@
 {
 "content_id": "183362",
 "reference_id": 108468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बतशेबा",
 "media_type": "Text",
 "index_reference": "बतशेबा",
@@ -48,9 +48,9 @@
 {
 "id": "person:Bathsheba",
 "type": "person",
-"preferred_label": "बतशेबा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बतशेबा"
 }
 ]
 }
@@ -58,7 +58,7 @@
 {
 "content_id": "182931",
 "reference_id": 108037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बपतिस्मा",
 "media_type": "Text",
 "index_reference": "बपतिस्मा",
@@ -68,13 +68,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Baptism",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Baptism"
+}
+]
 }
 },
 {
 "content_id": "182970",
 "reference_id": 108076,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बरअब्बा",
 "media_type": "Text",
 "index_reference": "बरअब्बा",
@@ -88,16 +96,9 @@
 {
 "id": "person:Barabbas",
 "type": "person",
-"preferred_label": "बरअब्बा",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Beth-arabah",
-"type": "place",
-"preferred_label": "बेतराबा",
-"confidence": 0.8057,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बरअब्बा"
 }
 ]
 }
@@ -105,7 +106,7 @@
 {
 "content_id": "183001",
 "reference_id": 108107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बरनबास",
 "media_type": "Text",
 "index_reference": "बरनबास",
@@ -119,9 +120,9 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "बरनबास",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बरनबास"
 }
 ]
 }
@@ -129,7 +130,7 @@
 {
 "content_id": "183232",
 "reference_id": 108338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बलि पशु",
 "media_type": "Text",
 "index_reference": "बलि पशु",
@@ -145,7 +146,7 @@
 {
 "content_id": "183150",
 "reference_id": 108256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बलिदान",
 "media_type": "Text",
 "index_reference": "बलिदान",
@@ -161,7 +162,7 @@
 {
 "content_id": "183087",
 "reference_id": 108193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाइबिल",
 "media_type": "Text",
 "index_reference": "बाइबिल",
@@ -185,7 +186,7 @@
 {
 "content_id": "183128",
 "reference_id": 108234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाढ़",
 "media_type": "Text",
 "index_reference": "बाढ़",
@@ -209,7 +210,7 @@
 {
 "content_id": "183215",
 "reference_id": 108321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बादल",
 "media_type": "Text",
 "index_reference": "बादल",
@@ -225,7 +226,7 @@
 {
 "content_id": "183133",
 "reference_id": 108239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाबुल",
 "media_type": "Text",
 "index_reference": "बाबुल",
@@ -235,28 +236,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Bethuel",
-"type": "person",
-"preferred_label": "बतूएल",
-"confidence": 0.8234,
-"match_method": "embedding"
-},
-{
-"id": "place:Bethuel",
-"type": "place",
-"preferred_label": "बतूएल",
-"confidence": 0.8234,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "183392",
 "reference_id": 108498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाबेल",
 "media_type": "Text",
 "index_reference": "बाबेल",
@@ -266,13 +252,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Babylon.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Babylon"
+},
+{
+"id": "place:Babylon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बेबीलोन"
+}
+]
 }
 },
 {
 "content_id": "183329",
 "reference_id": 108435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाराक",
 "media_type": "Text",
 "index_reference": "बाराक",
@@ -286,9 +287,9 @@
 {
 "id": "person:Barak",
 "type": "person",
-"preferred_label": "बाराक",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बाराक"
 }
 ]
 }
@@ -296,7 +297,7 @@
 {
 "content_id": "183295",
 "reference_id": 108401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाल",
 "media_type": "Text",
 "index_reference": "बाल",
@@ -306,13 +307,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Baal.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बाल"
+},
+{
+"id": "person:Baal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बाल"
+},
+{
+"id": "place:Baalath-beer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
+},
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यहोवा"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बाल"
+}
+]
 }
 },
 {
 "content_id": "183296",
 "reference_id": 108402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बालपोर",
 "media_type": "Text",
 "index_reference": "बालपोर",
@@ -322,13 +359,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Peor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal-peor"
+}
+]
 }
 },
 {
 "content_id": "183290",
 "reference_id": 108396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बालाक",
 "media_type": "Text",
 "index_reference": "बालाक",
@@ -342,9 +387,9 @@
 {
 "id": "person:Balak",
 "type": "person",
-"preferred_label": "बालाक",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बालाक"
 }
 ]
 }
@@ -352,7 +397,7 @@
 {
 "content_id": "183292",
 "reference_id": 108398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बालााम",
 "media_type": "Text",
 "index_reference": "बालााम",
@@ -364,11 +409,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Baal-meon",
-"type": "place",
-"preferred_label": "बालमोन",
-"confidence": 0.8147,
-"match_method": "embedding"
+"id": "person:Balaam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिलाम"
 }
 ]
 }
@@ -376,7 +421,7 @@
 {
 "content_id": "183303",
 "reference_id": 108409,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाहर निकालना",
 "media_type": "Text",
 "index_reference": "बाहर निकालना",
@@ -392,7 +437,7 @@
 {
 "content_id": "183263",
 "reference_id": 108369,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बाहरी",
 "media_type": "Text",
 "index_reference": "बाहरी",
@@ -408,7 +453,7 @@
 {
 "content_id": "183188",
 "reference_id": 108294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बिन्यामिन",
 "media_type": "Text",
 "index_reference": "बिन्यामिन",
@@ -420,46 +465,39 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Benjamin",
-"type": "group",
-"preferred_label": "बिन्यामीन",
-"confidence": 0.9715,
-"match_method": "embedding"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"preferred_label": "बिन्यामीन",
-"confidence": 0.9715,
-"match_method": "embedding"
-},
-{
 "id": "person:Benjamin.2",
 "type": "person",
-"preferred_label": "बिन्यामीन",
-"confidence": 0.9715,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिन्यामीन"
 },
 {
 "id": "person:Benjamin.3",
 "type": "person",
-"preferred_label": "बिन्यामीन",
-"confidence": 0.9715,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिन्यामीन"
 },
 {
 "id": "person:Benjamin.4",
 "type": "person",
-"preferred_label": "बिन्यामीन",
-"confidence": 0.9715,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिन्यामीन"
 },
 {
 "id": "person:Benjamin.5",
 "type": "person",
-"preferred_label": "बिन्यामीन",
-"confidence": 0.9715,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिन्यामीन"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बिन्यामीन"
 }
 ]
 }
@@ -467,7 +505,7 @@
 {
 "content_id": "183023",
 "reference_id": 108129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बिरीया",
 "media_type": "Text",
 "index_reference": "बिरीया",
@@ -481,16 +519,9 @@
 {
 "id": "place:Berea",
 "type": "place",
-"preferred_label": "बिरीया",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Birsha",
-"type": "person",
-"preferred_label": "बिर्शा",
-"confidence": 0.8078,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बिरीया"
 }
 ]
 }
@@ -498,7 +529,7 @@
 {
 "content_id": "183183",
 "reference_id": 108289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बिल्हा",
 "media_type": "Text",
 "index_reference": "बिल्हा",
@@ -520,37 +551,16 @@
 {
 "id": "person:Bilhah",
 "type": "person",
-"preferred_label": "बिल्हा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बिल्हा"
 },
 {
 "id": "place:Bilhah",
 "type": "place",
-"preferred_label": "बिल्हा",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Bilgah",
-"type": "person",
-"preferred_label": "बिल्गा",
-"confidence": 0.8449,
-"match_method": "embedding"
-},
-{
-"id": "person:Bilgah.2",
-"type": "person",
-"preferred_label": "बिल्गा",
-"confidence": 0.8449,
-"match_method": "embedding"
-},
-{
-"id": "person:Pilha",
-"type": "person",
-"preferred_label": "पिल्हा",
-"confidence": 0.835,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बिल्हा"
 }
 ]
 }
@@ -558,7 +568,7 @@
 {
 "content_id": "183219",
 "reference_id": 108325,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बुद्धि",
 "media_type": "Text",
 "index_reference": "बुद्धि",
@@ -572,9 +582,9 @@
 {
 "id": "person:Wisdom",
 "type": "person",
-"preferred_label": "Wisdom",
-"confidence": 0.8503,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Wisdom"
 }
 ]
 }
@@ -582,7 +592,7 @@
 {
 "content_id": "182927",
 "reference_id": 108033,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बुद्धिमान व्यक्ति",
 "media_type": "Text",
 "index_reference": "बुद्धिमान व्यक्ति",
@@ -598,7 +608,7 @@
 {
 "content_id": "182948",
 "reference_id": 108054,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बुरा व्यवहार किया गया",
 "media_type": "Text",
 "index_reference": "बुरा व्यवहार किया गया",
@@ -622,7 +632,7 @@
 {
 "content_id": "183336",
 "reference_id": 108442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बेतलेहेम",
 "media_type": "Text",
 "index_reference": "बेतलेहेम",
@@ -634,25 +644,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Beth-shemesh",
+"id": "place:Bethlehem.2",
 "type": "place",
-"preferred_label": "बेतशेमेश",
-"confidence": 0.8009,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बैतलहम"
 },
 {
-"id": "place:Beth-shemesh.2",
+"id": "place:Bethlehem",
 "type": "place",
-"preferred_label": "बेतशेमेश",
-"confidence": 0.8009,
-"match_method": "embedding"
-},
-{
-"id": "place:Beth-shemesh.3",
-"type": "place",
-"preferred_label": "बेतशेमेश",
-"confidence": 0.8009,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बैतलहम"
 }
 ]
 }
@@ -660,7 +663,7 @@
 {
 "content_id": "183166",
 "reference_id": 108272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बेतेल",
 "media_type": "Text",
 "index_reference": "बेतेल",
@@ -672,46 +675,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethel",
-"type": "place",
-"preferred_label": "बेतेल",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethel.2",
 "type": "place",
-"preferred_label": "बेतेल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बेतेल"
 },
 {
-"id": "place:BetherMountain",
+"id": "place:Bethel",
 "type": "place",
-"preferred_label": "बेतेर",
-"confidence": 0.865,
-"match_method": "embedding"
-},
-{
-"id": "place:Beten",
-"type": "place",
-"preferred_label": "बेतेन",
-"confidence": 0.8284,
-"match_method": "embedding"
-},
-{
-"id": "person:Bethuel",
-"type": "person",
-"preferred_label": "बतूएल",
-"confidence": 0.8076,
-"match_method": "embedding"
-},
-{
-"id": "place:Bethuel",
-"type": "place",
-"preferred_label": "बतूएल",
-"confidence": 0.8076,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बेतेल"
 }
 ]
 }
@@ -719,7 +694,7 @@
 {
 "content_id": "182985",
 "reference_id": 108091,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बेत्सैदा का कुंड",
 "media_type": "Text",
 "index_reference": "बेत्सैदा का कुंड",
@@ -729,13 +704,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Pool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pool"
+}
+]
 }
 },
 {
 "content_id": "183189",
 "reference_id": 108295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बेर्शेबा",
 "media_type": "Text",
 "index_reference": "बेर्शेबा",
@@ -749,9 +732,9 @@
 {
 "id": "place:Beersheba",
 "type": "place",
-"preferred_label": "बेर्शेबा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बेर्शेबा"
 }
 ]
 }
@@ -759,7 +742,7 @@
 {
 "content_id": "182969",
 "reference_id": 108075,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "बैतनिय्याह",
 "media_type": "Text",
 "index_reference": "बैतनिय्याह",
@@ -771,18 +754,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Bethany",
-"type": "place",
-"preferred_label": "बैतनिय्याह",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Bethany.2",
 "type": "place",
-"preferred_label": "बैतनिय्याह",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "बैतनिय्याह"
+},
+{
+"id": "place:Bethany",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "बैतनिय्याह"
 }
 ]
 }

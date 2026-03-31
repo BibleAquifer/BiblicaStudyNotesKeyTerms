@@ -2,7 +2,7 @@
 {
 "content_id": "232919",
 "reference_id": 108318,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "教導他們的孩子",
 "media_type": "Text",
 "index_reference": "教導他們的孩子",
@@ -18,7 +18,7 @@
 {
 "content_id": "232697",
 "reference_id": 108096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "教會",
 "media_type": "Text",
 "index_reference": "教會",
@@ -28,13 +28,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Church",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Church"
+}
+]
 }
 },
 {
 "content_id": "232719",
 "reference_id": 108118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "教會長老",
 "media_type": "Text",
 "index_reference": "教會長老",

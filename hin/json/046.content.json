@@ -2,7 +2,7 @@
 {
 "content_id": "183205",
 "reference_id": 108311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हठीला",
 "media_type": "Text",
 "index_reference": "हठीला",
@@ -14,11 +14,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hasupha",
-"type": "person",
-"preferred_label": "हसूपा",
-"confidence": 0.8042,
-"match_method": "embedding"
+"id": "keyterm:Stubborn",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Stubborn"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "183117",
 "reference_id": 108223,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हत्या",
 "media_type": "Text",
 "index_reference": "हत्या",
@@ -42,7 +42,7 @@
 {
 "content_id": "183063",
 "reference_id": 108169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हनोक की पुस्तक",
 "media_type": "Text",
 "index_reference": "हनोक की पुस्तक",
@@ -58,7 +58,7 @@
 {
 "content_id": "183344",
 "reference_id": 108450,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हन्ना",
 "media_type": "Text",
 "index_reference": "हन्ना",
@@ -70,123 +70,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Annas",
-"type": "person",
-"preferred_label": "हन्ना",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Hannah",
 "type": "person",
-"preferred_label": "हन्ना",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan",
-"type": "person",
-"preferred_label": "हानान",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.2",
-"type": "person",
-"preferred_label": "हानान",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.3",
-"type": "person",
-"preferred_label": "हानान",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.4",
-"type": "person",
-"preferred_label": "हानान",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.5",
-"type": "person",
-"preferred_label": "हानान",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.6",
-"type": "person",
-"preferred_label": "हानान",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.7",
-"type": "person",
-"preferred_label": "हानान",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.8",
-"type": "person",
-"preferred_label": "हानान",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanan.9",
-"type": "person",
-"preferred_label": "हानान",
-"confidence": 0.8412,
-"match_method": "embedding"
-},
-{
-"id": "person:Jannai",
-"type": "person",
-"preferred_label": "यन्ना",
-"confidence": 0.8232,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanani",
-"type": "person",
-"preferred_label": "हनानी",
-"confidence": 0.8158,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanani.2",
-"type": "person",
-"preferred_label": "हनानी",
-"confidence": 0.8158,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanani.3",
-"type": "person",
-"preferred_label": "हनानी",
-"confidence": 0.8158,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanani.4",
-"type": "person",
-"preferred_label": "हनानी",
-"confidence": 0.8158,
-"match_method": "embedding"
-},
-{
-"id": "person:Hanani.5",
-"type": "person",
-"preferred_label": "हनानी",
-"confidence": 0.8158,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हन्ना"
 }
 ]
 }
@@ -194,7 +82,7 @@
 {
 "content_id": "183099",
 "reference_id": 108205,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हव्वा",
 "media_type": "Text",
 "index_reference": "हव्वा",
@@ -208,9 +96,9 @@
 {
 "id": "person:Eve",
 "type": "person",
-"preferred_label": "हव्वा",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हव्वा"
 }
 ]
 }
@@ -218,7 +106,7 @@
 {
 "content_id": "183404",
 "reference_id": 108510,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हाग्गै",
 "media_type": "Text",
 "index_reference": "हाग्गै",
@@ -232,16 +120,9 @@
 {
 "id": "person:Haggai",
 "type": "person",
-"preferred_label": "हाग्गै",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Haggi",
-"type": "person",
-"preferred_label": "हाग्गी",
-"confidence": 0.9328,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हाग्गै"
 }
 ]
 }
@@ -249,7 +130,7 @@
 {
 "content_id": "183153",
 "reference_id": 108259,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हाजिरा",
 "media_type": "Text",
 "index_reference": "हाजिरा",
@@ -259,13 +140,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "हागार"
+}
+]
 }
 },
 {
 "content_id": "183000",
 "reference_id": 108106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हाथ रखें",
 "media_type": "Text",
 "index_reference": "हाथ रखें",
@@ -281,7 +170,7 @@
 {
 "content_id": "183122",
 "reference_id": 108228,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हानोक",
 "media_type": "Text",
 "index_reference": "हानोक",
@@ -291,13 +180,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Enoch.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "हनोक"
+},
+{
+"id": "person:Enoch",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "हनोक"
+}
+]
 }
 },
 {
 "content_id": "183115",
 "reference_id": 108221,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हाबिल",
 "media_type": "Text",
 "index_reference": "हाबिल",
@@ -311,16 +215,16 @@
 {
 "id": "person:Abel",
 "type": "person",
-"preferred_label": "हाबिल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हाबिल"
 },
 {
 "id": "place:Abel",
 "type": "place",
-"preferred_label": "हाबिल",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हाबिल"
 }
 ]
 }
@@ -328,7 +232,7 @@
 {
 "content_id": "183136",
 "reference_id": 108242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हाम",
 "media_type": "Text",
 "index_reference": "हाम",
@@ -338,13 +242,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "हाम"
+},
+{
+"id": "place:Ham.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "हाम"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अम्मोन"
+}
+]
 }
 },
 {
 "content_id": "183415",
 "reference_id": 108521,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हामान",
 "media_type": "Text",
 "index_reference": "हामान",
@@ -358,44 +284,9 @@
 {
 "id": "person:Haman",
 "type": "person",
-"preferred_label": "हामान",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman",
-"type": "person",
-"preferred_label": "हेमान",
-"confidence": 0.943,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.2",
-"type": "person",
-"preferred_label": "हेमान",
-"confidence": 0.943,
-"match_method": "embedding"
-},
-{
-"id": "person:Heman.3",
-"type": "person",
-"preferred_label": "हेमान",
-"confidence": 0.943,
-"match_method": "embedding"
-},
-{
-"id": "person:Hemam",
-"type": "person",
-"preferred_label": "हेमाम",
-"confidence": 0.835,
-"match_method": "embedding"
-},
-{
-"id": "person:Jalam",
-"type": "person",
-"preferred_label": "यालाम",
-"confidence": 0.8088,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हामान"
 }
 ]
 }
@@ -403,7 +294,7 @@
 {
 "content_id": "183203",
 "reference_id": 108309,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हारून की चलने वाली लाठी",
 "media_type": "Text",
 "index_reference": "हारून की चलने वाली लाठी",
@@ -419,7 +310,7 @@
 {
 "content_id": "183390",
 "reference_id": 108496,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हिजकिय्याह",
 "media_type": "Text",
 "index_reference": "हिजकिय्याह",
@@ -431,46 +322,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Hezekiah",
-"type": "person",
-"preferred_label": "हिजकिय्याह",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Hezekiah.2",
 "type": "person",
-"preferred_label": "हिजकिय्याह",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हिजकिय्याह"
 },
 {
 "id": "person:Hezekiah.3",
 "type": "person",
-"preferred_label": "हिजकिय्याह",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हिजकिय्याह"
 },
 {
 "id": "person:Hezekiah.4",
 "type": "person",
-"preferred_label": "हिजकिय्याह",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हिजकिय्याह"
 },
 {
-"id": "person:Hizkiah",
+"id": "person:Hezekiah",
 "type": "person",
-"preferred_label": "हिजकिय्याह",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Haggiah",
-"type": "person",
-"preferred_label": "हग्गिय्याह",
-"confidence": 0.8125,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हिजकिय्याह"
 }
 ]
 }
@@ -478,7 +355,7 @@
 {
 "content_id": "183321",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हिब्बी",
 "media_type": "Text",
 "index_reference": "हिब्बी",
@@ -488,13 +365,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
+}
+]
 }
 },
 {
 "content_id": "183313",
 "reference_id": 108419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हृदय",
 "media_type": "Text",
 "index_reference": "हृदय",
@@ -504,13 +389,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Heart"
+}
+]
 }
 },
 {
 "content_id": "183033",
 "reference_id": 108139,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हेरोद अग्रिप्पा द्वितीय",
 "media_type": "Text",
 "index_reference": "हेरोद अग्रिप्पा द्वितीय",
@@ -520,13 +413,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "हेरोदेस"
+}
+]
 }
 },
 {
 "content_id": "182956",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हेरोदियों",
 "media_type": "Text",
 "index_reference": "हेरोदियों",
@@ -540,16 +441,9 @@
 {
 "id": "group:Herodian",
 "type": "group",
-"preferred_label": "हेरोदियों",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Herodias",
-"type": "person",
-"preferred_label": "हेरोदियास",
-"confidence": 0.8125,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "हेरोदियों"
 }
 ]
 }
@@ -557,7 +451,7 @@
 {
 "content_id": "183004",
 "reference_id": 108110,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हेरोदेस अग्रिप्पा I",
 "media_type": "Text",
 "index_reference": "हेरोदेस अग्रिप्पा I",
@@ -567,13 +461,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Agrippa",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अग्रिप्पा"
+}
+]
 }
 },
 {
 "content_id": "182951",
 "reference_id": 108057,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "हेरोदेस अन्तिपास",
 "media_type": "Text",
 "index_reference": "हेरोदेस अन्तिपास",
@@ -583,13 +485,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Herod.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herod Antipas"
+}
+]
 }
 },
 {
 "content_id": "183281",
 "reference_id": 108387,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "होबाब",
 "media_type": "Text",
 "index_reference": "होबाब",
@@ -603,58 +513,9 @@
 {
 "id": "person:Hobab",
 "type": "person",
-"preferred_label": "होबाब",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab",
-"type": "person",
-"preferred_label": "योबाब",
-"confidence": 0.808,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.2",
-"type": "person",
-"preferred_label": "योबाब",
-"confidence": 0.808,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.3",
-"type": "person",
-"preferred_label": "योबाब",
-"confidence": 0.808,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.4",
-"type": "person",
-"preferred_label": "योबाब",
-"confidence": 0.808,
-"match_method": "embedding"
-},
-{
-"id": "person:Jobab.5",
-"type": "person",
-"preferred_label": "योबाब",
-"confidence": 0.808,
-"match_method": "embedding"
-},
-{
-"id": "person:Hagab",
-"type": "person",
-"preferred_label": "हागाब",
-"confidence": 0.8068,
-"match_method": "embedding"
-},
-{
-"id": "place:Habor",
-"type": "place",
-"preferred_label": "हाबोर",
-"confidence": 0.8044,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "होबाब"
 }
 ]
 }
@@ -662,7 +523,7 @@
 {
 "content_id": "183244",
 "reference_id": 108350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "होमबली",
 "media_type": "Text",
 "index_reference": "होमबली",
@@ -678,7 +539,7 @@
 {
 "content_id": "183464",
 "reference_id": 108570,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "होशे",
 "media_type": "Text",
 "index_reference": "होशे",
@@ -692,16 +553,9 @@
 {
 "id": "person:Hosea",
 "type": "person",
-"preferred_label": "होशे",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Hushai",
-"type": "person",
-"preferred_label": "हूशै",
-"confidence": 0.8258,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "होशे"
 }
 ]
 }

@@ -2,7 +2,7 @@
 {
 "content_id": "367705",
 "reference_id": 108214,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Saba",
 "media_type": "Text",
 "index_reference": "saba",
@@ -12,28 +12,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Seba",
-"type": "person",
-"preferred_label": "Seba",
-"confidence": 0.8127,
-"match_method": "embedding"
-},
-{
-"id": "place:Seba",
-"type": "place",
-"preferred_label": "Seba",
-"confidence": 0.8127,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "367845",
 "reference_id": 108354,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sadaka za hatia",
 "media_type": "Text",
 "index_reference": "sadaka za hatia",
@@ -49,7 +34,7 @@
 {
 "content_id": "367844",
 "reference_id": 108353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sadaka za kutakasa dhambi",
 "media_type": "Text",
 "index_reference": "sadaka za kutakasa dhambi",
@@ -65,7 +50,7 @@
 {
 "content_id": "367841",
 "reference_id": 108350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sadaka za kuteketezwa",
 "media_type": "Text",
 "index_reference": "sadaka za kuteketezwa",
@@ -81,7 +66,7 @@
 {
 "content_id": "367842",
 "reference_id": 108351,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sadaka za nafaka",
 "media_type": "Text",
 "index_reference": "sadaka za nafaka",
@@ -97,7 +82,7 @@
 {
 "content_id": "367843",
 "reference_id": 108352,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sadaka za urafiki",
 "media_type": "Text",
 "index_reference": "sadaka za urafiki",
@@ -113,7 +98,7 @@
 {
 "content_id": "367602",
 "reference_id": 108111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Safari za Paulo",
 "media_type": "Text",
 "index_reference": "safari za paulo",
@@ -129,7 +114,7 @@
 {
 "content_id": "367854",
 "reference_id": 108363,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Safi au chafu",
 "media_type": "Text",
 "index_reference": "safi au chafu",
@@ -153,7 +138,7 @@
 {
 "content_id": "367855",
 "reference_id": 108364,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Safii au najisi",
 "media_type": "Text",
 "index_reference": "safii au najisi",
@@ -177,7 +162,7 @@
 {
 "content_id": "367727",
 "reference_id": 108236,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Safina",
 "media_type": "Text",
 "index_reference": "safina",
@@ -187,21 +172,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Sapphira",
-"type": "person",
-"preferred_label": "Safira",
-"confidence": 0.8062,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "367718",
 "reference_id": 108227,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sala",
 "media_type": "Text",
 "index_reference": "sala",
@@ -211,28 +188,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Shelah",
-"type": "person",
-"preferred_label": "Sala",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shelah.2",
-"type": "person",
-"preferred_label": "Sala",
-"confidence": 1.0,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "367980",
 "reference_id": 108489,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samaria",
 "media_type": "Text",
 "index_reference": "samaria",
@@ -244,18 +206,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Samaria",
-"type": "place",
-"preferred_label": "Samaria",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Samaria.2",
 "type": "place",
-"preferred_label": "Samaria",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Samaria"
+},
+{
+"id": "place:Samaria",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samaria"
 }
 ]
 }
@@ -263,7 +225,7 @@
 {
 "content_id": "367772",
 "reference_id": 108281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samehe",
 "media_type": "Text",
 "index_reference": "samehe",
@@ -273,13 +235,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Forgive",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Forgive"
+}
+]
 }
 },
 {
 "content_id": "367930",
 "reference_id": 108439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samsoni",
 "media_type": "Text",
 "index_reference": "samsoni",
@@ -293,9 +263,9 @@
 {
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "Samsoni",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Samsoni"
 }
 ]
 }
@@ -303,7 +273,7 @@
 {
 "content_id": "367943",
 "reference_id": 108452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samweli",
 "media_type": "Text",
 "index_reference": "samweli",
@@ -317,9 +287,9 @@
 {
 "id": "person:Samuel",
 "type": "person",
-"preferred_label": "Samweli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Samweli"
 }
 ]
 }
@@ -327,7 +297,7 @@
 {
 "content_id": "367876",
 "reference_id": 108385,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sanduku la agano",
 "media_type": "Text",
 "index_reference": "sanduku la agano",
@@ -345,13 +315,21 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "realia:ArkOfTheCovenant",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ark of the Covenant"
+}
+]
 }
 },
 {
 "content_id": "367558",
 "reference_id": 108067,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sanhedrini",
 "media_type": "Text",
 "index_reference": "sanhedrini",
@@ -361,13 +339,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sanhedrin",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Sanhedrin"
+}
+]
 }
 },
 {
 "content_id": "367738",
 "reference_id": 108247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sara",
 "media_type": "Text",
 "index_reference": "sara",
@@ -381,9 +367,9 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "Sara",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sara"
 }
 ]
 }
@@ -391,7 +377,7 @@
 {
 "content_id": "367669",
 "reference_id": 108178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sardis",
 "media_type": "Text",
 "index_reference": "sardis",
@@ -403,11 +389,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Sarid",
+"id": "place:Sardis",
 "type": "place",
-"preferred_label": "Saridi",
-"confidence": 0.8147,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sardi"
 }
 ]
 }
@@ -415,7 +401,7 @@
 {
 "content_id": "367946",
 "reference_id": 108455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sauli",
 "media_type": "Text",
 "index_reference": "sauli",
@@ -429,9 +415,16 @@
 {
 "id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Sauli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sauli"
+},
+{
+"id": "person:Paul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paulo"
 }
 ]
 }
@@ -439,7 +432,7 @@
 {
 "content_id": "367865",
 "reference_id": 108374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sehemu ya kwanza ya mazao",
 "media_type": "Text",
 "index_reference": "sehemu ya kwanza ya mazao",
@@ -455,7 +448,7 @@
 {
 "content_id": "367715",
 "reference_id": 108224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sethi",
 "media_type": "Text",
 "index_reference": "sethi",
@@ -469,9 +462,9 @@
 {
 "id": "person:Seth",
 "type": "person",
-"preferred_label": "Sethi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sethi"
 }
 ]
 }
@@ -479,7 +472,7 @@
 {
 "content_id": "367695",
 "reference_id": 108204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shairi",
 "media_type": "Text",
 "index_reference": "shairi",
@@ -489,21 +482,13 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "person:Sharai",
-"type": "person",
-"preferred_label": "Sharai",
-"confidence": 0.8894,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "368024",
 "reference_id": 108533,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shairi la Alfabeti",
 "media_type": "Text",
 "index_reference": "shairi la alfabeti",
@@ -527,7 +512,7 @@
 {
 "content_id": "367773",
 "reference_id": 108282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shekemu",
 "media_type": "Text",
 "index_reference": "shekemu ",
@@ -539,32 +524,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Shechem",
-"type": "person",
-"preferred_label": "Shekemu",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Shechem.2",
 "type": "person",
-"preferred_label": "Shekemu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Shekemu"
 },
 {
 "id": "person:Shechem.3",
 "type": "person",
-"preferred_label": "Shekemu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Shekemu"
+},
+{
+"id": "person:Shechem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shekemu"
 },
 {
 "id": "place:Shechem",
 "type": "place",
-"preferred_label": "Shekemu",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Shekemu"
 }
 ]
 }
@@ -572,7 +557,7 @@
 {
 "content_id": "367905",
 "reference_id": 108414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shema",
 "media_type": "Text",
 "index_reference": "shema",
@@ -584,46 +569,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Shema",
-"type": "person",
-"preferred_label": "Shema",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Shema.2",
 "type": "person",
-"preferred_label": "Shema",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Shema"
 },
 {
 "id": "person:Shema.3",
 "type": "person",
-"preferred_label": "Shema",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Shema"
 },
 {
 "id": "person:Shema.4",
 "type": "person",
-"preferred_label": "Shema",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Shema"
+},
+{
+"id": "person:Shema",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shema"
 },
 {
 "id": "place:Shema",
 "type": "place",
-"preferred_label": "Shema",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shem",
-"type": "person",
-"preferred_label": "Shemu",
-"confidence": 0.8516,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Shema"
 }
 ]
 }
@@ -631,7 +609,7 @@
 {
 "content_id": "367732",
 "reference_id": 108241,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shemu",
 "media_type": "Text",
 "index_reference": "shemu",
@@ -645,51 +623,9 @@
 {
 "id": "person:Shem",
 "type": "person",
-"preferred_label": "Shemu",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Shema",
-"type": "person",
-"preferred_label": "Shema",
-"confidence": 0.8516,
-"match_method": "embedding"
-},
-{
-"id": "person:Shema.2",
-"type": "person",
-"preferred_label": "Shema",
-"confidence": 0.8516,
-"match_method": "embedding"
-},
-{
-"id": "person:Shema.3",
-"type": "person",
-"preferred_label": "Shema",
-"confidence": 0.8516,
-"match_method": "embedding"
-},
-{
-"id": "person:Shema.4",
-"type": "person",
-"preferred_label": "Shema",
-"confidence": 0.8516,
-"match_method": "embedding"
-},
-{
-"id": "place:Shema",
-"type": "place",
-"preferred_label": "Shema",
-"confidence": 0.8516,
-"match_method": "embedding"
-},
-{
-"id": "place:RedSea",
-"type": "place",
-"preferred_label": "Shamu",
-"confidence": 0.8404,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Shemu"
 }
 ]
 }
@@ -697,7 +633,7 @@
 {
 "content_id": "367873",
 "reference_id": 108382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shemu ya  Kumi",
 "media_type": "Text",
 "index_reference": "shemu ya  kumi",
@@ -713,7 +649,7 @@
 {
 "content_id": "367863",
 "reference_id": 108372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sherehe",
 "media_type": "Text",
 "index_reference": "sherehe",
@@ -729,7 +665,7 @@
 {
 "content_id": "367853",
 "reference_id": 108362,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sheria katika Kitabu cha Mambo ya Walawi",
 "media_type": "Text",
 "index_reference": "sheria katika kitabu cha mambo ya walawi",
@@ -745,7 +681,7 @@
 {
 "content_id": "367638",
 "reference_id": 108147,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sheria ya Kristo",
 "media_type": "Text",
 "index_reference": "sheria ya kristo",
@@ -761,7 +697,7 @@
 {
 "content_id": "367826",
 "reference_id": 108335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sheria ya Musa",
 "media_type": "Text",
 "index_reference": "sheria ya musa",
@@ -792,7 +728,7 @@
 {
 "content_id": "367561",
 "reference_id": 108070,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sheria za Kiyahudi",
 "media_type": "Text",
 "index_reference": "sheria za kiyahudi",
@@ -823,7 +759,7 @@
 {
 "content_id": "367944",
 "reference_id": 108453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shilo",
 "media_type": "Text",
 "index_reference": "shilo",
@@ -837,16 +773,16 @@
 {
 "id": "person:Shiloh",
 "type": "person",
-"preferred_label": "Shilo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Shilo"
 },
 {
 "id": "place:Shiloh",
 "type": "place",
-"preferred_label": "Shilo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Shilo"
 }
 ]
 }
@@ -854,7 +790,7 @@
 {
 "content_id": "367677",
 "reference_id": 108186,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shimo la kuzimu",
 "media_type": "Text",
 "index_reference": "shimo la kuzimu",
@@ -872,13 +808,21 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Abyss"
+}
+]
 }
 },
 {
 "content_id": "367886",
 "reference_id": 108395,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sihoni na Ogu",
 "media_type": "Text",
 "index_reference": "sihoni na ogu",
@@ -888,13 +832,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Og",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ogu"
+},
+{
+"id": "person:Sihon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sihoni"
+}
+]
 }
 },
 {
 "content_id": "367831",
 "reference_id": 108340,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siku 40",
 "media_type": "Text",
 "index_reference": "siku 40",
@@ -910,7 +869,7 @@
 {
 "content_id": "367663",
 "reference_id": 108172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siku ya Bwana",
 "media_type": "Text",
 "index_reference": "siku ya bwana",
@@ -926,7 +885,7 @@
 {
 "content_id": "368062",
 "reference_id": 108571,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siku ya Bwana",
 "media_type": "Text",
 "index_reference": "siku ya bwana",
@@ -957,7 +916,7 @@
 {
 "content_id": "367546",
 "reference_id": 108055,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siku ya hukumu",
 "media_type": "Text",
 "index_reference": "siku ya hukumu",
@@ -981,7 +940,7 @@
 {
 "content_id": "367704",
 "reference_id": 108213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siku ya Sabato",
 "media_type": "Text",
 "index_reference": "siku ya sabato",
@@ -997,7 +956,7 @@
 {
 "content_id": "367857",
 "reference_id": 108366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siku ya Upatanisho",
 "media_type": "Text",
 "index_reference": "siku ya upatanisho",
@@ -1021,7 +980,7 @@
 {
 "content_id": "368027",
 "reference_id": 108536,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siku za mwisho",
 "media_type": "Text",
 "index_reference": "siku za mwisho",
@@ -1037,7 +996,7 @@
 {
 "content_id": "367864",
 "reference_id": 108373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sikukuu ya Mikate Isiyotiwa Chachu",
 "media_type": "Text",
 "index_reference": "sikukuu ya mikate isiyotiwa chachu",
@@ -1053,7 +1012,7 @@
 {
 "content_id": "367808",
 "reference_id": 108317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sikukuu ya Pasaka",
 "media_type": "Text",
 "index_reference": "sikukuu ya pasaka",
@@ -1069,7 +1028,7 @@
 {
 "content_id": "368014",
 "reference_id": 108523,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sikukuu ya Purimu",
 "media_type": "Text",
 "index_reference": "sikukuu ya purimu",
@@ -1085,7 +1044,7 @@
 {
 "content_id": "367867",
 "reference_id": 108376,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sikukuu ya Tarumbeta",
 "media_type": "Text",
 "index_reference": "sikukuu ya tarumbeta",
@@ -1101,7 +1060,7 @@
 {
 "content_id": "367868",
 "reference_id": 108377,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sikukuu ya Vibanda",
 "media_type": "Text",
 "index_reference": "sikukuu ya vibanda",
@@ -1117,7 +1076,7 @@
 {
 "content_id": "367612",
 "reference_id": 108121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sila",
 "media_type": "Text",
 "index_reference": "sila",
@@ -1131,23 +1090,9 @@
 {
 "id": "person:Silas",
 "type": "person",
-"preferred_label": "Sila",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Zillah",
-"type": "person",
-"preferred_label": "Sila",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Silla",
-"type": "place",
-"preferred_label": "Sila",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sila"
 }
 ]
 }
@@ -1155,7 +1100,7 @@
 {
 "content_id": "367648",
 "reference_id": 108157,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Silaha ya kiroho",
 "media_type": "Text",
 "index_reference": "silaha ya kiroho",
@@ -1171,7 +1116,7 @@
 {
 "content_id": "367575",
 "reference_id": 108084,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siloamu",
 "media_type": "Text",
 "index_reference": "siloamu",
@@ -1181,13 +1126,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Siloam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Siloam"
+}
+]
 }
 },
 {
 "content_id": "367576",
 "reference_id": 108085,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Simoni Mkirene",
 "media_type": "Text",
 "index_reference": "simoni mkirene",
@@ -1197,13 +1150,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Simon.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Simoni"
+}
+]
 }
 },
 {
 "content_id": "367542",
 "reference_id": 108051,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sinagogi",
 "media_type": "Text",
 "index_reference": "sinagogi",
@@ -1213,13 +1174,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Synagogue"
+}
+]
 }
 },
 {
 "content_id": "367665",
 "reference_id": 108174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Smirna",
 "media_type": "Text",
 "index_reference": "smirna",
@@ -1233,9 +1202,9 @@
 {
 "id": "place:Smyrna",
 "type": "place",
-"preferred_label": "Smirna",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Smirna"
 }
 ]
 }
@@ -1243,7 +1212,7 @@
 {
 "content_id": "367740",
 "reference_id": 108249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sodoma na Gomora",
 "media_type": "Text",
 "index_reference": "sodoma na gomora",
@@ -1253,13 +1222,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomora"
+},
+{
+"id": "place:Sodom",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sodoma"
+}
+]
 }
 },
 {
 "content_id": "367592",
 "reference_id": 108101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Stefano",
 "media_type": "Text",
 "index_reference": "stefano",
@@ -1273,16 +1257,9 @@
 {
 "id": "person:Stephen",
 "type": "person",
-"preferred_label": "Stefano",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Stephanas",
-"type": "person",
-"preferred_label": "Stefana",
-"confidence": 0.814,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Stefano"
 }
 ]
 }
@@ -1290,7 +1267,7 @@
 {
 "content_id": "367964",
 "reference_id": 108473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sulemani",
 "media_type": "Text",
 "index_reference": "sulemani",
@@ -1304,9 +1281,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "Sulemani",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Sulemani"
 }
 ]
 }
@@ -1314,7 +1291,7 @@
 {
 "content_id": "368008",
 "reference_id": 108517,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Susa",
 "media_type": "Text",
 "index_reference": "susa",
@@ -1324,7 +1301,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Susa",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Washushani"
+}
+]
 }
 }
 ]

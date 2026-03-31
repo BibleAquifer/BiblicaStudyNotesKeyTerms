@@ -2,7 +2,7 @@
 {
 "content_id": "232908",
 "reference_id": 108307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "長老",
 "media_type": "Text",
 "index_reference": "長老",
@@ -12,16 +12,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericElders",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Elders"
+}
+]
 }
 },
 {
 "content_id": "232871",
 "reference_id": 108270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "長子名分（權利）",
 "media_type": "Text",
-"index_reference": "長子名分（權利）",
+"index_reference": "長子名分權利",
 "language": "zht",
 "review_level": "None",
 "content": "<p>長子獲得家庭財產的權柄和份額。這發生在家中的父親去世時。長子獲得的財產是其他兒子的兩倍。他像父親一樣對家庭其他成員擁有權柄。他有責任成為家庭的領袖。</p>",

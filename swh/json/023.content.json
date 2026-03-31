@@ -2,7 +2,7 @@
 {
 "content_id": "367815",
 "reference_id": 108324,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Waamaleki",
 "media_type": "Text",
 "index_reference": "waamaleki",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amalekites"
+}
+]
 }
 },
 {
 "content_id": "367903",
 "reference_id": 108412,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Waamoni",
 "media_type": "Text",
 "index_reference": "waamoni",
@@ -30,11 +38,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Ammon",
-"type": "place",
-"preferred_label": "Waamoni",
+"id": "group:Ammon",
+"type": "group",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ammonites"
 }
 ]
 }
@@ -42,7 +50,7 @@
 {
 "content_id": "367904",
 "reference_id": 108413,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Waamori",
 "media_type": "Text",
 "index_reference": "waamori",
@@ -54,11 +62,11 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Aramitess",
-"type": "person",
-"preferred_label": "Mwarami",
-"confidence": 0.8109,
-"match_method": "embedding"
+"id": "group:Amorites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amorites"
 }
 ]
 }
@@ -66,7 +74,7 @@
 {
 "content_id": "367623",
 "reference_id": 108132,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Waepikuro",
 "media_type": "Text",
 "index_reference": "waepikuro",
@@ -76,13 +84,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Epicurean",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Epicureans"
+}
+]
 }
 },
 {
 "content_id": "367758",
 "reference_id": 108267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wafilisti",
 "media_type": "Text",
 "index_reference": "wafilisti",
@@ -96,23 +112,9 @@
 {
 "id": "group:Philistine",
 "type": "group",
-"preferred_label": "Wafilisti",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Philistine",
-"type": "person",
-"preferred_label": "Wafilisti",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "place:Philistine",
-"type": "place",
-"preferred_label": "Wafilisti",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Wafilisti"
 }
 ]
 }
@@ -120,7 +122,7 @@
 {
 "content_id": "367573",
 "reference_id": 108082,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wagerasi",
 "media_type": "Text",
 "index_reference": "wagerasi",
@@ -136,7 +138,7 @@
 {
 "content_id": "367553",
 "reference_id": 108062,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Waherode",
 "media_type": "Text",
 "index_reference": "waherode",
@@ -146,13 +148,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Herodian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Herodians"
+}
+]
 }
 },
 {
 "content_id": "367918",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wahivi",
 "media_type": "Text",
 "index_reference": "wahivi",
@@ -164,11 +174,11 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Kadesh",
-"type": "place",
-"preferred_label": "Wahiti",
-"confidence": 0.8344,
-"match_method": "embedding"
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
 }
 ]
 }
@@ -176,7 +186,7 @@
 {
 "content_id": "367784",
 "reference_id": 108293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wajibu wa shemeji",
 "media_type": "Text",
 "index_reference": "wajibu wa shemeji",
@@ -192,7 +202,7 @@
 {
 "content_id": "367768",
 "reference_id": 108277,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wake",
 "media_type": "Text",
 "index_reference": "wake",
@@ -216,7 +226,7 @@
 {
 "content_id": "367834",
 "reference_id": 108343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Walawi",
 "media_type": "Text",
 "index_reference": "walawi",
@@ -238,30 +248,9 @@
 {
 "id": "group:Levi",
 "type": "group",
-"preferred_label": "Walawi",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Levi",
-"type": "person",
-"preferred_label": "Walawi",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Levi.2",
-"type": "person",
-"preferred_label": "Walawi",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"preferred_label": "Walawi",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Walawi"
 }
 ]
 }
@@ -269,7 +258,7 @@
 {
 "content_id": "367539",
 "reference_id": 108048,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Walimu wa sheria",
 "media_type": "Text",
 "index_reference": "walimu wa sheria",
@@ -285,7 +274,7 @@
 {
 "content_id": "367794",
 "reference_id": 108303,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wamidiani",
 "media_type": "Text",
 "index_reference": "wamidiani",
@@ -295,13 +284,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midianites"
+}
+]
 }
 },
 {
 "content_id": "367722",
 "reference_id": 108231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wana wa Mungu",
 "media_type": "Text",
 "index_reference": "wana wa mungu",
@@ -317,7 +314,7 @@
 {
 "content_id": "367875",
 "reference_id": 108384,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wanadhiri",
 "media_type": "Text",
 "index_reference": "wanadhiri",
@@ -327,13 +324,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazirites"
+}
+]
 }
 },
 {
 "content_id": "367751",
 "reference_id": 108260,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wanaume watatu",
 "media_type": "Text",
 "index_reference": "wanaume watatu",
@@ -349,7 +354,7 @@
 {
 "content_id": "367952",
 "reference_id": 108461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wastani",
 "media_type": "Text",
 "index_reference": "wastani",
@@ -365,7 +370,7 @@
 {
 "content_id": "367622",
 "reference_id": 108131,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wastoiki",
 "media_type": "Text",
 "index_reference": "wastoiki",
@@ -375,13 +380,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Stoic",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Stoics"
+}
+]
 }
 },
 {
 "content_id": "367700",
 "reference_id": 108209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Watawala",
 "media_type": "Text",
 "index_reference": "watawala",
@@ -391,13 +404,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericRulers",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Rulers"
+}
+]
 }
 },
 {
 "content_id": "367793",
 "reference_id": 108302,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Watu wa Mungu",
 "media_type": "Text",
 "index_reference": "watu wa mungu",
@@ -415,13 +436,21 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Israel",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Israelites"
+}
+]
 }
 },
 {
 "content_id": "368016",
 "reference_id": 108525,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Watu wasio waumini",
 "media_type": "Text",
 "index_reference": "watu wasio waumini",
@@ -437,7 +466,7 @@
 {
 "content_id": "367524",
 "reference_id": 108033,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Watu wenye hekima",
 "media_type": "Text",
 "index_reference": "watu wenye hekima",
@@ -453,7 +482,7 @@
 {
 "content_id": "367909",
 "reference_id": 108418,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Watu wenye mahitaji",
 "media_type": "Text",
 "index_reference": "watu wenye mahitaji",
@@ -469,7 +498,7 @@
 {
 "content_id": "367869",
 "reference_id": 108378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Watumishi",
 "media_type": "Text",
 "index_reference": "watumishi",
@@ -483,9 +512,9 @@
 {
 "id": "group:GenericServants",
 "type": "group",
-"preferred_label": "Servants",
-"confidence": 0.8092,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Servants"
 }
 ]
 }
@@ -493,7 +522,7 @@
 {
 "content_id": "367749",
 "reference_id": 108258,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Watumwa",
 "media_type": "Text",
 "index_reference": "watumwa",
@@ -509,7 +538,7 @@
 {
 "content_id": "367995",
 "reference_id": 108504,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wayebusi",
 "media_type": "Text",
 "index_reference": "wayebusi",
@@ -519,13 +548,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jebusites"
+}
+]
 }
 },
 {
 "content_id": "367798",
 "reference_id": 108307,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wazee",
 "media_type": "Text",
 "index_reference": "wazee",
@@ -535,13 +572,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericElders",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Elders"
+}
+]
 }
 },
 {
 "content_id": "367672",
 "reference_id": 108181,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wazee 24",
 "media_type": "Text",
 "index_reference": "wazee 24",
@@ -557,7 +602,7 @@
 {
 "content_id": "367609",
 "reference_id": 108118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wazee wa kanisa",
 "media_type": "Text",
 "index_reference": "wazee wa kanisa",
@@ -573,7 +618,7 @@
 {
 "content_id": "367597",
 "reference_id": 108106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Weka mikono",
 "media_type": "Text",
 "index_reference": "weka mikono",
@@ -589,7 +634,7 @@
 {
 "content_id": "649859",
 "reference_id": 209393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wimbo Mpya",
 "media_type": "Text",
 "index_reference": "wimbo mpya",
@@ -618,7 +663,7 @@
 {
 "content_id": "367812",
 "reference_id": 108321,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wingu",
 "media_type": "Text",
 "index_reference": "wingu",
@@ -634,7 +679,7 @@
 {
 "content_id": "367657",
 "reference_id": 108166,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wingu la mashahidi",
 "media_type": "Text",
 "index_reference": "wingu la mashahidi",
@@ -650,7 +695,7 @@
 {
 "content_id": "367836",
 "reference_id": 108345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wivu",
 "media_type": "Text",
 "index_reference": "wivu",
@@ -660,13 +705,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "BWANA"
+}
+]
 }
 },
 {
 "content_id": "367687",
 "reference_id": 108196,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Wokovu",
 "media_type": "Text",
 "index_reference": "wokovu",
@@ -684,7 +737,15 @@
 "language": "swh"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Salvation",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Salvation"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "368054",
 "reference_id": 108563,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gabrieli",
 "media_type": "Text",
 "index_reference": "gabrieli",
@@ -16,9 +16,9 @@
 {
 "id": "deity:Gabriel",
 "type": "deity",
-"preferred_label": "Gabrieli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gabrieli"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "367899",
 "reference_id": 108408,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gadi",
 "media_type": "Text",
 "index_reference": "gadi",
@@ -38,32 +38,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gad",
-"type": "person",
-"preferred_label": "Gadi",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gad.2",
 "type": "person",
-"preferred_label": "Gadi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gadi"
 },
 {
-"id": "person:Gaddi",
+"id": "person:Gad",
 "type": "person",
-"preferred_label": "Gadi",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Gadi",
-"type": "person",
-"preferred_label": "Gadi",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gadi"
 }
 ]
 }
@@ -71,7 +57,7 @@
 {
 "content_id": "367613",
 "reference_id": 108122,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galatia",
 "media_type": "Text",
 "index_reference": "galatia",
@@ -85,9 +71,9 @@
 {
 "id": "place:Galatia",
 "type": "place",
-"preferred_label": "Galatia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galatia"
 }
 ]
 }
@@ -95,7 +81,7 @@
 {
 "content_id": "367527",
 "reference_id": 108036,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Galilaya",
 "media_type": "Text",
 "index_reference": "galilaya",
@@ -109,9 +95,9 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"preferred_label": "Galilaya",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Galilaya"
 }
 ]
 }
@@ -119,7 +105,7 @@
 {
 "content_id": "367590",
 "reference_id": 108099,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gamalieli",
 "media_type": "Text",
 "index_reference": "gamalieli",
@@ -131,18 +117,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gamaliel",
-"type": "person",
-"preferred_label": "Gamalieli",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gamaliel.2",
 "type": "person",
-"preferred_label": "Gamalieli",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gamalieli"
+},
+{
+"id": "person:Gamaliel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gamalieli"
 }
 ]
 }
@@ -150,7 +136,7 @@
 {
 "content_id": "367928",
 "reference_id": 108437,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gideoni",
 "media_type": "Text",
 "index_reference": "gideoni",
@@ -164,16 +150,9 @@
 {
 "id": "person:Gideon",
 "type": "person",
-"preferred_label": "Gideoni",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Gideoni",
-"type": "person",
-"preferred_label": "Gideoni",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gideoni"
 }
 ]
 }
@@ -181,7 +160,7 @@
 {
 "content_id": "367932",
 "reference_id": 108441,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gileadi",
 "media_type": "Text",
 "index_reference": "gileadi",
@@ -193,39 +172,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gilead",
-"type": "person",
-"preferred_label": "Gileadi",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Gilead.2",
 "type": "person",
-"preferred_label": "Gileadi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gileadi"
 },
 {
 "id": "person:Gilead.3",
 "type": "person",
-"preferred_label": "Gileadi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gileadi"
 },
 {
-"id": "place:GilboaMount",
-"type": "place",
-"preferred_label": "Gileadi",
+"id": "person:Gilead",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gileadi"
 },
 {
 "id": "place:Gilead",
 "type": "place",
-"preferred_label": "Gileadi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gileadi"
 }
 ]
 }
@@ -233,7 +205,7 @@
 {
 "content_id": "367913",
 "reference_id": 108422,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gilgali",
 "media_type": "Text",
 "index_reference": "gilgali",
@@ -245,11 +217,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Gilalai",
-"type": "person",
-"preferred_label": "Gilalai",
-"confidence": 0.8086,
-"match_method": "embedding"
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilaya"
 }
 ]
 }
@@ -257,7 +236,7 @@
 {
 "content_id": "367530",
 "reference_id": 108039,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Giza",
 "media_type": "Text",
 "index_reference": "giza",
@@ -275,21 +254,13 @@
 "language": "swh"
 }
 ],
-"acai": [
-{
-"id": "place:Gaza",
-"type": "place",
-"preferred_label": "Gaza",
-"confidence": 0.8076,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "367788",
 "reference_id": 108297,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Gosheni",
 "media_type": "Text",
 "index_reference": "gosheni",
@@ -301,18 +272,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Goshen",
-"type": "place",
-"preferred_label": "Gosheni",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Goshen.2",
 "type": "place",
-"preferred_label": "Gosheni",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Gosheni"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gosheni"
 }
 ]
 }

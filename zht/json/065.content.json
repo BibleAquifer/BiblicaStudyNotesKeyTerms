@@ -2,7 +2,7 @@
 {
 "content_id": "232867",
 "reference_id": 108266,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "利百加",
 "media_type": "Text",
 "index_reference": "利百加",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Rebekah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rebekah"
+}
+]
 }
 },
 {
 "content_id": "232984",
 "reference_id": 108383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "利未",
 "media_type": "Text",
 "index_reference": "利未",
@@ -28,13 +36,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Levi.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Levi"
+},
+{
+"id": "person:Levi.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Levi"
+},
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Matthew"
+},
+{
+"id": "person:Levi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Levi"
+}
+]
 }
 },
 {
 "content_id": "232963",
 "reference_id": 108362,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "利未記的律法",
 "media_type": "Text",
 "index_reference": "利未記的律法",
@@ -50,7 +87,7 @@
 {
 "content_id": "232944",
 "reference_id": 108343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "利未人",
 "media_type": "Text",
 "index_reference": "利未人",
@@ -68,13 +105,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tribe of Levi"
+}
+]
 }
 },
 {
 "content_id": "232876",
 "reference_id": 108275,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "利亞",
 "media_type": "Text",
 "index_reference": "利亞",
@@ -84,7 +129,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Leah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leah"
+}
+]
 }
 }
 ]

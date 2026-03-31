@@ -2,7 +2,7 @@
 {
 "content_id": "193184",
 "reference_id": 108102,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Павел",
 "media_type": "Text",
 "index_reference": "павел",
@@ -16,9 +16,9 @@
 {
 "id": "person:Paul",
 "type": "person",
-"preferred_label": "Павел",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Павел"
 }
 ]
 }
@@ -26,10 +26,10 @@
 {
 "content_id": "193360",
 "reference_id": 108278,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пастух (пастырь)",
 "media_type": "Text",
-"index_reference": "пастух (пастырь)",
+"index_reference": "пастух пастырь",
 "language": "rus",
 "review_level": "None",
 "content": "<p><span>Человек, который разводит домашний скот, например, овец. В Ветхом Завете Авраам и многие члены его семьи были пастухами. Они переходили с одного места на другое в поисках травы для своих стад. Пастухом или пастырем называют также начальника или главу, который должен заботится о других людях. Израильских царей часто называли негодными пастырями. Бог является добрым Пастырем для Своего народа. В Новом Завете руководители Церкви являются пастырями для всех остальных учеников Иисуса. Сам Иисус является добрым Пастырем для Божьего народа.</span></p>",
@@ -42,7 +42,7 @@
 {
 "content_id": "193399",
 "reference_id": 108317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пасха",
 "media_type": "Text",
 "index_reference": "пасха",
@@ -58,7 +58,7 @@
 {
 "content_id": "193253",
 "reference_id": 108171,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Патмос",
 "media_type": "Text",
 "index_reference": "патмос",
@@ -72,9 +72,9 @@
 {
 "id": "place:Patmos",
 "type": "place",
-"preferred_label": "Патмос",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Патмос"
 }
 ]
 }
@@ -82,7 +82,7 @@
 {
 "content_id": "193369",
 "reference_id": 108287,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Патриарх",
 "media_type": "Text",
 "index_reference": "патриарх",
@@ -98,7 +98,7 @@
 {
 "content_id": "193450",
 "reference_id": 108368,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Первосвященник",
 "media_type": "Text",
 "index_reference": "первосвященник",
@@ -114,7 +114,7 @@
 {
 "content_id": "193258",
 "reference_id": 108176,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пергам",
 "media_type": "Text",
 "index_reference": "пергам",
@@ -128,9 +128,9 @@
 {
 "id": "place:Pergamum",
 "type": "place",
-"preferred_label": "Пергам",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Пергам"
 }
 ]
 }
@@ -138,7 +138,7 @@
 {
 "content_id": "193591",
 "reference_id": 108509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Персия",
 "media_type": "Text",
 "index_reference": "персия",
@@ -152,16 +152,9 @@
 {
 "id": "place:Persia",
 "type": "place",
-"preferred_label": "Персия",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Persis",
-"type": "person",
-"preferred_label": "Персида",
-"confidence": 0.8118,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Персия"
 }
 ]
 }
@@ -169,7 +162,7 @@
 {
 "content_id": "193654",
 "reference_id": 108572,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пётр",
 "media_type": "Text",
 "index_reference": "пётр",
@@ -183,9 +176,9 @@
 {
 "id": "person:Peter",
 "type": "person",
-"preferred_label": "Пётр",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Пётр"
 }
 ]
 }
@@ -193,7 +186,7 @@
 {
 "content_id": "193604",
 "reference_id": 108522,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Печать",
 "media_type": "Text",
 "index_reference": "печать",
@@ -203,16 +196,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Seal",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seal"
+}
+]
 }
 },
 {
 "content_id": "193577",
 "reference_id": 108495,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Плен (изгнание)",
 "media_type": "Text",
-"index_reference": "плен (изгнание)",
+"index_reference": "плен изгнание",
 "language": "rus",
 "review_level": "None",
 "content": "<p>Ситуация, когда люди вынуждены оставлять свой дом и родную землю и жить в другом месте. Пленение было одним из проклятий завета, заключённого на горе Синай. Многие израильтяне из Северного Царства были уведены в плен в Ассирию, где жили в изгнании. Они так и не вернулись обратно на свою землю в Израиль. Многие израильтяне из Южного Царства были уведены в плен в Вавилон, где жили в изгнании много лет. Некоторые из них вернулись обратно в Иудею.</p>",
@@ -225,7 +226,7 @@
 {
 "content_id": "193236",
 "reference_id": 108154,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Плод Святого Духа",
 "media_type": "Text",
 "index_reference": "плод святого духа",
@@ -241,7 +242,7 @@
 {
 "content_id": "193428",
 "reference_id": 108346,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Покаяние",
 "media_type": "Text",
 "index_reference": "покаяние",
@@ -259,13 +260,21 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Repent",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Repent"
+}
+]
 }
 },
 {
 "content_id": "193414",
 "reference_id": 108332,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Поклонение только Богу",
 "media_type": "Text",
 "index_reference": "поклонение только богу",
@@ -281,7 +290,7 @@
 {
 "content_id": "193294",
 "reference_id": 108212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Покой",
 "media_type": "Text",
 "index_reference": "покой",
@@ -297,7 +306,7 @@
 {
 "content_id": "193442",
 "reference_id": 108360,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Помазанный",
 "media_type": "Text",
 "index_reference": "помазанный",
@@ -315,13 +324,21 @@
 "language": "rus"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Anointed",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Anointed"
+}
+]
 }
 },
 {
 "content_id": "193202",
 "reference_id": 108120,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Послания Павла",
 "media_type": "Text",
 "index_reference": "послания павла",
@@ -337,7 +354,7 @@
 {
 "content_id": "193255",
 "reference_id": 108173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Послания церквям",
 "media_type": "Text",
 "index_reference": "послания церквям",
@@ -353,7 +370,7 @@
 {
 "content_id": "193618",
 "reference_id": 108536,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Последние дни",
 "media_type": "Text",
 "index_reference": "последние дни",
@@ -369,7 +386,7 @@
 {
 "content_id": "193418",
 "reference_id": 108336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Посредник",
 "media_type": "Text",
 "index_reference": "посредник",
@@ -385,7 +402,7 @@
 {
 "content_id": "193538",
 "reference_id": 108456,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пост",
 "media_type": "Text",
 "index_reference": "пост",
@@ -401,7 +418,7 @@
 {
 "content_id": "193316",
 "reference_id": 108234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Потоп",
 "media_type": "Text",
 "index_reference": "потоп",
@@ -425,7 +442,7 @@
 {
 "content_id": "193286",
 "reference_id": 108204,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Поэзия",
 "media_type": "Text",
 "index_reference": "поэзия",
@@ -441,7 +458,7 @@
 {
 "content_id": "193336",
 "reference_id": 108254,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Праведность",
 "media_type": "Text",
 "index_reference": "праведность",
@@ -457,7 +474,7 @@
 {
 "content_id": "193291",
 "reference_id": 108209,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Правитель",
 "media_type": "Text",
 "index_reference": "правитель",
@@ -467,13 +484,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:GenericRulers",
+"type": "group",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Rulers"
+}
+]
 }
 },
 {
 "content_id": "193352",
 "reference_id": 108270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Право первородства",
 "media_type": "Text",
 "index_reference": "право первородства",
@@ -489,7 +514,7 @@
 {
 "content_id": "193459",
 "reference_id": 108377,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Праздник Кущей",
 "media_type": "Text",
 "index_reference": "праздник кущей",
@@ -505,7 +530,7 @@
 {
 "content_id": "193455",
 "reference_id": 108373,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Праздник Опресноков",
 "media_type": "Text",
 "index_reference": "праздник опресноков",
@@ -521,7 +546,7 @@
 {
 "content_id": "193605",
 "reference_id": 108523,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Праздник Пурим",
 "media_type": "Text",
 "index_reference": "праздник пурим",
@@ -537,7 +562,7 @@
 {
 "content_id": "193458",
 "reference_id": 108376,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Праздник Труб",
 "media_type": "Text",
 "index_reference": "праздник труб",
@@ -553,7 +578,7 @@
 {
 "content_id": "193454",
 "reference_id": 108372,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Праздники",
 "media_type": "Text",
 "index_reference": "праздники",
@@ -569,7 +594,7 @@
 {
 "content_id": "193200",
 "reference_id": 108118,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пресвитеры",
 "media_type": "Text",
 "index_reference": "пресвитеры",
@@ -585,7 +610,7 @@
 {
 "content_id": "193456",
 "reference_id": 108374,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Приношение первых плодов",
 "media_type": "Text",
 "index_reference": "приношение первых плодов ",
@@ -601,7 +626,7 @@
 {
 "content_id": "193613",
 "reference_id": 108531,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Притча",
 "media_type": "Text",
 "index_reference": "притча",
@@ -611,13 +636,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Proverb"
+}
+]
 }
 },
 {
 "content_id": "193138",
 "reference_id": 108056,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Притчи",
 "media_type": "Text",
 "index_reference": "притчи",
@@ -633,7 +666,7 @@
 {
 "content_id": "193462",
 "reference_id": 108380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Проклятия завета",
 "media_type": "Text",
 "index_reference": "проклятия завета",
@@ -649,7 +682,7 @@
 {
 "content_id": "193498",
 "reference_id": 108416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пророк",
 "media_type": "Text",
 "index_reference": "пророк",
@@ -673,7 +706,7 @@
 {
 "content_id": "193619",
 "reference_id": 108537,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пророческое действие",
 "media_type": "Text",
 "index_reference": "пророческое действие",
@@ -689,7 +722,7 @@
 {
 "content_id": "193616",
 "reference_id": 108534,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пророчества о суде",
 "media_type": "Text",
 "index_reference": "пророчества о суде",
@@ -705,7 +738,7 @@
 {
 "content_id": "193482",
 "reference_id": 108400,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пророчества об Иисусе",
 "media_type": "Text",
 "index_reference": "пророчества об иисусе",
@@ -729,7 +762,7 @@
 {
 "content_id": "193481",
 "reference_id": 108399,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пророчество",
 "media_type": "Text",
 "index_reference": "пророчество",
@@ -745,7 +778,7 @@
 {
 "content_id": "193363",
 "reference_id": 108281,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Прощать",
 "media_type": "Text",
 "index_reference": "прощать",
@@ -759,9 +792,9 @@
 {
 "id": "keyterm:Forgive",
 "type": "keyterm",
-"preferred_label": "Forgive",
-"confidence": 0.914,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Forgive"
 }
 ]
 }
@@ -769,7 +802,7 @@
 {
 "content_id": "193193",
 "reference_id": 108111,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Путешествия Павла",
 "media_type": "Text",
 "index_reference": "путешествия павла",
@@ -785,7 +818,7 @@
 {
 "content_id": "193187",
 "reference_id": 108105,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Путь Господень",
 "media_type": "Text",
 "index_reference": "путь господень",
@@ -801,7 +834,7 @@
 {
 "content_id": "193457",
 "reference_id": 108375,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Пятидесятница",
 "media_type": "Text",
 "index_reference": "пятидесятница",

@@ -2,7 +2,7 @@
 {
 "content_id": "183442",
 "reference_id": 108548,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "तलवार",
 "media_type": "Text",
 "index_reference": "तलवार",
@@ -16,9 +16,9 @@
 {
 "id": "realia:Sword",
 "type": "realia",
-"preferred_label": "Sword",
-"confidence": 0.8326,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sword"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "183408",
 "reference_id": 108514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "तलाक",
 "media_type": "Text",
 "index_reference": "तलाक",
@@ -50,7 +50,7 @@
 {
 "content_id": "183186",
 "reference_id": 108292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "तामार",
 "media_type": "Text",
 "index_reference": "तामार",
@@ -62,32 +62,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Tamar",
-"type": "person",
-"preferred_label": "तामार",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Tamar.2",
 "type": "person",
-"preferred_label": "तामार",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "तामार"
 },
 {
 "id": "person:Tamar.3",
 "type": "person",
-"preferred_label": "तामार",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "तामार"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तामार"
 },
 {
 "id": "place:Tamar.2",
 "type": "place",
-"preferred_label": "तामार",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "तामार"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तदमोर"
 }
 ]
 }
@@ -95,23 +102,31 @@
 {
 "content_id": "183365",
 "reference_id": 108471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "तामार- दाऊद",
 "media_type": "Text",
-"index_reference": "तामार- दाऊद",
+"index_reference": "तामार दाऊद",
 "language": "hin",
 "review_level": "None",
 "content": "<p>दाऊद और माका की बेटी। उसके और अबशालोम के माता-पिता एक ही थे। उसके और अम्नोन के पिता एक ही थे। अम्नोन ने तब तामार का बलात्कार किया जब वह कुंवारी थी। फिर उसने उसे अपने घर से बाहर निकाल दिया। उन दिनों, यह उसे तलाक देने के समान था। बलात्कार होना और फिर शादी न होना तामार के समुदाय में उसके लिए शर्म की बात थी। इसका मतलब था कि शायद उसकी शादी नहीं होगी या उसका अपना परिवार नहीं होगा। इसके बाद वह अबशालोम के साथ रहने लगी।</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "तामार"
+}
+]
 }
 },
 {
 "content_id": "183046",
 "reference_id": 108152,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "तीतुस",
 "media_type": "Text",
 "index_reference": "तीतुस",
@@ -125,9 +140,9 @@
 {
 "id": "person:Titus",
 "type": "person",
-"preferred_label": "तीतुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "तीतुस"
 }
 ]
 }
@@ -135,7 +150,7 @@
 {
 "content_id": "183154",
 "reference_id": 108260,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "तीन पुरुष",
 "media_type": "Text",
 "index_reference": "तीन पुरुष",
@@ -151,7 +166,7 @@
 {
 "content_id": "183018",
 "reference_id": 108124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "तीमुथियुस",
 "media_type": "Text",
 "index_reference": "तीमुथियुस",
@@ -165,9 +180,9 @@
 {
 "id": "person:Timothy",
 "type": "person",
-"preferred_label": "तीमुथियुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "तीमुथियुस"
 }
 ]
 }
@@ -175,7 +190,7 @@
 {
 "content_id": "183280",
 "reference_id": 108386,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "तुरही",
 "media_type": "Text",
 "index_reference": "तुरही",
@@ -185,7 +200,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Trumpet",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Trumpet"
+}
+]
 }
 }
 ]

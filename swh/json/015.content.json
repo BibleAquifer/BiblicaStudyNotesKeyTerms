@@ -2,7 +2,7 @@
 {
 "content_id": "367979",
 "reference_id": 108488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Naamani",
 "media_type": "Text",
 "index_reference": "naamani",
@@ -14,32 +14,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Naaman",
-"type": "person",
-"preferred_label": "Naamani",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Naaman.2",
 "type": "person",
-"preferred_label": "Naamani",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Naamani"
 },
 {
 "id": "person:Naaman.3",
 "type": "person",
-"preferred_label": "Naamani",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Naamani"
 },
 {
 "id": "person:Naaman.4",
 "type": "person",
-"preferred_label": "Naamani",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Naamani"
+},
+{
+"id": "person:Naaman",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naamani"
 }
 ]
 }
@@ -47,7 +47,7 @@
 {
 "content_id": "367907",
 "reference_id": 108416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nabii",
 "media_type": "Text",
 "index_reference": "nabii",
@@ -71,7 +71,7 @@
 {
 "content_id": "368041",
 "reference_id": 108550,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nabii wa uongo",
 "media_type": "Text",
 "index_reference": "nabii wa uongo",
@@ -95,7 +95,7 @@
 {
 "content_id": "367847",
 "reference_id": 108356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nadabu na Abihu",
 "media_type": "Text",
 "index_reference": "nadabu na abihu",
@@ -105,13 +105,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abihu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abihu"
+},
+{
+"id": "person:Nadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadabu"
+},
+{
+"id": "person:Nadab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadabu"
+},
+{
+"id": "person:Nadab.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadabu"
+},
+{
+"id": "person:Nadab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nadabu"
+}
+]
 }
 },
 {
 "content_id": "367674",
 "reference_id": 108183,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nambari",
 "media_type": "Text",
 "index_reference": "nambari",
@@ -127,7 +163,7 @@
 {
 "content_id": "367961",
 "reference_id": 108470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nathan",
 "media_type": "Text",
 "index_reference": "nathan",
@@ -137,13 +173,56 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Nathan.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathani"
+},
+{
+"id": "person:Nathan.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathani"
+},
+{
+"id": "person:Nathan.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathani"
+},
+{
+"id": "person:Nathan.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathani"
+},
+{
+"id": "person:Nathan.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathani"
+},
+{
+"id": "person:Nathan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathani"
+}
+]
 }
 },
 {
 "content_id": "367562",
 "reference_id": 108071,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nazareti",
 "media_type": "Text",
 "index_reference": "nazareti",
@@ -157,9 +236,9 @@
 {
 "id": "place:Nazareth",
 "type": "place",
-"preferred_label": "Nazareti",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nazareti"
 }
 ]
 }
@@ -167,7 +246,7 @@
 {
 "content_id": "367832",
 "reference_id": 108341,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ndama wa chuma",
 "media_type": "Text",
 "index_reference": "ndama wa chuma",
@@ -191,7 +270,7 @@
 {
 "content_id": "367697",
 "reference_id": 108206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ndoa",
 "media_type": "Text",
 "index_reference": "ndoa",
@@ -207,7 +286,7 @@
 {
 "content_id": "367764",
 "reference_id": 108273,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ndoto",
 "media_type": "Text",
 "index_reference": "ndoto",
@@ -223,7 +302,7 @@
 {
 "content_id": "367992",
 "reference_id": 108501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nebukadneza",
 "media_type": "Text",
 "index_reference": "nebukadneza",
@@ -237,9 +316,9 @@
 {
 "id": "person:Nebuchadnezzar",
 "type": "person",
-"preferred_label": "Nebukadneza",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nebukadneza"
 }
 ]
 }
@@ -247,7 +326,7 @@
 {
 "content_id": "367726",
 "reference_id": 108235,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Neema",
 "media_type": "Text",
 "index_reference": "neema",
@@ -263,7 +342,7 @@
 {
 "content_id": "368006",
 "reference_id": 108515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nehemia",
 "media_type": "Text",
 "index_reference": "nehemia",
@@ -275,25 +354,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nehemiah",
-"type": "person",
-"preferred_label": "Nehemia",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Nehemiah.2",
 "type": "person",
-"preferred_label": "Nehemia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nehemia"
 },
 {
 "id": "person:Nehemiah.3",
 "type": "person",
-"preferred_label": "Nehemia",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nehemia"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nehemia"
 }
 ]
 }
@@ -301,7 +380,7 @@
 {
 "content_id": "367691",
 "reference_id": 108200,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Neno la Mungu",
 "media_type": "Text",
 "index_reference": "neno la mungu",
@@ -325,7 +404,7 @@
 {
 "content_id": "367579",
 "reference_id": 108088,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nikodemo",
 "media_type": "Text",
 "index_reference": "nikodemo",
@@ -339,9 +418,9 @@
 {
 "id": "person:Nicodemus",
 "type": "person",
-"preferred_label": "Nikodemo",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Nikodemo"
 }
 ]
 }
@@ -349,7 +428,7 @@
 {
 "content_id": "368065",
 "reference_id": 108574,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nineve",
 "media_type": "Text",
 "index_reference": "nineve",
@@ -359,13 +438,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Nineveh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ninawi"
+}
+]
 }
 },
 {
 "content_id": "367596",
 "reference_id": 108105,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Njia ya Yesu",
 "media_type": "Text",
 "index_reference": "njia ya yesu",
@@ -381,7 +468,7 @@
 {
 "content_id": "367721",
 "reference_id": 108230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nohu",
 "media_type": "Text",
 "index_reference": "nohu",
@@ -393,11 +480,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nogah",
+"id": "person:Noah.2",
 "type": "person",
-"preferred_label": "Noga",
-"confidence": 0.8123,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nuhu"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nuhu"
 }
 ]
 }
@@ -405,7 +499,7 @@
 {
 "content_id": "367872",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nunua tena",
 "media_type": "Text",
 "index_reference": "nunua tena",
@@ -421,7 +515,7 @@
 {
 "content_id": "368036",
 "reference_id": 108545,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Nuru kwa Mataifa",
 "media_type": "Text",
 "index_reference": "nuru kwa mataifa",

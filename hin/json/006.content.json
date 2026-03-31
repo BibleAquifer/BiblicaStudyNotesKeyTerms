@@ -2,7 +2,7 @@
 {
 "content_id": "183373",
 "reference_id": 108479,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "उत्तरी राज्य",
 "media_type": "Text",
 "index_reference": "उत्तरी राज्य",
@@ -18,7 +18,7 @@
 {
 "content_id": "183090",
 "reference_id": 108196,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "उद्धार",
 "media_type": "Text",
 "index_reference": "उद्धार",
@@ -38,11 +38,11 @@
 ],
 "acai": [
 {
-"id": "keyterm:Rescue",
+"id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Rescue",
-"confidence": 0.8555,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Salvation"
 }
 ]
 }
@@ -50,7 +50,7 @@
 {
 "content_id": "183213",
 "reference_id": 108319,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "उद्धारकर्ता",
 "media_type": "Text",
 "index_reference": "उद्धारकर्ता",
@@ -60,13 +60,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.8394,
+"match_method": "embedding",
+"preferred_label": "Savior"
+}
+]
 }
 },
 {
 "content_id": "183055",
 "reference_id": 108161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "उनेसिमुस",
 "media_type": "Text",
 "index_reference": "उनेसिमुस",
@@ -80,9 +88,9 @@
 {
 "id": "person:Onesimus",
 "type": "person",
-"preferred_label": "उनेसिमुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "उनेसिमुस"
 }
 ]
 }
@@ -90,7 +98,7 @@
 {
 "content_id": "183350",
 "reference_id": 108456,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "उपवास",
 "media_type": "Text",
 "index_reference": "उपवास",

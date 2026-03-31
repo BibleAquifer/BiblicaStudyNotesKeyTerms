@@ -2,7 +2,7 @@
 {
 "content_id": "232696",
 "reference_id": 108095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "多馬",
 "media_type": "Text",
 "index_reference": "多馬",
@@ -12,7 +12,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thomas"
+}
+]
 }
 }
 ]

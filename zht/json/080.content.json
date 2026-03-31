@@ -2,7 +2,7 @@
 {
 "content_id": "233106",
 "reference_id": 108505,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "摩利亞山",
 "media_type": "Text",
 "index_reference": "摩利亞山",
@@ -12,13 +12,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:MoriahMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount Moriah"
+}
+]
 }
 },
 {
 "content_id": "232901",
 "reference_id": 108300,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "摩西",
 "media_type": "Text",
 "index_reference": "摩西",
@@ -36,13 +44,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "person:Moses",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moses"
+}
+]
 }
 },
 {
 "content_id": "232936",
 "reference_id": 108335,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "摩西律法",
 "media_type": "Text",
 "index_reference": "摩西律法",
@@ -73,7 +89,7 @@
 {
 "content_id": "232998",
 "reference_id": 108397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "摩押",
 "media_type": "Text",
 "index_reference": "摩押",
@@ -83,13 +99,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Moab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moab"
+},
+{
+"id": "place:Moab",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Moab"
+}
+]
 }
 },
 {
 "content_id": "232817",
 "reference_id": 108216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "魔鬼",
 "media_type": "Text",
 "index_reference": "魔鬼",
@@ -107,13 +138,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Satan"
+}
+]
 }
 },
 {
 "content_id": "232669",
 "reference_id": 108068,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "抹大拉的馬利亞",
 "media_type": "Text",
 "index_reference": "抹大拉的馬利亞",
@@ -123,13 +162,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mary Magdalene"
+}
+]
 }
 },
 {
 "content_id": "233121",
 "reference_id": 108520,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "末底改",
 "media_type": "Text",
 "index_reference": "末底改",
@@ -139,13 +186,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Mordecai.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordecai"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mordecai"
+}
+]
 }
 },
 {
 "content_id": "233137",
 "reference_id": 108536,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "末後的日子",
 "media_type": "Text",
 "index_reference": "末後的日子",

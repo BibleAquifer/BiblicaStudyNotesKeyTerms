@@ -1,24 +1,8 @@
 [
 {
-"content_id": "145573",
-"reference_id": 108064,
-"version": "1.0.2",
-"title": "d.C.",
-"media_type": "Text",
-"index_reference": "d.c.",
-"language": "por",
-"review_level": "None",
-"content": "<p>Uma maneira de descrever todos os anos após o nascimento de Jesus. Em alguns idiomas essa sigla é transcrita como AD, pois na língua latina, Anno Domini (AD), significa &quot;no ano do nosso Senhor&quot;.</p>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
-}
-},
-{
 "content_id": "145953",
 "reference_id": 108444,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dã",
 "media_type": "Text",
 "index_reference": "dã",
@@ -28,13 +12,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Dan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dã"
+},
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dã"
+}
+]
 }
 },
 {
 "content_id": "145955",
 "reference_id": 108446,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dagon",
 "media_type": "Text",
 "index_reference": "dagon",
@@ -44,13 +43,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Dagon",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dagom"
+}
+]
 }
 },
 {
 "content_id": "145954",
 "reference_id": 108445,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dalila",
 "media_type": "Text",
 "index_reference": "dalila",
@@ -64,9 +71,9 @@
 {
 "id": "person:Delilah",
 "type": "person",
-"preferred_label": "Dalila",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Dalila"
 }
 ]
 }
@@ -74,7 +81,7 @@
 {
 "content_id": "146049",
 "reference_id": 108540,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Damasco",
 "media_type": "Text",
 "index_reference": "damasco",
@@ -88,9 +95,9 @@
 {
 "id": "place:Damascus",
 "type": "place",
-"preferred_label": "Damasco",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Damasco"
 }
 ]
 }
@@ -98,7 +105,7 @@
 {
 "content_id": "146069",
 "reference_id": 108560,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Daniel",
 "media_type": "Text",
 "index_reference": "daniel",
@@ -112,16 +119,23 @@
 {
 "id": "person:Daniel.2",
 "type": "person",
-"preferred_label": "Daniel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Daniel"
 },
 {
 "id": "person:Daniel.3",
 "type": "person",
-"preferred_label": "Daniel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Quileabe"
 }
 ]
 }
@@ -129,7 +143,7 @@
 {
 "content_id": "146021",
 "reference_id": 108512,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dário",
 "media_type": "Text",
 "index_reference": "dário",
@@ -139,13 +153,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Darius.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dario"
+},
+{
+"id": "person:Darius.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dario"
+},
+{
+"id": "person:Darius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dario"
+}
+]
 }
 },
 {
 "content_id": "145958",
 "reference_id": 108449,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Davi",
 "media_type": "Text",
 "index_reference": "davi",
@@ -165,19 +201,42 @@
 ],
 "acai": [
 {
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judá"
+},
+{
 "id": "person:David",
 "type": "person",
-"preferred_label": "Davi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Davi"
 }
 ]
 }
 },
 {
+"content_id": "145573",
+"reference_id": 108064,
+"version": "1.0.4",
+"title": "d.C.",
+"media_type": "Text",
+"index_reference": "dc",
+"language": "por",
+"review_level": "None",
+"content": "<p>Uma maneira de descrever todos os anos após o nascimento de Jesus. Em alguns idiomas essa sigla é transcrita como AD, pois na língua latina, Anno Domini (AD), significa &quot;no ano do nosso Senhor&quot;.</p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
 "content_id": "145942",
 "reference_id": 108433,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Débora",
 "media_type": "Text",
 "index_reference": "débora",
@@ -189,18 +248,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Deborah",
-"type": "person",
-"preferred_label": "Débora",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Deborah.2",
 "type": "person",
-"preferred_label": "Débora",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Débora"
+},
+{
+"id": "person:Deborah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Débora"
 }
 ]
 }
@@ -208,7 +267,7 @@
 {
 "content_id": "145891",
 "reference_id": 108382,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Décimo",
 "media_type": "Text",
 "index_reference": "décimo",
@@ -224,7 +283,7 @@
 {
 "content_id": "145626",
 "reference_id": 108117,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Derbe",
 "media_type": "Text",
 "index_reference": "derbe",
@@ -238,9 +297,9 @@
 {
 "id": "place:Derbe",
 "type": "place",
-"preferred_label": "Derbe",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Derbe"
 }
 ]
 }
@@ -248,7 +307,7 @@
 {
 "content_id": "145721",
 "reference_id": 108212,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Descanso",
 "media_type": "Text",
 "index_reference": "descanso",
@@ -264,7 +323,7 @@
 {
 "content_id": "145708",
 "reference_id": 108199,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Deus",
 "media_type": "Text",
 "index_reference": "deus",
@@ -289,13 +348,21 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "SENHOR"
+}
+]
 }
 },
 {
 "content_id": "145738",
 "reference_id": 108229,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Deus escolhe",
 "media_type": "Text",
 "index_reference": "deus escolhe",
@@ -311,7 +378,7 @@
 {
 "content_id": "145802",
 "reference_id": 108293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dever de cunhado",
 "media_type": "Text",
 "index_reference": "dever de cunhado",
@@ -327,7 +394,7 @@
 {
 "content_id": "145840",
 "reference_id": 108331,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dez Mandamentos",
 "media_type": "Text",
 "index_reference": "dez mandamentos",
@@ -351,7 +418,7 @@
 {
 "content_id": "145817",
 "reference_id": 108308,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dez pragas",
 "media_type": "Text",
 "index_reference": "dez pragas",
@@ -367,7 +434,7 @@
 {
 "content_id": "145875",
 "reference_id": 108366,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dia da Expiação",
 "media_type": "Text",
 "index_reference": "dia da expiação",
@@ -391,7 +458,7 @@
 {
 "content_id": "145722",
 "reference_id": 108213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dia de Sábado",
 "media_type": "Text",
 "index_reference": "dia de sábado",
@@ -407,7 +474,7 @@
 {
 "content_id": "145564",
 "reference_id": 108055,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dia do julgamento",
 "media_type": "Text",
 "index_reference": "dia do julgamento",
@@ -431,7 +498,7 @@
 {
 "content_id": "145681",
 "reference_id": 108172,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dia do Senhor",
 "media_type": "Text",
 "index_reference": "dia do senhor",
@@ -447,7 +514,7 @@
 {
 "content_id": "146080",
 "reference_id": 108571,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dia do Senhor",
 "media_type": "Text",
 "index_reference": "dia do senhor",
@@ -478,7 +545,7 @@
 {
 "content_id": "145725",
 "reference_id": 108216,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diabo",
 "media_type": "Text",
 "index_reference": "diabo",
@@ -496,13 +563,21 @@
 "language": "por"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "deity:Satan",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Satanás"
+}
+]
 }
 },
 {
 "content_id": "145609",
 "reference_id": 108100,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diáconos",
 "media_type": "Text",
 "index_reference": "diáconos",
@@ -518,7 +593,7 @@
 {
 "content_id": "145743",
 "reference_id": 108234,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dilúvio",
 "media_type": "Text",
 "index_reference": "dilúvio",
@@ -542,7 +617,7 @@
 {
 "content_id": "145792",
 "reference_id": 108283,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Diná",
 "media_type": "Text",
 "index_reference": "diná",
@@ -556,9 +631,9 @@
 {
 "id": "person:Dinah",
 "type": "person",
-"preferred_label": "Diná",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Diná"
 }
 ]
 }
@@ -566,7 +641,7 @@
 {
 "content_id": "145779",
 "reference_id": 108270,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Direito do filho mais velho",
 "media_type": "Text",
 "index_reference": "direito do filho mais velho",
@@ -582,7 +657,7 @@
 {
 "content_id": "145549",
 "reference_id": 108040,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Discípulo",
 "media_type": "Text",
 "index_reference": "discípulo",
@@ -613,7 +688,7 @@
 {
 "content_id": "146023",
 "reference_id": 108514,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Divórcio",
 "media_type": "Text",
 "index_reference": "divórcio",
@@ -637,7 +712,7 @@
 {
 "content_id": "145676",
 "reference_id": 108167,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Docetismo",
 "media_type": "Text",
 "index_reference": "docetismo",
@@ -653,7 +728,7 @@
 {
 "content_id": "145658",
 "reference_id": 108149,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Dons do Espírito",
 "media_type": "Text",
 "index_reference": "dons do espírito",

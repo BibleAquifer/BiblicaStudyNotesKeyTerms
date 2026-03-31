@@ -2,7 +2,7 @@
 {
 "content_id": "778816",
 "reference_id": 108536,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laatste dagen",
 "media_type": "Text",
 "index_reference": "laatste dagen",
@@ -18,7 +18,7 @@
 {
 "content_id": "778813",
 "reference_id": 108274,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laban",
 "media_type": "Text",
 "index_reference": "laban",
@@ -32,16 +32,16 @@
 {
 "id": "person:Laban",
 "type": "person",
-"preferred_label": "Laban",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Laban"
 },
 {
 "id": "place:Laban",
 "type": "place",
-"preferred_label": "Laban",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Laban"
 }
 ]
 }
@@ -49,7 +49,7 @@
 {
 "content_id": "778814",
 "reference_id": 108086,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lam van God",
 "media_type": "Text",
 "index_reference": "lam van god",
@@ -65,7 +65,7 @@
 {
 "content_id": "778815",
 "reference_id": 108162,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Laodicea",
 "media_type": "Text",
 "index_reference": "laodicea",
@@ -79,9 +79,9 @@
 {
 "id": "place:Laodicea",
 "type": "place",
-"preferred_label": "Laodicea",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Laodicea"
 }
 ]
 }
@@ -89,7 +89,7 @@
 {
 "content_id": "778820",
 "reference_id": 108275,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Leah",
 "media_type": "Text",
 "index_reference": "leah",
@@ -103,9 +103,9 @@
 {
 "id": "person:Leah",
 "type": "person",
-"preferred_label": "Leah",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Leah"
 }
 ]
 }
@@ -113,7 +113,7 @@
 {
 "content_id": "778819",
 "reference_id": 108059,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Leider die dient",
 "media_type": "Text",
 "index_reference": "leider die dient",
@@ -129,7 +129,7 @@
 {
 "content_id": "778826",
 "reference_id": 108559,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Levend water",
 "media_type": "Text",
 "index_reference": "levend water",
@@ -145,7 +145,7 @@
 {
 "content_id": "778822",
 "reference_id": 108383,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Levi",
 "media_type": "Text",
 "index_reference": "levi",
@@ -157,25 +157,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Levi",
-"type": "person",
-"preferred_label": "Levi",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Levi.2",
 "type": "person",
-"preferred_label": "Levi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Levi"
 },
 {
 "id": "person:Levi.3",
 "type": "person",
-"preferred_label": "Levi",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Levi"
+},
+{
+"id": "person:Matthew",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Matthew"
+},
+{
+"id": "person:Levi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Levi"
 }
 ]
 }
@@ -183,7 +190,7 @@
 {
 "content_id": "778823",
 "reference_id": 108343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Levieten",
 "media_type": "Text",
 "index_reference": "levieten",
@@ -193,13 +200,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tribe of Levi"
+}
+]
 }
 },
 {
 "content_id": "769217",
 "reference_id": 108143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lichaam van Christus",
 "media_type": "Text",
 "index_reference": "lichaam van christus",
@@ -215,7 +230,7 @@
 {
 "content_id": "778824",
 "reference_id": 108546,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Licht",
 "media_type": "Text",
 "index_reference": "licht",
@@ -246,7 +261,7 @@
 {
 "content_id": "778825",
 "reference_id": 108545,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Licht voor de heidenen",
 "media_type": "Text",
 "index_reference": "licht voor de heidenen",
@@ -262,7 +277,7 @@
 {
 "content_id": "778833",
 "reference_id": 108355,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Liefde voor God",
 "media_type": "Text",
 "index_reference": "liefde voor god",
@@ -278,7 +293,7 @@
 {
 "content_id": "769755",
 "reference_id": 108087,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "lieve vrouw",
 "media_type": "Text",
 "index_reference": "lieve vrouw",
@@ -294,7 +309,7 @@
 {
 "content_id": "775214",
 "reference_id": 108377,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Loofhuttenfeest",
 "media_type": "Text",
 "index_reference": "loofhuttenfeest",
@@ -310,7 +325,7 @@
 {
 "content_id": "775210",
 "reference_id": 108448,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Losser",
 "media_type": "Text",
 "index_reference": "losser",
@@ -326,7 +341,7 @@
 {
 "content_id": "778832",
 "reference_id": 108248,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lot",
 "media_type": "Text",
 "index_reference": "lot",
@@ -336,13 +351,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lot",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+},
+{
+"id": "realia:Lot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lot"
+}
+]
 }
 },
 {
 "content_id": "769667",
 "reference_id": 108404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lot werpen",
 "media_type": "Text",
 "index_reference": "lot werpen",
@@ -358,7 +388,7 @@
 {
 "content_id": "778834",
 "reference_id": 108078,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lucas",
 "media_type": "Text",
 "index_reference": "lucas",
@@ -368,13 +398,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Luke",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Luke"
+}
+]
 }
 },
 {
 "content_id": "778835",
 "reference_id": 108116,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Lystra",
 "media_type": "Text",
 "index_reference": "lystra",
@@ -388,9 +426,9 @@
 {
 "id": "place:Lystra",
 "type": "place",
-"preferred_label": "Lystra",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Lystra"
 }
 ]
 }

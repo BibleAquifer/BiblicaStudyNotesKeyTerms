@@ -2,23 +2,31 @@
 {
 "content_id": "232360",
 "reference_id": 108391,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cades-barnea",
 "media_type": "Text",
-"index_reference": "cades-barnea",
+"index_reference": "cadesbarnea",
 "language": "spa",
 "review_level": "None",
 "content": "<p>Un área al suroeste del Mar Muerto en el Desierto de Zin. Los israelitas acamparon allí mientras viajaban de Egipto a Canaán. Desde allí, los israelitas se negaron a entrar en Canaán. Cades es donde murió Miriam. También es donde Moisés desobedeció a Dios al golpear una roca para obtener agua.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cades"
+}
+]
 }
 },
 {
 "content_id": "232191",
 "reference_id": 108222,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Caín",
 "media_type": "Text",
 "index_reference": "caín",
@@ -32,9 +40,9 @@
 {
 "id": "person:Cain",
 "type": "person",
-"preferred_label": "Caín",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Caín"
 }
 ]
 }
@@ -42,7 +50,7 @@
 {
 "content_id": "232359",
 "reference_id": 108390,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Caleb",
 "media_type": "Text",
 "index_reference": "caleb",
@@ -54,25 +62,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Caleb",
-"type": "person",
-"preferred_label": "Caleb",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Caleb.2",
 "type": "person",
-"preferred_label": "Caleb",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Caleb"
 },
 {
-"id": "place:CalebEphrathah",
-"type": "place",
-"preferred_label": "Caleb",
+"id": "person:Caleb",
+"type": "person",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Caleb"
 }
 ]
 }
@@ -80,7 +81,7 @@
 {
 "content_id": "232211",
 "reference_id": 108242,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cam",
 "media_type": "Text",
 "index_reference": "cam",
@@ -90,13 +91,35 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Châm"
+},
+{
+"id": "place:Ham.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Châm"
+},
+{
+"id": "place:Ammon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ammón"
+}
+]
 }
 },
 {
 "content_id": "232074",
 "reference_id": 108105,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Camino de Jesús",
 "media_type": "Text",
 "index_reference": "camino de jesús",
@@ -112,7 +135,7 @@
 {
 "content_id": "232059",
 "reference_id": 108090,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Caná",
 "media_type": "Text",
 "index_reference": "caná",
@@ -126,9 +149,9 @@
 {
 "id": "place:Cana",
 "type": "place",
-"preferred_label": "Caná",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Caná"
 }
 ]
 }
@@ -136,7 +159,7 @@
 {
 "content_id": "232215",
 "reference_id": 108246,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Canaán",
 "media_type": "Text",
 "index_reference": "canaán",
@@ -148,11 +171,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Kenan",
+"id": "person:Canaan",
 "type": "person",
-"preferred_label": "Cainán",
-"confidence": 0.8582,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cananeo"
+},
+{
+"id": "place:Canaan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cananeo"
 }
 ]
 }
@@ -160,7 +190,7 @@
 {
 "content_id": "232061",
 "reference_id": 108092,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Capernaum",
 "media_type": "Text",
 "index_reference": "capernaum",
@@ -174,9 +204,9 @@
 {
 "id": "place:Capernaum",
 "type": "place",
-"preferred_label": "Capernaum",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Capernaum"
 }
 ]
 }
@@ -184,7 +214,7 @@
 {
 "content_id": "232142",
 "reference_id": 108173,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cartas a las iglesias",
 "media_type": "Text",
 "index_reference": "cartas a las iglesias",
@@ -200,7 +230,7 @@
 {
 "content_id": "232314",
 "reference_id": 108345,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Celoso",
 "media_type": "Text",
 "index_reference": "celoso",
@@ -210,13 +240,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehová"
+}
+]
 }
 },
 {
 "content_id": "232117",
 "reference_id": 108148,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cena del Señor",
 "media_type": "Text",
 "index_reference": "cena del señor",
@@ -232,7 +270,7 @@
 {
 "content_id": "232003",
 "reference_id": 108034,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "César",
 "media_type": "Text",
 "index_reference": "césar",
@@ -242,13 +280,42 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Claudius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Claudio"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nero"
+},
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiberio"
+},
+{
+"id": "person:Augustus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Augusto"
+}
+]
 }
 },
 {
 "content_id": "232107",
 "reference_id": 108138,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cesarea",
 "media_type": "Text",
 "index_reference": "cesarea",
@@ -260,18 +327,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Caesarea",
-"type": "place",
-"preferred_label": "Cesarea",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Caesarea.2",
 "type": "place",
-"preferred_label": "Caesarea",
-"confidence": 0.8033,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caesarea"
+},
+{
+"id": "place:Caesarea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cesarea"
 }
 ]
 }
@@ -279,7 +346,7 @@
 {
 "content_id": "232081",
 "reference_id": 108112,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Chipre",
 "media_type": "Text",
 "index_reference": "chipre",
@@ -289,13 +356,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Cyprus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cipro"
+}
+]
 }
 },
 {
 "content_id": "232170",
 "reference_id": 108201,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cielo",
 "media_type": "Text",
 "index_reference": "cielo",
@@ -320,21 +395,13 @@
 "language": "spa"
 }
 ],
-"acai": [
-{
-"id": "keyterm:Heaven",
-"type": "keyterm",
-"preferred_label": "cielo",
-"confidence": 0.9021,
-"match_method": "embedding"
-}
-]
+"acai": []
 }
 },
 {
 "content_id": "232226",
 "reference_id": 108257,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Circuncisión",
 "media_type": "Text",
 "index_reference": "circuncisión",
@@ -344,13 +411,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Circumcision",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Circumcision"
+}
+]
 }
 },
 {
 "content_id": "232471",
 "reference_id": 108502,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ciro",
 "media_type": "Text",
 "index_reference": "ciro",
@@ -364,9 +439,9 @@
 {
 "id": "person:Cyrus",
 "type": "person",
-"preferred_label": "Ciro",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Ciro"
 }
 ]
 }
@@ -374,7 +449,7 @@
 {
 "content_id": "232096",
 "reference_id": 108127,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ciudadano romano",
 "media_type": "Text",
 "index_reference": "ciudadano romano",
@@ -390,7 +465,7 @@
 {
 "content_id": "232125",
 "reference_id": 108156,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ciudadanos del cielo",
 "media_type": "Text",
 "index_reference": "ciudadanos del cielo",
@@ -414,7 +489,7 @@
 {
 "content_id": "232379",
 "reference_id": 108410,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ciudades seguras",
 "media_type": "Text",
 "index_reference": "ciudades seguras",
@@ -430,7 +505,7 @@
 {
 "content_id": "232075",
 "reference_id": 108106,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Colocar las manos",
 "media_type": "Text",
 "index_reference": "colocar las manos",
@@ -446,7 +521,7 @@
 {
 "content_id": "232129",
 "reference_id": 108160,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Colosas",
 "media_type": "Text",
 "index_reference": "colosas",
@@ -460,9 +535,9 @@
 {
 "id": "place:Colossae",
 "type": "place",
-"preferred_label": "Colosas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Colosas"
 }
 ]
 }
@@ -470,7 +545,7 @@
 {
 "content_id": "232234",
 "reference_id": 108265,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Concubinas",
 "media_type": "Text",
 "index_reference": "concubinas",
@@ -486,7 +561,7 @@
 {
 "content_id": "232388",
 "reference_id": 108419,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Corazón",
 "media_type": "Text",
 "index_reference": "corazón",
@@ -500,9 +575,9 @@
 {
 "id": "keyterm:Heart",
 "type": "keyterm",
-"preferred_label": "corazón",
-"confidence": 0.8871,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "corazón"
 }
 ]
 }
@@ -510,7 +585,7 @@
 {
 "content_id": "232055",
 "reference_id": 108086,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cordero de Dios",
 "media_type": "Text",
 "index_reference": "cordero de dios",
@@ -526,7 +601,7 @@
 {
 "content_id": "232362",
 "reference_id": 108393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Coré",
 "media_type": "Text",
 "index_reference": "coré",
@@ -538,46 +613,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Korah",
-"type": "person",
-"preferred_label": "Coré",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Korah.2",
 "type": "person",
-"preferred_label": "Coré",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Coré"
 },
 {
 "id": "person:Korah.3",
 "type": "person",
-"preferred_label": "Coré",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Coré"
 },
 {
 "id": "person:Korah.4",
 "type": "person",
-"preferred_label": "Coré",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Coré"
 },
 {
-"id": "person:Kore",
+"id": "person:Korah",
 "type": "person",
-"preferred_label": "Coré",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Kore.2",
-"type": "person",
-"preferred_label": "Coré",
-"confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Coré"
 }
 ]
 }
@@ -585,7 +646,7 @@
 {
 "content_id": "232102",
 "reference_id": 108133,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Corinto",
 "media_type": "Text",
 "index_reference": "corinto",
@@ -595,13 +656,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Corinth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Corintios"
+}
+]
 }
 },
 {
 "content_id": "232077",
 "reference_id": 108108,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cornelio",
 "media_type": "Text",
 "index_reference": "cornelio",
@@ -615,9 +684,9 @@
 {
 "id": "person:Cornelius",
 "type": "person",
-"preferred_label": "Cornelio",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Cornelio"
 }
 ]
 }
@@ -625,7 +694,7 @@
 {
 "content_id": "232166",
 "reference_id": 108197,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Creación",
 "media_type": "Text",
 "index_reference": "creación",
@@ -649,7 +718,7 @@
 {
 "content_id": "232224",
 "reference_id": 108255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Creer en",
 "media_type": "Text",
 "index_reference": "creer en",
@@ -667,13 +736,21 @@
 "language": "spa"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:BelieveIn",
+"type": "keyterm",
+"confidence": 0.9789,
+"match_method": "embedding",
+"preferred_label": "hiphil: creer en"
+}
+]
 }
 },
 {
 "content_id": "232132",
 "reference_id": 108163,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Creta",
 "media_type": "Text",
 "index_reference": "creta",
@@ -687,9 +764,9 @@
 {
 "id": "place:Crete",
 "type": "place",
-"preferred_label": "Creta",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Creta"
 }
 ]
 }
@@ -697,7 +774,7 @@
 {
 "content_id": "232046",
 "reference_id": 108077,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Creyente",
 "media_type": "Text",
 "index_reference": "creyente",
@@ -713,7 +790,7 @@
 {
 "content_id": "232067",
 "reference_id": 108098,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cristo",
 "media_type": "Text",
 "index_reference": "cristo",
@@ -740,11 +817,11 @@
 ],
 "acai": [
 {
-"id": "keyterm:InChrist",
-"type": "keyterm",
-"preferred_label": "cristo",
-"confidence": 0.8858,
-"match_method": "embedding"
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jesús"
 }
 ]
 }
@@ -752,7 +829,7 @@
 {
 "content_id": "232499",
 "reference_id": 108530,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cruz",
 "media_type": "Text",
 "index_reference": "cruz",
@@ -762,13 +839,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Cross",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cross"
+}
+]
 }
 },
 {
 "content_id": "232525",
 "reference_id": 108556,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cuatro seres vivientes",
 "media_type": "Text",
 "index_reference": "cuatro seres vivientes",
@@ -784,7 +869,7 @@
 {
 "content_id": "232112",
 "reference_id": 108143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Cuerpo de Cristo",
 "media_type": "Text",
 "index_reference": "cuerpo de cristo",

@@ -2,7 +2,7 @@
 {
 "content_id": "203296",
 "reference_id": 108161,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Onesimus",
 "media_type": "Text",
 "index_reference": "onesimus",
@@ -16,9 +16,9 @@
 {
 "id": "person:Onesimus",
 "type": "person",
-"preferred_label": "Onesimus",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Onesimus"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "203459",
 "reference_id": 108324,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang Amalek",
 "media_type": "Text",
 "index_reference": "orang amalek",
@@ -36,13 +36,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Amalek",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amalekites"
+}
+]
 }
 },
 {
 "content_id": "203547",
 "reference_id": 108412,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang Amon",
 "media_type": "Text",
 "index_reference": "orang amon",
@@ -52,13 +60,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Ammon",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ammonites"
+}
+]
 }
 },
 {
 "content_id": "203548",
 "reference_id": 108413,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang Amori",
 "media_type": "Text",
 "index_reference": "orang amori",
@@ -68,13 +84,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Amorites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Amorites"
+}
+]
 }
 },
 {
 "content_id": "203682",
 "reference_id": 108547,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang bukan Yahudi",
 "media_type": "Text",
 "index_reference": "orang bukan yahudi",
@@ -92,13 +116,21 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gentiles"
+}
+]
 }
 },
 {
 "content_id": "203402",
 "reference_id": 108267,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang Filistin",
 "media_type": "Text",
 "index_reference": "orang filistin",
@@ -108,13 +140,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Philistine",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Filistin"
+}
+]
 }
 },
 {
 "content_id": "203562",
 "reference_id": 108427,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang Hewi",
 "media_type": "Text",
 "index_reference": "orang hewi",
@@ -124,13 +164,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Hivites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hivites"
+}
+]
 }
 },
 {
 "content_id": "203478",
 "reference_id": 108343,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang Lewi",
 "media_type": "Text",
 "index_reference": "orang lewi",
@@ -148,13 +196,21 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lewi"
+}
+]
 }
 },
 {
 "content_id": "203504",
 "reference_id": 108369,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang luar",
 "media_type": "Text",
 "index_reference": "orang luar",
@@ -170,7 +226,7 @@
 {
 "content_id": "203438",
 "reference_id": 108303,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang Midian",
 "media_type": "Text",
 "index_reference": "orang midian",
@@ -180,13 +236,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Midian",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Midianites"
+}
+]
 }
 },
 {
 "content_id": "203212",
 "reference_id": 108077,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang Percaya",
 "media_type": "Text",
 "index_reference": "orang percaya",
@@ -202,7 +266,7 @@
 {
 "content_id": "203193",
 "reference_id": 108058,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang Saduki",
 "media_type": "Text",
 "index_reference": "orang saduki",
@@ -212,13 +276,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sadducees"
+}
+]
 }
 },
 {
 "content_id": "203639",
 "reference_id": 108504,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang Yebus",
 "media_type": "Text",
 "index_reference": "orang yebus",
@@ -228,32 +300,48 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Jebusites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jebusites"
+}
+]
 }
 },
 {
 "content_id": "203185",
 "reference_id": 108050,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang-orang Farisi",
 "media_type": "Text",
-"index_reference": "orang-orang farisi",
+"index_reference": "orangorang farisi",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Sekelompok pemimpin agama Yahudi pada masa Perjanjian Baru. Mereka mendesak orang-orang Yahudi untuk bekerja sangat keras demi menaati semua hukum Perjanjian Lama. Mereka tidak percaya bahwa Yesus adalah Mesias yang dijanjikan Allah untuk diutus. Sebagian besar orang-orang Farisi menentang Yesus dan ajaran-ajarannya.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pharisees"
+}
+]
 }
 },
 {
 "content_id": "203660",
 "reference_id": 108525,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang-orang fasik",
 "media_type": "Text",
-"index_reference": "orang-orang fasik",
+"index_reference": "orangorang fasik",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Orang-orang yang tidak hidup seperti yang Allah inginkan untuk manusia. Mereka tidak mengasihi, menyembah, dan menaati Allah. Mereka menyembah ilah-ilah palsu. Mereka berusaha mendapatkan yang terbaik untuk diri mereka sendiri dan tidak melayani orang lain. Mereka juga berusaha membuat orang lain berhenti setia kepada Allah dan jalan-jalan-Nya. Allah ingin agar orang-orang fasik berbalik dari dosa dan menjadi benar di hadapan-Nya. Allah akan membangkitkan orang fasik dari kematian. Ia akan menghakimi mereka.</p>",
@@ -266,10 +354,10 @@
 {
 "content_id": "203217",
 "reference_id": 108082,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang-orang Gerasa",
 "media_type": "Text",
-"index_reference": "orang-orang gerasa",
+"index_reference": "orangorang gerasa",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Sebuah kelompok yang tinggal di sepanjang pantai timur Danau Galilea. Mereka tidak ingin Yesus melakukan mukjizat-mukjizat di kota mereka. Markus dan Lukas menyebut kelompok ini sebagai orang-orang Gerasa. Matius menyebut mereka orang-orang Gadara.</p>",
@@ -282,10 +370,10 @@
 {
 "content_id": "203168",
 "reference_id": 108033,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang-orang majus",
 "media_type": "Text",
-"index_reference": "orang-orang majus",
+"index_reference": "orangorang majus",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Orang-orang penting dari negeri-negeri di sebelah timur Yerusalem. Mereka mempelajari bintang-bintang di langit. Setelah Yesus lahir, mereka menyembah Dia sebagai Raja dunia.</p>",
@@ -298,10 +386,10 @@
 {
 "content_id": "203553",
 "reference_id": 108418,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Orang-orang yang membutuhkan",
 "media_type": "Text",
-"index_reference": "orang-orang yang membutuhkan",
+"index_reference": "orangorang yang membutuhkan",
 "language": "ind",
 "review_level": "None",
 "content": "<p>Dalam Perjanjian Lama, orang-orang yang berkekurangan adalah mereka yang tidak memiliki tanah untuk bertani. Tanpa tanah, mereka tidak dapat menanam makanan atau memiliki ternak. Orang asing dan para janda adalah orang-orang yang membutuhkan. Begitu juga anak-anak yang ayahnya telah meninggal. Orang-orang juga dikatakan menjadi orang yang membutuhkan jika mereka memiliki tanah tetapi tidak berhasil bertani. Dalam Perjanjian Baru, siapa pun yang miskin atau membutuhkan bantuan dianggap berkekurangan.</p>",
@@ -314,7 +402,7 @@
 {
 "content_id": "203566",
 "reference_id": 108431,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Otniel",
 "media_type": "Text",
 "index_reference": "otniel",
@@ -328,9 +416,9 @@
 {
 "id": "person:Othniel",
 "type": "person",
-"preferred_label": "Otniel",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Otniel"
 }
 ]
 }

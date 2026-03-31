@@ -2,7 +2,7 @@
 {
 "content_id": "203240",
 "reference_id": 108105,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jalan Yesus",
 "media_type": "Text",
 "index_reference": "jalan yesus",
@@ -18,7 +18,7 @@
 {
 "content_id": "203321",
 "reference_id": 108186,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Jurang maut",
 "media_type": "Text",
 "index_reference": "jurang maut ",
@@ -36,13 +36,21 @@
 "language": "ind"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "jurang maut"
+}
+]
 }
 },
 {
 "content_id": "203454",
 "reference_id": 108319,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Juruselamat",
 "media_type": "Text",
 "index_reference": "juruselamat",
@@ -52,7 +60,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Savior",
+"type": "keyterm",
+"confidence": 0.8394,
+"match_method": "embedding",
+"preferred_label": "juruselamat"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "133586",
 "reference_id": 108334,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tabernacle",
 "media_type": "Text",
 "index_reference": "tabernacle",
@@ -16,9 +16,9 @@
 {
 "id": "realia:Tabernacle",
 "type": "realia",
-"preferred_label": "Tabernacle",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tabernacle"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "133591",
 "reference_id": 108339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tablettes de pierre",
 "media_type": "Text",
 "index_reference": "tablettes de pierre",
@@ -42,7 +42,7 @@
 {
 "content_id": "133544",
 "reference_id": 108292,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tamar",
 "media_type": "Text",
 "index_reference": "tamar",
@@ -54,32 +54,39 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Tamar",
-"type": "person",
-"preferred_label": "Tamar",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Tamar.2",
 "type": "person",
-"preferred_label": "Tamar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tamar"
 },
 {
 "id": "person:Tamar.3",
 "type": "person",
-"preferred_label": "Tamar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
 },
 {
 "id": "place:Tamar.2",
 "type": "place",
-"preferred_label": "Tamar",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "place:Tadmor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thadmor"
 }
 ]
 }
@@ -87,23 +94,31 @@
 {
 "content_id": "133723",
 "reference_id": 108471,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tamar - David",
 "media_type": "Text",
-"index_reference": "tamar - david",
+"index_reference": "tamar  david",
 "language": "fra",
 "review_level": "None",
 "content": "<p>La fille de David et Makaah. Elle et Absalom avaient les mêmes parents. Amnon et elle avaient le même père. Amnon a violé Tamar lorsqu&apos;elle était vierge. Ensuite, il l&apos;a chassée hors de sa maison. À cette époque, c&apos;était la même chose que de la répudier. Être violée sans être mariée ensuite a apporté la honte à Tamar dans leur communauté. Cela signifiait qu&apos;elle ne se marierait probablement pas ni n&apos;aurait sa propre famille. Elle a vécu avec Absalom après cet événement.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+}
+]
 }
 },
 {
 "content_id": "133669",
 "reference_id": 108417,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Temple",
 "media_type": "Text",
 "index_reference": "temple",
@@ -117,9 +132,9 @@
 {
 "id": "realia:Temple",
 "type": "realia",
-"preferred_label": "Temple",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Temple"
 }
 ]
 }
@@ -127,7 +142,7 @@
 {
 "content_id": "133291",
 "reference_id": 108039,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ténèbres",
 "media_type": "Text",
 "index_reference": "ténèbres",
@@ -151,7 +166,7 @@
 {
 "content_id": "133331",
 "reference_id": 108079,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Théophile",
 "media_type": "Text",
 "index_reference": "théophile",
@@ -165,9 +180,9 @@
 {
 "id": "person:Theophilus",
 "type": "person",
-"preferred_label": "Théophile",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Théophile"
 }
 ]
 }
@@ -175,7 +190,7 @@
 {
 "content_id": "133380",
 "reference_id": 108128,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Thessalonique",
 "media_type": "Text",
 "index_reference": "thessalonique",
@@ -189,9 +204,9 @@
 {
 "id": "place:Thessalonica",
 "type": "place",
-"preferred_label": "Thessalonique",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Thessalonique"
 }
 ]
 }
@@ -199,7 +214,7 @@
 {
 "content_id": "133347",
 "reference_id": 108095,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Thomas",
 "media_type": "Text",
 "index_reference": "thomas",
@@ -213,9 +228,9 @@
 {
 "id": "person:Thomas",
 "type": "person",
-"preferred_label": "Thomas",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Thomas"
 }
 ]
 }
@@ -223,7 +238,7 @@
 {
 "content_id": "133429",
 "reference_id": 108177,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Thyatire",
 "media_type": "Text",
 "index_reference": "thyatire",
@@ -237,9 +252,9 @@
 {
 "id": "place:Thyatira",
 "type": "place",
-"preferred_label": "Thyatire",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Thyatire"
 }
 ]
 }
@@ -247,7 +262,7 @@
 {
 "content_id": "133376",
 "reference_id": 108124,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Timothée",
 "media_type": "Text",
 "index_reference": "timothée",
@@ -261,9 +276,9 @@
 {
 "id": "person:Timothy",
 "type": "person",
-"preferred_label": "Timothée",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Timothée"
 }
 ]
 }
@@ -271,7 +286,7 @@
 {
 "content_id": "133656",
 "reference_id": 108404,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tirer au sort",
 "media_type": "Text",
 "index_reference": "tirer au sort",
@@ -287,7 +302,7 @@
 {
 "content_id": "133404",
 "reference_id": 108152,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tite",
 "media_type": "Text",
 "index_reference": "tite",
@@ -301,9 +316,9 @@
 {
 "id": "person:Titus",
 "type": "person",
-"preferred_label": "Tite",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Tite"
 }
 ]
 }
@@ -311,7 +326,7 @@
 {
 "content_id": "133512",
 "reference_id": 108260,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Trois hommes",
 "media_type": "Text",
 "index_reference": "trois hommes",
@@ -327,7 +342,7 @@
 {
 "content_id": "133727",
 "reference_id": 108475,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Tyr et Sidon",
 "media_type": "Text",
 "index_reference": "tyr et sidon",
@@ -337,7 +352,29 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Sidon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sidon"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sidon"
+},
+{
+"id": "place:Tyre",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tyr"
+}
+]
 }
 }
 ]

@@ -2,7 +2,7 @@
 {
 "content_id": "182944",
 "reference_id": 108050,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "फरीसी",
 "media_type": "Text",
 "index_reference": "फरीसी",
@@ -16,9 +16,9 @@
 {
 "id": "group:Pharisee",
 "type": "group",
-"preferred_label": "फरीसी",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "फरीसी"
 }
 ]
 }
@@ -26,7 +26,7 @@
 {
 "content_id": "183211",
 "reference_id": 108317,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "फसह का पर्व",
 "media_type": "Text",
 "index_reference": "फसह का पर्व",
@@ -42,7 +42,7 @@
 {
 "content_id": "183403",
 "reference_id": 108509,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "फारस",
 "media_type": "Text",
 "index_reference": "फारस",
@@ -56,9 +56,9 @@
 {
 "id": "place:Persia",
 "type": "place",
-"preferred_label": "फारस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "फारस"
 }
 ]
 }
@@ -66,7 +66,7 @@
 {
 "content_id": "183047",
 "reference_id": 108153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "फ़ालतू प्रेरित",
 "media_type": "Text",
 "index_reference": "फ़ालतू प्रेरित",
@@ -82,7 +82,7 @@
 {
 "content_id": "183144",
 "reference_id": 108250,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "फिरौन",
 "media_type": "Text",
 "index_reference": "फिरौन",
@@ -92,13 +92,84 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Pharaoh.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "फ़िरौन"
+},
+{
+"id": "person:Neco",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नको"
+},
+{
+"id": "person:Pharaoh.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "फ़िरौन"
+},
+{
+"id": "person:Pharaoh.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "फ़िरौन"
+},
+{
+"id": "person:Pharaoh.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "फ़िरौन"
+},
+{
+"id": "person:Pharaoh.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "फ़िरौन"
+},
+{
+"id": "person:Pharaoh.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "फ़िरौन"
+},
+{
+"id": "person:Pharaoh.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "फ़िरौन"
+},
+{
+"id": "person:Pharaoh.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "फ़िरौन"
+},
+{
+"id": "person:Hophra",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "होप्रा"
+}
+]
 }
 },
 {
 "content_id": "183074",
 "reference_id": 108180,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "फिलदिलफिया",
 "media_type": "Text",
 "index_reference": "फिलदिलफिया",
@@ -112,9 +183,9 @@
 {
 "id": "place:Philadelphia",
 "type": "place",
-"preferred_label": "फिलदिलफिया",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "फिलदिलफिया"
 }
 ]
 }
@@ -122,7 +193,7 @@
 {
 "content_id": "183020",
 "reference_id": 108126,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "फिलिप्पी",
 "media_type": "Text",
 "index_reference": "फिलिप्पी",
@@ -136,37 +207,9 @@
 {
 "id": "place:Philippi",
 "type": "place",
-"preferred_label": "फिलिप्पी",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip",
-"type": "person",
-"preferred_label": "फिलिप्पुस",
-"confidence": 0.8103,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip.2",
-"type": "person",
-"preferred_label": "फिलिप्पुस",
-"confidence": 0.8103,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip.3",
-"type": "person",
-"preferred_label": "फिलिप्पुस",
-"confidence": 0.8103,
-"match_method": "embedding"
-},
-{
-"id": "person:Philip.4",
-"type": "person",
-"preferred_label": "फिलिप्पुस",
-"confidence": 0.8103,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "फिलिप्पी"
 }
 ]
 }
@@ -174,7 +217,7 @@
 {
 "content_id": "182997",
 "reference_id": 108103,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "फिलिप्पुस",
 "media_type": "Text",
 "index_reference": "फिलिप्पुस",
@@ -186,39 +229,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Philip",
-"type": "person",
-"preferred_label": "फिलिप्पुस",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Philip.2",
 "type": "person",
-"preferred_label": "फिलिप्पुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "फिलिप्पुस"
 },
 {
 "id": "person:Philip.3",
 "type": "person",
-"preferred_label": "फिलिप्पुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "फिलिप्पुस"
 },
 {
 "id": "person:Philip.4",
 "type": "person",
-"preferred_label": "फिलिप्पुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "फिलिप्पुस"
 },
 {
-"id": "place:Philippi",
-"type": "place",
-"preferred_label": "फिलिप्पी",
-"confidence": 0.8103,
-"match_method": "embedding"
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "फिलिप्पुस"
 }
 ]
 }
@@ -226,7 +262,7 @@
 {
 "content_id": "183058",
 "reference_id": 108164,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "फिलेमोन",
 "media_type": "Text",
 "index_reference": "फिलेमोन",
@@ -240,9 +276,9 @@
 {
 "id": "person:Philemon",
 "type": "person",
-"preferred_label": "फिलेमोन",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "फिलेमोन"
 }
 ]
 }

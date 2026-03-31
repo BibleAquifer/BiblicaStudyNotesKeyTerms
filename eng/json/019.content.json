@@ -2,7 +2,7 @@
 {
 "content_id": "132159",
 "reference_id": 108213,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sabbath day",
 "media_type": "Text",
 "index_reference": "sabbath day",
@@ -18,7 +18,7 @@
 {
 "content_id": "132202",
 "reference_id": 108256,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sacrifice",
 "media_type": "Text",
 "index_reference": "sacrifice",
@@ -34,7 +34,7 @@
 {
 "content_id": "132284",
 "reference_id": 108338,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sacrifice animals",
 "media_type": "Text",
 "index_reference": "sacrifice animals",
@@ -50,7 +50,7 @@
 {
 "content_id": "132210",
 "reference_id": 108264,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sacrifice children",
 "media_type": "Text",
 "index_reference": "sacrifice children",
@@ -66,7 +66,7 @@
 {
 "content_id": "132004",
 "reference_id": 108058,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sadducees",
 "media_type": "Text",
 "index_reference": "sadducees",
@@ -80,9 +80,9 @@
 {
 "id": "group:Sadducee",
 "type": "group",
-"preferred_label": "Sadducees",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Sadducees"
 }
 ]
 }
@@ -90,7 +90,7 @@
 {
 "content_id": "132356",
 "reference_id": 108410,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Safe cities",
 "media_type": "Text",
 "index_reference": "safe cities",
@@ -106,7 +106,7 @@
 {
 "content_id": "132142",
 "reference_id": 108196,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Salvation",
 "media_type": "Text",
 "index_reference": "salvation",
@@ -128,9 +128,9 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"preferred_label": "Salvation",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Salvation"
 }
 ]
 }
@@ -138,7 +138,7 @@
 {
 "content_id": "132435",
 "reference_id": 108489,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samaria",
 "media_type": "Text",
 "index_reference": "samaria",
@@ -152,16 +152,16 @@
 {
 "id": "place:Samaria.2",
 "type": "place",
-"preferred_label": "Samaria",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Samaria"
 },
 {
 "id": "place:Samaria",
 "type": "place",
-"preferred_label": "Samaria",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Samaria"
 }
 ]
 }
@@ -169,7 +169,7 @@
 {
 "content_id": "132385",
 "reference_id": 108439,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samson",
 "media_type": "Text",
 "index_reference": "samson",
@@ -183,9 +183,9 @@
 {
 "id": "person:Samson",
 "type": "person",
-"preferred_label": "Samson",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Samson"
 }
 ]
 }
@@ -193,7 +193,7 @@
 {
 "content_id": "132398",
 "reference_id": 108452,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Samuel",
 "media_type": "Text",
 "index_reference": "samuel",
@@ -207,9 +207,9 @@
 {
 "id": "person:Samuel",
 "type": "person",
-"preferred_label": "Samuel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Samuel"
 }
 ]
 }
@@ -217,7 +217,7 @@
 {
 "content_id": "132013",
 "reference_id": 108067,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sanhedrin",
 "media_type": "Text",
 "index_reference": "sanhedrin",
@@ -231,9 +231,9 @@
 {
 "id": "group:Sanhedrin",
 "type": "group",
-"preferred_label": "Sanhedrin",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Sanhedrin"
 }
 ]
 }
@@ -241,7 +241,7 @@
 {
 "content_id": "132193",
 "reference_id": 108247,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sarah",
 "media_type": "Text",
 "index_reference": "sarah",
@@ -255,9 +255,9 @@
 {
 "id": "person:Sarah",
 "type": "person",
-"preferred_label": "Sarah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Sarah"
 }
 ]
 }
@@ -265,7 +265,7 @@
 {
 "content_id": "132124",
 "reference_id": 108178,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sardis",
 "media_type": "Text",
 "index_reference": "sardis",
@@ -279,9 +279,9 @@
 {
 "id": "place:Sardis",
 "type": "place",
-"preferred_label": "Sardis",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Sardis"
 }
 ]
 }
@@ -289,7 +289,7 @@
 {
 "content_id": "132401",
 "reference_id": 108455,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Saul",
 "media_type": "Text",
 "index_reference": "saul",
@@ -303,16 +303,16 @@
 {
 "id": "person:Saul.2",
 "type": "person",
-"preferred_label": "Saul",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Saul"
 },
 {
 "id": "person:Paul",
 "type": "person",
-"preferred_label": "Paul",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Paul"
 }
 ]
 }
@@ -320,7 +320,7 @@
 {
 "content_id": "132265",
 "reference_id": 108319,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Saviour",
 "media_type": "Text",
 "index_reference": "saviour",
@@ -334,9 +334,9 @@
 {
 "id": "keyterm:Savior",
 "type": "keyterm",
-"preferred_label": "Savior",
 "confidence": 0.8394,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Savior"
 }
 ]
 }
@@ -344,7 +344,7 @@
 {
 "content_id": "132018",
 "reference_id": 108072,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sea",
 "media_type": "Text",
 "index_reference": "sea",
@@ -360,7 +360,7 @@
 {
 "content_id": "132468",
 "reference_id": 108522,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Seal",
 "media_type": "Text",
 "index_reference": "seal",
@@ -374,9 +374,9 @@
 {
 "id": "realia:Seal",
 "type": "realia",
-"preferred_label": "Seal",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Seal"
 }
 ]
 }
@@ -384,7 +384,7 @@
 {
 "content_id": "132121",
 "reference_id": 108175,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Second death",
 "media_type": "Text",
 "index_reference": "second death",
@@ -400,7 +400,7 @@
 {
 "content_id": "132324",
 "reference_id": 108378,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Servants",
 "media_type": "Text",
 "index_reference": "servants",
@@ -414,9 +414,9 @@
 {
 "id": "group:GenericServants",
 "type": "group",
-"preferred_label": "Servants",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Servants"
 }
 ]
 }
@@ -424,7 +424,7 @@
 {
 "content_id": "132304",
 "reference_id": 108358,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Set apart",
 "media_type": "Text",
 "index_reference": "set apart",
@@ -440,7 +440,7 @@
 {
 "content_id": "132170",
 "reference_id": 108224,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Seth",
 "media_type": "Text",
 "index_reference": "seth",
@@ -454,9 +454,9 @@
 {
 "id": "person:Seth",
 "type": "person",
-"preferred_label": "Seth",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Seth"
 }
 ]
 }
@@ -464,7 +464,7 @@
 {
 "content_id": "132160",
 "reference_id": 108214,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Seven",
 "media_type": "Text",
 "index_reference": "seven",
@@ -480,7 +480,7 @@
 {
 "content_id": "132411",
 "reference_id": 108465,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shame and honour",
 "media_type": "Text",
 "index_reference": "shame and honour",
@@ -496,7 +496,7 @@
 {
 "content_id": "132228",
 "reference_id": 108282,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shechem",
 "media_type": "Text",
 "index_reference": "shechem",
@@ -510,30 +510,30 @@
 {
 "id": "person:Shechem.2",
 "type": "person",
-"preferred_label": "Shechem",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shechem"
 },
 {
 "id": "person:Shechem.3",
 "type": "person",
-"preferred_label": "Shechem",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shechem"
 },
 {
 "id": "person:Shechem",
 "type": "person",
-"preferred_label": "Shechem",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shechem"
 },
 {
 "id": "place:Shechem",
 "type": "place",
-"preferred_label": "Shechem",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shechem"
 }
 ]
 }
@@ -541,7 +541,7 @@
 {
 "content_id": "132187",
 "reference_id": 108241,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shem",
 "media_type": "Text",
 "index_reference": "shem",
@@ -555,9 +555,9 @@
 {
 "id": "person:Shem",
 "type": "person",
-"preferred_label": "Shem",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shem"
 }
 ]
 }
@@ -565,7 +565,7 @@
 {
 "content_id": "132360",
 "reference_id": 108414,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shema",
 "media_type": "Text",
 "index_reference": "shema",
@@ -579,37 +579,37 @@
 {
 "id": "person:Shema.2",
 "type": "person",
-"preferred_label": "Shema",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shema"
 },
 {
 "id": "person:Shema.3",
 "type": "person",
-"preferred_label": "Shema",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shema"
 },
 {
 "id": "person:Shema.4",
 "type": "person",
-"preferred_label": "Shema",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shema"
 },
 {
 "id": "person:Shema",
 "type": "person",
-"preferred_label": "Shema",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shema"
 },
 {
 "id": "place:Shema",
 "type": "place",
-"preferred_label": "Shema",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shema"
 }
 ]
 }
@@ -617,7 +617,7 @@
 {
 "content_id": "132224",
 "reference_id": 108278,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shepherd",
 "media_type": "Text",
 "index_reference": "shepherd",
@@ -633,7 +633,7 @@
 {
 "content_id": "132399",
 "reference_id": 108453,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Shiloh",
 "media_type": "Text",
 "index_reference": "shiloh",
@@ -647,16 +647,16 @@
 {
 "id": "person:Shiloh",
 "type": "person",
-"preferred_label": "Shiloh",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shiloh"
 },
 {
 "id": "place:Shiloh",
 "type": "place",
-"preferred_label": "Shiloh",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Shiloh"
 }
 ]
 }
@@ -664,7 +664,7 @@
 {
 "content_id": "132341",
 "reference_id": 108395,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sihon and Og",
 "media_type": "Text",
 "index_reference": "sihon and og",
@@ -678,16 +678,16 @@
 {
 "id": "person:Og",
 "type": "person",
-"preferred_label": "Og",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Og"
 },
 {
 "id": "person:Sihon",
 "type": "person",
-"preferred_label": "Sihon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Sihon"
 }
 ]
 }
@@ -695,7 +695,7 @@
 {
 "content_id": "132067",
 "reference_id": 108121,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Silas",
 "media_type": "Text",
 "index_reference": "silas",
@@ -709,9 +709,9 @@
 {
 "id": "person:Silas",
 "type": "person",
-"preferred_label": "Silas",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Silas"
 }
 ]
 }
@@ -719,7 +719,7 @@
 {
 "content_id": "132030",
 "reference_id": 108084,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Siloam",
 "media_type": "Text",
 "index_reference": "siloam",
@@ -733,9 +733,9 @@
 {
 "id": "place:Siloam",
 "type": "place",
-"preferred_label": "Siloam",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Siloam"
 }
 ]
 }
@@ -743,7 +743,7 @@
 {
 "content_id": "132031",
 "reference_id": 108085,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Simon of Cyrene",
 "media_type": "Text",
 "index_reference": "simon of cyrene",
@@ -757,9 +757,9 @@
 {
 "id": "person:Simon.5",
 "type": "person",
-"preferred_label": "Simon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Simon"
 }
 ]
 }
@@ -767,7 +767,7 @@
 {
 "content_id": "132141",
 "reference_id": 108195,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sin",
 "media_type": "Text",
 "index_reference": "sin",
@@ -783,7 +783,7 @@
 {
 "content_id": "132299",
 "reference_id": 108353,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sin offerings",
 "media_type": "Text",
 "index_reference": "sin offerings",
@@ -799,7 +799,7 @@
 {
 "content_id": "132204",
 "reference_id": 108258,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Slaves",
 "media_type": "Text",
 "index_reference": "slaves",
@@ -815,7 +815,7 @@
 {
 "content_id": "132120",
 "reference_id": 108174,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Smyrna",
 "media_type": "Text",
 "index_reference": "smyrna",
@@ -829,9 +829,9 @@
 {
 "id": "place:Smyrna",
 "type": "place",
-"preferred_label": "Smyrna",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Smyrna"
 }
 ]
 }
@@ -839,7 +839,7 @@
 {
 "content_id": "132195",
 "reference_id": 108249,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sodom and Gomorrah",
 "media_type": "Text",
 "index_reference": "sodom and gomorrah",
@@ -853,16 +853,16 @@
 {
 "id": "place:Gomorrah",
 "type": "place",
-"preferred_label": "Gomorrah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Gomorrah"
 },
 {
 "id": "place:Sodom",
 "type": "place",
-"preferred_label": "Sodom",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Sodom"
 }
 ]
 }
@@ -870,7 +870,7 @@
 {
 "content_id": "132419",
 "reference_id": 108473,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Solomon",
 "media_type": "Text",
 "index_reference": "solomon",
@@ -884,9 +884,9 @@
 {
 "id": "person:Solomon",
 "type": "person",
-"preferred_label": "Solomon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Solomon"
 }
 ]
 }
@@ -894,7 +894,7 @@
 {
 "content_id": "131998",
 "reference_id": 108052,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Son of David",
 "media_type": "Text",
 "index_reference": "son of david",
@@ -918,7 +918,7 @@
 {
 "content_id": "132472",
 "reference_id": 108526,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Son of God",
 "media_type": "Text",
 "index_reference": "son of god",
@@ -934,7 +934,7 @@
 {
 "content_id": "132503",
 "reference_id": 108557,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Son of Man",
 "media_type": "Text",
 "index_reference": "son of man",
@@ -950,7 +950,7 @@
 {
 "content_id": "132177",
 "reference_id": 108231,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sons of God",
 "media_type": "Text",
 "index_reference": "sons of god",
@@ -966,7 +966,7 @@
 {
 "content_id": "132426",
 "reference_id": 108480,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Southern kingdom",
 "media_type": "Text",
 "index_reference": "southern kingdom",
@@ -980,9 +980,9 @@
 {
 "id": "place:Judea",
 "type": "place",
-"preferred_label": "Judea",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Judea"
 }
 ]
 }
@@ -990,7 +990,7 @@
 {
 "content_id": "132090",
 "reference_id": 108144,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Spain",
 "media_type": "Text",
 "index_reference": "spain",
@@ -1004,9 +1004,9 @@
 {
 "id": "place:Spain",
 "type": "place",
-"preferred_label": "Spain",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Spain"
 }
 ]
 }
@@ -1014,7 +1014,7 @@
 {
 "content_id": "132043",
 "reference_id": 108097,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Speak other languages",
 "media_type": "Text",
 "index_reference": "speak other languages",
@@ -1038,7 +1038,7 @@
 {
 "content_id": "132305",
 "reference_id": 108359,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Special water",
 "media_type": "Text",
 "index_reference": "special water",
@@ -1054,7 +1054,7 @@
 {
 "content_id": "132408",
 "reference_id": 108462,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Spiritual",
 "media_type": "Text",
 "index_reference": "spiritual",
@@ -1070,7 +1070,7 @@
 {
 "content_id": "132103",
 "reference_id": 108157,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Spiritual armour",
 "media_type": "Text",
 "index_reference": "spiritual armour",
@@ -1086,7 +1086,7 @@
 {
 "content_id": "132369",
 "reference_id": 108423,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Spiritual beings",
 "media_type": "Text",
 "index_reference": "spiritual beings",
@@ -1110,7 +1110,7 @@
 {
 "content_id": "132101",
 "reference_id": 108155,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Spiritual blessings",
 "media_type": "Text",
 "index_reference": "spiritual blessings",
@@ -1126,7 +1126,7 @@
 {
 "content_id": "132512",
 "reference_id": 108566,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Spiritual fight",
 "media_type": "Text",
 "index_reference": "spiritual fight",
@@ -1142,7 +1142,7 @@
 {
 "content_id": "132047",
 "reference_id": 108101,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Stephen",
 "media_type": "Text",
 "index_reference": "stephen",
@@ -1156,9 +1156,9 @@
 {
 "id": "person:Stephen",
 "type": "person",
-"preferred_label": "Stephen",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Stephen"
 }
 ]
 }
@@ -1166,7 +1166,7 @@
 {
 "content_id": "132077",
 "reference_id": 108131,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Stoics",
 "media_type": "Text",
 "index_reference": "stoics",
@@ -1180,9 +1180,9 @@
 {
 "id": "group:Stoic",
 "type": "group",
-"preferred_label": "Stoics",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Stoics"
 }
 ]
 }
@@ -1190,7 +1190,7 @@
 {
 "content_id": "132285",
 "reference_id": 108339,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Stone tablets",
 "media_type": "Text",
 "index_reference": "stone tablets",
@@ -1206,7 +1206,7 @@
 {
 "content_id": "132144",
 "reference_id": 108198,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Stories",
 "media_type": "Text",
 "index_reference": "stories",
@@ -1222,7 +1222,7 @@
 {
 "content_id": "132257",
 "reference_id": 108311,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Stubborn",
 "media_type": "Text",
 "index_reference": "stubborn",
@@ -1236,9 +1236,9 @@
 {
 "id": "keyterm:Stubborn",
 "type": "keyterm",
-"preferred_label": "Stubborn",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Stubborn"
 }
 ]
 }
@@ -1246,10 +1246,10 @@
 {
 "content_id": "132099",
 "reference_id": 108153,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Super-apostle",
 "media_type": "Text",
-"index_reference": "super-apostle",
+"index_reference": "superapostle",
 "language": "eng",
 "review_level": "None",
 "content": "<p>What Paul called certain Jewish leaders. These leaders opposed his work in the churches he helped start. Compared to Paul, they seemed strong, successful, healthy and rich. They told lies about Paul and claimed that he was always causing trouble. They took advantage of new believers and didn’t serve people with love. They pretended to serve God but were really serving Satan by doing evil.</p>",
@@ -1262,7 +1262,7 @@
 {
 "content_id": "132463",
 "reference_id": 108517,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Susa",
 "media_type": "Text",
 "index_reference": "susa",
@@ -1276,9 +1276,9 @@
 {
 "id": "place:Susa",
 "type": "place",
-"preferred_label": "Susa",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Susa"
 }
 ]
 }
@@ -1286,7 +1286,7 @@
 {
 "content_id": "132494",
 "reference_id": 108548,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Sword",
 "media_type": "Text",
 "index_reference": "sword",
@@ -1300,9 +1300,9 @@
 {
 "id": "realia:Sword",
 "type": "realia",
-"preferred_label": "Sword",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Sword"
 }
 ]
 }
@@ -1310,7 +1310,7 @@
 {
 "content_id": "131997",
 "reference_id": 108051,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Synagogue",
 "media_type": "Text",
 "index_reference": "synagogue",
@@ -1324,9 +1324,9 @@
 {
 "id": "realia:Synagogue",
 "type": "realia",
-"preferred_label": "Synagogue",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Synagogue"
 }
 ]
 }

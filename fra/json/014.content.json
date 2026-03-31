@@ -2,7 +2,7 @@
 {
 "content_id": "133377",
 "reference_id": 108125,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Macédoine",
 "media_type": "Text",
 "index_reference": "macédoine",
@@ -24,9 +24,9 @@
 {
 "id": "place:Macedonia",
 "type": "place",
-"preferred_label": "Macédoine",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Macédoine"
 }
 ]
 }
@@ -34,7 +34,7 @@
 {
 "content_id": "133555",
 "reference_id": 108303,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Madianites",
 "media_type": "Text",
 "index_reference": "madianites",
@@ -48,9 +48,9 @@
 {
 "id": "group:Midian",
 "type": "group",
-"preferred_label": "Madianite",
-"confidence": 0.8262,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Madianite"
 }
 ]
 }
@@ -58,7 +58,7 @@
 {
 "content_id": "133562",
 "reference_id": 108310,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Magie",
 "media_type": "Text",
 "index_reference": "magie",
@@ -68,13 +68,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Magic",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "magique"
+}
+]
 }
 },
 {
 "content_id": "133830",
 "reference_id": 108578,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malachie",
 "media_type": "Text",
 "index_reference": "malachie",
@@ -88,9 +96,9 @@
 {
 "id": "person:Malachi",
 "type": "person",
-"preferred_label": "Malachie",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Malachie"
 }
 ]
 }
@@ -98,10 +106,10 @@
 {
 "content_id": "133632",
 "reference_id": 108380,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Malédictions de l'alliance",
 "media_type": "Text",
-"index_reference": "malédictions de l'alliance",
+"index_reference": "malédictions de lalliance",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Terribles événements qui se produisaient lorsque les gens n&apos;étaient pas fidèles à une alliance. Dans les alliances avec Dieu, ne pas être fidèle signifiait ne pas vivre selon la volonté divine. Cela mettait fin aux bénédictions de l&apos;alliance et conduisait les gens à souffrir de bien des manières. La souffrance était généralement liée à la perte de la terre que Dieu leur avait donnée, à la mort de leurs enfants et à la perte de la présence de Dieu parmi eux.</p><p></p><p></p>",
@@ -114,7 +122,7 @@
 {
 "content_id": "133551",
 "reference_id": 108299,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manassé",
 "media_type": "Text",
 "index_reference": "manassé",
@@ -126,39 +134,32 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Manasseh",
-"type": "group",
-"preferred_label": "Manassé",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Manasseh",
-"type": "person",
-"preferred_label": "Manassé",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Manasseh.2",
 "type": "person",
-"preferred_label": "Manassé",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Manassé"
 },
 {
 "id": "person:Manasseh.3",
 "type": "person",
-"preferred_label": "Manassé",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Manassé"
 },
 {
 "id": "person:Manasseh.4",
 "type": "person",
-"preferred_label": "Manassé",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Manassé"
+},
+{
+"id": "person:Manasseh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Manassé"
 }
 ]
 }
@@ -166,7 +167,7 @@
 {
 "content_id": "133575",
 "reference_id": 108323,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Manne",
 "media_type": "Text",
 "index_reference": "manne",
@@ -182,7 +183,7 @@
 {
 "content_id": "133321",
 "reference_id": 108069,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Marc",
 "media_type": "Text",
 "index_reference": "marc",
@@ -196,9 +197,9 @@
 {
 "id": "person:Mark",
 "type": "person",
-"preferred_label": "Marc",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Marc"
 }
 ]
 }
@@ -206,7 +207,7 @@
 {
 "content_id": "133772",
 "reference_id": 108520,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mardochée",
 "media_type": "Text",
 "index_reference": "mardochée",
@@ -218,18 +219,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mordecai",
-"type": "person",
-"preferred_label": "Mardochée",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Mordecai.2",
 "type": "person",
-"preferred_label": "Mardochée",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mardochée"
+},
+{
+"id": "person:Mordecai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mardochée"
 }
 ]
 }
@@ -237,7 +238,7 @@
 {
 "content_id": "133458",
 "reference_id": 108206,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mariage",
 "media_type": "Text",
 "index_reference": "mariage",
@@ -253,7 +254,7 @@
 {
 "content_id": "133706",
 "reference_id": 108454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Marie de Nazareth",
 "media_type": "Text",
 "index_reference": "marie de nazareth",
@@ -263,13 +264,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marie"
+}
+]
 }
 },
 {
 "content_id": "133320",
 "reference_id": 108068,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Marie Madeleine",
 "media_type": "Text",
 "index_reference": "marie madeleine",
@@ -279,29 +288,101 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Marymagdalene",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marie de Magdala"
+}
+]
 }
 },
 {
 "content_id": "133335",
 "reference_id": 108083,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Marie, Marthe et Lazare",
 "media_type": "Text",
-"index_reference": "marie, marthe et lazare",
+"index_reference": "marie marthe et lazare",
 "language": "fra",
 "review_level": "None",
 "content": "<p>Deux sœurs et un frère qui étaient des amis proches de Jésus. Ils vivaient à Béthanie, un village près de Jérusalem. Jésus séjournait souvent chez eux. Lazare est mort et a été mis au tombeau pendant quatre jours avant l&apos;arrivée de Jésus, qui l&apos;a ramené à la vie. Marie a versé un parfum coûteux sur la tête de Jésus pour montrer son amour profond pour lui.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazare"
+},
+{
+"id": "person:Lazarus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazare"
+},
+{
+"id": "person:Martha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marthe"
+},
+{
+"id": "person:Mary.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marie"
+},
+{
+"id": "person:Mary.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marie"
+},
+{
+"id": "person:Mary.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marie"
+},
+{
+"id": "person:Mary.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marie"
+},
+{
+"id": "person:Mary.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marie"
+},
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Marie"
+}
+]
 }
 },
 {
 "content_id": "133791",
 "reference_id": 108539,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Matthieu",
 "media_type": "Text",
 "index_reference": "matthieu",
@@ -315,16 +396,9 @@
 {
 "id": "person:Matthew",
 "type": "person",
-"preferred_label": "Matthieu",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "person:Matthias",
-"type": "person",
-"preferred_label": "Matthias",
-"confidence": 0.8139,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Matthieu"
 }
 ]
 }
@@ -332,7 +406,7 @@
 {
 "content_id": "133588",
 "reference_id": 108336,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Médiateur",
 "media_type": "Text",
 "index_reference": "médiateur",
@@ -348,7 +422,7 @@
 {
 "content_id": "133713",
 "reference_id": 108461,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Médium",
 "media_type": "Text",
 "index_reference": "médium",
@@ -364,7 +438,7 @@
 {
 "content_id": "133504",
 "reference_id": 108252,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Melchisédek",
 "media_type": "Text",
 "index_reference": "melchisédek",
@@ -378,9 +452,9 @@
 {
 "id": "person:Melchizedek",
 "type": "person",
-"preferred_label": "Melchisédek",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Melchisédek"
 }
 ]
 }
@@ -388,7 +462,7 @@
 {
 "content_id": "133719",
 "reference_id": 108467,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Méphibocheth",
 "media_type": "Text",
 "index_reference": "méphibocheth",
@@ -400,18 +474,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Mephibosheth",
-"type": "person",
-"preferred_label": "Mephiboscheth",
-"confidence": 0.8352,
-"match_method": "embedding"
-},
-{
 "id": "person:Mephibosheth.2",
 "type": "person",
-"preferred_label": "Mephiboscheth",
-"confidence": 0.8352,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mephiboscheth"
+},
+{
+"id": "person:Mephibosheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mephiboscheth"
 }
 ]
 }
@@ -419,7 +493,7 @@
 {
 "content_id": "133572",
 "reference_id": 108320,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mer des Roseaux",
 "media_type": "Text",
 "index_reference": "mer des roseaux",
@@ -429,13 +503,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:RedSea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "mer Rouge"
+}
+]
 }
 },
 {
 "content_id": "133827",
 "reference_id": 108575,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mer Méditerranée",
 "media_type": "Text",
 "index_reference": "mer méditerranée",
@@ -449,9 +531,9 @@
 {
 "id": "place:GreatSea",
 "type": "place",
-"preferred_label": "Mediterranean Sea",
-"confidence": 0.8717,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mediterranean Sea"
 }
 ]
 }
@@ -459,7 +541,7 @@
 {
 "content_id": "133646",
 "reference_id": 108394,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Meriba",
 "media_type": "Text",
 "index_reference": "meriba",
@@ -471,18 +553,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Meribah",
-"type": "place",
-"preferred_label": "Meriba",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Meribah.2",
 "type": "place",
-"preferred_label": "Meriba",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Meriba"
+},
+{
+"id": "place:Meribah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Meriba"
 }
 ]
 }
@@ -490,7 +572,7 @@
 {
 "content_id": "133496",
 "reference_id": 108244,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mésopotamie",
 "media_type": "Text",
 "index_reference": "mésopotamie",
@@ -502,18 +584,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Mesopotamia",
-"type": "group",
-"preferred_label": "Mésopotamie",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Mesopotamia",
 "type": "place",
-"preferred_label": "Mésopotamie",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Mésopotamie"
 }
 ]
 }
@@ -521,7 +596,7 @@
 {
 "content_id": "133786",
 "reference_id": 108534,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Messages de jugement",
 "media_type": "Text",
 "index_reference": "messages de jugement",
@@ -537,7 +612,7 @@
 {
 "content_id": "133779",
 "reference_id": 108527,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Messie",
 "media_type": "Text",
 "index_reference": "messie",
@@ -547,13 +622,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jésus"
+}
+]
 }
 },
 {
 "content_id": "133475",
 "reference_id": 108223,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Meurtre",
 "media_type": "Text",
 "index_reference": "meurtre",
@@ -569,7 +652,7 @@
 {
 "content_id": "133828",
 "reference_id": 108576,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Michée",
 "media_type": "Text",
 "index_reference": "michée",
@@ -579,13 +662,63 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Micah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mika"
+},
+{
+"id": "person:Micah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mika"
+},
+{
+"id": "person:Micah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micah"
+},
+{
+"id": "person:Micaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaiah"
+},
+{
+"id": "person:Mica",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mica"
+}
+]
 }
 },
 {
 "content_id": "133817",
 "reference_id": 108565,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Michel",
 "media_type": "Text",
 "index_reference": "michel",
@@ -597,81 +730,81 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Michael",
-"type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
-},
-{
 "id": "person:Michael.10",
 "type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
 },
 {
 "id": "person:Michael.11",
 "type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
 },
 {
 "id": "person:Michael.2",
 "type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
 },
 {
 "id": "person:Michael.3",
 "type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
 },
 {
 "id": "person:Michael.4",
 "type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
 },
 {
 "id": "person:Michael.5",
 "type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
 },
 {
 "id": "person:Michael.6",
 "type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
 },
 {
 "id": "person:Michael.7",
 "type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
 },
 {
 "id": "person:Michael.8",
 "type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
 },
 {
 "id": "person:Michael.9",
 "type": "person",
-"preferred_label": "Micaël",
-"confidence": 0.8075,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
+},
+{
+"id": "person:Michael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Micaël"
 }
 ]
 }
@@ -679,7 +812,7 @@
 {
 "content_id": "133557",
 "reference_id": 108305,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miracles",
 "media_type": "Text",
 "index_reference": "miracles",
@@ -695,7 +828,7 @@
 {
 "content_id": "133610",
 "reference_id": 108358,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mis à part",
 "media_type": "Text",
 "index_reference": "mis à part",
@@ -711,7 +844,7 @@
 {
 "content_id": "133594",
 "reference_id": 108342,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Miséricorde",
 "media_type": "Text",
 "index_reference": "miséricorde",
@@ -721,13 +854,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "pitié"
+}
+]
 }
 },
 {
 "content_id": "133649",
 "reference_id": 108397,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Moab",
 "media_type": "Text",
 "index_reference": "moab",
@@ -741,16 +882,16 @@
 {
 "id": "person:Moab",
 "type": "person",
-"preferred_label": "Moab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Moab"
 },
 {
 "id": "place:Moab",
 "type": "place",
-"preferred_label": "Moab",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Moab"
 }
 ]
 }
@@ -758,7 +899,7 @@
 {
 "content_id": "133552",
 "reference_id": 108300,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Moïse",
 "media_type": "Text",
 "index_reference": "moïse",
@@ -780,9 +921,9 @@
 {
 "id": "person:Moses",
 "type": "person",
-"preferred_label": "Moïse",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Moïse"
 }
 ]
 }
@@ -790,7 +931,7 @@
 {
 "content_id": "133781",
 "reference_id": 108529,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Monde céleste",
 "media_type": "Text",
 "index_reference": "monde céleste",
@@ -821,7 +962,7 @@
 {
 "content_id": "133315",
 "reference_id": 108063,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mont des Oliviers",
 "media_type": "Text",
 "index_reference": "mont des oliviers",
@@ -831,13 +972,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:OlivesMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "montagne des oliviers"
+}
+]
 }
 },
 {
 "content_id": "133757",
 "reference_id": 108505,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mont Moria",
 "media_type": "Text",
 "index_reference": "mont moria",
@@ -847,13 +996,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:MoriahMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "montagne de Morija"
+}
+]
 }
 },
 {
 "content_id": "133579",
 "reference_id": 108327,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mont Sinaï",
 "media_type": "Text",
 "index_reference": "mont sinaï",
@@ -863,13 +1020,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:SinaiMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "montagne de Sinaï"
+}
+]
 }
 },
 {
 "content_id": "133442",
 "reference_id": 108190,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mort et enfer",
 "media_type": "Text",
 "index_reference": "mort et enfer",
@@ -879,13 +1044,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
+}
+]
 }
 },
 {
 "content_id": "133574",
 "reference_id": 108322,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Myriam",
 "media_type": "Text",
 "index_reference": "myriam",
@@ -897,18 +1070,18 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Miriam",
-"type": "person",
-"preferred_label": "Miriam",
-"confidence": 0.874,
-"match_method": "embedding"
-},
-{
 "id": "person:Miriam.2",
 "type": "person",
-"preferred_label": "Miriam",
-"confidence": 0.874,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miriam"
+},
+{
+"id": "person:Miriam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Miriam"
 }
 ]
 }
@@ -916,7 +1089,7 @@
 {
 "content_id": "133397",
 "reference_id": 108145,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Mystère du Christ",
 "media_type": "Text",
 "index_reference": "mystère du christ",

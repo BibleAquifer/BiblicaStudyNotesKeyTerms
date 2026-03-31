@@ -2,7 +2,7 @@
 {
 "content_id": "183319",
 "reference_id": 108425,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ऐ",
 "media_type": "Text",
 "index_reference": "ऐ",
@@ -12,7 +12,22 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Ai.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आई"
+},
+{
+"id": "place:Ai",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "आई"
+}
+]
 }
 }
 ]

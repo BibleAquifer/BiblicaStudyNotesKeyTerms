@@ -2,7 +2,7 @@
 {
 "content_id": "232695",
 "reference_id": 108094,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "猶大",
 "media_type": "Text",
 "index_reference": "猶大",
@@ -12,13 +12,56 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Judas.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Judas.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Jude",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jude"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judas"
+}
+]
 }
 },
 {
 "content_id": "232769",
 "reference_id": 108168,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "猶大",
 "media_type": "Text",
 "index_reference": "猶大",
@@ -28,13 +71,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Jude",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jude"
+}
+]
 }
 },
 {
 "content_id": "232892",
 "reference_id": 108291,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "猶大",
 "media_type": "Text",
 "index_reference": "猶大",
@@ -44,13 +95,77 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Hodiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hodiah"
+},
+{
+"id": "person:Judah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Hodaviah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hodaviah"
+},
+{
+"id": "place:Judea.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judah"
+}
+]
 }
 },
 {
 "content_id": "232636",
 "reference_id": 108035,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "猶太地",
 "media_type": "Text",
 "index_reference": "猶太地",
@@ -60,13 +175,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judea"
+}
+]
 }
 },
 {
 "content_id": "232671",
 "reference_id": 108070,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "猶太法律",
 "media_type": "Text",
 "index_reference": "猶太法律",
@@ -97,7 +220,7 @@
 {
 "content_id": "232652",
 "reference_id": 108051,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "猶太會堂",
 "media_type": "Text",
 "index_reference": "猶太會堂",
@@ -107,13 +230,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Synagogue"
+}
+]
 }
 },
 {
 "content_id": "233104",
 "reference_id": 108503,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "猶太人",
 "media_type": "Text",
 "index_reference": "猶太人",
@@ -138,13 +269,21 @@
 "language": "zht"
 }
 ],
-"acai": []
+"acai": [
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jews"
+}
+]
 }
 },
 {
 "content_id": "233155",
 "reference_id": 108554,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "幼發拉底河",
 "media_type": "Text",
 "index_reference": "幼發拉底河",
@@ -154,7 +293,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Euphrates River"
+}
+]
 }
 }
 ]

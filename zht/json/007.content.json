@@ -2,7 +2,7 @@
 {
 "content_id": "232657",
 "reference_id": 108056,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "比喻",
 "media_type": "Text",
 "index_reference": "比喻",
@@ -18,7 +18,7 @@
 {
 "content_id": "233173",
 "reference_id": 108572,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "彼得",
 "media_type": "Text",
 "index_reference": "彼得",
@@ -28,13 +28,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Peter",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Peter"
+}
+]
 }
 },
 {
 "content_id": "232715",
 "reference_id": 108114,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "彼西底的安提阿",
 "media_type": "Text",
 "index_reference": "彼西底的安提阿",
@@ -44,13 +52,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Antioch.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Antioch"
+}
+]
 }
 },
 {
 "content_id": "232730",
 "reference_id": 108129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "庇哩亞",
 "media_type": "Text",
 "index_reference": "庇哩亞",
@@ -60,13 +76,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Berea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Berea"
+}
+]
 }
 },
 {
 "content_id": "232692",
 "reference_id": 108091,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "畢士大池",
 "media_type": "Text",
 "index_reference": "畢士大池",
@@ -76,7 +100,15 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "realia:Pool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pool"
+}
+]
 }
 }
 ]

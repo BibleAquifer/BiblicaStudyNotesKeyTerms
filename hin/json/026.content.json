@@ -2,7 +2,7 @@
 {
 "content_id": "183447",
 "reference_id": 108553,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नई वाचा",
 "media_type": "Text",
 "index_reference": "नई वाचा",
@@ -18,7 +18,7 @@
 {
 "content_id": "183437",
 "reference_id": 108543,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नई सृष्टि",
 "media_type": "Text",
 "index_reference": "नई सृष्टि",
@@ -34,7 +34,7 @@
 {
 "content_id": "183443",
 "reference_id": 108549,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नए यरूशलेम",
 "media_type": "Text",
 "index_reference": "नए यरूशलेम",
@@ -50,7 +50,7 @@
 {
 "content_id": "183195",
 "reference_id": 108301,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नदी नील",
 "media_type": "Text",
 "index_reference": "नदी नील",
@@ -60,13 +60,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Nile",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nile River"
+}
+]
 }
 },
 {
 "content_id": "183448",
 "reference_id": 108554,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नदी फ़रात",
 "media_type": "Text",
 "index_reference": "नदी फ़रात",
@@ -76,13 +84,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Euphrates",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Euphrates River"
+}
+]
 }
 },
 {
 "content_id": "183300",
 "reference_id": 108406,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नदी यरदन",
 "media_type": "Text",
 "index_reference": "नदी यरदन",
@@ -92,13 +108,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Jordan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यरदन"
+}
+]
 }
 },
 {
 "content_id": "183310",
 "reference_id": 108416,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नबी",
 "media_type": "Text",
 "index_reference": "नबी",
@@ -122,7 +146,7 @@
 {
 "content_id": "183395",
 "reference_id": 108501,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नबूकदनेस्सर",
 "media_type": "Text",
 "index_reference": "नबूकदनेस्सर",
@@ -136,9 +160,9 @@
 {
 "id": "person:Nebuchadnezzar",
 "type": "person",
-"preferred_label": "नबूकदनेस्सर",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नबूकदनेस्सर"
 }
 ]
 }
@@ -146,7 +170,7 @@
 {
 "content_id": "650775",
 "reference_id": 209393,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नया गीत",
 "media_type": "Text",
 "index_reference": "नया गीत",
@@ -175,7 +199,7 @@
 {
 "content_id": "182983",
 "reference_id": 108089,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नया जन्म",
 "media_type": "Text",
 "index_reference": "नया जन्म",
@@ -191,7 +215,7 @@
 {
 "content_id": "183422",
 "reference_id": 108528,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नया नियम",
 "media_type": "Text",
 "index_reference": "नया नियम",
@@ -207,7 +231,7 @@
 {
 "content_id": "182968",
 "reference_id": 108074,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नरक",
 "media_type": "Text",
 "index_reference": "नरक",
@@ -217,16 +241,24 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नरक"
+}
+]
 }
 },
 {
 "content_id": "183270",
 "reference_id": 108376,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नव-वर्ष का पर्व",
 "media_type": "Text",
-"index_reference": "नव-वर्ष का पर्व",
+"index_reference": "नववर्ष का पर्व",
 "language": "hin",
 "review_level": "None",
 "content": "<p>सातवें महीने के पहले दिन में, मेढ़ों के सींग तुरही की तरह फूंके जाते थे। यह उस दिन से नौ दिन पहले होता था जब पापों का प्रायश्चित किया जाता था। इस्राएली उन दिनों का उपयोग आराम करने और अपने पापों के बारे में सोचने और उन्हें स्वीकार करने के लिए करते थे। वे प्रायश्चित के दिन के लिए तैयार होने के लिए उनका उपयोग करते थे। इस पर्व को अब रोश हशनाह कहा जाता है। यह अब यहूदियों के लिए नए साल का पहला दिन माना जाता है।</p>",
@@ -239,7 +271,7 @@
 {
 "content_id": "182926",
 "reference_id": 108032,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नसरत के युसूफ",
 "media_type": "Text",
 "index_reference": "नसरत के युसूफ",
@@ -249,13 +281,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Joseph.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "यूसुफ"
+}
+]
 }
 },
 {
 "content_id": "183409",
 "reference_id": 108515,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नहेम्याह",
 "media_type": "Text",
 "index_reference": "नहेम्याह",
@@ -267,25 +307,25 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nehemiah",
-"type": "person",
-"preferred_label": "नहेम्याह",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Nehemiah.2",
 "type": "person",
-"preferred_label": "नहेम्याह",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नहेम्याह"
 },
 {
 "id": "person:Nehemiah.3",
 "type": "person",
-"preferred_label": "नहेम्याह",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नहेम्याह"
+},
+{
+"id": "person:Nehemiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नहेम्याह"
 }
 ]
 }
@@ -293,7 +333,7 @@
 {
 "content_id": "183278",
 "reference_id": 108384,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नाज़ीर",
 "media_type": "Text",
 "index_reference": "नाज़ीर",
@@ -303,13 +343,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "group:Nazirite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nazirites"
+}
+]
 }
 },
 {
 "content_id": "183364",
 "reference_id": 108470,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नातान",
 "media_type": "Text",
 "index_reference": "नातान",
@@ -321,53 +369,46 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Nathan",
-"type": "person",
-"preferred_label": "नातान",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Nathan.2",
 "type": "person",
-"preferred_label": "नातान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नातान"
 },
 {
 "id": "person:Nathan.3",
 "type": "person",
-"preferred_label": "नातान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नातान"
 },
 {
 "id": "person:Nathan.4",
 "type": "person",
-"preferred_label": "नातान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नातान"
 },
 {
 "id": "person:Nathan.5",
 "type": "person",
-"preferred_label": "नातान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नातान"
 },
 {
 "id": "person:Nathan.6",
 "type": "person",
-"preferred_label": "नातान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नातान"
 },
 {
-"id": "person:Nathanael",
+"id": "person:Nathan",
 "type": "person",
-"preferred_label": "नतनएल",
-"confidence": 0.8047,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नातान"
 }
 ]
 }
@@ -375,7 +416,7 @@
 {
 "content_id": "183250",
 "reference_id": 108356,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नादाब और अबीहू",
 "media_type": "Text",
 "index_reference": "नादाब और अबीहू",
@@ -385,13 +426,49 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Abihu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "अबीहू"
+},
+{
+"id": "person:Nadab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नादाब"
+},
+{
+"id": "person:Nadab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नादाब"
+},
+{
+"id": "person:Nadab.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नादाब"
+},
+{
+"id": "person:Nadab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नादाब"
+}
+]
 }
 },
 {
 "content_id": "183119",
 "reference_id": 108225,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नाम",
 "media_type": "Text",
 "index_reference": "नाम",
@@ -401,13 +478,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Name",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Name"
+},
+{
+"id": "person:Naam",
+"type": "person",
+"confidence": 0.964,
+"match_method": "embedding",
+"preferred_label": "नाम"
+}
+]
 }
 },
 {
 "content_id": "183382",
 "reference_id": 108488,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नामान",
 "media_type": "Text",
 "index_reference": "नामान",
@@ -419,53 +511,32 @@
 "resource": [],
 "acai": [
 {
-"id": "person:Naaman",
-"type": "person",
-"preferred_label": "नामान",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Naaman.2",
 "type": "person",
-"preferred_label": "नामान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नामान"
 },
 {
 "id": "person:Naaman.3",
 "type": "person",
-"preferred_label": "नामान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नामान"
 },
 {
 "id": "person:Naaman.4",
 "type": "person",
-"preferred_label": "नामान",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नामान"
 },
 {
-"id": "person:Naamah",
+"id": "person:Naaman",
 "type": "person",
-"preferred_label": "नामाह",
-"confidence": 0.8763,
-"match_method": "embedding"
-},
-{
-"id": "person:Naamah.2",
-"type": "person",
-"preferred_label": "नामाह",
-"confidence": 0.8763,
-"match_method": "embedding"
-},
-{
-"id": "place:Naamah",
-"type": "place",
-"preferred_label": "नामाह",
-"confidence": 0.8763,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नामान"
 }
 ]
 }
@@ -473,7 +544,7 @@
 {
 "content_id": "182965",
 "reference_id": 108071,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नासरत",
 "media_type": "Text",
 "index_reference": "नासरत",
@@ -487,16 +558,9 @@
 {
 "id": "place:Nazareth",
 "type": "place",
-"preferred_label": "नासरत",
 "confidence": 1.0,
-"match_method": "embedding"
-},
-{
-"id": "group:Nephushesim",
-"type": "group",
-"preferred_label": "नपूशस",
-"confidence": 0.8379,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नासरत"
 }
 ]
 }
@@ -504,7 +568,7 @@
 {
 "content_id": "183348",
 "reference_id": 108454,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नासरत की मरियम",
 "media_type": "Text",
 "index_reference": "नासरत की मरियम",
@@ -514,13 +578,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Mary",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "मरियम"
+}
+]
 }
 },
 {
 "content_id": "183210",
 "reference_id": 108316,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "निर्गमन",
 "media_type": "Text",
 "index_reference": "निर्गमन",
@@ -536,7 +608,7 @@
 {
 "content_id": "182982",
 "reference_id": 108088,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नीकुदेमुस",
 "media_type": "Text",
 "index_reference": "नीकुदेमुस",
@@ -550,9 +622,9 @@
 {
 "id": "person:Nicodemus",
 "type": "person",
-"preferred_label": "नीकुदेमुस",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नीकुदेमुस"
 }
 ]
 }
@@ -560,7 +632,7 @@
 {
 "content_id": "183425",
 "reference_id": 108531,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नीतिवाचन",
 "media_type": "Text",
 "index_reference": "नीतिवाचन",
@@ -570,13 +642,21 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "keyterm:Saying",
+"type": "keyterm",
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Proverb"
+}
+]
 }
 },
 {
 "content_id": "183468",
 "reference_id": 108574,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नीनवे",
 "media_type": "Text",
 "index_reference": "नीनवे",
@@ -588,18 +668,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Nineveh",
-"type": "group",
-"preferred_label": "नीनवे",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "place:Nineveh",
 "type": "place",
-"preferred_label": "नीनवे",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "नीनवे"
 }
 ]
 }
@@ -607,7 +680,7 @@
 {
 "content_id": "183124",
 "reference_id": 108230,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नूह",
 "media_type": "Text",
 "index_reference": "नूह",
@@ -617,13 +690,28 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नूह"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "नूह"
+}
+]
 }
 },
 {
 "content_id": "183132",
 "reference_id": 108238,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "नूह के साथ वाचा",
 "media_type": "Text",
 "index_reference": "नूह के साथ वाचा",

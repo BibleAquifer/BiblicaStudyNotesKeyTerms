@@ -2,7 +2,7 @@
 {
 "content_id": "132347",
 "reference_id": 108401,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baal",
 "media_type": "Text",
 "index_reference": "baal",
@@ -16,37 +16,37 @@
 {
 "id": "person:Baal.2",
 "type": "person",
-"preferred_label": "Baal",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Baal"
 },
 {
 "id": "person:Baal",
 "type": "person",
-"preferred_label": "Baal",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Baal"
 },
 {
 "id": "place:Baalath-beer",
 "type": "place",
-"preferred_label": "Baalath-beer",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Baalath-beer"
 },
 {
 "id": "deity:Lord",
 "type": "deity",
-"preferred_label": "LORD",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "LORD"
 },
 {
 "id": "deity:Baal",
 "type": "deity",
-"preferred_label": "Baal",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Baal"
 }
 ]
 }
@@ -54,7 +54,7 @@
 {
 "content_id": "132348",
 "reference_id": 108402,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baal Peor",
 "media_type": "Text",
 "index_reference": "baal peor",
@@ -68,9 +68,9 @@
 {
 "id": "place:Peor",
 "type": "place",
-"preferred_label": "Baal-peor",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Baal-peor"
 }
 ]
 }
@@ -78,7 +78,7 @@
 {
 "content_id": "132185",
 "reference_id": 108239,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babel",
 "media_type": "Text",
 "index_reference": "babel",
@@ -94,7 +94,7 @@
 {
 "content_id": "132444",
 "reference_id": 108498,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Babylon",
 "media_type": "Text",
 "index_reference": "babylon",
@@ -108,16 +108,16 @@
 {
 "id": "place:Babylon.2",
 "type": "place",
-"preferred_label": "Babylon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Babylon"
 },
 {
 "id": "place:Babylon",
 "type": "place",
-"preferred_label": "Babylon",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Babylon"
 }
 ]
 }
@@ -125,7 +125,7 @@
 {
 "content_id": "132344",
 "reference_id": 108398,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balaam",
 "media_type": "Text",
 "index_reference": "balaam",
@@ -139,9 +139,9 @@
 {
 "id": "person:Balaam",
 "type": "person",
-"preferred_label": "Balaam",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Balaam"
 }
 ]
 }
@@ -149,7 +149,7 @@
 {
 "content_id": "132342",
 "reference_id": 108396,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Balak",
 "media_type": "Text",
 "index_reference": "balak",
@@ -163,9 +163,9 @@
 {
 "id": "person:Balak",
 "type": "person",
-"preferred_label": "Balak",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Balak"
 }
 ]
 }
@@ -173,7 +173,7 @@
 {
 "content_id": "131983",
 "reference_id": 108037,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Baptism",
 "media_type": "Text",
 "index_reference": "baptism",
@@ -187,9 +187,9 @@
 {
 "id": "keyterm:Baptism",
 "type": "keyterm",
-"preferred_label": "Baptism",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Baptism"
 }
 ]
 }
@@ -197,7 +197,7 @@
 {
 "content_id": "132022",
 "reference_id": 108076,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barabbas",
 "media_type": "Text",
 "index_reference": "barabbas",
@@ -211,9 +211,9 @@
 {
 "id": "person:Barabbas",
 "type": "person",
-"preferred_label": "Barabbas",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Barabbas"
 }
 ]
 }
@@ -221,7 +221,7 @@
 {
 "content_id": "132381",
 "reference_id": 108435,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barak",
 "media_type": "Text",
 "index_reference": "barak",
@@ -235,9 +235,9 @@
 {
 "id": "person:Barak",
 "type": "person",
-"preferred_label": "Barak",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Barak"
 }
 ]
 }
@@ -245,7 +245,7 @@
 {
 "content_id": "132053",
 "reference_id": 108107,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Barnabas",
 "media_type": "Text",
 "index_reference": "barnabas",
@@ -259,9 +259,9 @@
 {
 "id": "person:Barnabas",
 "type": "person",
-"preferred_label": "Barnabas",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Barnabas"
 }
 ]
 }
@@ -269,7 +269,7 @@
 {
 "content_id": "132414",
 "reference_id": 108468,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bathsheba",
 "media_type": "Text",
 "index_reference": "bathsheba",
@@ -283,9 +283,9 @@
 {
 "id": "person:Bathsheba",
 "type": "person",
-"preferred_label": "Bathsheba",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Bathsheba"
 }
 ]
 }
@@ -293,7 +293,7 @@
 {
 "content_id": "132440",
 "reference_id": 108494,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "BC",
 "media_type": "Text",
 "index_reference": "bc",
@@ -309,7 +309,7 @@
 {
 "content_id": "132241",
 "reference_id": 108295,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Beersheba",
 "media_type": "Text",
 "index_reference": "beersheba",
@@ -323,9 +323,9 @@
 {
 "id": "place:Beersheba",
 "type": "place",
-"preferred_label": "Beersheba",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Beersheba"
 }
 ]
 }
@@ -333,7 +333,7 @@
 {
 "content_id": "132201",
 "reference_id": 108255,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Believe in",
 "media_type": "Text",
 "index_reference": "believe in",
@@ -355,9 +355,9 @@
 {
 "id": "keyterm:BelieveIn",
 "type": "keyterm",
-"preferred_label": "Believe In",
 "confidence": 0.9789,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Believe In"
 }
 ]
 }
@@ -365,7 +365,7 @@
 {
 "content_id": "132023",
 "reference_id": 108077,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Believer",
 "media_type": "Text",
 "index_reference": "believer",
@@ -381,7 +381,7 @@
 {
 "content_id": "132240",
 "reference_id": 108294,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Benjamin",
 "media_type": "Text",
 "index_reference": "benjamin",
@@ -395,37 +395,37 @@
 {
 "id": "person:Benjamin.2",
 "type": "person",
-"preferred_label": "Benjamin",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Benjamin"
 },
 {
 "id": "person:Benjamin.3",
 "type": "person",
-"preferred_label": "Benjamin",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Benjamin"
 },
 {
 "id": "person:Benjamin.4",
 "type": "person",
-"preferred_label": "Benjamin",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Benjamin"
 },
 {
 "id": "person:Benjamin.5",
 "type": "person",
-"preferred_label": "Benjamin",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Benjamin"
 },
 {
 "id": "person:Benjamin",
 "type": "person",
-"preferred_label": "Benjamin",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Benjamin"
 }
 ]
 }
@@ -433,7 +433,7 @@
 {
 "content_id": "132075",
 "reference_id": 108129,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Berea",
 "media_type": "Text",
 "index_reference": "berea",
@@ -447,9 +447,9 @@
 {
 "id": "place:Berea",
 "type": "place",
-"preferred_label": "Berea",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Berea"
 }
 ]
 }
@@ -457,7 +457,7 @@
 {
 "content_id": "132021",
 "reference_id": 108075,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bethany",
 "media_type": "Text",
 "index_reference": "bethany",
@@ -471,16 +471,16 @@
 {
 "id": "place:Bethany.2",
 "type": "place",
-"preferred_label": "Bethany",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Bethany"
 },
 {
 "id": "place:Bethany",
 "type": "place",
-"preferred_label": "Bethany",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Bethany"
 }
 ]
 }
@@ -488,7 +488,7 @@
 {
 "content_id": "132218",
 "reference_id": 108272,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bethel",
 "media_type": "Text",
 "index_reference": "bethel",
@@ -502,16 +502,16 @@
 {
 "id": "place:Bethel.2",
 "type": "place",
-"preferred_label": "Bethel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Bethel"
 },
 {
 "id": "place:Bethel",
 "type": "place",
-"preferred_label": "Bethel",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Bethel"
 }
 ]
 }
@@ -519,7 +519,7 @@
 {
 "content_id": "132388",
 "reference_id": 108442,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bethlehem",
 "media_type": "Text",
 "index_reference": "bethlehem",
@@ -533,16 +533,16 @@
 {
 "id": "place:Bethlehem.2",
 "type": "place",
-"preferred_label": "Bethlehem",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Bethlehem"
 },
 {
 "id": "place:Bethlehem",
 "type": "place",
-"preferred_label": "Bethlehem",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Bethlehem"
 }
 ]
 }
@@ -550,7 +550,7 @@
 {
 "content_id": "132139",
 "reference_id": 108193,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bible",
 "media_type": "Text",
 "index_reference": "bible",
@@ -574,7 +574,7 @@
 {
 "content_id": "132235",
 "reference_id": 108289,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bilhah",
 "media_type": "Text",
 "index_reference": "bilhah",
@@ -596,16 +596,16 @@
 {
 "id": "person:Bilhah",
 "type": "person",
-"preferred_label": "Bilhah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Bilhah"
 },
 {
 "id": "place:Bilhah",
 "type": "place",
-"preferred_label": "Bilhah",
 "confidence": 1.0,
-"match_method": "content_id"
+"match_method": "content_id",
+"preferred_label": "Bilhah"
 }
 ]
 }
@@ -613,7 +613,7 @@
 {
 "content_id": "132191",
 "reference_id": 108245,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Bless all nations",
 "media_type": "Text",
 "index_reference": "bless all nations",
@@ -629,7 +629,7 @@
 {
 "content_id": "132261",
 "reference_id": 108315,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Blood",
 "media_type": "Text",
 "index_reference": "blood",
@@ -643,16 +643,16 @@
 {
 "id": "keyterm:Blood",
 "type": "keyterm",
-"preferred_label": "Blood",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Blood"
 },
 {
 "id": "keyterm:Bleed",
 "type": "keyterm",
-"preferred_label": "Bleed",
 "confidence": 0.8277,
-"match_method": "embedding"
+"match_method": "embedding",
+"preferred_label": "Bleed"
 }
 ]
 }
@@ -660,7 +660,7 @@
 {
 "content_id": "132089",
 "reference_id": 108143,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Body of Christ",
 "media_type": "Text",
 "index_reference": "body of christ",
@@ -676,7 +676,7 @@
 {
 "content_id": "132115",
 "reference_id": 108169,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Book of Enoch",
 "media_type": "Text",
 "index_reference": "book of enoch",
@@ -692,7 +692,7 @@
 {
 "content_id": "132290",
 "reference_id": 108344,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Book of life",
 "media_type": "Text",
 "index_reference": "book of life",
@@ -708,7 +708,7 @@
 {
 "content_id": "132035",
 "reference_id": 108089,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Born again",
 "media_type": "Text",
 "index_reference": "born again",
@@ -724,10 +724,10 @@
 {
 "content_id": "132239",
 "reference_id": 108293,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Brother-in-law’s duty",
 "media_type": "Text",
-"index_reference": "brother-in-law’s duty",
+"index_reference": "brotherinlaws duty",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A practice common among many people groups for hundreds of years. It takes care of the widow and the family line of a man who dies. The brother of the man who dies marries the widow and has a child with her. The child is considered the child of the man who died. This child receives the property and carries on the name of the man who died. The child also takes care of the mother when she is old.</p>",
@@ -740,7 +740,7 @@
 {
 "content_id": "132296",
 "reference_id": 108350,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Burnt offerings",
 "media_type": "Text",
 "index_reference": "burnt offerings",
@@ -756,7 +756,7 @@
 {
 "content_id": "132327",
 "reference_id": 108381,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Buy back",
 "media_type": "Text",
 "index_reference": "buy back",

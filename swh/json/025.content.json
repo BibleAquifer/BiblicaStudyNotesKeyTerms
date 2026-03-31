@@ -2,7 +2,7 @@
 {
 "content_id": "367934",
 "reference_id": 108443,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zabuloni",
 "media_type": "Text",
 "index_reference": "zabuloni",
@@ -14,18 +14,11 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Zebulun",
-"type": "group",
-"preferred_label": "Zabuloni",
-"confidence": 1.0,
-"match_method": "embedding"
-},
-{
 "id": "person:Zebulun",
 "type": "person",
-"preferred_label": "Zabuloni",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Zabuloni"
 }
 ]
 }
@@ -33,7 +26,7 @@
 {
 "content_id": "368002",
 "reference_id": 108511,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zakaria",
 "media_type": "Text",
 "index_reference": "zakaria",
@@ -43,29 +36,248 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Zechariah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.16",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.18",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.19",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.20",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.21",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.22",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.23",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.24",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.25",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.26",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.27",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.28",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.29",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zecher",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+},
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+}
+]
 }
 },
 {
 "content_id": "367571",
 "reference_id": 108080,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zakaria - NT",
 "media_type": "Text",
-"index_reference": "zakaria - nt",
+"index_reference": "zakaria  nt",
 "language": "swh",
 "review_level": "None",
 "content": "<p>Ni baba wa Yohana Mbatizaji. Elizabeth alikuwa mke wake. Alikuwa kuhani kutoka kabila la Lawi na kutoka ukoo wa Aroni. Zekaria alitoa unabii mzuri wakati Yohana Mbatizaji alipozaliwa.</p>",
 "associations": {
 "passage": [],
 "resource": [],
-"acai": []
+"acai": [
+{
+"id": "person:Zechariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zekaria"
+}
+]
 }
 },
 {
 "content_id": "367781",
 "reference_id": 108290,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Zilpa",
 "media_type": "Text",
 "index_reference": "zilpa",
@@ -87,9 +299,9 @@
 {
 "id": "person:Zilpah",
 "type": "person",
-"preferred_label": "Zilpa",
 "confidence": 1.0,
-"match_method": "embedding"
+"match_method": "content_id",
+"preferred_label": "Zilpa"
 }
 ]
 }

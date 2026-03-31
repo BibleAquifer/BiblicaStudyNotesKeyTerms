@@ -2,7 +2,7 @@
 {
 "content_id": "193419",
 "reference_id": 108337,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Царственное священство",
 "media_type": "Text",
 "index_reference": "царственное священство",
@@ -18,7 +18,7 @@
 {
 "content_id": "193643",
 "reference_id": 108561,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Царство Божье",
 "media_type": "Text",
 "index_reference": "царство божье",
@@ -42,7 +42,7 @@
 {
 "content_id": "193412",
 "reference_id": 108330,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Царь",
 "media_type": "Text",
 "index_reference": "царь",
@@ -58,7 +58,7 @@
 {
 "content_id": "193178",
 "reference_id": 108096,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Церковь",
 "media_type": "Text",
 "index_reference": "церковь",
@@ -72,9 +72,9 @@
 {
 "id": "keyterm:Church",
 "type": "keyterm",
-"preferred_label": "Church",
-"confidence": 0.8175,
-"match_method": "embedding"
+"confidence": 1.0,
+"match_method": "embedding",
+"preferred_label": "Church"
 }
 ]
 }
