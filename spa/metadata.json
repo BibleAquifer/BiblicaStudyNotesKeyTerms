@@ -3,9 +3,9 @@
 "aquifer_type": "Dictionary",
 "resource_type": "Study Notes",
 "title": "Biblica Key Terms",
-"aquifer_name": "Términos Clave (Biblica)",
+"aquifer_name": "Biblica Key Terms",
 "version": "1.1.2",
-"collection_title": "Key Terms (Biblica)",
+"collection_title": "Biblica Key Terms",
 "short_name": "BSNW",
 "license_info": {
 "title": "Biblica Bible Dictionary",
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Biblica Study Notes (Key Terms)</b> © 2023 Biblica Inc. Released under CC BY-SA 4.0 license. <cite>Biblica Study Notes</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文)from Biblica Study Notes © 2023 Biblica Inc. Released under CC BY-SA 4.0 license by Mission Mutual.",
 "resource_code": "BiblicaStudyNotesKeyTerms",
-"date_created": "2026-06-29",
+"date_created": "2026-09-18",
 "language": "spa",
 "localizations": [
 "eng",
@@ -52,7 +52,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-29T12:35:00.187851"
+"dateCreated": "2026-09-18T08:37:59.918029"
 },
 "idAuthorities": {
 "aquifer": {
@@ -66,7 +66,7 @@
 "primary": {
 "aquifer": {
 "BiblicaStudyNotesKeyTerms": {
-"timestamp": "2026-06-29T12:35:00.187851"
+"timestamp": "2026-09-18T08:37:59.918029"
 }
 }
 },
@@ -98,7 +98,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 9349,
+"size": 9339,
 "scope": {
 "0": [
 "1000 años",
@@ -118,7 +118,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 42620,
+"size": 42540,
 "scope": {
 "a": [
 "Aaron",
@@ -193,7 +193,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 17695,
+"size": 17655,
 "scope": {
 "b": [
 "Baal",
@@ -227,7 +227,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 25639,
+"size": 25610,
 "scope": {
 "c": [
 "Cades-barnea",
@@ -271,7 +271,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 26141,
+"size": 26011,
 "scope": {
 "d": [
 "Dagon",
@@ -311,7 +311,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 33868,
+"size": 33808,
 "scope": {
 "e": [
 "Echar suertes",
@@ -364,7 +364,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 12285,
+"size": 12275,
 "scope": {
 "f": [
 "Falso profeta",
@@ -391,7 +391,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 8305,
+"size": 8295,
 "scope": {
 "g": [
 "Gabriel",
@@ -414,7 +414,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 11804,
+"size": 11764,
 "scope": {
 "h": [
 "Hablar otras lenguas",
@@ -440,7 +440,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 7079,
+"size": 7069,
 "scope": {
 "i": [
 "Iconio",
@@ -459,7 +459,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 24589,
+"size": 24549,
 "scope": {
 "j": [
 "Jacob",
@@ -502,7 +502,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 24640,
+"size": 24550,
 "scope": {
 "l": [
 "La bendición del padre",
@@ -538,7 +538,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 28600,
+"size": 28550,
 "scope": {
 "m": [
 "Macedonia",
@@ -615,7 +615,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 8766,
+"size": 8756,
 "scope": {
 "o": [
 "Oficial etíope",
@@ -635,7 +635,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 29328,
+"size": 29258,
 "scope": {
 "p": [
 "Pablo",
@@ -678,7 +678,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 15090,
+"size": 15070,
 "scope": {
 "r": [
 "Rabino",
@@ -706,7 +706,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 36934,
+"size": 36884,
 "scope": {
 "s": [
 "Sabiduría",
@@ -762,7 +762,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 13294,
+"size": 13234,
 "scope": {
 "t": [
 "Tablas de piedra",
@@ -787,7 +787,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 2730,
+"size": 2720,
 "scope": {
 "u": [
 "Últimos días",
@@ -798,7 +798,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 4675,
+"size": 4665,
 "scope": {
 "v": [
 "Vestido de blanco",
@@ -829,7 +829,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 2139,
+"size": 2129,
 "scope": {
 "z": [
 "Zabulón",
@@ -841,99 +841,99 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 6192
+"size": 6184
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 7980
+"size": 7972
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 13018
+"size": 13010
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 18160
+"size": 18119
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 21026
+"size": 21018
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 21174
+"size": 21166
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 2659
+"size": 2651
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 11584
+"size": 11576
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 5665
+"size": 5657
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 17759
+"size": 17751
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 30168
+"size": 30160
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 3934
+"size": 3926
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 17709
+"size": 17701
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 6541
+"size": 6533
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 9274
+"size": 9266
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 1022
+"size": 1014
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 3025
+"size": 3017
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 25094
+"size": 25086
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 6958
+"size": 6950
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 10276
+"size": 10268
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 21457
+"size": 21449
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 760
+"size": 752
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 9769
+"size": 9761
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 27884
+"size": 27876
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -949,7 +949,7 @@
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48427
+"size": 48335
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1045,7 +1045,7 @@
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 71877
+"size": 70788
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",

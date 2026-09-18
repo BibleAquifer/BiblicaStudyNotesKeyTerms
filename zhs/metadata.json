@@ -1,0 +1,207 @@
+{
+"resource_metadata": {
+"aquifer_type": "Dictionary",
+"resource_type": "Study Notes",
+"title": "Biblica Key Terms",
+"aquifer_name": "Biblica Key Terms",
+"version": "1.1.2",
+"collection_title": "Biblica Key Terms",
+"short_name": "BSNW",
+"license_info": {
+"title": "Biblica Bible Dictionary",
+"copyright": {
+"dates": "2023",
+"holder": {
+"name": "Biblica, Inc.",
+"url": "https://www.biblica.com/"
+}
+},
+"licenses": [
+{
+"eng": {
+"name": "CC BY-SA 4.0 license",
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+}
+],
+"showAdaptationNoticeForEnglish": false,
+"showAdaptationNoticeForNonEnglish": true
+},
+"adaptation_notice": "<p><b>Biblica Study Notes (Key Terms)</b> © 2023 Biblica Inc. Released under CC BY-SA 4.0 license. <cite>Biblica Study Notes</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文)from Biblica Study Notes © 2023 Biblica Inc. Released under CC BY-SA 4.0 license by Mission Mutual.",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"date_created": "2026-09-18",
+"language": "zhs",
+"localizations": [
+"eng",
+"arb",
+"fra",
+"hin",
+"ind",
+"por",
+"rus",
+"spa",
+"swh",
+"vie",
+"zht",
+"nld"
+],
+"order": "alphabetical",
+"content_type": "Html"
+},
+"scripture_burrito": {
+"format": "scripture burrito",
+"meta": {
+"version": "1.0.0",
+"category": "source",
+"defaultLocale": "en",
+"dateCreated": "2026-09-18T08:38:00.546197"
+},
+"idAuthorities": {
+"aquifer": {
+"id": "https://aquifer.bible",
+"name": {
+"en": "Bible Aquifer"
+}
+}
+},
+"identification": {
+"primary": {
+"aquifer": {
+"BiblicaStudyNotesKeyTerms": {
+"timestamp": "2026-09-18T08:38:00.546197"
+}
+}
+},
+"name": {
+"zh": "Biblica Bible Dictionary"
+},
+"abbreviation": {
+"zh": "BSNW"
+}
+},
+"languages": [
+{
+"tag": "zh",
+"name": {
+"zh": "Chinese (Simplified)"
+}
+}
+],
+"type": {
+"flavorType": {
+"name": "peripheral",
+"flavor": {
+"name": "textAquiferAlphabetical",
+"audience": "common"
+},
+"currentScope": {}
+}
+},
+"ingredients": {
+"json/001.content.json": {
+"mimeType": "text/json",
+"size": 628,
+"scope": {
+"yi": [
+"一千年"
+]
+}
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 944
+},
+"docx/001.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42285
+},
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 42363
+}
+},
+"copyright": {
+"licenses": [
+{
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+],
+"shortStatements": [
+{
+"statement": "<p>Biblica Bible Dictionary © 2023 Biblica, Inc..</p>",
+"mimetype": "text/html",
+"lang": "zh"
+}
+]
+}
+},
+"article_metadata": {
+"832858": {
+"content_id": "832858",
+"reference_id": 108189,
+"index_reference": "一千年",
+"localizations": {
+"eng": {
+"content_id": 132135,
+"language": "eng",
+"title": "1,000 years"
+},
+"arb": {
+"content_id": 133991,
+"language": "arb",
+"title": "١٠٠٠ سنة"
+},
+"fra": {
+"content_id": 133441,
+"language": "fra",
+"title": "1000 ans"
+},
+"hin": {
+"content_id": 183083,
+"language": "hin",
+"title": "1,000 साल"
+},
+"ind": {
+"content_id": 203324,
+"language": "ind",
+"title": "1,000 tahun"
+},
+"por": {
+"content_id": 145698,
+"language": "por",
+"title": "1.000 anos"
+},
+"rus": {
+"content_id": 193271,
+"language": "rus",
+"title": "1000 лет"
+},
+"spa": {
+"content_id": 232158,
+"language": "spa",
+"title": "1000 años"
+},
+"swh": {
+"content_id": 367680,
+"language": "swh",
+"title": "Miaka 1,000"
+},
+"vie": {
+"content_id": 839387,
+"language": "vie",
+"title": "1.000 năm"
+},
+"zht": {
+"content_id": 232790,
+"language": "zht",
+"title": "一千年"
+},
+"nld": {
+"content_id": 761238,
+"language": "nld",
+"title": "1.000 jaar"
+}
+}
+}
+}
+}

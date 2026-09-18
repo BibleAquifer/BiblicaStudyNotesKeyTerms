@@ -3,9 +3,9 @@
 "aquifer_type": "Dictionary",
 "resource_type": "Study Notes",
 "title": "Biblica Key Terms",
-"aquifer_name": "Key Terms (Biblica)",
+"aquifer_name": "Biblica Key Terms",
 "version": "1.1.2",
-"collection_title": "Key Terms (Biblica)",
+"collection_title": "Biblica Key Terms",
 "short_name": "BSNW",
 "license_info": {
 "title": "Biblica Bible Dictionary",
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Biblica Study Notes (Key Terms)</b> © 2023 Biblica Inc. Released under CC BY-SA 4.0 license. <cite>Biblica Study Notes</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文)from Biblica Study Notes © 2023 Biblica Inc. Released under CC BY-SA 4.0 license by Mission Mutual.",
 "resource_code": "BiblicaStudyNotesKeyTerms",
-"date_created": "2026-06-29",
+"date_created": "2026-09-18",
 "language": "eng",
 "localizations": [
 "arb",
@@ -52,7 +52,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-29T12:34:59.671309"
+"dateCreated": "2026-09-18T08:37:59.201504"
 },
 "idAuthorities": {
 "aquifer": {
@@ -66,7 +66,7 @@
 "primary": {
 "aquifer": {
 "BiblicaStudyNotesKeyTerms": {
-"timestamp": "2026-06-29T12:34:59.671309"
+"timestamp": "2026-09-18T08:37:59.201504"
 }
 }
 },
@@ -98,7 +98,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 8253,
+"size": 8243,
 "scope": {
 "0": [
 "1,000 years",
@@ -117,7 +117,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 33132,
+"size": 33042,
 "scope": {
 "a": [
 "Aaron",
@@ -179,7 +179,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 20244,
+"size": 20214,
 "scope": {
 "b": [
 "Baal",
@@ -218,7 +218,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 22800,
+"size": 22781,
 "scope": {
 "c": [
 "Caesar",
@@ -258,7 +258,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 16602,
+"size": 16512,
 "scope": {
 "d": [
 "Dagon",
@@ -290,7 +290,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 17219,
+"size": 17199,
 "scope": {
 "e": [
 "Edom",
@@ -326,7 +326,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 14770,
+"size": 14750,
 "scope": {
 "f": [
 "Faith",
@@ -353,7 +353,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 24023,
+"size": 23943,
 "scope": {
 "g": [
 "Gabriel",
@@ -393,7 +393,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 17478,
+"size": 17418,
 "scope": {
 "h": [
 "Hagar",
@@ -427,7 +427,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 6511,
+"size": 6501,
 "scope": {
 "i": [
 "I am",
@@ -445,7 +445,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 27542,
+"size": 27472,
 "scope": {
 "j": [
 "Jacob",
@@ -493,7 +493,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 4225,
+"size": 4215,
 "scope": {
 "k": [
 "Kadesh Barnea",
@@ -506,7 +506,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 17365,
+"size": 17305,
 "scope": {
 "l": [
 "Laban",
@@ -537,7 +537,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 24602,
+"size": 24562,
 "scope": {
 "m": [
 "Macedonia",
@@ -582,7 +582,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 13165,
+"size": 13155,
 "scope": {
 "n": [
 "Naaman",
@@ -623,7 +623,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 24202,
+"size": 24152,
 "scope": {
 "p": [
 "Parables",
@@ -666,7 +666,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 11301,
+"size": 11291,
 "scope": {
 "r": [
 "Rabbi",
@@ -692,7 +692,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 44777,
+"size": 44737,
 "scope": {
 "s": [
 "Sabbath day",
@@ -760,7 +760,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 18910,
+"size": 18830,
 "scope": {
 "t": [
 "Tamar",
@@ -803,7 +803,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 1376,
+"size": 1366,
 "scope": {
 "v": [
 "Vision"
@@ -812,7 +812,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 5495,
+"size": 5475,
 "scope": {
 "w": [
 "Way of Jesus",
@@ -836,7 +836,7 @@
 },
 "json/025.content.json": {
 "mimeType": "text/json",
-"size": 2753,
+"size": 2743,
 "scope": {
 "z": [
 "Zebulun",
@@ -849,103 +849,103 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 16846
+"size": 16844
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 12162
+"size": 12160
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 14704
+"size": 14702
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 16019
+"size": 15984
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 22466
+"size": 22464
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 3132
+"size": 3130
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 13115
+"size": 13113
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 17308
+"size": 17306
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 5202
+"size": 5200
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 10823
+"size": 10821
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 23309
+"size": 23307
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 1418
+"size": 1416
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 3652
+"size": 3650
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 9905
+"size": 9903
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 10637
+"size": 10635
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 4187
+"size": 4185
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 758
+"size": 756
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 12755
+"size": 12753
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 6085
+"size": 6083
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 18494
+"size": 18492
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 12226
+"size": 12224
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 3506
+"size": 3504
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 1586
+"size": 1584
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 32932
+"size": 32930
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 8422
+"size": 8420
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -961,7 +961,7 @@
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47616
+"size": 47414
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1061,7 +1061,7 @@
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 66432
+"size": 65371
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
