@@ -3,9 +3,9 @@
 "aquifer_type": "Dictionary",
 "resource_type": "Study Notes",
 "title": "Biblica Key Terms",
-"aquifer_name": "Ключевые термины (Biblica)",
+"aquifer_name": "Biblica Key Terms",
 "version": "1.1.2",
-"collection_title": "Key Terms (Biblica)",
+"collection_title": "Biblica Key Terms",
 "short_name": "BSNW",
 "license_info": {
 "title": "Biblica Bible Dictionary",
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Biblica Study Notes (Key Terms)</b> © 2023 Biblica Inc. Released under CC BY-SA 4.0 license. <cite>Biblica Study Notes</cite> has been adapted in the following languages: Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文)from Biblica Study Notes © 2023 Biblica Inc. Released under CC BY-SA 4.0 license by Mission Mutual.",
 "resource_code": "BiblicaStudyNotesKeyTerms",
-"date_created": "2026-06-29",
+"date_created": "2026-09-18",
 "language": "rus",
 "localizations": [
 "eng",
@@ -52,7 +52,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-29T12:35:00.453673"
+"dateCreated": "2026-09-18T08:38:00.204563"
 },
 "idAuthorities": {
 "aquifer": {
@@ -66,7 +66,7 @@
 "primary": {
 "aquifer": {
 "BiblicaStudyNotesKeyTerms": {
-"timestamp": "2026-06-29T12:35:00.453673"
+"timestamp": "2026-09-18T08:38:00.204563"
 }
 }
 },
@@ -98,7 +98,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 13348,
+"size": 13338,
 "scope": {
 "0": [
 "1000 лет",
@@ -118,7 +118,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 39662,
+"size": 39612,
 "scope": {
 "а": [
 "Аарон",
@@ -174,7 +174,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 32093,
+"size": 32013,
 "scope": {
 "б": [
 "Бездна",
@@ -203,7 +203,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 39035,
+"size": 39005,
 "scope": {
 "в": [
 "Ваал",
@@ -248,7 +248,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 26019,
+"size": 26030,
 "scope": {
 "г": [
 "Гавриил",
@@ -280,7 +280,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 34091,
+"size": 33991,
 "scope": {
 "д": [
 "Давид",
@@ -320,7 +320,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 20196,
+"size": 20166,
 "scope": {
 "е": [
 "Ева",
@@ -367,7 +367,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 22361,
+"size": 22291,
 "scope": {
 "з": [
 "Завет",
@@ -392,7 +392,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 59732,
+"size": 59642,
 "scope": {
 "и": [
 "Иаиль",
@@ -458,7 +458,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 23230,
+"size": 23220,
 "scope": {
 "к": [
 "Кадес-Варни",
@@ -491,7 +491,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 11114,
+"size": 11094,
 "scope": {
 "л": [
 "Лаван",
@@ -511,7 +511,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 31997,
+"size": 31957,
 "scope": {
 "м": [
 "Мадианитяне",
@@ -552,7 +552,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 23488,
+"size": 23458,
 "scope": {
 "н": [
 "Навуходоносор",
@@ -602,7 +602,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 54853,
+"size": 54803,
 "scope": {
 "п": [
 "Павел",
@@ -655,7 +655,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 18816,
+"size": 18806,
 "scope": {
 "р": [
 "Раав",
@@ -681,7 +681,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 60002,
+"size": 59932,
 "scope": {
 "с": [
 "Саддукеи",
@@ -741,7 +741,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 14056,
+"size": 13976,
 "scope": {
 "т": [
 "Тайна Христова",
@@ -760,7 +760,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 5924,
+"size": 5904,
 "scope": {
 "у": [
 "Убийство",
@@ -796,7 +796,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 5917,
+"size": 5897,
 "scope": {
 "х": [
 "Халев",
@@ -810,7 +810,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 6124,
+"size": 6114,
 "scope": {
 "ц": [
 "Царственное священство",
@@ -822,7 +822,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 6987,
+"size": 6977,
 "scope": {
 "ч": [
 "Человек греха",
@@ -863,7 +863,7 @@
 },
 "json/028.content.json": {
 "mimeType": "text/json",
-"size": 2111,
+"size": 2101,
 "scope": {
 "я": [
 "Я есмь",
@@ -873,115 +873,115 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 12691
+"size": 12667
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 18956
+"size": 18932
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 26049
+"size": 26025
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 31678
+"size": 31654
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 19225
+"size": 19201
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 43661
+"size": 43637
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 5072
+"size": 5048
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 2652
+"size": 2628
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 15614
+"size": 15590
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 50705
+"size": 50681
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 21469
+"size": 21412
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 31436
+"size": 31412
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 1367
+"size": 1343
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 9802
+"size": 9778
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 8966
+"size": 8942
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 11860
+"size": 11836
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 16647
+"size": 16623
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 5548
+"size": 5524
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 5876
+"size": 5851
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 26000
+"size": 25976
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 10882
+"size": 10858
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 19058
+"size": 19034
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 26535
+"size": 26511
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 2789
+"size": 2765
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 5026
+"size": 5002
 },
 "md/028.content.md": {
 "mimeType": "text/markdown",
-"size": 2091
+"size": 2067
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 10742
+"size": 10717
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 48707
+"size": 48683
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1001,7 +1001,7 @@
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48674
+"size": 48577
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1113,7 +1113,7 @@
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 138436
+"size": 137454
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
