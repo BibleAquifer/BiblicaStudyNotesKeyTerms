@@ -11,16 +11,7 @@
 "content": "<p>A slave from Egypt who served Sarah. When Sarah couldn’t have children, she made Hagar sleep with Abraham. After this, Hagar gave birth to Abraham’s son Ishmael. Hagar was treated badly by Sarah. She and Ishmael were sent away. But God took care of them in the desert.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Hagar",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hagar"
-}
-]
+"resource": []
 }
 },
 {
@@ -35,16 +26,7 @@
 "content": "<p>A prophet in Judah when the Persian government was in control. He encouraged Joshua and Zerubbabel to rebuild the temple. His prophecies are recorded in the book of Haggai.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Haggai",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Haggai"
-}
-]
+"resource": []
 }
 },
 {
@@ -59,30 +41,7 @@
 "content": "<p>The youngest son of Noah. He and his wife were saved from the flood because they were in the ark. He didn’t treat his father with respect when Noah got drunk after the flood. Because of this, Noah spoke a curse instead of a blessing over part of Ham’s family.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Ham",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ham"
-},
-{
-"id": "place:Ham.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ham"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ammon"
-}
-]
+"resource": []
 }
 },
 {
@@ -97,16 +56,7 @@
 "content": "<p>A leader in the Persian government during the time of Xerxes. He was from the family line of Agag the Amalekite. This meant that Haman was from a people group that had treated the Israelites badly. Haman made plans to destroy all the Jews in the Persian kingdom. Xerxes had him put to death.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Haman",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Haman"
-}
-]
+"resource": []
 }
 },
 {
@@ -121,16 +71,7 @@
 "content": "<p>The mother of the prophet Samuel. Elkanah was her husband. For a long time she hadn’t been able to have children. Then God allowed her to become pregnant. Full of thanks, she prayed a beautiful prayer about God taking care of his people.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Hannah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hannah"
-}
-]
+"resource": []
 }
 },
 {
@@ -145,16 +86,7 @@
 "content": "<p>Throughout the Bible there are two meanings for the word heart. The first meaning is the part of the body that beats inside the chest. The second meaning is a spiritual part of people where they feel their feelings. It’s where they make decisions about what to do and who to worship. God knows each person’s heart. He knows what they think and feel and the reasons why they make their decisions. God’s people are to serve God with all their heart. This means that they are to be completely committed to living according to God’s ways.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Heart",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Heart"
-}
-]
+"resource": []
 }
 },
 {
@@ -166,26 +98,25 @@
 "index_reference": "heaven",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Throughout the Bible there are two meanings for the word heaven. The first meaning is the sky above the earth. The second meaning is where God the King and Creator rules. It isn’t a certain place that can be travelled to. It’s where God is worshipped. God will bring heaven to earth in the new creation. People can’t fully understand or imagine heaven. (<data class=\"resource-ref\" data-content-id=\"108561\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Kingdom of God</data>, <data class=\"resource-ref\" data-content-id=\"108543\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">New creation</data>)</p>",
+"content": "<p>Throughout the Bible there are two meanings for the word heaven. The first meaning is the sky above the earth. The second meaning is where God the King and Creator rules. It isn’t a certain place that can be travelled to. It’s where God is worshipped. God will bring heaven to earth in the new creation. People can’t fully understand or imagine heaven. (<data class=\"resource-ref\" data-content-id=\"132507\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Kingdom of God</data>, <data class=\"resource-ref\" data-content-id=\"132489\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">New creation</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108543,
-"content_id": 132489,
-"resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "New creation",
-"language": "eng"
-},
-{
-"reference_id": 108561,
-"content_id": 132507,
+"reference_id": "108561",
+"content_id": "132507",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Kingdom of God",
 "language": "eng"
+},
+{
+"reference_id": "108543",
+"content_id": "132489",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "New creation",
+"language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -197,26 +128,25 @@
 "index_reference": "heavenly world",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A way of talking about all the spiritual beings that exist. It isn’t a certain place. The heavenly world includes spiritual beings that serve God and it includes evil spiritual beings. (<data class=\"resource-ref\" data-content-id=\"108423\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Spiritual beings</data>, <data class=\"resource-ref\" data-content-id=\"108218\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Evil spiritual beings</data>). The heavenly world is also known as the spiritual realm. Human beings can’t see, hear or touch the heavenly world on their own. The choices they make have an effect in the heavenly world. This includes their choices about who to worship and how to treat others. The prayers of Jesus’ followers also have an effect in the heavenly world. When God shows humans beings things in the heavenly world it’s called a vision.</p>",
+"content": "<p>A way of talking about all the spiritual beings that exist. It isn’t a certain place. The heavenly world includes spiritual beings that serve God and it includes evil spiritual beings. (<data class=\"resource-ref\" data-content-id=\"132369\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Spiritual beings</data>, <data class=\"resource-ref\" data-content-id=\"132164\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Evil spiritual beings</data>). The heavenly world is also known as the spiritual realm. Human beings can’t see, hear or touch the heavenly world on their own. The choices they make have an effect in the heavenly world. This includes their choices about who to worship and how to treat others. The prayers of Jesus’ followers also have an effect in the heavenly world. When God shows humans beings things in the heavenly world it’s called a vision.</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108218,
-"content_id": 132164,
-"resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "Evil spiritual beings",
-"language": "eng"
-},
-{
-"reference_id": 108423,
-"content_id": 132369,
+"reference_id": "108423",
+"content_id": "132369",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Spiritual beings",
 "language": "eng"
+},
+{
+"reference_id": "108218",
+"content_id": "132164",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "Evil spiritual beings",
+"language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -228,26 +158,25 @@
 "index_reference": "hebrew",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A name for people from Abraham’s family line. It was often used as another word for Jews. The language of the Hebrew people was called Hebrew. Most of the Old Testament was written in Hebrew. (<data class=\"resource-ref\" data-content-id=\"108220\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Family line</data> and <data class=\"resource-ref\" data-content-id=\"108503\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Jew</data>)</p>",
+"content": "<p>A name for people from Abraham’s family line. It was often used as another word for Jews. The language of the Hebrew people was called Hebrew. Most of the Old Testament was written in Hebrew. (<data class=\"resource-ref\" data-content-id=\"132166\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Family line</data> and <data class=\"resource-ref\" data-content-id=\"132449\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Jew</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108220,
-"content_id": 132166,
+"reference_id": "108220",
+"content_id": "132166",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Family line",
 "language": "eng"
 },
 {
-"reference_id": 108503,
-"content_id": 132449,
+"reference_id": "108503",
+"content_id": "132449",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Jew",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -262,16 +191,7 @@
 "content": "<p>A place of total ruin for those who refuse to be part of God’s kingdom.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Hell",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hell"
-}
-]
+"resource": []
 }
 },
 {
@@ -286,16 +206,7 @@
 "content": "<p>The King Herod of Acts chapter 12. He was a grandson of Herod the Great. He was also a nephew of Herod Antipas. He was the father of Herod Agrippa II. Two of his daughters were Bernice and Drusilla.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Agrippa",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Agrippa"
-}
-]
+"resource": []
 }
 },
 {
@@ -310,16 +221,7 @@
 "content": "<p>The King Agrippa of Acts chapters 25 and 26. He was the son of Herod Agrippa I. It’s thought that his sister Bernice lived with him as a wife.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Herod.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Herod"
-}
-]
+"resource": []
 }
 },
 {
@@ -334,16 +236,7 @@
 "content": "<p>The Herod of Matthew chapter 14, Mark chapter 6, and Luke chapters 3, 9 and 23. He was a son of Herod the Great. He ruled in Galilee and Perea during Jesus’ time. Perea was east of the River Jordan. He married the wife of his brother Philip. Her name was Herodias. Herod Antipas had John the Baptist put to death.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Herod.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Herod Antipas"
-}
-]
+"resource": []
 }
 },
 {
@@ -358,16 +251,7 @@
 "content": "<p>The King Herod of Matthew 2 and Luke 1. He was a ruler appointed by the Romans with the title King of the Jews. He ruled as king from around 36 BC to 4 BC. He ruled over Judea and all of Israel’s lands. He was from the family line of Esau but was considered to be a Jew. He ordered many building projects to be done. This included the city of Caesarea and the temple in Jerusalem. He ordered the temple to be made bigger and greater than it had ever been.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Herod",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Herod"
-}
-]
+"resource": []
 }
 },
 {
@@ -382,16 +266,7 @@
 "content": "<p>Supporters of the rulers from the family line of Herod the Great.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "group:Herodian",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Herodians"
-}
-]
+"resource": []
 }
 },
 {
@@ -406,37 +281,7 @@
 "content": "<p>The son of Ahaz and Abijah. He was the father of Manasseh and was from the tribe of Judah. He was the twelfth king of the southern kingdom of Judah. While he was king, God did a miracle to save Jerusalem from the Assyrians. Hezekiah followed God faithfully and led the people to worship only God.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Hezekiah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hezekiah"
-},
-{
-"id": "person:Hezekiah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hezekiah"
-},
-{
-"id": "person:Hezekiah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hezekiah"
-},
-{
-"id": "person:Hezekiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hezekiah"
-}
-]
+"resource": []
 }
 },
 {
@@ -451,8 +296,7 @@
 "content": "<p>A place of worship on a hill, mountain or place of high ground. People burnt incense and made sacrifices there. Some high places were used for worshipping the true God. This happened often before the temple was built. Other high places were used for worshipping false gods. People would even sacrifice children on them to honour false gods. There were many of these high places when the Israelites first entered Canaan. The Israelites were supposed to destroy all high places used to worship false gods.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -467,8 +311,7 @@
 "content": "<p>The religious leader with the most authority in Israel. The high priest was to be a male from the tribe of Levi. He was to be from Aaron’s family line. The high priest was to teach the people like Moses had done. He had special duties in God’s holy tent and later in the temple. Only the high priest was allowed into the Most Holy Room. He told the people what God wanted them to do. He also made the sacrifices for Israel’s sin to be forgiven.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -483,16 +326,7 @@
 "content": "<p>A people group that lived in Canaan. They were from the family line of Ham’s son Canaan. God told the Israelites to drive them out of Canaan as God’s judgement against them. Joshua was tricked into making a covenant of peace with the Hivites living in Gibeon.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "group:Hivites",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hivites"
-}
-]
+"resource": []
 }
 },
 {
@@ -507,16 +341,7 @@
 "content": "<p>Moses’ brother-in-law. He was the son of Reuel who was also called Jethro. Hobab was the brother of Moses’ wife Zipporah. He was part of the Kenite people group. He stayed with the Israelites as they travelled from Mount Sinai to Canaan. He was a guide to them in the desert.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Hobab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hobab"
-}
-]
+"resource": []
 }
 },
 {
@@ -531,16 +356,7 @@
 "content": "<p>Being set apart. God is holy. This means that he is different from everything else that exists. In the Bible certain places were holy. This was because people were aware that God was present there. Certain things were holy. This meant that they were used in special ways to worship God. The opposite of holy is unholy or evil. Things that are unholy can’t be in God’s presence.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Holy",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Holy"
-}
-]
+"resource": []
 }
 },
 {
@@ -555,8 +371,7 @@
 "content": "<p>Following Jesus’ example for how to think, speak and act. This is how believers can be holy like God is holy. There are many reasons why God wants his people to live holy lives. One reason is that the Holy Spirit lives among them and in them. Another reason is that holy living helps the members of God’s family treat each other well. It helps them to always show care and love towards one another. Holy living shows that believers have been set free from the power of sin and death. This helps them spread the message about Jesus among unbelievers. The Holy Spirit makes it possible for believers to live in holy ways. Holy living is also called a godly life.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -571,16 +386,7 @@
 "content": "<p>God shows himself to be the Spirit at the creation of the world. The Holy Spirit is God just like the Father is God and Jesus is God. They are the three persons of the one and only God. The Holy Spirit worked through the people who recorded the books of the Bible. In the Old Testament, the Holy Spirit made it possible for people to prophesy. The Spirit also made it possible for people to do skilful work and mighty deeds. In the New Testament, the Holy Spirit made it possible for Mary to be Jesus’ mother. Jesus sent the Holy Spirit to his followers at the Feast of Pentecost. Through the Holy Spirit, believers are joined to Jesus. The Holy Spirit is a Friend who makes Jesus’ followers able to continue doing his work.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Holy Spirit"
-}
-]
+"resource": []
 }
 },
 {
@@ -595,16 +401,7 @@
 "content": "<p>The tent where God lived among the Israelites after they left Egypt. It’s where he talked with Moses and with the people of Israel. God gave Moses clear instructions about how to make it. The holy tent included the ark of the covenant and an altar for incense. It included lampstands and a table for holy bread. It included an altar for sacrifices and a courtyard. It included a large bowl of water for the priests to wash their hands and feet. Skilled workers made the tent according to the pattern God showed Moses on Mount Sinai. The Israelites took the holy tent with them everywhere they travelled. It was also a sign of how God would work through Jesus many years later.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "realia:Tabernacle",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Tabernacle"
-}
-]
+"resource": []
 }
 },
 {
@@ -619,16 +416,7 @@
 "content": "<p>A prophet in the northern kingdom of Israel. He prophesied during the time of King Jeroboam the second. He prophesied until the time the northern kingdom was destroyed by Assyria. His prophecies are recorded in the book of Hosea.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Hosea",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hosea"
-}
-]
+"resource": []
 }
 },
 {
@@ -643,8 +431,7 @@
 "content": "<p>God created human beings in his likeness. He meant for them to live for ever in complete peace with him. They were to live in peace with one another and with the rest of creation. But Adam and Eve sinned. Since then sin and death have had control over human beings. Human beings sin. Human beings die.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

@@ -8,32 +8,23 @@
 "index_reference": "الله",
 "language": "arb",
 "review_level": "None",
-"content": "<p>هو خالق كل شيء موجود. ويُدعى الله أيضًا في الكتاب المقدس الرب (<data class=\"resource-ref\" data-content-id=\"108329\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">الرب</data>). كما يُدعى أيضًا السيد. الله محبة وهو الإله الحقيقي الوحيد. إن الله يفعل ما هو حق وما هو صالح. كما ان الله مُمتلىء نعمة. إن الله كائن روحي. يستخدم الكتاب المقدس أحيانًا كثيرة تعبيرات بشرية ليصف الله. كما يتحدث الكتاب المقدس عن أشياء مثل وجه الله، وعينيه، وظهره، ويديه، وذراعيه، وأصابعه وأجزاء أخرى أيضًا. كذلك يتحدث عن عقل الله، وقلبه ومشاعره. إن هذه الطرق في وصف الله لا تعني أن الله لديه جسد مثل البشر. لكنها تشبيهات وصور توضيحية لمساعدة البشر على فهم شيء عن ماهية الله وأعماله.</p>",
+"content": "<p>هو خالق كل شيء موجود. ويُدعى الله أيضًا في الكتاب المقدس الرب (<data class=\"resource-ref\" data-content-id=\"134131\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"arb\">الرب</data>). كما يُدعى أيضًا السيد. الله محبة وهو الإله الحقيقي الوحيد. إن الله يفعل ما هو حق وما هو صالح. كما ان الله مُمتلىء نعمة. إن الله كائن روحي. يستخدم الكتاب المقدس أحيانًا كثيرة تعبيرات بشرية ليصف الله. كما يتحدث الكتاب المقدس عن أشياء مثل وجه الله، وعينيه، وظهره، ويديه، وذراعيه، وأصابعه وأجزاء أخرى أيضًا. كذلك يتحدث عن عقل الله، وقلبه ومشاعره. إن هذه الطرق في وصف الله لا تعني أن الله لديه جسد مثل البشر. لكنها تشبيهات وصور توضيحية لمساعدة البشر على فهم شيء عن ماهية الله وأعماله.</p>",
 "associations": {
 "passage": [],
 "resource": [
+{
+"reference_id": "108329",
+"content_id": "134131",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "الرب",
+"language": "arb"
+},
 {
 "reference_id": 108226,
 "content_id": 134028,
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "الرب",
 "language": "arb"
-},
-{
-"reference_id": 108329,
-"content_id": 134131,
-"resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "الرب - الملك",
-"language": "arb"
-}
-],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "ٱلرَّبِّ"
 }
 ]
 }
@@ -50,23 +41,7 @@
 "content": "<p>ابن بتوئيل وأخو رفقة من بلاد ما بين النهرين. كان والد راحيل وليئة. خدع يعقوب واستغله لسنوات عديدة.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Laban",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لَابَان"
-},
-{
-"id": "place:Laban",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لَابَان"
-}
-]
+"resource": []
 }
 },
 {
@@ -81,16 +56,7 @@
 "content": "<p>مدينة في الأراضي الرومانية في آسيا الصغرى في ما يسمى الآن تركيا. كانت قريبة من كولوسي. شارك أبفراس الرسالة عن يسوع هناك وساعد في تأسيس كنيسة. كتب بولس رسالة إلى كنيسة لاودكية. الكنيسة في لاودكية هي إحدى الكنائس السبع المذكورة في سفر الرؤيا.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Laodicea",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لَاودِكِيَّةَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -105,37 +71,7 @@
 "content": "<p>ابن يعقوب وليئة. في اللغة العبرية لاوي تعني مقترن. أصبح نسله سبط من أسباط بني إسرائيل. جميع الكهنة في إسرائيل جاءوا من نسل لآوي.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Levi.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لَّاوِي"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لَّاوِي"
-},
-{
-"id": "person:Matthew",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "مَتَّى"
-},
-{
-"id": "person:Levi",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لَّاوِي"
-}
-]
+"resource": []
 }
 },
 {
@@ -147,25 +83,23 @@
 "index_reference": "لاَوِيُّين",
 "language": "arb",
 "review_level": "None",
-"content": "<p>أناس من نسل لاوي بن يعقوب. كان لجميع الذكور في نسل لاوي عمل خاص يقومون به. فقد كانوا يعتنون بخيمة الإجتماع ثم الهيكل فيما بعد. خدم اللاويون من نسل هارون ككهنة (<data class=\"resource-ref\" data-content-id=\"108306\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">هارون</data>, <data class=\"resource-ref\" data-content-id=\"108333\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">كاهن</data>). لم يحصل اللاويون على نصيب من الأرض عندما قُسّمت على أمة إسرائيل أراضي كنعان. ولك الله أعطاهم مما كان للأسباط الأخرى.</p>",
+"content": "<p>أناس من نسل لاوي بن يعقوب. كان لجميع الذكور في نسل لاوي عمل خاص يقومون به. فقد كانوا يعتنون بخيمة الإجتماع ثم الهيكل فيما بعد. خدم اللاويون من نسل هارون ككهنة (<data class=\"resource-ref\" data-content-id=\"134108\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"arb\">هارون</data>, <data class=\"resource-ref\" data-content-id=\"134135\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"arb\">كاهن</data>). لم يحصل اللاويون على نصيب من الأرض عندما قُسّمت على أمة إسرائيل أراضي كنعان. ولك الله أعطاهم مما كان للأسباط الأخرى.</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108333,
-"content_id": 134135,
+"reference_id": "108306",
+"content_id": "134108",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "هارون",
+"language": "arb"
+},
+{
+"reference_id": "108333",
+"content_id": "134135",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "كاهن",
 "language": "arb"
-}
-],
-"acai": [
-{
-"id": "group:Levi",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لَّاوِي"
 }
 ]
 }
@@ -182,16 +116,7 @@
 "content": "<p>مدينة في إقليم غلاطية الروماني في آسيا الصغرى. زارها بولس في ثلاث من رحلاته لمشاركة الأخبار السارة عن يسوع. كان صديق بولس تيموثاوس الذي عمل معه من ليسترا. يُعتقد أن رسالة بولس إلى أهل غلاطية كانت تُقرأ في هذه الكنيسة أيضًا.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Lystra",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لِسْتِرَةَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -206,8 +131,7 @@
 "content": "<p>أشياء رهيبة تقع عندما لا يكون الناس أمناء للعهد. في العهود مع الله، كان عدم الأمانة يعني عدم العيش بحسب طرق الله. هذا أوقف بركات العهد وأدى إلى معاناة الناس بطرق عديدة. عادة ما كانت المعاناة تتعلق بفقدان الأرض التي أعطاهم الله إياها. كان لها علاقة بموت  أولادهم. وكان له علاقة بمُفارقة حضور الله لهم.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -222,8 +146,7 @@
 "content": "<p>قطع من الحجر نحتها موسى من الصخر. كتب الله عليها كلمات الوصايا العشر وشريعة العهد. كانت هذه الألواح هي النسخة المكتوبة لاتفاقية العهد بين الله وبني إسرائيل. كسر موسى المجموعة الأولى من الألواح. كسرها عندما عبد بنو إسرائيل تمثال العجل الذهبي. فيما بعد كتب الله بنود العهد على لوحين جديدين. وقد حُفظ هذان اللوحان داخل تابوت العهد.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -238,23 +161,7 @@
 "content": "<p>حفيد تارح وابن أخي إبراهيم. ذهب مع إبراهيم وسارة عندما سافرا للعيش في كنعان. اختار العيش في وادي نهر الأردن بالقرب من سدوم. ماتت زوجته في الوقت الذي دمر الله فيه سدوم وعمورة. كان الموآبيون والعمونيون من نسل لوط.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Lot",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لوطًا"
-},
-{
-"id": "realia:Lot",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lot"
-}
-]
+"resource": []
 }
 },
 {
@@ -269,16 +176,7 @@
 "content": "<p>كاتب إنجيل لوقا وسفر أعمال الرسل. كان طبيباً سافر مع بولس وعمل معه.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Luke",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لوقَا"
-}
-]
+"resource": []
 }
 },
 {
@@ -293,16 +191,7 @@
 "content": "<p>الابنة الكبرى للابان وأول زوجة ليعقوب. كانت راحيل أختها وزلفة خادمتها. أصبحت أُمًا لرأوبين وشمعون ولاوي ويهوذا ويساكر وزبولون ودينة.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Leah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لَيْئَةَ"
-}
-]
+"resource": []
 }
 }
 ]

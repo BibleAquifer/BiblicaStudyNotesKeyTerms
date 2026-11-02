@@ -11,16 +11,7 @@
 "content": "<p>إله زائف عُبِد من قبل مجموعات من الناس في كنعان وما حولها. تعني كلمة داجون في اللغة العبرية الحُبوب. كان من المفهوم أن داجون هو أبو البعل.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "deity:Dagon",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "لِدَاجونَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -35,30 +26,7 @@
 "content": "<p>ملك فارس الذي كان يُدعى أيضًا داريوس الأكبر أو داريوس الأول. سمح داريوس لليهود بإعادة بناء الهيكل.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Darius.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَارِيوسَ"
-},
-{
-"id": "person:Darius.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَارِيوسَ"
-},
-{
-"id": "person:Darius",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَارِيوسَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -73,23 +41,7 @@
 "content": "<p>الابن الأكبر ليعقوب وبلهة. في اللغة العبرية، اسم دان يعني قاض. أصبح نسله من أسباط إسرائيل. دان هو أيضاً اسم المدينة الرئيسية لسبط دان. كانت بالقرب من جبل حرمون وكانت من أقصى شمال إسرائيل.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Dan",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَانَ"
-},
-{
-"id": "place:Dan",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَانَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -104,30 +56,7 @@
 "content": "<p>شاب من المملكة الجنوبية عندما كان يهوياقيم ملكاً. سُبي من يهوذا ليعيش في بابل. خدم العديد من الملوك البابليين والفرس كحكيم وقائد حكومي. كان يُدعى أيضًا بلطشاصر. كان نبيًا وأعطاه الله رؤى ورسائل. وهي مسجلة في سفر دانيال.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Daniel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَانِيآل"
-},
-{
-"id": "person:Daniel.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَانِيآل"
-},
-{
-"id": "person:Chileab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "كِيلآبَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -139,32 +68,16 @@
 "index_reference": "دَاوُد",
 "language": "arb",
 "review_level": "None",
-"content": "<p>ابن يسى من سبط يهوذا. كان من نسل راعوث. كان داود راعي غنم في صغره. اتبع الله بأمانة وأصبح أشهر ملوك إسرائيل. كان يعزف على الآلات الموسيقية ويكتب الأغاني والأشعار. كان أمينًا لله ولم يعبد إلا الله. وكان كل الملوك من بعده يُشبهونه. أقام الله عهداً مع داود. (<data class=\"resource-ref\" data-content-id=\"108466\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">العهد مع داود</data>)</p>",
+"content": "<p>ابن يسى من سبط يهوذا. كان من نسل راعوث. كان داود راعي غنم في صغره. اتبع الله بأمانة وأصبح أشهر ملوك إسرائيل. كان يعزف على الآلات الموسيقية ويكتب الأغاني والأشعار. كان أمينًا لله ولم يعبد إلا الله. وكان كل الملوك من بعده يُشبهونه. أقام الله عهداً مع داود. (<data class=\"resource-ref\" data-content-id=\"134268\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"arb\">العهد مع داود</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108466,
-"content_id": 134268,
+"reference_id": "108466",
+"content_id": "134268",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "العهد مع داود",
 "language": "arb"
-}
-],
-"acai": [
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "يَهوذَا"
-},
-{
-"id": "person:David",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَاودَ"
 }
 ]
 }
@@ -181,23 +94,7 @@
 "content": "<p>أحد قضاة إسرائيل الاثني عشر. كانت نبية في بلاد جبل أفرايم. خدمت بني إسرائيل بتسوية الأمور الصعبة لهم. عينت باراق كقائد للهجوم ضد جيش سيسرا. تم تسجيل أغنيتها عن انتصارهم في سفر القضاة الفصل الخامس.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Deborah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَبورَة"
-},
-{
-"id": "person:Deborah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَبورَة"
-}
-]
+"resource": []
 }
 },
 {
@@ -212,16 +109,7 @@
 "content": "<p>مدينة في إقليم غلاطية الروماني في آسيا الصغرى. زارها بولس في ثلاث من رحلاته لمشاركة الأخبار السارة عن يسوع. يُعتقد أن رسالة بولس إلى أهل غلاطية كانت تُقرأ على الكنيسة هناك.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Derbe",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَرْبَةَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -236,16 +124,7 @@
 "content": "<p>امرأة فلسطينية كان شمشون مغرمًا بها. استخدمها القادة الفلسطينيون لمعرفة سر قوة شمشون المذهلة. كذب شمشون عليها ثلاث مرات. لكن دليلة توسلت إلى أن أخبرها شمشون أخيرًا بالحقيقة. وحصلت على المال مقابل تسليم شمشون للقادة.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Delilah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دَلِيلَة"
-}
-]
+"resource": []
 }
 },
 {
@@ -260,23 +139,7 @@
 "content": "<p> هناك معنيان لكلمة دم في كل أنحاء الكتاب المقدس. إن المعنى الأول يُشير إلي ذلك السائل الأحمر داخل أجسام البشر والحيوانات. أما المعنى الثاني فهو علامة أو إشارة  على الحياة. فالحياة عطية من الله. وكان الدم يُعتبر مهمًا لأنه يبيّن أن حيوان ما أو شخص ما كان على قيد الحياة. ولقد كان مفهومًا أن فقدان الدم يؤدي إلى الموت. لذلك كان أي شيء يتعلق بفقدان الدم يُعتبر نجسًا.  كما كان الدم يُستخدم في تطهير وتقديس الأشياء وذلك لكونه شيئًا ثمينًا ومحوريًا. لذلك فإن رش دم الذبائح على شخص أو شيء ما، كان يُقدّم برهانًا أو دليلًا. فقد أظهر أن الشخص أو الشيء قد تم تطهيره من الموت والخطية.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Blood",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Blood"
-},
-{
-"id": "keyterm:Bleed",
-"type": "keyterm",
-"confidence": 0.8277,
-"match_method": "embedding",
-"preferred_label": "Bleed"
-}
-]
+"resource": []
 }
 },
 {
@@ -291,16 +154,7 @@
 "content": "<p>عاصمة المملكة الواقعة شمال أرض إسرائيل. تقع في البلد الذي يسمى الآن سوريا. كانت لسنوات عديدة مدينة الآراميين. تبعد حوالي 300 كم شمال أورشليم.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Damascus",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دِمَشْقَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -315,8 +169,7 @@
 "content": "<p>الاعتقاد بأن يسوع لم يكن له جسد بشري ولم يكن إنسانًا كاملاً. كان هذا الاعتقاد مبنيًا على فكرة يونانية. وقد بنت أفكارها على أساس أن المادة شر. كانت تتضمن هذه الفكرة أيضًا أن الأشياء الروحية التي تدوم إلى الأبد فقط الأشياء الجيدة. أصبحت الدوسيتية فيما بعد جزءًا من حركة أكبر تُدعى الغنوسية. آمنت الغنوسية أن مشكلة العالم تكمن في أن البشر لديهم أجساد. واعتقدوا أن الخلاص هو بامتلاك البشر للمعرفة السرية.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -331,16 +184,7 @@
 "content": "<p>ابنة يعقوب وليئة. إخوتها لاوي وشمعون قتلوا شكيم بعد أن أغواها وأذلّها.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Dinah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "دِينَةَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -355,16 +199,7 @@
 "content": "<p>المعاناة والعقاب على فعل ما يخالف ما يريده الله. يجلب الله الدينونة على الناس والجماعات البشرية والكائنات الروحية الشريرة. إنه يجلب الدينونة لوقف الأمور الخاطئة والأعمال الشريرة. الدينونة ضد الشر هي الطريقة التي يعيد بها الله العدالة إلى عالمه. يمكن أن تكون دينونة الله مؤلمة ويمكن أن تؤدي إلى موت الناس. كما يمكن أن تقود الناس إلى التوبة والابتعاد عن الخطية والشر. يمكن أن يعلم الناس أن يفعلوا ما يريده الله. هذا يسمح للناس بالعيش في سلام مع الله ومع بعضهم البعض.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Judgment",
-"type": "keyterm",
-"confidence": 0.8663,
-"match_method": "embedding",
-"preferred_label": "Judgment"
-}
-]
+"resource": []
 }
 }
 ]

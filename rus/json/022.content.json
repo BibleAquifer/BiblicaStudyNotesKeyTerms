@@ -11,23 +11,7 @@
 "content": "<p>Человек, рождённый во время пребывания евреев в рабстве в Египте. Он вошёл в землю Ханаан с израильтянами. Халев не был прямым потомком Иакова, но был избран из колена Иуды в число 12 разведчиков. Когда 12 разведчиков вернулись, он был одним из тех, кто хорошо отзывался о земле Ханаан. Халев был полностью послушен Богу.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Caleb.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Халев"
-},
-{
-"id": "person:Caleb",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Халев"
-}
-]
+"resource": []
 }
 },
 {
@@ -42,30 +26,7 @@
 "content": "<p>Хам был младшим сыном Ноя. Вместе со своей женой Хам был спасён во время потопа, потому что они были в ковчеге. Хам не проявил уважения к Ною, когда тот напился вина после потопа. Поэтому Ной не смог благословить Хама и проклял его потомков. </p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Ham",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Хам"
-},
-{
-"id": "place:Ham.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Хам"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Аммон"
-}
-]
+"resource": []
 }
 },
 {
@@ -80,8 +41,7 @@
 "content": "<p>Жертвы или приношения из хлеба и муки, которые люди выбирали сами. Хлебное приношение подносили вместе с оливковым маслом, благовониями, солью и иногда вином. Священники съедали часть хлебных приношений, а остальное сжигали.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -96,16 +56,7 @@
 "content": "<p>Ховав был шурином Моисея и сыном Рагуила (которого также называли Иофором). Ховав был братом Сепфоры, жены Моисея. Хотя Ховав происходил из народа кенеев, он оставался с еврейским народом в период его странствования от горы Синай до Ханаана. Ховав был проводником израильтян в пустыне.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Hobab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ховав"
-}
-]
+"resource": []
 }
 },
 {
@@ -120,16 +71,7 @@
 "content": "<p><span>Здание в Иерусалиме, куда люди могли приходить для поклонения Богу. Храм также называли домом Господним или Божьей обителью. Самый первый Храм был построен при царе Соломоне. Бог сошёл на него и, таким образом, пребывал среди Своего народа. Вавилоняне разрушили первый Храм в 586 году до н.э. Спустя долгое время евреи построили второй Храм. Но после того, как он был разрушен римлянами в 70 году н.э., Храма в Израиле больше никогда не существовало. Иисус говорил, что Храм — это дом Его Отца. Он также учил, что Его Тело является новым храмом, поскольку Сам Бог в Иисусе присутствовал среди Своего народа. Бог продолжает присутствовать на этой земле, живя в тех людях, которые верят в Христа. Такие люди наполнены Святым Духом, и поэтому их называют новым храмом.</span></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "realia:Temple",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Temple"
-}
-]
+"resource": []
 }
 },
 {
@@ -141,32 +83,23 @@
 "index_reference": "христос",
 "language": "rus",
 "review_level": "None",
-"content": "<p>Древнегреческое слово, которое в переводе означает <span>«м</span>ессия<span>»</span> или <span>«</span>помазанник<span>»</span>. Многие евреи уверовали в то, что Иисус был Мессией, когда Он жил на земле, поэтому Иисуса называют Христом (<data class=\"resource-ref\" data-content-id=\"108527\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Мессия</data>, <data class=\"resource-ref\" data-content-id=\"108219\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Иисус</data>).</p>",
+"content": "<p>Древнегреческое слово, которое в переводе означает <span>«м</span>ессия<span>»</span> или <span>«</span>помазанник<span>»</span>. Многие евреи уверовали в то, что Иисус был Мессией, когда Он жил на земле, поэтому Иисуса называют Христом (<data class=\"resource-ref\" data-content-id=\"193609\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"rus\">Мессия</data>, <data class=\"resource-ref\" data-content-id=\"193301\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"rus\">Иисус</data>).</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108219,
-"content_id": 193301,
-"resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "Иисус",
-"language": "rus"
-},
-{
-"reference_id": 108527,
-"content_id": 193609,
+"reference_id": "108527",
+"content_id": "193609",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Мессия",
 "language": "rus"
-}
-],
-"acai": [
+},
 {
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Иисус"
+"reference_id": "108219",
+"content_id": "193301",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "Иисус",
+"language": "rus"
 }
 ]
 }

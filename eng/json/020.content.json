@@ -11,44 +11,7 @@
 "content": "<p>The daughter-in-law of Judah. Her first two husbands were Judah’s sons but they both died. After that, Judah slept with Tamar without knowing who she was. She got pregnant and had twin sons. Jesus is from the family line of Tamar’s son Perez. This is a different Tamar than the daughter of King David.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Tamar.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Tamar"
-},
-{
-"id": "person:Tamar.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Tamar"
-},
-{
-"id": "person:Tamar",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Tamar"
-},
-{
-"id": "place:Tamar.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Tamar"
-},
-{
-"id": "place:Tadmor",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Tadmor"
-}
-]
+"resource": []
 }
 },
 {
@@ -63,16 +26,7 @@
 "content": "<p>The daughter of David and Makaah. She and Absalom had the same parents. She and Amnon had the same father. Amnon raped Tamar when she was a virgin. Then he threw her out of his house. In those days, this was the same as divorcing her. Being raped and then not married brought shame to Tamar in their community. It meant she probably wouldn’t get married or have a family of her own. She lived with Absalom after that happened.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Tamar",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Tamar"
-}
-]
+"resource": []
 }
 },
 {
@@ -84,32 +38,16 @@
 "index_reference": "tax collector",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Jews in Jesus’ time who collected money for the Roman government. Many tax collectors weren’t honest. They made people give them more money than was required. The tax collectors would keep the extra money for themselves. Most Jews hated tax collectors for doing this. They hated tax collectors for working for the Romans. Tax collectors were often treated like outsiders. (<data class=\"resource-ref\" data-content-id=\"108369\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Outsiders</data>)</p>",
+"content": "<p>Jews in Jesus’ time who collected money for the Roman government. Many tax collectors weren’t honest. They made people give them more money than was required. The tax collectors would keep the extra money for themselves. Most Jews hated tax collectors for doing this. They hated tax collectors for working for the Romans. Tax collectors were often treated like outsiders. (<data class=\"resource-ref\" data-content-id=\"132315\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Outsiders</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108369,
-"content_id": 132315,
+"reference_id": "108369",
+"content_id": "132315",
 "resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "Outsider",
+"label": "Outsiders",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "keyterm:TaxCollector",
-"type": "keyterm",
-"confidence": 0.986,
-"match_method": "embedding",
-"preferred_label": "Tax Collector"
-},
-{
-"id": "group:TaxCollectors",
-"type": "group",
-"confidence": 0.8299,
-"match_method": "embedding",
-"preferred_label": "Tax Collectors"
 }
 ]
 }
@@ -126,8 +64,7 @@
 "content": "<p>Money that a government requires people to pay. Those who live under the authority of that government pay this money. The leaders are supposed to use the money to take care of their people.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -142,8 +79,7 @@
 "content": "<p>Israelite children were encouraged to ask questions about God and about worship practices. Parents were to explain to their children why they worshipped God in certain ways. This way the children would learn about who God is. They would learn about the mighty works that God does in the world. This was important because God had promised to be their God for ever. He wanted everyone in Jacob’s family line to know him.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -158,8 +94,7 @@
 "content": "<p>Jewish men who had studied the Old Testament and other Jewish writings. These men taught what they had learnt to the people. People usually thought highly of these teachers and treated them with honour. Most teachers of the law opposed Jesus and his work.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -174,16 +109,7 @@
 "content": "<p>The building in Jerusalem where people could go to worship God. It was also called the house of the Lord or the house of God. The first one was built when Solomon was king. God was present with his people there. The Babylonians destroyed it in the year 586 BC. Many years later, the Jews built another one. After the Romans destroyed that temple in the year AD 70, the Jews never built another one. Jesus called the temple his Father’s house. Jesus said his body was the new temple. This was because God was present with his people through Jesus. God remains present on earth through those who follow Jesus. They are filled with the Holy Spirit. Because of this, believers are described as a new temple.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "realia:Temple",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Temple"
-}
-]
+"resource": []
 }
 },
 {
@@ -195,19 +121,18 @@
 "index_reference": "ten commandments",
 "language": "eng",
 "review_level": "None",
-"content": "<p>The first laws that God gave Moses on Mount Sinai. God wrote them on stone tablets. They were the rules for God’s covenant with the people of Israel. The rest of the laws in the Old Testament were based on them. They are recorded in Exodus 20:3–17 and Deuteronomy 5:7–21. (<data class=\"resource-ref\" data-content-id=\"108335\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Law of Moses</data>)</p>",
+"content": "<p>The first laws that God gave Moses on Mount Sinai. God wrote them on stone tablets. They were the rules for God’s covenant with the people of Israel. The rest of the laws in the Old Testament were based on them. They are recorded in Exodus 20:3–17 and Deuteronomy 5:7–21. (<data class=\"resource-ref\" data-content-id=\"132281\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Law of Moses</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108335,
-"content_id": 132281,
+"reference_id": "108335",
+"content_id": "132281",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Law of Moses",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -222,8 +147,7 @@
 "content": "<p>Ten ways that God brought judgement against Pharaoh, Egypt and the Egyptian false gods. They were mighty signs worked by God through Moses and Aaron. These signs showed Pharaoh, the Israelites and the earth God’s authority and power over everything. They showed that God uses his authority and power to help his people. The plagues were part of how God rescued his people from slavery in Egypt. God sent one plague each time that Pharaoh refused to let the Israelites leave Egypt. The plagues included water turning into blood, frogs, gnats and flies. They included livestock being killed and boils on the skin of animals and people. They included hail, locusts and darkness. During the last plague, the eldest son in every Egyptian family was killed. God saved the Israelites from the suffering that the plagues brought.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -238,16 +162,7 @@
 "content": "<p>A tent outside the Israelite camp near Mount Sinai. God met with Moses and the Israelites there through the pillar of cloud. Certain women served at the entrance and Joshua stayed in the tent all the time. After the holy tent was built the tent of meeting was no longer used. But the holy tent was also called the tent of meeting.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "realia:TentOfMeeting",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Tent of Meeting"
-}
-]
+"resource": []
 }
 },
 {
@@ -262,8 +177,7 @@
 "content": "<p>The Israelites were to offer a tenth of everything they had to God. This included everything their land produced and their livestock. This would help them remember that everything belongs to God. It would help them remember that everything they had was a gift from God. It would help them be full of joy in the land God gave them. They gave the tenth of everything to God by sharing it with the priests and Levites. They also shared it with poor and needy people. The practice of giving God a tenth of everything lasted for hundreds of years. It’s also called giving a tithe. Many Christians give a tithe to their church. The tithe can be of anything their work produces including money.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -278,8 +192,7 @@
 "content": "<p>Times when people must make a difficult choice. They must choose between obeying God or doing what they want to do. The choice they make shows if they trust God to provide what they need. The purpose behind the test isn’t to cause people to make mistakes or for them to suffer. The purpose is for them to receive more of God’s grace. God tests people to help their faith in him grow stronger.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -294,16 +207,7 @@
 "content": "<p>The person that Luke wrote his gospel and the book of Acts for. The name Theophilus means lover of God. What Luke wrote can help anyone who loves God. Luke might have used the name Theophilus to talk about another Christian. He might have done this to keep the person’s name a secret to protect them. Luke called Theophilus most excellent. This might mean that Theophilus was an official of the Roman government.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Theophilus",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Theophilus"
-}
-]
+"resource": []
 }
 },
 {
@@ -318,16 +222,7 @@
 "content": "<p>A Greek city the Roman territory of Macedonia. It was in the area that is now northern Greece. Paul travelled there on his second journey. His letters to the Thessalonians were written to the church there.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Thessalonica",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Thessalonica"
-}
-]
+"resource": []
 }
 },
 {
@@ -342,16 +237,7 @@
 "content": "<p>One of Jesus’ 12 disciples. He was also called Didymus which means twin.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Thomas",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Thomas"
-}
-]
+"resource": []
 }
 },
 {
@@ -366,8 +252,7 @@
 "content": "<p>Three men with human bodies visited Abraham. They ate a meal that Abraham and Sarah prepared. They told Abraham and Sarah that Isaac would be born within a year. They talked with Abraham about God’s plans to destroy Sodom and Gomorrah. Two of these men were angels. They continued travelling to Sodom and Gomorrah to destroy the cities and to save Lot. The other man was God. God is a spiritual being. He can appear to human beings. He can appear in a way that they see him and recognise who he is.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -382,16 +267,7 @@
 "content": "<p>An important town in the Roman territory of Asia. It’s part of the city Akhisar in the country now known as Turkey. Lydia was from Thyatira.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Thyatira",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Thyatira"
-}
-]
+"resource": []
 }
 },
 {
@@ -406,16 +282,7 @@
 "content": "<p>A young man from Lystra who worked with Paul. His father was a Greek Gentile. Because his mother was a Jew, Timothy was considered a Jew. His grandmother Lois and his mother Eunice were believers. Paul trusted Timothy and loved him like a son. Timothy served in many of the churches Paul helped start. He was with Paul when the apostle wrote many of his letters. The New Testament includes two letters Paul wrote to Timothy.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Timothy",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Timothy"
-}
-]
+"resource": []
 }
 },
 {
@@ -430,16 +297,7 @@
 "content": "<p>A man who worked and travelled with Paul. He was a Greek Gentile believer who wasn’t circumcised. He served in many of the churches that Paul helped start. He was an important leader in the church on the island of Crete. He also helped take the offering given by the Corinthian believers to Jerusalem. The New Testament book called Titus is a letter that Paul wrote to him.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Titus",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Titus"
-}
-]
+"resource": []
 }
 },
 {
@@ -451,19 +309,18 @@
 "index_reference": "treated badly",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Many of Jesus’ disciples and followers in the first churches were treated badly or killed. Other Jews made them suffer for following Jesus as the Jewish Messiah. These Jews wanted Christian Jews to return to the Jewish faith and way of life. Roman authorities made them suffer for following Jesus as King of the whole world. They wanted Christians to recognise that the Roman emperor was king (<data class=\"resource-ref\" data-content-id=\"108047\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Rome</data> Matthew 8:1–17). The Roman government had laws that allowed people to practice the Jewish faith. But in the time of the first churches it didn’t have laws about Christians. This meant that Christians could get in trouble for following Jesus. To avoid trouble, they could go back to living as Jews. This was one way to escape being treated badly. It was very tempting for Christians who were suffering. Many Christians are still treated badly for faithfully following Jesus.</p>",
+"content": "<p>Many of Jesus’ disciples and followers in the first churches were treated badly or killed. Other Jews made them suffer for following Jesus as the Jewish Messiah. These Jews wanted Christian Jews to return to the Jewish faith and way of life. Roman authorities made them suffer for following Jesus as King of the whole world. They wanted Christians to recognise that the Roman emperor was king (<data class=\"resource-ref\" data-content-id=\"131993\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Rome</data> Matthew 8:1–17). The Roman government had laws that allowed people to practice the Jewish faith. But in the time of the first churches it didn’t have laws about Christians. This meant that Christians could get in trouble for following Jesus. To avoid trouble, they could go back to living as Jews. This was one way to escape being treated badly. It was very tempting for Christians who were suffering. Many Christians are still treated badly for faithfully following Jesus.</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108047,
-"content_id": 131993,
+"reference_id": "108047",
+"content_id": "131993",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Rome",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -478,8 +335,7 @@
 "content": "<p>A tree in the Garden of Eden. Its fruit allowed people to live for ever. Human beings weren’t allowed to eat from it after Adam and Eve sinned. Ezekiel saw trees like the tree of life in his vision of the temple (Ezekiel 47:12). In Revelation, John saw this tree in the new heaven and the new earth (Revelation 22:2). Everyone who lived in God’s Holy City could eat of it freely. This meant that they had eternal life and lived for ever with God.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -494,8 +350,7 @@
 "content": "<p>This was the tree of the knowledge of good and of evil. It was in the middle of the Garden of Eden. It was the only tree that Adam and Eve weren’t allowed to eat from. This is because only God knows and decides what is good and what is evil. Human beings aren’t allowed to decide about that.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -507,47 +362,46 @@
 "index_reference": "trinity",
 "language": "eng",
 "review_level": "None",
-"content": "<p>There is only one real and true God. The one and only God is three persons. This is the Trinity. The three persons are God the Father (<data class=\"resource-ref\" data-content-id=\"108199\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">God</data>, <data class=\"resource-ref\" data-content-id=\"108312\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Father</data>), Jesus the Son (<data class=\"resource-ref\" data-content-id=\"108219\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Jesus</data>, <data class=\"resource-ref\" data-content-id=\"108526\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Son of God</data>) and the Holy Spirit (<data class=\"resource-ref\" data-content-id=\"108388\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Holy Spirit</data>).</p>",
+"content": "<p>There is only one real and true God. The one and only God is three persons. This is the Trinity. The three persons are God the Father (<data class=\"resource-ref\" data-content-id=\"132145\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">God</data>, <data class=\"resource-ref\" data-content-id=\"132258\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Father</data>), Jesus the Son (<data class=\"resource-ref\" data-content-id=\"132165\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Jesus</data>, <data class=\"resource-ref\" data-content-id=\"132472\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Son of God</data>) and the Holy Spirit (<data class=\"resource-ref\" data-content-id=\"132334\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Holy Spirit</data>).</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108199,
-"content_id": 132145,
+"reference_id": "108199",
+"content_id": "132145",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "God",
 "language": "eng"
 },
 {
-"reference_id": 108219,
-"content_id": 132165,
-"resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "Jesus",
-"language": "eng"
-},
-{
-"reference_id": 108312,
-"content_id": 132258,
+"reference_id": "108312",
+"content_id": "132258",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Father",
 "language": "eng"
 },
 {
-"reference_id": 108388,
-"content_id": 132334,
+"reference_id": "108219",
+"content_id": "132165",
 "resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "Holy Spirit",
+"label": "Jesus",
 "language": "eng"
 },
 {
-"reference_id": 108526,
-"content_id": 132472,
+"reference_id": "108526",
+"content_id": "132472",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Son of God",
 "language": "eng"
+},
+{
+"reference_id": "108388",
+"content_id": "132334",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "Holy Spirit",
+"language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -562,16 +416,7 @@
 "content": "<p>In the Bible, trumpets were used for many purposes. They were used in worship services and feasts and in battles. Trumpets were used to make important announcements and as alarms. Before the Israelites reached Canaan, trumpet blasts let the 12 tribes know when to start marching. In the New Testament, Jesus and Paul talked about trumpets being blown. Trumpets would announce when God gathered his people and raised them from the dead. In Revelation, angels blew trumpets to announce parts of God’s judgement against evil.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "realia:Trumpet",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Trumpet"
-}
-]
+"resource": []
 }
 },
 {
@@ -586,30 +431,7 @@
 "content": "<p>Cities on the Mediterranean coast in the country now called Lebanon. The Phoenician people lived there first. The cities were later controlled by many different governments. The Israelites never took control of these cities when they moved into Canaan. Tyre was also a strong fort. There was peace between Tyre and Israel during the rule of some of Israel’s kings. The people in Tyre and Sidon worshipped false gods and were known for doing evil things.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Sidon",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Sidon"
-},
-{
-"id": "place:Sidon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Sidon"
-},
-{
-"id": "place:Tyre",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Tyre"
-}
-]
+"resource": []
 }
 }
 ]

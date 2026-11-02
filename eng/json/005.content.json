@@ -11,16 +11,7 @@
 "content": "<p>A false god worshipped by people groups in and around Canaan. In the Hebrew language the word Dagon means grain. Dagon was understood to be the father of Baal.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "deity:Dagon",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dagon"
-}
-]
+"resource": []
 }
 },
 {
@@ -35,16 +26,7 @@
 "content": "<p>The capital city of the kingdom north of the land of Israel. It’s in the country now called Syria. For many years it was a city of the Arameans. It’s about 300 km north of Jerusalem.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Damascus",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Damascus"
-}
-]
+"resource": []
 }
 },
 {
@@ -59,23 +41,7 @@
 "content": "<p>The eldest son of Jacob and Bilhah. In the Hebrew language, the name Dan means he judged. His family line became a tribe of Israel. Dan was also the name of the main city of the tribe of Dan. It was near Mount Hermon and was one of the most northern parts of Israel.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Dan",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dan"
-},
-{
-"id": "place:Dan",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dan"
-}
-]
+"resource": []
 }
 },
 {
@@ -90,30 +56,7 @@
 "content": "<p>A young man from the southern kingdom when Jehoiakim was king. He was taken from Judah to live in Babylon. He served several Babylonian and Persian kings as a wise man and government leader. He was also called Belteshazzar. He was a prophet and God gave him visions and messages. These are recorded in the book of Daniel.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Daniel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Daniel"
-},
-{
-"id": "person:Daniel.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Daniel"
-},
-{
-"id": "person:Chileab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chileab"
-}
-]
+"resource": []
 }
 },
 {
@@ -128,30 +71,7 @@
 "content": "<p>A king of Persia who was also called Darius the Great or Darius I. God used him as a tool. Darius allowed the Jews to rebuild the temple.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Darius.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Darius"
-},
-{
-"id": "person:Darius.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Darius"
-},
-{
-"id": "person:Darius",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Darius"
-}
-]
+"resource": []
 }
 },
 {
@@ -163,19 +83,18 @@
 "index_reference": "darkness",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Throughout the Bible there are two meanings for the word darkness. The first meaning is when the sun sets and it’s dark outside. The second meaning is a sign of things that are opposed to God. This darkness causes confusion and problems. It wants to destroy what God has made. Evil and evil spiritual beings are talked about as the kingdom of darkness. (<data class=\"resource-ref\" data-content-id=\"108218\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Evil spiritual beings</data>)</p>",
+"content": "<p>Throughout the Bible there are two meanings for the word darkness. The first meaning is when the sun sets and it’s dark outside. The second meaning is a sign of things that are opposed to God. This darkness causes confusion and problems. It wants to destroy what God has made. Evil and evil spiritual beings are talked about as the kingdom of darkness. (<data class=\"resource-ref\" data-content-id=\"132164\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Evil spiritual beings</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108218,
-"content_id": 132164,
+"reference_id": "108218",
+"content_id": "132164",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Evil spiritual beings",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -187,32 +106,16 @@
 "index_reference": "david",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A son of Jesse from the tribe of Judah. He was from the family line of Ruth. David was a shepherd when he was young. He followed God faithfully and became Israel’s most famous king. He played instruments and wrote songs and poems. He was faithful to God and worshipped only God. All kings after him were compared to him. God made a covenant with David. (<data class=\"resource-ref\" data-content-id=\"108466\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Covenant with David</data>)</p>",
+"content": "<p>A son of Jesse from the tribe of Judah. He was from the family line of Ruth. David was a shepherd when he was young. He followed God faithfully and became Israel’s most famous king. He played instruments and wrote songs and poems. He was faithful to God and worshipped only God. All kings after him were compared to him. God made a covenant with David. (<data class=\"resource-ref\" data-content-id=\"132412\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Covenant with David</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108466,
-"content_id": 132412,
+"reference_id": "108466",
+"content_id": "132412",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Covenant with David",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Judah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Judah"
-},
-{
-"id": "person:David",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "David"
 }
 ]
 }
@@ -226,19 +129,18 @@
 "index_reference": "day of atonement",
 "language": "eng",
 "review_level": "None",
-"content": "<p>This was the day when sins were paid for. It was on the tenth day of the seventh month. It was considered a holy day. It’s also called Yom Kippur by Jews who still celebrate it. The high priest sacrificed a bull for his sins and the sins of his family. He burnt incense and sacrificed one goat for the sins of all the Israelites. He sprinkled the holy tent and the Most Holy Room with the blood. This included sprinkling the altar and the cover of the ark of the covenant. Then the holy tent, the Most Holy Room and the altar were considered clean and pure. A live goat carried the sins of the people into the desert. Because of this, God remained present with the Israelites. (<data class=\"resource-ref\" data-content-id=\"108367\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Atone</data>)</p>",
+"content": "<p>This was the day when sins were paid for. It was on the tenth day of the seventh month. It was considered a holy day. It’s also called Yom Kippur by Jews who still celebrate it. The high priest sacrificed a bull for his sins and the sins of his family. He burnt incense and sacrificed one goat for the sins of all the Israelites. He sprinkled the holy tent and the Most Holy Room with the blood. This included sprinkling the altar and the cover of the ark of the covenant. Then the holy tent, the Most Holy Room and the altar were considered clean and pure. A live goat carried the sins of the people into the desert. Because of this, God remained present with the Israelites. (<data class=\"resource-ref\" data-content-id=\"132313\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Atone</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108367,
-"content_id": 132313,
+"reference_id": "108367",
+"content_id": "132313",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Atone",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -250,26 +152,25 @@
 "index_reference": "day of the lord",
 "language": "eng",
 "review_level": "None",
-"content": "<p>In the Old Testament, it was a way to talk about a time of judgement. God would bring judgement against his people or against their enemies. In the New Testament, it means Jesus’ return when he will judge all people (<data class=\"resource-ref\" data-content-id=\"108065\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Jesus’ return</data>). (<data class=\"resource-ref\" data-content-id=\"108055\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Judgement day</data>)</p>",
+"content": "<p>In the Old Testament, it was a way to talk about a time of judgement. God would bring judgement against his people or against their enemies. In the New Testament, it means Jesus’ return when he will judge all people (<data class=\"resource-ref\" data-content-id=\"132011\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Jesus’ return</data>). (<data class=\"resource-ref\" data-content-id=\"132001\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Judgement day</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108055,
-"content_id": 132001,
-"resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "Judgement day",
-"language": "eng"
-},
-{
-"reference_id": 108065,
-"content_id": 132011,
+"reference_id": "108065",
+"content_id": "132011",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Jesus’ return",
 "language": "eng"
+},
+{
+"reference_id": "108055",
+"content_id": "132001",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "Judgement day",
+"language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -284,8 +185,7 @@
 "content": "<p>Followers of Jesus who served as church leaders. Deacons worked hard to help meet the needs of believers in the church. The work of the first deacons is described in Acts 6:1–7.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -300,8 +200,7 @@
 "content": "<p>A respectful way that Jesus spoke to women. He called some women that he healed dear woman. Other times he called his mother Mary dear woman. It showed kindness and care.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -316,16 +215,7 @@
 "content": "<p>In Revelation, John described death and hell as evil powers that God judged. This means that God stopped death and hell for ever. Because of this, people in God’s kingdom on earth will never die. And people who refuse to join God’s kingdom will be separated from God for ever.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Hell",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hell"
-}
-]
+"resource": []
 }
 },
 {
@@ -340,23 +230,7 @@
 "content": "<p>One of the 12 judges of Israel. She was a prophet in the hill country of Ephraim. She served the Israelites by settling difficult matters for them. She appointed Barak as leader of the attack against Sisera’s army. Her song about their victory is recorded in Judges chapter 5.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Deborah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Deborah"
-},
-{
-"id": "person:Deborah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Deborah"
-}
-]
+"resource": []
 }
 },
 {
@@ -371,16 +245,7 @@
 "content": "<p>A Philistine woman whom Samson was in love with. Philistine leaders used her to learn the secret to Samson’s amazing strength. Samson lied to her about it three times. But Delilah begged until Samson finally told her the truth. She received money for handing Samson over to the leaders.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Delilah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Delilah"
-}
-]
+"resource": []
 }
 },
 {
@@ -395,16 +260,7 @@
 "content": "<p>A city in the Roman territory of Galatia in Asia Minor. Paul visited it on three of his journeys to share the good news about Jesus. It’s thought that Paul’s letter to the Galatians was read to the church there.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Derbe",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Derbe"
-}
-]
+"resource": []
 }
 },
 {
@@ -419,8 +275,7 @@
 "content": "<p>An angel who obeys God by destroying something. The act of destroying brings God’s judgement against evil.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -432,25 +287,16 @@
 "index_reference": "devil",
 "language": "eng",
 "review_level": "None",
-"content": "<p>The leader of all evil spiritual beings. The devil had served God in heaven. But he stopped worshipping God and started opposing what God wanted done. He could no longer be in God’s presence in heaven. The Bible described this like a star or lightning falling from heaven. In the Bible the devil is also sometimes called Satan. In the Hebrew language the word satan means the one who brings charges against others. The devil is also called the prince of this world and the prince of demons. He tells lies and accuses God’s people of doing wrong. He tries to make them be unfaithful to God. The devil has power to do evil things in the world. God’s power and authority are greater than the devil’s power. In the Garden of Eden, the devil appeared to Eve in the form of a snake. In Revelation, John described the devil as a dragon. (<data class=\"resource-ref\" data-content-id=\"108218\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Evil spiritual beings</data>)</p>",
+"content": "<p>The leader of all evil spiritual beings. The devil had served God in heaven. But he stopped worshipping God and started opposing what God wanted done. He could no longer be in God’s presence in heaven. The Bible described this like a star or lightning falling from heaven. In the Bible the devil is also sometimes called Satan. In the Hebrew language the word satan means the one who brings charges against others. The devil is also called the prince of this world and the prince of demons. He tells lies and accuses God’s people of doing wrong. He tries to make them be unfaithful to God. The devil has power to do evil things in the world. God’s power and authority are greater than the devil’s power. In the Garden of Eden, the devil appeared to Eve in the form of a snake. In Revelation, John described the devil as a dragon. (<data class=\"resource-ref\" data-content-id=\"132164\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Evil spiritual beings</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108218,
-"content_id": 132164,
+"reference_id": "108218",
+"content_id": "132164",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Evil spiritual beings",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "deity:Satan",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Satan"
 }
 ]
 }
@@ -467,16 +313,7 @@
 "content": "<p>The daughter of Jacob and Leah. Her brothers Levi and Simeon killed Shechem after he raped her.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Dinah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dinah"
-}
-]
+"resource": []
 }
 },
 {
@@ -488,26 +325,25 @@
 "index_reference": "disciple",
 "language": "eng",
 "review_level": "None",
-"content": "<p>Someone who follows a teacher or a leader. Disciples do what their teacher does and live like them. While Jesus worked in Israel, he chose certain disciples to be his closest followers. There were 12 of them just like there were 12 tribes of Israel. The 12 disciples were also called apostles. (<data class=\"resource-ref\" data-content-id=\"108286\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">12 tribes</data>, <data class=\"resource-ref\" data-content-id=\"108053\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Apostles</data>)</p>",
+"content": "<p>Someone who follows a teacher or a leader. Disciples do what their teacher does and live like them. While Jesus worked in Israel, he chose certain disciples to be his closest followers. There were 12 of them just like there were 12 tribes of Israel. The 12 disciples were also called apostles. (<data class=\"resource-ref\" data-content-id=\"132232\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">12 tribes</data>, <data class=\"resource-ref\" data-content-id=\"131999\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Apostles</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108053,
-"content_id": 131999,
-"resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "Apostles",
-"language": "eng"
-},
-{
-"reference_id": 108286,
-"content_id": 132232,
+"reference_id": "108286",
+"content_id": "132232",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "12 tribes",
 "language": "eng"
+},
+{
+"reference_id": "108053",
+"content_id": "131999",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "Apostles",
+"language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -519,19 +355,18 @@
 "index_reference": "divorce",
 "language": "eng",
 "review_level": "None",
-"content": "<p>When people who are married stop being married (<data class=\"resource-ref\" data-content-id=\"108206\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">marriage</data>). The Law of Moses included rules about divorce. Divorce was made official by a written letter when the couple stopped living together. Some prophets used divorce as a picture. It described something about the relationship between the people of Israel and God. They hadn’t been faithful to the Mount Sinai covenant. So God allowed his people to be forced to live in exile in Assyria and Babylon. They no longer lived in the land he had given them. This was like when a married couple stopped living together. In this way the exile was like a divorce between God and his people.</p>",
+"content": "<p>When people who are married stop being married (<data class=\"resource-ref\" data-content-id=\"132152\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">marriage</data>). The Law of Moses included rules about divorce. Divorce was made official by a written letter when the couple stopped living together. Some prophets used divorce as a picture. It described something about the relationship between the people of Israel and God. They hadn’t been faithful to the Mount Sinai covenant. So God allowed his people to be forced to live in exile in Assyria and Babylon. They no longer lived in the land he had given them. This was like when a married couple stopped living together. In this way the exile was like a divorce between God and his people.</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108206,
-"content_id": 132152,
+"reference_id": "108206",
+"content_id": "132152",
 "resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "Marriage",
+"label": "marriage",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -546,8 +381,7 @@
 "content": "<p>A belief that Jesus didn’t have a human body and wasn’t fully a human being. It was based on a Greek idea. This idea was that bodies were evil. This idea was also that only spiritual things that last for ever were good. <span>Docetism became part of a way of thinking called Gnosticism. Gnosticism explained that the world had problems because people had bodies. Gnostics believed that human beings were saved by having secret knowledge.</span></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -562,8 +396,7 @@
 "content": "<p>One way that God makes himself and his plans known to people. Sometimes God’s message through a dream is very clear to people. Other times it may not be clear to them. God gives some people the ability to understand other people’s dreams. They help others understand the message from God. Not all dreams are messages from God. People don’t make dreams from God happen. They are a gift from God.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -578,8 +411,7 @@
 "content": "<p>A way of describing when people are obeying God. In the Bible, the colour white is a sign of things that are considered pure. People are pure when they do what God wants done. White clothing is a sign of doing that. In Revelation, people’s clothes become white by being washed in the Lamb’s blood. This means that people trust in Jesus to save them from the power of sin.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -594,8 +426,7 @@
 "content": "<p>The way that God planned to bring judgement against the Canaanites for their evil ways. God had been patient with them for hundreds of years. Then he brought judgement against them to stop their evil deeds. His judgement was that he would no longer allow them to stay in their land. He would use the Israelites as his tool to drive them out. But the Israelites didn’t obey God completely. They didn’t drive out all the Canaanites. Instead, the Israelites lived with the Canaanites and followed their evil ways.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]
