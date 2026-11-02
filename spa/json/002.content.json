@@ -8,32 +8,23 @@
 "index_reference": "aaron",
 "language": "spa",
 "review_level": "None",
-"content": "<p>Un hijo de Amram y Jocabed de la tribu de Leví. Moisés era su hermano y Miriam era su hermana. Fue el padre de Nadab, Abiú, Eleazar e Itamar. Ayudó a Moisés a guiar al pueblo de Israel durante el éxodo y se convirtió en el primer sumo sacerdote. Todos los sumos sacerdotes debían provenir de la línea familiar de Aarón. (<data class=\"resource-ref\" data-content-id=\"108343\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Levitas</data>, <data class=\"resource-ref\" data-content-id=\"108333\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Sacerdote</data>)</p>",
+"content": "<p>Un hijo de Amram y Jocabed de la tribu de Leví. Moisés era su hermano y Miriam era su hermana. Fue el padre de Nadab, Abiú, Eleazar e Itamar. Ayudó a Moisés a guiar al pueblo de Israel durante el éxodo y se convirtió en el primer sumo sacerdote. Todos los sumos sacerdotes debían provenir de la línea familiar de Aarón. (<data class=\"resource-ref\" data-content-id=\"232312\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"spa\">Levitas</data>, <data class=\"resource-ref\" data-content-id=\"232302\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"spa\">Sacerdote</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108333,
-"content_id": 232302,
-"resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "Sacerdote",
-"language": "spa"
-},
-{
-"reference_id": 108343,
-"content_id": 232312,
+"reference_id": "108343",
+"content_id": "232312",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Levitas",
 "language": "spa"
-}
-],
-"acai": [
+},
 {
-"id": "person:Aaron",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Aarón"
+"reference_id": "108333",
+"content_id": "232302",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "Sacerdote",
+"language": "spa"
 }
 ]
 }
@@ -50,16 +41,7 @@
 "content": "<p>Una palabra en el idioma arameo que significa padre. Jesús llamó a Dios Abba. Aquellos que siguen a Jesús son parte de la familia de Dios, así que pueden llamar a Dios su Padre o Abba, tal como lo hace Jesús. Este nombre muestra cuán cercano está Dios a todos aquellos que confían en él.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jehová"
-}
-]
+"resource": []
 }
 },
 {
@@ -74,23 +56,7 @@
 "content": "<p>El segundo hijo de Adán y Eva. Era un pastor. Hizo una ofrenda que agradó a Dios. Su hermano Caín lo mató aunque no había hecho nada malo. La Biblia habla de la sangre de Abel clamando a Dios desde la tierra. Esto significaba que Dios necesitaba traer justicia porque Abel fue asesinado.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Abel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abel"
-},
-{
-"id": "place:Abel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abel"
-}
-]
+"resource": []
 }
 },
 {
@@ -105,58 +71,7 @@
 "content": "<p>El hijo de Roboam y Maaca. Fue el padre de Asa y era de la tribu de Judá. Fue el segundo rey del reino del sur de Judá. Hizo el mal y adoró a dioses falsos.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Abijah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abías"
-},
-{
-"id": "person:Abijah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abías"
-},
-{
-"id": "person:Abijah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abías"
-},
-{
-"id": "person:Abijah.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abías"
-},
-{
-"id": "person:Abijah.6",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abías"
-},
-{
-"id": "person:Abijah.7",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abías"
-},
-{
-"id": "person:Abi",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abi"
-}
-]
+"resource": []
 }
 },
 {
@@ -171,16 +86,7 @@
 "content": "<p>El hijo de Ahimelec que sirvió como sumo sacerdote cuando David era rey. Era de la línea familiar de Elí. Fue fiel a David pero no apoyó a Salomón como rey después de David. Debido a esto ya no se le permitió ser el sumo sacerdote, lo que cumplió la profecía contra la línea familiar de Elí.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Abiathar",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abiathar"
-}
-]
+"resource": []
 }
 },
 {
@@ -195,23 +101,7 @@
 "content": "<p>Una mujer sabia casada con un hombre insensato llamado Nabal. Ella convenció a David a confiar en Dios en lugar de matar personas porque estaba enojado. Después de que Nabal murió, Abigail se convirtió en una de las esposas de David y tuvo un hijo con él.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Abigail.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abigail"
-},
-{
-"id": "person:Abigail",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abigail"
-}
-]
+"resource": []
 }
 },
 {
@@ -226,30 +116,7 @@
 "content": "<p>Un hijo de Gedeón y la concubina de Gedeón de Siquem. Abimelec asesinó a casi todos los demás hijos de Gedeón. Gobernó como rey sobre Siquem y sus alrededores. Era violento y mató a mucha gente.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Abimelech.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abimelech"
-},
-{
-"id": "person:Achish",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Achîs"
-},
-{
-"id": "person:Abimelech",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abimelech"
-}
-]
+"resource": []
 }
 },
 {
@@ -261,25 +128,16 @@
 "index_reference": "abismo",
 "language": "spa",
 "review_level": "None",
-"content": "<p>Una forma de hablar sobre un lugar lleno de seres espirituales malignos. En el evangelio de Lucas, Jesús tenía autoridad para enviar allí a seres espirituales malignos (Lucas 8:31). En una visión registrada en Apocalipsis, Juan lo vio como un pozo sin fondo, gobernado por un ser espiritual maligno llamado el Destructor. Los seres espirituales malignos salían de él solo cuando Dios se lo permitía. (<data class=\"resource-ref\" data-content-id=\"108218\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Seres espirituales malignos</data>)</p>",
+"content": "<p>Una forma de hablar sobre un lugar lleno de seres espirituales malignos. En el evangelio de Lucas, Jesús tenía autoridad para enviar allí a seres espirituales malignos (Lucas 8:31). En una visión registrada en Apocalipsis, Juan lo vio como un pozo sin fondo, gobernado por un ser espiritual maligno llamado el Destructor. Los seres espirituales malignos salían de él solo cuando Dios se lo permitía. (<data class=\"resource-ref\" data-content-id=\"232187\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"spa\">Seres espirituales malignos</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108218,
-"content_id": 232187,
+"reference_id": "108218",
+"content_id": "232187",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Seres espirituales malignos",
 "language": "spa"
-}
-],
-"acai": [
-{
-"id": "keyterm:Abyss",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "abismo"
 }
 ]
 }
@@ -293,25 +151,16 @@
 "index_reference": "abraham",
 "language": "spa",
 "review_level": "None",
-"content": "<p>El hijo de Taré y tío de Lot de Mesopotamia. En el capítulo 17 de Génesis, Dios cambió su nombre de Abram a Abraham. En el idioma hebreo, uno de los significados del nombre de Abram es padre de muchas naciones. Abraham se convirtió en el padre de la nación de Israel. Fue casado con Sara y su hijo era Isaac. Tuvo un hijo llamado Ismael con la esclava de Sara, Agar. Abraham era de la línea familiar de Sem y siguió a Dios fielmente. Dios hizo un pacto con Abraham y su línea familiar. (<data class=\"resource-ref\" data-content-id=\"108253\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Pacto con Abraham</data>)</p>",
+"content": "<p>El hijo de Taré y tío de Lot de Mesopotamia. En el capítulo 17 de Génesis, Dios cambió su nombre de Abram a Abraham. En el idioma hebreo, uno de los significados del nombre de Abram es padre de muchas naciones. Abraham se convirtió en el padre de la nación de Israel. Fue casado con Sara y su hijo era Isaac. Tuvo un hijo llamado Ismael con la esclava de Sara, Agar. Abraham era de la línea familiar de Sem y siguió a Dios fielmente. Dios hizo un pacto con Abraham y su línea familiar. (<data class=\"resource-ref\" data-content-id=\"232222\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"spa\">Pacto con Abraham</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108253,
-"content_id": 232222,
+"reference_id": "108253",
+"content_id": "232222",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Pacto con Abraham",
 "language": "spa"
-}
-],
-"acai": [
-{
-"id": "person:Abraham",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abraham"
 }
 ]
 }
@@ -328,16 +177,7 @@
 "content": "<p>El hijo de David y Maaca. Tamar era su hermana. También tenía una hija llamada Tamar. Absalón mató a su hermano Amnón por violar a su hermana Tamar. Absalón se proclamó rey mientras el rey David aún vivía. Su ejército luchó contra el ejército de David. Joab lo mató a pesar de que David no quería que Absalón fuera herido.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Absalom",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Absalom"
-}
-]
+"resource": []
 }
 },
 {
@@ -352,8 +192,7 @@
 "content": "<p>Una forma de describir todos los años anteriores al nacimiento de Jesús. AC significa antes de Cristo.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -368,23 +207,7 @@
 "content": "<p>El hijo de Omri que se convirtió en el séptimo rey del reino del norte. Fue el padre de Ocozías y Jezabel fue su esposa. Hizo más maldad que cualquier rey de Israel antes que él. Adoraba a dioses falsos e hizo de Samaria un centro para adorar a Baal. Trató al profeta Elías como a un enemigo.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Ahab.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Achâb"
-},
-{
-"id": "person:Ahab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Achâb"
-}
-]
+"resource": []
 }
 },
 {
@@ -399,16 +222,7 @@
 "content": "<p>Un hombre israelita de la tribu de Judá. Guardó cosas de Jericó que deberían haber sido destruidas y esto causó problemas a su familia y a toda la comunidad israelita. Acán y toda su familia fueron ejecutados en el valle de Acor. En hebreo, Acor significa problema.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Achan",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Achân"
-}
-]
+"resource": []
 }
 },
 {
@@ -423,16 +237,7 @@
 "content": "<p>Territorio romano en la zona que ahora corresponde al sur de Grecia. La capital era Corinto. Pablo viajó por toda Acaya en su segundo y tercer viaje.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Achaia",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Acaya"
-}
-]
+"resource": []
 }
 },
 {
@@ -447,8 +252,7 @@
 "content": "<p>Los profetas de Israel transmitían los mensajes de Dios por medio de palabras y también por la forma como vivían. Dios les decía que hicieran ciertas cosas o que representaran una historia. Estas acciones eran señales para llamar la atención de la gente. Eran señales sobre cómo Dios traería el juicio o traería la salvación.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -463,8 +267,7 @@
 "content": "<p>Una forma de describir todos los años posteriores al nacimiento de Jesús. En latín, AD significa en el año de nuestro Señor.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -479,23 +282,7 @@
 "content": "<p>El primer ser humano creado por Dios. Eva era su esposa. En hebreo, el nombre Adán significa ser humano. También es similar a la palabra hebrea para tierra. Dios hizo a Adán del polvo y le insufló vida. Tuvo amistad y paz con Dios mientras vivió en el Jardín del Edén. Trabajó junto con Eva para cuidar el jardín y nombró a todas las criaturas que Dios creó. Adán fue el padre de Caín, Abel y Set. Cuando Adán y Eva dejaron de obedecer a Dios, tuvieron que abandonar el Jardín del Edén.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Adam",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Adam"
-},
-{
-"id": "place:Adam",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Adam"
-}
-]
+"resource": []
 }
 },
 {
@@ -510,30 +297,7 @@
 "content": "<p>El hijo de David y Haguit. Se hizo rey a sí mismo antes de que David nombrara a Salomón como rey. Cuando Salomón se convirtió en rey, le perdonó la vida a Adonías. Entonces Adonías hizo una petición insensata, intentó tener más autoridad que Salomón y convertirse en rey. Salomón lo hizo matar por eso.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Adonijah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Adonía"
-},
-{
-"id": "person:Adonijah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Adonía"
-},
-{
-"id": "person:Adonijah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Adonía"
-}
-]
+"resource": []
 }
 },
 {
@@ -548,8 +312,7 @@
 "content": "<p>Cuando alguien pasa a formar parte de una familia en la que no ha nacido. Esto es lo que sucede cuando las personas confían en Jesús. Dios creó a los seres humanos para que vivieran junto a él en paz y amor. Estaban destinados a ser hijos en su familia. Los seres humanos no aceptaron el amor de Dios, sino que eligieron seguir sus propios caminos. Esto significaba que no pertenecían a ninguna familia. Aquellos que creen que Jesús es el Mesías aceptan el amor de Dios y vuelven a ser parte de su familia. Pablo describió esto como ser adoptados como hijos de Dios.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -564,8 +327,7 @@
 "content": "<p>Nadie y nada más que Dios debe ser adorado. Esto es siempre verdad para todas las personas en todo lugar. Durante cientos de años, la línea familiar de Abraham había adorado a Dios. Sin embargo, muchos de ellos también habían adoraban a falsos dioses al mismo tiempo. Los grupos de personas  alrededor de ellos también adoraban a muchos dioses falsos. Esto era muy común en los tiempos y lugares de la Biblia. Pero Dios es el único Dios verdadero. En su alianza con los israelitas en el Monte Sinaí, Dios dejó esto muy claro. Él ordenó a los israelitas que lo adoraran solo a él. Esa fue la primera y más importante parte de su pacto con ellos.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -580,16 +342,7 @@
 "content": "<p>Una esclava de Egipto que servía a Sara. Sara no podía tener hijos e hizo que Agar durmiera con Abraham. Después de esto, Agar dio a luz al hijo de Abraham, Ismael. Sara trataba mal a Agar y ella e Ismael fueron enviados lejos. Pero Dios cuidó de ellos en el desierto.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Hagar",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Agar"
-}
-]
+"resource": []
 }
 },
 {
@@ -604,8 +357,7 @@
 "content": "<p>El agua se usaba en muchas prácticas para ayudar a los israelitas a adorar a Dios. Los sacerdotes se lavaban las manos y los pies con agua cuando servían a Dios en el altar. Esta agua se guardaba en un gran recipiente de bronce. Las personas y las cosas que se consideraban impuras se volvían limpias después de ser lavadas con agua. El agua se consideraba agua especial cuando los sacerdotes añadían cenizas de una vaca joven al agua. Esta agua especial se rociaba sobre personas o cosas después de estar cerca de un cadáver. Usar el agua de estas maneras significaba más que limpiar la suciedad. Era un símbolo de que personas o cosas se consideraban espiritualmente limpias y puras. Solo las personas o cosas que se consideraban limpias y puras podían estar cerca de Dios.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -620,8 +372,7 @@
 "content": "<p>Una manera de hablar sobre cómo Dios provee todo lo que las personas necesitan para vivir. En la Biblia también se llama agua que da vida y el agua de vida. El agua está viva cuando es fresca y en movimiento. Las personas la beben para mantenerse vivas y las plantas y animales pueden vivir en ella. Los profetas describieron a Dios como un manantial de agua que daba vida a su pueblo. Lo describieron como un pastor que guiaba a su pueblo a manantiales de agua. Y describieron cómo el agua fluiría desde Jerusalén. Esta agua daría vida a todo el mundo. En el Nuevo Testamento, Jesús describió al Espíritu Santo como agua viva. Jesús da agua viva a las personas que creen en él. Esto significa que comparte el Espíritu Santo con ellos. El Espíritu provee lo que sus espíritus necesitan. Esto es como el agua provee lo que sus cuerpos necesitan. El Espíritu les ayuda a servir a otros. Así es como el agua viva fluye desde dentro de las personas. En Apocalipsis, Dios ofrece el agua de vida libremente a todos los que creen en él.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -636,65 +387,7 @@
 "content": "<p>Un profeta de Silo. Sus palabras y acciones desafiaron la autoridad de los reyes que desobedecieron a Dios. Dios usó a Ahías para mostrar que Salomón no había sido fiel al pacto de Dios con David. Más tarde, Dios usó a Ahías para mostrar que Jeroboam tampoco había sido fiel a Dios.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Ahijah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahías"
-},
-{
-"id": "person:Ahijah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahías"
-},
-{
-"id": "person:Ahijah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahías"
-},
-{
-"id": "person:Ahijah.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahías"
-},
-{
-"id": "person:Ahijah.6",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahías"
-},
-{
-"id": "person:Ahijah.7",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahías"
-},
-{
-"id": "person:Ahimelech",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahimelech"
-},
-{
-"id": "person:Ahijah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahías"
-}
-]
+"resource": []
 }
 },
 {
@@ -709,30 +402,7 @@
 "content": "<p>El bisnieto de Elí que sirvió como sumo sacerdote cuando la tienda sagrada estaba en Nob. Le dio a David pan sagrado y la espada de Goliat cuando David huía de Saúl. Doeg el edomita lo mató por ayudar a David.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Ahimelech.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahimelech"
-},
-{
-"id": "person:Ahimelech.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahimelech"
-},
-{
-"id": "person:Ahimelech",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ahimelech"
-}
-]
+"resource": []
 }
 },
 {
@@ -747,8 +417,7 @@
 "content": "<p>En el alfabeto griego Alfa es la primera letra y Omega es la última letra. Jesús se llamó a sí mismo el Alfa y la Omega. Esta era una forma de decir que él es el primero y el último. Él estaba en el principio cuando Dios creó todas las cosas. Él estará al final del mundo tal como es ahora. Es una forma de decir que Jesús siempre ha existido y siempre existirá. También es una forma de decir que Jesús es Dios. Dios Padre se llamó a sí mismo el Alfa y la Omega en Apocalipsis 21:6.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -763,16 +432,7 @@
 "content": "<p>Algo que la gente construía para honrar a Dios. Para rendir culto se hacían sacrificios en el altar. La gente a menudo construía altares para reconocer una manera especial en que Dios había hablado o actuado. Los altares les ayudaban a recordar lo que Dios había dicho o hecho. Los altares también mostraban que la gente estaba comprometida a adorar y obedecer a Dios. Dios dio instrucciones cuidadosas sobre la construcción de los altares en la tienda sagrada y el templo. La gente también construía altares para adorar a falsos dioses.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "realia:Altar",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Altar"
-}
-]
+"resource": []
 }
 },
 {
@@ -784,19 +444,18 @@
 "index_reference": "altar de oro",
 "language": "spa",
 "review_level": "None",
-"content": "<p>En la visión de Juan del trono de Dios había un altar de oro. Esto mostraba que el área con el trono también era un templo. Fue el modelo que los israelitas y judíos usaron para la tienda sagrada y el templo (Hebreos 8:1–5). (<data class=\"resource-ref\" data-content-id=\"108285\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Altar</data>)</p>",
+"content": "<p>En la visión de Juan del trono de Dios había un altar de oro. Esto mostraba que el área con el trono también era un templo. Fue el modelo que los israelitas y judíos usaron para la tienda sagrada y el templo (Hebreos 8:1–5). (<data class=\"resource-ref\" data-content-id=\"232254\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"spa\">Altar</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108285,
-"content_id": 232254,
+"reference_id": "108285",
+"content_id": "232254",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Altar",
 "language": "spa"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -811,8 +470,7 @@
 "content": "<p>Dios creó a las personas para recibir su amor y amarlo a cambio. El amor de Dios cambia a las personas y las capacita para amarlo. El amor por Dios es tanto un sentimiento como una decisión que las personas llevan a la práctica. Esta acción consiste en obedecerlo. El amor por Dios se muestra obedeciendo sus mandamientos. La Ley de Moisés en el Antiguo Testamento y Jesús en el Nuevo Testamento enseñan esto.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -827,16 +485,7 @@
 "content": "<p>Un grupo étnico al sur de Canaán. Se cree que procedían de la línea familiar del nieto de Esaú, Amalec. Eran enemigos del pueblo de Israel. Durante cientos de años atacaron a los israelitas.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "group:Amalek",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Amalekites"
-}
-]
+"resource": []
 }
 },
 {
@@ -851,16 +500,7 @@
 "content": "<p>Un líder en el gobierno persa durante el tiempo de Asuero. Era de la línea familiar de Agag el amalecita. Esto significaba que Amán era de un grupo de personas que había tratado mal a los israelitas. Amán hizo planes para destruir a todos los judíos en el reino persa. Asuero lo condenó a muerte.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Haman",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Amán"
-}
-]
+"resource": []
 }
 },
 {
@@ -875,30 +515,7 @@
 "content": "<p>Una palabra en el idioma hebreo que significa verdaderamente o así sea. Muestra que las personas están de acuerdo con lo que se ha dicho. Demuestra que quieren que suceda lo que se ha dicho. En la Biblia, las personas a menudo decían amén al alabar a Dios, orar o bendecir a otros.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "deity:Amon",
-"type": "deity",
-"confidence": 0.8091,
-"match_method": "embedding",
-"preferred_label": "Amón"
-},
-{
-"id": "person:Amon.2",
-"type": "person",
-"confidence": 0.8091,
-"match_method": "embedding",
-"preferred_label": "Amón"
-},
-{
-"id": "person:Amon.3",
-"type": "person",
-"confidence": 0.8091,
-"match_method": "embedding",
-"preferred_label": "Amón"
-}
-]
+"resource": []
 }
 },
 {
@@ -913,16 +530,7 @@
 "content": "<p>Un pueblo que vivía al este del río Jordán. Pertenecían a la línea familiar de Lot. La tierra donde vivían se llamaba Amón. Adoraban al dios falso llamado Moloc.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "group:Ammon",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Amós"
-}
-]
+"resource": []
 }
 },
 {
@@ -937,16 +545,7 @@
 "content": "<p>Un pueblo que vivía en Canaán y al este del río Jordán. Eran de la línea familiar del hijo de Cam, Canaán. Fueron enemigos de la familia de Abraham durante cientos de años. Dios los expulsó de Canaán y dio su tierra a los israelitas.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "group:Amorites",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Amorites"
-}
-]
+"resource": []
 }
 },
 {
@@ -961,30 +560,7 @@
 "content": "<p>Un profeta del reino meridional de Judá durante el tiempo del rey Uzías. Era pastor. Sus mensajes eran sobre el reino del norte durante el gobierno del rey Jeroboam II. Sus profecías están registradas en el libro de Amós.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Amos.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Amós"
-},
-{
-"id": "person:Amos.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Amós"
-},
-{
-"id": "person:Amon.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Amón"
-}
-]
+"resource": []
 }
 },
 {
@@ -999,16 +575,7 @@
 "content": "<p>La madre del profeta Samuel. Elcana era su esposo. Durante mucho tiempo no pudo tener hijos. Después Dios le permitió quedarse embarazada. Llena de gratitud, hizo una hermosa oración sobre Dios cuidando a su pueblo.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Hannah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Anna"
-}
-]
+"resource": []
 }
 },
 {
@@ -1023,16 +590,7 @@
 "content": "<p>Los líderes judíos masculinos que eran respetados y tenían autoridad entre los israelitas. Tomaban decisiones importantes para el pueblo de Dios. También se les llamaba los ancianos del pueblo o ancianos de la comunidad. Transmitían enseñanzas, historias y leyes judías a lo largo de los años. Debían mantener el orden y ayudar a los israelitas a obedecer las leyes de Dios. En el Nuevo Testamento, un cierto grupo de ancianos se llamaba el Sanedrín o Consejo Judío. La mayoría de ellos se oponían a Jesús y sus enseñanzas.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "group:GenericElders",
-"type": "group",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Elders"
-}
-]
+"resource": []
 }
 },
 {
@@ -1047,8 +605,7 @@
 "content": "<p>Seguidores de Jesús que sirvieron como líderes de la iglesia. Enseñaron el mensaje acerca de Jesús fielmente y se aseguraron de que otros también lo hicieran. Oraron por las personas y ayudaron a tomar decisiones importantes para las iglesias.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1063,16 +620,7 @@
 "content": "<p>Un pescador de Betsaida que vivía en Capernaúm. Fue discípulo de Juan el Bautista y se convirtió en uno de los 12 discípulos de Jesús. Pedro era su hermano.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Andrew",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Andrés"
-}
-]
+"resource": []
 }
 },
 {
@@ -1084,19 +632,18 @@
 "index_reference": "ángel",
 "language": "spa",
 "review_level": "None",
-"content": "<p>Un mensajero enviado por Dios. Los ángeles dicen a las personas las palabras de Dios o hacen trabajo para Dios en la tierra. Los ángeles son seres espirituales. Pueden parecer humanos pero no tienen cuerpos como los cuerpos humanos. (<data class=\"resource-ref\" data-content-id=\"108423\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Seres espirituales</data>)</p>",
+"content": "<p>Un mensajero enviado por Dios. Los ángeles dicen a las personas las palabras de Dios o hacen trabajo para Dios en la tierra. Los ángeles son seres espirituales. Pueden parecer humanos pero no tienen cuerpos como los cuerpos humanos. (<data class=\"resource-ref\" data-content-id=\"232392\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"spa\">Seres espirituales</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108423,
-"content_id": 232392,
+"reference_id": "108423",
+"content_id": "232392",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Seres espirituales",
 "language": "spa"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1111,8 +658,7 @@
 "content": "<p>Un ángel siempre descrito con el nombre del Señor en el Antiguo Testamento. Este ser espiritual a veces traía un mensaje de Dios. Otras veces el Antiguo Testamento describía al ángel como Dios mismo. Este ángel fue una manera en que Dios se dio a conocer en la tierra antes de que naciera Jesús.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1127,8 +673,7 @@
 "content": "<p>Un ángel que obedece a Dios destruyendo algo. El acto de destruir trae el juicio de Dios contra el mal.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1143,8 +688,7 @@
 "content": "<p>El registro de historias y enseñanzas que los israelitas transmitieron durante cientos de años. El Espíritu de Dios inspiró a las personas mientras escribían historias y enseñanzas. Este registro son los 39 libros del Antiguo Testamento. El Antiguo Testamento incluye libros sobre la historia de la alianza de Israel. Incluye sabiduría, poemas y canciones de Israel. También incluye los libros de los profetas de Israel.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1159,16 +703,7 @@
 "content": "<p>Una ciudad en el territorio romano de Pisidia, en Asia Menor. Pablo la visitó en tres de sus viajes para compartir la buena nueva sobre Jesús. Se cree que la carta de Pablo a los Gálatas fue leída en la iglesia allí. Esta era una ciudad diferente de Antioquía en Siria.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Antioch.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Antioquía"
-}
-]
+"resource": []
 }
 },
 {
@@ -1183,16 +718,7 @@
 "content": "<p>Una importante ciudad griega en el territorio romano de Siria. Viajeros de todo el mundo pasaban por Antioquía. Estaba en el país que ahora se llama Turquía y cerca del país ahora llamado Siria. La iglesia allí apoyó a Pablo en sus viajes para difundir el mensaje sobre Jesús.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Antioch",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Antioquía"
-}
-]
+"resource": []
 }
 },
 {
@@ -1207,23 +733,7 @@
 "content": "<p>Uno de los 12 jueces de Israel. Era proveniente de la tribu de Benjamín y era zurdo. Usó este hecho como parte de su plan para matar al rey de Moab.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Ehud.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Aod"
-},
-{
-"id": "person:Ehud",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Aod"
-}
-]
+"resource": []
 }
 },
 {
@@ -1238,16 +748,7 @@
 "content": "<p>Un judío proveniente de Alejandría en Egipto que entendía muy bien las Escrituras. Se hizo amigo de Aquila y Priscila en Éfeso. Ellos le ayudaron a entender más sobre Jesús. Apolos enseñaba en iglesias donde Pablo había trabajado.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Apollos",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Apolos"
-}
-]
+"resource": []
 }
 },
 {
@@ -1262,8 +763,7 @@
 "content": "<p>Los 12 discípulos de Jesús y otros seguidores cercanos que se convirtieron en líderes en las primeras iglesias. Los apóstoles enseñaron a la gente acerca de Jesús y difundieron la buena nueva sobre él. Apóstol es una palabra del idioma griego que significa alguien que es enviado.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1278,23 +778,7 @@
 "content": "<p>Una pareja de esposos que fabricaba y vendía tiendas. Eran judíos que habían vivido en Roma. Pablo se hizo amigo de ellos en la ciudad de Corinto y trabajaron juntos para difundir la buena nueva sobre Jesús. Pablo los mencionó en tres de sus cartas. Aquila y Priscila ayudaron a Apolos a comprender más acerca de Jesús.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Aquila",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Aquila"
-},
-{
-"id": "person:Priscilla",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Priscila"
-}
-]
+"resource": []
 }
 },
 {
@@ -1309,37 +793,7 @@
 "content": "<p>Un pueblo que vivía en Mesopotamia y Siria. Adoraban a dioses falsos. Eran de la línea familiar de Sem. La tierra donde vivían también se llamaba Aram. Los parientes de Abraham vivían en Aram. Damasco se convirtió en una ciudad importante de los arameos. El idioma de los arameos se llamaba arameo. Más tarde, muchos asirios, babilonios y judíos hablaban el idioma arameo. Partes de la Biblia fueron escritas en arameo.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Aram.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Aram"
-},
-{
-"id": "person:Aram.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Aram"
-},
-{
-"id": "person:Aram",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Aram"
-},
-{
-"id": "place:Paddan-aram",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Arameo"
-}
-]
+"resource": []
 }
 },
 {
@@ -1354,8 +808,7 @@
 "content": "<p>Un árbol en el Jardín del Edén. Su fruto permitía a las personas vivir para siempre. Después de que Adán y Eva pecaron, los seres humanos no podían comer de él. Ezequiel vio árboles como el árbol de la vida en su visión del templo (Ez 47:12). En Apocalipsis, Juan vio este árbol en el nuevo cielo y en la nueva tierra (Ap 22:2). Todos los que vivían en la Ciudad Santa de Dios podían comer de él libremente. Esto significa que tenían vida eterna y vivían para siempre con Dios.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1370,8 +823,7 @@
 "content": "<p>Este era el árbol del conocimiento del bien y del mal. Estaba en el medio del Jardín del Edén. Era el único árbol del que Adán y Eva no podían comer. Esto es porque solo Dios sabe y decide lo que es bueno y lo que es malo. Los seres humanos no pueden decidir sobre esto.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1386,8 +838,7 @@
 "content": "<p>El gran barco que Dios dio instrucciones a Noé para construir. Dios mantuvo a salvo a las personas y a los animales en el arca durante el diluvio.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1399,25 +850,16 @@
 "index_reference": "arca de la alianza",
 "language": "spa",
 "review_level": "None",
-"content": "<p>Una caja importante que era un símbolo del pacto del Monte Sinaí. En ella se guardaban objetos sagrados, incluyendo las tablas de piedra con los Diez Mandamientos, una vasija de maná y el cayado de Aarón. Al principio, el arca se guardaba en la tienda sagrada. Más tarde se guardó en el Lugar Santísimo del templo (<data class=\"resource-ref\" data-content-id=\"108365\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Lugar Santísimo</data>). Era como el trono de Dios en la tierra. Era el lugar donde el pueblo de Dios podía encontrarse con él.</p>",
+"content": "<p>Una caja importante que era un símbolo del pacto del Monte Sinaí. En ella se guardaban objetos sagrados, incluyendo las tablas de piedra con los Diez Mandamientos, una vasija de maná y el cayado de Aarón. Al principio, el arca se guardaba en la tienda sagrada. Más tarde se guardó en el Lugar Santísimo del templo (<data class=\"resource-ref\" data-content-id=\"232334\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"spa\">Lugar Santísimo</data>). Era como el trono de Dios en la tierra. Era el lugar donde el pueblo de Dios podía encontrarse con él.</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108365,
-"content_id": 232334,
+"reference_id": "108365",
+"content_id": "232334",
 "resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "El Lugar más sagrado (Santo de los Santos)",
+"label": "Lugar Santísimo",
 "language": "spa"
-}
-],
-"acai": [
-{
-"id": "realia:ArkOfTheCovenant",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ark of the Covenant"
 }
 ]
 }
@@ -1434,8 +876,7 @@
 "content": "<p>Herramientas que Dios da a su pueblo para protegerlos del mal. Estas herramientas no pueden ser sujetadas en las manos de las personas. Son espirituales. Se describen como armaduras o armas porque los creyentes las usan en luchas espirituales. La verdad, la piedad, la paz, la fe, la salvación, la palabra de Dios y la oración son tipos de armadura espiritual. Estas herramientas ayudan a los creyentes a mantenerse fuertes en su fe. Les ayudan a seguir a Jesús fielmente y a decirle no al mal.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1447,25 +888,16 @@
 "index_reference": "arrepentir",
 "language": "spa",
 "review_level": "None",
-"content": "<p>Alejarse del pecado y volverse a Dios. Esto no se hace solo una vez en la vida de alguien. Cada vez que alguien peca, Dios quiere que se vuelvan hacia él. Dios tiene gracia y los perdona. Esto sana su relación con Dios. Durante muchos años, los israelitas ofrecieron sacrificios para mostrar que se habían arrepentido. En el Nuevo Testamento, la gente mostró que se había arrepentido pidiendo perdón, confiando en Jesús y siguiéndolo (<data class=\"resource-ref\" data-content-id=\"108254\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Bien con Dios</data>).</p>",
+"content": "<p>Alejarse del pecado y volverse a Dios. Esto no se hace solo una vez en la vida de alguien. Cada vez que alguien peca, Dios quiere que se vuelvan hacia él. Dios tiene gracia y los perdona. Esto sana su relación con Dios. Durante muchos años, los israelitas ofrecieron sacrificios para mostrar que se habían arrepentido. En el Nuevo Testamento, la gente mostró que se había arrepentido pidiendo perdón, confiando en Jesús y siguiéndolo (<data class=\"resource-ref\" data-content-id=\"232223\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"spa\">Bien con Dios</data>).</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108254,
-"content_id": 232223,
+"reference_id": "108254",
+"content_id": "232223",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Bien con Dios",
 "language": "spa"
-}
-],
-"acai": [
-{
-"id": "keyterm:Repent",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "convertirse"
 }
 ]
 }
@@ -1482,23 +914,7 @@
 "content": "<p>El gobernante del reino persa desde 465 hasta 425 a.C. Era conocido como Artajerjes I. Dios lo usó como herramienta para ayudar a los judíos a reconstruir el muro de Jerusalén.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Artaxerxes.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Artajerjes"
-},
-{
-"id": "person:Artaxerxes",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Artajerjes"
-}
-]
+"resource": []
 }
 },
 {
@@ -1513,16 +929,7 @@
 "content": "<p>Una diosa falsa adorada por ayudar a la gente a cazar y tener hijos. En los tiempos y lugares del Nuevo Testamento se la llamaba por muchos nombres diferentes. Cuando los griegos construyeron la ciudad de Éfeso, la llamaron Artemisa. En Éfeso había un templo enorme y famoso en su honor. Éfeso era el centro del culto a Artemisa.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "deity:Artemis",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Diana"
-}
-]
+"resource": []
 }
 },
 {
@@ -1537,23 +944,7 @@
 "content": "<p>El hijo de Abías y padre de Josafat. Pertenecía a la tribu de Judá. Fue el tercer rey del reino del sur de Judá. Durante muchos años siguió a Dios fielmente. Guió al pueblo a adorar sólo a Dios. Más tarde dejó de confiar en Dios y comenzó a tratar mal al pueblo de Dios.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Asa.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Asa"
-},
-{
-"id": "person:Asa",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Asa"
-}
-]
+"resource": []
 }
 },
 {
@@ -1568,44 +959,7 @@
 "content": "<p>Un levita del linaje de Gersón. David nombró a Asaf, sus ayudantes y los hijos de la línea familiar de Asaf, y los designó para estar a cargo de los servicios de adoración. Guiaban al pueblo de Israel en la alabanza a Dios con cánticos de agradecimiento. Profetizaron, tocaron instrumentos y escribieron canciones. Algunas de estas canciones están recogidas en el libro de los Salmos.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Asaph.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Asaph"
-},
-{
-"id": "person:Asaph.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Asaph"
-},
-{
-"id": "person:Asaph.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Asaph"
-},
-{
-"id": "person:Ebiasaph",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abiasath"
-},
-{
-"id": "person:Asaph",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Asaph"
-}
-]
+"resource": []
 }
 },
 {
@@ -1620,8 +974,7 @@
 "content": "<p>Matar a alguien a propósito y sin permiso de Dios. Esto es lo que era el asesinato en el Antiguo Testamento. Estaba mal y no estaba permitido. El pacto de Dios con Noé y los Diez Mandamientos dejaron esto claro. El asesinato se describía como derramar la sangre de alguien al suelo. Esa sangre hacía que el suelo fuera impuro. Clamaba a Dios. Esto significaba que la sangre era un testigo contra el asesino. Mostraba que se necesitaba justicia. El asesino tenía que ser ejecutado. Eso devolvía la justicia al pueblo y a la tierra. En el Nuevo Testamento, Jesús enseñó que el asesinato significaba más que matar a alguien. Odiar a alguien era un pecado tan grave como cometer asesinato.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1636,16 +989,7 @@
 "content": "<p>Una diosa adorada por muchos grupos de personas en Canaán y sus alrededores. También se la llamaba Asherah, Astarté e Ishtar. Era adorada como madre de otros dioses masculinos y femeninos.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "deity:Ashtoreth",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Astharoth"
-}
-]
+"resource": []
 }
 },
 {
@@ -1660,16 +1004,7 @@
 "content": "<p>Una zona bajo dominio romano. Era la parte occidental del país ahora llamado Turquía. No era el continente ahora llamado Asia con países como China, India y Rusia. Pablo viajó por toda Asia Menor.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:AsiaMinor",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Asia Minor"
-}
-]
+"resource": []
 }
 },
 {
@@ -1684,16 +1019,7 @@
 "content": "<p>Un reino de Mesopotamia que duró miles de años. Se convirtió en un gobierno poderoso que dominó sobre muchas otras naciones y grupos étnicos. Su capital era Nínive. Asiria tomó el control del reino del norte de Israel en 722 a.C. y obligaron a los israelitas a dejar su tierra y vivir lejos en el exilio. Algunos de los reyes de Asiria fueron Tiglatpileser, Salmanasar, Sargón y Senaquerib. Los ejércitos babilonios ganaron una batalla importante sobre Asiria en 612 a.C., que dejó de ser poderosa después de eso.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Assyria",
-"type": "place",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Assyria"
-}
-]
+"resource": []
 }
 },
 {
@@ -1708,30 +1034,7 @@
 "content": "<p>Una nieta de Omri y madre de Ocozías. Se cree que era hija de Acab y Jezabel, y que se casó con el rey Joram. Atalía asesinó a los varones de la línea familiar de David que podrían haber llegado a ser reyes. Hizo esto después de que Jehú mató a su hijo Ocozías. Sólo Joás fue salvado. Atalía gobernó como reina sobre el reino del sur durante seis años. Llevó al pueblo a adorar a Baal e hizo muchas cosas malas. Fue asesinada por los guardias del palacio.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Athaliah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Athalía"
-},
-{
-"id": "person:Athaliah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Athalía"
-},
-{
-"id": "person:Athaliah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Athalía"
-}
-]
+"resource": []
 }
 },
 {
@@ -1746,16 +1049,7 @@
 "content": "<p>Una ciudad griega muy importante en el territorio romano de Acaya. Pablo la visitó en su segundo viaje. Compartió el mensaje de Jesús con los pensadores y líderes en el Areópago, una colina a las afueras de Atenas. Allí se reunía un consejo de líderes atenienses para hablar sobre asuntos importantes.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Athens",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Atenas"
-}
-]
+"resource": []
 }
 },
 {
@@ -1770,8 +1064,7 @@
 "content": "<p>Evitar la comida. Las personas en Israel ayunaban como auxilio para prestar atención a la oración y para mostrar que lamentaban su pecado. Evitar la comida les ayudaba a concentrarse en una meta que querían alcanzar. También ayunaban para lamentar algo triste que había sucedido. Jesús enseñó que el ayuno era parte de la adoración y el servicio a Dios. Es una práctica importante que puede ayudar a las personas mientras oran.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

@@ -11,16 +11,7 @@
 "content": "<p>Kiongozi ambaye alifanya maamuzi ya sheria. Kila jamii nchini Israeli ilikuwa na majaji wa eneo. Kulikuwa pia na majaji kwenye hema takatifu na hekalu. Walifanya maamuzi kuhusu kesi ambazo zilikuwa ngumu kwa majaji wa eneo. Walawi waliwasaidia majaji kufanya maamuzi yao. Wafalme wa Israeli pia walihudumu kama majaji kwa kusikiliza na kuamua kesi. Majaji walipaswa kufanya kile kilicho sahihi na haki. Watu walipaswa kuwaheshimu na kutii maamuzi yao.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Judge",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Judge"
-}
-]
+"resource": []
 }
 },
 {
@@ -35,8 +26,7 @@
 "content": "<p>Nyakati ambapo watu lazima wafanye uchaguzi mgumu. Lazima wachague kati ya kumtii Mungu au kufanya wanachotaka kufanya. Uchaguzi wanaofanya unaonyesha kama wanamwamini Mungu kuwapa wanachohitaji. Kusudi la jaribio sio kusababisha watu wafanye makosa au kuteseka. Kusudi ni kwao kupokea neema zaidi ya Mungu. Mungu huwajaribu watu ili kuimarisha imani yao kwake</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -51,16 +41,7 @@
 "content": "<p>Mahali pa uharibifu kamili kwa wale wanaokataa kuwa sehemu ya ufalme wa Mungu.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Hell",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Hell"
-}
-]
+"resource": []
 }
 },
 {
@@ -75,23 +56,7 @@
 "content": "<p>Katika nyakati na maeneo ya Biblia, majina yalikuwa muhimu sana. Yalikuwa na maana zaidi ya njia ya kumzungumzia mtu; yalikuwa njia ya kuonyesha mtu alikuwa nani na alikuwa vipi. Hii ilieleweka kuwa kweli kuhusu Mungu pia. Kusema chochote kuhusu jina la Mungu ilikuwa njia ya kusema kitu kuhusu Mungu mwenyewe. Kumwamini jina la Mungu ilikuwa sawa na kumwamini Mungu.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Name",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Name"
-},
-{
-"id": "person:Naam",
-"type": "person",
-"confidence": 0.964,
-"match_method": "embedding",
-"preferred_label": "Naamu"
-}
-]
+"resource": []
 }
 },
 {
@@ -103,19 +68,18 @@
 "index_reference": "jirani",
 "language": "swh",
 "review_level": "None",
-"content": "<p>Katika Biblia, jirani ni njia ya kuzungumzia watu wengine. Watu kutoka ukoo wa Yakobo walielewa kwamba Waisraeli wengine wote walikuwa majirani zao. Waliwatendea vizuri zaidi kuliko walivyowatendea wageni. (<data class=\"resource-ref\" data-content-id=\"108369\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Mgeni</data>) Katika Agano Jipya, Yesu alifundisha kwamba wanadamu wote ni majirani kwa kila mmoja. Watu wote wanapaswa kutendewa kwa upendo na heshima.</p>",
+"content": "<p>Katika Biblia, jirani ni njia ya kuzungumzia watu wengine. Watu kutoka ukoo wa Yakobo walielewa kwamba Waisraeli wengine wote walikuwa majirani zao. Waliwatendea vizuri zaidi kuliko walivyowatendea wageni. (<data class=\"resource-ref\" data-content-id=\"367860\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"swh\">Mgeni</data>) Katika Agano Jipya, Yesu alifundisha kwamba wanadamu wote ni majirani kwa kila mmoja. Watu wote wanapaswa kutendewa kwa upendo na heshima.</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108369,
-"content_id": 367860,
+"reference_id": "108369",
+"content_id": "367860",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Mgeni",
 "language": "swh"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -130,58 +94,7 @@
 "content": "<p>Viongozi wa Kiyahudi waliorudi Yuda kutoka uhamishoni Babeli. Waliwaongoza watu wa Mungu kujenga upya hekalu huko Yerusalemu. Yoshua, mwana wa Yozadaki, alihudumu kama kuhani mkuu katika hekalu la pili. Huyu Yoshua ni tofauti na yule aliyeongoza Waisraeli baada ya Musa. Zerubabeli alihudumu kama gavana wa Yuda chini ya utawala wa Uajemi. Alikuwa mwana wa Shealtieli na alitoka katika ukoo wa Daudi. Yesu anatoka katika ukoo wa Zerubabeli.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Joshua.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yoshua"
-},
-{
-"id": "person:Joshua.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yoshua"
-},
-{
-"id": "person:Joshua.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yoshua"
-},
-{
-"id": "person:Joshua.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yoshua"
-},
-{
-"id": "person:Joshua",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Yoshua"
-},
-{
-"id": "person:Zerubbabel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zerubabeli"
-},
-{
-"id": "person:Zerubbabel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zerubabeli"
-}
-]
+"resource": []
 }
 }
 ]

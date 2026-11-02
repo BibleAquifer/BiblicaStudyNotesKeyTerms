@@ -11,16 +11,7 @@
 "content": "<p>羅馬領土中靠近加拉太小亞細亞的地區。</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Phrygia",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Phrygia"
-}
-]
+"resource": []
 }
 },
 {
@@ -32,19 +23,18 @@
 "index_reference": "福音",
 "language": "zht",
 "review_level": "None",
-"content": "<p>一個來自希臘文的詞語，意思是好消息。它也是聖經中關於耶穌基督的生平和事工的那些著作的總稱。新約中的四本福音書是馬太福音、馬可福音、路加福音和約翰福音。福音書講述了關於耶穌的好消息。作者所寫的福音書是根據見證人提供的記錄和故事。這些見證人曾與耶穌住在一起並與祂一起作工。（<data class=\"resource-ref\" data-content-id=\"108043\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">好消息</data>）</p>",
+"content": "<p>一個來自希臘文的詞語，意思是好消息。它也是聖經中關於耶穌基督的生平和事工的那些著作的總稱。新約中的四本福音書是馬太福音、馬可福音、路加福音和約翰福音。福音書講述了關於耶穌的好消息。作者所寫的福音書是根據見證人提供的記錄和故事。這些見證人曾與耶穌住在一起並與祂一起作工。（<data class=\"resource-ref\" data-content-id=\"232644\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"zht\">好消息</data>）</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108043,
-"content_id": 232644,
+"reference_id": "108043",
+"content_id": "232644",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "好消息",
 "language": "zht"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -59,16 +49,7 @@
 "content": "<p>神的一個名字。父是神，就像耶穌是神，聖靈也是神。他們是獨一真神的三個位格。神在出埃及期間顯示自己是以色列的父，並稱以色列為祂的兒子。後來，神顯示自己是耶穌的父。耶穌表明神是所有屬於神家庭之人的父。</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "LORD"
-}
-]
+"resource": []
 }
 },
 {
@@ -83,8 +64,7 @@
 "content": "<p>父親在臨終前對孩子們說的最後話語。父親會說出他對孩子們未來生活的期望或希望。這通常包括成功、財富和權柄的祝福。長子通常會得到最大的祝福。</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -99,16 +79,7 @@
 "content": "<p>從死裡復活。猶太人對於人死後是否會復活存在分歧。耶穌曾使一些死去的人復活。然而，那些人並沒有永遠活著，他們後來又死了。這不是耶穌的情況。在耶穌的復活中，神使祂從死裡復活，永遠活著，耶穌再也沒有死過。神有一天會使所有死去的人復活。</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "keyterm:Resurrection",
-"type": "keyterm",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Resurrection"
-}
-]
+"resource": []
 }
 }
 ]

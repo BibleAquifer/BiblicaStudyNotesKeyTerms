@@ -11,37 +11,7 @@
 "content": "<p>De titel voor de heerser met de meeste autoriteit in de gebieden die door de Romeinse regering werden gecontroleerd, was &quot;Caesar.&quot; Julius Caesar was de eerste die deze titel gebruikte. De heersers die na hem kwamen, gebruikten deze titel ook. De Caesars na Julius waren keizers van Rome. Bijna alle Caesars behandelden de mensen over wie ze regeerden zeer slecht. Caesar Augustus was de keizer toen Jezus werd geboren. De Romeinen vereerden de keizer als heer en als de zoon van de goden. Degenen die weigerden de keizer te aanbidden, werden slecht behandeld. Ze mochten niet kopen en verkopen op de markt. De aankondiging dat Jezus Heer en Gods Zoon is, daagde de autoriteit van de Romeinse heerser uit.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Claudius",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Claudius"
-},
-{
-"id": "person:Nero",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Nero"
-},
-{
-"id": "person:Tiberius",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Tiberius"
-},
-{
-"id": "person:Augustus",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Augustus"
-}
-]
+"resource": []
 }
 },
 {
@@ -56,23 +26,7 @@
 "content": "<p>De hoofdstad van de Romeinse provincie Judea in Israël, lag aan de kust van de Middellandse Zee. Herodes de Grote liet deze stad bouwen.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Caesarea.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Caesarea"
-},
-{
-"id": "place:Caesarea",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Caesarea"
-}
-]
+"resource": []
 }
 },
 {
@@ -87,16 +41,7 @@
 "content": "<p>Een stad in Galilea. Twee van de zeven tekenen in het evangelie van Johannes vonden daar plaats. De discipel Nathanaël kwam uit Kana.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Cana",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cana"
-}
-]
+"resource": []
 }
 },
 {
@@ -111,30 +56,7 @@
 "content": "<p>De jongste zoon van Noach. Hij en zijn vrouw werden gered van de zondvloed omdat ze in de ark waren. Hij toonde geen respect voor zijn vader toen Noach dronken werd na de zondvloed. Hierdoor sprak Noach een vloek uit over een deel van Chams familie in plaats van een zegen.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Ham",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ham"
-},
-{
-"id": "place:Ham.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ham"
-},
-{
-"id": "place:Ammon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ammon"
-}
-]
+"resource": []
 }
 },
 {
@@ -146,25 +68,23 @@
 "index_reference": "christus",
 "language": "nld",
 "review_level": "None",
-"content": "<p>Het woord in de Griekse taal voor messias of gezalfde. Toen Jezus op aarde leefde, begonnen veel Joden te geloven dat hij de Messias is. Daarom wordt Hij Jezus Christus genoemd. (<data class=\"resource-ref\" data-content-id=\"108527\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Messias</data>, <data class=\"resource-ref\" data-content-id=\"108219\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">Jezus</data>)</p>",
+"content": "<p>Het woord in de Griekse taal voor messias of gezalfde. Toen Jezus op aarde leefde, begonnen veel Joden te geloven dat hij de Messias is. Daarom wordt Hij Jezus Christus genoemd. (<data class=\"resource-ref\" data-content-id=\"132473\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"eng\">Messias</data>, <data class=\"resource-ref\" data-content-id=\"778783\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"nld\">Jezus</data>)</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108219,
-"content_id": 778783,
+"reference_id": "108527",
+"content_id": "132473",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "Messias",
+"language": "eng"
+},
+{
+"reference_id": "108219",
+"content_id": "778783",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "Jezus",
 "language": "nld"
-}
-],
-"acai": [
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jesus"
 }
 ]
 }
@@ -181,16 +101,7 @@
 "content": "<p>Een Romeinse legercommandant die in Caesarea woonde. Hoewel hij geen Jood was, aanbad hij de God van Israël. Hij en zijn familie waren enkele van de eerste heidenen die de Joodse Messias Jezus volgden.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Cornelius",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cornelius"
-}
-]
+"resource": []
 }
 },
 {
@@ -205,16 +116,7 @@
 "content": "<p>Een groot eiland in de Middellandse Zee, gelegen ten westen van Syrië en ten zuiden van Turkije. Profeten in het Oude Testament noemden Cyprus. Het eiland speelde een belangrijke rol tijdens Paulus&apos; eerste reis om het goede nieuws te verspreiden. De gelovigen Barnabas en Mnason kwamen uit Cyprus.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Cyprus",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cyprus"
-}
-]
+"resource": []
 }
 }
 ]

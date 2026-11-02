@@ -8,47 +8,46 @@
 "index_reference": "ثالوث",
 "language": "arb",
 "review_level": "None",
-"content": "<p>هناك إله واحد حقيقي. الإله الواحد والأوحد هو ثلاثة أقانيم. هذا هو الثالوث. الثلاثة أقانيم هم الله الآب (<data class=\"resource-ref\" data-content-id=\"108199\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">الله</data>, <data class=\"resource-ref\" data-content-id=\"108312\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">الآب</data>), يسوع الابن (<data class=\"resource-ref\" data-content-id=\"108219\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">يسوع</data>, <data class=\"resource-ref\" data-content-id=\"108526\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">ابن الله</data>) والروح القدس (<data class=\"resource-ref\" data-content-id=\"108388\" data-resource-code=\"BiblicaStudyNotesKeyTerms\">الروح القدس</data>).</p>",
+"content": "<p>هناك إله واحد حقيقي. الإله الواحد والأوحد هو ثلاثة أقانيم. هذا هو الثالوث. الثلاثة أقانيم هم الله الآب (<data class=\"resource-ref\" data-content-id=\"134001\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"arb\">الله</data>, <data class=\"resource-ref\" data-content-id=\"134114\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"arb\">الآب</data>), يسوع الابن (<data class=\"resource-ref\" data-content-id=\"134021\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"arb\">يسوع</data>, <data class=\"resource-ref\" data-content-id=\"134328\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"arb\">ابن الله</data>) والروح القدس (<data class=\"resource-ref\" data-content-id=\"134190\" data-resource-code=\"BiblicaStudyNotesKeyTerms\" data-language=\"arb\">الروح القدس</data>).</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
-"reference_id": 108199,
-"content_id": 134001,
+"reference_id": "108199",
+"content_id": "134001",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "الله",
 "language": "arb"
 },
 {
-"reference_id": 108219,
-"content_id": 134021,
-"resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "يسوع",
-"language": "arb"
-},
-{
-"reference_id": 108312,
-"content_id": 134114,
+"reference_id": "108312",
+"content_id": "134114",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "الآب",
 "language": "arb"
 },
 {
-"reference_id": 108388,
-"content_id": 134190,
+"reference_id": "108219",
+"content_id": "134021",
 "resource_code": "BiblicaStudyNotesKeyTerms",
-"label": "الروح القدس",
+"label": "يسوع",
 "language": "arb"
 },
 {
-"reference_id": 108526,
-"content_id": 134328,
+"reference_id": "108526",
+"content_id": "134328",
 "resource_code": "BiblicaStudyNotesKeyTerms",
 "label": "ابن الله",
 "language": "arb"
+},
+{
+"reference_id": "108388",
+"content_id": "134190",
+"resource_code": "BiblicaStudyNotesKeyTerms",
+"label": "الروح القدس",
+"language": "arb"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -63,44 +62,7 @@
 "content": "<p>زوجة ابن يهوذا. أول زوجين لها كانا ابنيّ يهوذا لكنهما ماتا. بعد ذلك، نام يهوذا مع ثَامَار دون أن يعرف من هي. فحملت وأنجبت توأمين. يسوع من نسل فَارَصَ ابن ثَامَار. هذه ثَامَار مختلفة عن ابنة الملك داود.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Tamar.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "ثَامَارَ"
-},
-{
-"id": "person:Tamar.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "ثَامَارَ"
-},
-{
-"id": "person:Tamar",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "ثَامَارَ"
-},
-{
-"id": "place:Tamar.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "ثَامَارَ"
-},
-{
-"id": "place:Tadmor",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "تَدْمرَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -115,16 +77,7 @@
 "content": "<p>ابنة داود ومعكة. كان لها هي وأبشالوم نفس الأبوين. كان لها هي وأمنون نفس الأب. اغتصب أمنون ثامار عندما كانت عذراء. ثم طردها من بيته. في تلك الأيام، كان هذا بمثابة طلاقها. جَلَبَ اغتصابها ثم عدم زواجها العار لثامار في مجتمعها. كان ذلك يعني أنها ربما لن تتزوج أو تنجب عائلة خاصة بها. عاشت مع أبشالوم بعد حدوث ذلك.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Tamar",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "ثَامَارَ"
-}
-]
+"resource": []
 }
 },
 {
@@ -139,16 +92,7 @@
 "content": "<p> الشخص الذي وجّه إليه لوقا إنجيله وسفر الأعمال. اسم ثَاوُفِيلُس يعني محبوب من الله. ما كتبه لوقا يمكن أن يساعد أي شخص يEحب الله. ربما استخدم لوقا اسم ثَاوُفِيلُس ليتحدث عن مسيحي آخر. ربما فعل ذلك ليحفظ اسم الشخص سراً لحمايته. دعا لوقا ثَاوُفِيلُس بالعزيز. قد يعني هذا أن ثَاوُفِيلُس كان مسؤولاً في الحكومة الرومانية.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Theophilus",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "ثَاوفِيلس"
-}
-]
+"resource": []
 }
 },
 {
@@ -163,8 +107,7 @@
 "content": "<p>زار إبراهيم ثلاثة رجال بأجساد بشرية. أكلوا وجبة أعدها إبراهيم وسارة. أخبروا إبراهيم وسارة أن إسحق سيولد خلال سنة. تحدثوا مع إبراهيم عن خطط الله لتدمير سدوم وعمورة. كان اثنان من هؤلاء الرجال من الملائكة. واصلا السفر إلى سدوم وعمورة لتدمير المدينتين وإنقاذ لوط. الرجل الآخر كان الله. الله كائن روحي. يمكنه أن يظهر للبشر. يمكنه أن يظهر بطريقة يرونه فيها ويتعرفون عليه.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -179,8 +122,7 @@
 "content": "<p>الطرق الإلهية التي يفكر بها الناس ويتحدثون ويتصرفون بها. تُظهر هذه الطرق أن الناس يفكرون ويتكلمون ويتصرفون كما فعل يسوع. الروح القدس يجعل الناس قادرين على القيام بذلك. لا يوجد عدد محدد لثمار الروح القدس. سرد بولس وبطرس أمثلة على ثمر الروح القدس في حياة المؤمنين. وهي تشمل المحبة، والفرح، والسلام، وطول أناة، ولُطف، وصلاح، ووداعة، وتَعَفُف. وتشمل المعرفة والتقوى. وتشمل أيضًا كل ما يظهر أن المؤمن يقتدي بيسوع.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -195,8 +137,7 @@
 "content": "<p>ملابس خاصة كان الكهنة يرتدونها عندما يعملون في خيمة الإجتماع أو الهيكل. تضمنت الملابس رِداءً خارجيًا ورِداءً داخليًا وسروال ومِنْطَقَةٌ. وكانت تتضمن عِمَامَةٌ عليها صَفِيحَةً مِنْ ذَهَبٍ. كانت ملابس رئيس الكهنة تتضمن قَمِيصٌ مُخَرَّمٌ كتان وقطعة قماش على الصدر. كان قماش الصدر يحمل الأوريم والتميم. كانت هذه أحجار كريمة تساعد الكاهن على معرفة إرادة الله في الأمور. ساعدت ملابس الكهنة على تمييز الكهنة عن غيرهم في عملهم من أجل الله.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -211,16 +152,7 @@
 "content": "<p>بلدة مهمة في الأراضي الرومانية في آسيا. إنها جزء من مدينة آق حصار فيما يُعرف اليوم  باسم تركيا. كانت ليديا من ثَيَاتِيرَا.</p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Thyatira",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "ثَيَاتِيرَا"
-}
-]
+"resource": []
 }
 }
 ]
